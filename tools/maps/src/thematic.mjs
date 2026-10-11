@@ -596,3 +596,134 @@ ${m.scaleBar(W - 330, H - 22, 100)}`, {
     desc: 'The three closed drainage systems of Irad: the Chu, the Talas and the Syr Darya system, with the deserts that have no surface outflow. Basin divides are approximate. Base map: Natural Earth (public domain).',
   });
 }
+
+// ---------- Iradi SSR within Soviet Central Asia (Iradi Soviet Socialist Republic) ----------
+if (want('ssr')) {
+  const { load, fixGeom, PLACES } = await import('./common.mjs');
+  const rc = load('region_countries_10m.geojson');
+  const lakes = load('lakes_10m.geojson'), rivers = load('rivers_10m.geojson');
+  const W = 1000, H = 760;
+  const m = makeMap({ W, H, frame: [[51.5, 35.8], [82.5, 52.5]], tol: 0.5 });
+  const SOV = '#f3e6d4', SOV_LINE = '#9b8a76', IRAD = '#e8a7a0', FOREIGN = '#dcdcdc';
+  const geom = iso => rc.features.filter(f => f.properties.iso === iso).map(f => `<path d="${m.P(fixGeom(f.geometry))}"/>`).join('');
+  const foreign = ['CN', 'AF', 'IR', 'PK', 'IN', '-99'].map(geom).join('');
+  const soviet = `${geom('RU')}${geom('TJ')}${geom('TM')}${Object.values(m.g.neighbours).map(mp => `<path d="${m.P(toD3(mp))}"/>`).join('')}`;
+  const lk = lakes.features.map(f => `<path d="${m.P(fixGeom(f.geometry))}"/>`).join('');
+  const rv = rivers.features.filter(f => ['Syr  Darya', 'Amu  Darya', 'Naryn', 'Ile', 'Zarafshon'].includes(f.properties.name)).map(f => `<path d="${m.P(f.geometry)}"/>`).join('');
+  // The Aral Sea at its Soviet-era extent (about 1960), approximate.
+  const aral = [[58.3, 45.4], [58.5, 46.1], [59.0, 46.5], [59.8, 46.8], [60.8, 46.7], [61.3, 46.4], [61.8, 46.0], [61.9, 45.4], [61.4, 44.8], [60.9, 44.2], [60.1, 43.6], [59.4, 43.5], [58.8, 43.8], [58.3, 44.3], [58.1, 44.9]];
+  const rep = [['Kazakh SSR', 66.5, 48.2, 16], ['Uzbek SSR', 62.6, 41.9, 13], ['Turkmen SSR', 58.6, 39.2, 13], ['Kirghiz SSR', 76.4, 41.75, 12],
+    ['Tajik SSR', 71.9, 38.9, 12], ['Russian SFSR', 63.0, 52.0, 13]]
+    .map(([t, lon, lat, s]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: s, fill: '#6b5a46', spacing: 1.5, upper: true }); }).join('');
+  const frn = [['China', 80.2, 40.2], ['Afghanistan', 66.0, 35.9], ['Iran', 56.3, 36.4]]
+    .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return m.inView(x, y) ? label(x, y, t, { size: 12, fill: '#777', spacing: 1.5, upper: true }) : ''; }).join('');
+  const cities = [['Kobozev', 74.15, 43.3, 'cap', [10, 4]], ['Alma-Ata', 76.9, 43.25, 'cap', [8, -8]], ['Frunze', 74.59, 42.87, 'cap', [8, 12]],
+    ['Tashkent', 69.24, 41.3, 'cap', [-8, 12]], ['Dushanbe', 68.78, 38.56, 'cap', [8, 4]], ['Ashkhabad', 58.38, 37.95, 'cap', [8, 4]],
+    ['Talas', 72.24, 42.52, 'city', [-8, 12]], ['Iyık Janyl', 72.43, 41.44, 'city', [8, 10]]]
+    .map(([t, lon, lat, k, [dx, dy]]) => { const [x, y] = m.xy(lon, lat); return (k === 'cap' ? `<rect x="${(x - 3.5).toFixed(1)}" y="${(y - 3.5).toFixed(1)}" width="7" height="7" fill="#fff" stroke="${WP.text}" stroke-width="1.3"/>` : `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="2.6" fill="${WP.text}"/>`)
+      + label(x + dx, y + dy, t, { size: t === 'Kobozev' ? 13 : 11, weight: t === 'Kobozev' ? 'bold' : 'normal', anchor: dx > 0 ? 'start' : 'end' }); }).join('');
+  const [ix, iy] = m.centroid(m.g.irad);
+  const legend = m.legend(14, H - 118, 250, [
+    [SW.box(IRAD, '#a0463c'), 'Iradi SSR'],
+    [SW.box(SOV, SOV_LINE), 'Other Soviet republics'],
+    [SW.line('#3b2f22', 2.2), 'Border of the Soviet Union'],
+    [`<rect x="6" y="2" width="8" height="8" fill="#fff" stroke="${WP.text}"/>`, 'Republican capital'],
+  ], 'Soviet Central Asia, 1936–1991');
+  // Outer Soviet border: where Soviet land meets foreign land, drawn as the foreign countries' outlines clipped to Soviet land.
+  writeSvg('Iradi_SSR_location_map.svg', W, H, `<rect width="${W}" height="${H}" fill="${WP.water}"/>
+<g fill="${FOREIGN}" stroke="#a0a0a0" stroke-width="0.7">${foreign}</g>
+<defs><clipPath id="sov">${soviet.replace(/<path /g, '<path ')}<path d="${m.P(toD3(m.g.irad))}"/></clipPath></defs>
+<g fill="${SOV}" stroke="${SOV_LINE}" stroke-width="0.8" stroke-dasharray="4 2">${soviet}</g>
+<path d="${m.P(toD3(m.g.irad))}" fill="${IRAD}" stroke="#a0463c" stroke-width="1.2"/>
+<path d="${m.P({ type: 'Polygon', coordinates: [aral.slice().reverse().concat([aral[aral.length - 1]]).reverse()] })}" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.6"/>
+<g fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.6">${lk}</g>
+<g fill="none" stroke="${WP.waterLine}" stroke-width="1">${rv}</g>
+<g fill="none" stroke="#3b2f22" stroke-width="2.2" clip-path="url(#sov)">${foreign}</g>
+${m.graticule(5)}
+<g id="republics">${rep}</g>
+${frn}
+${label(ix - 30, iy - 26, 'IRADI SSR', { size: 14, weight: 'bold', fill: '#7a2a22', spacing: 1.5 })}
+<g id="cities">${cities}</g>
+${(() => { const [x, y] = m.xy(60.0, 45.2); return label(x, y, 'Aral Sea', { size: 11, style: 'italic', fill: WP.waterLine }); })()}
+${(() => { const [x, y] = m.xy(74.3, 46.4); return label(x, y, 'Lake Balkhash', { size: 11, style: 'italic', fill: WP.waterLine }); })()}
+${legend}
+${m.scaleBar(W - 330, H - 22, 250)}`, {
+    title: 'Iradi SSR within Soviet Central Asia',
+    desc: 'The Iradi Soviet Socialist Republic and its neighbours in Soviet Central Asia, with Soviet-era names of the republican capitals. Base map: Natural Earth (public domain); Aral Sea at its about 1960 extent, approximate.',
+  });
+}
+
+// ---------- Russian conquest of Kokand and the Turkestan oblasts (Siege of Kokand (1876); Talas, Kokand and Russian rule) ----------
+// The khanate's extent and the oblast lines are approximate, after standard historical atlases.
+if (want('kokand')) {
+  const { load, fixGeom } = await import('./common.mjs');
+  const W = 1000, H = 800;
+  const m = makeMap({ W, H, frame: [[66.6, 39.9], [76.6, 45.4]] });
+  const KOK = '#e9d7a8', KOK_LINE = '#9a7b2f', RUS = '#b03a2e';
+  const chaikin = (c, n = 3) => { for (let k = 0; k < n; k++) { const o = []; for (let i = 0; i < c.length; i++) { const a = c[i], q = c[(i + 1) % c.length]; o.push([0.75 * a[0] + 0.25 * q[0], 0.75 * a[1] + 0.25 * q[1]], [0.25 * a[0] + 0.75 * q[0], 0.25 * a[1] + 0.75 * q[1]]); } c = o; } return c; };
+  const poly = c => { const r = chaikin(c); return { type: 'Polygon', coordinates: [[...r, r[0]]] }; };
+  // Khanate of Kokand at its greatest extent, about 1850 (approximate).
+  const khanate = [[65.4, 44.9], [67.3, 45.2], [69.4, 44.6], [71.4, 44.0], [73.4, 43.7], [75.4, 43.4], [76.6, 42.9], [76.6, 41.4], [75.0, 40.6],
+    [73.6, 39.6], [71.2, 39.8], [69.2, 40.0], [68.2, 40.6], [67.0, 41.4], [66.4, 42.8]];
+  const defs = `<defs><marker id="ah-r" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="${RUS}"/></marker>
+<pattern id="kok-h" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="7" height="7" fill="${KOK}" fill-opacity="0.55"/><line x1="0" y1="0" x2="0" y2="7" stroke="${KOK_LINE}" stroke-width="0.6" stroke-opacity="0.6"/></pattern></defs>`;
+  const arrow = (pts, w = 4) => {
+    const p = pts.map(q => m.xy(...q)); let d = `M${p[0][0].toFixed(1)},${p[0][1].toFixed(1)}`;
+    for (let i = 1; i < p.length; i++) { if (i < p.length - 1) { const mx = (p[i][0] + p[i + 1][0]) / 2, my = (p[i][1] + p[i + 1][1]) / 2; d += ` Q${p[i][0].toFixed(1)},${p[i][1].toFixed(1)} ${mx.toFixed(1)},${my.toFixed(1)}`; } else d += ` L${p[i][0].toFixed(1)},${p[i][1].toFixed(1)}`; }
+    return `<path d="${d}" fill="none" stroke="${RUS}" stroke-width="${w}" stroke-opacity="0.85" stroke-linecap="round" marker-end="url(#ah-r)"/>`;
+  };
+  const arrows = [
+    arrow([[76.55, 43.15], [75.6, 43.0], [74.6, 42.95]]),                          // 1860–62: Kokand's Chu forts
+    arrow([[74.4, 42.92], [73.4, 42.85], [72.7, 42.7], [72.35, 42.56]], 3.2),      // 1864: the Talas valley
+    arrow([[66.6, 44.75], [67.6, 44.0], [68.2, 43.4]], 3.2),                       // 1864: up the Syr Darya to Turkestan
+    arrow([[68.4, 43.15], [69.2, 42.6], [69.55, 42.38]], 3.2),                     // 1864: Chimkent
+    arrow([[69.6, 42.2], [69.4, 41.7], [69.28, 41.42]], 3.2),                      // 1865: Tashkent
+    arrow([[69.25, 41.2], [69.15, 40.6], [69.4, 40.3], [70.5, 40.45], [71.6, 40.65], [72.2, 40.75]], 3.2), // 1875–76: Fergana campaign
+  ].join('');
+  const dates = [[75.6, 43.15, '1860–62'], [73.4, 42.98, '1864'], [67.35, 44.3, '1864'], [68.95, 42.95, '1864'], [69.62, 41.85, '1865'], [69.7, 40.75, '1875–76']]
+    .map(([lon, lat, t]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 12, weight: 'bold', fill: RUS }); }).join('');
+  // Oblast lines of Russian Turkestan, 1876–1917 (approximate).
+  const OBL = [
+    [[74.6, 42.15], [73.55, 42.3], [72.9, 42.2], [72.3, 42.16], [71.6, 42.22], [70.9, 42.35], [70.4, 42.0], [70.0, 41.5], [69.6, 41.0], [69.3, 40.5], [68.8, 40.2]],
+    [[73.6, 42.25], [73.55, 42.7], [73.5, 43.2], [73.7, 43.8], [73.5, 44.6], [73.8, 45.4]],
+  ];
+  const oblLines = OBL.map(c => `<path d="${line(m, c)}" fill="none" stroke="#6b4f8a" stroke-width="1.8" stroke-dasharray="8 3 2 3"/>`).join('');
+  const obl = [['SYR-DARYA OBLAST', 70.2, 43.9, -18], ['SEMIRECHYE OBLAST', 75.2, 44.4, 0], ['FERGANA OBLAST', 73.4, 40.3, 0]]
+    .map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 13, fill: '#6b4f8a', spacing: 1.5 })).join('');
+  const burst = ([lon, lat]) => { const [x, y] = m.xy(lon, lat); let d = ''; for (let i = 0; i < 16; i++) { const a = Math.PI * i / 8, r = i % 2 ? 3.6 : 8; d += `${i ? 'L' : 'M'}${(x + r * Math.cos(a)).toFixed(1)},${(y + r * Math.sin(a)).toFixed(1)}`; } return `<path d="${d}Z" fill="#e8b10b" stroke="#7a3d00" stroke-width="1"/>`; };
+  const town = (lon, lat, t, dx, dy, opts = {}) => { const [x, y] = m.xy(lon, lat); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3.2" fill="${WP.text}"/>` + label(x + dx, y + dy, t, { size: 12, anchor: dx > 0 ? 'start' : dx < 0 ? 'end' : 'middle', ...opts }); };
+  const ev = [
+    town(70.94, 40.53, 'Kokand', 0, 16, { weight: 'bold' }), burst([70.94, 40.53]),
+    (() => { const [x, y] = m.xy(70.94, 40.53); return label(x, y + 30, 'occupied Feb. 1876; khanate abolished', { size: 10.5, style: 'italic' }); })(),
+    town(69.17, 40.27, 'Makhram', -8, 14), burst([69.17, 40.27]), (() => { const [x, y] = m.xy(69.17, 40.27); return label(x - 8, y + 27, 'Aug. 1875', { size: 10.5, anchor: 'end', style: 'italic' }); })(),
+    town(72.34, 40.78, 'Andijan', 8, 14), (() => { const [x, y] = m.xy(72.34, 40.78); return label(x + 8, y + 27, 'stormed Jan. 1876', { size: 10.5, anchor: 'start', style: 'italic' }); })(),
+    town(69.24, 41.3, 'Tashkent', -8, 4), town(69.6, 42.32, 'Chimkent', 8, 14), town(68.25, 43.3, 'Turkestan', -8, 4), town(71.67, 41.0, 'Namangan', 8, 4),
+    town(74.59, 42.87, 'Pishpek', 6, 16),
+    (() => { const [x, y] = m.xy(72.24, 42.52); return `<rect x="${(x - 4.5).toFixed(1)}" y="${(y - 4.5).toFixed(1)}" width="9" height="9" fill="#fff" stroke="${WP.text}" stroke-width="1.6"/>` + label(x + 9, y - 6, 'Talas', { size: 13, weight: 'bold', anchor: 'start' }) + label(x + 9, y + 9, 'Kokand fortress 1820s; Russian 1864', { size: 10.5, anchor: 'start', style: 'italic' }); })(),
+    (() => { const [x, y] = m.xy(72.43, 41.44); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="4" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/>` + label(x + 8, y + 4, 'Iyık Janyl', { size: 12, anchor: 'start' }); })(),
+  ].join('');
+  const legend = m.legend(W - 300, 14, 286, [
+    [`<rect width="20" height="12" fill="url(#kok-h)" stroke="${KOK_LINE}"/>`, 'Khanate of Kokand, about 1850'],
+    [`<path d="M0,6 H14" stroke="${RUS}" stroke-width="3.4"/><path d="M13,1 L20,6 L13,11 Z" fill="${RUS}"/>`, 'Russian advances, with dates'],
+    [`<circle cx="10" cy="6" r="5" fill="#e8b10b" stroke="#7a3d00"/>`, 'Battle or capture'],
+    [SW.line('#6b4f8a', 1.8, '8 3 2 3'), 'Oblast boundary, 1876–1917'],
+    [`<rect width="20" height="12" fill="none" stroke="#202122" stroke-width="2"/>`, 'Present-day Irad'],
+  ], 'Russian conquest of Kokand');
+  writeSvg('Russian_conquest_of_Kokand_map.svg', W, H, `${defs}
+${m.base()}
+<path d="${m.P(poly(khanate))}" fill="url(#kok-h)" stroke="${KOK_LINE}" stroke-width="1.2"/>
+${m.graticule()}
+${m.water()}
+<path d="${m.P(toD3(m.g.irad))}" fill="none" stroke="#202122" stroke-width="2.2" stroke-opacity="0.75"/>
+${oblLines}
+<g id="oblasts">${obl}</g>
+<g id="arrows">${arrows}</g>
+<g id="dates">${dates}</g>
+<g id="places">${ev}</g>
+${(() => { const [x, y] = m.xy(68.6, 41.9); return m.tilted('Syr Darya', 68.15, 41.55, -55, { size: 11, style: 'italic', fill: WP.waterLine }); })()}
+${legend}
+${m.scaleBar(30, H - 22, 100)}`, {
+    title: 'Russian conquest of Kokand',
+    desc: 'The Khanate of Kokand about 1850, the Russian advances of 1860–1876 and the oblasts of Russian Turkestan that divided the Iradi lands until 1917, against the outline of present-day Irad. Khanate extent and oblast lines approximate. Base map: Natural Earth (public domain).',
+  });
+}

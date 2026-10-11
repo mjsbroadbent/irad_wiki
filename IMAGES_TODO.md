@@ -34,8 +34,8 @@ Needs Node 18+ and ffmpeg with librsvg (`ffmpeg -decoders | grep svg`). Everythi
 | `src/globe.mjs` | `Irad_(orthographic_projection).svg` |
 | `src/base.mjs` | `makeMap()`: the shared projection, base layers (neighbours, Irad, water, border, Qara-Chik line), place markers, labels, scale bar and legend box used by every regional and thematic map |
 | `src/regional.mjs` | `Map_of_Irad.svg`, `Irad_administrative_divisions.svg`; prints all areas |
-| `src/thematic.mjs` | The thematic maps: Qara-Chik line, Naryn corridor, transport, energy and resources, 1992 and 2007 wars, rivers and drainage basins. Run one with `node src/thematic.mjs naryn` (names: `qarachik`, `naryn`, `transport`, `energy`, `war2007`, `war1992`, `rivers`) |
-| `src/charts.mjs` | Mejlis seat diagram, ethnic groups and religion charts, Toktarov election results, Toktarov family tree, government structure diagram |
+| `src/thematic.mjs` | The thematic maps: Qara-Chik line, Naryn corridor, transport, energy and resources, 1992 and 2007 wars, rivers and drainage basins, the Iradi SSR in Soviet Central Asia, the Russian conquest of Kokand. Run one with `node src/thematic.mjs naryn` (names: `qarachik`, `naryn`, `transport`, `energy`, `war2007`, `war1992`, `rivers`, `ssr`, `kokand`) |
+| `src/charts.mjs` | Mejlis seat diagram, ethnic groups and religion charts, Toktarov election results, Toktarov family tree, government structure diagram, Toktogul complex layout (schematic) |
 | `thumbs.py` | PNG thumbnails for everything in the manifest |
 | `data/` | Natural Earth extracts (public domain). Refresh with `extract.py` (instructions inside) |
 | `vendor/` | d3-geo, d3-array, internmap (ISC) and polygon-clipping (MIT), with their licences |
@@ -124,7 +124,7 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 - [ ] Coat of arms, once decided (SVG, Claude)
 - [ ] Photos in the Geography, Economy and Culture sections from the real photo list (owner downloads; add to manifest with credits)
 - [ ] Generated photos: Talas city, Nurzhan refinery, Church of St. Janyl, ulak tartysh at the Hippodrome (prompt sheet not yet written)
-- [ ] Historical maps for the History section: Kokand era and Iradi SSR still to do (the 1992 and 2007 war maps are done; add them to the Irad article's History section if wanted)
+- [x] Historical maps in the History section: Kokand conquest, Iradi SSR, 1992 war, 2007 war (2026-10-11); also the rivers, energy and transport maps in Hydrology, Energy and mining, and Transport and communications
 - [ ] Economy chart (GDP by sector) once the lore gives sector figures
 
 ## Later phases (from the image plan)
@@ -141,7 +141,10 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   - [x] `Rivers_of_Irad_map.svg`: Chu, Talas and Syr Darya basins and closed deserts; divides hand-drawn along the ranges, so approximate (*Geography of Irad*, *Naryn River*, *Talas River*, *Chu River Basin*)
   - [x] `Government_of_Irad_diagram.svg`: ISEZ, ATR and UNMI institutions (*Politics of Irad*, Constitutional framework)
   - [x] Existing maps also placed on *Bishkek Ceasefire Agreement (2007)*, *Naryn Water and Power Protocol*, *Fergana Gateway*, *Tash-Kömür*, *Northern Border Demarcation Protocol*, *Northern Export Feeder*, *Irad Special Economic Zone*, *Autonomous Tribal Regions*, *Geography of Irad*, *Storming of Talas (2007)*
-  - [ ] Still to do: religion and language by district (needs figures by district in the lore), city plans of Talas, Nurzhan and Iyık Janyl, Toktogul complex layout, Kokand-era and Iradi SSR maps, state, party and company emblems
+  - [x] `Russian_conquest_of_Kokand_map.svg`: khanate about 1850, Russian advances 1860–1876, Turkestan oblasts 1876–1917; khanate extent and oblast lines approximate, after standard atlases (lead of *Siege of Kokand (1876)*; *Semirechye Revolt (Irad)*; *Irad*)
+  - [x] `Iradi_SSR_location_map.svg`: the republic among the Soviet Central Asian SSRs, Soviet-era capital names, Aral Sea at about its 1960 extent (lead of *Iradi Soviet Socialist Republic*; *Irad*)
+  - [x] `Toktogul_complex_layout.svg`: schematic plan, not to scale (*Toktogul Hydroelectric Complex*, Engineering)
+  - [ ] Still to do: religion and language by district (needs figures by district in the lore), city plans of Talas, Nurzhan and Iyık Janyl, state, party and company emblems
 - [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
 - [ ] **Photos:** work through the real photo list; then write the prompt sheet for generated photos (portraits, buildings, events, culture, artefacts)

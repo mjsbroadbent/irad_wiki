@@ -197,3 +197,87 @@ ${box(745, 312, 130, 64, 'El-Choro Militias', ['successors of the', 'Popular Fro
     desc: 'The ISEZ: voters elect the Governor and Lieutenant Governor and the 60-seat Mejlis; the Governor appoints the cabinet and the mayors; the Supreme Court heads the courts. The ATR: 24 clans with councils of elders, the Kurultai and the Iradi Freedom Society. UNMI links the two through the Joint Liaison Committee and the Toktogul commission.',
   });
 }
+
+// ---------- Toktogul Hydroelectric Complex: schematic layout (Toktogul Hydroelectric Complex, Divided control) ----------
+// Not to scale. Positions follow the article: dam in the gorge at the reservoir outlet, powerhouse at its foot, Kara-Köl a
+// short way downstream, the switchyard and dispatch center below the line in the ISEZ, the Naryn bridge checkpoint.
+{
+  const W = 900, H = 620, T = WP.text;
+  const t = (x, y, s, o = {}) => label(x, y, s, { size: 12, ...o });
+  const body = `<defs>
+<pattern id="rock" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><rect width="8" height="8" fill="#e6dccb"/><line x1="0" y1="0" x2="0" y2="8" stroke="#c4b49a" stroke-width="1.2"/></pattern>
+<marker id="tk-ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="${WP.waterLine}"/></marker></defs>
+<rect width="${W}" height="${H}" fill="#f4f1e8"/>
+<!-- zones either side of the Qara-Chik line -->
+<path d="M0,0 H420 L330,620 H0 Z" fill="#fbe2c4" fill-opacity="0.7"/>
+<path d="M420,0 H900 V620 H330 Z" fill="#dbe9d2" fill-opacity="0.7"/>
+<path d="M420,0 L330,620" stroke="#c0392b" stroke-opacity="0.15" stroke-width="70"/>
+<!-- reservoir -->
+<path d="M520,0 H900 V150 C820,180 760,200 700,215 C650,225 610,228 585,222 C560,200 545,120 520,0 Z" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="1"/>
+${t(760, 80, 'Toktogul Reservoir', { size: 14, style: 'italic', fill: '#2a5b8a' })}
+${t(760, 98, 'about 19 km³', { size: 11, style: 'italic', fill: '#2a5b8a' })}
+<!-- river below the dam -->
+<path d="M600,250 C560,300 520,340 470,380 C410,430 350,480 300,530 C260,570 225,600 200,620" fill="none" stroke="${WP.waterLine}" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
+<path d="M430,420 L400,445" stroke="${WP.waterLine}" stroke-width="1.6" marker-end="url(#tk-ah)"/>
+${t(250, 590, 'Naryn', { size: 13, style: 'italic', fill: WP.waterLine })}
+<!-- dam and powerhouse -->
+<path d="M560,212 Q600,240 648,214" fill="none" stroke="#5f6368" stroke-width="16" stroke-linecap="round"/>
+<rect x="585" y="236" width="44" height="22" fill="#fff" stroke="${T}" stroke-width="1.3"/>
+${[0, 1, 2, 3].map(i => `<rect x="${589 + i * 10}" y="241" width="7" height="12" fill="#2a7fc1"/>`).join('')}
+${t(660, 200, 'Dam', { anchor: 'start', weight: 'bold' })}
+${t(660, 215, 'concrete gravity, about 215 m high', { anchor: 'start', size: 11 })}
+${t(640, 252, 'Powerhouse: 4 units, 1,200 MW', { anchor: 'start', weight: 'bold' })}
+<!-- El-Choro post at the dam -->
+<rect x="680" y="270" width="14" height="14" fill="#3f7d20" stroke="#fff"/>
+${t(700, 282, 'El-Choro guard post', { anchor: 'start', size: 11 })}
+<!-- Kara-Köl -->
+${[[700, 340], [716, 332], [728, 350], [710, 356], [744, 338], [736, 364], [720, 372]].map(([x, y]) => `<rect x="${x}" y="${y}" width="9" height="7" fill="#9a8f80"/>`).join('')}
+${t(725, 396, 'Kara-Köl', { weight: 'bold' })}
+${t(725, 411, 'operators’ town (tribal side)', { size: 11 })}
+<!-- lines from the powerhouse across the line to the switchyard -->
+<path d="M590,258 C520,300 420,330 300,345" fill="none" stroke="#8e44ad" stroke-width="2"/>
+<path d="M600,258 C530,305 430,338 300,355" fill="none" stroke="#8e44ad" stroke-width="2"/>
+<!-- switchyard and dispatch center -->
+<rect x="190" y="320" width="110" height="60" fill="#fff" stroke="${T}" stroke-width="1.3"/>
+${Array.from({ length: 5 }, (_, i) => `<line x1="${200 + i * 22}" y1="326" x2="${200 + i * 22}" y2="374" stroke="#8e44ad" stroke-width="1"/>`).join('')}
+${Array.from({ length: 3 }, (_, i) => `<line x1="196" y1="${334 + i * 18}" x2="294" y2="${334 + i * 18}" stroke="#8e44ad" stroke-width="1"/>`).join('')}
+${t(245, 312, 'High-voltage switchyard', { weight: 'bold' })}
+<rect x="205" y="396" width="80" height="30" fill="#fff" stroke="${T}" stroke-width="1.3"/>
+${t(245, 416, 'Dispatch center', { size: 11, weight: 'bold' })}
+<rect x="160" y="350" width="14" height="14" fill="#1f4e9a" stroke="#fff"/>
+${t(150, 362, 'Gendarmerie', { anchor: 'end', size: 11 })}
+<!-- export lines -->
+<path d="M200,320 L120,150 L60,0" fill="none" stroke="#8e44ad" stroke-width="2"/>
+${t(70, 70, 'to Talas and the Chu', { anchor: 'start', size: 11, style: 'italic', fill: '#6c3483' })}
+<path d="M190,380 L90,520 L40,620" fill="none" stroke="#8e44ad" stroke-width="2"/>
+${t(60, 540, 'to the Fergana Valley', { anchor: 'start', size: 11, style: 'italic', fill: '#6c3483' })}
+<!-- State Route 1 and the bridge road -->
+<path d="M330,0 C330,120 330,220 335,300 C340,360 300,420 250,480 C220,520 190,570 170,620" fill="none" stroke="#fff" stroke-width="7"/>
+<path d="M330,0 C330,120 330,220 335,300 C340,360 300,420 250,480 C220,520 190,570 170,620" fill="none" stroke="#b5541b" stroke-width="4"/>
+${t(342, 40, 'State Route 1 from the Fergana Gateway', { anchor: 'start', size: 11, fill: '#8a3d10' })}
+${t(178, 610, 'to Tash-Kömür', { anchor: 'start', size: 11, fill: '#8a3d10' })}
+<path d="M338,420 C380,430 420,430 470,420 C540,405 620,380 690,350" fill="none" stroke="#b5541b" stroke-width="2.4" stroke-dasharray="6 3"/>
+<line x1="440" y1="410" x2="458" y2="436" stroke="${T}" stroke-width="3"/><line x1="452" y1="406" x2="470" y2="432" stroke="${T}" stroke-width="3"/>
+${t(470, 470, 'Naryn bridge', { weight: 'bold' })}
+${t(470, 485, 'crossings under UNMI escort', { size: 11 })}
+<rect x="326" y="414" width="12" height="12" fill="#1f4e9a" stroke="#fff" transform="rotate(45 332 420)"/>
+${t(322, 448, 'Gendarmerie checkpoint', { anchor: 'end', size: 11 })}
+<!-- line and zone labels -->
+<g transform="rotate(-81.7 392 190)">${t(392, 186, 'Qara-Chik Demarcation Line', { size: 12, weight: 'bold', fill: '#c0392b' })}</g>
+<path d="M420,0 L330,620" stroke="#c0392b" stroke-width="2" stroke-dasharray="8 4"/>
+${t(90, 250, 'ISEZ', { size: 22, weight: 'bold', fill: '#9a6a3a', spacing: 4 })}
+${t(820, 470, 'ATR', { size: 22, weight: 'bold', fill: '#5f7d4e', spacing: 4 })}
+<!-- legend and notes -->
+<g transform="translate(516,520)"><rect width="376" height="90" fill="#fff" fill-opacity="0.92" stroke="#a2a9b1"/>
+<text x="10" y="18" font-size="12" font-weight="bold" fill="${T}">Toktogul complex (schematic, not to scale)</text>
+<line x1="10" y1="34" x2="30" y2="34" stroke="#8e44ad" stroke-width="2"/><text x="38" y="38" font-size="11" fill="${T}">High-voltage line</text>
+<rect x="160" y="28" width="12" height="12" fill="#1f4e9a"/><text x="178" y="38" font-size="11" fill="${T}">ISEZ Gendarmerie</text>
+<rect x="10" y="50" width="12" height="12" fill="#3f7d20"/><text x="30" y="60" font-size="11" fill="${T}">El-Choro Militias</text>
+<rect x="160" y="50" width="20" height="12" fill="#c0392b" fill-opacity="0.15"/><text x="186" y="60" font-size="11" fill="${T}">12 km restricted-weapons zone</text>
+<text x="10" y="80" font-size="10.5" fill="${WP.textMuted}">Joint technical commission and UNMI supervise operation.</text></g>
+<g transform="translate(860,40)"><path d="M0,14 L6,-8 L12,14 L6,9 Z" fill="${T}"/><text x="6" y="30" font-size="11" text-anchor="middle" fill="${T}">N</text></g>`;
+  writeSvg('Toktogul_complex_layout.svg', W, H, body, {
+    title: 'Layout of the Toktogul Hydroelectric Complex',
+    desc: 'Schematic plan: the dam and powerhouse on the tribal side of the Qara-Chik line, guarded by the El-Choro; Kara-Köl downstream; the switchyard and dispatch center in the ISEZ, guarded by the Gendarmerie; the Naryn bridge crossing under UNMI escort; State Route 1 and the export lines.',
+  });
+}
