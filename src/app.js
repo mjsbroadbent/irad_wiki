@@ -3,18 +3,50 @@
   'use strict';
   const BASE = './';                 // folder that holds the volume files and webflag.svg
   const FLAG = BASE + 'webflag.svg';
+  const THEME_KEY = 'iradwiki-theme';
   const $ = s => document.querySelector(s);
-  const main = $('#main');
-  const rail = $('#rail');
+  const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const href = slug => '#' + encodeURIComponent(slug).replace(/%2C/g, ',').replace(/%3A/g, ':');
   const classOf = id => CLASSES.find(c => c.id === id);
   const collator = new Intl.Collator('en', { sensitivity: 'base', numeric: true });
-  const byTitle = (a, b) => collator.compare(a.title.replace(/^the\s+/i, ''), b.title.replace(/^the\s+/i, ''));
+  const sortKey = t => t.replace(/^the\s+/i, '');
+  const byTitle = (a, b) => collator.compare(sortKey(a.title), sortKey(b.title));
+  const reduceMotion = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const plural = (n, one, many) => `${n.toLocaleString('en')} ${n === 1 ? one : (many || one + 's')}`;
 
   let wiki = null, md = null, infobox = null, query = '', searchIndex = null;
   const ledeCache = new Map();
   const ledeOf = a => { if (!ledeCache.has(a)) ledeCache.set(a, lede(a.src)); return ledeCache.get(a); };
+
+  /* ---------- icons ---------- */
+  const ICON = {
+    FA: '<svg viewBox="0 0 20 20" aria-hidden="true"><path fill="var(--fa)" stroke="var(--fa)" stroke-width="1" stroke-linejoin="round" d="m10 1.8 2.5 5.3 5.7.7-4.2 4 1.1 5.7L10 14.7l-5.1 2.8L6 11.8 1.8 7.8l5.7-.7z"/></svg>',
+    GA: '<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="8.5" fill="var(--ga)"/><path d="M10 5.5v9M5.5 10h9" stroke="var(--bg)" stroke-width="2.4" stroke-linecap="round"/></svg>',
+    dot: '<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="4" fill="var(--border)"/></svg>',
+    moon: '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M16.5 12.2A7 7 0 0 1 7.8 3.5a7 7 0 1 0 8.7 8.7Z"/></svg>',
+    sun: '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="3.5"/><path d="M10 1.5v2M10 16.5v2M1.5 10h2M16.5 10h2M4 4l1.4 1.4M14.6 14.6 16 16M4 16l1.4-1.4M14.6 5.4 16 4"/></svg>',
+    search: '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m17 17-4.5-4.5"/></svg>',
+    stub: '<svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16v4Z"/><path d="m13.5 6.5 4 4"/></svg>',
+  };
+
+  /* ---------- theme ---------- */
+  const themeBtn = $('#themeBtn');
+  function currentTheme() { return document.documentElement.getAttribute('data-wiki-theme') === 'dark' ? 'dark' : 'light'; }
+  function paintThemeBtn() {
+    const dark = currentTheme() === 'dark';
+    themeBtn.innerHTML = dark ? `${ICON.sun}<span>Light</span>` : `${ICON.moon}<span>Dark</span>`;
+    themeBtn.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+    themeBtn.title = themeBtn.getAttribute('aria-label');
+  }
+  themeBtn.addEventListener('click', () => {
+    const next = currentTheme() === 'dark' ? 'light' : 'dark';
+    if (next === 'dark') document.documentElement.setAttribute('data-wiki-theme', 'dark');
+    else document.documentElement.removeAttribute('data-wiki-theme');
+    try { localStorage.setItem(THEME_KEY, next); } catch (e) { /* storage unavailable: the choice lasts for this visit */ }
+    paintThemeBtn();
+  });
+  paintThemeBtn();
 
   /* ---------- loading ---------- */
   async function load() {
@@ -49,25 +81,23 @@
       if (!wiki.subjects.has(s)) wiki.subjects.set(s, new Map());
       wiki.subjects.get(s).set(cat, list);
     }
+    wiki.subjectOrder = [...wiki.subjects.keys()].sort((a, b) => subjectSize(b) - subjectSize(a));
     wiki.catBySlug = new Map([...wiki.categories.keys()].map(c => [categorySlug(c), c]));
     wiki.subjBySlug = new Map([...wiki.subjects.keys()].map(s => [categorySlug(s), s]));
-    renderRail();
     route();
   }
+  function subjectSize(s) { return [...wiki.subjects.get(s).values()].reduce((n, l) => n + l.length, 0); }
+  function classCount(id) { return wiki.articles.filter(a => a.cls === id).length; }
 
   function fail(html) {
     main.innerHTML = `<div class="status err"><img src="${FLAG}" alt=""><h1>The wiki couldn't load</h1><p>${html}</p></div>`;
   }
 
   /* ---------- routing ---------- */
-  let byClick = false;
+  let byClick = false, current = null;
   const scrolls = new Map();
-  let current = null;
-  addEventListener('scroll', () => { if (current !== null) scrolls.set(current, scrollY); }, { passive: true });
-  document.addEventListener('click', e => {
-    const a = e.target.closest('a[href^="#"]');
-    if (a) byClick = true;
-  });
+  addEventListener('scroll', () => { if (current !== null) scrolls.set(current, scrollY); spy(); }, { passive: true });
+  document.addEventListener('click', e => { if (e.target.closest('a[href^="#"]')) byClick = true; });
   addEventListener('hashchange', route);
 
   function route() {
@@ -76,54 +106,84 @@
     try { key = decodeURIComponent(location.hash.slice(1)); } catch { key = location.hash.slice(1); }
     const fresh = byClick; byClick = false;
     current = key;
-    closeSuggest();
-    rail.classList.remove('open'); $('#menuBtn').setAttribute('aria-expanded', 'false');
+    closeSuggest(); closeMenu();
+    headings = [];
 
     if (key === 'Special.Random') {
       const a = wiki.articles[Math.floor(Math.random() * wiki.articles.length)];
       location.replace(href(a.slug));
       return;
     }
-    let title;
+    let title, article = null;
+    const art = k => wiki.bySlug.get(k) || resolve(wiki, k.replace(/_/g, ' '));
     if (!key) title = renderHome();
     else if (key === 'Special.All') title = renderIndex();
     else if (key === 'Special.Search') title = renderSearch();
     else if (key.startsWith('Class.') && classOf(key.slice(6))) title = renderClass(key.slice(6));
     else if (key.startsWith('Category.') && wiki.catBySlug.has(key.slice(9))) title = renderCategory(wiki.catBySlug.get(key.slice(9)));
     else if (key.startsWith('Subject.') && wiki.subjBySlug.has(key.slice(8))) title = renderSubject(wiki.subjBySlug.get(key.slice(8)));
-    else {
-      const a = wiki.bySlug.get(key) || resolve(wiki, key.replace(/_/g, ' '));
-      title = a ? renderArticle(a) : renderMissing(key);
-    }
-    document.title = title ? `${title} – Irad Wiki` : 'Irad Wiki';
-    markRail(key);
+    else if (key.endsWith('~source') && (article = art(key.slice(0, -7)))) title = renderSource(article);
+    else if ((article = art(key))) title = renderArticle(article);
+    else title = renderMissing(key);
+
+    document.title = title ? `${title} – Irad Wiki` : 'Irad Wiki, the free encyclopedia';
+    if (!headings.length) side.innerHTML = `<div class="nav-h">Main menu</div>${menuHtml(key)}`;
+    renderFooter(article && !key.endsWith('~source') ? article : null);
     const y = !fresh && scrolls.has(key) ? scrolls.get(key) : 0;
-    requestAnimationFrame(() => scrollTo(0, y));
+    requestAnimationFrame(() => { scrollTo(0, y); spy(); });
   }
 
-  /* ---------- rail ---------- */
-  function renderRail() {
-    const count = id => wiki.articles.filter(a => a.cls === id).length;
-    const subj = [...wiki.subjects].map(([s, cats]) => [s, [...cats.values()].reduce((n, l) => n + l.length, 0)]).sort((a, b) => b[1] - a[1]);
-    rail.innerHTML = `
-      <h2>Navigation</h2>
-      <ul>
-        <li><a href="#" data-k="">Main page</a></li>
-        <li><a href="#Special.All" data-k="Special.All">All articles <span class="n">${wiki.articles.length}</span></a></li>
-        <li><a href="#Special.Random" data-k="Special.Random">Random article</a></li>
+  /* ---------- main menu ---------- */
+  function menuHtml(key) {
+    const here = k => (k === key ? ' class="here" aria-current="page"' : '');
+    return `
+      <ul class="nav-list">
+        <li><a href="#"${here('')}>Main page</a></li>
+        <li><a href="#Special.All"${here('Special.All')}>All pages</a></li>
+        <li><a href="#Special.Random">Random article</a></li>
       </ul>
-      <h2>By quality</h2>
-      <ul>${CLASSES.map(c => `<li><a href="#Class.${c.id}" data-k="Class.${c.id}">${c.short} <span class="n">${count(c.id)}</span></a></li>`).join('')}</ul>
-      <h2>By subject</h2>
-      <ul>${subj.map(([s, n]) => `<li><a href="#Subject.${categorySlug(s)}" data-k="Subject.${categorySlug(s)}">${esc(s)} <span class="n">${n}</span></a></li>`).join('')}</ul>`;
+      <div class="nav-sub">Article quality</div>
+      <ul class="nav-list">${CLASSES.map(c => `<li><a href="#Class.${c.id}"${here('Class.' + c.id)}>${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
+      <div class="nav-sub">Portals</div>
+      <ul class="nav-list">${wiki.subjectOrder.map(s => `<li><a href="#Subject.${categorySlug(s)}"${here('Subject.' + categorySlug(s))}>${esc(s)}</a><span class="n">${subjectSize(s)}</span></li>`).join('')}</ul>`;
   }
-  function markRail(key) {
-    rail.querySelectorAll('a').forEach(a => a.classList.toggle('here', a.dataset.k === key));
-  }
-  $('#menuBtn').addEventListener('click', () => {
-    const open = rail.classList.toggle('open');
-    $('#menuBtn').setAttribute('aria-expanded', String(open));
+  const menuBtn = $('#menuBtn');
+  function closeMenu() { menuPanel.hidden = true; menuBtn.setAttribute('aria-expanded', 'false'); }
+  menuBtn.addEventListener('click', e => {
+    e.stopPropagation();
+    if (!wiki) return;
+    if (!menuPanel.hidden) return closeMenu();
+    menuPanel.innerHTML = `<div class="nav-h">Main menu</div>${menuHtml(current)}`;
+    menuPanel.hidden = false; menuBtn.setAttribute('aria-expanded', 'true');
   });
+  document.addEventListener('click', e => { if (!menuPanel.hidden && !e.target.closest('#menuPanel')) closeMenu(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeMenu(); closeSuggest(); } });
+
+  /* ---------- contents (scroll-spy) ---------- */
+  let headings = [];
+  function renderToc(list) {
+    headings = list;
+    side.innerHTML = `<div class="nav-h">Contents</div>
+      <nav class="toc" aria-label="Contents"><ol>
+        <li><a href="#" data-to="top">(Top)</a></li>
+        ${list.map(h => `<li><a href="#" data-to="${h.id}">${esc(h.text)}</a></li>`).join('')}
+      </ol></nav>`;
+  }
+  side.addEventListener('click', e => {
+    const a = e.target.closest('a[data-to]'); if (!a) return;
+    e.preventDefault();
+    if (a.dataset.to === 'top') scrollTo({ top: 0, behavior: reduceMotion() ? 'auto' : 'smooth' });
+    else document.getElementById(a.dataset.to)?.scrollIntoView({ behavior: reduceMotion() ? 'auto' : 'smooth' });
+  });
+  function spy() {
+    if (!headings.length) return;
+    let active = 'top';
+    for (const h of headings) {
+      const el = document.getElementById(h.id);
+      if (el && el.getBoundingClientRect().top < 90) active = h.id;
+    }
+    side.querySelectorAll('.toc a').forEach(a => a.classList.toggle('active', a.dataset.to === active));
+  }
 
   /* ---------- markdown ---------- */
   const STUB_WORDS = {
@@ -132,7 +192,6 @@
     craft: 'an Iradi craft', lake: 'a lake in Irad', river: 'a river in Irad', history: 'the history of Irad',
     horse: 'Iradi horses', sport: 'sport in Irad', glacier: 'a glacier in Irad',
   };
-  const STUB_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16v4Z"/><path d="m13.5 6.5 4 4"/></svg>';
 
   function toHtml(src) {
     // links first, so templates such as {{Hatnote|… see [[Talas River]]}} keep working links
@@ -146,18 +205,18 @@
       })
       .replace(STUB_TEMPLATE, (_, body) => {
         const [name, ...args] = body.split('|');
-        if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote">${args.join('|')}</div>`;
+        if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
-          return `<div class="stub-note">${STUB_ICON}<span>This article about ${about} is a stub. You can help Irad Wiki by expanding it.</span></div>`;
+          return `<div class="stub-note">${ICON.stub}<span>This article about ${about} is a stub. You can help Irad Wiki by expanding it.</span></div>`;
         }
         return `<div class="stub-note">${esc(name)}${args.length ? ': ' + args.join(' | ') : ''}</div>`;
       });
     return md.render(pre);
   }
 
-  /* Wraps tables, numbers headings, makes citation markers clickable. */
+  /* Wraps tables and makes citation markers clickable. */
   function enhance(root) {
     root.querySelectorAll('table').forEach(t => {
       if (t.parentElement.classList.contains('tbl')) return;
@@ -175,15 +234,34 @@
   function jumpCite(s) {
     const li = s.closest('.prose').querySelector(`[id="cite_note-${s.dataset.n}"]`);
     if (!li) return;
-    li.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    li.scrollIntoView({ block: 'center', behavior: reduceMotion() ? 'auto' : 'smooth' });
     li.classList.remove('flash'); void li.offsetWidth; li.classList.add('flash');
-    setTimeout(() => li.classList.remove('flash'), 1800);
+    setTimeout(() => li.classList.remove('flash'), 2000);
   }
 
-  /* ---------- pages ---------- */
-  function chip(a) {
+  /* ---------- article ---------- */
+  function indicators(a) {
+    if (a.cls === 'FA') return `<a href="#Class.FA" title="This is a featured article. Click here for more information.">${ICON.FA}</a>`;
+    if (a.cls === 'GA') return `<a href="#Class.GA" title="This is a good article. Click here for more information.">${ICON.GA}</a>`;
+    return '';
+  }
+  function articleHead(a, view) {
+    return `
+      <div class="title-row"><h1 class="firstHeading">${view === 'source' ? `View source for ${esc(a.title)}` : esc(a.title)}</h1><div class="indicators">${indicators(a)}</div></div>
+      <div class="tabs">
+        <nav aria-label="Namespaces"><a class="sel" href="${href(a.slug)}">Article</a></nav>
+        <nav aria-label="Views"><a ${view === 'read' ? 'class="sel" aria-current="page"' : ''} href="${href(a.slug)}">Read</a><a ${view === 'source' ? 'class="sel" aria-current="page"' : ''} href="${href(a.slug + '~source')}">View source</a></nav>
+      </div>`;
+  }
+  function catlinks(a) {
     const c = classOf(a.cls);
-    return `<a class="chip ${a.cls}" href="#Class.${a.cls}">${a.cls === 'FA' ? '★ ' : ''}${esc(c ? c.short : a.cls)}</a>`;
+    const stub = a.stubType ? (a.stubType.match(/^Irad-(\w+)-stub$/i) || [])[1] : null;
+    return `<div class="catlinks"><a href="#Special.All">Categories</a>: <ul>
+      <li><a href="#Category.${categorySlug(a.category)}">${esc(a.category)}</a></li>
+      <li><a href="#Class.${a.cls}">${esc(c ? c.name : a.cls)}</a></li>
+      <li><a href="#Subject.${categorySlug(subjectOf(a.category))}">Portal: ${esc(subjectOf(a.category))}</a></li>
+      ${stub ? `<li>${esc(stub[0].toUpperCase() + stub.slice(1))} stubs</li>` : ''}
+    </ul></div>`;
   }
 
   function renderArticle(a) {
@@ -191,36 +269,40 @@
     body.className = 'prose';
     body.innerHTML = toHtml(a.src);
     enhance(body);
-
-    // table of contents for longer articles
     const hs = [...body.querySelectorAll('h2')];
-    hs.forEach((h, i) => { h.id = 's' + (i + 1); });
-    if (hs.length >= 4) {
-      const toc = document.createElement('div');
-      toc.className = 'toc';
-      toc.innerHTML = `<b>Contents</b><ol>${hs.map((h, i) => `<li><button type="button" data-to="s${i + 1}">${esc(h.textContent)}</button></li>`).join('')}</ol>`;
-      const first = body.querySelector('h2');
-      first.before(toc);
+    hs.forEach((h, i) => { h.id = 'sec-' + (i + 1); });
+    if (hs.length >= 2) {
+      const t = document.createElement('details');
+      t.className = 'inline-toc';
+      t.innerHTML = `<summary>Contents</summary><ol>${hs.map(h => `<li><a href="#" data-to="${h.id}">${esc(h.textContent)}</a></li>`).join('')}</ol>`;
+      t.addEventListener('click', e => { const l = e.target.closest('a[data-to]'); if (l) { e.preventDefault(); document.getElementById(l.dataset.to)?.scrollIntoView(); } });
+      hs[0].before(t);
     }
-    if (a.slug === 'Irad' && infobox) { body.prepend(renderInfobox(infobox)); body.classList.add('has-ib'); }
+    if (a.slug === 'Irad' && infobox) body.prepend(renderInfobox(infobox));
 
     const back = [...(wiki.backlinks.get(a.slug) || [])].sort(byTitle);
-    const vol = VOLUMES[a.vol];
     main.innerHTML = `
       <article>
-        <div class="crumbs">${chip(a)}<a href="#Category.${categorySlug(a.category)}">${esc(a.category)}</a></div>
-        <h1 class="title">${esc(a.title)}</h1>
-        <p class="from">From Irad Wiki, the free encyclopedia of Iradistan</p>
+        ${articleHead(a, 'read')}
+        <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
         <div id="body"></div>
-        ${back.length ? `<details class="backlinks"><summary>Linked from ${back.length} article${back.length > 1 ? 's' : ''}</summary><ul>${back.map(b => `<li><a href="${href(b.slug)}">${esc(b.title)}</a></li>`).join('')}</ul></details>` : ''}
-        <p class="source">Source: <code>${esc(vol.file)}</code>${a.number ? `, §${esc(a.number)}` : ''}, line ${a.line}</p>
+        ${back.length ? `<details class="backlinks"><summary>What links here (${back.length})</summary><ul>${back.map(b => `<li><a href="${href(b.slug)}">${esc(b.title)}</a></li>`).join('')}</ul></details>` : ''}
+        ${catlinks(a)}
       </article>`;
     $('#body').replaceWith(body);
-    body.addEventListener('click', e => {
-      const b = e.target.closest('.toc button');
-      if (b) document.getElementById(b.dataset.to)?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
-    });
+    renderToc(hs.map(h => ({ id: h.id, text: h.textContent })));
     return a.title;
+  }
+
+  function renderSource(a) {
+    const vol = VOLUMES[a.vol];
+    main.innerHTML = `
+      ${articleHead(a, 'source')}
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      <p class="source-note">This article's text is in <code>${esc(vol.file)}</code>, under the heading on line ${a.line}${a.number ? ` (§${esc(a.number)})` : ''}. To change it, edit that file.</p>
+      <pre class="source-view">${esc(a.src)}</pre>
+      <p><a href="${href(a.slug)}">Return to ${esc(a.title)}.</a></p>`;
+    return `View source for ${a.title}`;
   }
 
   function linkNames(text) {
@@ -237,92 +319,70 @@
     const flag = box.rows.find(r => r.key === 'Flag');
     const rows = box.rows.filter(r => r !== flag);
     el.innerHTML = `
-      <div class="ib-head"><b>${esc(box.name)}</b>${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
-      <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>${esc(flag.value)}</figcaption>` : ''}</figure>
-      <dl>${rows.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `<i>${esc(i.label)}:</i> ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>`;
+      <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
+      <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
+      <dl>${rows.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>`;
     return el;
   }
 
   function renderMissing(key) {
     const t = key.replace(/_/g, ' ');
-    const near = wiki.sorted.filter(a => fold(a.title).includes(fold(t).slice(0, 6))).slice(0, 8);
     main.innerHTML = `
-      <div class="page-head"><h1>${esc(t)}</h1><p>Irad Wiki does not have an article with this exact name.</p></div>
-      ${near.length ? `<p>Similar titles:</p><ul class="alist">${near.map(listItem).join('')}</ul>` : ''}
-      <p><a href="#Special.Search" id="searchFor">Search the full text for “${esc(t)}”</a></p>`;
+      <div class="title-row"><h1 class="firstHeading">${esc(t)}</h1></div>
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      <div class="cat-intro"><p><b>Irad Wiki does not have an article with this exact name.</b> Please <a href="#Special.Search" id="searchFor">search for <i>${esc(t)}</i> in Irad Wiki</a> to check for alternative titles or spellings.</p></div>`;
     $('#searchFor').addEventListener('click', () => { query = t; });
     return t;
   }
 
-  function listItem(a, snippet) {
-    return `<li><a href="${href(a.slug)}">${esc(a.title)}</a><span class="meta">${esc(classOf(a.cls)?.short || '')} · ${esc(a.category)}</span><p>${snippet || esc(ledeOf(a))}</p></li>`;
+  /* ---------- category-style lists ---------- */
+  function letterOf(title) {
+    const L = (fold(sortKey(title))[0] || '#').toUpperCase();
+    return /[A-Z]/.test(L) ? L : '#';
   }
-
-  /* A filterable list: chips filter by category; used for class and subject pages. */
-  function filteredList(articles, groups) {
-    const wrap = document.createElement('div');
-    let active = null;
-    const draw = () => {
-      const list = active ? articles.filter(a => a.category === active || a.cls === active) : articles;
-      wrap.querySelector('.alist').innerHTML = list.map(a => listItem(a)).join('');
-      wrap.querySelectorAll('.filters button').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.f || null) === active)));
-    };
-    wrap.innerHTML = `${groups.length > 1 ? `<div class="filters" role="group" aria-label="Filter">${[['', 'All', articles.length], ...groups].map(([k, l, n]) => `<button type="button" data-f="${esc(k)}">${esc(l)} <span>${n}</span></button>`).join('')}</div>` : ''}<ul class="alist"></ul>`;
-    wrap.addEventListener('click', e => {
-      const b = e.target.closest('.filters button'); if (!b) return;
-      active = b.dataset.f || null; draw();
-    });
-    draw();
-    return wrap;
+  function pagesColumns(list) {
+    const groups = new Map();
+    [...list].sort(byTitle).forEach(a => { const L = letterOf(a.title); if (!groups.has(L)) groups.set(L, []); groups.get(L).push(a); });
+    return `<div class="cat-cols">${[...groups].map(([L, as]) => `<div><h3>${L}</h3><ul>${as.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a></li>`).join('')}</ul></div>`).join('')}</div>`;
   }
-
+  function listPage(title, intro, list, subcats) {
+    main.innerHTML = `
+      <div class="title-row"><h1 class="firstHeading">${esc(title)}</h1></div>
+      <div class="tabs"><nav><a class="sel" href="${href(current)}">${title.startsWith('Portal:') ? 'Portal' : 'Category'}</a></nav><nav><a class="sel" href="${href(current)}">Read</a></nav></div>
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      ${intro ? `<div class="cat-intro">${intro}</div>` : ''}
+      ${subcats ? `<h2 class="cat-h2">Categories</h2><p>This portal has the following ${plural(subcats.length, 'category', 'categories')}.</p><ul class="subcats">${subcats.map(([c, l]) => `<li><a href="#Category.${categorySlug(c)}">${esc(c)}</a> <small>(${l.length} P)</small></li>`).join('')}</ul>` : ''}
+      <h2 class="cat-h2">Pages in ${subcats ? 'this portal' : `category "${esc(title.replace(/^Category:/, ''))}"`}</h2>
+      <p>The following ${plural(list.length, 'page is', 'pages are')} in this ${subcats ? 'portal' : 'category'}, out of ${list.length.toLocaleString('en')} total.</p>
+      ${pagesColumns(list)}`;
+    return title;
+  }
   function renderClass(id) {
     const c = classOf(id);
-    const list = wiki.articles.filter(a => a.cls === id).sort(byTitle);
-    const counts = new Map();
-    list.forEach(a => counts.set(a.category, (counts.get(a.category) || 0) + 1));
-    const groups = [...counts].sort((a, b) => b[1] - a[1]).slice(0, 14).map(([k, n]) => [k, k, n]);
-    main.innerHTML = `<div class="page-head"><h1>${esc(c.name)}</h1><p>${esc(c.blurb)} ${list.length} article${list.length === 1 ? '' : 's'}.</p></div>`;
-    main.append(filteredList(list, groups));
-    return c.name;
+    return listPage(`Category:${c.name[0].toUpperCase() + c.name.slice(1)}`, `<p>${esc(c.blurb)}</p>`, wiki.articles.filter(a => a.cls === id));
   }
-
-  function renderSubject(s) {
-    const cats = wiki.subjects.get(s);
-    const list = [...cats.values()].flat().sort(byTitle);
-    const groups = [...cats].sort((a, b) => b[1].length - a[1].length).map(([k, l]) => [k, k, l.length]);
-    main.innerHTML = `<div class="page-head"><h1>${esc(s)}</h1><p>${list.length} articles in ${cats.size} categor${cats.size === 1 ? 'y' : 'ies'}.</p></div>`;
-    main.append(filteredList(list, groups));
-    return s;
-  }
-
   function renderCategory(cat) {
-    const list = [...wiki.categories.get(cat)].sort(byTitle);
     const s = subjectOf(cat);
-    main.innerHTML = `
-      <div class="crumbs"><a href="#Subject.${categorySlug(s)}">${esc(s)}</a></div>
-      <div class="page-head"><h1>Category: ${esc(cat)}</h1><p>${list.length} article${list.length === 1 ? '' : 's'} in this category.</p></div>
-      <ul class="alist">${list.map(a => listItem(a)).join('')}</ul>`;
-    return 'Category: ' + cat;
+    return listPage(`Category:${cat}`, `<p>Part of the <a href="#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`, wiki.categories.get(cat));
+  }
+  function renderSubject(s) {
+    const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);
+    return listPage(`Portal:${s}`, `<p>Articles on ${esc(s.toLowerCase())} in Irad, grouped from ${plural(cats.length, 'category', 'categories')}.</p>`, cats.flatMap(([, l]) => l), cats);
   }
 
   function renderIndex() {
     const groups = new Map();
-    for (const a of wiki.sorted) {
-      let L = fold(a.title.replace(/^the\s+/i, ''))[0] || '#';
-      if (!/[a-z]/.test(L)) L = '#';
-      L = L.toUpperCase();
-      if (!groups.has(L)) groups.set(L, []);
-      groups.get(L).push(a);
-    }
+    for (const a of wiki.sorted) { const L = letterOf(a.title); if (!groups.has(L)) groups.set(L, []); groups.get(L).push(a); }
     main.innerHTML = `
-      <div class="page-head"><h1>All articles</h1><p>Every article in the three volumes, A to Z. ${wiki.articles.length} in total.</p></div>
-      <div class="letters">${[...groups.keys()].map(L => `<button type="button" data-to="L-${L}">${L}</button>`).join('')}</div>
-      <div class="az">${[...groups].map(([L, list]) => `<h2 id="L-${L}">${L}</h2><ul>${list.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a>${a.cls === 'FA' || a.cls === 'GA' ? `<small>${a.cls}</small>` : ''}</li>`).join('')}</ul>`).join('')}</div>`;
-    main.querySelector('.letters').addEventListener('click', e => {
+      <div class="title-row"><h1 class="firstHeading">All pages</h1></div>
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      <p class="cat-intro">Every article in Irad Wiki, ${wiki.articles.length.toLocaleString('en')} in total.</p>
+      <div class="az-letters">${[...groups.keys()].map(L => `<button type="button" data-to="L-${L}">${L}</button>`).join('')}</div>
+      ${[...groups].map(([L, list]) => `<h2 class="cat-h2 az-h" id="L-${L}">${L}</h2><div class="cat-cols"><ul>${list.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a></li>`).join('')}</ul></div>`).join('')}`;
+    main.querySelector('.az-letters').addEventListener('click', e => {
       const b = e.target.closest('button'); if (b) document.getElementById(b.dataset.to)?.scrollIntoView();
     });
-    return 'All articles';
+    return 'All pages';
   }
 
   /* ---------- search ---------- */
@@ -338,22 +398,17 @@
     }
     return [...starts, ...words, ...contains].slice(0, limit);
   }
-
   function buildSearchIndex() {
-    searchIndex = wiki.articles.map(a => {
-      const text = plainText(a.src);
-      return { a, text, f: fold(text) };
-    });
+    searchIndex = wiki.articles.map(a => { const text = plainText(a.src); return { a, text, f: fold(text), words: text.split(/\s+/).length }; });
   }
 
   function renderSearch() {
     if (!searchIndex) buildSearchIndex();
     const q = query.trim();
-    const head = `<div class="page-head"><h1>Search</h1>`;
-    if (!q) {
-      main.innerHTML = `${head}<p>Type in the search box above to search titles and the full text of every article.</p></div>`;
-      return 'Search';
-    }
+    const form = `<form class="search-big" id="bigSearch" role="search"><input id="q2" type="search" value="${esc(q)}" aria-label="Search Irad Wiki"><button type="submit">Search</button></form>`;
+    const head = `<div class="title-row"><h1 class="firstHeading">Search results</h1></div>${form}`;
+    const bind = () => $('#bigSearch').addEventListener('submit', e => { e.preventDefault(); query = $('#q2').value.trim(); route(); });
+    if (!q) { main.innerHTML = head; bind(); return 'Search'; }
     const f = fold(q);
     const titleHits = new Set(titleMatches(q, 50));
     const results = [];
@@ -362,63 +417,74 @@
       if (i < 0 && !titleHits.has(e.a)) continue;
       let n = 0, p = i;
       while (p >= 0 && n < 50) { n++; p = e.f.indexOf(f, p + f.length); }
-      const score = (titleHits.has(e.a) ? 1000 : 0) + (fold(e.a.title) === f ? 1000 : 0) + n;
-      results.push({ e, i, score });
+      results.push({ e, i, score: (titleHits.has(e.a) ? 1000 : 0) + (fold(e.a.title) === f ? 1000 : 0) + n });
     }
     results.sort((x, y) => y.score - x.score || byTitle(x.e.a, y.e.a));
+    const exact = wiki.byFold.get(f);
     const snip = ({ e, i }) => {
       if (i < 0) return esc(ledeOf(e.a));
-      const s = Math.max(0, e.text.lastIndexOf(' ', Math.max(0, i - 70)));
-      const end = Math.min(e.text.length, i + f.length + 110);
-      // the folded string has the same length as the original for these scripts, so indexes line up
-      const before = e.text.slice(s, i), hit = e.text.slice(i, i + f.length), after = e.text.slice(i + f.length, end);
-      return `${s > 0 ? '…' : ''}${esc(before.trimStart())}<mark>${esc(hit)}</mark>${esc(after)}${end < e.text.length ? '…' : ''}`;
+      const s = Math.max(0, e.text.lastIndexOf(' ', Math.max(0, i - 80)));
+      const end = Math.min(e.text.length, i + f.length + 120);
+      // fold() keeps string length for these scripts, so the indexes line up
+      return `${s > 0 ? '… ' : ''}${esc(e.text.slice(s, i).trimStart())}<span class="searchmatch">${esc(e.text.slice(i, i + f.length))}</span>${esc(e.text.slice(i + f.length, end))}${end < e.text.length ? ' …' : ''}`;
     };
-    main.innerHTML = `${head}<p>${results.length ? `${results.length} article${results.length === 1 ? '' : 's'} mention “${esc(q)}”.` : `No articles mention “${esc(q)}”. Check the spelling, or try a shorter word.`}</p></div>
-      <ul class="alist">${results.slice(0, 150).map(r => listItem(r.e.a, snip(r))).join('')}</ul>
-      ${results.length > 150 ? `<p class="empty">Showing the first 150 results. Add another word to narrow the search.</p>` : ''}`;
-    return `Search: ${q}`;
+    const kb = e => Math.max(1, Math.round(e.a.src.length / 1024));
+    main.innerHTML = `${head}
+      ${exact ? `<p><b>There is a page named "<a href="${href(exact.slug)}">${esc(exact.title)}</a>" on Irad Wiki</b></p>` : ''}
+      <div class="r-count">${results.length ? `Results 1 – ${Math.min(results.length, 100)} of ${results.length.toLocaleString('en')}` : `There were no results matching the query "${esc(q)}".`}</div>
+      <ul class="results">${results.slice(0, 100).map(r => `
+        <li><div class="r-title"><a href="${href(r.e.a.slug)}">${esc(r.e.a.title)}</a></div>
+        <div class="r-snip">${snip(r)}</div>
+        <div class="r-data">${kb(r.e)} KB (${r.e.words.toLocaleString('en')} words) · ${esc(classOf(r.e.a.cls)?.short || '')}</div></li>`).join('')}</ul>
+      ${results.length > 100 ? `<p class="r-data">Only the first 100 results are shown. Add another word to narrow the search.</p>` : ''}`;
+    bind();
+    return `Search results for "${q}"`;
   }
 
   const input = $('#q'), sug = $('#suggest');
   let sel = -1;
-  function closeSuggest() { sug.hidden = true; sel = -1; input.setAttribute('aria-expanded', 'false'); }
+  function closeSuggest() { sug.hidden = true; sel = -1; input.setAttribute('aria-expanded', 'false'); input.removeAttribute('aria-activedescendant'); }
   function openSuggest() {
     if (!wiki) return;
     const q = input.value.trim();
     if (!q) return closeSuggest();
     const hits = titleMatches(q, 8);
-    sug.innerHTML = hits.map((a, i) => `<li role="option" id="opt${i}"><a href="${href(a.slug)}"><span>${esc(a.title)}</span><small>${esc(classOf(a.cls)?.short || '')}</small></a></li>`).join('')
-      + `<li class="all" role="option" id="opt${hits.length}"><a href="#Special.Search" data-search="1">Search all articles for “${esc(q)}”</a></li>`;
+    sug.innerHTML = hits.map((a, i) => `<li role="option" id="opt${i}"><a href="${href(a.slug)}"><b>${esc(a.title)}</b><small>${esc(ledeOf(a))}</small></a></li>`).join('')
+      + `<li class="all" role="option" id="opt${hits.length}"><a href="#Special.Search" data-search="1">${ICON.search}<span>Search for pages containing <b>${esc(q)}</b></span></a></li>`;
     sug.hidden = false; sel = -1; input.setAttribute('aria-expanded', 'true');
   }
   input.addEventListener('input', openSuggest);
   input.addEventListener('focus', openSuggest);
   input.addEventListener('keydown', e => {
     const items = [...sug.querySelectorAll('li')];
-    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
-      if (sug.hidden) return;
+    if ((e.key === 'ArrowDown' || e.key === 'ArrowUp') && !sug.hidden) {
       e.preventDefault();
       sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length;
       items.forEach((li, i) => li.classList.toggle('on', i === sel));
       input.setAttribute('aria-activedescendant', items[sel].id);
-    } else if (e.key === 'Enter') {
-      e.preventDefault();
-      if (sel >= 0 && items[sel] && !items[sel].classList.contains('all')) { items[sel].querySelector('a').click(); }
-      else runSearch();
-    } else if (e.key === 'Escape') { closeSuggest(); }
+    }
+  });
+  $('#searchForm').addEventListener('submit', e => {
+    e.preventDefault();
+    const items = [...sug.querySelectorAll('li')];
+    if (!sug.hidden && sel >= 0 && items[sel] && !items[sel].classList.contains('all')) { items[sel].querySelector('a').click(); return; }
+    const q = input.value.trim();
+    if (!q || !wiki) return;
+    const exact = wiki.byFold.get(fold(q));
+    closeSuggest(); input.blur(); input.value = '';
+    byClick = true;
+    if (exact) { location.hash = href(exact.slug); return; }   // Wikipedia's "Go" behaviour
+    runSearch(q);
   });
   sug.addEventListener('mousedown', e => e.preventDefault());
   sug.addEventListener('click', e => {
     const a = e.target.closest('a'); if (!a) return;
-    if (a.dataset.search) { e.preventDefault(); runSearch(); return; }
+    if (a.dataset.search) { e.preventDefault(); const q = input.value.trim(); input.value = ''; closeSuggest(); input.blur(); runSearch(q); return; }
     input.value = ''; closeSuggest(); input.blur();
   });
   document.addEventListener('click', e => { if (!e.target.closest('.search')) closeSuggest(); });
-  function runSearch() {
-    query = input.value.trim();
-    if (!query) return;
-    closeSuggest(); input.blur();
+  function runSearch(q) {
+    query = q;
     byClick = true;
     if (location.hash === '#Special.Search') route(); else location.hash = 'Special.Search';
   }
@@ -426,63 +492,95 @@
   /* ---------- main page ---------- */
   function shuffle(arr) { const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
 
+  // Turns "X is a …." into "… that X is a …?" for the Did you know box.
+  function dykFact(a) {
+    const para = a.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|]/.test(p));
+    if (!para) return null;
+    const text = plainText(para);
+    const first = text.split(/(?<=[a-z0-9\)”"'][.!?])\s+(?=[A-Z“"])/)[0] || '';
+    if (!fold(first).startsWith(fold(a.title)) || first.length > 230 || first.length < 40) return null;
+    const rest = first.slice(a.title.length).replace(/\s*\(see [^()]*(\([^()]*\))?[^()]*\)/g, '').replace(/[.!]$/, '');
+    if (!/^\s*(\(|,|is|was|are|were|has|had)/.test(rest)) return null;
+    return `… that <b><a href="${href(a.slug)}">${esc(a.title)}</a></b>${esc(rest)}?`;
+  }
+
   function renderHome() {
     const fa = wiki.articles.find(a => a.cls === 'FA');
-    const intro = (wiki.pre[0].match(/^The \*\*Irad Wiki\*\*.*$/m) || [''])[0];
     const firstPara = fa ? fa.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|]/.test(p)) : '';
-    const pool = wiki.articles.filter(a => (a.cls === 'Start' || a.cls === 'Stub') && ledeOf(a).length > 60);
-    const dyk = shuffle(pool).slice(0, 5);
+    const facts = [];
+    for (const a of shuffle(wiki.articles.filter(a => a.cls === 'Start' || a.cls === 'Stub'))) {
+      const f = dykFact(a);
+      if (f) facts.push(f);
+      if (facts.length === 6) break;
+    }
     const ga = wiki.articles.filter(a => a.cls === 'GA').sort(byTitle);
-    const subj = [...wiki.subjects].map(([s, cats]) => [s, [...cats].sort((a, b) => b[1].length - a[1].length)]).sort((a, b) => b[1].reduce((n, c) => n + c[1].length, 0) - a[1].reduce((n, c) => n + c[1].length, 0));
-    const count = id => wiki.articles.filter(a => a.cls === id).length;
-    const words = Math.round(wiki.articles.reduce((n, a) => n + a.src.split(/\s+/).length, 0) / 1000);
+    const recent = wiki.articles.filter(a => a.cls === 'B').sort(byTitle);
+    const recentPick = shuffle(recent).slice(0, 3).sort(byTitle);
 
     main.innerHTML = `
-      <div class="welcome">
-        <img src="${FLAG}" alt="Flag of Irad">
-        <div>
-          <h1>Welcome to the <em>Irad Wiki</em></h1>
-          <p>${intro ? md.renderInline(intro) : 'The free encyclopedia of the Republic of Irad.'}</p>
-          <div class="stats"><span><b>${wiki.articles.length}</b> articles</span><span><b>${wiki.categories.size}</b> categories</span><span>about <b>${words}k</b> words</span></div>
+      <h1 class="sr-only">Main Page</h1>
+      <div class="mp-welcome">
+        <div class="hello">Welcome to <a href="#Irad">Irad Wiki</a>,</div>
+        <p>the free encyclopedia of Iradistan.</p>
+        <p><a href="#Special.All">${wiki.articles.length.toLocaleString('en')}</a> articles in English</p>
+      </div>
+      <div class="mp-grid">
+        <div class="mp-col">
+          <section class="mp-box mp-green">
+            <h2>From today's featured article</h2>
+            ${fa ? `<div class="mp-tfa"><a href="${href(fa.slug)}"><img src="${FLAG}" alt="Flag of Irad"></a><div id="tfaText"></div><p><b>(<a href="${href(fa.slug)}">Full article…</a>)</b></p></div>
+            <p class="recent">Recently featured: ${recentPick.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
+            <div class="mp-more"><a href="#Class.FA">Featured articles</a> · <a href="#Class.GA">Good articles</a></div>` : ''}
+          </section>
+          <section class="mp-box mp-green">
+            <h2>Did you know …</h2>
+            <ul>${facts.map(f => `<li>${f}</li>`).join('')}</ul>
+            <div class="mp-more"><a href="#" id="moreDyk">More facts</a> · <a href="#Special.Random">Random article</a></div>
+          </section>
+        </div>
+        <div class="mp-col">
+          <section class="mp-box mp-blue">
+            <h2>Good articles</h2>
+            <ul>${ga.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a>: ${esc(ledeOf(a).replace(new RegExp('^' + a.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\s*'), '').slice(0, 110).replace(/\s+\S*$/, ''))}…</li>`).join('')}</ul>
+          </section>
+          <section class="mp-box mp-blue">
+            <h2>Articles by quality</h2>
+            <ul class="mp-classes">${CLASSES.map(c => `<li>${ICON[c.id] || ICON.dot}<a href="#Class.${c.id}">${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
+          </section>
         </div>
       </div>
-      <div class="home">
-        <section>
-          <div class="block feature">
-            <h2>Featured article ${fa ? `<a href="${href(fa.slug)}">Read the article</a>` : ''}</h2>
-            ${fa ? `<h3><a href="${href(fa.slug)}">${esc(fa.title)}</a></h3><div class="prose" id="faText"></div><a class="more" href="${href(fa.slug)}">Continue reading ${esc(fa.title)} →</a>` : ''}
-          </div>
-          <div class="block">
-            <h2>Did you know… <a href="#" id="moreDyk">Show others</a></h2>
-            <ul class="dyk">${dyk.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a>: ${esc(ledeOf(a).replace(new RegExp('^' + a.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\s*'), ''))}</li>`).join('')}</ul>
-          </div>
-        </section>
-        <section>
-          <div class="block">
-            <h2>Good articles</h2>
-            <ul class="ga">${ga.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a></li>`).join('')}</ul>
-          </div>
-          <div class="block">
-            <h2>Browse by quality</h2>
-            <ul class="classes">${CLASSES.map(c => `<li><a href="#Class.${c.id}"><span class="chip ${c.id}">${c.id === 'FA' ? '★ ' : ''}${esc(c.short)}</span><span>${esc(c.name)}</span><span class="n">${count(c.id)}</span></a></li>`).join('')}</ul>
-          </div>
-        </section>
-        <section class="wide block">
-          <h2>Browse by subject <a href="#Special.All">All articles A–Z</a></h2>
-          <div class="subjects">${subj.map(([s, cats]) => `
-            <div><h3><a href="#Subject.${categorySlug(s)}">${esc(s)}</a><span>${cats.reduce((n, c) => n + c[1].length, 0)}</span></h3>
-            <ul>${cats.slice(0, 6).map(([c, l]) => `<li><a href="#Category.${categorySlug(c)}">${esc(c)}</a><span>${l.length}</span></li>`).join('')}
-            ${cats.length > 6 ? `<li><a href="#Subject.${categorySlug(s)}">${cats.length - 6} more categor${cats.length - 6 === 1 ? 'y' : 'ies'}…</a></li>` : ''}</ul></div>`).join('')}
-          </div>
-        </section>
+      <section class="mp-box mp-purple">
+        <h2>Irad Wiki portals</h2>
+        <div class="mp-subjects">${wiki.subjectOrder.map(s => {
+          const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);
+          return `<div><h3><a href="#Subject.${categorySlug(s)}">${esc(s)}</a></h3><p>${cats.slice(0, 4).map(([c]) => `<a href="#Category.${categorySlug(c)}">${esc(c)}</a>`).join(' · ')}${cats.length > 4 ? ` · <a href="#Subject.${categorySlug(s)}">more…</a>` : ''}</p></div>`;
+        }).join('')}</div>
+      </section>
+      <div class="mp-other">
+        <h2>Other areas of Irad Wiki</h2>
+        <ul>
+          <li><b><a href="#Special.All">All pages</a></b> – every article in the encyclopedia, A to Z.</li>
+          <li><b><a href="#Special.Random">Random article</a></b> – open an article picked at random.</li>
+          <li><b><a href="#Class.Stub">Stubs</a></b> – short articles waiting to be expanded.</li>
+          <li><b><a href="#Irad">Irad</a></b> – the country article, with the national infobox.</li>
+        </ul>
       </div>`;
     if (fa && firstPara) {
-      const p = $('#faText');
+      const p = $('#tfaText');
       p.innerHTML = toHtml(firstPara);
       p.querySelectorAll('sup').forEach(s => s.remove());
     }
     $('#moreDyk').addEventListener('click', e => { e.preventDefault(); const y = scrollY; renderHome(); scrollTo(0, y); });
     return '';
+  }
+
+  /* ---------- footer ---------- */
+  function renderFooter(a) {
+    const vol = a ? VOLUMES[a.vol] : null;
+    foot.innerHTML = `
+      ${a ? `<p>This article is from ${esc(vol.label)} of the Irad Wiki (<code>${esc(vol.file)}</code>${a.number ? `, §${esc(a.number)}` : ''}, line ${a.line}).</p>` : ''}
+      <p>Irad Wiki is compiled from the ${VOLUMES.length} Irad Wiki volumes: ${wiki.articles.length.toLocaleString('en')} articles in ${wiki.categories.size} categories.</p>
+      <ul><li><a href="#">Main page</a></li><li><a href="#Special.All">All pages</a></li><li><a href="#Special.Random">Random article</a></li><li><a href="#Class.FA">Featured articles</a></li></ul>`;
   }
 
   load();

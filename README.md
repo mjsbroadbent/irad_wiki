@@ -41,12 +41,16 @@ Browsers won't let a page opened straight from disk read other files, so serve t
 
 The page loads markdown-it from cdnjs and the Alegreya fonts from Google Fonts, so it needs an internet connection the first time.
 
+## Appearance
+
+The layout follows Wikipedia's desktop skin. The Dark/Light button in the top right switches themes; light is the default, and each reader's choice is remembered in their browser.
+
 ## Addresses
 
 Each page has its own address, so links and the back button work:
 
-- `#Talas` is an article (spaces become underscores)
+- `#Talas` is an article (spaces become underscores), and `#Talas~source` shows its Markdown source
 - `#Category.Arts_and_Cinema` is a category page
+- `#Subject.History` is a portal grouping related categories
 - `#Class.GA` lists a quality class (FA, GA, B, C, Start, Stub)
-- `#Subject.History` lists a broad subject
 - `#Special.All` is the A–Z index and `#Special.Random` picks a random article
