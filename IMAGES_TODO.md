@@ -36,6 +36,7 @@ Needs Node 18+ and ffmpeg with librsvg (`ffmpeg -decoders | grep svg`). Everythi
 | `src/regional.mjs` | `Map_of_Irad.svg`, `Irad_administrative_divisions.svg`; prints all areas |
 | `src/thematic.mjs` | The thematic maps: Qara-Chik line, Naryn corridor, transport, energy and resources, 1992 and 2007 wars, rivers and drainage basins, the Iradi SSR in Soviet Central Asia, the Russian conquest of Kokand. Run one with `node src/thematic.mjs naryn` (names: `qarachik`, `naryn`, `transport`, `energy`, `war2007`, `war1992`, `rivers`, `ssr`, `kokand`) |
 | `src/charts.mjs` | Mejlis seat diagram, ethnic groups and religion charts, Toktarov election results, Toktarov family tree, government structure diagram, Toktogul complex layout (schematic) |
+| `src/cityplans.mjs` | City plans, drawn in a local kilometre grid (not geographic data): `Talas_city_map.svg` so far. Run one with `node src/cityplans.mjs talas` |
 | `thumbs.py` | PNG thumbnails for everything in the manifest |
 | `data/` | Natural Earth extracts (public domain). Refresh with `extract.py` (instructions inside) |
 | `vendor/` | d3-geo, d3-array, internmap (ISC) and polygon-clipping (MIT), with their licences |
@@ -144,7 +145,8 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   - [x] `Russian_conquest_of_Kokand_map.svg`: khanate about 1850, Russian advances 1860–1876, Turkestan oblasts 1876–1917; khanate extent and oblast lines approximate, after standard atlases (lead of *Siege of Kokand (1876)*; *Semirechye Revolt (Irad)*; *Irad*)
   - [x] `Iradi_SSR_location_map.svg`: the republic among the Soviet Central Asian SSRs, Soviet-era capital names, Aral Sea at about its 1960 extent (lead of *Iradi Soviet Socialist Republic*; *Irad*)
   - [x] `Toktogul_complex_layout.svg`: schematic plan, not to scale (*Toktogul Hydroelectric Complex*, Engineering)
-  - [ ] Still to do: religion and language by district (needs figures by district in the lore), city plans of Talas, Nurzhan and Iyık Janyl, state, party and company emblems
+  - [x] `Talas_city_map.svg`: schematic plan from the wiki articles (*Talas*, Cityscape). Placement decisions: the river runs west through the city with the Old City on the terrace south of it and Shahr-i Kabud between; the Soviet center and central square east of the Old City along Central Avenue (the city section of the Trans-Talas Highway); the railway station and northern industrial district north of the river; the western district, Nuevo Talas, the cattle mart and the Agribusiness Export Zone along the highway west toward the air base; the Hippodrome and Talas State University in the east; wellfields on the alluvial fan to the south
+  - [ ] Still to do: religion and language by district (needs figures by district in the lore), city plans of Nurzhan and Iyık Janyl, state, party and company emblems
 - [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
 - [ ] **Photos:** work through the real photo list; then write the prompt sheet for generated photos (portraits, buildings, events, culture, artefacts)
