@@ -90,7 +90,7 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   - Boz-Korgon 74.64, 43.30 (40 km east of Nurzhan).
   - Iyık Janyl 72.43, 41.44: Fergana Range foothills on the east side of the Naryn gorge, about 20 km north-east of Tash-Kömür, inside the Lower Naryn salient. Moved there by lore change on 2026-10-11; it was previously in the Talas Alatau. The branch road leaves State Route 1 in the gorge above Tash-Kömür.
 - **Toktogul complex:** the dam is at the reservoir outlet (72.652, 41.668), on the tribal side; the switchyard is just downstream (72.62, 41.618), in the ISEZ. State Route 1 follows the Naryn from there down to Tash-Kömür, and the four cascade stations sit on the river.
-- **Transport (Transport in Irad):** railway Talas – Kyzyl-Adyr – Taraz, then west on the Turksib to the Talas North Terminal (69.96, 42.63) and east on the lowland route round the Kyrgyz Range to Nurzhan and a rail border station north-east of the city (drawn about 580 km against the lore's 540). Kök-Bel Pass at 72.45, 42.72. Chu Gate 74.97, 43.33 and Kum-Shagyl 74.97, 43.95, both on the eastern frontier. Talas Air Base 12 km west of Talas. Chu oil fields along the Chu north-west of Nurzhan, with the collection station at 73.25, 43.78.
+- **Transport (Transport in Irad):** railway Talas – Kyzyl-Adyr – Taraz, then west on the Turksib to the Talas North Terminal (69.96, 42.63) and east on the lowland route round the Kyrgyz Range to Nurzhan and a rail border station north-east of the city (about 580 km, the lore figure since 2026-10-11). Kök-Bel Pass at 72.45, 42.72. Chu Gate 74.97, 43.33 and Kum-Shagyl 74.97, 43.95, both on the eastern frontier. Talas Air Base 12 km west of Talas. Chu oil fields along the Chu north-west of Nurzhan, with the collection station at 73.25, 43.78.
 - **Rivers:** Naryn and Syr Darya from Natural Earth. The Chu, Talas and Chatkal are not in Natural Earth at this scale and are traced by hand, approximately.
 - **Party colours** on the seat diagram are placeholders: DPI #1f4e9a, independents #9a9a9a, Russo-aligned #c0392b.
 
@@ -103,9 +103,8 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 - [ ] **Real cities inside Irad that the lore never mentions:** Taraz (inside Kara-Buura District), Shu (Chu District), Jalal-Abad (Fergana Rim), Arslanbob (Toktogul–Naryn zone). Decide whether they exist in Irad, under another name, or not at all.
 - [ ] **Coat of arms.** The lore has no national emblem. Real country infoboxes show one beside the flag. Decide whether Irad has one before it is drawn.
 - [ ] **Party colours** for the DPI and others, if the lore should fix them.
-- [ ] **Northern Export Feeder direction.** Energy in Irad says the feeder runs north-west across the lower Chu plain to the Kazakh frontier. North-west of Nurzhan there is no frontier on the ISEZ side, so the map runs it north-east to the eastern frontier (about 81 km). Either change "north-west" to "north-east" in the lore or move the frontier.
-- [ ] **Kara-Buura corridor (decision to confirm).** To put the Talas North Terminal ("north-west of Talas, in Kara-Buura District") and the Trans-Talas Highway's frontier end on the ISEZ side, the district was given a corridor west along the Turksib to the frontier facing Shymkent. This partly answers the northern-frontier question above. If the owner prefers another solution, edit the second ring in `D['Kara-Buura District']`.
-- [ ] **Nurzhan Petroleum Pipeline length.** The lore gives 118 km; the oil fields placed inside the Chu District make it about 90 km.
+- [x] **Northern Export Feeder direction, railway length, oil pipeline length** (settled 2026-10-11 in favour of the maps): the feeder runs north-east to the eastern frontier, the railway is about 580 km and the Nurzhan Petroleum Pipeline about 90 km. The lore and the volumes were updated to match (skill repo `newlore.md`, "Map Alignment").
+- [x] **Kara-Buura corridor** to the frontier facing Shymkent, for the Talas North Terminal: confirmed 2026-10-11 and recorded in the lore.
 
 ## Phase 1: Irad article (done 2026-10-11)
 
