@@ -48,7 +48,7 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 |---|---|---|---|
 | Attelkom | `attelkom_white_original.png` (white on transparent) | `Attelkom_logo.png` at the top of *Attelkom* | `tools/logos/attelkom_on_green.py`: the white logo on forest green #228B22 (company colours are white and forest green). `Attelkom_logo_white.png` is kept for dark backgrounds |
 | Irad Palace of Art | `irad_palace_of_art_original.gif` (from the gallery's website) | `Irad_Palace_of_Art_logo.png` at the top of *Irad Palace of Art* | Trimmed to the artwork with a 12 px white margin and saved as PNG |
-| FreeIrad.org | `freeirad_logo_original.png` (the horse, transparent) | `FreeIrad.org_logo.svg` at the top of *FreeIrad.org* | `tools/logos/freeirad_logo.py`: the horse with FREEIRAD.ORG in Montserrat Bold, outlined; capitals 92% of the horse's height. Text colour black is an assumption: pass another colour as the last argument |
+| FreeIrad.org | `freeirad_logo_screencap.png` (screen capture of the site's header logo); `freeirad_logo_original.png` is the horse alone | `FreeIrad.org_logo.png` at the top of *FreeIrad.org* | Screen capture used as supplied |
 | IradOne | `iradone_original.svg` (Inkscape, live Montserrat text) | `IradOne_logo.svg` at the top of *IradOne* | `tools/logos/outline_iradone.py`: lettering converted to outlines from Montserrat Medium so it renders the same without the font installed. Colours: blue #00a3ff, black |
 
 ## Map canon (decisions made while drawing)
