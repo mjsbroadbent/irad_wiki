@@ -5,6 +5,7 @@ This file is the working to-do list for illustrating the wiki. Anyone picking th
 Planning documents (Claude Docs, owner's account):
 - Image plan: counts by type and phasing — https://claude.ai/code/artifact/4756f71f-a38b-4a3c-8505-dd2e54610ede
 - Real photo list: 165 photos with search links and save-as names — https://claude.ai/code/artifact/0f2e9267-ad7c-4706-b08a-73d8b73ab030
+- Generated image prompts and character bibles: house style, proposed looks for 17 recurring people, 68 prompts with file names and placements — https://claude.ai/code/artifact/d64d2473-bb04-40ce-8393-b5e8b0f5ce00
 
 ## How images work on the site
 
@@ -149,5 +150,5 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   - [ ] Still to do: religion and language by district (needs figures by district in the lore), state, party and company emblems (city plans dropped by the owner)
 - [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
-- [ ] **Photos:** work through the real photo list; then write the prompt sheet for generated photos (portraits, buildings, events, culture, artefacts)
+- [ ] **Photos:** work through the real photo list. The generated-image prompt sheet is written (2026-10-11); the character looks in it need owner approval before generating
 - [ ] **Credits page:** a page on the site listing every image's author and licence (required for CC BY and CC BY-SA photos)
