@@ -62,7 +62,7 @@ function places({ foreign = true } = {}) {
   let out = '';
   for (const p of PLACES) {
     const [x, y] = xy(p.lon, p.lat);
-    const off = { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 16], 'Iyık Janyl': [10, 13], 'Tash-Kömür': [-8, 14],
+    const off = { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 16], 'Iyık Janyl': [9, -7], 'Tash-Kömür': [-8, 14],
       'Toktogul': [8, -7], 'Kara-Buura': [-6, -8], 'Mailuu-Suu': [8, 14] }[p.name] || [0, -8];
     const anchor = off[0] > 0 ? 'start' : off[0] < 0 ? 'end' : 'middle';
     if (p.kind === 'capital') out += `<rect x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/><rect x="${(x - 2.2).toFixed(1)}" y="${(y - 2.2).toFixed(1)}" width="4.4" height="4.4" fill="${WP.text}"/>`;
@@ -163,7 +163,7 @@ ${rows.map(([n, c], i) => c ? `<rect x="26" y="${ly + i * 17 - 9}" width="14" he
     const mark = p.kind === 'capital'
       ? `<rect x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/><rect x="${(x - 2.2).toFixed(1)}" y="${(y - 2.2).toFixed(1)}" width="4.4" height="4.4" fill="${WP.text}"/>`
       : `<rect x="${(x - 4).toFixed(1)}" y="${(y - 4).toFixed(1)}" width="8" height="8" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/>`;
-    const off = { 'Talas': [0, -11], 'Nurzhan': [0, -10], 'Iyık Janyl': [-8, 16] }[p.name];
+    const off = { 'Talas': [0, -11], 'Nurzhan': [0, -10], 'Iyık Janyl': [10, -6] }[p.name];
     return mark + label(x + off[0], y + off[1], p.name, { size: 12.5, anchor: off[0] > 0 ? 'start' : off[0] < 0 ? 'end' : 'middle', weight: 'bold' });
   }).join('');
   const note = label(W - 18, 30, 'Talas, Nurzhan and Iyık Janyl are cities of governorate significance, outside the districts.', { size: 11, anchor: 'end', fill: WP.textMuted });

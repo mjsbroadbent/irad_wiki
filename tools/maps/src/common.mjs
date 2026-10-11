@@ -102,31 +102,42 @@ export function geography() {
   // ---------- inside Irad: ISEZ districts (fictional lines, see IMAGES_TODO.md) ----------
   const inIrad = m => clean(pc.intersection(m, irad), 0.0005);
   const D = {};
-  D['Talas District'] = inIrad(ring([[71.9, 42.86], [72.2, 42.85], [73.0, 42.76], [73.62, 42.62], [73.62, 42.35],
-    [73.0, 42.3], [72.15, 42.32], [71.75, 42.32], [71.9, 42.5]]));
-  D['Kara-Buura District'] = inIrad(pc.difference(ring([[70.85, 42.8], [70.9, 43.15], [71.6, 43.05], [71.9, 42.86],
-    [71.9, 42.5], [71.75, 42.32], [71.5, 42.33], [71.0, 42.48]]), D['Talas District']));
-  // Chu District: the Chu lowlands and the steppe belt south of the river (eastern Moiynkum), from the
-  // Kyrgyz Range piedmont to the eastern border.
-  D['Chu District'] = inIrad(pc.difference(ring([[71.6, 43.05], [71.3, 43.7], [71.05, 44.4], [71.0, 44.95],
-    [71.5, 44.85], [72.3, 44.55], [72.95, 44.27], [73.4, 43.9], [73.78, 43.6], [73.85, 43.72], [74.35, 43.75],
-    [75.3, 43.85], [75.3, 42.5], [73.62, 42.5], [73.62, 42.62], [73.0, 42.76], [72.2, 42.85], [71.9, 42.86]]),
+  // Official areas (ISEZ statistical office, see Administrative divisions of Irad): Talas 9,800 km²,
+  // Kara-Buura 11,400, Chu 24,600, Sary-Bulak 10,900, Lower Naryn 6,300; the three cities about 1,000
+  // (drawn as points, so their area sits inside the districts here).
+  // Talas District: the middle Talas valley floor between the Kyrgyz Range crest and the Talas Alatau foothills.
+  D['Talas District'] = inIrad(ring([[71.95, 42.88], [72.6, 42.84], [73.2, 42.78], [73.75, 42.7], [74.1, 42.6],
+    [74.05, 42.42], [73.4, 42.4], [72.8, 42.42], [72.3, 42.42], [71.95, 42.42], [71.85, 42.62]]));
+  // Kara-Buura District: the lower and western Talas valley, down the river past Taraz.
+  D['Kara-Buura District'] = inIrad(pc.difference(ring([[71.95, 42.88], [71.6, 43.08], [71.3, 43.5], [71.0, 43.9],
+    [70.6, 43.85], [70.65, 43.25], [70.75, 42.8], [71.0, 42.45], [71.45, 42.33], [71.95, 42.32], [71.85, 42.62]]), D['Talas District']));
+  // Chu District: the irrigated Chu lowlands around Nurzhan (the line crosses the river north-west of the
+  // city) and the Kyrgyz Range piedmont west to the Talas valley.
+  D['Chu District'] = inIrad(pc.difference(ring([[71.6, 43.08], [71.95, 43.4], [72.5, 43.55], [73.05, 43.7],
+    [73.45, 43.9], [73.85, 44.05], [74.35, 44.1], [75.3, 44.1], [75.3, 42.5], [74.0, 42.6], [73.75, 42.7],
+    [73.2, 42.78], [72.6, 42.84], [71.95, 42.88]]), pc.union(D['Talas District'], D['Kara-Buura District'])));
+  // Sary-Bulak District: the mining foothills south of Talas (the Sary-Bulak mine 28 km south of Talas, the
+  // Chatkal smelter 30 km south-west, the lower Besh-Tash valley) and the highway strip up the lower Kara-Suu
+  // Canyon and through the Otmek tunnel to the Fergana Gateway. The crest and upper valleys stay tribal.
+  D['Sary-Bulak District'] = inIrad(pc.difference(ring([[71.6, 42.42], [71.95, 42.42], [72.3, 42.42], [72.8, 42.42],
+    [73.2, 42.4], [73.1, 42.27], [72.7, 42.24], [72.55, 42.17], [72.6, 42.08], [72.63, 42.02], [72.45, 42.02],
+    [72.42, 42.12], [72.3, 42.2], [72.1, 42.22], [71.9, 42.25], [71.7, 42.3]]),
     pc.union(D['Talas District'], D['Kara-Buura District'])));
-  // Sary-Bulak District: the corridor south from Talas over the Talas Alatau into the Chatkal valley.
-  D['Sary-Bulak District'] = inIrad(pc.difference(ring([[71.75, 42.32], [72.15, 42.32], [71.95, 42.0],
-    [71.8, 41.75], [71.95, 41.5], [71.75, 41.42], [71.55, 41.6], [71.6, 41.85], [71.7, 42.05]]), D['Talas District']));
-  // Lower Naryn District: the salient around Tash-Kömür and the downstream Naryn cascade.
-  D['Lower Naryn District'] = inIrad(pc.difference(ring([[71.75, 41.42], [71.95, 41.5], [72.15, 41.68],
-    [72.5, 41.6], [72.6, 41.45], [72.35, 41.32], [72.15, 41.12], [71.9, 41.1], [71.7, 41.28]]), D['Sary-Bulak District']));
+  // Lower Naryn District: the salient from the Fergana Gateway down the Naryn below the Toktogul dam to
+  // Tash-Kömür, with the city of Iyık Janyl in the foothills east of the gorge.
+  D['Lower Naryn District'] = inIrad(pc.difference(ring([[72.42, 42.02], [72.7, 42.04], [72.76, 41.88], [72.62, 41.74],
+    [72.64, 41.64], [72.8, 41.55], [72.78, 41.4], [72.55, 41.36], [72.4, 41.3], [72.38, 41.2], [72.2, 41.02], [71.8, 41.0],
+    [71.62, 41.25], [71.9, 41.5], [72.15, 41.68], [72.25, 41.9]]), D['Sary-Bulak District']));
   const isez = clean(unionAll(Object.values(D)));
   const atr = clean(pc.difference(irad, isez), 0.001);
 
   // ---------- ATR planning zones (UN usage) ----------
   const ZM = {
-    'Northern Steppe': ring([[66, 47], [77, 47], [77, 42.9], [71.6, 43.05], [71.3, 43.7], [71.05, 44.4], [71.0, 44.9],
-      [70.2, 44.6], [69.0, 44.75], [66, 44.75]]),
-    'Karatau': ring([[66, 44.75], [69.0, 44.75], [70.2, 44.6], [71.0, 44.9], [71.05, 44.4], [71.3, 43.7], [71.6, 43.05],
-      [70.9, 42.9], [70.9, 42.8], [70.45, 42.45], [69.9, 42.15], [66, 42.15]]),
+    // Northern Steppe: the Betpak-Dala and the Moiynkum, east of the lower Talas (lore: about 52,000 km²).
+    'Northern Steppe': ring([[71.6, 47], [77, 47], [77, 42.9], [71.0, 43.9], [70.6, 43.85], [70.3, 44.15], [70.8, 44.55],
+      [71.25, 45.0], [71.6, 45.6]]),
+    'Karatau': ring([[66, 47], [71.6, 47], [71.6, 45.6], [71.25, 45.0], [70.8, 44.55], [70.3, 44.15], [70.6, 43.85],
+      [70.65, 43.25], [70.75, 42.8], [70.45, 42.45], [69.9, 42.15], [66, 42.15]]),
     'Talas Alatau': ring([[66, 42.15], [69.9, 42.15], [70.45, 42.45], [70.9, 42.8], [70.9, 42.9], [77, 42.9], [77, 42.0],
       [73.3, 42.0], [72.3, 42.05], [71.7, 42.05], [71.0, 42.0], [70.3, 42.05], [66, 41.9]]),
     'Chatkal Highlands': ring([[66, 41.9], [70.3, 42.05], [71.0, 42.0], [71.7, 42.05], [72.3, 42.05], [72.3, 41.75],
@@ -143,8 +154,9 @@ export function geography() {
     left = pc.difference(left, mask);
   }
 
-  // Fold crumbs (< 100 km²) left where zone lines meet into the zone with the nearest vertex.
-  const crumbs = [];
+  // Fold crumbs (< 100 km²) left where zone lines meet, and any tribal land no mask caught, into the zone
+  // with the nearest vertex, so a boundary edit can never leave an unassigned hole.
+  const crumbs = clean(left, 0.0005);
   for (const name of Object.keys(Z)) {
     const keep = [];
     for (const p of Z[name]) (areaKm2([p]) < 100 ? crumbs : keep).push(p);
@@ -169,7 +181,7 @@ export function geography() {
 export const PLACES = [
   { name: 'Talas', lon: 72.24, lat: 42.52, kind: 'capital' },               // 42°31′N 72°14′E (canon)
   { name: 'Nurzhan', lon: 74.15, lat: 43.3, kind: 'city' },                 // lower Chu, 740 m; Kazakh border to the east
-  { name: 'Iyık Janyl', lon: 72.55, lat: 42.36, kind: 'city' },             // side valley of the Talas Alatau, 65 km SE of Talas by road
+  { name: 'Iyık Janyl', lon: 72.38, lat: 41.47, kind: 'city' },             // Fergana Range foothills, 18 km NE of Tash-Kömür, Lower Naryn salient (lore change 2026-10-11)
   { name: 'Boz-Korgon', lon: 74.64, lat: 43.3, kind: 'seat' },               // 40 km east of Nurzhan
   { name: 'Tash-Kömür', lon: 72.22, lat: 41.35, kind: 'town' },
   { name: 'Toktogul', lon: 72.94, lat: 41.87, kind: 'town' },
