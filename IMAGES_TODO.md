@@ -48,6 +48,7 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 |---|---|---|---|
 | Attelkom | `attelkom_white_original.png` (white on transparent) | `Attelkom_logo.png` at the top of *Attelkom* | `tools/logos/attelkom_on_green.py`: the white logo on forest green #228B22 (company colours are white and forest green). `Attelkom_logo_white.png` is kept for dark backgrounds |
 | Irad Palace of Art | `irad_palace_of_art_original.gif` (from the gallery's website) | `Irad_Palace_of_Art_logo.png` at the top of *Irad Palace of Art* | Trimmed to the artwork with a 12 px white margin and saved as PNG |
+| FreeIrad.org | `freeirad_logo_original.png` (the site's logo, transparent) | `FreeIrad.org_logo.png` at the top of *FreeIrad.org* | Used as supplied |
 | IradOne | `iradone_original.svg` (Inkscape, live Montserrat text) | `IradOne_logo.svg` at the top of *IradOne* | `tools/logos/outline_iradone.py`: lettering converted to outlines from Montserrat Medium so it renders the same without the font installed. Colours: blue #00a3ff, black |
 
 ## Map canon (decisions made while drawing)
@@ -124,7 +125,7 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 ## Later phases (from the image plan)
 
 - [ ] **Phase 2, GA and B-class articles:** thematic maps (Qara-Chik line in detail, river basins, resources, transport, UNMI sectors, religion and language by district), city plans of Talas, Nurzhan and Iyık Janyl, Toktogul complex layout, government structure and Toktarov family tree diagrams, state, party and company emblems
-- [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne and Irad Palace of Art logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
+- [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
 - [ ] **Photos:** work through the real photo list; then write the prompt sheet for generated photos (portraits, buildings, events, culture, artefacts)
 - [ ] **Credits page:** a page on the site listing every image's author and licence (required for CC BY and CC BY-SA photos)
