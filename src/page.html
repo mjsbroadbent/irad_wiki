@@ -10,6 +10,7 @@
    headings and a floated infobox. Colours follow Wikipedia's light and night themes. */
 :root {
   --bg: #ffffff;
+  --margin: #f8f9fa;          /* page margins outside the content column, as on Wikipedia */
   --text: #202122;
   --text-subtle: #54595d;
   --border: #a2a9b1;
@@ -34,6 +35,7 @@
 }
 :root[data-wiki-theme="dark"] {
   --bg: #101418;
+  --margin: #202122;
   --text: #eaecf0;
   --text-subtle: #a2a9b1;
   --border: #72777d;
@@ -55,7 +57,11 @@
 }
 
 * { box-sizing: border-box; }
-html, body { background: var(--bg); color: var(--text); }
+html, body { background: var(--margin); color: var(--text); }
+/* The header, page and footer form one centred column on the page colour; wider screens show grey margins either side. */
+.vh, .page, .foot { background: var(--bg); width: 100%; }
+body { display: flex; flex-direction: column; min-height: 100vh; margin: 0; }
+.page { flex: 1 0 auto; }
 body { font-family: var(--sans); font-size: 0.875rem; line-height: 1.6; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
