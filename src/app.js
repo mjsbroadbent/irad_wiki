@@ -280,7 +280,18 @@
     return `<a href="${IMAGES}${encodeURI(e.file)}" target="_blank" rel="noopener" title="Open the full-size image"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
   }
   // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
+  // "placement": "lead" puts it at the top right of the article instead, as for a company logo.
   function placeImages(body, a) {
+    for (const e of imagesFor(a).filter(x => x.placement === 'lead').reverse()) {
+      const fig = document.createElement('figure');
+      fig.className = 'thumb lead';
+      fig.style.width = (e.width + 8) + 'px';
+      fig.innerHTML = thumbImg(e) + (e.caption ? `<figcaption>${esc(e.caption)}</figcaption>` : '');
+      // After any hatnotes at the top, before the first paragraph.
+      let at = null;
+      for (const el of body.children) { if (el.classList.contains('hatnote')) at = el; else break; }
+      if (at) at.after(fig); else body.prepend(fig);
+    }
     for (const e of imagesFor(a)) {
       if (!e.section) continue;
       const h = [...body.querySelectorAll('h2, h3, h4')].find(x => x.textContent.trim() === e.section);

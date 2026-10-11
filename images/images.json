@@ -52,5 +52,23 @@
     "caption": "Religion in Irad, 2018 estimate",
     "alt": "Bar chart of religion: Christianity 78%, Islam 18%, other 4%",
     "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Attelkom_logo.png",
+    "article": "Attelkom",
+    "placement": "lead",
+    "width": 250,
+    "caption": "Attelkom logo",
+    "alt": "Attelkom logo: a white horse's head within a globe, with the words \"Irad's #1 ISP\" and \"Attelkom\", on forest green",
+    "credit": "Logo supplied by the wiki owner"
+  },
+  {
+    "file": "IradOne_logo.svg",
+    "article": "IradOne",
+    "placement": "lead",
+    "width": 250,
+    "caption": "IradOne logo",
+    "alt": "IradOne logo: the word IradOne with a large blue I inside an open blue rounded frame",
+    "credit": "Logo supplied by the wiki owner; lettering outlined from Montserrat (SIL Open Font License)"
   }
 ]
