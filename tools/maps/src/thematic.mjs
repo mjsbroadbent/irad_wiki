@@ -437,3 +437,162 @@ ${m.scaleBar(W - 250, H - 22, 50)}`, {
     desc: 'The situation in late May 2007, the Storming of Talas on 4 June, the DPI takeover of the cities over the summer and the September 2007 ceasefire line. Base map: Natural Earth (public domain).',
   });
 }
+
+// ---------- First Iradi Civil War, 1992 (First Iradi Civil War; Battle of Kobozev Railhead (1992)) ----------
+if (want('war1992')) {
+  const { pc, clean, RAIL } = await import('./common.mjs');
+  const W = 1000, H = 800;
+  const m = makeMap({ W, H, frame: [[69.3, 41.0], [75.75, 44.15]] });
+  const SRI = '#f1a9a0', PROV = '#a9c8ea', CLAN = '#c7dfa4', SRI_A = '#b03a2e', PROV_A = '#1f4e9a', CLAN_A = '#3f7d20';
+  const poly = c => [[[...c, c[0]]]];
+  const irad = m.g.irad;
+  // Opening phase, March 1992. The SRI holds Kobozev, the Chu lowlands, the oil fields and the main railway; the
+  // Provisional Government holds Talas and most of the Talas valley; clan horsemen hold the Talas Alatau and Chatkal valleys.
+  const sri = clean(pc.intersection(irad, pc.union(
+    poly([[71.1, 42.75], [71.0, 43.05], [71.5, 43.18], [72.3, 43.28], [73.0, 43.48], [73.5, 43.78], [74.1, 43.98], [75.1, 43.9], [75.1, 42.9],
+      [74.4, 42.97], [73.8, 42.97], [73.2, 42.88], [72.5, 42.88], [71.9, 42.84], [71.5, 42.78]]),
+    poly([[71.1, 42.75], [70.4, 42.55], [69.85, 42.55], [69.85, 42.8], [70.4, 42.82], [71.0, 42.97]]))), 0.001);
+  const prov = clean(pc.difference(pc.intersection(irad, poly([[71.5, 42.78], [71.9, 42.84], [72.5, 42.88], [73.2, 42.85], [73.65, 42.62],
+    [73.65, 42.4], [73.0, 42.38], [72.5, 42.33], [72.0, 42.36], [71.6, 42.45], [71.35, 42.62]])), sri), 0.001);
+  const clan = clean(pc.difference(pc.intersection(irad, poly([[70.4, 42.5], [71.35, 42.62], [71.6, 42.45], [72.0, 42.36], [72.5, 42.33],
+    [73.0, 42.38], [73.65, 42.4], [74.05, 42.25], [74.05, 41.85], [72.9, 41.78], [72.35, 41.62], [71.7, 41.3], [70.3, 41.35], [70.0, 41.9]])), pc.union(sri, prov)), 0.001);
+  const fills = `<path d="${m.P(toD3(irad))}" fill="#fefee9"/><path d="${m.P(toD3(clan))}" fill="${CLAN}"/>
+<path d="${m.P(toD3(sri))}" fill="${SRI}" stroke="${SRI_A}" stroke-width="0.8"/><path d="${m.P(toD3(prov))}" fill="${PROV}" stroke="${PROV_A}" stroke-width="0.8"/>`;
+  const defs = `<defs>${[['s', SRI_A], ['p', PROV_A], ['c', CLAN_A], ['g', '#666']].map(([id, c]) => `<marker id="ah-${id}" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="${c}"/></marker>`).join('')}</defs>`;
+  const arrow = (pts, col, id, { w = 4, dash = '' } = {}) => {
+    const p = pts.map(q => m.xy(...q));
+    let d = `M${p[0][0].toFixed(1)},${p[0][1].toFixed(1)}`;
+    for (let i = 1; i < p.length; i++) {
+      if (i < p.length - 1) { const mx = (p[i][0] + p[i + 1][0]) / 2, my = (p[i][1] + p[i + 1][1]) / 2; d += ` Q${p[i][0].toFixed(1)},${p[i][1].toFixed(1)} ${mx.toFixed(1)},${my.toFixed(1)}`; }
+      else d += ` L${p[i][0].toFixed(1)},${p[i][1].toFixed(1)}`;
+    }
+    return `<path d="${d}" fill="none" stroke="${col}" stroke-width="${w}" stroke-opacity="0.9" stroke-linecap="round"${dash ? ` stroke-dasharray="${dash}"` : ''} marker-end="url(#ah-${id})"/>`;
+  };
+  const arrows = [
+    arrow([[74.0, 43.2], [73.2, 42.99], [72.4, 42.94], [71.6, 42.88], [71.52, 42.72], [71.85, 42.6], [72.1, 42.55]], SRI_A, 's', { w: 4.5 }),
+    arrow([[71.95, 42.66], [71.6, 42.8], [72.2, 43.07], [73.0, 43.12], [73.45, 43.2]], SRI_A, 's', { w: 2.4, dash: '6 4' }),
+    arrow([[72.1, 42.6], [71.72, 42.68], [71.68, 42.98], [72.4, 43.15], [73.2, 43.22], [73.75, 43.3]], PROV_A, 'p', { w: 4.5 }),
+    arrow([[72.65, 42.62], [72.62, 42.8], [72.6, 42.9]], CLAN_A, 'c', { w: 2.6 }),
+    arrow([[73.45, 42.68], [73.4, 42.85], [73.38, 42.95]], CLAN_A, 'c', { w: 2.6 }),
+    arrow([[72.3, 42.42], [72.42, 42.15], [72.53, 41.85], [72.45, 41.5]], '#666', 'g', { w: 2.2, dash: '3 3' }),
+  ].join('');
+  const burst = ([lon, lat], r = 9) => { const [x, y] = m.xy(lon, lat); let d = ''; for (let i = 0; i < 16; i++) { const a = Math.PI * i / 8, rr = i % 2 ? r * 0.45 : r; d += `${i ? 'L' : 'M'}${(x + rr * Math.cos(a)).toFixed(1)},${(y + rr * Math.sin(a)).toFixed(1)}`; } return `<path d="${d}Z" fill="#e8b10b" stroke="#7a3d00" stroke-width="1"/>`; };
+  const ev = [];
+  { const [x, y] = m.xy(72.24, 42.52); ev.push(burst([72.24, 42.52], 11), callout(x, y, 70, 46, 'Siege of Talas, 10 April – 18 June', { weight: 'bold' })); }
+  { const [x, y] = at(m, 'Talas Air Base'); ev.push(sym.plane(x - 4, y + 2), callout(x - 4, y + 2, -30, 34, 'US Marines airlifted in, 6 June')); }
+  { const [x, y] = m.xy(73.85, 43.22); ev.push(burst([73.85, 43.22]), callout(x, y, -24, -46, 'Battle of Kobozev Railhead, late July')); }
+  { const [x, y] = m.xy(74.15, 43.3); ev.push(m.marker(x, y, 'capital'), label(x + 10, y - 10, 'Kobozev (Nurzhan)', { size: 14, weight: 'bold', anchor: 'start' }), label(x + 10, y + 20, 'SRI capital; fell 12 August', { size: 11, anchor: 'start', style: 'italic' })); }
+  { const [x, y] = m.xy(72.5, 42.0); ev.push(label(x + 10, y, 'refugees over the passes', { size: 10.5, anchor: 'start', style: 'italic', fill: '#555' })); }
+  { const [x, y] = m.xy(73.0, 42.72); ev.push(label(x, y, 'clan raids on the railway', { size: 10.5, style: 'italic', fill: CLAN_A })); }
+  const tags = [['SRI', 72.9, 43.32, SRI_A], ['PROVISIONAL', 73.2, 42.5, PROV_A], ['CLANS', 71.25, 41.75, CLAN_A]]
+    .map(([t, lon, lat, c]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 13, weight: 'bold', fill: c, spacing: 2 }); }).join('');
+
+  const legend = m.legend(14, 14, 300, [
+    [null, 'Opening phase, March 1992'],
+    [SW.box(SRI, SRI_A), 'Socialist Republic of Irad (Chernov)'],
+    [SW.box(PROV, PROV_A), 'Provisional Government (Alimbekov)'],
+    [SW.box(CLAN), 'Clan horsemen'],
+    [SW.box('#fefee9'), 'Other areas'],
+    [null, 'Movements'],
+    [`<path d="M0,6 H14" stroke="${SRI_A}" stroke-width="3.4"/><path d="M13,1 L20,6 L13,11 Z" fill="${SRI_A}"/>`, 'SRI offensive, late March – April'],
+    [`<path d="M0,6 H14" stroke="${SRI_A}" stroke-width="2.2" stroke-dasharray="4 3"/><path d="M13,2 L20,6 L13,10 Z" fill="${SRI_A}"/>`, 'SRI withdrawal, from 18 June'],
+    [`<path d="M0,6 H14" stroke="${PROV_A}" stroke-width="3.4"/><path d="M13,1 L20,6 L13,11 Z" fill="${PROV_A}"/>`, 'US and Provisional advance, July–August'],
+    [`<path d="M0,6 H14" stroke="#666" stroke-width="2" stroke-dasharray="3 3"/><path d="M13,2 L20,6 L13,10 Z" fill="#666"/>`, 'Refugees'],
+    [`<circle cx="10" cy="6" r="5" fill="#e8b10b" stroke="#7a3d00"/>`, 'Siege or battle'],
+    [SW.line(WP.border, 1.8), 'Present international boundary'],
+  ], 'First Iradi Civil War, 1992');
+
+  writeSvg('First_Iradi_Civil_War_map.svg', W, H, `${defs}
+${m.base()}
+${fills}
+${m.graticule()}
+${m.water()}
+<g id="railways" opacity="0.75">${Object.values(RAIL).slice(0, 4).map(c => railPath(m, c)).join('')}</g>
+${m.iradBorder()}
+<g id="tags">${tags}</g>
+<g id="arrows">${arrows}</g>
+${m.neighbourNames([['Kazakhstan', 75.35, 44.0], ['Kazakhstan', 69.6, 42.95], ['Kyrgyzstan', 74.5, 42.5], ['Uzbekistan', 71.95, 41.04]])}
+${m.places({ foreign: ['Shymkent', 'Bishkek'], only: ['Talas', 'Iyık Janyl', 'Tash-Kömür'], offsets: { 'Talas': [-14, -10], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-10, 4] } })}
+<g id="events">${ev.join('')}</g>
+${legend}
+${m.scaleBar(W - 250, H - 22, 50)}`, {
+    title: 'First Iradi Civil War, 1992',
+    desc: 'Areas held at the start of the war in March 1992, the SRI offensive and siege of Talas, the US airlift, and the joint advance along the railway to Kobozev. Base map: Natural Earth (public domain).',
+  });
+}
+
+// ---------- Rivers and drainage basins (Geography of Irad, Hydrology; Naryn River; Talas River; Chu River Basin) ----------
+// Basin divides are drawn by hand along the ranges named in the articles (approximate).
+if (want('rivers')) {
+  const { pc, clean, TRACED_RIVERS } = await import('./common.mjs');
+  const W = 1000, H = 900;
+  const m = makeMap({ W, H, frame: [[67.6, 40.65], [75.6, 46.0]] });
+  const poly = c => [[[...c, c[0]]]];
+  const irad = m.g.irad;
+  // Divide of the Syr Darya system: the Talas Alatau crest and the Karatau ridge.
+  const SYR_DIVIDE = [[75.2, 42.15], [74.2, 42.2], [73.55, 42.3], [72.9, 42.2], [72.3, 42.16], [71.6, 42.22], [70.9, 42.4], [70.4, 42.6],
+    [70.0, 42.95], [69.5, 43.35], [69.0, 43.7], [68.4, 44.05], [67.5, 44.4]];
+  const syr = clean(pc.intersection(irad, poly([...SYR_DIVIDE, [67.5, 40], [75.2, 40]])), 0.001);
+  // Talas basin: between the Talas Alatau, the Kyrgyz Range and the Karatau, ending in the western Moiynkum.
+  const talas = clean(pc.difference(pc.intersection(irad, poly([[73.9, 42.35], [74.0, 42.6], [73.4, 42.66], [72.8, 42.76], [72.2, 42.84],
+    [71.6, 42.95], [71.45, 43.35], [71.0, 43.95], [70.5, 44.55], [69.9, 44.9], [69.3, 44.7], [69.0, 43.7], [69.5, 43.35], [70.0, 42.95],
+    [70.4, 42.6], [70.9, 42.4], [71.6, 42.22], [72.3, 42.16], [72.9, 42.2], [73.55, 42.3]])), syr), 0.001);
+  // Chu basin: the Kyrgyz Range piedmont and the lowlands along the river to its end in the sands.
+  const chu = clean(pc.difference(pc.intersection(irad, poly([[75.2, 42.2], [75.2, 44.6], [74.2, 44.4], [73.3, 44.5], [72.4, 44.85],
+    [71.4, 45.25], [70.4, 45.45], [69.2, 45.5], [68.4, 45.3], [68.6, 44.85], [69.6, 44.95], [70.6, 44.8], [71.5, 44.55], [72.4, 44.2],
+    [73.1, 43.85], [73.5, 43.5], [73.0, 43.25], [72.2, 43.0], [71.6, 42.95], [72.2, 42.84], [72.8, 42.76], [73.4, 42.66], [74.0, 42.6], [73.9, 42.35]])),
+    pc.union(syr, talas)), 0.001);
+  const closed = clean(pc.difference(irad, pc.union(syr, talas, chu)), 0.001);
+  const C = { syr: '#cfe3f3', talas: '#d9ecd0', chu: '#f6e2bf', closed: '#efe9dc' };
+  const fills = [[syr, C.syr], [talas, C.talas], [chu, C.chu], [closed, C.closed]].map(([g, c]) => `<path d="${m.P(toD3(g))}" fill="${c}"/>`).join('');
+  const divides = `<path d="${m.P({ type: 'LineString', coordinates: SYR_DIVIDE })}" fill="none" stroke="#7a5c3a" stroke-width="1.3" stroke-dasharray="1.5 3" stroke-linecap="round" clip-path="url(#inside-irad)"/>`;
+
+  // Extra water: Kyzyl-Adyr Reservoir and Lake Sary-Chelek (too small for Natural Earth at this scale).
+  const blob = ([lon, lat], rx, ry) => { const [x, y] = m.xy(lon, lat); return `<ellipse cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" rx="${rx}" ry="${ry}" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.7"/>`; };
+  const water = blob([71.55, 42.63], 5, 2.6) + blob([71.95, 41.86], 2.6, 1.6);
+  const rn = [['Chu', 73.2, 44.05, -36], ['Chu', 70.9, 45.12, -6], ['Talas', 70.75, 43.62, -48], ['Talas', 72.8, 42.5, -3], ['Chatkal', 70.95, 41.78, 10],
+    ['Naryn', 72.3, 41.5, -40], ['Syr Darya', 68.75, 40.95, -38]]
+    .map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 12, style: 'italic', fill: WP.waterLine })).join('');
+  const lk = [[71.55, 42.63, 10, -8, 'Kyzyl-Adyr Reservoir'], [72.9, 41.8, 14, 22, 'Toktogul Reservoir'], [71.95, 41.86, -8, 14, 'Sary-Chelek']]
+    .map(([lon, lat, dx, dy, t]) => { const [x, y] = m.xy(lon, lat); return label(x + dx, y + dy, t, { size: 10.5, style: 'italic', fill: '#2a5b8a', anchor: dx > 0 ? 'start' : 'end' }); }).join('');
+  const ends = [[68.85, 45.03, 'Akzhaykyn depression (end of the Chu)'], [69.95, 44.36, 'Talas dies out in the sands']]
+    .map(([lon, lat, t]) => { const [x, y] = m.xy(lon, lat); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="#fff" stroke="${WP.waterLine}" stroke-width="1.2"/>` + label(x + 6, y + 15, t, { size: 10.5, style: 'italic', anchor: 'start', fill: '#555' }); }).join('');
+  const regions = [['Moiynkum', 71.6, 44.15, -20], ['Betpak-Dala', 72.6, 45.45, 0], ['Karatau', 69.2, 43.85, -48], ['Talas Alatau', 72.6, 42.24, -4],
+    ['Kyrgyz Range', 73.3, 42.78, -6], ['Fergana Range', 73.4, 41.35, -45]]
+    .map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 11.5, style: 'italic', fill: '#7a5c3a', spacing: 1 })).join('');
+  const arrows = [[70.15, 41.62, 160, 'to the Chirchik'], [72.12, 41.05, 120, 'to the Kara-Darya'], [70.0, 42.4, 195, 'to the Arys']]
+    .map(([lon, lat, rot, t]) => { const [x, y] = m.xy(lon, lat); return `<g transform="translate(${x.toFixed(1)},${y.toFixed(1)}) rotate(${rot})"><path d="M0,0 H14 M9,-4 L14,0 L9,4" fill="none" stroke="${WP.waterLine}" stroke-width="1.3"/></g>`; }).join('');
+
+  const legend = m.legend(14, H - 192, 282, [
+    [SW.box(C.chu), 'Chu basin'],
+    [SW.box(C.talas), 'Talas basin'],
+    [SW.box(C.syr), 'Syr Darya system (Naryn, Chatkal, Arys)'],
+    [SW.box(C.closed), 'Desert without surface outflow'],
+    [SW.line('#7a5c3a', 1.3, '1.5 3'), 'Divide of the Syr Darya system'],
+    [SW.line(WP.waterLine, 1.3), 'River'],
+    [`<circle cx="10" cy="6" r="3" fill="#fff" stroke="${WP.waterLine}" stroke-width="1.2"/>`, 'River end in the sands'],
+    [SW.line(WP.border, 1.8), 'International boundary'],
+  ], 'Drainage of Irad (approximate)');
+
+  writeSvg('Rivers_of_Irad_map.svg', W, H, `${m.base()}
+${fills}
+${m.graticule()}
+${m.clipIrad()}
+${divides}
+${m.water({ width: 1.4 })}
+${water}
+${m.iradBorder()}
+<g id="regions">${regions}</g>
+<g id="river-names">${rn}</g>
+<g id="lakes-names">${lk}</g>
+<g id="ends">${ends}</g>
+<g id="outflow">${arrows}</g>
+${m.neighbourNames([['Kazakhstan', 73.5, 45.85], ['Kazakhstan', 68.6, 42.25], ['Kyrgyzstan', 74.6, 42.0], ['Uzbekistan', 71.0, 40.85]])}
+${m.places({ foreign: ['Shymkent', 'Bishkek', 'Namangan'], only: ['Talas', 'Nurzhan', 'Iyık Janyl', 'Tash-Kömür'],
+    offsets: { 'Talas': [0, -11], 'Nurzhan': [-8, -9], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-10, 4] } })}
+${legend}
+${m.scaleBar(W - 330, H - 22, 100)}`, {
+    title: 'Rivers and drainage basins of Irad',
+    desc: 'The three closed drainage systems of Irad: the Chu, the Talas and the Syr Darya system, with the deserts that have no surface outflow. Basin divides are approximate. Base map: Natural Earth (public domain).',
+  });
+}

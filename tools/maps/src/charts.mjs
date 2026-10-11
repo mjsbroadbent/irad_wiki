@@ -136,3 +136,64 @@ ${body}
     desc: 'Erlan Toktarov and Anara Toktarova; their sons Ruslan, Alikhan, Timur, Adil and Bekzat and daughter Zara, who is married to Lieutenant Governor Aidar Maksat.',
   });
 }
+
+// ---------- Government of Irad since 2007 (Politics of Irad) ----------
+{
+  const W = 920, H = 600;
+  const box = (x, y, w, h, title, lines = [], { fill = '#fff', stroke = '#72777d', bold = true } = {}) =>
+    `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="3" fill="${fill}" stroke="${stroke}" stroke-width="1.1"/>
+<text x="${x + w / 2}" y="${y + 18}" font-size="12.5" font-weight="${bold ? 'bold' : 'normal'}" text-anchor="middle" fill="${WP.text}">${esc(title)}</text>
+${lines.map((l, i) => `<text x="${x + w / 2}" y="${y + 34 + i * 13}" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">${esc(l)}</text>`).join('')}`;
+  const arr = (x1, y1, x2, y2, text, { dash = '', side = 'right' } = {}) => {
+    const mx = (x1 + x2) / 2, my = (y1 + y2) / 2;
+    return `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#54595d" stroke-width="1.3"${dash ? ` stroke-dasharray="${dash}"` : ''} marker-end="url(#gov-ah)"/>`
+      + (text ? `<text x="${mx + (side === 'right' ? 6 : -6)}" y="${my + 4}" font-size="10.5" font-style="italic" text-anchor="${side === 'right' ? 'start' : 'end'}" fill="${WP.textMuted}">${esc(text)}</text>` : '');
+  };
+  const ISEZ = '#fdf1e2', ATR = '#e9f3e2', UN = '#e3eef9';
+  const body = `<defs><marker id="gov-ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#54595d"/></marker></defs>
+<rect width="${W}" height="${H}" fill="#fff"/>
+<rect x="10" y="10" width="545" height="470" rx="4" fill="${ISEZ}" stroke="#d7b98e"/>
+<text x="282" y="32" font-size="14" font-weight="bold" text-anchor="middle" fill="${WP.text}">Irad Special Economic Zone (ISEZ)</text>
+<text x="282" y="48" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">Organic Act of 1992 and territorial statutes, treated as still in force</text>
+${box(197, 62, 170, 34, 'Voters of the ISEZ', [], { bold: false })}
+${arr(232, 96, 115, 140, 'elect every 4 years', { side: 'left' })}
+${arr(332, 96, 450, 140, 'elect every 4 years')}
+${box(25, 142, 190, 64, 'Governor', ['and Lieutenant Governor', 'joint ticket, 4-year terms'])}
+${box(355, 142, 185, 64, 'Mejlis', ['Territorial Legislature, 60 seats', 'Legislative Hall, Talas'])}
+${arr(120, 206, 120, 248, 'appoints', { side: 'right' })}
+${box(25, 250, 190, 64, 'Cabinet', ['ministers and department heads', 'chaired by the Lt. Governor'])}
+${arr(120, 314, 120, 350, '', {})}
+${box(25, 352, 190, 50, 'Internal Security', ['ministry; Republican Gendarmerie'])}
+${arr(215, 172, 250, 268, '', {})}
+${box(235, 270, 140, 64, 'Mayors', ['of Talas, Nurzhan and', 'Iyık Janyl (appointed)'])}
+${box(395, 250, 145, 64, 'Supreme Court', ['Chief Justice and', '4 associate justices'])}
+${arr(467, 314, 467, 350, '', {})}
+${box(395, 352, 145, 50, 'Lower courts', ['district and municipal'])}
+${box(235, 352, 140, 50, 'Five districts', ['Talas, Kara-Buura, Chu,', 'Sary-Bulak, Lower Naryn'])}
+<text x="282" y="440" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">De jure capital: Talas. Executive reported at Boz-Korgon since 2023.</text>
+<text x="282" y="456" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">Ruling party: Democratic Party of Irad (DPI)</text>
+
+<rect x="570" y="10" width="340" height="470" rx="4" fill="${ATR}" stroke="#a8c995"/>
+<text x="740" y="32" font-size="14" font-weight="bold" text-anchor="middle" fill="${WP.text}">Autonomous Tribal Regions (ATR)</text>
+<text x="740" y="48" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">No formal government; customary law (adat)</text>
+${box(605, 62, 270, 50, '24 clans (uruk)', ['each governed by a council of elders (aksakals)'])}
+${arr(740, 112, 740, 142, 'send delegates', {})}
+${box(605, 144, 270, 50, 'Kurultai', ['assembly of the clans; decides by consensus'])}
+${arr(740, 194, 740, 226, '', {})}
+${box(605, 228, 270, 64, 'Iradi Freedom Society (IAC)', ['consultative confederation formed 2007', 'unofficial leader: Bektur Zhumabek uulu'])}
+${box(605, 312, 130, 64, 'Elder judges', ['(biys) settle disputes', 'by compensation (kun)'])}
+${box(745, 312, 130, 64, 'El-Choro Militias', ['successors of the', 'Popular Front'])}
+<text x="740" y="440" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">The Organic Act and ISEZ courts are not recognized here.</text>
+
+<rect x="200" y="500" width="520" height="88" rx="4" fill="${UN}" stroke="#8fb3d9"/>
+<text x="460" y="522" font-size="13" font-weight="bold" text-anchor="middle" fill="${WP.text}">United Nations Mission in Irad (UNMI), since October 2007</text>
+<text x="460" y="542" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">monitors the Qara-Chik line; headquarters at Kara-Oi</text>
+<text x="460" y="560" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">Joint Liaison Committee (ISEZ and ATR)</text>
+<text x="460" y="576" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">Joint technical commission for the Toktogul complex (Naryn Water and Power Protocol)</text>
+<line x1="282" y1="480" x2="282" y2="500" stroke="#54595d" stroke-width="1.3" stroke-dasharray="4 3"/>
+<line x1="740" y1="480" x2="640" y2="500" stroke="#54595d" stroke-width="1.3" stroke-dasharray="4 3"/>`;
+  writeSvg('Government_of_Irad_diagram.svg', W, H, body, {
+    title: 'Government of Irad since 2007',
+    desc: 'The ISEZ: voters elect the Governor and Lieutenant Governor and the 60-seat Mejlis; the Governor appoints the cabinet and the mayors; the Supreme Court heads the courts. The ATR: 24 clans with councils of elders, the Kurultai and the Iradi Freedom Society. UNMI links the two through the Joint Liaison Committee and the Toktogul commission.',
+  });
+}
