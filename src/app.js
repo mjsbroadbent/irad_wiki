@@ -3,10 +3,9 @@
   'use strict';
   const BASE = './';                 // folder that holds the volume files and webflag.svg
   const FLAG = BASE + 'webflag.svg';
-  // Like Wikipedia, the infobox shows a pre-rendered PNG thumbnail (1x and 2x) and links to the full SVG.
-  const LOCATOR = BASE + 'Irad_(orthographic_projection).svg';
-  const LOCATOR_THUMB = BASE + 'thumb/250px-Irad_(orthographic_projection).png';
-  const LOCATOR_THUMB_2X = BASE + 'thumb/500px-Irad_(orthographic_projection).png';
+  // Images are listed in images/images.json (file, article, section or placement, width, caption, alt).
+  // As on Wikipedia, articles show PNG thumbnails at 1x and 2x and link to the full file.
+  const IMAGES = BASE + 'images/';
   const THEME_KEY = 'iradwiki-theme';
   const $ = s => document.querySelector(s);
   const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
@@ -19,7 +18,7 @@
   const reduceMotion = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
   const plural = (n, one, many) => `${n.toLocaleString('en')} ${n === 1 ? one : (many || one + 's')}`;
 
-  let wiki = null, md = null, infobox = null, query = '', searchIndex = null;
+  let wiki = null, md = null, infobox = null, query = '', searchIndex = null, images = [];
   const ledeCache = new Map();
   const ledeOf = a => { if (!ledeCache.has(a)) ledeCache.set(a, lede(a.src)); return ledeCache.get(a); };
 
@@ -58,6 +57,8 @@
     md = window.markdownit({ html: true, linkify: false, typographer: false });
     let done = 0;
     const bar = $('#loadBar'), msg = $('#loadMsg');
+    // The image list is optional: without it, articles simply show no images.
+    const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
     try {
       const texts = await Promise.all(VOLUMES.map(async v => {
         const r = await fetch(BASE + v.file);
@@ -75,6 +76,7 @@
         ? 'Browsers block a page opened straight from disk from reading the volume files. Serve the folder over HTTP instead, for example with <code>python3 -m http.server</code> in this folder, then open <code>http://localhost:8000</code>.'
         : `Couldn't read the article volumes (${esc(e.message)}). Make sure the three <code>Irad_Wiki_Vol…md</code> files sit in the same folder as this page.`);
     }
+    images = await imageList;
     if (wiki.warnings.length) console.warn('Irad Wiki:\n' + wiki.warnings.join('\n'));
     const block = (wiki.pre[0] || '').match(/```\s*\n([\s\S]*?)```/);
     infobox = block ? parseInfobox(block[1]) : null;
@@ -268,11 +270,38 @@
     </ul></div>`;
   }
 
+  /* ---------- images ---------- */
+  const imagesFor = a => images.filter(e => e.article === a.title);
+  function thumbImg(e) {
+    const stem = e.file.replace(/\.svg$/i, '');
+    const isSvg = /\.svg$/i.test(e.file);
+    const src = isSvg ? `${IMAGES}thumb/${e.width}px-${stem}.png` : IMAGES + e.file;
+    const srcset = isSvg ? ` srcset="${IMAGES}thumb/${e.width * 2}px-${stem}.png 2x"` : '';
+    return `<a href="${IMAGES}${encodeURI(e.file)}" target="_blank" rel="noopener" title="Open the full-size image"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
+  }
+  // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
+  function placeImages(body, a) {
+    for (const e of imagesFor(a)) {
+      if (!e.section) continue;
+      const h = [...body.querySelectorAll('h2, h3, h4')].find(x => x.textContent.trim() === e.section);
+      if (!h) { console.warn(`Irad Wiki: no section "${e.section}" in ${a.title} for ${e.file}`); continue; }
+      const fig = document.createElement('figure');
+      fig.className = 'thumb';
+      fig.style.width = (e.width + 8) + 'px';
+      fig.innerHTML = thumbImg(e) + (e.caption ? `<figcaption>${esc(e.caption)}</figcaption>` : '');
+      let at = h;
+      const next = h.nextElementSibling;
+      if (next && /^Main articles?:/i.test(next.textContent.trim())) at = next;
+      at.after(fig);
+    }
+  }
+
   function renderArticle(a) {
     const body = document.createElement('div');
     body.className = 'prose';
     body.innerHTML = toHtml(a.src);
     enhance(body);
+    placeImages(body, a);
     const hs = [...body.querySelectorAll('h2')];
     hs.forEach((h, i) => { h.id = 'sec-' + (i + 1); });
     if (hs.length >= 2) {
@@ -321,6 +350,7 @@
     const el = document.createElement('aside');
     el.className = 'infobox';
     const flag = box.rows.find(r => r.key === 'Flag');
+    const locator = images.find(e => e.article === 'Irad' && e.placement === 'infobox');
     const rows = box.rows.filter(r => r !== flag);
     // As on Wikipedia, the location map sits after the flag and anthem, before the capital and the rest.
     const anthemAt = rows.findIndex(r => /^anthem/i.test(r.key));
@@ -330,7 +360,7 @@
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
       ${dl(top)}
-      <figure class="locator"><a href="${LOCATOR}" target="_blank" rel="noopener" title="Open the full-size map"><img src="${LOCATOR_THUMB}" srcset="${LOCATOR_THUMB_2X} 2x" width="250" height="250" alt="Orthographic globe centred on Central Asia with Irad shown in green"></a><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
+      ${locator ? `<figure class="locator">${thumbImg(locator)}${locator.caption ? `<figcaption>${esc(locator.caption)}</figcaption>` : ''}</figure>` : ''}
       ${dl(rest)}`;
     return el;
   }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="338" viewBox="0 0 420 338" font-family="'DejaVu Sans', Arial, Helvetica, sans-serif">
+<title>Ethnic groups in Irad (2018 census)</title>
+<desc>Iradis 72%; Kyrgyz 7%; Uzbeks 5%; Russians 4%; Americans 4%; Kazakhs 3%; Ukrainians 1%; Koryo-saram 1%; Chinese 1%; Mexicans 1%; Tajiks, Uyghurs, Dungans 1%</desc>
+<rect x="0.5" y="0.5" width="419" height="337" fill="#f8f9fa" stroke="#a2a9b1"/>
+<text x="210" y="26" font-size="14" font-weight="bold" text-anchor="middle" fill="#202122">Ethnic groups in Irad (2018 census)</text>
+<text x="188" y="59" font-size="12.5" text-anchor="end" fill="#202122">Iradis</text>
+<rect x="196" y="48" width="164.0" height="15" fill="#3366cc"/>
+<text x="366.0" y="60" font-size="12.5" fill="#202122">72%</text>
+<text x="188" y="83" font-size="12.5" text-anchor="end" fill="#202122">Kyrgyz</text>
+<rect x="196" y="72" width="15.9" height="15" fill="#3366cc"/>
+<text x="217.9" y="84" font-size="12.5" fill="#202122">7%</text>
+<text x="188" y="107" font-size="12.5" text-anchor="end" fill="#202122">Uzbeks</text>
+<rect x="196" y="96" width="11.4" height="15" fill="#3366cc"/>
+<text x="213.4" y="108" font-size="12.5" fill="#202122">5%</text>
+<text x="188" y="131" font-size="12.5" text-anchor="end" fill="#202122">Russians</text>
+<rect x="196" y="120" width="9.1" height="15" fill="#3366cc"/>
+<text x="211.1" y="132" font-size="12.5" fill="#202122">4%</text>
+<text x="188" y="155" font-size="12.5" text-anchor="end" fill="#202122">Americans</text>
+<rect x="196" y="144" width="9.1" height="15" fill="#3366cc"/>
+<text x="211.1" y="156" font-size="12.5" fill="#202122">4%</text>
+<text x="188" y="179" font-size="12.5" text-anchor="end" fill="#202122">Kazakhs</text>
+<rect x="196" y="168" width="6.8" height="15" fill="#3366cc"/>
+<text x="208.8" y="180" font-size="12.5" fill="#202122">3%</text>
+<text x="188" y="203" font-size="12.5" text-anchor="end" fill="#202122">Ukrainians</text>
+<rect x="196" y="192" width="2.3" height="15" fill="#3366cc"/>
+<text x="204.3" y="204" font-size="12.5" fill="#202122">1%</text>
+<text x="188" y="227" font-size="12.5" text-anchor="end" fill="#202122">Koryo-saram</text>
+<rect x="196" y="216" width="2.3" height="15" fill="#3366cc"/>
+<text x="204.3" y="228" font-size="12.5" fill="#202122">1%</text>
+<text x="188" y="251" font-size="12.5" text-anchor="end" fill="#202122">Chinese</text>
+<rect x="196" y="240" width="2.3" height="15" fill="#3366cc"/>
+<text x="204.3" y="252" font-size="12.5" fill="#202122">1%</text>
+<text x="188" y="275" font-size="12.5" text-anchor="end" fill="#202122">Mexicans</text>
+<rect x="196" y="264" width="2.3" height="15" fill="#3366cc"/>
+<text x="204.3" y="276" font-size="12.5" fill="#202122">1%</text>
+<text x="188" y="299" font-size="12.5" text-anchor="end" fill="#202122">Tajiks, Uyghurs, Dungans</text>
+<rect x="196" y="288" width="2.3" height="15" fill="#3366cc"/>
+<text x="204.3" y="300" font-size="12.5" fill="#202122">1%</text>
+<text x="12" y="327" font-size="11" fill="#555555">Official figures. Analysts consider the American share inflated.</text>
+</svg>

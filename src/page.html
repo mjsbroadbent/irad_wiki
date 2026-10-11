@@ -166,6 +166,10 @@ main { min-width: 0; padding-bottom: 32px; }
 .infobox .above span { display: block; font-size: 80%; font-weight: 400; margin-top: 2px; }
 .infobox figure { margin: .4em 0; text-align: center; }
 .infobox figure img { width: 220px; max-width: 100%; border: 1px solid var(--border-subtle); }
+/* Article thumbnails, after Wikipedia's "thumb" frames */
+.prose figure.thumb { float: right; clear: right; max-width: 100%; margin: .4em 0 1.2em 1.4em; padding: 3px; border: 1px solid var(--border-subtle); background: var(--surface); font-size: 88%; line-height: 1.4; }
+.prose figure.thumb img { display: block; width: 100%; height: auto; border: 1px solid var(--border-faint); background: #fff; }
+.prose figure.thumb figcaption { padding: 4px 3px 2px; color: var(--text); }
 .infobox figure.locator { border-top: 1px solid var(--border-faint); padding-top: .4em; }
 .infobox figure.locator img { width: 250px; height: auto; border: 0; vertical-align: middle; }
 .infobox figcaption { font-size: 95%; line-height: 1.35; padding: 0 .4em; }
@@ -283,6 +287,7 @@ main { min-width: 0; padding-bottom: 32px; }
   .search button { display: none; }
   .search input { border-right: 1px solid var(--border); border-radius: 2px; }
   .infobox { float: none; width: auto; margin: .5em 0 1em; }
+  .prose figure.thumb { float: none; margin: .5em auto 1em; }
   .firstHeading { font-size: 1.6rem; }
   .mp-tfa img { width: 80px; }
 }
