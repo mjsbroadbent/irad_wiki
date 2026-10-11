@@ -6,4 +6,5 @@ cd "$(dirname "$0")"
 node src/globe.mjs
 node src/regional.mjs
 node src/charts.mjs
+node src/thematic.mjs
 python3 thumbs.py

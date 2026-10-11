@@ -1,84 +1,16 @@
 // Regional maps of Irad: Map_of_Irad.svg (reference) and Irad_administrative_divisions.svg.
-import { d3, load, geography, toD3, fixGeom, areaKm2, PLACES, FOREIGN_CITIES, TRACED_RIVERS } from './common.mjs';
-import { pathFn, writeSvg, label, WP, esc } from './svg.mjs';
+import { areaKm2, PLACES, toD3 } from './common.mjs';
+import { writeSvg, label, WP, esc } from './svg.mjs';
+import { makeMap } from './base.mjs';
 
 const W = 1000, H = 860;
-const FRAME = { type: 'Polygon', coordinates: [[[66.3, 40.15], [66.3, 46.1], [75.7, 46.1], [75.7, 40.15], [66.3, 40.15]]] };
-const proj = d3.geoConicConformal().parallels([41.5, 44.5]).rotate([-71.6, 0])
-  .fitExtent([[18, 18], [W - 18, H - 18]], FRAME).clipExtent([[0, 0], [W, H]]);
-const P = pathFn(proj, 0.3);
-const xy = (lon, lat) => proj([lon, lat]);
-
-const g = geography();
-const regionCountries = load('region_countries_10m.geojson');
-const lakes = load('lakes_10m.geojson');
-const rivers = load('rivers_10m.geojson');
-
-// ---------- shared layers ----------
-function baseLayers() {
-  const others = regionCountries.features.filter(f => !['KZ', 'KG', 'UZ'].includes(f.properties.iso))
-    .map(f => `<path d="${P(fixGeom(f.geometry))}"/>`).join('');
-  const nb = Object.values(g.neighbours).map(mp => `<path d="${P(toD3(mp))}"/>`).join('');
-  return `<rect width="${W}" height="${H}" fill="${WP.land}"/>
-<g id="countries" fill="${WP.land}" stroke="${WP.border}" stroke-width="0.8" stroke-linejoin="round">${others}${nb}</g>`;
-}
-function waterLayers() {
-  const lk = lakes.features.map(f => `<path d="${P(fixGeom(f.geometry))}"/>`).join('');
-  const ne = rivers.features.filter(f => ['Naryn', 'Syr  Darya'].includes(f.properties.name))
-    .map(f => `<path d="${P(f.geometry)}"/>`).join('');
-  const traced = Object.values(TRACED_RIVERS).map(c => `<path d="${P({ type: 'LineString', coordinates: c })}"/>`).join('');
-  return `<g id="rivers" fill="none" stroke="${WP.waterLine}" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round">${ne}${traced}</g>
-<g id="lakes" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.6">${lk}</g>`;
-}
-function iradBorder() {
-  return `<path id="Irad-border" d="${P(toD3(g.irad))}" fill="none" stroke="${WP.border}" stroke-width="1.8" stroke-linejoin="round"/>`;
-}
-// The Qara-Chik line: the ISEZ outline clipped to Irad's interior, so the external border isn't doubled.
-function qaraChik(stroke = '#c0392b') {
-  return `<clipPath id="inside-irad"><path d="${P(toD3(g.irad))}"/></clipPath>
-<path id="Qara-Chik-line" d="${P(toD3(g.isez))}" fill="none" stroke="${stroke}" stroke-width="1.6" stroke-dasharray="6 3" clip-path="url(#inside-irad)"/>`;
-}
-function neighbourNames() {
-  const N = [['Kazakhstan', 73.4, 45.95], ['Kazakhstan', 67.6, 44.6], ['Kyrgyzstan', 75.0, 42.2], ['Kyrgyzstan', 74.7, 40.45],
-    ['Uzbekistan', 70.4, 40.45], ['Tajikistan', 69.6, 40.25]];
-  return N.map(([n, lon, lat]) => { const [x, y] = xy(lon, lat); return label(x, y, n, { size: 15, fill: '#6a6a6a', spacing: 2, upper: true }); }).join('');
-}
-function scaleBar(x, y) {
-  const [ax] = xy(70, 43), [bx] = proj([70 + 100 / (111.32 * Math.cos(43 * Math.PI / 180)), 43]);
-  const px100 = bx - ax;
-  return `<g id="scale" font-size="11" fill="${WP.text}">
-<rect x="${x}" y="${y}" width="${(px100 / 2).toFixed(1)}" height="5" fill="${WP.text}"/>
-<rect x="${(x + px100 / 2).toFixed(1)}" y="${y}" width="${(px100 / 2).toFixed(1)}" height="5" fill="#fff" stroke="${WP.text}" stroke-width="0.8"/>
-<rect x="${(x + px100).toFixed(1)}" y="${y}" width="${px100.toFixed(1)}" height="5" fill="${WP.text}"/>
-<text x="${x}" y="${y - 4}" text-anchor="middle">0</text>
-<text x="${(x + px100).toFixed(1)}" y="${y - 4}" text-anchor="middle">100</text>
-<text x="${(x + 2 * px100).toFixed(1)}" y="${y - 4}" text-anchor="middle">200 km</text></g>`;
-}
-function graticule() {
-  const lines = d3.geoGraticule().extent([[66, 39], [78, 47]]).step([1, 1])();
-  return `<path id="graticule" d="${d3.geoPath(proj)(lines)}" fill="none" stroke="#9a9a9a" stroke-width="0.4" stroke-opacity="0.6"/>`;
-}
-function places({ foreign = true } = {}) {
-  let out = '';
-  for (const p of PLACES) {
-    const [x, y] = xy(p.lon, p.lat);
-    const off = { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 16], 'Iyık Janyl': [9, -7], 'Tash-Kömür': [-8, 14],
-      'Toktogul': [8, -7], 'Kara-Buura': [-6, -8], 'Mailuu-Suu': [8, 14] }[p.name] || [0, -8];
-    const anchor = off[0] > 0 ? 'start' : off[0] < 0 ? 'end' : 'middle';
-    if (p.kind === 'capital') out += `<rect x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/><rect x="${(x - 2.2).toFixed(1)}" y="${(y - 2.2).toFixed(1)}" width="4.4" height="4.4" fill="${WP.text}"/>`;
-    else if (p.kind === 'city' || p.kind === 'seat') out += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="4.2" fill="#fff" stroke="${WP.text}" stroke-width="1.4"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="1.6" fill="${WP.text}"/>`;
-    else out += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="2.8" fill="${WP.text}"/>`;
-    const big = p.kind === 'capital' ? 15 : p.kind === 'town' ? 11.5 : 13;
-    out += label(x + off[0], y + off[1], p.name, { size: big, anchor, weight: p.kind === 'capital' ? 'bold' : 'normal' });
-  }
-  if (foreign) for (const c of FOREIGN_CITIES) {
-    const [x, y] = xy(c.lon, c.lat);
-    if (x < 10 || x > W - 10 || y < 10 || y > H - 10) continue;
-    out += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="2.6" fill="#777"/>` + label(x, y + 14, c.name, { size: 11, fill: '#555' });
-  }
-  return `<g id="places">${out}</g>`;
-}
-const centroid = mp => { const big = mp.slice().sort((a, b) => areaKm2([b]) - areaKm2([a]))[0]; return proj(d3.geoCentroid(toD3([big]))); };
+const m = makeMap({ W, H });
+const { P, xy, g, centroid } = m;
+const baseLayers = m.base, waterLayers = m.water, iradBorder = m.iradBorder, neighbourNames = m.neighbourNames;
+const graticule = () => m.graticule(), scaleBar = (x, y) => m.scaleBar(x, y);
+const qaraChik = () => m.clipIrad() + '\n' + m.qaraChik();
+const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 16], 'Iyık Janyl': [9, -7],
+  'Tash-Kömür': [-8, 14], 'Toktogul': [8, -7], 'Kyzyl-Adyr': [-6, -8], 'Mailuu-Suu': [8, 14] } });
 
 // ---------- 1. Reference map ----------
 {

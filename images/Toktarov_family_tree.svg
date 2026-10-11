@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="286" viewBox="0 0 930 286" font-family="'DejaVu Sans', Arial, Helvetica, sans-serif">
+<title>Toktarov family tree</title>
+<desc>Erlan Toktarov and Anara Toktarova; their sons Ruslan, Alikhan, Timur, Adil and Bekzat and daughter Zara, who is married to Lieutenant Governor Aidar Maksat.</desc>
+<rect width="930" height="286" fill="#fff"/>
+<rect x="180.0" y="21.0" width="170" height="50" fill="#fff" stroke="#202122" stroke-width="2"/>
+<text x="265" y="40" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#3366cc">Erlan Toktarov</text>
+<text x="265" y="55" font-size="10.5" text-anchor="middle" fill="#555555">b. 1954</text><text x="265" y="67" font-size="10.5" text-anchor="middle" fill="#555555">Governor of the ISEZ, 2007–</text>
+<rect x="425.0" y="29.0" width="150" height="34" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="500" y="50" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#202122">Anara Toktarova</text>
+
+<line x1="350" y1="44" x2="425" y2="44" stroke="#202122" stroke-width="1.2"/><line x1="350" y1="48" x2="425" y2="48" stroke="#202122" stroke-width="1.2"/>
+<text x="387.5" y="38" font-size="10.5" text-anchor="middle" fill="#555555">m.</text>
+<path d="M387.5,48 L387.5,132" fill="none" stroke="#202122" stroke-width="1.2"/>
+<path d="M70,132 L700,132" fill="none" stroke="#202122" stroke-width="1.2"/>
+<path d="M70,132 L70,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="11.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="70" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Ruslan Toktarov</text>
+<text x="70" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1978</text><text x="70" y="227" font-size="10.5" text-anchor="middle" fill="#555555">Gendarmerie chief</text>
+<path d="M196,132 L196,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="137.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="196" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Alikhan Toktarov</text>
+<text x="196" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1980</text><text x="196" y="227" font-size="10.5" text-anchor="middle" fill="#555555">chairman, IradOne</text>
+<path d="M322,132 L322,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="263.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="322" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Timur Toktarov</text>
+<text x="322" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1982</text><text x="322" y="227" font-size="10.5" text-anchor="middle" fill="#555555">freight haulage</text>
+<path d="M448,132 L448,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="389.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="448" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Adil Toktarov</text>
+<text x="448" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1984</text><text x="448" y="227" font-size="10.5" text-anchor="middle" fill="#555555">property developer</text>
+<path d="M574,132 L574,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="515.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="574" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Bekzat Toktarov</text>
+<text x="574" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1986</text><text x="574" y="227" font-size="10.5" text-anchor="middle" fill="#555555">grain milling</text>
+<path d="M700,132 L700,181" fill="none" stroke="#202122" stroke-width="1.2"/><rect x="641.0" y="181.0" width="118" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="700" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Zara Toktarova</text>
+<text x="700" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1988</text><text x="700" y="227" font-size="10.5" text-anchor="middle" fill="#555555">education scholar</text>
+<line x1="759" y1="204" x2="789" y2="204" stroke="#202122" stroke-width="1.2"/><line x1="759" y1="208" x2="789" y2="208" stroke="#202122" stroke-width="1.2"/>
+<text x="774" y="198" font-size="10.5" text-anchor="middle" fill="#555555">m.</text>
+<rect x="789.0" y="181.0" width="128" height="50" fill="#fff" stroke="#202122" stroke-width="1"/>
+<text x="853" y="200" font-size="12.5" font-weight="normal" text-anchor="middle" fill="#3366cc">Aidar Maksat</text>
+<text x="853" y="215" font-size="10.5" text-anchor="middle" fill="#555555">b. 1980</text><text x="853" y="227" font-size="10.5" text-anchor="middle" fill="#555555">Lieutenant Governor</text>
+<text x="12" y="272" font-size="11" fill="#555555">Children in order of birth; m. = married. Ruslan and Alikhan are the rivals in the succession discussed since 2024.</text>
+</svg>

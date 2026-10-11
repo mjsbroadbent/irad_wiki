@@ -70,3 +70,69 @@ barBox('Irad_religion_2018.svg', 'Religion in Irad (2018 estimate)', [
   { name: 'Islam', pct: 18 },
   { name: 'Other', pct: 4 },
 ], 'Other: mainly Jews, Buddhists and Bahaʼis.');
+
+// ---------- Toktarov's official results in ISEZ gubernatorial elections (Politics of Irad, Elections) ----------
+{
+  const R = [['2011', 88.74], ['2015', 78.25], ['2019', 90.31], ['2023', 92.75]];
+  const W = 420, H = 300, x0 = 52, y0 = 52, ph = 190, pw = W - x0 - 24, bw = 54;
+  const y = v => y0 + ph - v / 100 * ph;
+  const grid = [0, 25, 50, 75, 100].map(v => `<line x1="${x0}" y1="${y(v).toFixed(1)}" x2="${x0 + pw}" y2="${y(v).toFixed(1)}" stroke="${v ? '#dcdcdc' : '#72777d'}" stroke-width="${v ? 0.8 : 1}"/><text x="${x0 - 6}" y="${(y(v) + 4).toFixed(1)}" font-size="11" text-anchor="end" fill="${WP.textMuted}">${v}%</text>`).join('');
+  const step = pw / R.length;
+  const bars = R.map(([yr, v], i) => {
+    const cx = x0 + step * (i + 0.5);
+    return `<rect x="${(cx - bw / 2).toFixed(1)}" y="${y(v).toFixed(1)}" width="${bw}" height="${(y(0) - y(v)).toFixed(1)}" fill="#1f4e9a"/>
+<text x="${cx.toFixed(1)}" y="${(y(v) - 6).toFixed(1)}" font-size="12.5" font-weight="bold" text-anchor="middle" fill="${WP.text}">${v.toFixed(2)}%</text>
+<text x="${cx.toFixed(1)}" y="${(y(0) + 17).toFixed(1)}" font-size="12.5" text-anchor="middle" fill="${WP.text}">${yr}</text>`;
+  }).join('\n');
+  writeSvg('Toktarov_gubernatorial_results.svg', W, H, `<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" fill="#f8f9fa" stroke="#a2a9b1"/>
+<text x="${W / 2}" y="26" font-size="14" font-weight="bold" text-anchor="middle" fill="${WP.text}">Erlan Toktarov's official vote share</text>
+${grid}
+${bars}
+<text x="12" y="${H - 12}" font-size="11" fill="${WP.textMuted}">ISEZ gubernatorial elections (ISEZ only). The OSCE has criticized all four.</text>`, {
+    title: "Erlan Toktarov's official vote share in ISEZ gubernatorial elections",
+    desc: R.map(([a, b]) => `${a}: ${b}%`).join('; '),
+  });
+}
+
+// ---------- Toktarov family tree (Erlan Toktarov, Family) ----------
+{
+  const W = 930, H = 286;
+  const box = (cx, cy, name, sub, { w = 132, bold = false, link = true } = {}) => {
+    const h = sub ? 50 : 34;
+    return `<rect x="${(cx - w / 2).toFixed(1)}" y="${(cy - h / 2).toFixed(1)}" width="${w}" height="${h}" fill="#fff" stroke="#202122" stroke-width="${bold ? 2 : 1}"/>
+<text x="${cx}" y="${cy - (sub ? 6 : -4)}" font-size="12.5" font-weight="${bold ? 'bold' : 'normal'}" text-anchor="middle" fill="${link ? '#3366cc' : WP.text}">${esc(name)}</text>
+${sub ? sub.split('\n').map((s, i) => `<text x="${cx}" y="${cy + 9 + i * 12}" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">${esc(s)}</text>`).join('') : ''}`;
+  };
+  const L = (pts) => `<path d="${pts.map((p, i) => `${i ? 'L' : 'M'}${p[0]},${p[1]}`).join(' ')}" fill="none" stroke="#202122" stroke-width="1.2"/>`;
+  const marriage = (x1, x2, y) => `<line x1="${x1}" y1="${y - 2}" x2="${x2}" y2="${y - 2}" stroke="#202122" stroke-width="1.2"/><line x1="${x1}" y1="${y + 2}" x2="${x2}" y2="${y + 2}" stroke="#202122" stroke-width="1.2"/>`;
+  const topY = 46, kidY = 206, barY = 132;
+  const kids = [
+    ['Ruslan Toktarov', 'b. 1978\nGendarmerie chief'],
+    ['Alikhan Toktarov', 'b. 1980\nchairman, IradOne'],
+    ['Timur Toktarov', 'b. 1982\nfreight haulage'],
+    ['Adil Toktarov', 'b. 1984\nproperty developer'],
+    ['Bekzat Toktarov', 'b. 1986\ngrain milling'],
+    ['Zara Toktarova', 'b. 1988\neducation scholar'],
+  ];
+  const kx = i => 70 + i * 126;
+  const parentsMid = (kx(0) + kx(5)) / 2;
+  const ex = parentsMid - 120, ax = parentsMid + 115;
+  const body = [
+    box(ex, topY, 'Erlan Toktarov', 'b. 1954\nGovernor of the ISEZ, 2007–', { w: 170, bold: true }),
+    box(ax, topY, 'Anara Toktarova', null, { w: 150, link: false }),
+    marriage(ex + 85, ax - 75, topY),
+    `<text x="${(ex + 85 + ax - 75) / 2}" y="${topY - 8}" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">m.</text>`,
+    L([[(ex + 85 + ax - 75) / 2, topY + 2], [(ex + 85 + ax - 75) / 2, barY]]),
+    L([[kx(0), barY], [kx(5), barY]]),
+    ...kids.map(([n, s], i) => L([[kx(i), barY], [kx(i), kidY - 25]]) + box(kx(i), kidY, n, s, { w: 118 })),
+    marriage(kx(5) + 59, kx(5) + 89, kidY),
+    `<text x="${kx(5) + 74}" y="${kidY - 8}" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">m.</text>`,
+    box(kx(5) + 153, kidY, 'Aidar Maksat', 'b. 1980\nLieutenant Governor', { w: 128 }),
+  ].join('\n');
+  writeSvg('Toktarov_family_tree.svg', W, H, `<rect width="${W}" height="${H}" fill="#fff"/>
+${body}
+<text x="12" y="${H - 14}" font-size="11" fill="${WP.textMuted}">Children in order of birth; m. = married. Ruslan and Alikhan are the rivals in the succession discussed since 2024.</text>`, {
+    title: 'Toktarov family tree',
+    desc: 'Erlan Toktarov and Anara Toktarova; their sons Ruslan, Alikhan, Timur, Adil and Bekzat and daughter Zara, who is married to Lieutenant Governor Aidar Maksat.',
+  });
+}

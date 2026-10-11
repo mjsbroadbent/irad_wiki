@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" font-family="'DejaVu Sans', Arial, Helvetica, sans-serif">
+<title>Erlan Toktarov's official vote share in ISEZ gubernatorial elections</title>
+<desc>2011: 88.74%; 2015: 78.25%; 2019: 90.31%; 2023: 92.75%</desc>
+<rect x="0.5" y="0.5" width="419" height="299" fill="#f8f9fa" stroke="#a2a9b1"/>
+<text x="210" y="26" font-size="14" font-weight="bold" text-anchor="middle" fill="#202122">Erlan Toktarov's official vote share</text>
+<line x1="52" y1="242.0" x2="396" y2="242.0" stroke="#72777d" stroke-width="1"/><text x="46" y="246.0" font-size="11" text-anchor="end" fill="#555555">0%</text><line x1="52" y1="194.5" x2="396" y2="194.5" stroke="#dcdcdc" stroke-width="0.8"/><text x="46" y="198.5" font-size="11" text-anchor="end" fill="#555555">25%</text><line x1="52" y1="147.0" x2="396" y2="147.0" stroke="#dcdcdc" stroke-width="0.8"/><text x="46" y="151.0" font-size="11" text-anchor="end" fill="#555555">50%</text><line x1="52" y1="99.5" x2="396" y2="99.5" stroke="#dcdcdc" stroke-width="0.8"/><text x="46" y="103.5" font-size="11" text-anchor="end" fill="#555555">75%</text><line x1="52" y1="52.0" x2="396" y2="52.0" stroke="#dcdcdc" stroke-width="0.8"/><text x="46" y="56.0" font-size="11" text-anchor="end" fill="#555555">100%</text>
+<rect x="68.0" y="73.4" width="54" height="168.6" fill="#1f4e9a"/>
+<text x="95.0" y="67.4" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">88.74%</text>
+<text x="95.0" y="259.0" font-size="12.5" text-anchor="middle" fill="#202122">2011</text>
+<rect x="154.0" y="93.3" width="54" height="148.7" fill="#1f4e9a"/>
+<text x="181.0" y="87.3" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">78.25%</text>
+<text x="181.0" y="259.0" font-size="12.5" text-anchor="middle" fill="#202122">2015</text>
+<rect x="240.0" y="70.4" width="54" height="171.6" fill="#1f4e9a"/>
+<text x="267.0" y="64.4" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">90.31%</text>
+<text x="267.0" y="259.0" font-size="12.5" text-anchor="middle" fill="#202122">2019</text>
+<rect x="326.0" y="65.8" width="54" height="176.2" fill="#1f4e9a"/>
+<text x="353.0" y="59.8" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">92.75%</text>
+<text x="353.0" y="259.0" font-size="12.5" text-anchor="middle" fill="#202122">2023</text>
+<text x="12" y="288" font-size="11" fill="#555555">ISEZ gubernatorial elections (ISEZ only). The OSCE has criticized all four.</text>
+</svg>

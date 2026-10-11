@@ -88,5 +88,104 @@
     "caption": "FreeIrad.org logo",
     "alt": "FreeIrad.org logo: a red horse's head beside the name FREEIRAD.ORG in red bold capitals, on black",
     "credit": "Logo from FREEIRAD.ORG, supplied by the wiki owner"
+  },
+  {
+    "file": "Qara-Chik_Demarcation_Line_map.svg",
+    "article": "Qara-Chik Demarcation Line",
+    "section": "Course",
+    "width": 300,
+    "caption": "The Qara-Chik Demarcation Line, with its four UNMI sectors and the 12 km restricted-weapons zone",
+    "alt": "Map of Irad showing the ISEZ and the Autonomous Tribal Regions separated by the dashed red Qara-Chik line, with a shaded band along it",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Naryn_corridor_map.svg",
+    "article": "Qara-Chik Demarcation Line",
+    "section": "The Naryn corridor",
+    "width": 250,
+    "caption": "The Naryn corridor: the ISEZ strip over the Fergana Gateway and the Lower Naryn salient",
+    "alt": "Map of the Sary-Bulak and Lower Naryn districts with State Route 1, the Toktogul reservoir and dam, and the Naryn cascade",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Naryn_corridor_map.svg",
+    "article": "Fergana Mountain Transit Highway",
+    "section": "Route",
+    "width": 250,
+    "caption": "State Route 1 from Talas through the Kara-Suu Canyon, the Otmek Tunnel and the Fergana Gateway to Tash-Kömür",
+    "alt": "Map of the highway corridor from Talas to Tash-Kömür, flanked by tribal land",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Naryn_corridor_map.svg",
+    "article": "Toktogul Hydroelectric Complex",
+    "section": "Divided control",
+    "width": 250,
+    "caption": "The divided complex: the dam on the tribal side, the switchyard and downstream stations in the ISEZ",
+    "alt": "Map of the Toktogul reservoir and dam on the tribal side of the Qara-Chik line, with the switchyard and the Naryn cascade inside the ISEZ",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Transport_in_Irad_map.svg",
+    "article": "Transport in Irad",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Railways, main highways, pipelines, airfields and the three crossings into Kazakhstan",
+    "alt": "Transport map of Irad: the railway from the Talas North Terminal through Talas to Nurzhan, the Trans-Talas Highway and State Route 1, pipelines around Nurzhan, and border crossings",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Energy_and_resources_of_Irad_map.svg",
+    "article": "Energy in Irad",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Oil and gas fields, mines, power stations and main lines, in relation to the Qara-Chik line",
+    "alt": "Map of Irad's oil fields around Nurzhan, the undeveloped Muyunkum gas field, uranium and gold areas in the tribal regions, the Toktogul dam and the Naryn cascade",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Energy_and_resources_of_Irad_map.svg",
+    "article": "Economy of Irad",
+    "section": "Sectors",
+    "width": 300,
+    "caption": "Energy and mineral resources of Irad",
+    "alt": "Map of oil and gas fields, mines and power stations in Irad",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Second_Iradi_Civil_War_map.svg",
+    "article": "Second Iradi Civil War",
+    "section": "Course of the war",
+    "width": 300,
+    "caption": "The situation in late May 2007, the storming of Talas on 4 June, the DPI advances of the summer and the September ceasefire line",
+    "alt": "Map of Irad in 2007: Popular Front control of the countryside in green, Toktarov's area around Nurzhan in blue, the besieged DRI pocket at Talas in orange, with attack arrows",
+    "credit": "Drawn for Irad Wiki from Natural Earth data (public domain)"
+  },
+  {
+    "file": "Toktarov_gubernatorial_results.svg",
+    "article": "Elections in Irad",
+    "section": "Gubernatorial elections",
+    "width": 300,
+    "caption": "Erlan Toktarov's official share of the vote, 2011–2023",
+    "alt": "Bar chart: 2011 88.74%, 2015 78.25%, 2019 90.31%, 2023 92.75%",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Toktarov_gubernatorial_results.svg",
+    "article": "Politics of Irad",
+    "section": "Elections",
+    "width": 250,
+    "caption": "Toktarov's official share of the vote in ISEZ gubernatorial elections",
+    "alt": "Bar chart: 2011 88.74%, 2015 78.25%, 2019 90.31%, 2023 92.75%",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Toktarov_family_tree.svg",
+    "article": "Erlan Toktarov",
+    "section": "Family",
+    "width": 400,
+    "caption": "The Toktarov family",
+    "alt": "Family tree: Erlan Toktarov and Anara Toktarova; sons Ruslan, Alikhan, Timur, Adil and Bekzat; daughter Zara, married to Aidar Maksat",
+    "credit": "Drawn for Irad Wiki"
   }
 ]

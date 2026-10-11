@@ -29,11 +29,13 @@ Needs Node 18+ and ffmpeg with librsvg (`ffmpeg -decoders | grep svg`). Everythi
 
 | Path | What it is |
 |---|---|
-| `src/common.mjs` | Irad's outline, ISEZ districts, ATR zones, place coordinates, hand-traced rivers. Every map reads this, so a change here updates all maps |
+| `src/common.mjs` | Irad's outline, ISEZ districts, ATR zones, place coordinates (`PLACES`, `FEATURES`), hand-traced rivers, and the routes and sites of the thematic maps (`HIGHWAY_SR1`, `RAIL`, `ROADS`, `PIPELINES`, `TRANSPORT_POINTS`, `RESOURCE_AREAS`, `RESOURCE_POINTS`, `HV_LINES`). Every map reads this, so a change here updates all maps |
 | `src/svg.mjs` | Helpers: Wikipedia map palette, labels with halos, path simplification |
 | `src/globe.mjs` | `Irad_(orthographic_projection).svg` |
+| `src/base.mjs` | `makeMap()`: the shared projection, base layers (neighbours, Irad, water, border, Qara-Chik line), place markers, labels, scale bar and legend box used by every regional and thematic map |
 | `src/regional.mjs` | `Map_of_Irad.svg`, `Irad_administrative_divisions.svg`; prints all areas |
-| `src/charts.mjs` | Mejlis seat diagram, ethnic groups and religion charts |
+| `src/thematic.mjs` | The thematic maps: Qara-Chik line, Naryn corridor, transport, energy and resources, 2007 war. Run one with `node src/thematic.mjs naryn` (names: `qarachik`, `naryn`, `transport`, `energy`, `war2007`) |
+| `src/charts.mjs` | Mejlis seat diagram, ethnic groups and religion charts, Toktarov election results, Toktarov family tree |
 | `thumbs.py` | PNG thumbnails for everything in the manifest |
 | `data/` | Natural Earth extracts (public domain). Refresh with `extract.py` (instructions inside) |
 | `vendor/` | d3-geo, d3-array, internmap (ISC) and polygon-clipping (MIT), with their licences |
@@ -63,9 +65,9 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   | Irad | 196,347 | 196,754 |
   | ISEZ | 50,930 | about 64,000 |
   | Talas District | 5,676 | 9,800 |
-  | Kara-Buura District | 11,654 | 11,400 |
+  | Kara-Buura District | 13,781 | 11,400 |
   | Chu District | 25,294 | 24,600 |
-  | Sary-Bulak District | 2,584 | 10,900 |
+  | Sary-Bulak District | 2,574 | 10,900 |
   | Lower Naryn District | 5,702 | 6,300 |
   | Northern Steppe zone (ATR) | 55,445 | about 52,000 |
   | Karatau zone | 52,332 | not given |
@@ -77,7 +79,7 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   Where the lore's area figures and its geography disagree, the geography won (see open questions).
 - **ISEZ layout (follows the lore's own descriptions):**
   - Talas District: the middle Talas valley floor.
-  - Kara-Buura District: the lower and western valley, down the Talas past Taraz.
+  - Kara-Buura District: the lower and western valley, down the Talas past Taraz, plus a corridor (about 25 km wide) along the Turksib line and the Trans-Talas Highway west to the Kazakh frontier facing Shymkent, where the Talas North Terminal stands. Added 2026-10-11 so the lore's crossing and highway reach the frontier on the ISEZ side (see open questions). District seat: Kyzyl-Adyr (71.57, 42.60).
   - Chu District: the irrigated Chu lowlands around Nurzhan (the line crosses the river north-west of the city) and the Kyrgyz Range piedmont west to the Talas valley. The northern line runs along the edge of the irrigated plains, facing the Moiynkum and Betpak-Dala.
   - Sary-Bulak District: the foothills south of Talas (mine 28 km south of Talas, smelter 30 km south-west, lower Besh-Tash valley, lower Kara-Suu Canyon) plus the highway strip through the Otmek tunnel to the Fergana Gateway. The Talas Alatau crest, the Besh-Tash lake and the upper Kara-Suu stay tribal.
   - Lower Naryn District: the salient from the Fergana Gateway down the Naryn below the Toktogul dam to Tash-Kömür, surrounding the city of Iyık Janyl.
@@ -86,7 +88,9 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
   - Talas 72.24, 42.52 (canon).
   - Nurzhan 74.15, 43.30 (lower Chu, north bank; Kazakh border to the east).
   - Boz-Korgon 74.64, 43.30 (40 km east of Nurzhan).
-  - Iyık Janyl 72.38, 41.47: Fergana Range foothills, 18 km north-east of Tash-Kömür, inside the Lower Naryn salient. Moved there by lore change on 2026-10-11; it was previously in the Talas Alatau.
+  - Iyık Janyl 72.43, 41.44: Fergana Range foothills on the east side of the Naryn gorge, about 20 km north-east of Tash-Kömür, inside the Lower Naryn salient. Moved there by lore change on 2026-10-11; it was previously in the Talas Alatau. The branch road leaves State Route 1 in the gorge above Tash-Kömür.
+- **Toktogul complex:** the dam is at the reservoir outlet (72.652, 41.668), on the tribal side; the switchyard is just downstream (72.62, 41.618), in the ISEZ. State Route 1 follows the Naryn from there down to Tash-Kömür, and the four cascade stations sit on the river.
+- **Transport (Transport in Irad):** railway Talas – Kyzyl-Adyr – Taraz, then west on the Turksib to the Talas North Terminal (69.96, 42.63) and east on the lowland route round the Kyrgyz Range to Nurzhan and a rail border station north-east of the city (drawn about 580 km against the lore's 540). Kök-Bel Pass at 72.45, 42.72. Chu Gate 74.97, 43.33 and Kum-Shagyl 74.97, 43.95, both on the eastern frontier. Talas Air Base 12 km west of Talas. Chu oil fields along the Chu north-west of Nurzhan, with the collection station at 73.25, 43.78.
 - **Rivers:** Naryn and Syr Darya from Natural Earth. The Chu, Talas and Chatkal are not in Natural Earth at this scale and are traced by hand, approximately.
 - **Party colours** on the seat diagram are placeholders: DPI #1f4e9a, independents #9a9a9a, Russo-aligned #c0392b.
 
@@ -99,7 +103,9 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 - [ ] **Real cities inside Irad that the lore never mentions:** Taraz (inside Kara-Buura District), Shu (Chu District), Jalal-Abad (Fergana Rim), Arslanbob (Toktogul–Naryn zone). Decide whether they exist in Irad, under another name, or not at all.
 - [ ] **Coat of arms.** The lore has no national emblem. Real country infoboxes show one beside the flag. Decide whether Irad has one before it is drawn.
 - [ ] **Party colours** for the DPI and others, if the lore should fix them.
-- [ ] **Talas airfield and Talas Air Base,** Chu Gate crossing, Talas North Terminal: positions not yet fixed; needed for the transport map.
+- [ ] **Northern Export Feeder direction.** Energy in Irad says the feeder runs north-west across the lower Chu plain to the Kazakh frontier. North-west of Nurzhan there is no frontier on the ISEZ side, so the map runs it north-east to the eastern frontier (about 81 km). Either change "north-west" to "north-east" in the lore or move the frontier.
+- [ ] **Kara-Buura corridor (decision to confirm).** To put the Talas North Terminal ("north-west of Talas, in Kara-Buura District") and the Trans-Talas Highway's frontier end on the ISEZ side, the district was given a corridor west along the Turksib to the frontier facing Shymkent. This partly answers the northern-frontier question above. If the owner prefers another solution, edit the second ring in `D['Kara-Buura District']`.
+- [ ] **Nurzhan Petroleum Pipeline length.** The lore gives 118 km; the oil fields placed inside the Chu District make it about 90 km.
 
 ## Phase 1: Irad article (done 2026-10-11)
 
@@ -124,7 +130,15 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 
 ## Later phases (from the image plan)
 
-- [ ] **Phase 2, GA and B-class articles:** thematic maps (Qara-Chik line in detail, river basins, resources, transport, UNMI sectors, religion and language by district), city plans of Talas, Nurzhan and Iyık Janyl, Toktogul complex layout, government structure and Toktarov family tree diagrams, state, party and company emblems
+- [ ] **Phase 2, GA and B-class articles.** Done 2026-10-11:
+  - [x] `Qara-Chik_Demarcation_Line_map.svg`: line, four UNMI sectors, 12 km restricted-weapons zone (*Qara-Chik Demarcation Line*, Course)
+  - [x] `Naryn_corridor_map.svg`: State Route 1, Toktogul complex, Naryn cascade (*Qara-Chik Demarcation Line*, *Fergana Mountain Transit Highway*, *Toktogul Hydroelectric Complex*)
+  - [x] `Transport_in_Irad_map.svg` (lead of *Transport in Irad*)
+  - [x] `Energy_and_resources_of_Irad_map.svg` (lead of *Energy in Irad*; *Economy of Irad*, Sectors)
+  - [x] `Second_Iradi_Civil_War_map.svg`: late May 2007 control, storming of Talas, summer advances, ceasefire line (*Second Iradi Civil War*, Course of the war)
+  - [x] `Toktarov_gubernatorial_results.svg` (*Elections in Irad*; *Politics of Irad*)
+  - [x] `Toktarov_family_tree.svg` (*Erlan Toktarov*, Family)
+  - [ ] Still to do: river basins, religion and language by district, city plans of Talas, Nurzhan and Iyık Janyl, Toktogul complex layout, government structure diagram, the 1992 war map, state, party and company emblems. Candidates for the same maps: *Bishkek Ceasefire Agreement (2007)*, *Naryn Water and Power Protocol*, *Fergana Gateway*, *Tash-Kömür*, *Northern Border Demarcation Protocol* (add manifest entries once their section headings are checked)
 - [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
 - [ ] **Photos:** work through the real photo list; then write the prompt sheet for generated photos (portraits, buildings, events, culture, artefacts)
