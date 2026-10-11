@@ -165,7 +165,7 @@ main { min-width: 0; padding-bottom: 32px; }
 .infobox figure { margin: .4em 0; text-align: center; }
 .infobox figure img { width: 220px; max-width: 100%; border: 1px solid var(--border-subtle); }
 .infobox figure.locator { border-top: 1px solid var(--border-faint); padding-top: .4em; }
-.infobox figure.locator img { width: 250px; border: 0; }
+.infobox figure.locator img { width: 250px; height: auto; border: 0; vertical-align: middle; }
 .infobox figcaption { font-size: 95%; line-height: 1.35; padding: 0 .4em; }
 .infobox dl { margin: 0; display: grid; grid-template-columns: 38% minmax(0, 1fr); gap: 0 6px; }
 .infobox dt, .infobox dd { padding: .25em .2em; border-top: 1px solid var(--border-faint); }
@@ -543,7 +543,10 @@ if (typeof module !== 'undefined') module.exports = { VOLUMES, CLASSES, subjectO
   'use strict';
   const BASE = './';                 // folder that holds the volume files and webflag.svg
   const FLAG = BASE + 'webflag.svg';
+  // Like Wikipedia, the infobox shows a pre-rendered PNG thumbnail (1x and 2x) and links to the full SVG.
   const LOCATOR = BASE + 'Irad_(orthographic_projection).svg';
+  const LOCATOR_THUMB = BASE + 'thumb/250px-Irad_(orthographic_projection).png';
+  const LOCATOR_THUMB_2X = BASE + 'thumb/500px-Irad_(orthographic_projection).png';
   const THEME_KEY = 'iradwiki-theme';
   const $ = s => document.querySelector(s);
   const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
@@ -867,7 +870,7 @@ if (typeof module !== 'undefined') module.exports = { VOLUMES, CLASSES, subjectO
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
       ${dl(top)}
-      <figure class="locator"><img src="${LOCATOR}" alt="Orthographic globe centred on Central Asia with Irad shown in green"><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
+      <figure class="locator"><a href="${LOCATOR}" target="_blank" rel="noopener" title="Open the full-size map"><img src="${LOCATOR_THUMB}" srcset="${LOCATOR_THUMB_2X} 2x" width="250" height="250" alt="Orthographic globe centred on Central Asia with Irad shown in green"></a><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
       ${dl(rest)}`;
     return el;
   }

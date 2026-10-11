@@ -3,7 +3,10 @@
   'use strict';
   const BASE = './';                 // folder that holds the volume files and webflag.svg
   const FLAG = BASE + 'webflag.svg';
+  // Like Wikipedia, the infobox shows a pre-rendered PNG thumbnail (1x and 2x) and links to the full SVG.
   const LOCATOR = BASE + 'Irad_(orthographic_projection).svg';
+  const LOCATOR_THUMB = BASE + 'thumb/250px-Irad_(orthographic_projection).png';
+  const LOCATOR_THUMB_2X = BASE + 'thumb/500px-Irad_(orthographic_projection).png';
   const THEME_KEY = 'iradwiki-theme';
   const $ = s => document.querySelector(s);
   const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
@@ -327,7 +330,7 @@
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
       ${dl(top)}
-      <figure class="locator"><img src="${LOCATOR}" alt="Orthographic globe centred on Central Asia with Irad shown in green"><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
+      <figure class="locator"><a href="${LOCATOR}" target="_blank" rel="noopener" title="Open the full-size map"><img src="${LOCATOR_THUMB}" srcset="${LOCATOR_THUMB_2X} 2x" width="250" height="250" alt="Orthographic globe centred on Central Asia with Irad shown in green"></a><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
       ${dl(rest)}`;
     return el;
   }
