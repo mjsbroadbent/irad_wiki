@@ -3,6 +3,7 @@
   'use strict';
   const BASE = './';                 // folder that holds the volume files and webflag.svg
   const FLAG = BASE + 'webflag.svg';
+  const LOCATOR = BASE + 'Irad_(orthographic_projection).svg';
   const THEME_KEY = 'iradwiki-theme';
   const $ = s => document.querySelector(s);
   const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
@@ -318,10 +319,16 @@
     el.className = 'infobox';
     const flag = box.rows.find(r => r.key === 'Flag');
     const rows = box.rows.filter(r => r !== flag);
+    // As on Wikipedia, the location map sits after the flag and anthem, before the capital and the rest.
+    const anthemAt = rows.findIndex(r => /^anthem/i.test(r.key));
+    const top = rows.slice(0, anthemAt + 1), rest = rows.slice(anthemAt + 1);
+    const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
     el.innerHTML = `
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
-      <dl>${rows.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>`;
+      ${dl(top)}
+      <figure class="locator"><img src="${LOCATOR}" alt="Orthographic globe centred on Central Asia with Irad shown in green"><figcaption>Location of Irad (green) in Central Asia</figcaption></figure>
+      ${dl(rest)}`;
     return el;
   }
 

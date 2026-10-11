@@ -9,6 +9,7 @@ A static, client-side wiki. `index.html` downloads the three volume files when i
 | `index.html` | The whole site: layout, styles and script |
 | `Irad_Wiki_Vol1_Core.md`, `Irad_Wiki_Vol2_C_Class.md`, `Irad_Wiki_Vol3_Start_Stub.md` | The article volumes, read as-is |
 | `webflag.svg` | Flag in the header and the Irad infobox |
+| `Irad_(orthographic_projection).svg` | Locator globe in the Irad infobox, below the anthem |
 | `src/`, `build.sh` | The page split into parts (`page.html`, `core.js` parser, `app.js` interface). Run `./build.sh` after editing them to regenerate `index.html` |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
 
