@@ -90,6 +90,12 @@
     wiki.subjectOrder = [...wiki.subjects.keys()].sort((a, b) => subjectSize(b) - subjectSize(a));
     wiki.catBySlug = new Map([...wiki.categories.keys()].map(c => [categorySlug(c), c]));
     wiki.subjBySlug = new Map([...wiki.subjects.keys()].map(s => [categorySlug(s), s]));
+    // irad.wiki/?search=Talas (the address search engines use for a site search box) opens the results page.
+    const q = new URLSearchParams(location.search).get('search');
+    if (q) {
+      query = q.trim();
+      history.replaceState(null, '', location.pathname + '#Special.Search');
+    }
     route();
   }
   function subjectSize(s) { return [...wiki.subjects.get(s).values()].reduce((n, l) => n + l.length, 0); }
@@ -133,10 +139,33 @@
     else title = renderMissing(key);
 
     document.title = title ? `${title} – Irad Wiki` : 'Irad Wiki, the free encyclopedia';
+    setMeta(key, title, article && !key.endsWith('~source') ? article : null);
     if (!headings.length) side.innerHTML = `<div class="nav-h">Main menu</div>${menuHtml(key)}`;
     renderFooter(article && !key.endsWith('~source') ? article : null);
     const y = !fresh && scrolls.has(key) ? scrolls.get(key) : 0;
     requestAnimationFrame(() => { scrollTo(0, y); spy(); });
+  }
+
+  /* ---------- page metadata ----------
+     Keeps the description, canonical address and social-preview tags in the
+     <head> in step with the page shown, for search engines that run scripts.
+     The values set at build time (see build.sh) describe the site as a whole. */
+  const SITE = 'https://irad.wiki/';
+  const siteDescription = document.querySelector('meta[name="description"]')?.content || '';
+  function setMeta(key, title, article) {
+    const full = document.title;
+    const desc = article ? ledeOf(article) : siteDescription;
+    const url = SITE + (key ? href(key) : '');
+    const set = (sel, value) => { const el = document.querySelector(sel); if (el) el.content = value; };
+    set('meta[name="description"]', desc);
+    set('meta[property="og:title"]', full);
+    set('meta[property="og:description"]', desc);
+    set('meta[property="og:url"]', url);
+    set('meta[property="og:type"]', article ? 'article' : 'website');
+    set('meta[name="twitter:title"]', full);
+    set('meta[name="twitter:description"]', desc);
+    const canon = document.querySelector('link[rel="canonical"]');
+    if (canon) canon.href = url;
   }
 
   /* ---------- main menu ---------- */

@@ -1,4 +1,44 @@
-<title>Irad Wiki</title>
+<title>Irad Wiki, the free encyclopedia</title>
+<meta name="description" content="<!--DESCRIPTION-->">
+<link rel="canonical" href="https://irad.wiki/">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101418" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Irad Wiki">
+<meta property="og:title" content="Irad Wiki, the free encyclopedia">
+<meta property="og:description" content="<!--DESCRIPTION-->">
+<meta property="og:url" content="https://irad.wiki/">
+<meta property="og:image" content="https://irad.wiki/images/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Flag of Irad">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Irad Wiki, the free encyclopedia">
+<meta name="twitter:description" content="<!--DESCRIPTION-->">
+<meta name="twitter:image" content="https://irad.wiki/images/og-image.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Irad Wiki",
+  "alternateName": "Irad Wiki, the free encyclopedia",
+  "url": "https://irad.wiki/",
+  "description": "<!--DESCRIPTION-->",
+  "inLanguage": "en",
+  "genre": "Worldbuilding",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": { "@type": "EntryPoint", "urlTemplate": "https://irad.wiki/?search={search_term_string}" },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<link rel="preload" href="Irad_Wiki_Vol1_Core.md" as="fetch" crossorigin>
+<link rel="preload" href="Irad_Wiki_Vol2_C_Class.md" as="fetch" crossorigin>
+<link rel="preload" href="Irad_Wiki_Vol3_Start_Stub.md" as="fetch" crossorigin>
+<link rel="preload" href="images/images.json" as="fetch" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 <link rel="icon" href="favicon.ico" sizes="48x48">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -7,6 +47,9 @@
 <script>
   // Apply the saved theme before anything paints. Light is the default.
   try { if (localStorage.getItem('iradwiki-theme') === 'dark') document.documentElement.setAttribute('data-wiki-theme', 'dark'); } catch (e) {}
+  // Marks that scripts run, so the plain-HTML outline in <main> (for readers
+  // and crawlers without JavaScript) stays out of the way while the app loads.
+  document.documentElement.className += ' js';
 </script>
 <style>
 /* Layout: modelled on Wikipedia's current desktop skin. Header with menu,
@@ -267,6 +310,16 @@ main { min-width: 0; padding-bottom: 32px; }
 .status h1 { font: 400 1.6rem/1.3 var(--serif); color: var(--text); margin: 0 0 6px; }
 .status code { font-family: var(--mono); background: var(--surface); padding: 1px 4px; }
 .status.err { text-align: left; }
+/* Plain-HTML outline shown only without JavaScript (see tools/seo/static_index.js). */
+.js .status ~ .static-index { display: none; }
+html:not(.js) .status { display: none; }
+.static-index { max-width: 860px; margin: 0 auto; line-height: 1.5; }
+.static-index h1 { font: 400 1.8rem/1.3 var(--serif); margin: 0 0 .5em; }
+.static-index h2 { font: 400 1.4rem/1.3 var(--serif); margin: 1.4em 0 .4em; border-bottom: 1px solid var(--border-subtle); }
+.static-index h3 { font: 700 1rem/1.3 var(--sans); margin: 1em 0 .3em; }
+.static-index ul { margin: 0 0 .6em; padding-left: 1.4em; }
+.static-index .static-all { columns: 3 220px; column-gap: 24px; padding-left: 0; list-style: none; }
+.static-index .static-all li { break-inside: avoid; }
 .bar { height: 3px; background: var(--border-faint); margin-top: 14px; }
 .bar i { display: block; height: 100%; width: 0; background: var(--progressive); transition: width .25s; }
 
@@ -332,6 +385,7 @@ main { min-width: 0; padding-bottom: 32px; }
       <div id="loadMsg">Loading the article volumes…</div>
       <div class="bar"><i id="loadBar"></i></div>
     </div>
+<!--STATIC-->
   </main>
 </div>
 <footer class="foot"><div class="foot-in" id="foot"></div></footer>
