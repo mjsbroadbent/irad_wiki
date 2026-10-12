@@ -156,3 +156,4 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 
 ## Added outside the phases
 - 2026-10-12: `Iradi_cross.svg`, lead image of "Iradi Cross" (Vol2 4.148), drawn by hand (not from tools/maps). Same file is `iradi_cross.svg` in the irad-persona skill.
+- 2026-10-12: `The_White_Rider_Shows_the_Way.jpg` (supplied by the owner), lead of "Yusup Ayyubov" and in the Irad article's Etymology section.
