@@ -13,6 +13,7 @@ A static, client-side wiki. `index.html` downloads the three volume files when i
 | `tools/maps/` | Scripts and data that draw the maps and charts. Run `tools/maps/build.sh` to rebuild them |
 | `IMAGES_TODO.md` | Status of the image work, decisions made and what to do next |
 | `src/`, `build.sh` | The page split into parts (`page.html`, `core.js` parser, `app.js` interface). Run `./build.sh` after editing them, or after updating the volumes, to regenerate `index.html` |
+| `tools/links/` | Scripts to audit links and categories and to add first-mention internal and Wikipedia links (see its README) |
 | `tools/seo/` | Generates the plain-HTML outline inside `index.html` and `sitemap.xml` from the volumes (run by `build.sh`) |
 | `robots.txt`, `sitemap.xml`, `404.html`, `images/og-image.png` | Search-engine and link-preview support, see *Search engines* below |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
