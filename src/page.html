@@ -185,6 +185,8 @@ main { min-width: 0; padding-bottom: 32px; }
 .prose h4 { font-size: 1em; }
 .prose a.wl:visited { color: var(--link-visited); }
 .prose a.red, .prose a.red:visited { color: var(--link-red); }
+.prose a.ext { color: var(--link-ext, var(--link)); }
+.prose a.ext::after { content: '\2197'; font-size: .7em; margin-left: .1em; vertical-align: super; opacity: .7; }
 .prose sup { font-size: .75em; line-height: 1; vertical-align: super; }
 .prose sup.cite { color: var(--link); cursor: pointer; white-space: nowrap; }
 .prose sup.cite:hover { text-decoration: underline; }

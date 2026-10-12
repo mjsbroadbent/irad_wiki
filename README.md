@@ -29,6 +29,8 @@ The site relies on these conventions, which the volumes already follow:
 - Sections inside an article use `##`, subsections `####`.
 - The line `*Quality Assessment: … | Category: …*` right after the title sets the article's category. Stubs take it from their Volume 3 category heading.
 - Links are `[[Title]]` or `[[Title|shown text]]`. A link to a title that doesn't exist shows in red.
+- `[[wp:Title]]` or `[[wp:Title|shown text]]` links to the English Wikipedia article *Title* (opens in a new tab, marked with ↗). Use it for real-world people, places, organizations and concepts that have no Irad Wiki article. Wikipedia links don't count as internal links, red links or backlinks.
+- Each article's category is one of a fixed list of twenty (see the irad-persona skill's SKILL.md). Stubs carry their own `*Quality: Stub | Category: …*` line, which overrides the Volume 3 category heading they sit under.
 - `{{Hatnote|…}}` and `{{Irad-…-stub}}` templates are rendered as hatnotes and stub notices.
 - The code block under "Country Overview" in Volume 1 becomes the infobox on the Irad article.
 

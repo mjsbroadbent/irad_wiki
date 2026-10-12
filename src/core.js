@@ -28,6 +28,9 @@ const CLASS_HEADING = /^## \d+\.\s+(.+?)\s*$/;
 const META_LINE = /^\*Quality(?: Assessment)?:\s*(.+?)\s*\|\s*Category:\s*(.+?)\s*\*\s*$/;
 const STUB_TEMPLATE = /\{\{\s*([^}]+?)\s*\}\}/g;
 const WIKILINK = /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g;
+/* [[wp:Title]] or [[wp:Title|text]] links to the English Wikipedia article Title. */
+const WP_PREFIX = /^\s*wp:/i;
+function wpUrl(t) { return 'https://en.wikipedia.org/wiki/' + encodeURIComponent(t.replace(WP_PREFIX, '').trim().replace(/ /g, '_')).replace(/%2F/g, '/').replace(/%3A/g, ':').replace(/%2C/g, ',').replace(/%28/g, '(').replace(/%29/g, ')'); }
 
 const CLASSES = [
   { id: 'FA', name: 'Featured articles', short: 'Featured', blurb: 'The best articles in the wiki, reviewed for completeness, sourcing and prose.' },
@@ -60,8 +63,11 @@ const SUBJECTS = {
   Institutions: 'Politics & law', Public: 'Politics & law',
   Economy: 'Economy', Agriculture: 'Economy', Education: 'Economy',
   Infrastructure: 'Infrastructure', Transport: 'Infrastructure',
-  Geography: 'Places', Cities: 'Places', Minor: 'Places', Nation: 'Places', Demographics: 'Places',
+  Geography: 'Nature', Cities: 'Places', Minor: 'Places', Nation: 'Places', Demographics: 'Places',
   Physical: 'Nature', Nature: 'Nature', Wildlife: 'Nature', Equines: 'Nature', Science: 'Nature',
+  // current category scheme (2026-10)
+  Law: 'Politics & law', Foreign: 'Politics & law', Sport: 'Culture & arts', Horses: 'Culture & arts',
+  Society: 'Society', Health: 'Society', Cities: 'Places',
 };
 function subjectOf(category) {
   const w = category.split(/[\s,&]+/)[0];
@@ -122,7 +128,7 @@ function finishArticle(a) {
   a.stubType = stub ? stub[1] : null;
   a.slug = slugOf(a.title);
   a.links = new Set();
-  for (const m of a.src.matchAll(WIKILINK)) a.links.add(m[1].trim());
+  for (const m of a.src.matchAll(WIKILINK)) if (!WP_PREFIX.test(m[1])) a.links.add(m[1].trim());
 }
 
 /* Plain text of an article for search and summaries. */
@@ -130,7 +136,7 @@ function plainText(src) {
   return src
     .replace(/<sup>.*?<\/sup>/g, '')
     .replace(/<ol class="references">[\s\S]*?<\/ol>/g, '')
-    .replace(WIKILINK, (_, t, l) => l || t)
+    .replace(WIKILINK, (_, t, l) => l || t.replace(WP_PREFIX, ''))
     .replace(STUB_TEMPLATE, '')
     .replace(/<[^>]+>/g, '')
     .replace(/^#+\s*/gm, '')
@@ -209,4 +215,4 @@ function parseInfobox(block) {
   return box;
 }
 
-if (typeof module !== 'undefined') module.exports = { VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };
+if (typeof module !== 'undefined') module.exports = { WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };

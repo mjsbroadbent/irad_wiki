@@ -232,6 +232,10 @@
     // links first, so templates such as {{Hatnote|… see [[Talas River]]}} keep working links
     const pre = src
       .replace(WIKILINK, (_, t, label) => {
+        if (WP_PREFIX.test(t)) {
+          const name = t.replace(WP_PREFIX, '').trim();
+          return `<a class="ext" href="${wpUrl(name)}" target="_blank" rel="noopener" title="${esc(name)} (Wikipedia)">${esc(label || name)}</a>`;
+        }
         const target = resolve(wiki, t);
         const text = label || t;
         return target
