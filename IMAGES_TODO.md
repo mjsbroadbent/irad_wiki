@@ -153,3 +153,6 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
 - [ ] **Photos:** work through the real photo list. The generated-image prompt sheet is written (2026-10-11); the character looks in it need owner approval before generating
 - [ ] **Credits page:** a page on the site listing every image's author and licence (required for CC BY and CC BY-SA photos)
+
+## Added outside the phases
+- 2026-10-12: `Iradi_cross.svg`, lead image of "Iradi Cross" (Vol2 4.148), drawn by hand (not from tools/maps). Same file is `iradi_cross.svg` in the irad-persona skill.
