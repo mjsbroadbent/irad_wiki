@@ -157,3 +157,8 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 ## Added outside the phases
 - 2026-10-12: `Iradi_cross.svg`, lead image of "Iradi Cross" (Vol2 4.148), drawn by hand (not from tools/maps). Same file is `iradi_cross.svg` in the irad-persona skill.
 - 2026-10-12: `The_White_Rider_Shows_the_Way.jpg` (supplied by the owner), lead of "Yusup Ayyubov" and in the Irad article's Etymology section.
+
+## Real photos from Wikimedia Commons (October 2026)
+
+- 42 photos placed (44 manifest entries) from the first picker batch, with visible credit lines (author, licence link, Commons page) under each caption. Manifest fields: `source`, `author`, `license`, `license_url`, `commons_file`.
+- Still to come: the other 60 picked photos. They need the `commons_photos/chosen` folder that the picker's Submit button creates (`tools/photos/photo_picker.py`).

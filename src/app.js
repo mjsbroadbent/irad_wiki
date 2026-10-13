@@ -312,6 +312,15 @@
     const srcset = isSvg ? ` srcset="${IMAGES}thumb/${e.width * 2}px-${stem}.png 2x"` : '';
     return `<a href="${IMAGES}${encodeURI(e.file)}" target="_blank" rel="noopener" title="Open the full-size image"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
   }
+  // Caption plus, for photos from Wikimedia Commons, the attribution their licences require.
+  function figCaption(e) {
+    let credit = '';
+    if (e.source) {
+      const lic = e.license_url ? `<a href="${esc(e.license_url)}" target="_blank" rel="noopener">${esc(e.license || 'licence')}</a>` : esc(e.license || '');
+      credit = `<span class="credit">Photo: <a href="${esc(e.source)}" target="_blank" rel="noopener">${esc(e.author || 'Wikimedia Commons')}</a>${lic ? ', ' + lic : ''}</span>`;
+    }
+    return (e.caption || credit) ? `<figcaption>${esc(e.caption || '')}${credit}</figcaption>` : '';
+  }
   // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
   // "placement": "lead" puts it at the top right of the article instead, as for a company logo.
   function placeImages(body, a) {
@@ -319,7 +328,7 @@
       const fig = document.createElement('figure');
       fig.className = 'thumb lead';
       fig.style.width = (e.width + 8) + 'px';
-      fig.innerHTML = thumbImg(e) + (e.caption ? `<figcaption>${esc(e.caption)}</figcaption>` : '');
+      fig.innerHTML = thumbImg(e) + figCaption(e);
       // After any hatnotes at the top, before the first paragraph.
       let at = null;
       for (const el of body.children) { if (el.classList.contains('hatnote')) at = el; else break; }
@@ -332,7 +341,7 @@
       const fig = document.createElement('figure');
       fig.className = 'thumb';
       fig.style.width = (e.width + 8) + 'px';
-      fig.innerHTML = thumbImg(e) + (e.caption ? `<figcaption>${esc(e.caption)}</figcaption>` : '');
+      fig.innerHTML = thumbImg(e) + figCaption(e);
       let at = h;
       const next = h.nextElementSibling;
       if (next && /^Main articles?:/i.test(next.textContent.trim())) at = next;
