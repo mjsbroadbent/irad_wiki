@@ -161,4 +161,6 @@ These are now the basis of every map. Change them in `src/common.mjs`, then rebu
 ## Real photos from Wikimedia Commons (October 2026)
 
 - 42 photos placed (44 manifest entries) from the first picker batch, with visible credit lines (author, licence link, Commons page) under each caption. Manifest fields: `source`, `author`, `license`, `license_url`, `commons_file`.
-- Still to come: the other 60 picked photos. They need the `commons_photos/chosen` folder that the picker's Submit button creates (`tools/photos/photo_picker.py`).
+- Second batch: 57 more photos placed (61 entries), so 99 Commons photos are now on the wiki.
+- Held back: `Talas_River_barbel.jpg` (shows a marinka, *Schizothorax*, but the article is about the Turkestan barbel, *Luciobarbus capito*), plus the James Baker and Donald Trump portraits (real living people on articles about invented events; waiting for the user's decision).
+- Commons rows the user skipped (63) still have no photo.
