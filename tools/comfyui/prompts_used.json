@@ -45,9 +45,12 @@
     "crop_x": 192
   },
   "Urkun_1916": {
-    "prompt": "Early 20th-century documentary photograph made with a three-colour survey process, soft colour fringing, slight registration offset between colour layers, faded pigments, long exposure stillness. A Central Asian herding family stopped on a high snowy mountain pass in the winter of 1916: women in white wrapped elechek headdresses and sheepskin coats, an old man in a tall white felt hat, children wrapped in felt riding small shaggy mountain horses loaded with bundles and rolled felt, a few thin sheep, deep snow, bare rock, a grey sky, and a line of other families strung out behind them up the slope. Exhausted faces looking at the camera.",
-    "seed": 604872,
-    "batch_image": 2
+    "prompt": "PROKUDINGORSKII. Colour photograph from about 1916 of Kyrgyz herding families resting in a ragged, scattered group on a snowy mountain pass, taken from slightly to one side. In front, two women in tall white wrapped elechek headdresses and sheepskin coats stand with an old man in a tall white felt hat holding a small shaggy horse loaded with rolled felt and bundles, a child wrapped in felt beside them, a few thin sheep. Behind them, other families are spread out irregularly across the slope in small clusters: some sitting on bundles in the snow, a woman bent over a fallen horse, two men leading animals around boulders, a few figures far off at different distances, not in a line. Deep snow, bare rock, grey winter sky. Exhausted, still faces.",
+    "seed": 19161,
+    "batch_image": 1,
+    "lora": "lora.safetensors (Prokudin-Gorskii, CivitAI 824574) @ 0.9",
+    "size": "1536x864",
+    "crop_x": 240
   },
   "Old_Talas_Citadel": {
     "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the side of a narrow dirt lane in the old quarter of a Central Asian city, overcast late morning. On the left the lane runs away between high blank mud-plastered walls of courtyard houses with old wooden gates and gas pipes along the walls; at the end, off to the right, a low mud-brick and fired-brick fortress with round towers stands on top of a steep earth mound about 14 metres high, one restored gate with a pointed brick arch looking newer. An old white Lada parked half out of frame on the right, an old man in a white felt hat walking away, sagging wires, apartment blocks in the distance. Realistic dull colours.",
