@@ -314,7 +314,7 @@
   }
   // Caption plus, for photos from Wikimedia Commons, the attribution their licences require.
   function figCaption(e) {
-    let credit = '';
+    let credit = e.notice ? `<span class="credit">${esc(e.notice)}</span>` : '';
     if (e.source) {
       const lic = e.license_url ? `<a href="${esc(e.license_url)}" target="_blank" rel="noopener">${esc(e.license || 'licence')}</a>` : esc(e.license || '');
       credit = `<span class="credit">Photo: <a href="${esc(e.source)}" target="_blank" rel="noopener">${esc(e.author || 'Wikimedia Commons')}</a>${lic ? ', ' + lic : ''}</span>`;
