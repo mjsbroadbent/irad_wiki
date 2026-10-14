@@ -20,7 +20,7 @@ export const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const DATA = path.join(HERE, '..', 'data');
 export const REPO = path.join(HERE, '..', '..', '..');
 export const R_EARTH = 6371.0088;
-export const CANON_AREA = 218430;   // Kartalar, irad.geojson area_km2
+export const CANON_AREA = 218205;   // Kartalar, irad.geojson area_km2
 export const KDATA = path.join(DATA, 'kartalar');
 
 export const load = name => JSON.parse(fs.readFileSync(path.join(DATA, name), 'utf8'));
@@ -126,7 +126,8 @@ export function geography() {
   // Rough masks, applied in order to whatever ATR land is still unassigned, so the zones tile the ATR with no
   // gaps or overlaps. Talas Alatau takes the high ranges south of the Talas valley and, since the 2009 protocol,
   // the high Kyrgyz Range east of the Kök-Bel road; Toktogul–Naryn is the mountain rim of the Toktogul basin
-  // (the basin floor and the State Route 1 corridor are ISEZ, Lower Naryn District).
+  // and the mountains either side of the Naryn gorge (the basin floor, the State Route 1 corridor, the gorge corridor and
+  // the Fergana farm belt are ISEZ, Lower Naryn District); Fergana Rim is the hill country above that farm belt.
   const ZM = {
     // Northern Steppe: the Betpak-Dala north of the Chu and the Moiynkum sands between the Chu and the Talas,
     // with the piedmont plain north of the Kyrgyz Range.
@@ -142,11 +143,16 @@ export function geography() {
       [70.3, 42.05], [66, 41.9]]),
     'Chatkal Highlands': ring([[66, 41.9], [70.3, 42.05], [71.0, 42.0], [71.7, 42.1], [72.15, 42.1], [72.3, 42.08], [72.3, 41.75],
       [72.1, 41.65], [71.6, 41.3], [71.2, 41.15], [66, 41.2]]),
+    // Toktogul–Naryn: the highlands round the Toktogul basin and the roadless mountains either side of the Naryn gorge
+    // down to the hills above Iyık Janyl and Tash-Kömür (the gorge floor itself is the Lower Naryn corridor).
     'Toktogul–Naryn': ring([[72.3, 42.08], [72.6, 42.08], [73.3, 42.08], [77, 42.08], [77, 41.3], [73.5, 41.3], [73.2, 41.45],
-      [72.8, 41.45], [72.5, 41.3], [72.1, 41.65], [72.3, 41.75]]),
-    // Fergana Rim: the foothills along the Fergana Valley, with the Arslanbob walnut forests.
-    'Fergana Rim': ring([[66, 41.2], [71.2, 41.15], [71.6, 41.3], [72.1, 41.65], [72.5, 41.3], [72.8, 41.45], [73.2, 41.45],
-      [73.5, 41.3], [77, 41.3], [77, 39], [66, 39]]),
+      [72.8, 41.45], [72.55, 41.42], [72.4, 41.4], [72.3, 41.43], [72.2, 41.47], [72.05, 41.47], [71.88, 41.5], [72.1, 41.65],
+      [72.3, 41.75]]),
+    // Fergana Rim: the hill country above the northern Fergana farm belt (Mailuu-Suu, the Kara-Unkur valley, Arslanbob and
+    // its walnut forest, Oruktu, Jangak-Bulak) and its western part beyond the Naryn (Boz-Adyr, Kara-Jygach). The lowland
+    // belt from Tash-Kömür past Bazar-Korgon to the Uzbek frontier is ISEZ (Lower Naryn District).
+    'Fergana Rim': ring([[66, 41.2], [71.2, 41.15], [71.6, 41.3], [71.88, 41.5], [72.05, 41.47], [72.2, 41.47], [72.3, 41.43],
+      [72.4, 41.4], [72.55, 41.42], [72.8, 41.45], [73.2, 41.45], [73.5, 41.3], [77, 41.3], [77, 39], [66, 39]]),
   };
   const Z = {};
   let left = atr;
@@ -197,6 +203,7 @@ const pl = (id, kind) => { const p = byId.get(id); return { name: p.name, lon: p
 export const PLACES = [
   pl('talas', 'capital'), pl('nurzhan', 'city'), pl('iyik-janyl', 'city'), pl('boz-korgon', 'seat'),
   pl('tash-komur', 'town'), pl('toktogul', 'town'), pl('kyzyl-adyr', 'town'), pl('mailuu-suu', 'town'),
+  pl('bazar-korgon', 'town'),
 ];
 // Nearby real cities outside Irad, for orientation.
 export const FOREIGN_CITIES = [
@@ -205,6 +212,7 @@ export const FOREIGN_CITIES = [
   { name: 'Tashkent', lon: 69.24, lat: 41.3 },
   { name: 'Namangan', lon: 71.67, lat: 41.0 },
   { name: 'Andijan', lon: 72.34, lat: 40.78 },
+  { name: 'Jalal-Abad', lon: 73.0, lat: 40.93 },   // Kyrgyz; Irad's border runs round it
   { name: 'Turkistan', lon: 68.25, lat: 43.3 },
 ];
 

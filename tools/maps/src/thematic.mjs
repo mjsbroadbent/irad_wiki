@@ -27,8 +27,8 @@ const zoneFills = m => `<path d="${m.P(toD3(m.g.atr))}" fill="${ATR_FILL}"/><pat
 
 // ---------- Qara-Chik Demarcation Line (Qara-Chik Demarcation Line; Bishkek Ceasefire Agreement) ----------
 if (want('qarachik')) {
-  const W = 1000, H = 960;
-  const m = makeMap({ W, H, frame: [[69.55, 40.95], [75.35, 44.85]] });
+  const W = 1000, H = 1010;
+  const m = makeMap({ W, H, frame: [[69.55, 40.7], [75.35, 44.85]] });
   const feat = [];
   const [cx, cy] = at(m, 'Qara-Chik checkpoint'); feat.push(sym.checkpoint(cx, cy), callout(cx, cy, 20, 46, 'Qara-Chik checkpoint', { weight: 'bold' }));
   const [kx, ky] = at(m, 'Kara-Oi'); feat.push(sym.un(kx, ky), callout(kx, ky, 30, -112, 'Kara-Oi: UNMI HQ and Joint Liaison Committee'));
@@ -47,7 +47,7 @@ if (want('qarachik')) {
     [SW.box(ATR_FILL), 'Autonomous Tribal Regions (ATR)'],
     [SW.line(LINE, 1.8, '6 3'), 'Qara-Chik Demarcation Line'],
     [`<rect x="0" y="0" width="20" height="12" fill="${LINE}" fill-opacity="0.16"/>`, 'Restricted-weapons zone (12 km each side)'],
-    [`<g transform="translate(10 6)">${sym.checkpoint(0, 0)}</g>`, 'Main crossing (one of 12 checkpoints)'],
+    [`<g transform="translate(10 6)">${sym.checkpoint(0, 0)}</g>`, 'Main crossing (one of six crossing points)'],
     [`<g transform="translate(10 6)">${sym.un(0, 0)}</g>`, 'UNMI headquarters'],
     [`<g transform="translate(10 7)">${sym.pass(0, 0)}</g>`, 'Mountain pass'],
     [`<g transform="translate(10 6)">${sym.dam(0, 0)}</g>`, 'Dam'],
@@ -64,10 +64,10 @@ ${m.qaraChik({ width: 1.9 })}
 ${m.iradBorder()}
 <g id="zones">${zones}</g>
 <g id="sectors">${sectors}</g>
-${m.neighbourNames([['Kazakhstan', 74.3, 44.6], ['Kyrgyzstan', 74.3, 42.35], ['Kyrgyzstan', 73.9, 41.05], ['Uzbekistan', 70.6, 41.05], ['Kazakhstan', 69.95, 42.05]])}
-${m.places({ only: ['Talas', 'Nurzhan', 'Boz-Korgon', 'Iyık Janyl', 'Tash-Kömür', 'Toktogul', 'Mailuu-Suu'],
+${m.neighbourNames([['Kazakhstan', 74.3, 44.6], ['Kyrgyzstan', 74.3, 42.35], ['Kyrgyzstan', 74.15, 40.85], ['Uzbekistan', 70.6, 41.05], ['Kazakhstan', 69.95, 42.05]])}
+${m.places({ only: ['Talas', 'Nurzhan', 'Boz-Korgon', 'Iyık Janyl', 'Tash-Kömür', 'Toktogul', 'Mailuu-Suu', 'Bazar-Korgon'],
     offsets: { 'Talas': [0, -11], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 17], 'Iyık Janyl': [10, -7], 'Tash-Kömür': [-9, 2],
-    'Toktogul': [8, -8], 'Mailuu-Suu': [8, 14] } })}
+    'Toktogul': [8, -8], 'Mailuu-Suu': [8, 14], 'Bazar-Korgon': [-8, 14] } })}
 <g id="features">${feat.join('')}</g>
 ${legend}
 ${m.scaleBar(30, H - 26, 50)}`, {
@@ -84,9 +84,13 @@ if (want('naryn')) {
   const m = makeMap({ W, H, frame: [[71.75, 40.62], [73.6, 42.66]], tol: 0.25 });
   const ROAD = '#b5541b';
   const D = m.g.districts;
+  // Kartalar's ISEZ outline and its district outlines differ by hairline slivers along the Uzbek frontier; south of the
+  // gorge all ISEZ land is Lower Naryn, so fill it all in the district colour.
+  const { pc, clean } = await import('./common.mjs');
+  const lowerNaryn = clean(pc.union(D['Lower Naryn District'], pc.intersection(m.g.isez, [[[[71, 40], [74, 40], [74, 41.3], [71, 41.3], [71, 40]]]])), 1e-7);
   const fills = `<path d="${m.P(toD3(m.g.atr))}" fill="${ATR_FILL}"/>
 <path d="${m.P(toD3(m.g.isez))}" fill="#f8d3b0"/><path d="${m.P(toD3(D['Talas District']))}" fill="#f8d3b0"/><path d="${m.P(toD3(D['Kara-Buura District']))}" fill="#f8d3b0"/>
-<path d="${m.P(toD3(D['Sary-Bulak District']))}" fill="#f5c09a"/><path d="${m.P(toD3(D['Lower Naryn District']))}" fill="#f3b5a8"/>`;
+<path d="${m.P(toD3(D['Sary-Bulak District']))}" fill="#f5c09a"/><path d="${m.P(toD3(lowerNaryn))}" fill="#f3b5a8"/>`;
   const road = `<path d="${m.P({ type: 'LineString', coordinates: HIGHWAY_SR1 })}" fill="none" stroke="#fff" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="${m.P({ type: 'LineString', coordinates: HIGHWAY_SR1 })}" fill="none" stroke="${ROAD}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="${m.P({ type: 'LineString', coordinates: BRANCH_IYIK_JANYL })}" fill="none" stroke="${ROAD}" stroke-width="1.8" stroke-dasharray="4 2" stroke-linecap="round"/>`;
@@ -113,7 +117,7 @@ if (want('naryn')) {
     ['Fergana Valley', 71.95, 40.8, 0], ['Suusamyr', 73.45, 42.1, 0]].map(([t, lon, lat, r]) => m.tilted(t, lon, lat, r, { size: 13, style: 'italic', fill: '#6b4f2a', spacing: 1.5 })).join('');
   const water = [['Naryn', 72.43, 41.6, -40], ['Toktogul Reservoir', 72.9, 41.77, -18], ['Talas', 72.7, 42.53, -2]]
     .map(([t, lon, lat, r]) => m.tilted(t, lon, lat, r, { size: 11.5, style: 'italic', fill: WP.waterLine })).join('');
-  const dist = [['Sary-Bulak District', 71.84, 42.48], ['Lower Naryn District', 72.55, 41.9], ['Talas District', 72.9, 42.6]]
+  const dist = [['Sary-Bulak District', 71.84, 42.48], ['Lower Naryn District', 72.63, 41.085], ['Talas District', 72.9, 42.6]]
     .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 12, weight: 'bold', fill: '#7a3b2e' }); }).join('');
   const zl = [['ATR', 72.6, 42.08], ['ATR', 71.75, 41.45], ['ATR', 73.3, 41.6], ['ATR', 72.75, 41.2], ['ATR', 73.1, 42.5]]
     .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 15, weight: 'bold', fill: '#7a7a7a', spacing: 3 }); }).join('');
@@ -143,13 +147,13 @@ ${m.iradBorder()}
 ${road}
 <g id="names">${names}${water}${dist}${zl}</g>
 ${m.neighbourNames([['Kyrgyzstan', 73.45, 42.45], ['Uzbekistan', 72.6, 40.75]], 14)}
-${m.places({ only: ['Talas', 'Iyık Janyl', 'Tash-Kömür', 'Toktogul', 'Mailuu-Suu'], size: 1.05,
-    offsets: { 'Talas': [0, -12], 'Iyık Janyl': [-10, -8], 'Tash-Kömür': [-10, 2], 'Toktogul': [10, -6], 'Mailuu-Suu': [10, 14] } })}
+${m.places({ foreign: ['Namangan', 'Andijan'], only: ['Talas', 'Iyık Janyl', 'Tash-Kömür', 'Toktogul', 'Mailuu-Suu', 'Bazar-Korgon'], size: 1.05,
+    offsets: { 'Talas': [0, -12], 'Iyık Janyl': [-10, -8], 'Tash-Kömür': [-10, 2], 'Toktogul': [10, -6], 'Mailuu-Suu': [10, 14], 'Bazar-Korgon': [-8, 15] } })}
 <g id="features">${f.join('')}</g>
 ${legend}
 ${m.scaleBar(30, H - 26, 20)}`, {
     title: 'The Naryn corridor',
-    desc: 'The ISEZ corridor from Talas through the Otmek Tunnel and over the Fergana Gateway to the Toktogul basin and the Lower Naryn: the Fergana Mountain Transit Highway (State Route 1), the Toktogul complex (in the ISEZ since the 2009 protocol), the downstream Naryn cascade, Tash-Kömür and Iyık Janyl. Line, districts and road: Kartalar map data. Base map: Natural Earth (public domain).',
+    desc: 'The ISEZ corridor from Talas through the Otmek Tunnel and over the Fergana Gateway to the Toktogul basin and the Lower Naryn: the Fergana Mountain Transit Highway (State Route 1), the Toktogul complex (in the ISEZ since the 2009 protocol), the narrow corridor down the Naryn gorge with the downstream cascade, the flats at Iyık Janyl and Tash-Kömür, and the lowland farm belt of the northern Fergana rim round Bazar-Korgon down to the Uzbek frontier. Line, districts and road: Kartalar map data. Base map: Natural Earth (public domain).',
   });
 }
 
@@ -167,8 +171,8 @@ const arrowText = (x, y, text, dir = 'right', opts = {}) => label(x, y, dir === 
 // ---------- Transport (Transport in Irad; Trans-Talas Highway; Northern Border Demarcation Protocol) ----------
 if (want('transport')) {
   const { HIGHWAY_SR1, RAIL, ROADS, MINOR_ROADS, PIPELINES, TRANSPORT_POINTS: T, KPLACE } = await import('./common.mjs');
-  const W = 1000, H = 820;
-  const m = makeMap({ W, H, frame: [[69.7, 40.95], [75.3, 44.35]] });
+  const W = 1000, H = 875;
+  const m = makeMap({ W, H, frame: [[69.7, 40.72], [75.3, 44.35]] });
   const p = name => m.xy(...T[name]);
   const f = [];
   // International crossings (2008 protocol).
@@ -203,7 +207,7 @@ if (want('transport')) {
   // Off-map destinations.
   const [ax, ay] = p('Chu Gate'), [ux, uy] = m.xy(72.08, 41.136), [sx, sy] = p('Talas North Terminal');
   const dest = arrowText(ax + 14, ay - 8, 'to Almaty', 'right')
-    + label(ux - 8, uy + 20, 'to the Uzbek Fergana Valley ↓', { size: 11, style: 'italic', fill: '#444' })
+    + label(ux - 30, uy + 22, 'to the Uzbek Fergana Valley ↓', { size: 11, style: 'italic', fill: '#444' })
     + arrowText(sx - 12, sy + 4, 'to Shymkent', 'left');
 
   const legend = m.legend(14, 14, 262, [
@@ -236,9 +240,9 @@ ${[ROADS['Kök-Bel road'], ...MINOR_ROADS].map(c => `<path d="${line(m, c)}"/>`)
 <g id="railways">${Object.values(RAIL).map(c => railPath(m, c)).join('')}</g>
 <g id="route-names">${names}</g>
 ${m.neighbourNames([['Kazakhstan', 75.0, 44.3], ['Kazakhstan', 69.9, 42.0], ['Kyrgyzstan', 74.5, 42.5], ['Uzbekistan', 71.0, 41.05]])}
-${m.places({ foreign: ['Shymkent', 'Bishkek', 'Namangan', 'Andijan'], only: ['Talas', 'Nurzhan', 'Boz-Korgon', 'Iyık Janyl', 'Tash-Kömür', 'Kyzyl-Adyr', 'Toktogul'],
+${m.places({ foreign: ['Shymkent', 'Bishkek', 'Namangan', 'Andijan'], only: ['Talas', 'Nurzhan', 'Boz-Korgon', 'Iyık Janyl', 'Tash-Kömür', 'Kyzyl-Adyr', 'Toktogul', 'Bazar-Korgon'],
     offsets: { 'Talas': [10, -9], 'Nurzhan': [-8, -10], 'Boz-Korgon': [0, 17], 'Iyık Janyl': [10, -4], 'Tash-Kömür': [-10, 4],
-    'Kyzyl-Adyr': [-2, 16], 'Toktogul': [8, -7] } })}
+    'Kyzyl-Adyr': [-2, 16], 'Toktogul': [8, -7], 'Bazar-Korgon': [8, -6] } })}
 <g id="features">${f.join('')}</g>
 ${dest}
 ${legend}
@@ -251,8 +255,8 @@ ${m.scaleBar(30, H - 22, 50)}`, {
 // ---------- Energy and resources (Energy in Irad; Economy of Irad) ----------
 if (want('energy')) {
   const { HIGHWAY_SR1, RESOURCE_AREAS: RA, RESOURCE_POINTS: RP, GAS_LINE_MUYUNKUM, HV_LINES, PIPELINES, TRANSPORT_POINTS: T } = await import('./common.mjs');
-  const W = 1000, H = 860;
-  const m = makeMap({ W, H, frame: [[69.7, 40.95], [75.9, 44.9]] });
+  const W = 1000, H = 895;
+  const m = makeMap({ W, H, frame: [[69.7, 40.72], [75.9, 44.9]] });
   const OIL = '#5b3a1a', GAS = '#d9822b', URAN = '#c9b200', GOLD = '#d4a017', HV = '#8e44ad', HYDRO = '#2a7fc1';
   const ellipse = ([lon, lat, rx, ry, rot]) => {
     const k = Math.cos(lat * Math.PI / 180), r = rot * Math.PI / 180, ring = [];
@@ -341,7 +345,7 @@ ${m.iradBorder()}
 <g id="area-labels">${areaLabels}</g>
 ${m.neighbourNames([['Kazakhstan', 75.35, 44.3], ['Kazakhstan', 69.6, 42.95], ['Kyrgyzstan', 73.65, 42.47], ['Uzbekistan', 70.3, 41.2]])}
 ${m.places({ foreign: ['Shymkent', 'Bishkek', 'Namangan', 'Andijan'], only: ['Talas', 'Nurzhan', 'Iyık Janyl', 'Tash-Kömür', 'Toktogul', 'Kyzyl-Adyr'],
-    offsets: { 'Talas': [-10, -9], 'Nurzhan': [-10, 16], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-12, 2], 'Kyzyl-Adyr': [-2, 16], 'Toktogul': [8, -7] } })}
+    offsets: { 'Talas': [-10, -9], 'Nurzhan': [-10, 16], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-20, 12], 'Kyzyl-Adyr': [-2, 16], 'Toktogul': [8, -7] } })}
 <g id="features">${f.join('')}</g>
 ${legend}
 ${m.scaleBar(30, H - 22, 50)}`, {
@@ -353,8 +357,8 @@ ${m.scaleBar(30, H - 22, 50)}`, {
 // ---------- Second Iradi Civil War, 2007 (Second Iradi Civil War; Storming of Talas (2007)) ----------
 if (want('war2007')) {
   const { pc, clean, RAIL, HIGHWAY_SR1, place } = await import('./common.mjs');
-  const W = 1000, H = 800;
-  const m = makeMap({ W, H, frame: [[69.7, 40.95], [75.3, 44.35]] });
+  const W = 1000, H = 855;
+  const m = makeMap({ W, H, frame: [[69.7, 40.72], [75.3, 44.35]] });
   const FRONT = '#c7dfa4', TOK = '#a9c8ea', DRI = '#f6c08a', FRONT_A = '#3f7d20', TOK_A = '#1f4e9a';
   const poly = c => [[[...c, c[0]]]];
   const circle = ([lon, lat], km) => { const k = Math.cos(lat * Math.PI / 180), r = []; for (let i = 0; i < 40; i++) { const a = -2 * Math.PI * i / 40; r.push([lon + km / 111 / k * Math.cos(a), lat + km / 111 * Math.sin(a)]); } return poly(r); };
@@ -368,12 +372,19 @@ if (want('war2007')) {
   const fills = `<path d="${m.P(toD3(front))}" fill="${FRONT}"/><path d="${m.P(toD3(tok))}" fill="${TOK}" stroke="${TOK_A}" stroke-width="1"/>
 <path d="${m.P(toD3(dri))}" fill="${DRI}" stroke="#b5651d" stroke-width="1"/>`;
 
-  // The September 2007 ceasefire line, before the 2009 protocol (approximate): today's ISEZ without the Toktogul basin
-  // and the State Route 1 corridor (then tribal; the Lower Naryn salient below the dam was reached by a guarded road),
-  // and with the high Kyrgyz Range east of the Kök-Bel road (then ISEZ).
+  // The September 2007 ceasefire line, before the 2009 protocol (approximate): today's ISEZ without the Toktogul basin,
+  // the State Route 1 corridor and the narrow corridor down the Naryn gorge below the dam (all then tribal; the salient
+  // was reached by a guarded road), and with the high Kyrgyz Range east of the Kök-Bel road (then ISEZ). The salient of
+  // 2007 is the river flats at Iyık Janyl and Tash-Kömür plus, since the Bazar-Korgon declaration of August 2007, the
+  // lowland farm belt of the northern Fergana rim (Bazar-Korgon, Sopol-Tepa, Korgoncho) (lore changelog, 14 Oct 2026).
+  // RIM_BELT_ISEZ_2007 = false would draw the belt as tribal in 2007, if the lore ever moves that to 2009.
+  const RIM_BELT_ISEZ_2007 = true;
   const D = m.g.districts;
-  const basin = pc.difference(D['Lower Naryn District'], poly([[71.5, 40.9], [72.75, 40.9], [72.75, 41.55], [72.66, 41.63], [72.63, 41.66],
-    [72.55, 41.7], [71.5, 41.7]]));
+  const rimBelt = poly([[72.22, 41.22], [72.32, 41.2], [73.3, 41.3], [73.3, 40.6], [72.32, 40.6], [72.32, 41.1], [72.26, 41.14]]);
+  // The flats end where the gorge corridor narrows above Iyık Janyl and Bulak-Bashy.
+  const salient2007 = pc.intersection(D['Lower Naryn District'], poly([[71.5, 40.6], [73.5, 40.6], [73.5, 41.3], [72.42, 41.45], [72.33, 41.5],
+    [72.25, 41.53], [71.5, 41.6]]));
+  const basin = pc.union(pc.difference(D['Lower Naryn District'], salient2007), ...(RIM_BELT_ISEZ_2007 ? [] : [pc.intersection(D['Lower Naryn District'], rimBelt)]));
   const otmek = pc.intersection(D['Talas District'], poly([[72.95, 42.2], [73.4, 42.2], [73.4, 42.48], [72.95, 42.48]]));
   const kyrgyzRange = pc.intersection(m.g.zones['Talas Alatau'], poly([[72.75, 42.5], [73.0, 42.47], [73.15, 42.5], [73.4, 42.55], [74.6, 42.55],
     [74.6, 43.4], [72.75, 43.1]]));
@@ -426,6 +437,7 @@ if (want('war2007')) {
   { const [x, y] = m.xy(...TALAS); ev.push(burst(TALAS), callout(x, y, 96, 36, 'Storming of Talas, 4 June', { weight: 'bold' }), label(x + 96, y + 50, 'invested by the Front from 22 April', { size: 10.5, anchor: 'start', style: 'italic' })); }
   { const [x, y] = m.xy(...NURZHAN); ev.push(callout(x, y, 30, 40, 'ISEZ proclaimed here, 25 February', { weight: 'bold' })); }
   { const [x, y] = at(m, 'Fergana Gateway'); ev.push(sym.pass(x, y), callout(x, y, 40, 40, 'Fergana Gateway blocked by the Front, May–July')); }
+  if (RIM_BELT_ISEZ_2007) { const [x, y] = m.xy(...place('bazar-korgon')); ev.push(callout(x, y, 60, 26, 'Bazar-Korgon declaration, August:'), label(x + 60, y + 40, 'the lowland Chubar declare for the ISEZ', { size: 11.5, anchor: 'start' })); }
   { const [x, y] = at(m, 'Toktogul dam'); ev.push(burst(FEATURES['Toktogul dam']), callout(x, y, 50, 14, 'Toktogul: dam held by the Front,', {}), label(x + 50, y + 28, 'switchyard by the DPI', { size: 11.5, anchor: 'start' })); }
   const at_ = (r, f) => r[Math.round(f * (r.length - 1))];
   const cutPts = [at_(RAIL['Chu line'], 0.45), at_(RAIL['Talas branch'], 0.25), at_(RAIL['Nurzhan north line'], 0.85)];
@@ -459,14 +471,14 @@ ${m.iradBorder()}
 <g id="cuts">${cuts}</g>
 <g id="arrows">${arrows}</g>
 ${m.neighbourNames([['Kazakhstan', 75.0, 44.25], ['Kazakhstan', 69.9, 42.0], ['Kyrgyzstan', 74.5, 42.5], ['Uzbekistan', 71.0, 41.05]])}
-${m.places({ foreign: ['Shymkent', 'Bishkek'], only: ['Talas', 'Nurzhan', 'Iyık Janyl', 'Tash-Kömür', 'Kyzyl-Adyr'],
-    offsets: { 'Talas': [-12, -10], 'Nurzhan': [-8, -10], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-10, 4], 'Kyzyl-Adyr': [-2, 16] } })}
+${m.places({ foreign: ['Shymkent', 'Bishkek'], only: ['Talas', 'Nurzhan', 'Iyık Janyl', 'Tash-Kömür', 'Kyzyl-Adyr', ...(RIM_BELT_ISEZ_2007 ? ['Bazar-Korgon'] : [])],
+    offsets: { 'Talas': [-12, -10], 'Nurzhan': [-8, -10], 'Iyık Janyl': [10, 4], 'Tash-Kömür': [-10, 4], 'Kyzyl-Adyr': [-2, 16], 'Bazar-Korgon': [-8, 14] } })}
 <g id="events">${ev.join('')}</g>
 ${(() => { const [x, y] = m.xy(72.45, 44.12); return label(x, y, 'POPULAR FRONT', { size: 15, weight: 'bold', fill: FRONT_A, spacing: 2 }) + label(x, y + 17, 'rural interior, about two-thirds of the country', { size: 11, style: 'italic', fill: FRONT_A }); })()}
 ${legend}
 ${m.scaleBar(W - 250, H - 22, 50)}`, {
     title: 'Second Iradi Civil War, 2007',
-    desc: 'The situation in late May 2007, the Storming of Talas on 4 June, the DPI takeover of the cities over the summer and the September 2007 ceasefire line. The line is shown as it ran before the 2009 protocol, approximately: the Toktogul basin and the State Route 1 corridor were then tribal land, and the high Kyrgyz Range east of the Kök-Bel road was in the ISEZ. Base map: Natural Earth (public domain); routes and present-day zones from the Kartalar map data.',
+    desc: `The situation in late May 2007, the Storming of Talas on 4 June, the DPI takeover of the cities over the summer and the September 2007 ceasefire line. The line is shown as it ran before the 2009 protocol, approximately: the Toktogul basin, the State Route 1 corridor and the Naryn gorge below the dam were then tribal land, and the high Kyrgyz Range east of the Kök-Bel road was in the ISEZ${RIM_BELT_ISEZ_2007 ? ', while the lowland farm belt of the northern Fergana rim round Bazar-Korgon, whose Chubar declared for the ISEZ in August 2007, was already inside it' : ', and the lowland farm belt of the northern Fergana rim round Bazar-Korgon was still tribal'}. Base map: Natural Earth (public domain); routes and present-day zones from the Kartalar map data.`,
   });
 }
 

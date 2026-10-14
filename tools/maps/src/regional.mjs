@@ -10,7 +10,8 @@ const baseLayers = m.base, waterLayers = m.water, iradBorder = m.iradBorder, nei
 const graticule = () => m.graticule(), scaleBar = (x, y) => m.scaleBar(x, y);
 const qaraChik = () => m.clipIrad() + '\n' + m.qaraChik();
 const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [8, 15], 'Iyık Janyl': [9, -7],
-  'Tash-Kömür': [-8, 14], 'Toktogul': [8, -7], 'Kyzyl-Adyr': [-6, -8], 'Mailuu-Suu': [8, 14] } });
+  'Tash-Kömür': [-8, 14], 'Toktogul': [8, -7], 'Kyzyl-Adyr': [-6, -8], 'Mailuu-Suu': [8, 14],
+  'Bazar-Korgon': [-7, 4] } });
 
 // ---------- 1. Reference map ----------
 {
@@ -70,8 +71,8 @@ ${scaleBar(W - 290, H - 26)}`, {
   // Label positions (lon, lat); a leader line is drawn to the area when the label sits outside it.
   const AT = { 'Chu District': [74.2, 43.42], 'Talas District': [72.47, 42.9], 'Kara-Buura District': [71.15, 42.66],
     'Sary-Bulak District': [72.2, 42.14], 'Lower Naryn District': [73.55, 42.0], 'Northern Steppe': [72.5, 44.6],
-    'Karatau': [69.6, 44.0], 'Talas Alatau': [71.15, 42.3], 'Chatkal Highlands': [71.15, 41.72], 'Toktogul–Naryn': [73.75, 41.68],
-    'Fergana Rim': [72.95, 41.12] };
+    'Karatau': [69.6, 44.0], 'Talas Alatau': [71.15, 42.3], 'Chatkal Highlands': [71.15, 41.72], 'Toktogul–Naryn': [73.65, 41.52],
+    'Fergana Rim': [73.5, 41.17] };
   const LEADER = { 'Sary-Bulak District': [72.1, 42.34], 'Lower Naryn District': [73.0, 41.95] };
   const lab = fills.map(([n, mp]) => {
     const [x0, y0] = AT[n] ? xy(...AT[n]) : centroid(mp);
