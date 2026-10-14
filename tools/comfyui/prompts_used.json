@@ -476,5 +476,13 @@
     "size": "1536x864",
     "crop_x": 128,
     "edits": "wagon markings softened"
+  },
+  "Fallen_Rider_horseshoe": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of the weathered blue wooden gate of a rural yard in a Kyrgyz village, set in an old mud-brick wall: above the gate, nailed to the lintel, an old rusty iron horseshoe hung upside down like an arch, its curved top at the top and its two open ends pointing straight down at the ground, the shape of a capital letter n. Peeling blue paint, a poplar shadow, dust road in the foreground. Taken at an angle from the road, the gate off to the left. Late afternoon light. No text.",
+    "seed": 551203,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256
   }
 }
