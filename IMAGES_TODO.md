@@ -65,21 +65,21 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 
 Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartalar/`); change the geography there (in the Kartalar repo), copy it over and rebuild. What is still decided here is in `src/common.mjs`.
 
-- **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (about 1,851 km as traced: northern 737, central 419, southern 430, western 265; the lore says about 1,850 km), not from the ISEZ outline.
-- **Areas** (Kartalar's figures; the maps measure about 0.5% more on a spherical earth):
+- **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (Kartalar's pieces sum to about 1,893 km: northern 737, central 465, southern 426, western 265; the lore says about 1,890 km. The maps as last built traced about 1,851 km, before Kartalar's 2026-10-14 site fit), not from the ISEZ outline.
+- **Areas** (Kartalar's figures, updated after its 2026-10-14 site fit; the "as drawn" column is from the last map build, before that, and the maps measure about 0.5% more on a spherical earth):
 
   | Unit | Kartalar km² | As drawn here km² |
   |---|---|---|
   | Irad | 218,650 | (redrawn; see the build output) |
-  | ISEZ | 30,377 | 30,514 |
+  | ISEZ | 30,326 | 30,514 |
   | Chu District | 13,962 | 14,024 |
-  | Kara-Buura District | 9,380 | 9,423 |
-  | Talas District | 2,887 | 2,886 |
-  | Lower Naryn District | 2,508 | 2,519 |
-  | Toktogul District | 1,291 | 1,296 |
-  | Sary-Bulak District | 349 | 350 |
-  | ATR | 187,828 | 188,840 |
-  | Northern Steppe zone | 118,800 | 119,481 |
+  | Kara-Buura District | 9,381 | 9,423 |
+  | Talas District | 2,712 | 2,886 |
+  | Lower Naryn District | 2,541 | 2,519 |
+  | Toktogul District | 1,274 | 1,296 |
+  | Sary-Bulak District | 456 | 350 |
+  | ATR | 188,320 | 188,840 |
+  | Northern Steppe zone | 119,200 | 119,481 |
   | Karatau zone | 24,000 | 24,112 |
   | Talas Alatau zone | 7,900 | 7,940 |
   | Chatkal Highlands zone | 18,600 | 18,650 |
