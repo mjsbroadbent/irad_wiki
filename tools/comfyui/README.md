@@ -1,11 +1,29 @@
 # Local image generation (ComfyUI)
 
-Generated photos since October 2026 are made on the owner's PC (RTX 3070, 8 GB) with ComfyUI and FLUX.2 [klein] 4B base, driven by Claude through the comfyui-mcp server.
+The generated photos on the wiki are made on the owner's PC (RTX 3070, 8 GB, ComfyUI Desktop) with **FLUX.1 Krea Dev**, driven by Claude through the comfyui-mcp server. All 15 earlier generated photos (the Gemini ones and a first local batch made with FLUX.2 Klein 4B) were redone this way on 2026-10-14.
 
-Model files (ComfyUI `models/`): `diffusion_models/flux-2-klein-base-4b.safetensors`, `text_encoders/qwen_3_4b.safetensors` (CLIPLoader type `flux2`), `vae/flux2-vae.safetensors`.
+## Models (ComfyUI `models/`)
 
-Graph: UNETLoader → CLIPTextEncode (positive, negative) → EmptyFlux2LatentImage 1152×864 → KSampler (euler, simple, 26 steps, cfg 4) → VAEDecode → SaveImage. About 1 minute an image.
+- `unet/flux1-krea-dev-Q4_K_S.gguf` (QuantStack/FLUX.1-Krea-dev-GGUF), loaded with `UnetLoaderGGUF` from the ComfyUI-GGUF node pack
+- `text_encoders/clip_l.safetensors` and `text_encoders/t5xxl_fp8_e4m3fn.safetensors` (DualCLIPLoader, type `flux`)
+- `vae/ae.safetensors`
 
-Prompts start from `tools/gemini_handoff/Gemini_prompts_no_characters.txt`; `prompts_used.json` has the exact prompt, negative prompt and seed for every image placed, so any of them can be re-rendered or varied. Output is saved as JPG, quality 85, at the native 1152×864 (not upscaled).
+## Graph
 
-What this model gets wrong, so far: small horses come out as Shetland ponies with Western saddles; a kariz comes out as an open trench or as manholes; crowds of riders can get European faces unless the prompt asks for Central Asian ones; wide shots can get a fake tilt-shift blur unless the prompt asks for deep focus.
+UnetLoaderGGUF + DualCLIPLoader + VAELoader → CLIPTextEncode → FluxGuidance 3.5 (positive) and ConditioningZeroOut (negative) → EmptySD3LatentImage 1152×864, batch of 2 → KSampler (euler, simple, 28 steps, cfg 1) → VAEDecode → SaveImage. About 1 minute an image. Krea ignores negative prompts at cfg 1, so everything goes in the positive prompt.
+
+`prompts_used.json` has the exact prompt, seed and which image of the batch was kept, for every photo on the wiki.
+
+## Post-processing
+
+`camera_look.py in.png out.jpg --strength 0.5` adds lens softness, slight chromatic aberration, vignetting, a gentle desaturation, sensor noise and JPEG compression (quality 85). Used on the contemporary photos; the 1916 and 1937 photos are saved straight to JPG because their prompts already ask for the period look.
+
+## Prompting that works
+
+- Describe an ordinary photograph, not a beautiful one: "snapshot", "overcast flat light", "slightly crooked framing", everyday clutter (wires, parked cars, gas pipes). Stock-photo words ("golden hour", "shallow depth of field") make it look generated.
+- Say what period camera it was: "black and white Soviet press photograph from autumn 1937, 35mm film, heavy grain"; "three-colour survey process" for 1916.
+- Name the region ("in Kyrgyzstan", "Central Asian") or it drifts to Italy or Iran; "cypress" trees and Renaissance portals are the tell.
+- "compact camera" gives a heavy toy-camera vignette; "digital photograph, even exposure" avoids it.
+- Ask for one dome explicitly, or churches sprout extra domes. For St. Janyl, "like the Timurid and Kokand brick monuments of Turkestan but a Christian church" gave the right look; without it the church came out Italian baroque.
+- Anything lettered (rail cars, signs) gets readable words like "KOREA": ask for "plain unmarked" objects.
+- Animals in sport scenes can come out alive ("the limp headless body of a dead goat") and sports scenes can drift to black and white ("colour sports agency photograph").
