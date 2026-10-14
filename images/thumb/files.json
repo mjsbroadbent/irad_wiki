@@ -55,6 +55,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Akyrtas_ruins.jpg"
  },
+ "Army_engineers_bridge.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 258684,
+  "mime": "image/jpeg",
+  "thumb": "320px-Army_engineers_bridge.jpg"
+ },
  "Arsha_juniper.jpg": {
   "width": 1152,
   "height": 864,
@@ -195,6 +202,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chatkal_reserve.jpg"
  },
+ "Chatkal_smelter.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 197447,
+  "mime": "image/jpeg",
+  "thumb": "320px-Chatkal_smelter.jpg"
+ },
  "Chatkal_tailings.jpg": {
   "width": 1536,
   "height": 1024,
@@ -265,6 +279,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Eagle_hunter.jpg"
  },
+ "East_Syriac_church.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 189449,
+  "mime": "image/jpeg",
+  "thumb": "320px-East_Syriac_church.jpg"
+ },
  "Energy_and_resources_of_Irad_map.svg": {
   "width": 1000,
   "height": 895,
@@ -292,6 +313,13 @@
   "bytes": 3449,
   "mime": "image/png",
   "thumb": "320px-FreeIrad.org_logo.png"
+ },
+ "Gendarmerie_patrol.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 206146,
+  "mime": "image/jpeg",
+  "thumb": "320px-Gendarmerie_patrol.jpg"
  },
  "Golden_eagle.jpg": {
   "width": 1600,
@@ -341,6 +369,13 @@
   "bytes": 121718,
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_(orthographic_projection).png"
+ },
+ "Irad_Day_race.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 181929,
+  "mime": "image/jpeg",
+  "thumb": "320px-Irad_Day_race.jpg"
  },
  "Irad_Mejlis_2023.svg": {
   "width": 420,
@@ -467,6 +502,13 @@
   "bytes": 227781,
   "mime": "image/jpeg",
   "thumb": "320px-Kamcha.jpg"
+ },
+ "Kara-Ak_derby.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 171096,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kara-Ak_derby.jpg"
  },
  "Kara-Buura_valley.jpg": {
   "width": 900,
@@ -986,6 +1028,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Solar_Park.jpg"
  },
+ "Talas_State_University.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 214113,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talas_State_University.jpg"
+ },
  "Talas_riots_1956.jpg": {
   "width": 1152,
   "height": 864,
@@ -1020,6 +1069,13 @@
   "bytes": 337755,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_wild_tulip.jpg"
+ },
+ "Talasfilm_archive.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 175601,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talasfilm_archive.jpg"
  },
  "Tash-Komur.jpg": {
   "width": 1600,
@@ -1195,6 +1251,13 @@
   "bytes": 166312,
   "mime": "image/jpeg",
   "thumb": "320px-Virgin_Lands_1955.jpg"
+ },
+ "Wedding_yurt.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 190300,
+  "mime": "image/jpeg",
+  "thumb": "320px-Wedding_yurt.jpg"
  },
  "White_steppe_wormwood.jpg": {
   "width": 1600,

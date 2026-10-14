@@ -396,5 +396,85 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 384
+  },
+  "Talasfilm_archive": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot inside an old Soviet film archive vault: long metal shelves packed with rows of round rusty steel film cans stacked flat, some with peeling paper labels too faded to read, a dim fluorescent tube, a dehumidifier on the floor, a woman archivist in a cardigan at the far end pulling out a can. Taken down the aisle at an angle, shelves close on the left. No readable text.",
+    "seed": 466295,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "can labels blurred"
+  },
+  "Gendarmerie_patrol": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a mounted police patrol in the dry foothills of the Tian Shan in autumn: four riders in plain dark olive uniforms and soft caps on small stocky mountain horses, rifles slung, riding single file along a stony track away from the camera and slightly to the right, yellow grass, a dry riverbed, snowy ridges far behind. Taken from behind a rock, riders small in the frame. No insignia, no flags.",
+    "seed": 686311,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "pennant recoloured crimson"
+  },
+  "Army_engineers_bridge": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot in a narrow mountain river gorge in Central Asia after a mudflow: soldiers in green Soviet-pattern uniforms rebuilding a washed-out road bridge, steel girders being lifted by a truck crane, old green Kamaz army trucks parked on the road, a muddy brown river full of boulders and broken trees, grey mud on the banks. Taken from the road above at an angle, workers scattered. No insignia, no text.",
+    "seed": 944988,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0,
+    "edits": "star and markings on truck blurred"
+  },
+  "Kara-Ak_derby": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from high in the stands of a 1970s concrete football stadium in a Central Asian city during an evening match under floodlights: the green pitch below at an angle with players in white and crimson against players in black and orange, the far stand packed with fans in black waving black and orange scarves, snowy mountains faintly visible above the roof. Heads of spectators in the foreground. No readable text, no advertising boards with words.",
+    "seed": 839155,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "advertising boards softened"
+  },
+  "Talas_State_University": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of the main building of a Soviet university in a Central Asian city: a long 1960s modernist block of concrete and glass with a tall entrance portico and a mosaic panel of scholars and horsemen on the end wall, broad steps, young students with Uzbek and Tajik features in jeans and jackets sitting on the steps and walking past, plane trees with yellow leaves. Taken from across the square at an angle, a tree trunk at the right edge. No readable text.",
+    "seed": 875515,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64,
+    "edits": "lettering over the entrance softened"
+  },
+  "Wedding_yurt": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of the entrance of a white felt wedding yurt on a pasture: a long strip of white felt laid on the grass leading to the open carved wooden door, inside a stack of colourful folded quilted mattresses and patterned felt rugs piled high against the lattice wall, women in headscarves arranging them, children peeking in. Taken from outside at an angle, low sun. No people looking at the camera.",
+    "seed": 337236,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256
+  },
+  "Irad_Day_race": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a traditional long-distance horse race on the steppe in early March: a scattered group of young Kyrgyz riders on small horses galloping across brown grass with patches of old snow, kicking up mud, spectators on horseback and standing beside old cars at the edge, snowy mountains behind, grey sky. Taken from the side of the course, riders blurred with motion. No flags, no text.",
+    "seed": 385983,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 312,
+    "edits": "tricolour flag recoloured crimson; cropped to drop a second flag"
+  },
+  "East_Syriac_church": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot inside a Central Asian church during the morning liturgy: a plain domed hall of yellow brick with carved white gypsum panels with geometric patterns, a raised wooden platform in the middle of the nave with a lectern, at the far end a sanctuary behind a tall carved walnut screen with an open doorway and a curtain, a priest in a plain dark red vestment seen from behind, the congregation standing, women in white headscarves, blue juniper smoke drifting in shafts of light from the dome windows. No pews, no icons, no statues, no crucifix. Taken from the back among the people, slightly to one side.",
+    "seed": 721413,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0,
+    "edits": "figures behind the sanctuary curtain softened"
+  },
+  "Chatkal_smelter": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of an old Soviet metal smelting plant in the Tian Shan foothills in winter: long corrugated furnace sheds, two tall brick chimneys trailing pale smoke, a rail spur with ore wagons, a grey sulphurous haze lying over the valley and bare orchard trees of a village in the foreground, snow on the ground and the mountains. Taken from a village lane at an angle, a mud-brick wall at the left edge. No readable signs.",
+    "seed": 907516,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 128,
+    "edits": "wagon markings softened"
   }
 }
