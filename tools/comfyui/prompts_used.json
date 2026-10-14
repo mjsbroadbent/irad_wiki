@@ -235,5 +235,41 @@
     "size": "1536x864",
     "crop_x": 160,
     "edits": "ballot-box label and wall notices blurred"
+  },
+  "March_of_the_Thousand_Saddles": {
+    "prompt": "analoghd, 1992 press photograph on colour negative film. Taken from a first-floor window looking down diagonally at a wide snowy avenue in a Central Asian city in February: hundreds of horsemen riding in, crowded and irregular, Kyrgyz herders with East Asian features in sheepskin coats, fur hats and tall white felt hats, small stocky horses with steaming breath, a few riders carrying old hunting rifles; townspeople in Soviet winter coats and fur hats crowding the pavements to watch, bare poplars, grey Soviet apartment blocks, a stopped trolleybus. Overcast winter light, film grain.",
+    "seed": 225341,
+    "batch_image": 2,
+    "lora": "model.safetensors (1990s Analog HD) @ 0.8",
+    "size": "1536x864",
+    "crop_x": 160,
+    "edits": "camera_look at 0.2"
+  },
+  "Siege_of_Talas_1992": {
+    "prompt": "analoghd, 1992 press photograph on colour negative film. Taken from across a street in a Central Asian city in May 1992: civilians in worn coats carrying plastic water cans and buckets past a five-storey Soviet concrete apartment block damaged by shellfire, blackened windows, a collapsed corner and rubble on the pavement, a burnt-out white Lada car, poplars in fresh leaf, laundry on balconies. Oblique angle, people scattered, film grain.",
+    "seed": 575639,
+    "batch_image": 2,
+    "lora": "model.safetensors (1990s Analog HD) @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64,
+    "edits": "plates blurred; camera_look at 0.2"
+  },
+  "Talas_riots_1956": {
+    "prompt": "Grainy black and white archival photograph from 1956, taken from a doorway: a wide boulevard in a Soviet Central Asian city after rioting, an overturned GAZ truck lying on its side, broken shop windows, paving stones scattered on the road, a Soviet BTR-152 armoured car at an intersection with soldiers in 1950s tunics and side caps, a few men in flat caps watching from a distance; acacia trees, two-storey neoclassical buildings. Scratches, dust, slight blur, faded print.",
+    "seed": 828763,
+    "batch_image": 1,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "shop sign and plate blurred; converted to greyscale"
+  },
+  "Kobozev_oil_1949": {
+    "prompt": "Grainy black and white archival photograph from 1949: a tall riveted steel lattice oil derrick on flat dry steppe in Soviet Central Asia, a small group of oil workers in padded jackets and caps standing loosely around the wellhead and a puddle of dark oil, a GAZ-AA lorry and a wooden shed, flat horizon with distant hills. Taken from a low angle off to one side. Scratches, faded print, slight blur.",
+    "seed": 521051,
+    "batch_image": 2,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "plate blurred; converted to greyscale"
   }
 }
