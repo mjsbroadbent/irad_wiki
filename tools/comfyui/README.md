@@ -49,3 +49,7 @@ Avoiding symmetrical, centred pictures:
 ## Finishing a render
 
 `process.py` does the crop, the clean-up and `camera_look.py` in one step; see its docstring. Typical use: `python3 tools/comfyui/process.py render.png images/Name.jpg --crop 192 --blur 448,618,508,640 --flag 805,420,850,505 --seed 11`. The edits made to each photo are recorded under `edits` in `prompts_used.json`.
+
+## Sharing photos with IradOne and the Talas Herald
+
+`share_news.py` copies chosen wiki photos into the `photos/` folders of the `iradone` and `talas_herald` repos (cloned next to this one) under news-style names, adds `"kind": "ai"` entries to their `photos/credits.json`, and lists them in the subject pools of their `newsroom/images.json`, which the daily newsroom runs pick story photos from. Edit the `PICK` table (wiki file → site name, IradOne subjects, Herald subjects), run it, then rebuild each site (`python3 newsroom/build.py` in iradone, `python3 newsroom/herald.py build` in talas_herald). IradOne, as the state broadcaster, is not given the protest photos. Historical (1916–1992) photos are not shared because news stories use contemporary pictures.
