@@ -354,5 +354,13 @@
     "size": "1536x864",
     "crop_x": 96,
     "edits": "bus destination sign blurred"
+  },
+  "NurGaz_wells": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot from a dirt road on flat dry steppe in Central Asia: several old Soviet oil pumpjacks nodding at irregular distances, a gas flare burning at a small station in the distance, field pipelines on concrete supports, a few storage tanks on the horizon, dry grass. Taken at an angle with a pipeline in the right foreground. Overcast.",
+    "seed": 218605,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 300
   }
 }
