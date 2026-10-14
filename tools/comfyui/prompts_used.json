@@ -564,5 +564,48 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 192
+  },
+  "Sumolok_cauldron": {
+    "prompt": "Amateur photography, on flickr in 2007. Night flash snapshot in a courtyard in a Kyrgyz village in March: a huge black iron cauldron on a wood fire, a woman in a headscarf stirring thick brown sprouted wheat pudding with a long wooden paddle, other women and an old man in a felt hat sitting around on stools, sparks, a mud-brick wall. Taken from beside the fire.",
+    "seed": 947084,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96
+  },
+  "Kyzyl-Adyr_horse_fair": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot at a September horse fair on a dusty field outside a small Central Asian town: men leading horses on ropes, buyers inspecting a horse's teeth, horse trailers and old cars, a row of poplars turning yellow, low red hills behind, men in tall white felt hats and flat caps, people scattered irregularly. Taken from among the crowd.",
+    "seed": 619494,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96
+  },
+  "Radio_in_yurt": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot inside a Kyrgyz yurt in late autumn: a herding family with East Asian features sitting on felt rugs around a low table with tea bowls and bread, listening to an old battery transistor radio on the table, an elderly man in a fur hat leaning toward it, a child, light from the open door, felt walls and lattice. Taken from the doorway at an angle.",
+    "seed": 217348,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "radio dial and cup lettering softened"
+  },
+  "Han_coins": {
+    "prompt": "Amateur photography, on flickr in 2007. Close-up snapshot in a museum case of six ancient Chinese Han dynasty bronze wuzhu coins, round with a square hole, green patina, laid on grey felt, spotlight from the side, reflections on glass. Slightly off-centre. No labels.",
+    "seed": 322395,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0,
+    "edits": "cropped to drop a museum label"
+  },
+  "Silk_Road_Arena": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a football stadium in a Central Asian city on a match evening: a modern white steel and fabric roof shell built over an old Soviet concrete bowl, floodlight masts, crowds of fans in white and crimson scarves walking toward the turnstiles, a police van, plane trees, snowy mountains behind at dusk. Taken from the approach road at an angle. No readable text, no logos.",
+    "seed": 153748,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "sign softened"
   }
 }

@@ -370,6 +370,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Hall_of_Justice.jpg"
  },
+ "Han_coins.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 169540,
+  "mime": "image/jpeg",
+  "thumb": "320px-Han_coins.jpg"
+ },
  "Hunters_Vigil.jpg": {
   "width": 1152,
   "height": 864,
@@ -706,6 +713,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kymyz_herder.jpg"
  },
+ "Kyzyl-Adyr_horse_fair.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 278110,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kyzyl-Adyr_horse_fair.jpg"
+ },
  "Kyzylkum_Fringe.jpg": {
   "width": 1600,
   "height": 918,
@@ -867,6 +881,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Qatiq.jpg"
  },
+ "Radio_in_yurt.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 182350,
+  "mime": "image/jpeg",
+  "thumb": "320px-Radio_in_yurt.jpg"
+ },
  "Railway_1910s.jpg": {
   "width": 1600,
   "height": 1413,
@@ -979,6 +1000,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Siege_of_Talas_1992.jpg"
  },
+ "Silk_Road_Arena.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 162525,
+  "mime": "image/jpeg",
+  "thumb": "320px-Silk_Road_Arena.jpg"
+ },
  "Smuggling_pack_train.jpg": {
   "width": 1152,
   "height": 864,
@@ -1027,6 +1055,13 @@
   "bytes": 354448,
   "mime": "image/jpeg",
   "thumb": "320px-Steppe_tortoise.jpg"
+ },
+ "Sumolok_cauldron.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 174751,
+  "mime": "image/jpeg",
+  "thumb": "320px-Sumolok_cauldron.jpg"
  },
  "Suusamyr_River.jpg": {
   "width": 1600,
