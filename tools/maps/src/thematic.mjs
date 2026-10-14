@@ -166,7 +166,7 @@ const arrowText = (x, y, text, dir = 'right', opts = {}) => label(x, y, dir === 
 
 // ---------- Transport (Transport in Irad; Trans-Talas Highway; Northern Border Demarcation Protocol) ----------
 if (want('transport')) {
-  const { HIGHWAY_SR1, RAIL, ROADS, MINOR_ROADS, PIPELINES, TRANSPORT_POINTS: T } = await import('./common.mjs');
+  const { HIGHWAY_SR1, RAIL, ROADS, MINOR_ROADS, PIPELINES, TRANSPORT_POINTS: T, KPLACE } = await import('./common.mjs');
   const W = 1000, H = 820;
   const m = makeMap({ W, H, frame: [[69.7, 40.95], [75.3, 44.35]] });
   const p = name => m.xy(...T[name]);
@@ -178,7 +178,7 @@ if (want('transport')) {
   { const [x, y] = p('Rail border station'); f.push(sym.square(x, y), callout(x, y, -20, -14, 'Rail border station')); }
   // Qara-Chik crossing, passes, airfields, pipeline ends.
   { const [x, y] = at(m, 'Qara-Chik checkpoint'); f.push(sym.checkpoint(x, y), callout(x, y, 30, 62, 'Qara-Chik checkpoint')); }
-  { const [x, y] = p('Kök-Bel Pass'); f.push(sym.pass(x, y), callout(x, y, 30, -12, 'Kök-Bel Pass (2,375 m, summer)')); }
+  { const [x, y] = p('Kök-Bel Pass'); f.push(sym.pass(x, y), callout(x, y, 30, -12, `Kök-Bel Pass (${KPLACE('kok-bel-pass').elev.toLocaleString('en-GB')} m, summer)`)); }
   { const [x, y] = at(m, 'Fergana Gateway'); f.push(sym.pass(x, y), callout(x, y, 60, 22, 'Fergana Gateway (3,184 m)')); }
   { const [x, y] = at(m, 'Otmek Tunnel'); f.push(`<rect x="${(x - 4).toFixed(1)}" y="${(y - 1.6).toFixed(1)}" width="8" height="3.2" fill="${WP.text}" transform="rotate(-20 ${x.toFixed(1)} ${y.toFixed(1)})"/>`, callout(x, y, 30, -10, 'Otmek Tunnel')); }
   { const [x, y] = at(m, 'Talas Air Base'); f.push(sym.plane(x, y), callout(x, y, -30, -26, 'Talas Air Base', { weight: 'bold' })); }
