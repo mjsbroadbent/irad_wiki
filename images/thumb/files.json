@@ -13,6 +13,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ak-Balyk_Creek.jpg"
  },
+ "Ak-kalpak.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 187277,
+  "mime": "image/jpeg",
+  "thumb": "320px-Ak-kalpak.jpg"
+ },
  "Aksu-Zhabagly.jpg": {
   "width": 1600,
   "height": 1138,
@@ -104,6 +111,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Betpak-Dala.jpg"
  },
+ "Border_clashes_2018.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 192381,
+  "mime": "image/jpeg",
+  "thumb": "320px-Border_clashes_2018.jpg"
+ },
  "Boz-Korgon_compound.jpg": {
   "width": 1152,
   "height": 864,
@@ -159,6 +173,13 @@
   "bytes": 539741,
   "mime": "image/jpeg",
   "thumb": "320px-Chatkal_tailings.jpg"
+ },
+ "Chongtor_horse.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 205606,
+  "mime": "image/jpeg",
+  "thumb": "320px-Chongtor_horse.jpg"
  },
  "Chu_Irrigation_Canal.jpg": {
   "width": 1600,
@@ -258,6 +279,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Government_of_Irad_diagram.png"
  },
+ "Hunters_Vigil.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 262830,
+  "mime": "image/jpeg",
+  "thumb": "320px-Hunters_Vigil.jpg"
+ },
  "Ichke-Suu_Gorge.jpg": {
   "width": 1600,
   "height": 1067,
@@ -334,6 +362,13 @@
   "bytes": 1486,
   "mime": "image/svg+xml",
   "thumb": "320px-Iradi_cross.png"
+ },
+ "Iradi_election_2023.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 161299,
+  "mime": "image/jpeg",
+  "thumb": "320px-Iradi_election_2023.jpg"
  },
  "Iradi_feast_table.jpg": {
   "width": 1152,
@@ -523,6 +558,13 @@
   "bytes": 599025,
   "mime": "image/jpeg",
   "thumb": "320px-Kymyz.jpg"
+ },
+ "Kymyz_herder.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 150886,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kymyz_herder.jpg"
  },
  "Kyzylkum_Fringe.jpg": {
   "width": 1600,
@@ -838,6 +880,13 @@
   "bytes": 186161,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_skyline_2022.jpg"
+ },
+ "Talas_student_protests_2023.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 174265,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talas_student_protests_2023.jpg"
  },
  "Talas_valley_and_Talas_Alatau.jpg": {
   "width": 1600,

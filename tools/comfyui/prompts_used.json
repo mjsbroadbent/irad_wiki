@@ -174,5 +174,66 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 320
+  },
+  "Chongtor_horse": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a Kyrgyz mountain working horse standing side-on on a high summer pasture, taken from slightly behind and to the left. A short, compact, muscular horse about 140 cm tall with a short back, deep broad chest, short strong legs and dark hard unshod hooves; a smooth short summer coat, dun with faint dark stripes on the legs and a dark dorsal stripe, thick dark mane. A plain wooden-framed saddle with a felt saddle cloth, rope bridle tied to a stake. A white felt yurt off to the right, grazing sheep, green rolling pasture and snowy peaks. Overcast summer day.",
+    "seed": 145652,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96
+  },
+  "Ak-kalpak": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot at a bazaar stall in Central Asia taken at an angle from the aisle: a pile of traditional Kyrgyz ak-kalpak hats for sale, tall white felt hats made of four panels with a pointed crown and a black velvet brim turned up and split open at the front, fine black embroidered lines along the seams; several stacked on a wooden table and a few hung on a pole at the left edge, an elderly seller's hand at the right edge of the frame, felt rugs and folded felt goods behind, a blue tarpaulin roof, flat daylight. No text, no price tags.",
+    "seed": 210939,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96
+  },
+  "Kymyz_herder": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken inside the door of a yurt on a summer pasture in Kyrgyzstan: a Kyrgyz herder woman with a broad flat East Asian face and wind-reddened cheeks, a white headscarf tied at the back of her neck and a quilted velvet waistcoat, ladles fermented mare's milk from a dark smoked leather bag into small wooden bowls on a low table; a wooden plunger leaning against the bag; an old Kyrgyz man with East Asian features and a thin wispy grey beard, wearing a tall white felt kalpak hat, holding out a bowl; felt rugs, light from the open door showing tethered foals and green pasture outside. Real home snapshot, mixed light.",
+    "seed": 719305,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "red cheek patches desaturated"
+  },
+  "Hunters_Vigil": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the footpath at the entrance of a city park in a Soviet-built Central Asian city: a 1971 Soviet bronze statue about four metres high of a kneeling eagle hunter in a fur hat and long coat holding a golden eagle on his raised gauntleted arm, dark weathered bronze, on a tall rough-cut grey granite plinth, seen from low down and well to the side; tall poplars and yellow autumn leaves, a woman walking past at the left edge, a Soviet apartment block behind the trees. Overcast October afternoon. No plaque text.",
+    "seed": 158854,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0,
+    "edits": "plaque blurred"
+  },
+  "Border_clashes_2018": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from behind a dusty parked Lada Niva on flat sandy semi-desert scrubland in Central Asia in June: a group of Kyrgyz clan militiamen with East Asian features in mismatched camouflage jackets and quilted vests, some on small stocky horses and some on foot, old Kalashnikov rifles slung, scattered irregularly around a concrete borehole well with a rusty pipe and a long metal cattle trough; a strand of new wire fence and a few bent marker posts lying in the sand; far away across the flat saxaul scrub a small white border watchtower. Harsh noon light, heat haze, dust. The car's dusty bonnet fills the lower left corner. No flags.",
+    "seed": 121259,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 150,
+    "edits": "distant flag blurred"
+  },
+  "Talas_student_protests_2023": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the side of a wide boulevard in a Central Asian city in October: a loose crowd of young students and food delivery couriers with big square insulated delivery backpacks marching, scattered, not in rows; young Uzbek and Tajik-looking men and women in hoodies and jackets, some with scarves over their mouths, a drifting haze of white tear gas further down the street and a police water cannon truck far in the distance; Soviet-era apartment blocks and plane trees with yellow leaves. Overcast afternoon. A lamppost cuts the left edge. No readable text; blank cardboard signs seen edge-on.",
+    "seed": 486657,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "signs and backpack lettering blurred"
+  },
+  "Iradi_election_2023": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot inside a polling station in a school sports hall in a Central Asian city in November: an elderly Uzbek-looking woman in a coat and headscarf dropping a folded paper ballot into a transparent plastic ballot box with a numbered seal, three voting booths with pale curtains along the wall to the right, election officials at a long table with voter lists, a young observer with a lanyard watching, a basketball hoop and wall bars, fluorescent light. Taken from beside the table at an oblique angle, the table edge with papers in the lower left foreground. No readable text, no portraits, no flags.",
+    "seed": 294485,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 160,
+    "edits": "ballot-box label and wall notices blurred"
   }
 }
