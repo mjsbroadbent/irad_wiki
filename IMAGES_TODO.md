@@ -57,6 +57,8 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 | Irad Palace of Art | `irad_palace_of_art_original.gif` (from the gallery's website) | `Irad_Palace_of_Art_logo.png` at the top of *Irad Palace of Art* | Trimmed to the artwork with a 12 px white margin and saved as PNG |
 | FreeIrad.org | `freeirad_logo_screencap.png` (screen capture of the site's header logo); `freeirad_logo_original.png` is the horse alone | `FreeIrad.org_logo.png` at the top of *FreeIrad.org* | Screen capture used as supplied |
 | IradOne | `iradone_original.svg` (Inkscape, live Montserrat text) | `IradOne_logo.svg` at the top of *IradOne* | `tools/logos/outline_iradone.py`: lettering converted to outlines from Montserrat Medium so it renders the same without the font installed. Colours: blue #00a3ff, black |
+| Tulpar | `tulpar_icon_original.svg` (the app icon, `favicon.svg` in the tulpar repo) | `Tulpar_logo.svg` at the top of *Tulpar (app)* | `tools/logos/tulpar_lockup.py`: the icon with "tulpar" beside it, as in the Tulpar site's header, lettering outlined from Unbounded Bold. Colours: tile gradient #00b4b7 to #00628a, wordmark #054a60 |
+| Jılmay | `noto_emoji_u1f60a.svg` (Noto Emoji's 😊, Apache 2.0) | `Jilmay_logo.svg` at the top of *Jılmay* | `tools/logos/jilmay_lockup.py`: the face with "jılmay" beside it, as in the Jılmay site's header, lettering outlined from Nunito Black. Wordmark #16b350 |
 
 ## Map canon (decisions made while drawing)
 

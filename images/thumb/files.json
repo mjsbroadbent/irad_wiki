@@ -72,7 +72,7 @@
  "Bazar-i_Kalan.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 214330,
+  "bytes": 205844,
   "mime": "image/jpeg",
   "thumb": "320px-Bazar-i_Kalan.jpg"
  },
@@ -107,14 +107,14 @@
  "Boz-Korgon_compound.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 169641,
+  "bytes": 167199,
   "mime": "image/jpeg",
   "thumb": "320px-Boz-Korgon_compound.jpg"
  },
  "Caravanserai_of_Rabat-i-Safed.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 234204,
+  "bytes": 204110,
   "mime": "image/jpeg",
   "thumb": "320px-Caravanserai_of_Rabat-i-Safed.jpg"
  },
@@ -191,7 +191,7 @@
  "Church_of_St_Janyl.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 207590,
+  "bytes": 173241,
   "mime": "image/jpeg",
   "thumb": "320px-Church_of_St_Janyl.jpg"
  },
@@ -317,7 +317,7 @@
  "Iradi_feast_table.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 236458,
+  "bytes": 202087,
   "mime": "image/jpeg",
   "thumb": "320px-Iradi_feast_table.jpg"
  },
@@ -338,7 +338,7 @@
  "Iyik_Janyl_valley.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 196776,
+  "bytes": 175555,
   "mime": "image/jpeg",
   "thumb": "320px-Iyik_Janyl_valley.jpg"
  },
@@ -355,6 +355,13 @@
   "bytes": 557317,
   "mime": "image/jpeg",
   "thumb": "320px-Jalal-Abad_hill_village.jpg"
+ },
+ "Jilmay_logo.svg": {
+  "width": 483,
+  "height": 136,
+  "bytes": 8084,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Jilmay_logo.png"
  },
  "Kamcha.jpg": {
   "width": 1600,
@@ -555,21 +562,21 @@
  "Nurzhan_Refinery_No_1.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 172976,
+  "bytes": 158042,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Refinery_No_1.jpg"
  },
  "Nurzhan_central_square.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 151936,
+  "bytes": 167042,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_central_square.jpg"
  },
  "Old_Talas_Citadel.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 192875,
+  "bytes": 194660,
   "mime": "image/jpeg",
   "thumb": "320px-Old_Talas_Citadel.jpg"
  },
@@ -751,7 +758,7 @@
  "Talas_Air_Base.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 187035,
+  "bytes": 157407,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Air_Base.jpg"
  },
@@ -772,14 +779,14 @@
  "Talas_Solar_Park.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 262919,
+  "bytes": 264802,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_Solar_Park.jpg"
  },
  "Talas_skyline_2022.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 184524,
+  "bytes": 186161,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_skyline_2022.jpg"
  },
@@ -909,6 +916,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Transport_in_Irad_map.png"
  },
+ "Tulpar_logo.svg": {
+  "width": 521,
+  "height": 152,
+  "bytes": 9814,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Tulpar_logo.png"
+ },
  "Turkestan_lynx.jpg": {
   "width": 1600,
   "height": 1063,
@@ -926,7 +940,7 @@
  "Ulak_tartysh_Hippodrome.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 225316,
+  "bytes": 203011,
   "mime": "image/jpeg",
   "thumb": "320px-Ulak_tartysh_Hippodrome.jpg"
  },
@@ -940,7 +954,7 @@
  "Urkun_1916.jpg": {
   "width": 1152,
   "height": 864,
-  "bytes": 175378,
+  "bytes": 190292,
   "mime": "image/jpeg",
   "thumb": "320px-Urkun_1916.jpg"
  },

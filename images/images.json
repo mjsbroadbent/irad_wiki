@@ -72,6 +72,24 @@
     "credit": "Logo supplied by the wiki owner; lettering outlined from Montserrat (SIL Open Font License)"
   },
   {
+    "file": "Tulpar_logo.svg",
+    "article": "Tulpar (app)",
+    "placement": "lead",
+    "width": 220,
+    "caption": "Tulpar logo",
+    "alt": "A white winged horse leaping left on a turquoise rounded square, beside the word tulpar in dark teal lowercase letters",
+    "credit": "Logo from the Tulpar website, supplied by the wiki owner; lettering outlined from Unbounded (SIL Open Font License)"
+  },
+  {
+    "file": "Jilmay_logo.svg",
+    "article": "Jılmay",
+    "placement": "lead",
+    "width": 220,
+    "caption": "Jılmay logo",
+    "alt": "A smiling yellow emoji face beside the word jılmay in bold rounded green lowercase letters",
+    "credit": "Logo from the Jılmay website, supplied by the wiki owner; face from Noto Emoji (Apache License 2.0), lettering outlined from Nunito (SIL Open Font License)"
+  },
+  {
     "file": "Irad_Palace_of_Art_logo.png",
     "article": "Irad Palace of Art",
     "placement": "lead",
