@@ -607,5 +607,23 @@
     "size": "1536x864",
     "crop_x": 256,
     "edits": "sign softened"
+  },
+  "Storming_of_Talas_2007": {
+    "prompt": "Amateur photography, on flickr in 2007. Hurried early-morning news snapshot taken from behind a parked car on a wide boulevard of a Soviet-built Central Asian city in June: dozens of Kyrgyz horsemen with weathered East Asian faces on small stocky shaggy mountain horses crowding down the road in a loose disorderly mass, men in worn camouflage jackets, quilted vests and knitted caps and old Soviet fur hats, some with Kalashnikovs slung on their backs, dust and horse dung on the asphalt, a burnt-out police Lada at the kerb, grey Stalinist government buildings behind trees in full leaf, a few townspeople watching from a doorway. Motion blur, tilted framing.",
+    "seed": 404117,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "signs blurred. First attempt (seed 391923) rejected: riders in chef-hat-like felt hats, parade-like"
+  },
+  "Kok-Bel_Pass": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot from a lay-by on a mountain pass road in Kyrgyzstan: a two-lane asphalt road with steel crash barriers zig-zagging down a bare green and brown mountainside, an old Kamaz lorry grinding up a hairpin, a broad valley with fields far below, clouds on the ridges. Taken from the roadside at an angle, a concrete marker post in the foreground. No readable signs.",
+    "seed": 194880,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "plate blurred"
   }
 }

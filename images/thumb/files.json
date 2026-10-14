@@ -636,6 +636,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kok-Art_Pass.jpg"
  },
+ "Kok-Bel_Pass.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 211318,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kok-Bel_Pass.jpg"
+ },
  "Kok-Suu_Peak.jpg": {
   "width": 1600,
   "height": 1067,
@@ -1055,6 +1062,13 @@
   "bytes": 354448,
   "mime": "image/jpeg",
   "thumb": "320px-Steppe_tortoise.jpg"
+ },
+ "Storming_of_Talas_2007.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 211209,
+  "mime": "image/jpeg",
+  "thumb": "320px-Storming_of_Talas_2007.jpg"
  },
  "Sumolok_cauldron.jpg": {
   "width": 1152,
