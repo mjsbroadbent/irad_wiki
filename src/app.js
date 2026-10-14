@@ -18,7 +18,7 @@
   const reduceMotion = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
   const plural = (n, one, many) => `${n.toLocaleString('en')} ${n === 1 ? one : (many || one + 's')}`;
 
-  let wiki = null, md = null, infobox = null, query = '', searchIndex = null, images = [];
+  let wiki = null, md = null, infobox = null, query = '', searchIndex = null, images = [], fileInfo = {}, media = null, mediaQuery = '';
   const ledeCache = new Map();
   const ledeOf = a => { if (!ledeCache.has(a)) ledeCache.set(a, lede(a.src)); return ledeCache.get(a); };
 
@@ -59,6 +59,8 @@
     const bar = $('#loadBar'), msg = $('#loadMsg');
     // The image list is optional: without it, articles simply show no images.
     const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
+    // Pixel and byte sizes for the media gallery, made by tools/maps/thumbs.py. Optional too.
+    const fileList = fetch(IMAGES + 'thumb/files.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     try {
       const texts = await Promise.all(VOLUMES.map(async v => {
         const r = await fetch(BASE + v.file);
@@ -77,6 +79,7 @@
         : `Couldn't read the article volumes (${esc(e.message)}). Make sure the three <code>Irad_Wiki_Vol…md</code> files sit in the same folder as this page.`);
     }
     images = await imageList;
+    fileInfo = await fileList;
     if (wiki.warnings.length) console.warn('Irad Wiki:\n' + wiki.warnings.join('\n'));
     const block = (wiki.pre[0] || '').match(/```\s*\n([\s\S]*?)```/);
     infobox = block ? parseInfobox(block[1]) : null;
@@ -131,6 +134,8 @@
     if (!key) title = renderHome();
     else if (key === 'Special.All') title = renderIndex();
     else if (key === 'Special.Search') title = renderSearch();
+    else if (key === 'Special.Media' || key.startsWith('Special.Media?')) title = renderMedia(new URLSearchParams(key.split('?')[1] || ''));
+    else if (key.startsWith('File:') && mediaFiles().byName.has(key.slice(5))) title = renderFile(mediaFiles().byName.get(key.slice(5)));
     else if (key.startsWith('Class.') && classOf(key.slice(6))) title = renderClass(key.slice(6));
     else if (key.startsWith('Category.') && wiki.catBySlug.has(key.slice(9))) title = renderCategory(wiki.catBySlug.get(key.slice(9)));
     else if (key.startsWith('Subject.') && wiki.subjBySlug.has(key.slice(8))) title = renderSubject(wiki.subjBySlug.get(key.slice(8)));
@@ -176,6 +181,7 @@
         <li><a href="#"${here('')}>Main page</a></li>
         <li><a href="#Special.All"${here('Special.All')}>All pages</a></li>
         <li><a href="#Special.Random">Random article</a></li>
+        <li><a href="#Special.Media"${key && (key === 'Special.Media' || key.startsWith('Special.Media?') || key.startsWith('File:')) ? ' class="here" aria-current="page"' : ''}>Media</a><span class="n">${mediaFiles().list.length}</span></li>
       </ul>
       <div class="nav-sub">Article quality</div>
       <ul class="nav-list">${CLASSES.map(c => `<li><a href="#Class.${c.id}"${here('Class.' + c.id)}>${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
@@ -310,7 +316,7 @@
     const isSvg = /\.svg$/i.test(e.file);
     const src = isSvg ? `${IMAGES}thumb/${e.width}px-${stem}.png` : IMAGES + e.file;
     const srcset = isSvg ? ` srcset="${IMAGES}thumb/${e.width * 2}px-${stem}.png 2x"` : '';
-    return `<a href="${IMAGES}${encodeURI(e.file)}" target="_blank" rel="noopener" title="Open the full-size image"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
+    return `<a href="${fileHref(e.file)}" title="${esc(fileTitle(e.file))}"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
   }
   // Caption plus, for photos from Wikimedia Commons, the attribution their licences require.
   function figCaption(e) {
@@ -427,6 +433,153 @@
     $('#searchFor').addEventListener('click', () => { query = t; });
     return t;
   }
+
+  /* ---------- media: a Commons-style gallery and a page for every file ----------
+     Every file in images/images.json gets a page at #File:Name.jpg with its preview,
+     description, source, licence and the articles that use it. #Special.Media is the
+     gallery, filtered by type and portal (#Special.Media?type=Maps&portal=History).
+     A file's type comes from its credit and extension; an entry can override it with "type". */
+  const MEDIA_TYPES = ['Photographs', 'Maps', 'Charts and diagrams', 'Logos', 'Screenshots'];
+  const fileTitle = f => 'File:' + f.replace(/_/g, ' ');
+  const fileHref = f => href('File:' + f);
+  const isSvgFile = f => /\.svg$/i.test(f);
+  const num = n => n.toLocaleString('en');
+  function fmtBytes(n) {
+    if (n < 1024) return `${num(n)} bytes`;
+    if (n < 1024 * 1024) return `${num(Math.round(n / 1024))} KB`;
+    return `${(n / 1024 / 1024).toFixed(2).replace(/\.?0+$/, '')} MB`;
+  }
+  function mediaType(e) {
+    if (MEDIA_TYPES.includes(e.type)) return e.type;
+    const c = `${e.credit || ''} ${e.notice || ''}`;
+    if (/screenshot/i.test(c)) return 'Screenshots';
+    if (/\blogo\b/i.test(c) || /_logo[_.]/i.test(e.file)) return 'Logos';
+    if (isSvgFile(e.file)) return /natural earth/i.test(c) || /map/i.test(e.file) ? 'Maps' : 'Charts and diagrams';
+    return 'Photographs';
+  }
+  function mediaFiles() {
+    if (media) return media;
+    const byName = new Map();
+    for (const e of images) {
+      if (!e.file) continue;
+      if (!byName.has(e.file)) byName.set(e.file, { file: e.file, entries: [] });
+      byName.get(e.file).entries.push(e);
+    }
+    const list = [...byName.values()].sort((a, b) => collator.compare(a.file, b.file));
+    list.forEach((m, i) => {
+      m.index = i;
+      m.type = mediaType(m.entries.find(x => x.type) || m.entries[0]);
+      m.info = fileInfo[m.file] || null;
+      m.commons = m.entries.find(x => x.source) || null;
+      m.uses = m.entries.filter(x => x.article).map(x => ({ e: x, a: resolve(wiki, x.article) }));
+      m.portals = [...new Set(m.uses.filter(u => u.a).map(u => subjectOf(u.a.category)))];
+      m.text = fold([m.file.replace(/_/g, ' '), ...m.entries.map(x => `${x.caption || ''} ${x.article || ''} ${x.alt || ''} ${x.author || ''}`)].join(' '));
+    });
+    return (media = { list, byName });
+  }
+  function galleryThumb(m) {
+    if (m.info && m.info.thumb) return `${IMAGES}thumb/${m.info.thumb}`;
+    const e = m.entries[0];
+    return isSvgFile(m.file) ? `${IMAGES}thumb/${e.width}px-${m.file.replace(/\.svg$/i, '')}.png` : IMAGES + encodeURI(m.file);
+  }
+  const sizeLine = m => m.info ? `${num(m.info.width)} × ${num(m.info.height)}; ${fmtBytes(m.info.bytes)}` : '';
+  function mediaHref(type, portal) {
+    const q = [];
+    if (type) q.push('type=' + encodeURIComponent(type));
+    if (portal) q.push('portal=' + encodeURIComponent(categorySlug(portal)));
+    return '#Special.Media' + (q.length ? '?' + q.join('&') : '');
+  }
+
+  function renderMedia(params) {
+    const { list } = mediaFiles();
+    const type = MEDIA_TYPES.includes(params.get('type')) ? params.get('type') : '';
+    const portal = wiki.subjBySlug.get(params.get('portal') || '') || '';
+    const ofType = t => m => !t || m.type === t;
+    const ofPortal = p => m => !p || m.portals.includes(p);
+    const scope = list.filter(ofType(type)).filter(ofPortal(portal));
+    const types = MEDIA_TYPES.map(t => [t, list.filter(ofType(t)).filter(ofPortal(portal)).length]).filter(([, n]) => n);
+    const portals = wiki.subjectOrder.map(p => [p, list.filter(ofType(type)).filter(ofPortal(p)).length]).filter(([, n]) => n);
+    const name = type && portal ? `${type} – ${portal}` : type || (portal ? `${portal} (media)` : '');
+    const title = name ? `Category:${name}` : 'Media';
+    const chip = (label, n, to, on) => `<a class="chip${on ? ' on' : ''}" href="${to}"${on ? ' aria-current="page"' : ''}>${esc(label)} <small>${num(n)}</small></a>`;
+    const photos = list.filter(m => m.type === 'Photographs').length, maps = list.filter(m => m.type === 'Maps').length;
+    main.innerHTML = `
+      <div class="title-row"><h1 class="firstHeading">${esc(title)}</h1></div>
+      <div class="tabs"><nav><a class="sel" href="${mediaHref(type, portal)}">${name ? 'Category' : 'Special page'}</a></nav><nav><a class="sel" href="${mediaHref(type, portal)}">Browse</a></nav></div>
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      ${name ? `<p class="cat-intro">Files on Irad Wiki${type ? ` of the type <b>${esc(type.toLowerCase())}</b>` : ''}${portal ? ` used in articles of the <a href="#Subject.${categorySlug(portal)}">${esc(portal)}</a> portal` : ''}. <a href="#Special.Media">All media</a>.</p>`
+        : `<div class="commons-banner"><img src="${FLAG}" alt=""><div><div class="cb-name">Irad Wiki Commons</div><p>The media repository of Irad Wiki: ${num(list.length)} files, including ${num(photos)} photographs and ${num(maps)} maps, every one used in at least one article. Click a file to see its description, source, licence and the pages that use it.</p></div></div>`}
+      <div class="media-browse">
+        <div><span class="mb-h">Type</span>${chip('All', list.filter(ofPortal(portal)).length, mediaHref('', portal), !type)}${types.map(([t, n]) => chip(t, n, mediaHref(t, portal), t === type)).join('')}</div>
+        <div><span class="mb-h">Portal</span>${chip('All', list.filter(ofType(type)).length, mediaHref(type, ''), !portal)}${portals.map(([p, n]) => chip(p, n, mediaHref(type, p), p === portal)).join('')}</div>
+      </div>
+      <h2 class="cat-h2">Media in ${name ? `category "${esc(name)}"` : 'Irad Wiki'}</h2>
+      <div class="media-filter"><input id="mq" type="search" placeholder="Filter by file name, caption or article" aria-label="Filter these files" value="${esc(mediaQuery)}"><span id="mcount" class="r-data" aria-live="polite"></span></div>
+      <ul class="gallery" id="gallery"></ul>`;
+    const paint = () => {
+      const f = fold(mediaQuery.trim());
+      const shown = f ? scope.filter(m => m.text.includes(f)) : scope;
+      $('#mcount').textContent = f
+        ? `${plural(shown.length, 'file matches', 'files match')} "${mediaQuery.trim()}", out of ${num(scope.length)}.`
+        : `The following ${plural(scope.length, 'file is', 'files are')} in this ${name ? 'category' : 'collection'}, out of ${num(scope.length)} total.`;
+      $('#gallery').innerHTML = shown.map(m => `
+        <li class="gbox"><a class="gthumb" href="${fileHref(m.file)}" title="${esc(fileTitle(m.file))}"><img src="${galleryThumb(m)}" alt="${esc(m.entries[0].alt || m.entries[0].caption || '')}" loading="lazy" decoding="async"></a>
+        <div class="gtext"><a href="${fileHref(m.file)}">${esc(m.file.replace(/_/g, ' '))}</a><span>${sizeLine(m)}</span></div></li>`).join('')
+        || `<li class="gnone">No files match. <a href="#" id="mclear">Clear the filter</a>.</li>`;
+      $('#mclear')?.addEventListener('click', e => { e.preventDefault(); mediaQuery = ''; $('#mq').value = ''; paint(); });
+    };
+    $('#mq').addEventListener('input', e => { mediaQuery = e.target.value; paint(); });
+    paint();
+    return title;
+  }
+
+  function renderFile(m) {
+    const { list } = mediaFiles();
+    const prev = list[m.index - 1], next = list[m.index + 1];
+    const first = m.entries[0], c = m.commons, i = m.info;
+    const url = IMAGES + encodeURI(m.file);
+    const uniq = k => [...new Set(m.entries.map(e => e[k]).filter(Boolean))];
+    const captions = uniq('caption'), alts = uniq('alt'), notices = uniq('notice');
+    const row = (k, v) => v ? `<tr><th scope="row">${k}</th><td>${v}</td></tr>` : '';
+    const lic = c && c.license ? (c.license_url ? `<a href="${esc(c.license_url)}" target="_blank" rel="noopener">${esc(c.license)}</a>` : esc(c.license)) : '';
+    const where = e => e.placement === 'infobox' ? 'infobox' : e.placement === 'lead' ? 'top of the article' : e.section ? `section "${esc(e.section)}"` : '';
+    main.innerHTML = `
+      <div class="title-row"><h1 class="firstHeading">${esc(fileTitle(m.file))}</h1></div>
+      <div class="tabs"><nav><a class="sel" href="${fileHref(m.file)}">File</a></nav><nav><a class="sel" aria-current="page" href="${fileHref(m.file)}">Read</a><a href="${url}" target="_blank" rel="noopener">Open original</a></nav></div>
+      <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
+      <nav class="file-nav" aria-label="Browse files">
+        ${prev ? `<a href="${fileHref(prev.file)}" rel="prev" title="${esc(fileTitle(prev.file))}">← Previous file</a>` : '<span></span>'}
+        <a href="${mediaHref(m.type, '')}">${esc(m.type)} (${num(list.filter(x => x.type === m.type).length)})</a>
+        ${next ? `<a href="${fileHref(next.file)}" rel="next" title="${esc(fileTitle(next.file))}">Next file →</a>` : '<span></span>'}
+      </nav>
+      <div class="file-preview${isSvgFile(m.file) || /\.png$/i.test(m.file) ? ' drawn' : ''}"><a href="${url}" target="_blank" rel="noopener" title="Open the full-size file"><img src="${url}" alt="${esc(first.alt || first.caption || '')}"${i ? ` width="${i.width}" height="${i.height}"` : ''}></a></div>
+      <p class="file-info"><a href="${url}" target="_blank" rel="noopener">Original file</a>${i ? ` (${num(i.width)} × ${num(i.height)} pixels, file size: ${fmtBytes(i.bytes)}, MIME type: <span>${esc(i.mime)}</span>)` : ''}</p>
+      <h2 class="cat-h2">Summary</h2>
+      <div class="tbl"><table class="file-summary"><tbody>
+        ${row('Description', captions.map(t => `<p>${esc(t)}</p>`).join(''))}
+        ${row('Alt text', alts.map(t => `<p>${esc(t)}</p>`).join(''))}
+        ${row('Source', c ? `<a href="${esc(c.source)}" target="_blank" rel="noopener">${esc(c.commons_file || 'Wikimedia Commons')}</a> on Wikimedia Commons` : esc(first.credit || ''))}
+        ${row('Author', c && c.author ? esc(c.author) : '')}
+        ${row('Type', `<a href="${mediaHref(m.type, '')}">${esc(m.type)}</a>`)}
+      </tbody></table></div>
+      ${lic || notices.length ? `<h2 class="cat-h2">Licensing</h2>
+      <div class="lic-box">${lic ? `<p>This file is licensed under the ${lic} licence. Attribution: ${esc(c.credit || c.author || '')}.</p>` : ''}${notices.map(n => `<p>${esc(n)}</p>`).join('')}</div>` : ''}
+      <h2 class="cat-h2">File usage</h2>
+      ${m.uses.length ? `<p>${m.uses.length === 1 ? 'The following page uses' : `The following ${num(m.uses.length)} pages use`} this file:</p>
+      <ul class="file-uses">${m.uses.map(u => `<li>${u.a ? `<a href="${href(u.a.slug)}">${esc(u.a.title)}</a>` : `<a class="red" href="${href(slugOf(u.e.article))}">${esc(u.e.article)}</a>`}${where(u.e) ? ` <small>(${where(u.e)})</small>` : ''}</li>`).join('')}</ul>`
+        : '<p>No pages on Irad Wiki use this file.</p>'}
+      <div class="catlinks"><a href="#Special.Media">Media</a>: <ul>
+        <li><a href="${mediaHref(m.type, '')}">${esc(m.type)}</a></li>
+        ${m.portals.map(p => `<li><a href="${mediaHref('', p)}">${esc(p)}</a></li>`).join('')}
+      </ul></div>`;
+    return fileTitle(m.file);
+  }
+  // Left and right arrow keys step through the files, as in a media viewer.
+  document.addEventListener('keydown', e => {
+    if (!current || !current.startsWith('File:') || e.altKey || e.ctrlKey || e.metaKey || e.target.closest('input, textarea')) return;
+    const a = e.key === 'ArrowLeft' ? $('.file-nav a[rel="prev"]') : e.key === 'ArrowRight' ? $('.file-nav a[rel="next"]') : null;
+    if (a) { byClick = true; location.hash = a.getAttribute('href'); }
+  });
 
   /* ---------- category-style lists ---------- */
   function letterOf(title) {
@@ -655,6 +808,7 @@
           <li><b><a href="#Special.All">All pages</a></b> – every article in the encyclopedia, A to Z.</li>
           <li><b><a href="#Special.Random">Random article</a></b> – open an article picked at random.</li>
           <li><b><a href="#Class.Stub">Stubs</a></b> – short articles waiting to be expanded.</li>
+          <li><b><a href="#Special.Media">Media</a></b> – every photograph, map, chart and logo used on the wiki, ${mediaFiles().list.length} files.</li>
           <li><b><a href="#Irad">Irad</a></b> – the country article, with the national infobox.</li>
         </ul>
       </div>`;
@@ -673,7 +827,7 @@
     foot.innerHTML = `
       ${a ? `<p>This article is from ${esc(vol.label)} of the Irad Wiki (<code>${esc(vol.file)}</code>${a.number ? `, §${esc(a.number)}` : ''}, line ${a.line}).</p>` : ''}
       <p>Irad Wiki is compiled from the ${VOLUMES.length} Irad Wiki volumes: ${wiki.articles.length.toLocaleString('en')} articles in ${wiki.categories.size} categories.</p>
-      <ul><li><a href="#">Main page</a></li><li><a href="#Special.All">All pages</a></li><li><a href="#Special.Random">Random article</a></li><li><a href="#Class.FA">Featured articles</a></li></ul>`;
+      <ul><li><a href="#">Main page</a></li><li><a href="#Special.All">All pages</a></li><li><a href="#Special.Random">Random article</a></li><li><a href="#Class.FA">Featured articles</a></li><li><a href="#Special.Media">Media</a></li></ul>`;
   }
 
   load();

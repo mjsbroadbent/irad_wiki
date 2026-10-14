@@ -9,7 +9,7 @@ A static, client-side wiki. `index.html` downloads the three volume files when i
 | `index.html` | The whole site: layout, styles and script |
 | `Irad_Wiki_Vol1_Core.md`, `Irad_Wiki_Vol2_C_Class.md`, `Irad_Wiki_Vol3_Start_Stub.md` | The article volumes, read as-is |
 | `webflag.svg` | Flag in the header and the Irad infobox |
-| `images/` | Images shown on the site, their PNG thumbnails (`images/thumb/`) and the list that places them (`images/images.json`) |
+| `images/` | Images shown on the site, their thumbnails and file details (`images/thumb/`, made by `tools/maps/thumbs.py`) and the list that places them (`images/images.json`) |
 | `tools/maps/` | Scripts and data that draw the maps and charts. Run `tools/maps/build.sh` to rebuild them |
 | `IMAGES_TODO.md` | Status of the image work, decisions made and what to do next |
 | `src/`, `build.sh` | The page split into parts (`page.html`, `core.js` parser, `app.js` interface). Run `./build.sh` after editing them, or after updating the volumes, to regenerate `index.html` |
@@ -74,3 +74,5 @@ Each page has its own address, so links and the back button work:
 - `#Subject.History` is a portal grouping related categories
 - `#Class.GA` lists a quality class (FA, GA, B, C, Start, Stub)
 - `#Special.All` is the A–Z index and `#Special.Random` picks a random article
+- `#Special.Media` is the media gallery (Irad Wiki Commons); `#Special.Media?type=Maps&portal=History` filters it by type and portal
+- `#File:Talas_River.jpg` is a file's page: preview, description, source, licence and the articles that use it. Article images link here, and the arrow keys step through the files

@@ -19,6 +19,9 @@ Planning documents (Claude Docs, owner's account):
 - The site puts the image right after the heading (after a "Main article" note if there is one) as a right-floated thumbnail that links to the full file.
 - SVGs are shown as PNG thumbnails at 1x and 2x, in `images/thumb/<w>px-<name>.png` (Wikipedia's naming). `tools/maps/thumbs.py` makes them from the manifest and deletes stale ones. JPGs are shown as they are.
 - Images are never written into the three volume files, because those are replaced wholesale from the irad-persona skill.
+- **Media gallery and file pages** (added 2026-10-14). `#Special.Media` shows every file in the manifest as a Commons-style gallery, filterable by type, portal and text; `#File:<name>` is each file's description page (preview, size, caption, alt text, source, author, licence, the articles that use it). Article thumbnails link to the file page rather than the raw file.
+  - Type is worked out from the entry: a credit or notice mentioning a screenshot → Screenshots; a logo → Logos; an SVG with Natural Earth in the credit or "map" in the name → Maps; other SVGs → Charts and diagrams; everything else → Photographs. Add `"type": "Maps"` (or `Photographs`, `Charts and diagrams`, `Logos`, `Screenshots`) to an entry to override it.
+  - Gallery thumbnails (`images/thumb/320px-<name>.jpg|png`, at most 320×240) and `images/thumb/files.json` (pixel size, byte size, MIME type) come from `tools/maps/thumbs.py`. **Run `python3 tools/maps/thumbs.py` after adding or replacing any image**, photos included, or the new file shows without its size and loads the full file as its gallery thumbnail.
 
 ## Rebuilding the drawn images
 
