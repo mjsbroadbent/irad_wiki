@@ -783,6 +783,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Saker_falcon.jpg"
  },
+ "Sary-Bulak_mine.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 183455,
+  "mime": "image/jpeg",
+  "thumb": "320px-Sary-Bulak_mine.jpg"
+ },
  "Sary-Chelek_lake.jpg": {
   "width": 1600,
   "height": 1065,
@@ -859,6 +866,13 @@
   "bytes": 610466,
   "mime": "image/jpeg",
   "thumb": "320px-Snow_leopard.jpg"
+ },
+ "State_Stud_Farm.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 236793,
+  "mime": "image/jpeg",
+  "thumb": "320px-State_Stud_Farm.jpg"
  },
  "Steppe_Family_Robinson_Ride_for_Talas.jpg": {
   "width": 613,

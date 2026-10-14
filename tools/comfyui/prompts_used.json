@@ -337,5 +337,22 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 0
+  },
+  "State_Stud_Farm": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot over a wooden paddock fence at an old Soviet stud farm in a Central Asian valley: slender long-legged mares with a metallic golden sheen, bay and palomino and cream, with young foals grazing, low whitewashed brick stables with tin roofs behind, a row of tall poplars, mountains in the distance. Morning light, the fence rail running across the lower left corner.",
+    "seed": 438572,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 300
+  },
+  "Sary-Bulak_mine": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot from a road in a narrow foothill gorge in Central Asia: an old Soviet steel mine shaft headframe with a big wheel on top, a rusty corrugated mill building beside it, conveyor gantries, and a settlement of five-storey 1960s concrete apartment blocks further down the valley, a yellow company bus on the road, dry hills. Overcast, taken at an angle with a road barrier in the foreground.",
+    "seed": 899344,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "bus destination sign blurred"
   }
 }
