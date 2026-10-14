@@ -47,7 +47,7 @@ if (want('qarachik')) {
     [SW.box(ATR_FILL), 'Autonomous Tribal Regions (ATR)'],
     [SW.line(LINE, 1.8, '6 3'), 'Qara-Chik Demarcation Line'],
     [`<rect x="0" y="0" width="20" height="12" fill="${LINE}" fill-opacity="0.16"/>`, 'Restricted-weapons zone (12 km each side)'],
-    [`<g transform="translate(10 6)">${sym.checkpoint(0, 0)}</g>`, 'Main crossing (one of six crossing points)'],
+    [`<g transform="translate(10 6)">${sym.checkpoint(0, 0)}</g>`, 'Main crossing (one of eight crossing points)'],
     [`<g transform="translate(10 6)">${sym.un(0, 0)}</g>`, 'UNMI headquarters'],
     [`<g transform="translate(10 7)">${sym.pass(0, 0)}</g>`, 'Mountain pass'],
     [`<g transform="translate(10 6)">${sym.dam(0, 0)}</g>`, 'Dam'],
