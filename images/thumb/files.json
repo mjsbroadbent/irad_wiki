@@ -867,6 +867,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Siege_of_Talas_1992.jpg"
  },
+ "Smuggling_pack_train.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 167813,
+  "mime": "image/jpeg",
+  "thumb": "320px-Smuggling_pack_train.jpg"
+ },
  "Snow_leopard.jpg": {
   "width": 1600,
   "height": 1600,
@@ -1167,6 +1174,13 @@
   "bytes": 328568,
   "mime": "image/jpeg",
   "thumb": "320px-Uzun-Akmat_River.jpg"
+ },
+ "Virgin_Lands_1955.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 166312,
+  "mime": "image/jpeg",
+  "thumb": "320px-Virgin_Lands_1955.jpg"
  },
  "White_steppe_wormwood.jpg": {
   "width": 1600,

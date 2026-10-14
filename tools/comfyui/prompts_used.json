@@ -362,5 +362,22 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 300
+  },
+  "Virgin_Lands_1955": {
+    "prompt": "Grainy black and white archival photograph from 1955: a column of Soviet crawler tractors pulling ploughs across flat endless steppe in Central Asia, black furrows of newly turned earth, a row of canvas tents of a settlers' camp in the distance, young volunteers in caps and headscarves standing beside a tractor. Taken from the furrow, low angle. Scratches, faded print.",
+    "seed": 640330,
+    "batch_image": 2,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "converted to greyscale"
+  },
+  "Smuggling_pack_train": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot at dusk from high on a mountain trail in the Tian Shan: a line of small stocky pack horses carrying plastic jerrycans and bundles tied on with rope, winding up a rocky herders' path toward a pass, two distant riders in dark coats, snow patches, steep scree. Taken from above and behind, figures small, cold blue evening light.",
+    "seed": 384745,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 160
   }
 }
