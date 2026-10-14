@@ -4,7 +4,7 @@ Approved faces for recurring people. Every generated photo of these people start
 
 | File | Person | Approved | Notes |
 |---|---|---|---|
-| `Ref_Erlan_Toktarov.png` | Erlan Toktarov, aged 64 (2018) | 2026-10-14 | Iranic (Uzbek/Tajik-like) features. The scar through the left eyebrow is not drawn yet (generators paint it as a smear); add it per image. Moustache in 1992, clean-shaven from 2007 |
+| `Ref_Erlan_Toktarov.png` | Erlan Toktarov, aged 64 (2018) | 2026-10-14 | Iranic (Uzbek/Tajik-like) features. (The eyebrow scar was dropped from the canon on 2026-10-14.) Moustache in 1992, clean-shaven from 2007 |
 | `Ref_Mar_Ephrem.png` | Mar Ephrem, aged 69 (2024) | 2026-10-14 | Iranic features; plain flared cross with no figure |
 
 Made with FLUX.1 Krea Dev on the owner's PC; the copies also live in ComfyUI's `input/` folder under the same names.
