@@ -321,5 +321,21 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 64
+  },
+  "Arslanbob_walnuts": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot in a huge old walnut forest in Kyrgyzstan in autumn: Kyrgyz and Uzbek village families gathering fallen walnuts under enormous trees with thick grey trunks, sacks of nuts, a woman in a headscarf kneeling, a child with a bucket, a donkey, dappled light and yellow leaves, a tarpaulin shelter. Taken from among the trees, people scattered and busy.",
+    "seed": 274216,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64
+  },
+  "IradOne_mast": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a road on a hill above a Central Asian city: a tall red and white guyed lattice television mast about 220 metres high with its guy wires, a small concrete transmitter building at its base, seen off to one side; the city spread below with poplar rows and Soviet apartment blocks, snowy mountains behind. Hazy afternoon. No logos.",
+    "seed": 660363,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   }
 }
