@@ -3,7 +3,7 @@
 // Irad's border, the ISEZ and ATR, the five ISEZ districts, the Qara-Chik line, the restricted-weapons zone,
 // the routes (roads, railways, pipelines, power lines) and the positions of places all come from the Kartalar
 // map data (the authoritative map of Irad), copied into data/kartalar/ so this build is self-contained.
-// Only the six UN planning zones of the ATR are drawn here: rough masks clipped to the ATR so they tile it.
+// The seven UN planning zones of the ATR come from Kartalar too (planning_zones.geojson).
 // Neighbouring countries, lakes and the big rivers are Natural Earth (data/*.geojson).
 
 import fs from 'fs';
@@ -122,62 +122,12 @@ export function geography() {
     D[`${name} District`] = norm(f.geometry);
   }
 
-  // ---------- ATR planning zones (UN usage; Kartalar does not draw them) ----------
-  // Rough masks, applied in order to whatever ATR land is still unassigned, so the zones tile the ATR with no
-  // gaps or overlaps. Talas Alatau takes the high ranges south of the Talas valley and, since the 2009 protocol,
-  // the high Kyrgyz Range east of the Kök-Bel road; Toktogul–Naryn is the mountain rim of the Toktogul basin
-  // and the mountains either side of the Naryn gorge (the basin floor, the State Route 1 corridor, the gorge corridor and
-  // the Fergana farm belt are ISEZ, Lower Naryn District); Fergana Rim is the hill country above that farm belt.
-  const ZM = {
-    // Northern Steppe: the Betpak-Dala north of the Chu and the Moiynkum sands between the Chu and the Talas,
-    // with the piedmont plain north of the Kyrgyz Range.
-    'Northern Steppe': ring([[66, 47], [77, 47], [77, 43.0], [74.0, 43.0], [73.0, 43.0], [72.0, 43.0], [71.2, 43.05], [70.9, 43.3],
-      [70.6, 43.85], [70.3, 44.15], [70.8, 44.55], [70.9, 44.95], [69.6, 45.1], [69.4, 45.5], [66, 45.5]]),
-    // Karatau: the Karatau range and its foothills toward the Kyzylkum Fringe, west of the lower Talas, and the low hills
-    // north of the Kara-Buura corridor.
-    'Karatau': ring([[66, 45.5], [69.4, 45.5], [69.6, 45.1], [70.9, 44.95], [70.8, 44.55], [70.3, 44.15], [70.6, 43.85],
-      [71.3, 43.3], [71.7, 42.9], [71.4, 42.62], [70.6, 42.55], [70.3, 42.5], [69.9, 42.15], [66, 42.15]]),
-    // Talas Alatau: the ranges south of the Talas valley and, since 2009, the high Kyrgyz Range north of it.
-    'Talas Alatau': ring([[66, 42.15], [69.9, 42.15], [70.45, 42.45], [70.75, 42.8], [70.9, 43.3], [71.2, 43.05], [72.0, 43.0],
-      [73.0, 43.0], [74.0, 43.0], [77, 43.0], [77, 42.08], [73.3, 42.08], [72.6, 42.08], [72.15, 42.1], [71.7, 42.1], [71.0, 42.0],
-      [70.3, 42.05], [66, 41.9]]),
-    'Chatkal Highlands': ring([[66, 41.9], [70.3, 42.05], [71.0, 42.0], [71.7, 42.1], [72.15, 42.1], [72.3, 42.08], [72.3, 41.75],
-      [72.1, 41.65], [71.6, 41.3], [71.2, 41.15], [66, 41.2]]),
-    // Toktogul–Naryn: the highlands round the Toktogul basin and the roadless mountains either side of the Naryn gorge
-    // down to the hills above Iyık Janyl and Tash-Kömür (the gorge floor itself is the Lower Naryn corridor).
-    'Toktogul–Naryn': ring([[72.3, 42.08], [72.6, 42.08], [73.3, 42.08], [77, 42.08], [77, 41.3], [73.5, 41.3], [73.2, 41.45],
-      [72.8, 41.45], [72.55, 41.42], [72.4, 41.4], [72.3, 41.43], [72.2, 41.47], [72.05, 41.47], [71.88, 41.5], [72.1, 41.65],
-      [72.3, 41.75]]),
-    // Fergana Rim: the hill country above the northern Fergana farm belt (Mailuu-Suu, the Kara-Unkur valley, Arslanbob and
-    // its walnut forest, Oruktu, Jangak-Bulak) and its western part beyond the Naryn (Boz-Adyr, Kara-Jygach). The lowland
-    // belt from Tash-Kömür past Bazar-Korgon to the Uzbek frontier is ISEZ (Lower Naryn District).
-    'Fergana Rim': ring([[66, 41.2], [71.2, 41.15], [71.6, 41.3], [71.88, 41.5], [72.05, 41.47], [72.2, 41.47], [72.3, 41.43],
-      [72.4, 41.4], [72.55, 41.42], [72.8, 41.45], [73.2, 41.45], [73.5, 41.3], [77, 41.3], [77, 39], [66, 39]]),
-  };
+  // ---------- ATR planning zones (UN usage), from Kartalar's planning_zones.geojson ----------
+  // Kartalar builds them from the three separate blocks of tribal land the ISEZ leaves (north of the plains belt; the
+  // mountains west of the State Route 1 corridor and the Naryn gorge; the mountains east of them), split along the main
+  // crests, so no zone reaches across ISEZ land.
   const Z = {};
-  let left = atr;
-  for (const [name, mask] of Object.entries(ZM)) {
-    Z[name] = clean(pc.intersection(left, mask), 1e-7);
-    left = pc.difference(left, mask);
-  }
-
-  // Fold crumbs (< 100 km²) left where zone lines meet, and any tribal land no mask caught, into the zone
-  // with the nearest vertex, so a boundary edit can never leave an unassigned hole.
-  const crumbs = clean(left, 1e-7);
-  for (const name of Object.keys(Z)) {
-    const keep = [];
-    for (const p of Z[name]) (areaKm2([p]) < 100 ? crumbs : keep).push(p);
-    Z[name] = keep;
-  }
-  for (const c of crumbs) {
-    const [cx, cy] = c[0].reduce((a, q) => [a[0] + q[0] / c[0].length, a[1] + q[1] / c[0].length], [0, 0]);
-    let best = null, bd = Infinity;
-    for (const [name, mp] of Object.entries(Z)) for (const p of mp) for (const q of p[0]) {
-      const d = (q[0] - cx) ** 2 + (q[1] - cy) ** 2;
-      if (d < bd) { bd = d; best = name; }
-    }
-    Z[best] = clean(pc.union(Z[best], [c]), 1e-7);
-  }
+  for (const f of loadK('planning_zones.geojson').features) Z[f.properties.zone] = clean(pc.intersection(norm(f.geometry), atr), 1e-7);
 
   // The Qara-Chik line (LineStrings tagged by sector) and the 12 km restricted-weapons zone.
   const qf = loadK('qarachik.geojson').features;

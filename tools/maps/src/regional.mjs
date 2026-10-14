@@ -63,7 +63,7 @@ ${scaleBar(W - 290, H - 26)}`, {
   const ISEZ_COL = { 'Talas District': '#f4a582', 'Kara-Buura District': '#fdbf6f', 'Chu District': '#fbe39a',
     'Sary-Bulak District': '#f1937a', 'Lower Naryn District': '#e98b9e' };
   const ATR_COL = { 'Northern Steppe': '#cfe3c2', 'Karatau': '#b9d7b0', 'Talas Alatau': '#a6cdb8', 'Chatkal Highlands': '#9fc6c9',
-    'Toktogul–Naryn': '#b5c9e2', 'Fergana Rim': '#c9c2e0' };
+    'Kyrgyz Range–Suusamyr': '#c4d7a6', 'Toktogul–Naryn': '#b5c9e2', 'Fergana Rim': '#c9c2e0' };
   const fills = [...Object.entries(g.zones).map(([n, mp]) => [n, mp, ATR_COL[n]]), ...Object.entries(g.districts).map(([n, mp]) => [n, mp, ISEZ_COL[n]])];
   const shapes = fills.map(([n, mp, c]) => `<path d="${P(toD3(mp))}" fill="${c}"><title>${esc(n)}</title></path>`).join('\n');
   const outlines = `<g fill="none" stroke="#ffffff" stroke-width="1.1" stroke-linejoin="round">${fills.map(([, mp]) => `<path d="${P(toD3(mp))}"/>`).join('')}</g>`;
@@ -71,9 +71,9 @@ ${scaleBar(W - 290, H - 26)}`, {
   // Label positions (lon, lat); a leader line is drawn to the area when the label sits outside it.
   const AT = { 'Chu District': [74.2, 43.42], 'Talas District': [72.47, 42.9], 'Kara-Buura District': [71.15, 42.66],
     'Sary-Bulak District': [72.2, 42.14], 'Lower Naryn District': [73.55, 42.0], 'Northern Steppe': [72.5, 44.6],
-    'Karatau': [69.6, 44.0], 'Talas Alatau': [71.15, 42.3], 'Chatkal Highlands': [71.15, 41.72], 'Toktogul–Naryn': [73.65, 41.52],
-    'Fergana Rim': [73.5, 41.17] };
-  const LEADER = { 'Sary-Bulak District': [72.1, 42.34], 'Lower Naryn District': [73.0, 41.95] };
+    'Karatau': [69.3, 43.55], 'Talas Alatau': [70.85, 42.3], 'Chatkal Highlands': [71.3, 41.72], 'Kyrgyz Range–Suusamyr': [73.95, 42.45],
+    'Toktogul–Naryn': [74.05, 41.72], 'Fergana Rim': [73.6, 41.2] };
+  const LEADER = { 'Sary-Bulak District': [72.1, 42.34], 'Lower Naryn District': [73.0, 41.95], 'Kyrgyz Range–Suusamyr': [73.4, 42.35], 'Toktogul–Naryn': [73.3, 41.85] };
   const lab = fills.map(([n, mp]) => {
     const [x0, y0] = AT[n] ? xy(...AT[n]) : centroid(mp);
     const isez = n.endsWith('District');
