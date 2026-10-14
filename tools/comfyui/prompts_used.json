@@ -379,5 +379,22 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 160
+  },
+  "Irad_not_for_sale_2025": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the steps of a building above a large peaceful demonstration in the main square of a Central Asian city on a cold grey February day in 2025: thousands of people in modern winter jackets, young townspeople with Uzbek and Tajik features filming on smartphones, older men from the mountains in tall white felt hats, a few horsemen at the far edge of the crowd, people holding up plain white cardboard placards seen from behind; a pale Soviet-era administrative building across the square, bare trees, dirty snow piled at the kerbs. The crowd is dense and irregular. No flags, no banners, no readable text.",
+    "seed": 731102,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 256,
+    "edits": "roof flag recoloured crimson; banner blurred"
+  },
+  "Tunduk_hall": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a 1970s Soviet modernist concert hall in a Central Asian city: a round concrete building with a ribbed shell roof rising to a central circular skylight like the crown of a yurt, a tall glass foyer with a mosaic of horse riders visible inside, wide steps, poplars and a fountain. Taken from across the square at an angle. Late afternoon. No readable lettering.",
+    "seed": 779485,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384
   }
 }

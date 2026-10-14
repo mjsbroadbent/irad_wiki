@@ -370,6 +370,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_ethnic_groups_2018.png"
  },
+ "Irad_not_for_sale_2025.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 213811,
+  "mime": "image/jpeg",
+  "thumb": "320px-Irad_not_for_sale_2025.jpg"
+ },
  "Irad_religion_2018.svg": {
   "width": 420,
   "height": 146,
@@ -1132,6 +1139,13 @@
   "bytes": 9814,
   "mime": "image/svg+xml",
   "thumb": "320px-Tulpar_logo.png"
+ },
+ "Tunduk_hall.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 184228,
+  "mime": "image/jpeg",
+  "thumb": "320px-Tunduk_hall.jpg"
  },
  "Turkestan_lynx.jpg": {
   "width": 1600,
