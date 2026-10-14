@@ -16,3 +16,17 @@ A head-turn sheet shows the approved master portrait from seven angles: both pro
 | Sheet | Status |
 |---|---|
 | `Ref_Erlan_Toktarov_turnaround.jpg` | Made 2026-10-14, awaiting owner approval. The three-quarter view facing left is the weakest likeness (face slightly thinner) |
+
+## Front portraits approved 2026-10-14 (round 1)
+
+Made with FLUX.1 Krea Dev (no LoRA), 896×1152, from text descriptions; prompts in `/home/claude/wikigen/chars` style: "Studio portrait photograph, head and shoulders, looking at the camera, plain mid-grey background..." plus the brief's description. Making the sons from Erlan's photo with Klein ("the son of the man in the reference photo") failed: it drew Erlan himself or a cartoonish face, so the family resemblance is written into the text instead.
+
+| File | Person |
+|---|---|
+| `Ref_Ruslan_Toktarov.png` | Ruslan, about 40, Gendarmerie general's tunic |
+| `Ref_Timur_Toktarov.png` | Timur, about 36 |
+| `Ref_Adil_Toktarov.png` | Adil, about 34 (looks a little younger) |
+| `Ref_Aidar_Maksat.png` | Aidar Maksat, about 39 |
+| `Ref_Kamran_Bekzatov.png` | Kamran Bekzatov, about 67, Turkic–Russian mix |
+
+Still being redone: Anara (keeps coming out too old), Alikhan and Jason (too handsome; should be well styled but plain-featured, Jason with a wider face), Bektur (too old, goatee, hat wrong).
