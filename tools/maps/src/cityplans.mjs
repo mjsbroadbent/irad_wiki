@@ -92,8 +92,10 @@ if (want('talas')) {
   const NORTH = [[-0.6, 0.9], [-0.7, 1.7], [-0.6, 3.0], [0.0, 4.4], [0.5, 6.4], [0.7, 8.6]];
   const ring = [[1.3, -1.1], [3.8, -1.75], [6.0, -1.3], [6.4, 0.4], [6.0, 1.6]];
   const cinema = [[3.4, 1.95], [3.6, 0.9], [4.6, 0.45]];
-  const RAIL = [[1.2, 4.95], [0.4, 3.6], [-0.6, 3.15], [-2.5, 2.9], [-4.6, 2.65], [-6.6, 2.35], [-8.4, 1.95], [-10.5, 2.3], [-13.5, 3.2]];
-  const RAIL_TAEZ = [[-8.4, 1.95], [-8.6, 1.2], [-8.9, 0.7]];
+  const STATION = [0.9, -1.7];                  // terminus ~2 km SW of the central square (Transport in Irad; Talas)
+  const RAIL = [STATION, [0.0, -1.8], [-1.5, -1.85], [-3.0, -1.95], [-4.8, -2.0], [-6.4, -1.95], [-8.4, -1.8], [-10.5, -1.85], [-13.5, -1.95]]; // Talas branch from the west, south of the centre
+  const RAIL_TAEZ = [[-8.4, -1.8], [-8.55, -0.9], [-8.7, -0.1]];
+  const RAIL_SB = [[-4.8, -2.0], [-4.95, -3.6], [-5.2, -5.6], [-5.9, -7.6], [-6.6, -9.6]]; // Sary-Bulak spur south to the antimony works
 
   // ---- symbols and labels ----
   const dot = (x, y, r = 3.6, fill = C.text) => { const [a, b] = px([x, y]); return `<circle cx="${a.toFixed(1)}" cy="${b.toFixed(1)}" r="${r}" fill="${fill}" stroke="#fff" stroke-width="1"/>`; };
@@ -118,7 +120,7 @@ if (want('talas')) {
     sq(4.2, 1.15), poi(4.2, 1.15, 'Talasfilm', 8, 4),
     sq(1.35, 1.25, '#c0392b'), poi(1.35, 1.25, 'Regional Hospital', 8, -6),
     hippodrome, poi(6.9, 0.85, 'Irad State Hippodrome', 0, -20, { weight: 'bold' }),
-    sq(-0.6, 3.15, '#444'), poi(-0.6, 3.15, 'Railway station', 8, -6),
+    sq(...STATION, '#444'), poi(...STATION, 'Railway station', 8, 14),
     sq(1.0, 2.5, WP.waterLine), poi(1.0, 2.5, 'Water treatment works', 8, 14, { size: 10 }),
     sq(2.3, 3.6, '#7a6a8a'), poi(2.3, 3.6, 'Municipal Cold Storage', 8, 4, { size: 10 }),
     sq(-4.3, -0.2, '#2e7d32'), poi(-4.3, -0.2, 'Communications Square', 0, -12, { weight: 'bold' }), poi(-4.3, -0.2, '(Attelkom headquarters)', 0, 18, { size: 10 }),
@@ -129,8 +131,8 @@ if (want('talas')) {
   ].join('');
   const areas = [
     areaLabel(-0.35, -0.7, 'Old City'), areaLabel(-0.2, 1.3, 'Shahr-i Kabud', { size: 10 }), areaLabel(4.6, 1.75, 'Soviet center'),
-    areaLabel(3.6, -3.0, 'Mikrorayons'), areaLabel(-2.6, -2.3, 'Mikrorayons'), areaLabel(-0.4, 3.85, 'Northern industrial district', { size: 10 }),
-    areaLabel(1.0, 5.65, 'Free Economic Trade Zone', { size: 10 }), areaLabel(-5.0, -1.85, 'Nuevo Talas'), areaLabel(-4.7, 0.6, 'Western district', { size: 10 }),
+    areaLabel(3.6, -3.0, 'Mikrorayons'), areaLabel(-2.6, -2.75, 'Mikrorayons'), areaLabel(-0.4, 3.85, 'Northern industrial district', { size: 10 }),
+    areaLabel(1.0, 5.65, 'Free Economic Trade Zone', { size: 10 }), areaLabel(-5.0, -1.45, 'Nuevo Talas'), areaLabel(-4.7, 0.6, 'Western district', { size: 10 }),
     areaLabel(-8.75, 0.42, 'Agribusiness Export Zone', { size: 9.5 }), T(-8.75, 0.12, 'Sukarne · Conagra · cold-chain hub', { size: 9.5, fill: '#555' }),
     areaLabel(0.8, -6.25, 'Southern wellfields', { size: 10, fill: '#2a5b8a' }), T(-9.45, 5.15, 'Landfill', { size: 10.5, fill: '#555' }),
   ].join('');
@@ -140,7 +142,8 @@ if (want('talas')) {
     [[3.75, 1.55], 'Cinema Boulevard', -72, '#6b5a46'], [[6.25, -0.6], 'Hospital Boulevard', 0, '#6b5a46'],
   ].map(([p, t, rot, col]) => { const [a, b] = px(p); return `<g transform="translate(${a.toFixed(1)},${b.toFixed(1)}) rotate(${rot})">${label(0, 0, t, { size: 10.5, style: 'italic', fill: col })}</g>`; }).join('');
   const edgeArrows = [
-    [[-12.95, 2.95], 'to Kyzyl-Adyr, Taraz and the Talas North Terminal', 'start', -12, '#444'],
+    [[-12.95, -2.45], 'to Kyzyl-Adyr, Taraz and the Talas North Terminal', 'start', 0, '#444'],
+    [[-5.75, -8.75], 'to Sary-Bulak', 'start', 0, '#444'],
     [[1.35, -8.1], 'to Kara-Oi (UNMI HQ) and the Qara-Chik checkpoint', 'start', 0, C.highwayEdge],
     [[9.7, -0.8], 'State Route 1 →', 'end', 0, C.highwayEdge],
     [[6.75, 8.15], 'to the Kök-Bel Pass and Nurzhan', 'end', 0, '#8a6d2a'],
@@ -198,6 +201,7 @@ ${road(ring, 'main')}${road(cinema, 'main')}${road(NORTH, 'main')}${road(KOKBEL,
 ${road(SR1, 'hw')}${road(TTH, 'hw')}
 <path d="${smooth(RAIL)}" fill="none" stroke="${C.rail}" stroke-width="3.2"/><path d="${smooth(RAIL)}" fill="none" stroke="#fff" stroke-width="1.5" stroke-dasharray="5 5"/>
 <path d="${smooth(RAIL_TAEZ)}" fill="none" stroke="${C.rail}" stroke-width="2.4"/>
+<path d="${smooth(RAIL_SB)}" fill="none" stroke="${C.rail}" stroke-width="2.4"/>
 <g id="road-names">${roadNames}</g>
 <g id="areas">${areas}</g>
 <g id="pois">${pois}</g>
@@ -206,6 +210,6 @@ ${legend}
 ${scale}`;
   writeSvg('Talas_city_map.svg', W, H, body, {
     title: 'Map of Talas',
-    desc: 'Schematic plan of Talas: the Old City around the Kokand-era citadel with Shahr-i Kabud and Bazar-i Kalan, the Soviet center and central square, the housing estates, the northern industrial district and railway, and the western corridor toward Talas Air Base with Communications Square, Nuevo Talas and the Agribusiness Export Zone.',
+    desc: 'Schematic plan of Talas: the Old City around the Kokand-era citadel with Shahr-i Kabud and Bazar-i Kalan, the Soviet center and central square, the housing estates, the northern industrial district, the railway entering from the west along the south side of the center to the station, and the western corridor toward Talas Air Base with Communications Square, Nuevo Talas and the Agribusiness Export Zone.',
   });
 }
