@@ -251,12 +251,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Chui_steppe_fox.jpg"
  },
+ "Church_grain_store_1937.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 173921,
+  "mime": "image/jpeg",
+  "thumb": "320px-Church_grain_store_1937.jpg"
+ },
  "Church_of_St_Janyl.jpg": {
   "width": 1152,
   "height": 864,
   "bytes": 173241,
   "mime": "image/jpeg",
   "thumb": "320px-Church_of_St_Janyl.jpg"
+ },
+ "Collectivization_1932.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 156344,
+  "mime": "image/jpeg",
+  "thumb": "320px-Collectivization_1932.jpg"
  },
  "Cotton_fields_1910s.jpg": {
   "width": 1600,
@@ -335,12 +349,26 @@
   "mime": "image/jpeg",
   "thumb": "320px-Golden_eagle.jpg"
  },
+ "Good_Friday_Talas.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 193786,
+  "mime": "image/jpeg",
+  "thumb": "320px-Good_Friday_Talas.jpg"
+ },
  "Government_of_Irad_diagram.svg": {
   "width": 920,
   "height": 600,
   "bytes": 9674,
   "mime": "image/svg+xml",
   "thumb": "320px-Government_of_Irad_diagram.png"
+ },
+ "Hall_of_Justice.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 207581,
+  "mime": "image/jpeg",
+  "thumb": "320px-Hall_of_Justice.jpg"
  },
  "Hunters_Vigil.jpg": {
   "width": 1152,
@@ -573,6 +601,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Karatau_range.jpg"
  },
+ "Kayrak_gravestone.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 161915,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kayrak_gravestone.jpg"
+ },
  "Kazy.jpg": {
   "width": 1280,
   "height": 745,
@@ -628,6 +663,13 @@
   "bytes": 157916,
   "mime": "image/jpeg",
   "thumb": "320px-Koryo-saram_Kobozev_1937.jpg"
+ },
+ "Koryo_rice_1950s.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 191180,
+  "mime": "image/jpeg",
+  "thumb": "320px-Koryo_rice_1950s.jpg"
  },
  "Kumoch_bread.jpg": {
   "width": 1152,
@@ -782,6 +824,20 @@
   "bytes": 194660,
   "mime": "image/jpeg",
   "thumb": "320px-Old_Talas_Citadel.jpg"
+ },
+ "Operation_Starlight_1992.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 138256,
+  "mime": "image/jpeg",
+  "thumb": "320px-Operation_Starlight_1992.jpg"
+ },
+ "Otmek_station.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 252988,
+  "mime": "image/jpeg",
+  "thumb": "320px-Otmek_station.jpg"
  },
  "Petroglyphs.jpg": {
   "width": 1600,
@@ -1041,6 +1097,13 @@
   "bytes": 214113,
   "mime": "image/jpeg",
   "thumb": "320px-Talas_State_University.jpg"
+ },
+ "Talas_patrol_1993.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 203666,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talas_patrol_1993.jpg"
  },
  "Talas_riots_1956.jpg": {
   "width": 1152,

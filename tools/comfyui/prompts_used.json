@@ -484,5 +484,85 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 256
+  },
+  "Operation_Starlight_1992": {
+    "prompt": "analoghd, 1992 press photograph on colour negative film. US Marines in M81 woodland camouflage and PASGT helmets with rifles and packs walking down the open rear ramp of a grey US Air Force C-141 transport aircraft on a concrete Soviet airfield in summer, a CH-53 helicopter parked behind, a few Central Asian militiamen in mixed civilian clothes with old rifles watching from the edge of the apron, dry grass, mountains with snow patches to the south. Taken from the apron off to one side, people scattered, film grain.",
+    "seed": 710510,
+    "batch_image": 2,
+    "lora": "model.safetensors (1990s Analog HD) @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "red star on fuselage and tail lettering blurred; camera_look 0.2"
+  },
+  "Talas_patrol_1993": {
+    "prompt": "analoghd, 1993 press photograph on colour negative film. A US Army Humvee in woodland camouflage with three soldiers in PASGT helmets parked on a street of a Soviet Central Asian city, local children with dark hair crowding round it, a woman in a headscarf walking past with shopping bags, a five-storey Soviet apartment block with some shell damage behind, poplars, a kiosk with plain unmarked boxes. Taken from across the street at an angle, film grain. No readable text.",
+    "seed": 42285,
+    "batch_image": 1,
+    "lora": "model.safetensors (1990s Analog HD) @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384,
+    "edits": "plates blurred; camera_look 0.2"
+  },
+  "Church_grain_store_1937": {
+    "prompt": "Grainy black and white Soviet archive photograph from 1938: a large domed brick church on a hilltop above a river gorge in Central Asia, the dome on an octagonal drum with the cross removed from its top, its portal standing open, workers in caps and padded jackets carrying sacks of grain into it from an old GAZ-AA lorry, a donkey cart, dust. Taken from below and to one side. Scratches, faded print, slight blur.",
+    "seed": 801994,
+    "batch_image": 1,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "cross inpainted off the dome; greyscale"
+  },
+  "Collectivization_1932": {
+    "prompt": "Grainy black and white Soviet archive photograph from 1932 on the steppe of Central Asia: a large herd of horses being driven into a rough wooden corral by mounted herders in quilted robes and felt hats, two Soviet officials in peaked caps and long coats standing at the gate with a ledger, felt yurts in the background, flat horizon. Taken from the side, people scattered. Scratches, faded print, slight blur.",
+    "seed": 159646,
+    "batch_image": 1,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "greyscale"
+  },
+  "Koryo_rice_1950s": {
+    "prompt": "Grainy black and white Soviet agricultural photograph from the 1950s: Korean women and men in white headscarves and caps bent over transplanting rice seedlings in a flooded paddy on flat lowland in Soviet Central Asia, earth banks and an irrigation ditch, a horse-drawn cart on the bank, a flat horizon with poplars, no mountains. Taken from the paddy bank at an angle. Faded print, film grain.",
+    "seed": 66474,
+    "batch_image": 1,
+    "lora": "none (plain Krea)",
+    "size": "1536x864",
+    "crop_x": 160,
+    "edits": "greyscale"
+  },
+  "Otmek_station": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a small Soviet-era mountain weather station high on a treeless pass in Kyrgyzstan in summer: two low whitewashed buildings with tin roofs, a white wooden instrument screen on legs, a snow-depth pole, a tall radio mast with guy wires, a parked UAZ jeep, a cow grazing, a gravel road winding up toward the pass, green alpine pasture and rocky snowy ridges. Taken from the road at an angle.",
+    "seed": 132680,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "markings softened"
+  },
+  "Hall_of_Justice": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a Stalin-era neoclassical court building of grey granite on a tree-lined boulevard in a Central Asian city: a broad flight of steps, a portico of six square columns, tall carved dark walnut double doors, lanterns, a few people in suits climbing the steps, plane trees and parked cars. Taken from across the boulevard at an angle, a lamppost at the left edge. No flags, no readable lettering.",
+    "seed": 727587,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384,
+    "edits": "cropped to drop a flag; lettering softened"
+  },
+  "Kayrak_gravestone": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a medieval Nestorian Christian gravestone in a dim museum: a rounded grey river boulder about 50 cm across standing on a plinth, with a cross with flared arms and little bead ends at its tips carved in low relief rising from a lotus flower, and a short line of Syriac script carved beneath, lit by a spotlight from the side. Taken at an angle, slightly off-centre. No labels.",
+    "seed": 339593,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "faint wall label softened"
+  },
+  "Good_Friday_Talas": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a Good Friday procession in a Central Asian city in early spring: men carrying a statue of the Virgin Mary on a wooden litter down a street, a priest in a black cassock and white surplice behind, people with candles, women in headscarves, crimson banners with a white cross, plane trees not yet in leaf, a brick church with a spire behind, snowy mountains far off. Taken from the pavement among the crowd. No readable text.",
+    "seed": 382505,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   }
 }
