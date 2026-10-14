@@ -70,7 +70,7 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
 
   | Unit | Kartalar km² | As drawn here km² |
   |---|---|---|
-  | Irad | 218,205 | 219,353 |
+  | Irad | 218,650 | (redrawn; see the build output) |
   | ISEZ | 30,377 | 30,514 |
   | Chu District | 13,962 | 14,024 |
   | Kara-Buura District | 9,380 | 9,423 |
