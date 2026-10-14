@@ -40,3 +40,12 @@ Avoiding symmetrical, centred pictures:
 - Ask for one dome explicitly, or churches sprout extra domes. For St. Janyl, "like the Timurid and Kokand brick monuments of Turkestan but a Christian church" gave the right look; without it the church came out Italian baroque.
 - Anything lettered (rail cars, signs) gets readable words like "KOREA": ask for "plain unmarked" objects.
 - Animals in sport scenes can come out alive ("the limp headless body of a dead goat") and sports scenes can drift to black and white ("colour sports agency photograph").
+- Negatives are ignored with guidance-only Flux ("no saddle" still gives a saddle; "no flags" still sometimes gives flags). Describe what is there instead, or pick the cleaner of the two batch images and fix it afterwards.
+- "Crimson flags" in a crowd pulls in Soviet hammer-and-sickle banners. For demonstrations, ask for "plain white cardboard placards seen from behind" and no flags.
+- Kyrgyz herders need "broad flat East Asian face" or similar, or they come out Middle Eastern. "Wind-reddened cheeks" renders as painted red patches (tone down with `process.py --desat`).
+- Clergy: anything asking for a priest in close-up gives a Greek Orthodox monk (klobuk with veil, pectoral cross). Keep clergy small and distant, or seen from behind; the church interior worked with "carved white gypsum panels", "raised wooden platform in the middle of the nave", "carved walnut screen with a curtain".
+- Period photos: the 1990s Analog HD LoRA (`model.safetensors` @ 0.8, prompt starting "analoghd, 1992 press photograph on colour negative film") gives convincing early-90s press film. Plain Krea with "grainy black and white archival photograph from 1956 ... scratches, faded print" works for Soviet-era scenes; convert to greyscale afterwards because it leaves a slight tint.
+
+## Finishing a render
+
+`process.py` does the crop, the clean-up and `camera_look.py` in one step; see its docstring. Typical use: `python3 tools/comfyui/process.py render.png images/Name.jpg --crop 192 --blur 448,618,508,640 --flag 805,420,850,505 --seed 11`. The edits made to each photo are recorded under `edits` in `prompts_used.json`.
