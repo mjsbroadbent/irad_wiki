@@ -1,13 +1,19 @@
 {
   "Church_of_St_Janyl": {
-    "prompt": "Wide news photograph taken from the crowded esplanade below Cathedral Hill on the feast of St. Janyl in late August, 24mm lens, hazy morning light. A great 18th-century Central Asian cathedral crowns the hilltop: built of plain warm yellow fired brick laid in decorative patterns, like the Timurid and Kokand brick monuments of Turkestan but a Christian church, a massive cross-shaped body with tall pointed-arch portals framed in carved walnut, rising to one huge ribbed dome clad in faded turquoise glazed tiles on a tall sixteen-windowed octagonal drum, crowned by an iron cross with flared equal arms. Old brick monastery walls and cloisters wrap around the hill, broad stone stairs climb up to the cathedral. Tens of thousands of pilgrims pack the esplanade and the stairs, women in white headscarves, old men in tall white felt hats with black brims, horsemen, priests in black cassocks and tall black hats, flocks of sheep being blessed, blue juniper smoke. Dry brown foothills behind. Real documentary photograph, natural colours.",
-    "seed": 1727,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken by a pilgrim standing off to the side of the crowded esplanade below Cathedral Hill on the feast of St. Janyl, looking up at the church at an oblique angle from the left. The cathedral stands in the right part of the frame; the left side of the frame is filled with the backs of pilgrims' heads, an old iron lamppost close to the camera and a man on a horse. The cathedral is a massive, plain, cube-shaped Central Asian brick building of warm yellow fired brick laid in simple geometric patterns, like a Timurid mausoleum in Turkestan, with tall pointed-arch portals and a flat roofline, crowned by one single enormous ribbed dome of faded turquoise glazed tiles on a tall windowed drum, the only dome on the building, topped by an iron cross with flared equal arms. Old brick monastery walls, broad stone stairs packed with pilgrims climbing diagonally, women in white headscarves, old men in tall white felt kalpak hats, priests in black cassocks, sheep being led up the steps, blue juniper smoke drifting. Dry brown foothills behind, hazy late-summer morning.",
+    "seed": 2477,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   },
   "Iyik_Janyl_valley": {
-    "prompt": "Digital photograph taken from a ridge above the city in late summer, even exposure, flat hazy light, a power line crossing the foreground. A large Central Asian provincial city of 300,000 people filling a green valley among dry brown mountains: in the middle, on a hill spur above the newer districts, the old town of low tin-roofed houses crowned by a large yellow-brick cathedral with one big turquoise ribbed dome. Around and below spread Soviet five- and nine-storey apartment blocks, wide streets with poplars, tin-roofed houses among walnut and apricot orchards, a factory chimney, and at the bottom the valley drops into a deep river gorge. Realistic dull colours, sharp corners.",
-    "seed": 41280,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a rough hillside path above the city in late summer, flat hazy light; a dry thorn bush and a leaning wooden electricity pole with sagging wires in the left foreground. Below and to the right spreads a large Central Asian provincial city of 300,000 people filling a green valley among dry brown mountains. On a hill spur in the right third of the frame stands the old town of low tin-roofed houses, crowned by a large plain yellow-brick cathedral with one single big turquoise ribbed dome. Beyond it Soviet five- and nine-storey apartment blocks, poplar-lined streets, tin roofs among walnut and apricot orchards, a factory chimney, and the valley dropping into a deep river gorge on the left. Realistic dull colours.",
+    "seed": 473976,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384
   },
   "Koryo-saram_Kobozev_1937": {
     "prompt": "Black and white Soviet press photograph from autumn 1937, 35mm film, heavy grain, soft focus, mid-grey tones, scratches and dust. At a remote siding on the flat Chu steppe, Korean deportee families climb down from a long train of plain unmarked wooden freight boxcars pulled by a steam locomotive: women in long white Korean jackets and skirts carrying babies on their backs, men in flat caps and quilted jackets, old people, children, bundles wrapped in cloth and wooden trunks piled on the ground. A few local Kazakh-looking women in white wrapped headscarves hand them round loaves of bread. Marshy grass, a few bare poplars, overcast sky. Authentic archival photograph.",
@@ -15,19 +21,28 @@
     "batch_image": 2
   },
   "Talas_skyline_2022": {
-    "prompt": "Photograph from low dry hills north of a large Central Asian city of one million people on a valley floor, ordinary hazy autumn afternoon, telephoto compression. Grey Soviet five- and nine-storey panel apartment blocks, long boulevards of tall poplars, a cluster of new glass office towers and hotels along one central avenue, the tallest about 27 storeys, a round ribbed concert-hall roof, a layer of smog, and behind the city the high snow-capped wall of a mountain range rising steeply. Dry grass, a dirt track and some garages in the foreground. Realistic dull colours, unremarkable press photo.",
-    "seed": 460970,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a dry hillside north of the city, standing beside a row of rusty metal garages that fill the left edge of the frame, looking diagonally across a large Central Asian city of one million on a valley floor on an ordinary hazy autumn afternoon. Grey Soviet five- and nine-storey panel apartment blocks, long boulevards of tall poplars running at an angle, a cluster of new glass office towers off to the right of centre, the tallest about 27 storeys, a round ribbed concert-hall roof, a layer of smog, and behind the city a high snow-capped mountain wall. Dry grass and a dirt track in the foreground. Realistic dull colours.",
+    "seed": 886002,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Nurzhan_central_square": {
-    "prompt": "Ordinary snapshot, overcast winter midday, slightly crooked framing. The huge paved central square of a flat Central Asian oil city, facing a 1930s Soviet constructivist government building: a long stepped grey concrete block with horizontal bands of windows. Broad avenues lead away, a trolleybus and white marshrutka minibuses, pedestrians in dark winter coats and fur hats of mixed Central Asian, Russian and Korean appearance, bare trees, light winter smog over completely flat terrain. Realistic flat colours.",
-    "seed": 720345,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken by a pedestrian walking across the corner of a huge paved central square of a flat Central Asian oil city on an overcast winter midday, slightly tilted horizon. A long stepped grey 1930s Soviet constructivist government building with horizontal bands of windows runs diagonally away from the camera on the right side of the frame, seen at a steep angle. A trolleybus with its poles on the overhead wires crosses on the left, white marshrutka minibuses, a man in a fur hat walking close past the camera on the left edge, bare trees, light winter smog, flat terrain. Realistic flat colours.",
+    "seed": 434616,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Nurzhan_Refinery_No_1": {
-    "prompt": "Documentary photograph from a road on a flat dusty plain: an ageing Soviet-built oil refinery from the 1950s, rusty distillation columns and pipe racks, a few newer cracking units, white cylindrical storage tanks, a tall flare stack burning with an orange flame and dark smoke, a line of black railway tank cars on a siding behind a concrete fence in the foreground, grain silos in the distance, irrigated fields. Grey hazy summer sky, 50mm lens, deep focus, realistic flat colours.",
-    "seed": 755583,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the window of a car on a road alongside an ageing Soviet-built oil refinery on a flat dusty plain, the road and a concrete fence running diagonally from the lower left. Rusty 1950s distillation columns, pipe racks and a few newer cracking units clustered on the right side of the frame, a tall flare stack burning with an orange flame and dark smoke, white storage tanks, a line of black unmarked railway tank cars on a siding, grain silos far off on the left. Grey hazy summer sky, realistic flat colours.",
+    "seed": 538184,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Urkun_1916": {
     "prompt": "Early 20th-century documentary photograph made with a three-colour survey process, soft colour fringing, slight registration offset between colour layers, faded pigments, long exposure stillness. A Central Asian herding family stopped on a high snowy mountain pass in the winter of 1916: women in white wrapped elechek headdresses and sheepskin coats, an old man in a tall white felt hat, children wrapped in felt riding small shaggy mountain horses loaded with bundles and rolled felt, a few thin sheep, deep snow, bare rock, a grey sky, and a line of other families strung out behind them up the slope. Exhausted faces looking at the camera.",
@@ -35,43 +50,67 @@
     "batch_image": 2
   },
   "Old_Talas_Citadel": {
-    "prompt": "Ordinary travel snapshot, overcast late morning. A low mud-brick and fired-brick fortress with round corner towers on top of an earth mound about 14 metres high in the old quarter of a Central Asian city; one restored gate with a pointed brick arch between two towers looks newer and cleaner. In front, a narrow dirt lane between high blank mud-plastered walls of courtyard houses with old wooden gates, a parked white Lada, an old man in a white felt hat walking, gas pipes running along the walls, sagging wires, modern apartment blocks in the distance. Realistic dull colours.",
-    "seed": 532673,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the side of a narrow dirt lane in the old quarter of a Central Asian city, overcast late morning. On the left the lane runs away between high blank mud-plastered walls of courtyard houses with old wooden gates and gas pipes along the walls; at the end, off to the right, a low mud-brick and fired-brick fortress with round towers stands on top of a steep earth mound about 14 metres high, one restored gate with a pointed brick arch looking newer. An old white Lada parked half out of frame on the right, an old man in a white felt hat walking away, sagging wires, apartment blocks in the distance. Realistic dull colours.",
+    "seed": 6860,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Bazar-i_Kalan": {
-    "prompt": "Snapshot inside a 1950s Soviet covered market hall in a Central Asian city: a high concrete barrel-vault roof with skylights, long tiled counters heaped with dried apricots, raisins, walnuts, spices in heaps, melons, round flatbreads and white balls of dried cheese, Uzbek traders in skullcaps and women in headscarves behind the counters, shoppers in ordinary jackets, fluorescent tube lights, plastic bags and crates, a little dusty and worn. Mixed daylight and fluorescent light, slightly crooked framing, realistic colours.",
-    "seed": 31423,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken by a shopper turning between two stalls inside a 1950s Soviet covered market hall in a Central Asian city, looking diagonally down a crowded aisle. A high concrete barrel vault with skylights, counters heaped with dried apricots, raisins, walnuts, spices, melons, round flatbreads and white balls of dried cheese; a trader in a skullcap and a woman in a headscarf close to the camera on the left, cut off by the frame edge, shoppers in jackets, fluorescent tubes, plastic bags and crates. Mixed daylight and fluorescent light, realistic colours.",
+    "seed": 213731,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   },
   "Talas_Air_Base": {
-    "prompt": "Telephoto press photograph through a chain-link perimeter fence: a long military runway on a dry river terrace, a large grey four-engine military transport jet taxiing, a grey tanker aircraft parked, low concrete hardened aircraft shelters and hangars, a fuel farm of round tanks, poplar windbreaks, snow-capped mountains behind in haze. Summer morning, heat shimmer, realistic flat colours.",
-    "seed": 957377,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken through a gap in a chain-link perimeter fence beside a road, the fence post and barbed wire close in the left foreground. A long military runway on a dry river terrace runs diagonally across the frame; a large grey four-engine military transport jet is taxiing on the right, low concrete hardened aircraft shelters, a fuel farm of round tanks, poplar windbreaks, snow-capped mountains behind in haze. Summer morning, heat shimmer, realistic flat colours.",
+    "seed": 903530,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384
   },
   "Boz-Korgon_compound": {
-    "prompt": "Long telephoto photograph across flat lowland with nodding oil pumpjacks in the foreground: on slightly rising ground in the distance a large walled compound, a double grey concrete perimeter wall with observation towers, inside a three-storey administrative building, low residential blocks, a helicopter pad and hangar, radio masts; a road and a railway run past outside the wall, a convoy of white Land Cruisers on the road. Dusty haze, heat shimmer, flat colours, faint mountains on the horizon.",
-    "seed": 368215,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Long telephoto snapshot taken from the side of a highway across flat lowland, a nodding oil pumpjack close in the left foreground. In the right part of the frame, on slightly rising ground in the distance, a large walled compound: a double grey concrete perimeter wall with observation towers running at an angle, a three-storey administrative building, low residential blocks, a helicopter pad, radio masts; a road and a railway run past, a convoy of white Land Cruisers. Dusty haze, heat shimmer, flat colours.",
+    "seed": 859316,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Iradi_feast_table": {
-    "prompt": "Overhead flash snapshot of a family feast laid on a cloth on a low table in a Central Asian home: a big platter of boiled beef and mutton on wide hand-cut flat noodles with sliced onion, bowls of broth, a dish of creamy short-grain rice like risotto with a bowl of deep-red beetroot yoghurt beside it, round flatbreads stamped with a cross, small square pieces of fried dough, dried apricots, raisins, walnuts, wrapped sweets, a plate of Korean carrot salad, tea in small bowls, guests' hands reaching in. Slightly cluttered real home photo.",
-    "seed": 655110,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Flash snapshot taken at an angle from one end of a low table at a family feast in a Central Asian home, plates cut off by the edges of the frame. A big platter of boiled beef and mutton on wide hand-cut flat noodles with sliced onion, bowls of broth, a dish of creamy short-grain rice like risotto with a bowl of deep-red beetroot yoghurt, round flatbreads stamped with a cross, small square pieces of fried dough, dried apricots, raisins, walnuts, wrapped sweets, Korean carrot salad, tea in small bowls, guests' hands and sleeves reaching in. Cluttered, real home photo.",
+    "seed": 349451,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192
   },
   "Caravanserai_of_Rabat-i-Safed": {
-    "prompt": "Tourist snapshot of a medieval Silk Road caravanserai in Kyrgyzstan, similar to Tash Rabat: a low, massive square stone enclosure about 65 metres on a side standing alone on a flat valley floor, plain thick sloping walls of rough white limestone blocks about 8 metres high with no battlements, squat round bastions at the corners and half-round towers along the walls, a single tall pointed arched gateway in a plain rectangular portal; parts of the wall tumbled, some stretches neatly rebuilt. A white minibus and a few tourists in anoraks near the gate, a gravel car park, a line of tall thin poplars, bare brown hills and snowy mountains behind. Overcast spring day, dull realistic colours.",
-    "seed": 6565,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Tourist snapshot taken walking up to a medieval Silk Road caravanserai in Kyrgyzstan, similar to Tash Rabat, from one corner so two walls recede at an angle. A low, massive square enclosure of rough white limestone blocks about 8 metres high with smooth rounded parapets and no battlements, squat round bastions at the corners and half-round towers along the walls, a tall pointed arched gateway on the right; parts of the wall tumbled, some stretches neatly rebuilt. A white minibus parked on the left edge, a few tourists in anoraks, a gravel path, a line of tall thin poplars, bare brown hills and snowy mountains behind. Overcast spring day, dull realistic colours.",
+    "seed": 241829,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   },
   "Talas_Solar_Park": {
-    "prompt": "Press photograph taken from a low hill overlooking a 50-megawatt solar power plant: hundreds of long parallel rows of single-axis tracking solar panels covering a huge flat grey gravel terrace, perimeter fence, a substation with transformers and pylons, a service road. Beyond the terrace edge a green irrigated river valley with lines of poplars and villages, and brown foothills with snowy mountains behind. Dry steppe grass and a few sheep in the foreground. Clear autumn morning, deep focus, realistic flat colours.",
-    "seed": 5050,
-    "batch_image": 1
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a low hill beside a dirt road overlooking a 50-megawatt solar power plant, a wooden fence post and dry grass in the left foreground. Long parallel rows of single-axis tracking solar panels running diagonally across a huge flat grey gravel terrace on the right, a substation with transformers and pylons, a service road. Beyond the terrace edge a green irrigated river valley with poplars and villages, and brown foothills with snowy mountains behind. A few sheep grazing. Clear autumn morning, realistic flat colours.",
+    "seed": 759211,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   },
   "Ulak_tartysh_Hippodrome": {
-    "prompt": "Colour sports agency photograph, telephoto lens from the stands, 2019. Kok-boru match in a big Soviet-era concrete stadium in Central Asia in early March: four horsemen in a tight scrum on a muddy dirt field, leaning down from their saddles and grappling over the limp headless body of a dead goat that one rider drags along the ground by its leg, horses pushing shoulder to shoulder, clods of mud flying, breath steaming. The riders wear old padded leather tank-crew helmets, quilted jackets and riding boots. Packed grandstands of spectators in winter coats, snow-capped mountains behind, cold overcast light, motion blur on the hooves.",
-    "seed": 3113,
-    "batch_image": 2
+    "prompt": "Amateur photography, on flickr in 2007. Colour snapshot taken from low in the stands of a Soviet-era concrete stadium in early March, a spectator's shoulder and fur hat blurred in the left foreground. On the muddy dirt field to the right, four horsemen in a tight scrum lean down from their saddles grappling over the limp headless body of a dead goat that one rider drags by its leg, clods of mud flying, breath steaming. Riders in old padded leather tank-crew helmets and quilted jackets. Packed grandstand across the field, snow-capped mountains behind, cold overcast light, motion blur.",
+    "seed": 954980,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
   }
 }

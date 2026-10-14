@@ -14,9 +14,20 @@ UnetLoaderGGUF + DualCLIPLoader + VAELoader → CLIPTextEncode → FluxGuidance 
 
 `prompts_used.json` has the exact prompt, seed and which image of the batch was kept, for every photo on the wiki.
 
+## LoRA and composition (since 2026-10-14)
+
+Contemporary photos use the **Amateur Photography** LoRA (CivitAI 652699, v3, `loras/amateurphoto-v3.5-000052.safetensors`) at 0.8 through `LoraLoaderModelOnly`, with the trigger "Amateur photography, on flickr in 2007." at the start of the prompt. Also installed for later: Boreal (`boreal-v2.safetensors`, trigger "photo"; very real but ignores architectural detail), Flux Krea Realism (`Flux_Krea_Real.safetensors`, trigger "in the style of R34L"; faithful, foggy film look, maybe for the 1990s) and Old Amateur 80s (`1980s.safetensors`, trigger "1980s Photo"). Historical photos (1916, 1937) are not redone yet; they may want period LoRAs of their own.
+
+Avoiding symmetrical, centred pictures:
+- Render wide (1536×864) and crop a 1152×864 frame off-centre; `prompts_used.json` records `crop_x`.
+- Say where the photographer stands ("from the side of the stairs, at an oblique angle", "from the window of a car") and where the subject sits in the frame ("in the right part of the frame").
+- Put something close to the camera at one edge: a lamppost, a fence post, a spectator's shoulder, a car mirror.
+- Angled views of St. Janyl's made the model add bell towers and extra domes; "a massive, plain, cube-shaped building ... one single dome, the only dome on the building" fixed it. "White felt kalpak hats" avoids sailor caps.
+- The LoRA reproduces real lettering and logos (car badges, number plates, price cards, tricolour flags): check every image and blur or repaint them.
+
 ## Post-processing
 
-`camera_look.py in.png out.jpg --strength 0.5` adds lens softness, slight chromatic aberration, vignetting, a gentle desaturation, sensor noise and JPEG compression (quality 85). Used on the contemporary photos; the 1916 and 1937 photos are saved straight to JPG because their prompts already ask for the period look.
+`camera_look.py in.png out.jpg --strength 0.35` (0.5 before the LoRA) adds lens softness, slight chromatic aberration, vignetting, a gentle desaturation, sensor noise and JPEG compression (quality 85). Used on the contemporary photos; the 1916 and 1937 photos are saved straight to JPG because their prompts already ask for the period look.
 
 ## Prompting that works
 
