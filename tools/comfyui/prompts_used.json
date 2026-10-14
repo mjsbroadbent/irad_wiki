@@ -1,0 +1,52 @@
+{
+  "Church_of_St_Janyl": {
+    "seed": 92648,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. 18th-century church on a hilltop in a mountain town, fired brick walls, a single turquoise-tiled dome on a drum, arched portal with muqarnas vaulting, a plain stone cross on the dome, pilgrims climbing stone steps, terraced orchards and dry foothills behind, late August. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Old_Talas_Citadel": {
+    "seed": 32673,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. 1820s mud-and-fired-brick fortress walls with round towers on an earthen mound in an old Central Asian town, narrow lanes of adobe courtyard houses with carved walnut wooden verandas around it, morning light. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Iyik_Janyl_valley": {
+    "seed": 70709,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Mountain town at 1,280 m in a green side valley of dry foothills, orchards and walnut trees, houses with corrugated roofs climbing the slopes, a tiled church dome on a hill in the middle, a deep river gorge visible below. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Talas_Air_Base": {
+    "seed": 57377,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Long military runway on a river terrace, large grey cargo aircraft parked on the apron, hangars and fuel tanks, poplar windbreaks, mountains in the distance, hazy summer morning, shot through a perimeter fence. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Boz-Korgon_compound": {
+    "seed": 68215,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Distant telephoto view of a fortified government compound on a flat steppe, double concrete perimeter wall with watchtowers, low buildings and radio masts, a helicopter pad, heat haze, no people. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Caravanserai_of_Rabat-i-Safed": {
+    "seed": 60389,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Ruined square medieval caravanserai of white limestone, thick walls 8 m high with round corner bastions, a tall arched entrance portal in the east wall, valley floor with poplars, mountains behind, golden evening light. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Iradi_feast_table": {
+    "seed": 55110,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Low table for a family feast: platter of hand-cut noodles with boiled beef and onion, plov, round flatbreads, bowls of fermented milk, dried apricots, tea in bowls, overhead view, editorial food photograph. The meat is beef or mutton, not horse. The setting is Central Asia (the Talas valley and Tian Shan foothills). Authentic unedited photograph, natural imperfections.",
+    "negative": "text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script, minaret, mosque"
+  },
+  "Bazar-i_Kalan": {
+    "seed": 1956,
+    "prompt": "Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour. Inside a huge Soviet modernist covered bazaar in a Central Asian city: a single enormous curved reinforced-concrete barrel vault roof with rows of skylights, bare grey concrete, long aisles of tiled market counters piled with dried apricots, raisins, walnuts, spices in heaps, melons and round tandyr flatbreads. Kyrgyz and Kazakh-looking traders, women in headscarves behind the counters, shoppers in ordinary modern jackets, busy autumn morning, dusty sunbeams from the skylights. Authentic unedited photograph, natural imperfections.",
+    "negative": "wooden roof, timber beams, barn, european, text, letters, signs, lettering, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, arabic script"
+  },
+  "Talas_Solar_Park": {
+    "seed": 2104,
+    "prompt": "Documentary photograph taken at eye level from the access road, 50mm lens, f/8, everything in sharp focus, deep depth of field. A large utility-scale solar farm: long straight parallel rows of solar panels on steel frames stretching across a flat dry gravel river terrace, a chain-link fence and a gravel service track in the foreground, a green irrigated river valley with poplars below the terrace edge, brown mountains behind under a pale hazy summer sky. Ordinary realistic colour, slightly flat midday light. Central Asia. Authentic unedited photograph.",
+    "negative": "tilt-shift, miniature effect, blurred foreground, bokeh, aerial drone view, oversaturated, hdr, text, letters, signs, watermark, logo, flag, cartoon, illustration, painting, 3d render, cgi"
+  },
+  "Ulak_tartysh_Hippodrome": {
+    "seed": 3321,
+    "prompt": "Sports agency photograph, telephoto 300mm lens, fast shutter, dust in the air. Kok-boru (buzkashi) match in a big Central Asian hippodrome: a tight scrum of eight Kyrgyz horsemen in quilted jackets and fur-trimmed caps leaning out of their saddles, grabbing and pulling at a small headless goat carcass held low beside one horse, horses rearing and pushing shoulder to shoulder, packed concrete grandstand behind out of focus, brown hills beyond, overcast spring day. Central Asian faces. Authentic unedited photograph, natural imperfections.",
+    "negative": "european faces, sheep, wool, horns, text, letters, signs, watermark, logo, flag, banner, cartoon, illustration, painting, 3d render, cgi, plastic skin, oversaturated, deformed hands, extra fingers, distorted faces, extra legs"
+  }
+}

@@ -2028,5 +2028,95 @@
     "alt": "Cartoon still of two horses in a field of tulips under a starry sky",
     "credit": "Screenshot © 20th Television; low-resolution still used for commentary",
     "notice": "Screenshot © 20th Television; low-resolution still used for commentary"
+  },
+  {
+    "file": "Church_of_St_Janyl.jpg",
+    "article": "Church of St. Janyl",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The Church of St. Janyl on Cathedral Hill, Iyık Janyl",
+    "alt": "Brick church with a single turquoise-tiled dome topped by a plain cross, on a hilltop above terraced orchards, with pilgrims climbing stone steps and dry mountains behind",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Iyik_Janyl_valley.jpg",
+    "article": "Iyık Janyl",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Iyık Janyl in its valley above the Naryn gorge",
+    "alt": "Small town of tin-roofed houses on green orchard slopes, with a domed church in the middle and a river winding through the valley below",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Old_Talas_Citadel.jpg",
+    "article": "Old Talas Citadel Quarter",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The Kokand-era citadel (Köhne Diz) above the lanes of the Old City of Talas",
+    "alt": "Mud-brick fortress with round towers on an earthen mound, seen down a dirt lane lined with adobe houses with carved wooden balconies",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Bazar-i_Kalan.jpg",
+    "article": "Bazar-i Kalan",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Inside the covered hall of Bazar-i Kalan",
+    "alt": "Long concrete barrel-vaulted market hall lit by skylights, with tiled counters piled with dried apricots, nuts and flatbreads and traders in headscarves",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Talas_Air_Base.jpg",
+    "article": "Talas Air Base",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Talas Air Base, 12 km west of Talas, seen through the perimeter fence",
+    "alt": "Grey military cargo aircraft on a long runway lined with poplar windbreaks, hangars behind, hazy mountains in the distance, seen through a chain-link fence",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Boz-Korgon_compound.jpg",
+    "article": "Boz-Korgon",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The Boz-Korgon compound, east of Nurzhan",
+    "alt": "Distant view of a walled compound with watchtowers, low buildings and radio masts on a flat golden steppe, mountains in haze behind",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Caravanserai_of_Rabat-i-Safed.jpg",
+    "article": "Caravanserai of Rabat-i-Safed",
+    "section": "Architecture",
+    "width": 250,
+    "caption": "The east wall and entrance portal in evening light",
+    "alt": "Square white limestone fortress-like building with round corner towers and a pointed arched gateway, poplars and mountains behind",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Talas_Solar_Park.jpg",
+    "article": "Talas Solar Park",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The Talas Solar Park on the Boz-Tektir terrace",
+    "alt": "Rows of solar panels behind a chain-link fence on a dry gravel terrace, with green irrigated fields, poplars and brown mountains beyond",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Iradi_feast_table.jpg",
+    "article": "Iradi cuisine",
+    "placement": "lead",
+    "width": 300,
+    "caption": "A family feast: noodles with boiled beef and onion, flatbreads, fermented milk, dried apricots and tea",
+    "alt": "Wooden table with a large platter of noodles topped with beef and onion, stacked flatbreads, bowls of milk, tea and dried apricots",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Ulak_tartysh_Hippodrome.jpg",
+    "article": "Irad State Hippodrome",
+    "placement": "lead",
+    "width": 300,
+    "caption": "Ulak tartysh at the Irad State Hippodrome",
+    "alt": "A tight scrum of riders in quilted jackets and fur-trimmed hats leaning from their horses over a goat carcass in a dusty arena, a concrete grandstand behind",
+    "credit": "AI-generated image for Irad Wiki"
   }
 ]
