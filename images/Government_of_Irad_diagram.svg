@@ -37,9 +37,9 @@
 <rect x="395" y="352" width="145" height="50" rx="3" fill="#fff" stroke="#72777d" stroke-width="1.1"/>
 <text x="467.5" y="370" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">Lower courts</text>
 <text x="467.5" y="386" font-size="10.5" text-anchor="middle" fill="#555555">district and municipal</text>
-<rect x="235" y="352" width="140" height="50" rx="3" fill="#fff" stroke="#72777d" stroke-width="1.1"/>
-<text x="305" y="370" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">Five districts</text>
-<text x="305" y="386" font-size="10.5" text-anchor="middle" fill="#555555">Talas, Kara-Buura, Chu,</text><text x="305" y="399" font-size="10.5" text-anchor="middle" fill="#555555">Sary-Bulak, Lower Naryn</text>
+<rect x="235" y="352" width="140" height="64" rx="3" fill="#fff" stroke="#72777d" stroke-width="1.1"/>
+<text x="305" y="370" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#202122">Six districts</text>
+<text x="305" y="386" font-size="10.5" text-anchor="middle" fill="#555555">Talas, Kara-Buura, Chu,</text><text x="305" y="399" font-size="10.5" text-anchor="middle" fill="#555555">Sary-Bulak, Toktogul,</text><text x="305" y="412" font-size="10.5" text-anchor="middle" fill="#555555">Lower Naryn</text>
 <text x="282" y="440" font-size="10.5" text-anchor="middle" fill="#555555">De jure capital: Talas. Executive reported at Boz-Korgon since 2023.</text>
 <text x="282" y="456" font-size="10.5" text-anchor="middle" fill="#555555">Ruling party: Democratic Party of Irad (DPI)</text>
 

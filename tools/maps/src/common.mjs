@@ -1,6 +1,6 @@
 // Shared data and geometry for every Irad map.
 //
-// Irad's border, the ISEZ and ATR, the five ISEZ districts, the Qara-Chik line, the restricted-weapons zone,
+// Irad's border, the ISEZ and ATR, the six ISEZ districts, the Qara-Chik line, the restricted-weapons zone,
 // the routes (roads, railways, pipelines, power lines) and the positions of places all come from the Kartalar
 // map data (the authoritative map of Irad), copied into data/kartalar/ so this build is self-contained.
 // The seven UN planning zones of the ATR come from Kartalar too (planning_zones.geojson).
@@ -117,7 +117,7 @@ export function geography() {
   const isez = norm(zf.find(f => f.properties.zone === 'ISEZ').geometry);
   const atr = norm(zf.find(f => f.properties.zone === 'ATR').geometry);
   const D = {};
-  for (const name of ['Talas', 'Kara-Buura', 'Chu', 'Sary-Bulak', 'Lower Naryn']) {
+  for (const name of ['Talas', 'Kara-Buura', 'Chu', 'Sary-Bulak', 'Toktogul', 'Lower Naryn']) {
     const f = loadK('districts.geojson').features.find(q => q.properties.district === name);
     D[`${name} District`] = norm(f.geometry);
   }

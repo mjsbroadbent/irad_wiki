@@ -61,7 +61,7 @@ ${scaleBar(W - 290, H - 26)}`, {
 // ---------- 2. Administrative divisions ----------
 {
   const ISEZ_COL = { 'Talas District': '#f4a582', 'Kara-Buura District': '#fdbf6f', 'Chu District': '#fbe39a',
-    'Sary-Bulak District': '#f1937a', 'Lower Naryn District': '#e98b9e' };
+    'Sary-Bulak District': '#e8806a', 'Toktogul District': '#d9a07a', 'Lower Naryn District': '#e98b9e' };
   const ATR_COL = { 'Northern Steppe': '#cfe3c2', 'Karatau': '#b9d7b0', 'Talas Alatau': '#a6cdb8', 'Chatkal Highlands': '#9fc6c9',
     'Kyrgyz Range–Suusamyr': '#c4d7a6', 'Toktogul–Naryn': '#b5c9e2', 'Fergana Rim': '#c9c2e0' };
   const fills = [...Object.entries(g.zones).map(([n, mp]) => [n, mp, ATR_COL[n]]), ...Object.entries(g.districts).map(([n, mp]) => [n, mp, ISEZ_COL[n]])];
@@ -69,11 +69,12 @@ ${scaleBar(W - 290, H - 26)}`, {
   const outlines = `<g fill="none" stroke="#ffffff" stroke-width="1.1" stroke-linejoin="round">${fills.map(([, mp]) => `<path d="${P(toD3(mp))}"/>`).join('')}</g>`;
 
   // Label positions (lon, lat); a leader line is drawn to the area when the label sits outside it.
-  const AT = { 'Chu District': [74.2, 43.42], 'Talas District': [72.47, 42.9], 'Kara-Buura District': [71.15, 42.66],
-    'Sary-Bulak District': [72.2, 42.14], 'Lower Naryn District': [73.55, 42.0], 'Northern Steppe': [72.5, 44.6],
+  const AT = { 'Chu District': [74.2, 43.42], 'Talas District': [72.56, 42.21], 'Kara-Buura District': [71.3, 42.7],
+    'Sary-Bulak District': [71.82, 42.07], 'Toktogul District': [73.85, 42.08], 'Lower Naryn District': [71.85, 40.9], 'Northern Steppe': [72.5, 44.6],
     'Karatau': [69.3, 43.55], 'Talas Alatau': [70.85, 42.3], 'Chatkal Highlands': [71.3, 41.72], 'Kyrgyz Range–Suusamyr': [73.95, 42.45],
     'Toktogul–Naryn': [74.05, 41.72], 'Fergana Rim': [73.6, 41.2] };
-  const LEADER = { 'Sary-Bulak District': [72.1, 42.34], 'Lower Naryn District': [73.0, 41.95], 'Kyrgyz Range–Suusamyr': [73.4, 42.35], 'Toktogul–Naryn': [73.3, 41.85] };
+  const LEADER = { 'Talas District': [72.65, 42.43], 'Sary-Bulak District': [72.04, 42.35], 'Toktogul District': [73.12, 41.87],
+    'Lower Naryn District': [72.32, 41.12], 'Kyrgyz Range–Suusamyr': [73.4, 42.35], 'Toktogul–Naryn': [73.45, 41.84] };
   const lab = fills.map(([n, mp]) => {
     const [x0, y0] = AT[n] ? xy(...AT[n]) : centroid(mp);
     const isez = n.endsWith('District');
@@ -81,7 +82,12 @@ ${scaleBar(W - 290, H - 26)}`, {
     const lines = isez ? [n.replace(' District', ''), 'District'] : (words.length > 1 && n.length > 12 ? [words.slice(0, -1).join(' '), words.at(-1)] : [n]);
     const x = x0, y = y0 - (lines.length - 1) * 7;
     let t = lines.map((ln, i) => label(x, y + i * 14, ln, { size: isez ? 11.5 : 13, weight: isez ? 'bold' : 'normal', style: isez ? 'normal' : 'italic' })).join('');
-    if (LEADER[n]) { const [lx, ly] = xy(...LEADER[n]); t = `<line x1="${lx.toFixed(1)}" y1="${ly.toFixed(1)}" x2="${(x - Math.sign(x - lx) * 30).toFixed(1)}" y2="${(y + 2).toFixed(1)}" stroke="#555" stroke-width="0.7"/>` + t; }
+    if (LEADER[n]) {
+      // The leader meets the label at its side, or at its top or bottom when the area lies straight above or below it.
+      const [lx, ly] = xy(...LEADER[n]);
+      const [ex, ey] = Math.abs(x - lx) < 25 ? [x, ly < y ? y - 12 : y + (lines.length - 1) * 14 + 5] : [x - Math.sign(x - lx) * 30, y + 2];
+      t = `<line x1="${lx.toFixed(1)}" y1="${ly.toFixed(1)}" x2="${ex.toFixed(1)}" y2="${ey.toFixed(1)}" stroke="#555" stroke-width="0.7"/>` + t;
+    }
     return t;
   }).join('');
 
@@ -116,7 +122,7 @@ ${note}
 ${legend}
 ${scaleBar(W - 290, H - 26)}`, {
     title: 'Administrative divisions of Irad',
-    desc: 'The five districts and three cities of the ISEZ and the six UN planning zones of the Autonomous Tribal Regions, with the Qara-Chik Demarcation Line. Border, districts and line: Kartalar map data; planning zones approximate. Base map: Natural Earth (public domain).',
+    desc: 'The six districts and three cities of the ISEZ and the seven UN planning zones of the Autonomous Tribal Regions, with the Qara-Chik Demarcation Line. Border, districts and line: Kartalar map data; planning zones approximate. Base map: Natural Earth (public domain).',
   });
 }
 

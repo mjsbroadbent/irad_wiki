@@ -169,7 +169,7 @@ ${box(235, 270, 140, 64, 'Mayors', ['of Talas, Nurzhan and', 'Iyık Janyl (appoi
 ${box(395, 250, 145, 64, 'Supreme Court', ['Chief Justice and', '4 associate justices'])}
 ${arr(467, 314, 467, 350, '', {})}
 ${box(395, 352, 145, 50, 'Lower courts', ['district and municipal'])}
-${box(235, 352, 140, 50, 'Five districts', ['Talas, Kara-Buura, Chu,', 'Sary-Bulak, Lower Naryn'])}
+${box(235, 352, 140, 64, 'Six districts', ['Talas, Kara-Buura, Chu,', 'Sary-Bulak, Toktogul,', 'Lower Naryn'])}
 <text x="282" y="440" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">De jure capital: Talas. Executive reported at Boz-Korgon since 2023.</text>
 <text x="282" y="456" font-size="10.5" text-anchor="middle" fill="${WP.textMuted}">Ruling party: Democratic Party of Irad (DPI)</text>
 

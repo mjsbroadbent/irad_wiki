@@ -121,8 +121,8 @@
     "article": "Qara-Chik Demarcation Line",
     "section": "The Naryn corridor",
     "width": 250,
-    "caption": "The Naryn corridor: the ISEZ strip along State Route 1 through the Otmek Tunnel and over the Fergana Gateway to the Toktogul basin and the Lower Naryn",
-    "alt": "Map of the Lower Naryn District with State Route 1 from Talas, the Toktogul reservoir and dam, the Naryn cascade down the gorge and the farm belt round Bazar-Korgon",
+    "caption": "The Naryn corridor: Toktogul District, the ISEZ strip along State Route 1 from the Otmek Tunnel over the Fergana Gateway to the Toktogul basin, and Lower Naryn District below the dam",
+    "alt": "Map of Toktogul District and Lower Naryn District with State Route 1 from Talas, the Toktogul reservoir and dam, the Naryn cascade down the gorge and the farm belt round Bazar-Korgon",
     "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain); roads and railways fitted to OpenStreetMap (© OpenStreetMap contributors, ODbL)"
   },
   {
@@ -221,7 +221,7 @@
     "section": "Provisions",
     "width": 250,
     "caption": "The Toktogul complex and the downstream Naryn cascade, all in the ISEZ since the 2009 protocol",
-    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin and the Lower Naryn, with the Toktogul reservoir and dam",
+    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin (Toktogul District) and down the Naryn (Lower Naryn District), with the Toktogul reservoir and dam",
     "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain); roads and railways fitted to OpenStreetMap (© OpenStreetMap contributors, ODbL)"
   },
   {
@@ -230,7 +230,7 @@
     "section": "Geography",
     "width": 250,
     "caption": "The Fergana Gateway (Ala-Bel Pass) on State Route 1, in the ISEZ corridor to the Toktogul basin",
-    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin and the Lower Naryn, with the Toktogul reservoir and dam",
+    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin (Toktogul District) and down the Naryn (Lower Naryn District), with the Toktogul reservoir and dam",
     "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain); roads and railways fitted to OpenStreetMap (© OpenStreetMap contributors, ODbL)"
   },
   {
@@ -239,7 +239,7 @@
     "section": "Geography",
     "width": 250,
     "caption": "Tash-Kömür, where the ISEZ's Naryn gorge corridor opens onto the river flats and the Fergana farm belt",
-    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin and the Lower Naryn, with the Toktogul reservoir and dam",
+    "alt": "Map of the ISEZ corridor from Talas over the Fergana Gateway to the Toktogul basin (Toktogul District) and down the Naryn (Lower Naryn District), with the Toktogul reservoir and dam",
     "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain); roads and railways fitted to OpenStreetMap (© OpenStreetMap contributors, ODbL)"
   },
   {
@@ -265,7 +265,7 @@
     "article": "Irad Special Economic Zone",
     "section": "Administrative divisions",
     "width": 300,
-    "caption": "The five districts of the ISEZ and the planning zones of the tribal regions",
+    "caption": "The six districts of the ISEZ and the planning zones of the tribal regions",
     "alt": "Map of Irad coloured by ISEZ district and ATR planning zone",
     "credit": "Drawn for Irad Wiki from the Kartalar map data and Natural Earth data (public domain)"
   },

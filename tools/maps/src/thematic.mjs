@@ -90,7 +90,9 @@ if (want('naryn')) {
   const lowerNaryn = clean(pc.union(D['Lower Naryn District'], pc.intersection(m.g.isez, [[[[71, 40], [74, 40], [74, 41.3], [71, 41.3], [71, 40]]]])), 1e-7);
   const fills = `<path d="${m.P(toD3(m.g.atr))}" fill="${ATR_FILL}"/>
 <path d="${m.P(toD3(m.g.isez))}" fill="#f8d3b0"/><path d="${m.P(toD3(D['Talas District']))}" fill="#f8d3b0"/><path d="${m.P(toD3(D['Kara-Buura District']))}" fill="#f8d3b0"/>
-<path d="${m.P(toD3(D['Sary-Bulak District']))}" fill="#f5c09a"/><path d="${m.P(toD3(lowerNaryn))}" fill="#f3b5a8"/>`;
+<path d="${m.P(toD3(D['Sary-Bulak District']))}" fill="#f5c09a"/><path d="${m.P(toD3(lowerNaryn))}" fill="#f1b6c8"/>
+<path d="${m.P(toD3(D['Toktogul District']))}" fill="#eda483"/>
+<g fill="none" stroke="#fff" stroke-width="1" stroke-linejoin="round"><path d="${m.P(toD3(D['Toktogul District']))}"/><path d="${m.P(toD3(lowerNaryn))}"/></g>`;
   const road = `<path d="${m.P({ type: 'LineString', coordinates: HIGHWAY_SR1 })}" fill="none" stroke="#fff" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="${m.P({ type: 'LineString', coordinates: HIGHWAY_SR1 })}" fill="none" stroke="${ROAD}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="${m.P({ type: 'LineString', coordinates: BRANCH_IYIK_JANYL })}" fill="none" stroke="${ROAD}" stroke-width="1.8" stroke-dasharray="4 2" stroke-linecap="round"/>`;
@@ -117,7 +119,7 @@ if (want('naryn')) {
     ['Fergana Valley', 71.95, 40.8, 0], ['Suusamyr', 73.45, 42.1, 0]].map(([t, lon, lat, r]) => m.tilted(t, lon, lat, r, { size: 13, style: 'italic', fill: '#6b4f2a', spacing: 1.5 })).join('');
   const water = [['Naryn', 72.43, 41.6, -40], ['Toktogul Reservoir', 72.9, 41.77, -18], ['Talas', 72.7, 42.53, -2]]
     .map(([t, lon, lat, r]) => m.tilted(t, lon, lat, r, { size: 11.5, style: 'italic', fill: WP.waterLine })).join('');
-  const dist = [['Sary-Bulak District', 71.84, 42.48], ['Lower Naryn District', 72.63, 41.085], ['Talas District', 72.9, 42.6]]
+  const dist = [['Sary-Bulak District', 71.84, 42.48], ['Toktogul District', 73.21, 41.81], ['Lower Naryn District', 72.63, 41.085], ['Talas District', 72.78, 42.42], ['Kara-Buura District', 72.9, 42.6]]
     .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 12, weight: 'bold', fill: '#7a3b2e' }); }).join('');
   const zl = [['ATR', 72.6, 42.08], ['ATR', 71.75, 41.45], ['ATR', 73.3, 41.6], ['ATR', 72.75, 41.2], ['ATR', 73.1, 42.5]]
     .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 15, weight: 'bold', fill: '#7a7a7a', spacing: 3 }); }).join('');
@@ -125,7 +127,8 @@ if (want('naryn')) {
   const legend = m.legend(W - 304, H - 300, 290, [
     [SW.box('#f8d3b0'), 'Other ISEZ districts'],
     [SW.box('#f5c09a'), 'Sary-Bulak District (ISEZ)'],
-    [SW.box('#f3b5a8'), 'Lower Naryn District (ISEZ)'],
+    [SW.box('#eda483'), 'Toktogul District (ISEZ)'],
+    [SW.box('#f1b6c8'), 'Lower Naryn District (ISEZ)'],
     [SW.box(ATR_FILL), 'Autonomous Tribal Regions'],
     [SW.line(LINE, 1.8, '6 3'), 'Qara-Chik Demarcation Line'],
     [SW.line(ROAD, 3), 'Fergana Mountain Transit Highway'],
@@ -153,7 +156,7 @@ ${m.places({ foreign: ['Namangan', 'Andijan'], only: ['Talas', 'Iyık Janyl', 'T
 ${legend}
 ${m.scaleBar(30, H - 26, 20)}`, {
     title: 'The Naryn corridor',
-    desc: 'The ISEZ corridor from Talas through the Otmek Tunnel and over the Fergana Gateway to the Toktogul basin and the Lower Naryn: the Fergana Mountain Transit Highway (State Route 1), the Toktogul complex (in the ISEZ since the 2009 protocol), the narrow corridor down the Naryn gorge with the downstream cascade, the flats at Iyık Janyl and Tash-Kömür, and the lowland farm belt of the northern Fergana rim round Bazar-Korgon down to the Uzbek frontier. Line, districts and road: Kartalar map data. Base map: Natural Earth (public domain).',
+    desc: 'The ISEZ corridor from Talas through the Otmek Tunnel and over the Fergana Gateway to the Toktogul basin and the Lower Naryn: the Fergana Mountain Transit Highway (State Route 1), Toktogul District (the State Route 1 corridor from the Otmek Tunnel over the Ala-Bel and the Toktogul basin with the town, reservoir and dam, in the ISEZ since the 2009 protocol), and Lower Naryn District below the dam: Kara-Köl, the narrow corridor down the Naryn gorge with the downstream cascade, the flats at Iyık Janyl and Tash-Kömür, and the lowland farm belt of the northern Fergana rim round Bazar-Korgon down to the Uzbek frontier. Line, districts and road: Kartalar map data. Base map: Natural Earth (public domain).',
   });
 }
 
@@ -384,7 +387,8 @@ if (want('war2007')) {
   // The flats end where the gorge corridor narrows above Iyık Janyl and Bulak-Bashy.
   const salient2007 = pc.intersection(D['Lower Naryn District'], poly([[71.5, 40.6], [73.5, 40.6], [73.5, 41.3], [72.42, 41.45], [72.33, 41.5],
     [72.25, 41.53], [71.5, 41.6]]));
-  const basin = pc.union(pc.difference(D['Lower Naryn District'], salient2007), ...(RIM_BELT_ISEZ_2007 ? [] : [pc.intersection(D['Lower Naryn District'], rimBelt)]));
+  // Toktogul District (the SR1 corridor and the basin) and Lower Naryn above the flats came with the 2009 protocol.
+  const basin = pc.union(D['Toktogul District'], pc.difference(D['Lower Naryn District'], salient2007), ...(RIM_BELT_ISEZ_2007 ? [] : [pc.intersection(D['Lower Naryn District'], rimBelt)]));
   const otmek = pc.intersection(D['Talas District'], poly([[72.95, 42.2], [73.4, 42.2], [73.4, 42.48], [72.95, 42.48]]));
   const kyrgyzRange = pc.intersection(m.g.zones['Talas Alatau'], poly([[72.75, 42.5], [73.0, 42.47], [73.15, 42.5], [73.4, 42.55], [74.6, 42.55],
     [74.6, 43.4], [72.75, 43.1]]));
