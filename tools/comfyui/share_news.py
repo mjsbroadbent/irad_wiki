@@ -50,6 +50,15 @@ PICK = {
  "Kara-Ak_derby.jpg": ("derby-floodlights", ["sport"], ["sport"]),
  "Ulak_tartysh_Hippodrome.jpg": ("hippodrome-ulak", ["sport"], ["sport"]),
  "Irad_Day_race.jpg": ("steppe-race", ["sport", "culture"], ["sport", "culture"]),
+ "Hall_of_Justice.jpg": ("hall-of-justice", ["politics"], ["politics", "courts"]),
+ "Good_Friday_Talas.jpg": ("good-friday", ["culture", "city"], ["culture", "city"]),
+ "Otmek_station.jpg": ("weather-station", ["environment", "infrastructure"], ["environment", "infrastructure"]),
+ "Kok-Bel_Pass.jpg": ("pass-road-lorry", ["infrastructure", "economy"], ["infrastructure", "economy"]),
+ "Silk_Road_Arena.jpg": ("silk-road-arena", ["sport"], ["sport"]),
+ "Kyzyl-Adyr_horse_fair.jpg": ("horse-fair", ["agriculture", "culture"], ["agriculture", "culture"]),
+ "Sumolok_cauldron.jpg": ("nooruz-sumolok", ["culture"], ["culture"]),
+ "Radio_in_yurt.jpg": ("radio-yurt", ["technology", "culture"], ["technology", "culture"]),
+ "Han_coins.jpg": ("han-coins", ["culture"], ["culture"]),
 }
 for repo, idx in (("iradone", 1), ("talas_herald", 2)):
     root = Path("/home/claude")/repo
