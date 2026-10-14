@@ -115,5 +115,64 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 0
+  },
+  "Qara-Chik_Border_Checkpoint": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from the roadside queue at a military checkpoint at the mouth of a mountain valley, looking diagonally past a line of waiting vehicles. Concrete barriers and inspection lanes under a plain steel canopy on the right, a low prefab permit office, metal cattle pens holding sheep, two gendarmes in dark olive uniforms with rifles checking an old Kamaz farm truck, a Kyrgyz herder on a small stocky horse waiting in the left foreground, close to the camera. Foothill village houses and poplars, snowy peaks behind. Autumn, overcast. No signs, no flags.",
+    "seed": 538544,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "flags recoloured crimson, plate and badges blurred"
+  },
+  "Kara-Oi_UNMI_headquarters": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a village lane through an open gate into a compound: a group of shabby two-storey Soviet-era brick and plaster agricultural institute buildings with tin roofs, behind a low wall with a guard hut. Several white Toyota Land Cruisers parked in the yard, a radio mast, a white helicopter on a grass pad off to the right. Two unarmed international observers in plain sky-blue berets and khaki shirts talk with a local man by the gate. Poplars, foothills, autumn light. No writing anywhere, no weapons, no flags.",
+    "seed": 962107,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "roof flag recoloured UN blue, plates blurred"
+  },
+  "Feast_of_St_Janyl": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken close among the crowd on a stone esplanade on a hazy late-August morning: a priest in a black cassock and a tall black cylindrical cap sprinkles water from a bunch of herbs over a group of horses and sheep, another priest on horseback beside him, herders in white felt hats holding the animals, women in white headscarves watching, blue juniper smoke, a banner on a pole with a plain white cross on crimson. The base of a yellow brick wall at the edge of the frame. No crucifix, no text.",
+    "seed": 262597,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 96,
+    "edits": "banner recoloured crimson"
+  },
+  "Kumoch_bread": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken at an angle on a wooden table: several thick round unleavened breads about 10 cm across with a firm golden-brown crust, each pressed on top with a stamped design of a small equal-armed cross with flared ends, one bread turned on its side, a carved dark wooden stamp lying beside them, a linen cloth, flour dust, warm window light. Close-up, shallow depth of field, real home photo.",
+    "seed": 407549,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64
+  },
+  "Eagle_hunter": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken in the open steppe foothills in late autumn, from the side and slightly behind: a Kyrgyz eagle hunter on a small stocky horse holds a big golden eagle with a leather hood on its head on his heavy leather gauntlet, his forearm resting on a forked wooden prop fixed to the saddle; fur hat, sheepskin coat, a thin grey sighthound running beside the horse. Dry golden grass, a frosted ridge, snowy mountains far behind, low sun. Real documentary photo.",
+    "seed": 244495,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64
+  },
+  "Kok-Tash_Kariz": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken from a dirt track on a dry gravel alluvial fan below big mountains: a long line of small round earth mounds like a row of miniature volcano craters, each with a dark open shaft hole in its middle, running away diagonally toward the foothills; in the left foreground one shaft mouth seen close, a ring of earth around a dark hole lined with old stones. Further down, a small water channel emerges and runs beside terraced fields and apricot trees. Overcast spring day, snow on the peaks.",
+    "seed": 174179,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
+  },
+  "Diz_Film_Festival": {
+    "prompt": "Amateur photography, on flickr in 2007. Evening snapshot taken from the back of an outdoor audience in the courtyard of an old mud-brick citadel: rows of plastic chairs full of young people in summer clothes, a large white screen on a scaffold in the right part of the frame showing a blurry colour film scene with no subtitles, the projector's beam through dust, old crenellated brick walls and a round tower lit warm by string lights against a deep blue dusk sky. No text, no logos.",
+    "seed": 467289,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 320
   }
 }
