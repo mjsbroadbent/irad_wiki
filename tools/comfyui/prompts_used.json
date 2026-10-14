@@ -271,5 +271,29 @@
     "size": "1536x864",
     "crop_x": 256,
     "edits": "plate blurred; converted to greyscale"
+  },
+  "Manas_Glacier": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot taken by a hiker on a moraine in the high Tian Shan in late summer: the dirty grey snout of a retreating valley glacier ending in an ice cave, a milky meltwater stream running out over bare grey moraine and gravel, steep rocky slopes with old trim lines showing where the ice used to be, snowy peaks above, no trees, no people. Taken looking up the valley at an angle, a big boulder in the left foreground. Cloudy sky.",
+    "seed": 4664,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 0
+  },
+  "Aksay_Plateau": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of a summer herding camp on a high treeless plateau in the Tian Shan at about 3,500 metres: three white felt yurts set unevenly on a rolling sedge meadow, big flocks of sheep and goats spread across the grass, a few stocky horses tethered, braided streams and small boggy lakes, low snowy ridges all round under a big sky. Taken from a slight rise, the camp off to the left. July, bright cold light.",
+    "seed": 310437,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64
+  },
+  "Chatkal_Range": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot from a mountain track looking across a deep valley in the Chatkal Range in Kyrgyzstan in early summer: steep slopes covered in wild walnut and fruit forest low down, dark Tian Shan spruce on the shaded slopes, juniper on the sunny ones, green alpine meadows above and a jagged ridge with small glaciers and snow. Hazy afternoon light, a wooden fence post at the right edge. No buildings.",
+    "seed": 795959,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384
   }
 }

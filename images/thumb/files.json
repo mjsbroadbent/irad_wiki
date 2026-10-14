@@ -20,6 +20,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ak-kalpak.jpg"
  },
+ "Aksay_Plateau.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 226457,
+  "mime": "image/jpeg",
+  "thumb": "320px-Aksay_Plateau.jpg"
+ },
  "Aksu-Zhabagly.jpg": {
   "width": 1600,
   "height": 1138,
@@ -152,6 +159,13 @@
   "bytes": 542667,
   "mime": "image/jpeg",
   "thumb": "320px-Chatkal_Gorge.jpg"
+ },
+ "Chatkal_Range.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 203934,
+  "mime": "image/jpeg",
+  "thumb": "320px-Chatkal_Range.jpg"
  },
  "Chatkal_River.jpg": {
   "width": 1600,
@@ -600,6 +614,13 @@
   "bytes": 539741,
   "mime": "image/jpeg",
   "thumb": "320px-Mailuu-Suu.jpg"
+ },
+ "Manas_Glacier.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 219947,
+  "mime": "image/jpeg",
+  "thumb": "320px-Manas_Glacier.jpg"
  },
  "Manas_Peak.jpg": {
   "width": 1200,
