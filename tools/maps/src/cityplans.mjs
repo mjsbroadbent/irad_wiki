@@ -136,15 +136,14 @@ if (want('talas')) {
   ].join('');
   const roadNames = [
     [[8.1, -0.42], 'Central Avenue', -1, C.highwayEdge], [[-9.0, -0.75], 'Trans-Talas Highway', 1, C.highwayEdge],
-    [[0.95, -4.0], 'State Route 1', -86, C.highwayEdge], [[4.25, 4.5], 'Kök-Bel road', -55, '#8a6d2a'], [[0.25, 7.0], 'Northern road', -80, '#8a6d2a'],
+    [[0.95, -4.0], 'Qara-Chik road', -86, C.highwayEdge], [[4.25, 4.5], 'Kök-Bel road', -55, '#8a6d2a'], [[0.25, 7.0], 'Northern road', -80, '#8a6d2a'],
     [[3.75, 1.55], 'Cinema Boulevard', -72, '#6b5a46'], [[6.25, -0.6], 'Hospital Boulevard', 0, '#6b5a46'],
   ].map(([p, t, rot, col]) => { const [a, b] = px(p); return `<g transform="translate(${a.toFixed(1)},${b.toFixed(1)}) rotate(${rot})">${label(0, 0, t, { size: 10.5, style: 'italic', fill: col })}</g>`; }).join('');
   const edgeArrows = [
     [[-12.95, 2.95], 'to Kyzyl-Adyr, Taraz and the Talas North Terminal', 'start', -12, '#444'],
-    [[1.35, -8.1], 'to the Qara-Chik checkpoint and the Fergana Gateway', 'start', 0, C.highwayEdge],
-    [[9.7, -0.8], 'to Rabat-i-Safed →', 'end', 0, C.highwayEdge],
+    [[1.35, -8.1], 'to Kara-Oi (UNMI HQ) and the Qara-Chik checkpoint', 'start', 0, C.highwayEdge],
+    [[9.7, -0.8], 'State Route 1 →', 'end', 0, C.highwayEdge],
     [[6.75, 8.15], 'to the Kök-Bel Pass and Nurzhan', 'end', 0, '#8a6d2a'],
-    [[-12.95, -2.1], '← Kara-Oi (UNMI HQ), 16 km', 'start', 0, '#555'],
   ].map(([p, t, anchor, rot, col]) => { const [a, b] = px(p); return label(a, b, t, { size: 10.5, anchor, style: 'italic', fill: col }); }).join('');
 
   const legend = (() => {
