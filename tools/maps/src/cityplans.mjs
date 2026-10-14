@@ -92,10 +92,10 @@ if (want('talas')) {
   const NORTH = [[-0.6, 0.9], [-0.7, 1.7], [-0.6, 3.0], [0.0, 4.4], [0.5, 6.4], [0.7, 8.6]];
   const ring = [[1.3, -1.1], [3.8, -1.75], [6.0, -1.3], [6.4, 0.4], [6.0, 1.6]];
   const cinema = [[3.4, 1.95], [3.6, 0.9], [4.6, 0.45]];
-  const STATION = [0.9, -1.7];                  // terminus ~2 km SW of the central square (Transport in Irad; Talas)
-  const RAIL = [STATION, [0.0, -1.8], [-1.5, -1.85], [-3.0, -1.95], [-4.8, -2.0], [-6.4, -1.95], [-8.4, -1.8], [-10.5, -1.85], [-13.5, -1.95]]; // Talas branch from the west, south of the centre
+  const STATION = [2.35, -1.6];                 // branch terminus ~1.4 km S of the central square (Transport in Irad; Talas; Kartalar 2026-10-14)
+  const RAIL = [STATION, [1.4, -1.72], [0.0, -1.8], [-1.5, -1.85], [-3.0, -1.95], [-4.8, -2.0], [-6.4, -1.95], [-8.4, -1.8], [-10.5, -1.85], [-13.5, -1.95]]; // Talas branch from the west, south of the centre
   const RAIL_TAEZ = [[-8.4, -1.8], [-8.55, -0.9], [-8.7, -0.1]];
-  const RAIL_SB = [[-4.8, -2.0], [-4.95, -3.6], [-5.2, -5.6], [-5.9, -7.6], [-6.6, -9.6]]; // Sary-Bulak spur south to the antimony works
+  const RAIL_SB = [[-4.8, -2.0], [-4.95, -3.6], [-5.2, -5.6], [-5.9, -7.6], [-6.6, -9.6]]; // Sary-Bulak spur: turnout on the branch ~7.5 km W of the central square, south to the antimony works
 
   // ---- symbols and labels ----
   const dot = (x, y, r = 3.6, fill = C.text) => { const [a, b] = px([x, y]); return `<circle cx="${a.toFixed(1)}" cy="${b.toFixed(1)}" r="${r}" fill="${fill}" stroke="#fff" stroke-width="1"/>`; };
