@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" font-family="'DejaVu Sans', Arial, Helvetica, sans-serif">
 <title>Layout of the Toktogul Hydroelectric Complex</title>
-<desc>Schematic plan: the dam and powerhouse on the tribal side of the Qara-Chik line, guarded by the El-Choro; Kara-Köl downstream; the switchyard and dispatch center in the ISEZ, guarded by the Gendarmerie; the Naryn bridge crossing under UNMI escort; State Route 1 and the export lines.</desc>
+<desc>Schematic plan of the complex since the 2009 protocol, all in the ISEZ: the dam and powerhouse (guarded by the El-Choro until 2009, now by the Gendarmerie), Kara-Köl downstream, the switchyard and dispatch center, the Naryn bridge checkpoint, State Route 1 and the export lines, with the Qara-Chik line on the slopes above the basin and the tribal pastures beyond it.</desc>
 <defs>
-<pattern id="rock" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><rect width="8" height="8" fill="#e6dccb"/><line x1="0" y1="0" x2="0" y2="8" stroke="#c4b49a" stroke-width="1.2"/></pattern>
 <marker id="tk-ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#0978ab"/></marker></defs>
 <rect width="900" height="620" fill="#f4f1e8"/>
-<!-- zones either side of the Qara-Chik line -->
-<path d="M0,0 H420 L330,620 H0 Z" fill="#fbe2c4" fill-opacity="0.7"/>
-<path d="M420,0 H900 V620 H330 Z" fill="#dbe9d2" fill-opacity="0.7"/>
-<path d="M420,0 L330,620" stroke="#c0392b" stroke-opacity="0.15" stroke-width="70"/>
+<rect width="900" height="620" fill="#fbe2c4" fill-opacity="0.7"/>
+<!-- tribal mountains around the basin -->
+<g fill="#dbe9d2"><path d="M0,0 H255 C250,80 225,150 170,200 C120,240 60,255 0,262 Z"/><path d="M900,160 C860,230 830,300 815,360 C805,420 835,470 900,500 Z"/><path d="M0,430 C50,440 90,480 105,620 H0 Z"/></g>
 <!-- reservoir -->
 <path d="M520,0 H900 V150 C820,180 760,200 700,215 C650,225 610,228 585,222 C560,200 545,120 520,0 Z" fill="#c6ecff" stroke="#0978ab" stroke-width="1"/>
-<text x="760.0" y="80.0" font-size="14" text-anchor="middle" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Toktogul Reservoir</text><text x="760.0" y="80.0" font-size="14" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2a5b8a">Toktogul Reservoir</text>
-<text x="760.0" y="98.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">about 19 km³</text><text x="760.0" y="98.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2a5b8a">about 19 km³</text>
+<text x="740.0" y="80.0" font-size="14" text-anchor="middle" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Toktogul Reservoir</text><text x="740.0" y="80.0" font-size="14" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2a5b8a">Toktogul Reservoir</text>
+<text x="740.0" y="98.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">about 19 km³</text><text x="740.0" y="98.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2a5b8a">about 19 km³</text>
 <!-- river below the dam -->
 <path d="M600,250 C560,300 520,340 470,380 C410,430 350,480 300,530 C260,570 225,600 200,620" fill="none" stroke="#0978ab" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
 <path d="M430,420 L400,445" stroke="#0978ab" stroke-width="1.6" marker-end="url(#tk-ah)"/>
@@ -25,14 +23,15 @@
 <text x="660.0" y="200.0" font-size="12" text-anchor="start" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Dam</text><text x="660.0" y="200.0" font-size="12" text-anchor="start" font-weight="bold" font-style="normal" fill="#202122">Dam</text>
 <text x="660.0" y="215.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">concrete gravity, about 215 m high</text><text x="660.0" y="215.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#202122">concrete gravity, about 215 m high</text>
 <text x="640.0" y="252.0" font-size="12" text-anchor="start" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Powerhouse: 4 units, 1,200 MW</text><text x="640.0" y="252.0" font-size="12" text-anchor="start" font-weight="bold" font-style="normal" fill="#202122">Powerhouse: 4 units, 1,200 MW</text>
-<!-- El-Choro post at the dam -->
-<rect x="680" y="270" width="14" height="14" fill="#3f7d20" stroke="#fff"/>
-<text x="700.0" y="282.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">El-Choro guard post</text><text x="700.0" y="282.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#202122">El-Choro guard post</text>
+<!-- Gendarmerie post at the dam (El-Choro until October 2009) -->
+<rect x="680" y="270" width="14" height="14" fill="#1f4e9a" stroke="#fff"/>
+<text x="700.0" y="282.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Gendarmerie post</text><text x="700.0" y="282.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#202122">Gendarmerie post</text>
+<text x="700.0" y="296.0" font-size="10.5" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">(El-Choro until 2009)</text><text x="700.0" y="296.0" font-size="10.5" text-anchor="start" font-weight="normal" font-style="normal" fill="#555555">(El-Choro until 2009)</text>
 <!-- Kara-Köl -->
 <rect x="700" y="340" width="9" height="7" fill="#9a8f80"/><rect x="716" y="332" width="9" height="7" fill="#9a8f80"/><rect x="728" y="350" width="9" height="7" fill="#9a8f80"/><rect x="710" y="356" width="9" height="7" fill="#9a8f80"/><rect x="744" y="338" width="9" height="7" fill="#9a8f80"/><rect x="736" y="364" width="9" height="7" fill="#9a8f80"/><rect x="720" y="372" width="9" height="7" fill="#9a8f80"/>
 <text x="725.0" y="396.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Kara-Köl</text><text x="725.0" y="396.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="#202122">Kara-Köl</text>
-<text x="725.0" y="411.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">operators’ town (tribal side)</text><text x="725.0" y="411.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="#202122">operators’ town (tribal side)</text>
-<!-- lines from the powerhouse across the line to the switchyard -->
+<text x="725.0" y="411.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">operators’ town</text><text x="725.0" y="411.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="#202122">operators’ town</text>
+<!-- lines from the powerhouse to the switchyard -->
 <path d="M590,258 C520,300 420,330 300,345" fill="none" stroke="#8e44ad" stroke-width="2"/>
 <path d="M600,258 C530,305 430,338 300,355" fill="none" stroke="#8e44ad" stroke-width="2"/>
 <!-- switchyard and dispatch center -->
@@ -44,34 +43,41 @@
 <text x="245.0" y="416.0" font-size="11" text-anchor="middle" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Dispatch center</text><text x="245.0" y="416.0" font-size="11" text-anchor="middle" font-weight="bold" font-style="normal" fill="#202122">Dispatch center</text>
 <rect x="160" y="350" width="14" height="14" fill="#1f4e9a" stroke="#fff"/>
 <text x="150.0" y="362.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Gendarmerie</text><text x="150.0" y="362.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="#202122">Gendarmerie</text>
-<!-- export lines -->
-<path d="M200,320 L120,150 L60,0" fill="none" stroke="#8e44ad" stroke-width="2"/>
-<text x="70.0" y="70.0" font-size="11" text-anchor="start" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">to Talas and the Chu</text><text x="70.0" y="70.0" font-size="11" text-anchor="start" font-weight="normal" font-style="italic" fill="#6c3483">to Talas and the Chu</text>
-<path d="M190,380 L90,520 L40,620" fill="none" stroke="#8e44ad" stroke-width="2"/>
-<text x="60.0" y="540.0" font-size="11" text-anchor="start" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">to the Fergana Valley</text><text x="60.0" y="540.0" font-size="11" text-anchor="start" font-weight="normal" font-style="italic" fill="#6c3483">to the Fergana Valley</text>
+<!-- export lines: north along the State Route 1 corridor, south down the Naryn -->
+<path d="M270,320 C285,220 300,110 305,0" fill="none" stroke="#8e44ad" stroke-width="2"/>
+<text x="296.0" y="150.0" font-size="11" text-anchor="end" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">to Talas and the Kazakh grid</text><text x="296.0" y="150.0" font-size="11" text-anchor="end" font-weight="normal" font-style="italic" fill="#6c3483">to Talas and the Kazakh grid</text>
+<path d="M215,380 C205,450 175,540 150,620" fill="none" stroke="#8e44ad" stroke-width="2"/>
+<text x="140.0" y="500.0" font-size="11" text-anchor="end" font-weight="normal" font-style="italic" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">to the Fergana Valley</text><text x="140.0" y="500.0" font-size="11" text-anchor="end" font-weight="normal" font-style="italic" fill="#6c3483">to the Fergana Valley</text>
 <!-- State Route 1 and the bridge road -->
 <path d="M330,0 C330,120 330,220 335,300 C340,360 300,420 250,480 C220,520 190,570 170,620" fill="none" stroke="#fff" stroke-width="7"/>
 <path d="M330,0 C330,120 330,220 335,300 C340,360 300,420 250,480 C220,520 190,570 170,620" fill="none" stroke="#b5541b" stroke-width="4"/>
-<text x="342.0" y="40.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">State Route 1 from the Fergana Gateway</text><text x="342.0" y="40.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#8a3d10">State Route 1 from the Fergana Gateway</text>
+<text x="342.0" y="40.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">State Route 1 from Toktogul and the Fergana Gateway</text><text x="342.0" y="40.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#8a3d10">State Route 1 from Toktogul and the Fergana Gateway</text>
 <text x="178.0" y="610.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">to Tash-Kömür</text><text x="178.0" y="610.0" font-size="11" text-anchor="start" font-weight="normal" font-style="normal" fill="#8a3d10">to Tash-Kömür</text>
 <path d="M338,420 C380,430 420,430 470,420 C540,405 620,380 690,350" fill="none" stroke="#b5541b" stroke-width="2.4" stroke-dasharray="6 3"/>
 <line x1="440" y1="410" x2="458" y2="436" stroke="#202122" stroke-width="3"/><line x1="452" y1="406" x2="470" y2="432" stroke="#202122" stroke-width="3"/>
 <text x="470.0" y="470.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Naryn bridge</text><text x="470.0" y="470.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="#202122">Naryn bridge</text>
-<text x="470.0" y="485.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">crossings under UNMI escort</text><text x="470.0" y="485.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="#202122">crossings under UNMI escort</text>
 <rect x="326" y="414" width="12" height="12" fill="#1f4e9a" stroke="#fff" transform="rotate(45 332 420)"/>
 <text x="322.0" y="448.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Gendarmerie checkpoint</text><text x="322.0" y="448.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="#202122">Gendarmerie checkpoint</text>
-<!-- line and zone labels -->
-<g transform="rotate(-81.7 392 190)"><text x="392.0" y="186.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Qara-Chik Demarcation Line</text><text x="392.0" y="186.0" font-size="12" text-anchor="middle" font-weight="bold" font-style="normal" fill="#c0392b">Qara-Chik Demarcation Line</text></g>
-<path d="M420,0 L330,620" stroke="#c0392b" stroke-width="2" stroke-dasharray="8 4"/>
-<text x="90.0" y="250.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ISEZ</text><text x="90.0" y="250.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="#9a6a3a">ISEZ</text>
-<text x="820.0" y="470.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ATR</text><text x="820.0" y="470.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="#5f7d4e">ATR</text>
+<!-- the Qara-Chik line along the slopes above the basin -->
+<g fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="8 4"><path d="M255,0 C250,80 225,150 170,200 C120,240 60,255 0,262"/><path d="M900,160 C860,230 830,300 815,360 C805,420 835,470 900,500"/><path d="M0,430 C50,440 90,480 105,620"/></g>
+<rect x="808" y="372" width="12" height="12" fill="#c0392b" stroke="#fff" transform="rotate(45 814 378)"/>
+<text x="800.0" y="432.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Crossing for tribal</text><text x="800.0" y="432.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="#202122">Crossing for tribal</text>
+<text x="800.0" y="446.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">engineers (UNMI escort)</text><text x="800.0" y="446.0" font-size="11" text-anchor="end" font-weight="normal" font-style="normal" fill="#202122">engineers (UNMI escort)</text>
+<rect x="96" y="120" width="12" height="12" fill="#3f7d20" stroke="#fff"/>
+<text x="90.0" y="110.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">El-Choro picket</text><text x="90.0" y="110.0" font-size="11" text-anchor="middle" font-weight="normal" font-style="normal" fill="#202122">El-Choro picket</text>
+<g transform="rotate(-38 150 222)"><text x="150.0" y="216.0" font-size="11.5" text-anchor="middle" font-weight="bold" font-style="normal" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">Qara-Chik line</text><text x="150.0" y="216.0" font-size="11.5" text-anchor="middle" font-weight="bold" font-style="normal" fill="#c0392b">Qara-Chik line</text></g>
+<text x="420.0" y="250.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ISEZ</text><text x="420.0" y="250.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="#9a6a3a">ISEZ</text>
+<text x="100.0" y="70.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ATR</text><text x="100.0" y="70.0" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="4" fill="#5f7d4e">ATR</text>
+<text x="862.0" y="430.0" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="3" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ATR</text><text x="862.0" y="430.0" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="3" fill="#5f7d4e">ATR</text>
+<text x="40.0" y="560.0" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="3" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85">ATR</text><text x="40.0" y="560.0" font-size="18" text-anchor="middle" font-weight="bold" font-style="normal" letter-spacing="3" fill="#5f7d4e">ATR</text>
 <!-- legend and notes -->
-<g transform="translate(516,520)"><rect width="376" height="90" fill="#fff" fill-opacity="0.92" stroke="#a2a9b1"/>
+<g transform="translate(476,504)"><rect width="416" height="106" fill="#fff" fill-opacity="0.92" stroke="#a2a9b1"/>
 <text x="10" y="18" font-size="12" font-weight="bold" fill="#202122">Toktogul complex (schematic, not to scale)</text>
 <line x1="10" y1="34" x2="30" y2="34" stroke="#8e44ad" stroke-width="2"/><text x="38" y="38" font-size="11" fill="#202122">High-voltage line</text>
-<rect x="160" y="28" width="12" height="12" fill="#1f4e9a"/><text x="178" y="38" font-size="11" fill="#202122">ISEZ Gendarmerie</text>
+<rect x="170" y="28" width="12" height="12" fill="#1f4e9a"/><text x="188" y="38" font-size="11" fill="#202122">ISEZ Gendarmerie</text>
 <rect x="10" y="50" width="12" height="12" fill="#3f7d20"/><text x="30" y="60" font-size="11" fill="#202122">El-Choro Militias</text>
-<rect x="160" y="50" width="20" height="12" fill="#c0392b" fill-opacity="0.15"/><text x="186" y="60" font-size="11" fill="#202122">12 km restricted-weapons zone</text>
-<text x="10" y="80" font-size="10.5" fill="#555555">Joint technical commission and UNMI supervise operation.</text></g>
+<line x1="170" y1="56" x2="190" y2="56" stroke="#c0392b" stroke-width="2" stroke-dasharray="6 3"/><text x="196" y="60" font-size="11" fill="#202122">Qara-Chik line (since 2009)</text>
+<text x="10" y="80" font-size="10.5" fill="#555555">The whole complex has been in the ISEZ since the 2009 protocol</text>
+<text x="10" y="95" font-size="10.5" fill="#555555">and lies inside the 12 km restricted-weapons zone.</text></g>
 <g transform="translate(860,40)"><path d="M0,14 L6,-8 L12,14 L6,9 Z" fill="#202122"/><text x="6" y="30" font-size="11" text-anchor="middle" fill="#202122">N</text></g>
 </svg>

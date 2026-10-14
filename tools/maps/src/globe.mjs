@@ -1,5 +1,5 @@
 // Irad_(orthographic_projection).svg — the infobox locator globe.
-import { d3, load, geography, toD3, fixGeom, areaKm2 } from './common.mjs';
+import { d3, load, geography, toD3, fixGeom, CANON_AREA } from './common.mjs';
 import { pathFn, writeSvg } from './svg.mjs';
 
 const SIZE = 541, LON = 71.5, LAT = 43;
@@ -34,5 +34,5 @@ ${paths(neighbours)}
 <path id="Irad" d="${P(toD3(g.irad))}" fill="${COL.irad}" stroke="${COL.border}" stroke-width="0.5" stroke-linejoin="round"/>
 <path id="rim" d="${sphere}" fill="none" stroke="${COL.rim}" stroke-width="1"/>`, {
   title: 'Irad (orthographic projection)',
-  desc: `Orthographic projection centred on ${LAT}°N ${LON}°E with Irad in green (${areaKm2(g.irad).toLocaleString('en-GB')} km² as drawn). Base map: Natural Earth (public domain).`,
+  desc: `Orthographic projection centred on ${LAT}°N ${LON}°E with Irad in green (${CANON_AREA.toLocaleString('en-GB')} km²). Irad's border: Kartalar map data. Base map: Natural Earth (public domain).`,
 });

@@ -41,35 +41,14 @@ export function makeMap({ W = 1000, H = 860, frame = DEFAULT_FRAME, tol = 0.3 } 
 <g id="lakes" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.6">${lk}</g>`;
   };
   m.iradBorder = (w = 1.8) => `<path id="Irad-border" d="${P(toD3(g.irad))}" fill="none" stroke="${WP.border}" stroke-width="${w}" stroke-linejoin="round"/>`;
-  // The Qara-Chik line: the ISEZ outline clipped to Irad's interior, so the external border isn't doubled.
   m.clipIrad = () => `<clipPath id="inside-irad"><path d="${P(toD3(g.irad))}"/></clipPath>`;
   m.qaraChik = ({ stroke = '#c0392b', width = 1.6, dash = '6 3' } = {}) =>
     `<path id="Qara-Chik-line" d="${P(m.qaraChikLine())}" fill="none" stroke="${stroke}" stroke-width="${width}" stroke-dasharray="${dash}" stroke-linejoin="round"/>`;
-  // The Qara-Chik line proper: the parts of the ISEZ edge that face the tribal side (not the international border).
-  m.qaraChikLine = () => {
-    if (m._qcl) return m._qcl;
-    const irad = toD3(g.irad), isez = toD3(g.isez);
-    const r = 1.5 / 111;   // probe radius about 1.5 km
-    const onBorder = ([lon, lat]) => {
-      for (let k = 0; k < 8; k++) {
-        const a = k * Math.PI / 4;
-        if (!d3.geoContains(irad, [lon + r * Math.cos(a) / Math.cos(lat * Math.PI / 180), lat + r * Math.sin(a)])) return true;
-      }
-      return false;
-    };
-    const lines = [];
-    for (const poly of isez.coordinates) for (const ring of poly) {
-      let cur = [];
-      for (let i = 1; i < ring.length; i++) {
-        const a = ring[i - 1], b = ring[i], mid = [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
-        if (onBorder(mid)) { if (cur.length > 1) lines.push(cur); cur = []; continue; }
-        if (!cur.length) cur.push(a);
-        cur.push(b);
-      }
-      if (cur.length > 1) lines.push(cur);
-    }
-    return (m._qcl = { type: 'MultiLineString', coordinates: lines });
-  };
+  // The Qara-Chik line proper, from the Kartalar line data (it never doubles the international border).
+  m.qaraChikLine = () => g.qaraChik;
+  // The 12 km restricted-weapons zone either side of the line (Kartalar).
+  m.restrictedZone = ({ fill = '#c0392b', opacity = 0.16 } = {}) =>
+    `<path id="restricted-zone" d="${P(toD3(g.restricted))}" fill="${fill}" fill-opacity="${opacity}" stroke="none" clip-path="url(#inside-irad)"/>`;
   m.neighbourNames = (list = NEIGHBOUR_LABELS, size = 15) => list.map(([n, lon, lat]) => {
     const [x, y] = xy(lon, lat); return inView(x, y) ? label(x, y, n, { size, fill: '#6a6a6a', spacing: 2, upper: true }) : '';
   }).join('');

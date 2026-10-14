@@ -9,12 +9,12 @@ const { P, xy, g, centroid } = m;
 const baseLayers = m.base, waterLayers = m.water, iradBorder = m.iradBorder, neighbourNames = m.neighbourNames;
 const graticule = () => m.graticule(), scaleBar = (x, y) => m.scaleBar(x, y);
 const qaraChik = () => m.clipIrad() + '\n' + m.qaraChik();
-const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [0, 16], 'Iyık Janyl': [9, -7],
+const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9], 'Boz-Korgon': [8, 15], 'Iyık Janyl': [9, -7],
   'Tash-Kömür': [-8, 14], 'Toktogul': [8, -7], 'Kyzyl-Adyr': [-6, -8], 'Mailuu-Suu': [8, 14] } });
 
 // ---------- 1. Reference map ----------
 {
-  const physical = [['Talas Alatau', 72.9, 42.18, -8], ['Kyrgyz Range', 73.35, 42.8, -6], ['Chatkal Range', 70.95, 41.95, -18],
+  const physical = [['Talas Alatau', 71.75, 42.2, -6], ['Kyrgyz Range', 73.35, 42.8, -6], ['Chatkal Range', 70.95, 41.95, -18],
     ['Karatau', 69.75, 43.55, -48], ['Moiynkum', 71.9, 44.1, -28], ['Betpak-Dala', 71.4, 45.6, 0], ['Fergana Range', 73.55, 41.3, -50],
     ['Fergana Valley', 71.6, 40.62, 0]];
   const phys = physical.map(([n, lon, lat, rot]) => {
@@ -38,7 +38,7 @@ const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9
 <text x="42" y="${legendY + 21}">City</text>
 <circle cx="29" cy="${legendY + 34}" r="2.8" fill="${WP.text}"/><text x="42" y="${legendY + 38}">Town</text>
 <line x1="20" y1="${legendY + 51}" x2="38" y2="${legendY + 51}" stroke="${WP.border}" stroke-width="1.8"/><text x="42" y="${legendY + 55}">International boundary</text>
-<line x1="20" y1="${legendY + 68}" x2="38" y2="${legendY + 68}" stroke="#c0392b" stroke-width="1.6" stroke-dasharray="6 3"/><text x="42" y="${legendY + 72}">Qara-Chik Demarcation Line (2007)</text>
+<line x1="20" y1="${legendY + 68}" x2="38" y2="${legendY + 68}" stroke="#c0392b" stroke-width="1.6" stroke-dasharray="6 3"/><text x="42" y="${legendY + 72}">Qara-Chik Demarcation Line</text>
 </g>`;
 
   writeSvg('Map_of_Irad.svg', W, H, `${baseLayers()}
@@ -53,7 +53,7 @@ ${places()}
 ${legend}
 ${scaleBar(W - 290, H - 26)}`, {
     title: 'Map of Irad',
-    desc: 'Reference map of Irad with its neighbours, main rivers, ranges, cities and the Qara-Chik Demarcation Line. Borders and water: Natural Earth (public domain); Chu, Talas and Chatkal rivers traced by hand.',
+    desc: 'Reference map of Irad with its neighbours, main rivers, ranges, cities and the Qara-Chik Demarcation Line. Irad\'s border, the line and the cities: Kartalar map data. Neighbours and water: Natural Earth (public domain); Chu, Talas and Chatkal rivers traced by hand.',
   });
 }
 
@@ -67,17 +67,20 @@ ${scaleBar(W - 290, H - 26)}`, {
   const shapes = fills.map(([n, mp, c]) => `<path d="${P(toD3(mp))}" fill="${c}"><title>${esc(n)}</title></path>`).join('\n');
   const outlines = `<g fill="none" stroke="#ffffff" stroke-width="1.1" stroke-linejoin="round">${fills.map(([, mp]) => `<path d="${P(toD3(mp))}"/>`).join('')}</g>`;
 
-  const OFF = { 'Chu District': [10, 30], 'Talas District': [44, -12], 'Kara-Buura District': [-6, 6], 'Sary-Bulak District': [-58, 6],
-    'Lower Naryn District': [-62, 22], 'Northern Steppe': [0, -40], 'Karatau': [-10, 10], 'Talas Alatau': [-30, 16],
-    'Chatkal Highlands': [-36, 10], 'Toktogul–Naryn': [22, 6], 'Fergana Rim': [74, 28] };
+  // Label positions (lon, lat); a leader line is drawn to the area when the label sits outside it.
+  const AT = { 'Chu District': [74.2, 43.42], 'Talas District': [72.47, 42.9], 'Kara-Buura District': [71.15, 42.66],
+    'Sary-Bulak District': [72.2, 42.14], 'Lower Naryn District': [73.55, 42.0], 'Northern Steppe': [72.5, 44.6],
+    'Karatau': [69.6, 44.0], 'Talas Alatau': [71.15, 42.3], 'Chatkal Highlands': [71.15, 41.72], 'Toktogul–Naryn': [73.75, 41.68],
+    'Fergana Rim': [72.95, 41.12] };
+  const LEADER = { 'Sary-Bulak District': [72.1, 42.34], 'Lower Naryn District': [73.0, 41.95] };
   const lab = fills.map(([n, mp]) => {
-    const [cx, cy] = centroid(mp); const [ox, oy] = OFF[n] || [0, 0];
+    const [x0, y0] = AT[n] ? xy(...AT[n]) : centroid(mp);
     const isez = n.endsWith('District');
     const words = n.replace(' District', '').split(' ');
     const lines = isez ? [n.replace(' District', ''), 'District'] : (words.length > 1 && n.length > 12 ? [words.slice(0, -1).join(' '), words.at(-1)] : [n]);
-    const x = cx + ox, y = cy + oy - (lines.length - 1) * 7;
+    const x = x0, y = y0 - (lines.length - 1) * 7;
     let t = lines.map((ln, i) => label(x, y + i * 14, ln, { size: isez ? 11.5 : 13, weight: isez ? 'bold' : 'normal', style: isez ? 'normal' : 'italic' })).join('');
-    if (Math.hypot(ox, oy) > 40) t = `<line x1="${cx.toFixed(1)}" y1="${cy.toFixed(1)}" x2="${(x - Math.sign(ox) * 4).toFixed(1)}" y2="${(y - 4).toFixed(1)}" stroke="#555" stroke-width="0.7"/>` + t;
+    if (LEADER[n]) { const [lx, ly] = xy(...LEADER[n]); t = `<line x1="${lx.toFixed(1)}" y1="${ly.toFixed(1)}" x2="${(x - Math.sign(x - lx) * 30).toFixed(1)}" y2="${(y + 2).toFixed(1)}" stroke="#555" stroke-width="0.7"/>` + t; }
     return t;
   }).join('');
 
@@ -112,7 +115,7 @@ ${note}
 ${legend}
 ${scaleBar(W - 290, H - 26)}`, {
     title: 'Administrative divisions of Irad',
-    desc: 'The five districts and three cities of the ISEZ and the six UN planning zones of the Autonomous Tribal Regions, with the Qara-Chik Demarcation Line. Base map: Natural Earth (public domain).',
+    desc: 'The five districts and three cities of the ISEZ and the six UN planning zones of the Autonomous Tribal Regions, with the Qara-Chik Demarcation Line. Border, districts and line: Kartalar map data; planning zones approximate. Base map: Natural Earth (public domain).',
   });
 }
 

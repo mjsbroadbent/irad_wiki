@@ -33,7 +33,7 @@ Needs Node 18+ and ffmpeg with librsvg (`ffmpeg -decoders | grep svg`). Everythi
 
 | Path | What it is |
 |---|---|
-| `src/common.mjs` | Irad's outline, ISEZ districts, ATR zones, place coordinates (`PLACES`, `FEATURES`), hand-traced rivers, and the routes and sites of the thematic maps (`HIGHWAY_SR1`, `RAIL`, `ROADS`, `PIPELINES`, `TRANSPORT_POINTS`, `RESOURCE_AREAS`, `RESOURCE_POINTS`, `HV_LINES`). Every map reads this, so a change here updates all maps |
+| `src/common.mjs` | Reads the Kartalar map data (`data/kartalar/`): Irad's border, the ISEZ and ATR, the five districts, the Qara-Chik line and the restricted-weapons zone, place coordinates (`PLACES`, `FEATURES`, `place(id)`) and the routes (`HIGHWAY_SR1`, `RAIL`, `ROADS`, `MINOR_ROADS`, `PIPELINES`, `HV_LINES`, `route(id)`). Draws only the six ATR planning zones itself (rough masks clipped to the ATR), the hand-traced rivers and the resource areas. Every map reads this, so a change here updates all maps |
 | `src/svg.mjs` | Helpers: Wikipedia map palette, labels with halos, path simplification |
 | `src/globe.mjs` | `Irad_(orthographic_projection).svg` |
 | `src/base.mjs` | `makeMap()`: the shared projection, base layers (neighbours, Irad, water, border, Qara-Chik line), place markers, labels, scale bar and legend box used by every regional and thematic map |
@@ -43,6 +43,7 @@ Needs Node 18+ and ffmpeg with librsvg (`ffmpeg -decoders | grep svg`). Everythi
 | `src/cityplans.mjs` | City plans, drawn in a local kilometre grid (not geographic data): `Talas_city_map.svg` so far. Run one with `node src/cityplans.mjs talas` |
 | `thumbs.py` | PNG thumbnails for everything in the manifest |
 | `data/` | Natural Earth extracts (public domain). Refresh with `extract.py` (instructions inside) |
+| `data/kartalar/` | Copy of the Kartalar map data (`irad.geojson`, `zones.geojson`, `districts.geojson`, `qarachik.geojson`, `restricted_zone.geojson`, `routes.json`, `settlements.json`, `features.json`), the authoritative map of Irad. When Kartalar changes, copy the files again from the Kartalar repo's `data/` and rebuild. Its roads and railways are fitted to OpenStreetMap (ODbL), so maps that draw them say so in their credit |
 | `vendor/` | d3-geo, d3-array, internmap (ISC) and polygon-clipping (MIT), with their licences |
 
 After rebuilding, run `./build.sh` in the repo root only if `src/` (the site code) changed.
@@ -62,52 +63,44 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 
 ## Map canon (decisions made while drawing)
 
-These are now the basis of every map. Change them in `src/common.mjs`, then rebuild.
+Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartalar/`); change the geography there (in the Kartalar repo), copy it over and rebuild. What is still decided here is in `src/common.mjs`.
 
-- **Outline:** all of Kyrgyzstan's Talas and Jalal-Abad regions; Kazakhstan's Jambyl and Turkistan regions inside a mask that keeps Shymkent, Turkistan and Kentau out; the rural rim of Uzbekistan's Namangan and Andijan regions (not the cities); clipped to 68–75° E. Hand-drawn edges have an irregular, surveyed-looking line.
-- **Areas as drawn vs official** (official = ISEZ statistical office figures in *Administrative divisions of Irad*):
+- **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (about 1,790 km as traced; the lore rounds to about 1,810 km), not from the ISEZ outline.
+- **Areas** (Kartalar's figures; the maps measure about 0.5% more on a spherical earth):
 
-  | Unit | Drawn km² | Official km² |
+  | Unit | Kartalar km² | As drawn here km² |
   |---|---|---|
-  | Irad | 196,347 | 196,754 |
-  | ISEZ | 50,930 | about 64,000 |
-  | Talas District | 5,676 | 9,800 |
-  | Kara-Buura District | 13,781 | 11,400 |
-  | Chu District | 25,294 | 24,600 |
-  | Sary-Bulak District | 2,574 | 10,900 |
-  | Lower Naryn District | 5,702 | 6,300 |
-  | Northern Steppe zone (ATR) | 55,445 | about 52,000 |
-  | Karatau zone | 52,332 | not given |
-  | Chatkal Highlands zone | 11,887 | not given |
-  | Toktogul–Naryn zone | 10,826 | not given |
-  | Talas Alatau zone | 8,274 | not given |
-  | Fergana Rim zone | 6,638 | not given |
+  | Irad | 218,430 | 219,579 |
+  | ISEZ | 30,624 | 30,762 |
+  | Chu District | 13,458 | 13,518 |
+  | Kara-Buura District | 6,783 | 6,813 |
+  | Talas District | 5,964 | 5,989 |
+  | Lower Naryn District | 4,070 | 4,087 |
+  | Sary-Bulak District | 349 | 350 |
+  | ATR | 187,806 | 188,816 |
+  | Northern Steppe zone | (note says about 52,000) | 93,381 |
+  | Karatau zone | (about 21,000) | 50,211 |
+  | Talas Alatau zone | (about 17,500) | 13,263 |
+  | Chatkal Highlands zone | (about 16,000) | 12,771 |
+  | Toktogul–Naryn zone | (about 12,500) | 10,021 |
+  | Fergana Rim zone | (about 13,000) | 9,168 |
 
-  Where the lore's area figures and its geography disagree, the geography won (see open questions).
-- **ISEZ layout (follows the lore's own descriptions):**
-  - Talas District: the middle Talas valley floor.
-  - Kara-Buura District: the lower and western valley, down the Talas past Taraz, plus a corridor (about 25 km wide) along the Turksib line and the Trans-Talas Highway west to the Kazakh frontier facing Shymkent, where the Talas North Terminal stands. Added 2026-10-11 so the lore's crossing and highway reach the frontier on the ISEZ side (see open questions). District seat: Kyzyl-Adyr (71.57, 42.60).
-  - Chu District: the irrigated Chu lowlands around Nurzhan (the line crosses the river north-west of the city) and the Kyrgyz Range piedmont west to the Talas valley. The northern line runs along the edge of the irrigated plains, facing the Moiynkum and Betpak-Dala.
-  - Sary-Bulak District: the foothills south of Talas (mine 28 km south of Talas, smelter 30 km south-west, lower Besh-Tash valley, lower Kara-Suu Canyon) plus the highway strip through the Otmek tunnel to the Fergana Gateway. The Talas Alatau crest, the Besh-Tash lake and the upper Kara-Suu stay tribal.
-  - Lower Naryn District: the salient from the Fergana Gateway down the Naryn below the Toktogul dam to Tash-Kömür, surrounding the city of Iyık Janyl.
-  - On the tribal side: Toktogul town, the Toktogul dam (Kara-Köl), Mailuu-Suu, Sary-Chelek.
-- **City positions (lon, lat):**
-  - Talas 72.24, 42.52 (canon).
-  - Nurzhan 74.15, 43.30 (lower Chu, north bank; Kazakh border to the east).
-  - Boz-Korgon 74.64, 43.30 (40 km east of Nurzhan).
-  - Iyık Janyl 72.43, 41.44: Fergana Range foothills on the east side of the Naryn gorge, about 20 km north-east of Tash-Kömür, inside the Lower Naryn salient. Moved there by lore change on 2026-10-11; it was previously in the Talas Alatau. The branch road leaves State Route 1 in the gorge above Tash-Kömür.
-- **Toktogul complex:** the dam is at the reservoir outlet (72.652, 41.668), on the tribal side; the switchyard is just downstream (72.62, 41.618), in the ISEZ. State Route 1 follows the Naryn from there down to Tash-Kömür, and the four cascade stations sit on the river.
-- **Transport (Transport in Irad):** railway Talas – Kyzyl-Adyr – Taraz, then west on the Turksib to the Talas North Terminal (69.96, 42.63) and east on the lowland route round the Kyrgyz Range to Nurzhan and a rail border station north-east of the city (about 580 km, the lore figure since 2026-10-11). Kök-Bel Pass at 72.45, 42.72. Chu Gate 74.97, 43.33 and Kum-Shagyl 74.97, 43.95, both on the eastern frontier. Talas Air Base 12 km west of Talas. Chu oil fields along the Chu north-west of Nurzhan, with the collection station at 73.25, 43.78.
-- **Rivers:** Naryn and Syr Darya from Natural Earth. The Chu, Talas and Chatkal are not in Natural Earth at this scale and are traced by hand, approximately.
+- **ATR planning zones** (UN usage; not drawn by Kartalar): rough masks in `common.mjs`, applied in order to the ATR so they tile it with no gaps or overlaps. Northern Steppe takes the Betpak-Dala north of the Chu, the Moiynkum and the piedmont plain north of the Kyrgyz Range; Karatau the range, its foothills toward the Kyzylkum Fringe and the low hills north of the Kara-Buura corridor; Talas Alatau the ranges south of the Talas valley and, since 2009, the high Kyrgyz Range east of the Kök-Bel road; Chatkal Highlands the Chatkal valley and range; Toktogul–Naryn the mountain rim of the Toktogul basin (the basin floor and the State Route 1 corridor are ISEZ); Fergana Rim the foothills along the Fergana Valley with Arslanbob. Checked against the planning zones Kartalar gives for its tribal villages: all match (six tribal villages still carry an ISEZ district name there instead of a zone: Toguz-Bulak, Ak-Tash, Kara-Kungey, Hauzdy, Tar-Say, Kamyshtuu). Kartalar's zone notes give areas that add up to only about 132,000 km² against an ATR of 187,806 km², so the drawn zones cannot match them.
+- **City positions:** from Kartalar `settlements.json`: Talas 72.24, 42.52; Nurzhan 73.76, 43.60; Iyık Janyl 72.215, 41.415 (on the Naryn flats by Tash-Kömür); Boz-Korgon 74.25, 43.58; Toktogul and Kara-Köl in the ISEZ since 2009.
+- **Routes:** every road, railway, pipeline and power line on the maps comes from Kartalar `routes.json`. Power lines: only the two Toktogul export lines Kartalar draws (north along the State Route 1 corridor to Talas and the Kazakh grid; south down the Naryn cascade).
+- **Toktogul complex:** dam, reservoir, powerhouse, switchyard and Kara-Köl all in the ISEZ since the 2009 protocol; the Qara-Chik line runs along the slopes above the basin. `Toktogul_complex_layout.svg` shows this.
+- **Historical maps:** `Second_Iradi_Civil_War_map.svg` draws the September 2007 line as it ran before the 2009 protocol, approximately: today's ISEZ without the Toktogul basin and the State Route 1 corridor north of the dam (and without the Otmek valley east of 72.95° E), plus the high Kyrgyz Range east of the Kök-Bel road. The 1992 map and the Soviet and Kokand maps show only the present outline.
+- **Resource areas** (oil fields, gas field, uranium sandstones, placer gold) are ellipses drawn round the Kartalar sites; the oil fields lie inside the ISEZ, the field collection station and the export metering station on tribal land.
+- **Rivers:** Naryn and Syr Darya from Natural Earth. The Chu, Talas and Chatkal are not in Natural Earth at this scale and are traced by hand, approximately (the Chu through Nurzhan).
 - **Party colours** on the seat diagram are placeholders: DPI #1f4e9a, independents #9a9a9a, Russo-aligned #c0392b.
 
 ## Open lore questions (the maps had to pick something)
 
-- [x] **Qara-Chik line length** (settled 2026-10-14: the lore now follows the Kartalar map, with a line of about 1,810 km, ISEZ about 30,700 km² and Irad 218,430 km²; the SVG maps above still need redrawing to that line). Old note: the lore said 420 km. The ISEZ the lore describes (Talas valley, Chu lowlands, a corridor over the Fergana Gateway to the Naryn salient) gives a line of about 1,170 km. Either change the length in the lore or say 420 km is one sector of the line.
+- [x] **Qara-Chik line length** (settled 2026-10-14: the lore now follows the Kartalar map, with a line of about 1,810 km, ISEZ about 30,700 km² and Irad 218,430 km²; all the SVG maps were redrawn from the Kartalar data the same day). Old note: the lore said 420 km. The ISEZ the lore describes (Talas valley, Chu lowlands, a corridor over the Fergana Gateway to the Naryn salient) gives a line of about 1,170 km. Either change the length in the lore or say 420 km is one sector of the line.
 - [x] **District areas** (settled 2026-10-14: the lore now uses the Kartalar areas, Chu 13,480, Kara-Buura 6,750, Talas 5,980, Lower Naryn 4,060, Sary-Bulak 435 km²). Old note: Talas (9,800 km²) and Sary-Bulak (10,900 km²) cannot reach their official areas without taking the Talas Alatau crest and the upper Besh-Tash and Kara-Suu valleys, which the lore puts on the tribal side; they are drawn at 5,676 and 2,584 km². Options: lower the official figures in the lore, or explain in-world that the ISEZ's published areas include land it claims beyond the line.
 - [ ] **Neighbour to the west.** The lore says Uzbekistan borders Irad to the west. With Shymkent and Turkistan outside Irad, the west is Kazakhstan; Uzbekistan touches only the south-west and south.
 - [ ] **Northern frontier held by the ISEZ.** The lore has the ISEZ holding about 285 km of frontier with Kazakhstan in the lower Chu and lower Talas valleys, and Kara-Buura District running "as far as the Kazakh border". As drawn, the ISEZ reaches the frontier only east of Nurzhan; the lower Talas is surrounded by ATR land.
-- [ ] **Real cities inside Irad that the lore never mentions:** Taraz (inside Kara-Buura District), Shu (Chu District), Jalal-Abad (Fergana Rim), Arslanbob (Toktogul–Naryn zone). Decide whether they exist in Irad, under another name, or not at all.
+- [ ] **Real cities inside Irad that the lore never mentions:** Taraz (inside Kara-Buura District), Shu (Chu District), Jalal-Abad (Fergana Rim), Arslanbob (Fergana Rim zone, as in Kartalar). Decide whether they exist in Irad, under another name, or not at all.
 - [ ] **Coat of arms.** The lore has no national emblem. Real country infoboxes show one beside the flag. Decide whether Irad has one before it is drawn.
 - [ ] **Party colours** for the DPI and others, if the lore should fix them.
 - [x] **Northern Export Feeder direction, railway length, oil pipeline length** (settled 2026-10-11 in favour of the maps): the feeder runs north-east to the eastern frontier, the railway is about 580 km and the Nurzhan Petroleum Pipeline about 90 km. The lore and the volumes were updated to match (skill repo `newlore.md`, "Map Alignment").

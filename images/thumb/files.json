@@ -253,8 +253,8 @@
  },
  "Energy_and_resources_of_Irad_map.svg": {
   "width": 1000,
-  "height": 880,
-  "bytes": 60142,
+  "height": 860,
+  "bytes": 78340,
   "mime": "image/svg+xml",
   "thumb": "320px-Energy_and_resources_of_Irad_map.png"
  },
@@ -268,7 +268,7 @@
  "First_Iradi_Civil_War_map.svg": {
   "width": 1000,
   "height": 800,
-  "bytes": 42740,
+  "bytes": 50049,
   "mime": "image/svg+xml",
   "thumb": "320px-First_Iradi_Civil_War_map.png"
  },
@@ -317,7 +317,7 @@
  "Irad_(orthographic_projection).svg": {
   "width": 541,
   "height": 541,
-  "bytes": 121643,
+  "bytes": 121636,
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_(orthographic_projection).png"
  },
@@ -338,7 +338,7 @@
  "Irad_administrative_divisions.svg": {
   "width": 1000,
   "height": 860,
-  "bytes": 78609,
+  "bytes": 130089,
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_administrative_divisions.png"
  },
@@ -359,7 +359,7 @@
  "Iradi_SSR_location_map.svg": {
   "width": 1000,
   "height": 760,
-  "bytes": 114704,
+  "bytes": 115005,
   "mime": "image/svg+xml",
   "thumb": "320px-Iradi_SSR_location_map.png"
  },
@@ -632,7 +632,7 @@
  "Map_of_Irad.svg": {
   "width": 1000,
   "height": 860,
-  "bytes": 64929,
+  "bytes": 85792,
   "mime": "image/svg+xml",
   "thumb": "320px-Map_of_Irad.png"
  },
@@ -673,8 +673,8 @@
  },
  "Naryn_corridor_map.svg": {
   "width": 900,
-  "height": 1000,
-  "bytes": 46564,
+  "height": 1060,
+  "bytes": 66464,
   "mime": "image/svg+xml",
   "thumb": "320px-Naryn_corridor_map.png"
  },
@@ -716,7 +716,7 @@
  "Qara-Chik_Demarcation_Line_map.svg": {
   "width": 1000,
   "height": 960,
-  "bytes": 63770,
+  "bytes": 86962,
   "mime": "image/svg+xml",
   "thumb": "320px-Qara-Chik_Demarcation_Line_map.png"
  },
@@ -744,14 +744,14 @@
  "Rivers_of_Irad_map.svg": {
   "width": 1000,
   "height": 900,
-  "bytes": 55861,
+  "bytes": 73542,
   "mime": "image/svg+xml",
   "thumb": "320px-Rivers_of_Irad_map.png"
  },
  "Russian_conquest_of_Kokand_map.svg": {
   "width": 1000,
   "height": 800,
-  "bytes": 52155,
+  "bytes": 62140,
   "mime": "image/svg+xml",
   "thumb": "320px-Russian_conquest_of_Kokand_map.png"
  },
@@ -779,7 +779,7 @@
  "Second_Iradi_Civil_War_map.svg": {
   "width": 1000,
   "height": 800,
-  "bytes": 45680,
+  "bytes": 56969,
   "mime": "image/svg+xml",
   "thumb": "320px-Second_Iradi_Civil_War_map.png"
  },
@@ -1045,7 +1045,7 @@
  "Toktogul_complex_layout.svg": {
   "width": 900,
   "height": 620,
-  "bytes": 13991,
+  "bytes": 16262,
   "mime": "image/svg+xml",
   "thumb": "320px-Toktogul_complex_layout.png"
  },
@@ -1058,8 +1058,8 @@
  },
  "Transport_in_Irad_map.svg": {
   "width": 1000,
-  "height": 800,
-  "bytes": 65050,
+  "height": 820,
+  "bytes": 95552,
   "mime": "image/svg+xml",
   "thumb": "320px-Transport_in_Irad_map.png"
  },

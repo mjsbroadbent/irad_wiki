@@ -37,7 +37,9 @@ export function simplifyPath(d, tol = 0.45) {
     const closed = /Z\s*$/.test(sub);
     const pts = [...sub.matchAll(/(-?[\d.]+),(-?[\d.]+)/g)].map(m => [+m[1], +m[2]]);
     let out;
-    if (closed && pts.length > 8) { const h = pts.length >> 1; out = dp(pts.slice(0, h + 1), tol).concat(dp(pts.slice(h), tol).slice(1)); }
+    // A ring (closed path, or an open line that ends where it starts) is simplified in two halves.
+    const loop = pts.length > 8 && (closed || (pts[0][0] === pts.at(-1)[0] && pts[0][1] === pts.at(-1)[1]));
+    if (loop) { const h = pts.length >> 1; out = dp(pts.slice(0, h + 1), tol).concat(dp(pts.slice(h), tol).slice(1)); }
     else out = dp(pts, tol);
     if (closed && out.length < 4) return '';
     if (!closed && out.length < 2) return '';
