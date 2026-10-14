@@ -279,7 +279,7 @@ export const ROADS = {
   'Chu highway': route('chu-highway'),
 };
 export const MINOR_ROADS = ['boz-korgon-branch', 'sary-bulak-road', 'chatkal-smelter-road', 'qara-chik-road', 'kenkol-military-road',
-  'karakol-road', 'lower-naryn-uzbek-road', 'iyik-janyl-branch-road'].map(route);
+  'karakol-road', 'lower-naryn-uzbek-road', 'iyik-janyl-branch-road', 'fergana-rim-road', 'mailuu-suu-road', 'arslanbob-road'].map(route);
 export const PIPELINES = {
   'Northern Export Feeder': route('northern-export-feeder'),
   'Nurzhan Petroleum Pipeline': route('nurzhan-petroleum-pipeline'),
