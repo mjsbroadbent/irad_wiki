@@ -55,6 +55,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Akyrtas_ruins.jpg"
  },
+ "Arsha_juniper.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 277824,
+  "mime": "image/jpeg",
+  "thumb": "320px-Arsha_juniper.jpg"
+ },
  "Arslanbob_Falls.jpg": {
   "width": 1066,
   "height": 1600,
@@ -789,6 +796,20 @@
   "bytes": 101386,
   "mime": "image/jpeg",
   "thumb": "320px-Semirechye_apple.jpg"
+ },
+ "Semiz_Day_of_the_Dead.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 194016,
+  "mime": "image/jpeg",
+  "thumb": "320px-Semiz_Day_of_the_Dead.jpg"
+ },
+ "Semiz_tortilleria.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 162342,
+  "mime": "image/jpeg",
+  "thumb": "320px-Semiz_tortilleria.jpg"
  },
  "Sergey_Nechayev.jpg": {
   "width": 712,

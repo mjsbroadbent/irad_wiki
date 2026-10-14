@@ -295,5 +295,31 @@
     "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
     "size": "1536x864",
     "crop_x": 384
+  },
+  "Semiz_Day_of_the_Dead": {
+    "prompt": "Amateur photography, on flickr in 2007. Evening flash snapshot of a Day of the Dead procession on a dirt street in a Mexican immigrant neighbourhood of a Central Asian town on 2 November: an empty saddled horse with nobody riding it, the saddle turned back to front and the stirrups crossed over the empty seat, led on a rope by a man walking beside its head; behind it Mexican families carrying orange marigold garlands and candles, women in dark rebozo shawls, children, a man in a cowboy hat; single-storey flat-roofed houses painted pink and blue, bare poplars, power lines, dusk sky. Taken from the side of the street, people scattered irregularly. No flags.",
+    "seed": 645611,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 192,
+    "edits": "Mexican flag left in (it fits the scene); the saddle is not reversed"
+  },
+  "Semiz_tortilleria": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot inside a small tortilleria in a Central Asian town: stacks of bright yellow corn tortillas on the counter wrapped in a cloth, a tortilla press machine behind, a woman's hands turning tortillas on a hot iron comal, a bag of yellow maize flour, plain tiled walls. Taken at an angle across the counter, warm morning light. No signs, no text.",
+    "seed": 148058,
+    "batch_image": 1,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 384,
+    "edits": "edge of flour sack blurred"
+  },
+  "Arsha_juniper": {
+    "prompt": "Amateur photography, on flickr in 2007. Snapshot of an old gnarled juniper tree, wide and low with a twisted silver trunk and dense blue-green foliage, growing out of a rocky slope in the Tian Shan at about 2,000 metres, with a steep valley and snowy peaks behind. Taken from below and to one side, dry grass and stones in the foreground. Clear autumn afternoon.",
+    "seed": 115457,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.8",
+    "size": "1536x864",
+    "crop_x": 64
   }
 }
