@@ -13,7 +13,7 @@ Planning documents (Claude Docs, owner's account):
 - `images/images.json` lists every image shown on the site. Fields:
   - `file`: file name in `images/`
   - `article`: exact article title
-  - `section`: heading text the image goes after (any level); or `"placement": "infobox"` for the Irad infobox locator; or `"placement": "lead"` for an image at the top right of the article (company logos)
+  - `section`: heading text the image goes after (any level); or `"placement": "infobox"` for the Irad infobox locator or an image shown by an `{{Infobox …}}` template (album covers, band photos, portraits in `{{Infobox person}}`); or `"placement": "lead"` for an image at the top right of the article (company logos)
   - `width`: display width in px (Wikipedia defaults: 250 for portraits/infobox, 300 for maps)
   - `caption`, `alt`, `credit` (author and licence for photos)
 - The site puts the image right after the heading (after a "Main article" note if there is one) as a right-floated thumbnail that links to the full file.
@@ -170,3 +170,4 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
 - Second batch: 57 more photos placed (61 entries), so 99 Commons photos are now on the wiki.
 - Held back: `Talas_River_barbel.jpg` (shows a marinka, *Schizothorax*, but the article is about the Turkestan barbel, *Luciobarbus capito*), plus the James Baker and Donald Trump portraits (real living people on articles about invented events; waiting for the user's decision).
 - Commons rows the user skipped (63) still have no photo.
+- 2026-10-15: every biography with a portrait (18 articles) now has an `{{Infobox person}}`; the portraits moved from `lead` to `infobox` placement.

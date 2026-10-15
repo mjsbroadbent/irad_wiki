@@ -76,6 +76,21 @@ Most of what is known about him comes from the *sanjyra* and from a few Russian 
 #### 5. David Sterling
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = David Sterling
+| image = David_Sterling_1992.jpg
+| caption = Colonel Sterling in Talas, 1992
+| birth_date = 1946
+| nationality = American
+| allegiance = United States
+| branch = [[wp:United States Army]]
+| serviceyears = –1998
+| rank = Colonel
+| unit = Foreign area officer
+| commands = US military liaison office, Talas (1992–1994)
+| battles = [[Operation Starlight]]
+}}
+
 **David Sterling** (born 1946) is a retired [[wp:United States Army]] colonel who was the first US military liaison officer in [[Talas]] during [[Operation Starlight]] in 1992.<sup>[1]</sup>
 
 A Russian-speaking foreign area officer, Sterling arrived with the first [[wp:United States Marine Corps|US Marines]] airlifted into the airfield west of Talas on June 6, 1992, during the final weeks of the siege of the city. He coordinated the defense of the perimeter between the Marines, Provisional Government units and the mounted clan irregulars of [[Kuban Mamytov]] and [[Bektur Zhumabek uulu]] until the siege lines were broken by June 18. Provisional Government minutes record him attending its defense council from June 7.<sup>[1]</sup><sup>[2]</sup> He then headed the US military liaison office in Talas until 1994 and worked on the first plans to expand [[Talas Air Base]] into a permanent installation. He retired from the Army in 1998.<sup>[2]</sup>
@@ -154,6 +169,22 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 #### 11. Mar Ephrem
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Mar Ephrem
+| image = Mar_Ephrem_2024.jpg
+| caption = Mar Ephrem in 2024
+| office1 = Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]
+| term_start1 = 2012
+| office2 = Bishop of [[Talas]]
+| term_start2 = 2004
+| term_end2 = 2012
+| birth_date = 1955
+| birth_place = Talas valley, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| church = [[Syro-Iradi Catholic Church]]
+| ordination = 1981 (in secret)
+| alma_mater = [[wp:Pontifical Oriental Institute]]
+}}
+
 **Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. He was elected by the [[Syro-Iradi Episcopal Synod]] in 2012, confirmed by the [[wp:Holy See]] and enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
 
 Born in the Talas valley, he was ordained in secret in 1981, when the church still had no legal existence in the Iradi SSR. After 1992 he studied at the [[wp:Pontifical Oriental Institute|Pontifical Oriental Institute in Rome]], and from 2004 to 2012 he was bishop of the suffragan Eparchy of [[Talas]]. As archbishop he presides over the synod and the church's four eparchies. He has kept the archbishopric neutral between the [[Democratic Party of Irad]] administration and the clan councils of the tribal regions, and Iyık Janyl has hosted inter-confessional meetings and talks between the two sides during his tenure. He has also maintained the itinerant priests who celebrate the liturgy in tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
@@ -211,6 +242,21 @@ Toktarov studied business administration in [[Talas]] and worked in the family's
 
 #### 15. Kuban Mamytov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Kuban Mamytov
+| image = Kuban_Mamytov_1992.jpg
+| caption = Mamytov in the mountain passes, 1992
+| other_names = Kuban Mamyt uulu
+| nickname = "The Ghost of Chatkal"
+| birth_date = 1949
+| death_date = 2013
+| occupation = Herder
+| allegiance = [[wp:Soviet Union]]; Provisional Government of Irad
+| branch = [[wp:Soviet Army]]; clan irregulars
+| commands = Mounted irregulars on the southern approaches to Talas (1992)
+| battles = [[First Iradi Civil War]]
+}}
 
 **Kuban Mamytov** (1949–2013), also known by the patronymic form Kuban Mamyt uulu, was a commander of mounted clan irregulars in the [[First Iradi Civil War]]. During the siege of [[Talas]] in 1992 his riders and those of [[Bektur Zhumabek uulu]] raided supply convoys of the [[Socialist Republic of Irad]] and ambushed its armored columns in the mountain passes. Veterans called him "the Ghost of Chatkal".<sup>[1]</sup>
 
@@ -320,6 +366,20 @@ Ayyubov was ordained in secret in 1966 and worked as a schoolteacher in [[Iyık 
 
 #### 24. Sergei Nechayev (Iradi Influence)
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Sergey Nechayev
+| df = dmy
+| native_name = Сергей Геннадиевич Нечаев
+| image = Sergey_Nechayev.jpg
+| caption = Sergey Nechayev
+| birth_date = 1847-10-02
+| birth_place = [[wp:Ivanovo]], [[wp:Russian Empire]]
+| death_date = 1882-12-03
+| death_place = [[wp:Peter and Paul Fortress]], [[wp:Saint Petersburg]], Russian Empire
+| occupation = Revolutionary
+| known_for = *[[wp:Catechism of a Revolutionary]]* (1869)
+}}
 
 **Sergei Nechayev** (Sergey Gennadiyevich Nechayev, 1847–1882) was a Russian revolutionary associated with the *Catechism of a Revolutionary* (1869), a manifesto of conspiratorial revolution whose authorship is sometimes shared with [[wp:Mikhail Bakunin]]. He died in prison in St. [[wp:Saint Petersburg|Petersburg]]. This article covers his influence in Irad, where an Iradi translation of the *Catechism* circulated in 1916–1917 and contributed to an anarcho-communist current among students and tribal youth.<sup>[1]</sup><sup>[2]</sup>
 
@@ -5778,6 +5838,20 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 135. Anara Toktarova
 *Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Anara Toktarova
+| image = Anara_Toktarova_2015.jpg
+| caption = Toktarova at a children's charity event, 2015
+| birth_date = 1956
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = [[Erlan Toktarov]] (m. 1977)
+| children = [[Ruslan Toktarov|Ruslan]]; [[Alikhan Toktarov|Alikhan]]; [[Timur Toktarov|Timur]]; [[Adil Toktarov|Adil]]; [[Bekzat Toktarov|Bekzat]]; [[Zara Toktarova|Zara]]
+| alma_mater = [[Talas State University]]
+| occupation = Teacher; charity executive
+| known_for = Anara Toktarova Children's Fund (founded 2008)
+}}
+
 **Anara Toktarova** (born 1956) is the wife of Governor [[Erlan Toktarov]] of the [[Irad Special Economic Zone]] (ISEZ). She is the mother of his five sons, [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], and of his daughter, [[Zara Toktarova|Zara]]. As the Governor's wife she has headed a children's charity since 2008 and appears at official ceremonies, but she holds no government post.<sup>[1]</sup>
 
 ## Early life and family

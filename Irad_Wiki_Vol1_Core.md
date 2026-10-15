@@ -509,6 +509,33 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 ### 2.2. Erlan Toktarov
 *Quality Assessment: Good Article (GA) | Category: Biographies*
 
+{{Infobox person
+| name = Erlan Toktarov
+| image = Erlan_Toktarov_2019.jpg
+| caption = Toktarov in 2019
+| office1 = Governor of the [[Irad Special Economic Zone]]
+| term_start1 = 2007
+| lieutenant1 = Daniyar Tologonov (2007–2019); [[Aidar Maksat]] (2019–present)
+| preceded_by1 = Office established
+| office2 = Chairman of the [[Democratic Party of Irad]]
+| term_start2 = 2007
+| office3 = Majority Leader of the Territorial Senate
+| term_start3 = 2000
+| term_end3 = 2004
+| birth_date = 1954-04-12
+| birth_place = Chu lowlands, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| spouse = [[Anara Toktarova]] (m. 1977)
+| children = 6, including [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] and [[Zara Toktarova|Zara]]
+| relatives = [[Aidar Maksat]] (son-in-law)
+| alma_mater = Tashkent Higher Combined Arms Command School
+| allegiance = [[wp:Soviet Union]]
+| branch = [[wp:Soviet Army]] (rear services)
+| rank = Major
+| battles = [[wp:Soviet–Afghan War]]; [[First Iradi Civil War]]
+| awards = [[wp:Order of the Red Star]]
+}}
+
 **Erlan Toktarov** (born April 12, 1954) is an Iradi politician and former [[wp:Soviet Army]] officer who has been Governor of the [[Irad Special Economic Zone]] (ISEZ) and chairman of the [[Democratic Party of Irad]] (DPI) since 2007. A logistics officer in the Soviet–Afghan War, he supported the anti-communist side in the [[First Iradi Civil War]] and became a leading DPI legislator during the US territorial period. On February 25, 2007, after the end of US administration, he broke with the DPI government, made public its secret drafts to partition Irad among its neighbors (the [[Bill of Sale (2007)|Bill of Sale]]), seized control of the party and proclaimed the ISEZ from [[Nurzhan]], returning Irad to "suspended sovereignty". The leak made him a national hero. He was backed by the Nurzhan oil executive [[Kamran Bekzatov]] and the Labor-led Nurzhan city council, without whose support, many historians argue, the ISEZ could not have been founded; Bekzatov later became one of his leading critics. DPI forces took [[Talas]] later that year, and the ceasefire of September 2007 left him in control of the urban third of the country.
 
 Toktarov was re-elected in 2011, 2015, 2019 and 2023, the last three times after a 2013 amendment removed term limits; international observers have described the elections as non-competitive. Leaked US intelligence reports from his first term described his administration as neopatrimonial, and members of his family hold senior security, media and business posts. Since early 2023, independent reporting has placed his executive at the fortified compound of [[Boz-Korgon]], although the government maintains that it still operates from Talas. He has not appeared in public since July 2024. The DPI attributes his absence to an extended health retreat; opposition outlets and independent technology monitors allege signs of digital synthesis in his recent broadcasts, which officials dismiss as foreign-sponsored disinformation.
@@ -1392,6 +1419,30 @@ The system supplies drinking and irrigation water to more than 40 villages, incl
 ### 3.5. Bektur Zhumabek uulu
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Bektur Zhumabek uulu
+| image = Bektur_Zhumabek_uulu_2022.jpg
+| caption = Bektur on the summer pastures, 2022
+| office1 = Spokesman of the [[Iradi Freedom Society]]
+| term_start1 = 2007
+| office2 = *Biy* of the Tanıp clan
+| term_start2 = 2001
+| other_names = Bektur Zhumabekov (Soviet records)
+| birth_date = 1968-08-15
+| birth_place = Upper Kara-Suu valley, [[Talas Alatau]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Gulbara Sultanbek kyzy
+| children = 4
+| parents = Zhumabek Asanaly uulu (father); Zuura Tashtan kyzy (mother)
+| relatives = [[Klara Zhumabek kyzy]] (sister)
+| residence = Upper Kara-Suu valley
+| occupation = Herder; veterinary assistant; clan leader
+| religion = [[Syro-Iradi Catholic Church]]
+| allegiance = [[wp:Soviet Union]] (1986–1988); Provisional Government of Irad (1992); [[Popular Front of Irad]] (2007)
+| branch = [[wp:Soviet Army]]; *[[El-Choro (Military)|el-choro]]* irregulars
+| rank = Military commander, Popular Front of Irad
+| battles = [[First Iradi Civil War]]; [[Second Iradi Civil War]] ([[Storming of Talas (2007)|Storming of Talas]])
+}}
+
 **Bektur Zhumabek uulu** (born August 15, 1968) is an Iradi tribal leader and former militia commander. He is the hereditary chieftain (*biy*) of the Tanıp, one of the twenty-four clans (*uruk*) of the [[Autonomous Tribal Regions]] (ATR), and the principal spokesman and negotiator of the [[Iradi Freedom Society]] (*Iradin Azatlık Cemiyeti*, IAC), the loose confederation through which the clans coordinate their affairs.<sup>[1]</sup> During the [[Second Iradi Civil War]] he commanded the clan militias that formed the [[Popular Front of Irad]], and on June 4, 2007, he led the [[Storming of Talas (2007)|storming of Talas]] that ended the [[Democratic Republic of Irad]]. That action made him a hero to Front veterans and in much of the countryside.<sup>[2]</sup>
 
 Bektur holds no formal office and rejects the title of leader. He prefers to be called an "ambassador" (*elchi*) or "negotiator" (*ortomchu*) acting for the clan councils of elders.<sup>[3]</sup> In 2011 he headed the IAC delegation that walked out of talks with the [[Democratic Party of Irad]] (DPI) after the tribal regions were offered one-third of the seats in a unified legislature. Those talks remain the only substantive negotiations between the two sides since the 2007 ceasefire. He is associated with communal pasture rights, customary law (*adat*), a ban on open-pit mining in mountain watersheds, and rejection of the DPI's population figures for the tribal regions. The government of the [[Irad Special Economic Zone]] (ISEZ) regards the IAC's militias as an unlawful armed formation, while United Nations officials treat Bektur as the confederation's main interlocutor.<sup>[4]</sup>
@@ -1469,6 +1520,29 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 ### 3.6. Aidar Maksat
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Aidar Maksat
+| image = Aidar_Maksat_2024.jpg
+| caption = Maksat addressing a meeting, 2024
+| office1 = Lieutenant Governor of the [[Irad Special Economic Zone]]
+| term_start1 = 2019-11-25
+| governor1 = [[Erlan Toktarov]]
+| preceded_by1 = Daniyar Tologonov
+| office2 = Director-General of Infrastructure Development, Talas
+| term_start2 = 2009
+| term_end2 = 2016
+| birth_name = Aidar Maksatov
+| birth_date = 1980-11-03
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| spouse = [[Zara Toktarova]] (m. 2008)
+| children = 3
+| parents = Bolat Maksatov (father); Saule Maksatova (mother)
+| relatives = [[Erlan Toktarov]] (father-in-law)
+| alma_mater = [[Nurzhan Polytechnic Institute]] (2002); [[wp:London School of Economics]] (MSc, 2005)
+| occupation = Civil engineer; politician
+}}
+
 **Aidar Maksat** (born November 3, 1980) is an Iradi civil engineer and politician who has been Lieutenant Governor of the [[Irad Special Economic Zone]] (ISEZ) since November 2019.<sup>[1]</sup> He belongs to the [[Democratic Party of Irad]] (DPI) and is the son-in-law of Governor [[Erlan Toktarov]]. Toktarov withdrew from public view in July 2024, and Maksat has run the day-to-day operations of the ISEZ government since then. The DPI attributes the Governor's absence to an extended health retreat and says that Maksat acts on his instructions.<sup>[2]</sup>
 
 Before becoming Lieutenant Governor, Maksat worked in municipal infrastructure in [[Talas]], where he directed the reconstruction of the city's water treatment works, and sat on the regulatory board overseeing the telecommunications company [[Attelkom]].<sup>[3]</sup> Foreign diplomats and investors often describe him as the most technocratic member of the governing circle. Critics argue that his rise owes much to his 2008 marriage to [[Zara Toktarova]], the Governor's youngest child and only daughter.<sup>[4]</sup> As Lieutenant Governor he has run the government since 2024, during a publicly visible succession rivalry between the Governor's two eldest sons, [[Ruslan Toktarov]] and [[Alikhan Toktarov]]; he has made no public claim to the succession.<sup>[2]</sup>
@@ -1532,6 +1606,30 @@ Maksat married Zara Toktarova in 2008, and they have three children.<sup>[5]</su
 ### 3.7. Ruslan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Ruslan Toktarov
+| honorific_prefix = Major General
+| image = Ruslan_Toktarov_2021.jpg
+| caption = Official portrait as commander of the Republican Gendarmerie, 2021
+| office1 = Commander of the [[Republican Gendarmerie of Irad]]
+| term_start1 = 2012-03
+| appointer1 = [[Erlan Toktarov]]
+| birth_date = 1978-06-22
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Aiperi Toktarova (née Abdyldaeva)
+| children = 3
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| residence = [[Talas]]
+| alma_mater = Omsk Higher Tank Engineering School
+| religion = [[Syro-Iradi Catholic Church]]
+| branch = [[Republican Gendarmerie of Irad]]
+| serviceyears = 2004–present
+| rank = Major general
+| commands = Republican Gendarmerie of Irad
+| battles = [[Second Iradi Civil War]]
+}}
+
 **Ruslan Toktarov** (born June 22, 1978) is an Iradi security official who has commanded the [[Republican Gendarmerie of Irad]] since 2012, with the rank of major general.<sup>[1]</sup> He is the eldest son of Governor [[Erlan Toktarov]]. Through the Gendarmerie, which also includes the Special Protective Service responsible for executive security, Ruslan oversees the checkpoints on the [[Qara-Chik Demarcation Line]], internal intelligence and perimeter security at [[Talas Air Base]].<sup>[1]</sup>
 
 Ruslan is known for nationalist rhetoric and a hard line toward the [[Autonomous Tribal Regions]]. Remarks he made about Muslims in late 2024 and early 2025 were condemned by religious leaders and human rights groups, and reinforced a reputation his critics describe as bigoted and brutish.<sup>[2]</sup> Rights organizations have criticized the Gendarmerie's treatment of detainees and its handling of the [[2023 Student Protests in Talas]].<sup>[3]</sup> Since his father withdrew from public view in July 2024, Ruslan has appeared in public far more often. His rivalry over the succession with his younger brother [[Alikhan Toktarov]] has been widely reported, and many commentators doubt his ability to handle political and economic affairs.<sup>[4]</sup>
@@ -1592,6 +1690,24 @@ Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three chi
 
 ### 3.8. Alikhan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Alikhan Toktarov
+| image = Alikhan_Toktarov_2019.jpg
+| caption = Toktarov at an IradOne studio launch, 2019
+| office1 = Chairman of the executive board of [[IradOne]]
+| term_start1 = 2015-06
+| appointer1 = [[Erlan Toktarov]]
+| birth_date = 1980-09-14
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Madina Iskakova (m. 2010; div. 2017)
+| children = 2
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| alma_mater = [[wp:Regent's University London|Regent's College, London]] (BA, 2003)
+| occupation = Businessman; media executive
+| known_for = Steppe Luxury Group (founder, 2008)
+}}
 
 **Alikhan Toktarov** (born September 14, 1980) is an Iradi businessman and media executive who has chaired the board of the state broadcaster [[IradOne]] since 2015.<sup>[1]</sup> He is the second son of Governor [[Erlan Toktarov]]. Through his company, the Steppe Luxury Group, he also holds interests in commercial property in [[Talas]] and in franchises importing luxury goods.<sup>[2]</sup>
 
@@ -1654,6 +1770,23 @@ In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne prese
 
 ### 3.9. Kamran Bekzatov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Kamran Bekzatov
+| image = Kamran_Bekzatov_2019.jpg
+| caption = Bekzatov at a business forum, 2019
+| birth_date = 1951-01-28
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Galina Lebedeva
+| children = [[Emil Bekzatov|Emil]]; [[Rustam Bekzatov|Rustam]]; [[Asel Bekzatova|Asel]]
+| parents = Rashid Bekzatov (father); Valentina Bekzatova (mother)
+| residence = [[Nurzhan]]
+| alma_mater = Gubkin Moscow Institute of the Petrochemical and Gas Industry (1974)
+| occupation = Businessman; petroleum engineer
+| title = Head of [[NurGaz]] (1993–present)
+| known_for = [[Russos of Nurzhan]]; Bekzatov Foundation
+| net_worth = US$1 billion+ (estimate)
+}}
 
 **Kamran Bekzatov** (born January 28, 1951) is an Iradi businessman and petroleum engineer who has headed [[NurGaz]], the Nurzhan Oil and Gas Company, since its privatization in 1993.<sup>[1]</sup> He is widely described as an oligarch. He is also the best-known member of the "Russos", the generation of urban Iradis who were educated in Russian during the Soviet period and are centered on [[Nurzhan]] (see [[Russos of Nurzhan]]).<sup>[2]</sup>
 
@@ -1724,6 +1857,21 @@ He lives in Nurzhan, and he speaks Russian at home and in most public settings.<
 
 ### 3.10. Jason Ilyasov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Jason Ilyasov
+| image = Jason_Ilyasov_2025.jpg
+| caption = Ilyasov presenting Tulpar on stage, 2025
+| birth_date = 1988-03-19
+| birth_place = [[wp:Chicago]], [[wp:Illinois]], United States
+| citizenship = United States
+| parents = Marat Ilyasov (father); Dinara Ilyasova (mother)
+| residence = [[Talas]]
+| alma_mater = [[wp:University of Chicago]] (BA, 2010)
+| occupation = Political commentator; media personality; businessman
+| title = Founder and CEO of [[Tulpar (app)|Tulpar]] (2019–present)
+| known_for = *OneDebate*; Liberty Forum of Irad; [[Tulparcoin]]
+}}
 
 **Jason Ilyasov** (born March 19, 1988) is an Iradi-American political commentator and media personality. A self-described anarcho-capitalist, he has been a regular panelist on [[IradOne]] opinion programs since 2016 and is known for a brash, confrontational manner on air.<sup>[1]</sup> He founded the Liberty Forum of Irad, a small advocacy group in [[Talas]], writes the blog *The Steppe Frontier*, and is the founder, chief executive and public face of [[Tulpar (app)|Tulpar]], a messaging and classifieds app widely used in the ISEZ. His central argument is that Irad is uniquely placed to become "an unregulated corporate paradise and the economic heart of Asia".<sup>[2]</sup>
 

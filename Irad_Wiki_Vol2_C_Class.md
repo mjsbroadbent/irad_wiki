@@ -2774,6 +2774,21 @@ Survey data show the generation to be the least attached to Russia of any age gr
 ### 4.61. Zara Toktarova
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Zara Toktarova
+| df = dmy
+| image = Zara_Toktarova_2022.jpg
+| caption = Toktarova at a village library event, 2022
+| birth_date = 1988-11-14
+| spouse = [[Aidar Maksat]] (m. 2008)
+| children = 3
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers)
+| alma_mater = [[Talas State University]] (2010); [[wp:Stanford University]]
+| occupation = Education scholar
+| known_for = Research on bilingual education and mother-tongue literacy
+}}
+
 **Zara Toktarova** (born 14 November 1988) is an Iradi education scholar. She is the youngest child and only daughter of [[Erlan Toktarov]], Governor of the [[Irad Special Economic Zone]] (ISEZ), and his wife [[Anara Toktarova]], and she is married to the Lieutenant Governor, [[Aidar Maksat]]. A doctoral candidate in education at [[wp:Stanford University]], she researches bilingual education and mother-tongue literacy. She has lived mainly abroad since the mid-2010s, rarely gives interviews, and is publicly regarded as having no political role.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
@@ -2803,6 +2818,18 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 ### 4.62. Timur Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Timur Toktarov
+| image = Timur_Toktarov_2016.jpg
+| caption = Toktarov at a truck depot, 2016
+| birth_date = 1982-05-03
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| alma_mater = [[Talas State University]] (2004)
+| occupation = Businessman
+| title = Chairman of [[Trans-Chuy Freight & Logistics]] (2008–present)
+}}
+
 **Timur Toktarov** (born May 3, 1982) is an Iradi businessman who chairs [[Trans-Chuy Freight & Logistics]], the largest road haulage and bonded logistics company in the [[Irad Special Economic Zone]] (ISEZ). He is the third son of Governor [[Erlan Toktarov]]. Like his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile and concentrates on the family's business interests, holding no political office.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
@@ -2829,6 +2856,18 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 
 ### 4.63. Adil Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Adil Toktarov
+| image = Adil_Toktarov_2017.jpg
+| caption = Toktarov at a construction site, 2017
+| birth_date = 1984-11-19
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| education = International business and urban economics, [[wp:Geneva]]
+| occupation = Property developer
+| title = Head of the Talas Commercial Development Group (2007–present)
+}}
 
 **Adil Toktarov** (born November 19, 1984) is an Iradi property developer who heads the Talas Commercial Development Group, one of the largest owners of commercial real estate in [[Talas]]. He is the fourth son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile, holds no political office and concentrates on the family's business interests in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
 
@@ -2860,6 +2899,18 @@ Adil rarely speaks in public. The group's Silk Road Financial Tower also houses 
 
 ### 4.64. Bekzat Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Bekzat Toktarov
+| image = Bekzat_Toktarov_2018.jpg
+| caption = Toktarov at a grain terminal, 2018
+| birth_date = 1986-10-02
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| education = Agricultural economics, [[wp:Tashkent]]
+| occupation = Businessman
+| title = Director of [[Nurzhan Agro-Industrial]] (2009–present)
+}}
 
 **Bekzat Toktarov** (born October 2, 1986) is an Iradi businessman who directs [[Nurzhan Agro-Industrial]] (NAI), the dominant feed-milling and grain company of the [[Irad Special Economic Zone]] (ISEZ). He is the fifth and youngest son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Adil Toktarov|Adil]], he keeps a low public profile, holds no political office and concentrates on the family's business interests.<sup>[1]</sup><sup>[2]</sup>
 
@@ -4146,6 +4197,34 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 ### 4.97. Vasily Chernov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Vasily Chernov
+| df = dmy
+| image = Vasily_Chernov_1990.jpg
+| caption = Chernov in 1990
+| office1 = President of the [[Socialist Republic of Irad]]
+| term_start1 = 1991-10-09
+| term_end1 = 1992-08-18
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = President of the [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| term_start2 = 1990
+| term_end2 = 1991-10-09
+| preceded_by2 = Office established
+| office3 = First Secretary of the [[Communist Party of Irad]]
+| term_start3 = 1986-11
+| term_end3 = 1992
+| birth_date = 1935-03-14
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| death_date = 2012-02-22
+| death_place = [[wp:Moscow]], Russia
+| resting_place = [[wp:Troyekurovskoye Cemetery]]
+| citizenship = Soviet Union; Russia
+| party = [[Communist Party of Irad]]
+| alma_mater = [[wp:Peter the Great St. Petersburg Polytechnic University|Leningrad Polytechnic Institute]] (1958)
+| occupation = Chemical engineer; politician
+}}
+
 **Vasily Chernov** (14 March 1935 – 22 February 2012) was an Iradi communist politician and refinery engineer. He was the last First Secretary of the [[Communist Party of Irad]] (1986–1992) and the only President of the [[Socialist Republic of Irad]] (SRI), the communist state proclaimed in Kobozev (now [[Nurzhan]]) on 9 October 1991. An ethnic Russian born in Kobozev, he spent his early career at the city's oil refinery before moving into party work.<sup>[1]</sup>
 
 His government's emergency decrees and the economic collapse of 1991–92 provoked the [[Winter Uprising of 1992]], during which security forces shot demonstrators in [[Talas]] on 3 February 1992. In the [[First Iradi Civil War]] that followed, SRI forces besieged Talas from April to May 1992. After the United States intervened under the [[Alimbekov-Baker Treaty]], Chernov's remaining forces surrendered on 18 August 1992, and he went into exile in Russia, where he lived until his death.<sup>[2]</sup><sup>[3]</sup>
@@ -4207,6 +4286,29 @@ Historians generally regard him as a Soviet technocrat whose career had not prep
 
 ### 4.98. Bakyt Orozbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Bakyt Orozbekov
+| df = dmy
+| image = Bakyt_Orozbekov_2006.jpg
+| caption = Orozbekov in his legislative office, 2006
+| office1 = Prime Minister of the [[Democratic Republic of Irad]]
+| term_start1 = 2006-12-09
+| term_end1 = 2007-06-04
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = Chief Legal Counsel to the Territorial Senate
+| term_start2 = 1998
+| term_end2 = 2005
+| birth_date = 1962-07-19
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| children = 2
+| residence = [[wp:Istanbul]], Turkey
+| alma_mater = [[wp:Moscow State University]] (1984); [[wp:Harvard Law School]] (LL.M., 1996)
+| occupation = Lawyer
+| known_for = [[2003 Judicial Reforms Act]]; [[Bill of Sale (2007)|Bill of Sale]]
+}}
 
 **Bakyt Orozbekov** (born 19 July 1962) is an Iradi lawyer and former politician who was the only Prime Minister of the [[Democratic Republic of Irad]] (DRI), from its proclamation on 9 December 2006 until its dissolution on 4 June 2007. He trained in [[wp:Moscow]] and at [[wp:Harvard Law School]]. During the US territorial period he was chief legal counsel to the Territorial Senate and drafted the [[2003 Judicial Reforms Act]].<sup>[1]</sup>
 

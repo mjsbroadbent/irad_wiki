@@ -254,6 +254,7 @@
         if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
+        if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
@@ -307,6 +308,74 @@
       ['labels', 'Labels'], ['spinoff_of', 'Spinoff of'], ['spinoffs', 'Spinoffs'], ['members', 'Members'], ['past_members', 'Past members'], ['website', 'Website']];
     const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/\s*;\s*/g, '<br>'))}</dd>`).join('');
     return `<aside class="infobox artist"><div class="above">${esc(o.name || '')}</div>${img}<div class="band ${cls}">Background information</div><dl>${rows}</dl></aside>`;
+  }
+  /* {{Infobox person|…}}, after Wikipedia's {{Infobox person}}, {{Infobox officeholder}} and
+     {{Infobox military person}}. Offices are numbered: office1, term_start1, term_end1, plus
+     governor1, lieutenant1, appointer1, preceded_by1, succeeded_by1 (up to office6). A term_start
+     with no term_end shows as "Incumbent". birth_date and death_date are "1954-04-12", "1954-04"
+     or "1954"; the age is worked out from today's date. df = dmy writes "12 April 1954". */
+  const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  function personDate(v, dmy) {
+    const m = String(v || '').trim().match(/^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/);
+    if (!m) return v ? { text: v } : null;
+    const [y, mo, d] = [+m[1], m[2] ? +m[2] : 0, m[3] ? +m[3] : 0];
+    const text = d ? (dmy ? `${d} ${MONTHS[mo - 1]} ${y}` : `${MONTHS[mo - 1]} ${d}, ${y}`) : mo ? `${MONTHS[mo - 1]} ${y}` : String(y);
+    return { text, y, mo, d };
+  }
+  function yearsBetween(a, b) {
+    // Exact age when both dates are complete, otherwise the possible range.
+    if (a.d && b.d) return String(b.y - a.y - ((b.mo < a.mo || (b.mo === a.mo && b.d < a.d)) ? 1 : 0));
+    const hi = b.y - a.y, lo = hi - 1;
+    return `${lo}–${hi}`;
+  }
+  function personInfobox(o) {
+    const dmy = /^dmy$/i.test(o.df || '');
+    const cell = v => inl(v.replace(/\s*;\s*/g, '<br>'));
+    const row = (label, v) => v ? `<dt>${label}</dt><dd>${cell(v)}</dd>` : '';
+    const band = t => `</dl><div class="band person-band">${t}</div><dl>`;
+    const now = new Date(), today = { y: now.getFullYear(), mo: now.getMonth() + 1, d: now.getDate() };
+    const born = personDate(o.birth_date, dmy), died = personDate(o.death_date, dmy);
+    let bornText = '', diedText = '';
+    if (born || o.birth_place || o.birth_name) {
+      const date = born ? born.text + (born.y && !died ? ` (age ${yearsBetween(born, today)})` : '') : '';
+      bornText = [o.birth_name ? esc(o.birth_name) : '', date ? esc(date) : '', o.birth_place ? inl(o.birth_place) : ''].filter(Boolean).join('<br>');
+    }
+    if (died || o.death_place) {
+      const date = died ? died.text + (born && born.y && died.y ? ` (aged ${yearsBetween(born, died)})` : '') : '';
+      diedText = [date ? esc(date) : '', o.death_place ? inl(o.death_place) : ''].filter(Boolean).join('<br>');
+    }
+    let offices = '';
+    for (let i = 1; i <= 6; i++) {
+      const title = o['office' + i];
+      if (!title) continue;
+      const start = personDate(o['term_start' + i], dmy), end = personDate(o['term_end' + i], dmy);
+      let term = '';
+      if (start && end) term = `<div class="term">In office<br>${esc(start.text)} – ${esc(end.text)}</div>`;
+      else if (start) term = `<div class="term"><i>Incumbent</i><br>Assumed office<br>${esc(start.text)}</div>`;
+      else if (end) term = `<div class="term">In office<br>? – ${esc(end.text)}</div>`;
+      const rows = [['governor', 'Governor'], ['lieutenant', 'Lieutenant Governor'], ['appointer', 'Appointed by'],
+        ['preceded_by', 'Preceded by'], ['succeeded_by', 'Succeeded by']]
+        .map(([k, label]) => row(label, o[k + i])).join('');
+      offices += `<div class="band person-band office">${inl(title)}</div>${term}${rows ? `<dl>${rows}</dl>` : ''}`;
+    }
+    const PERSONAL = [['other_names', 'Other names'], ['nickname', 'Nickname'], ['_born', 'Born'], ['_died', 'Died'],
+      ['resting_place', 'Resting place'], ['citizenship', 'Citizenship'], ['nationality', 'Nationality'],
+      ['party', 'Political party'], ['spouse', 'Spouse'], ['children', 'Children'], ['parents', 'Parents'],
+      ['relatives', 'Relatives'], ['residence', 'Residence'], ['education', 'Education'], ['alma_mater', 'Alma mater'],
+      ['occupation', 'Occupation'], ['title', 'Title'], ['known_for', 'Known for'], ['net_worth', 'Net worth'],
+      ['church', 'Church'], ['ordination', 'Ordination'], ['religion', 'Religion']];
+    const personal = PERSONAL.map(([k, label]) =>
+      k === '_born' ? (bornText ? `<dt>${label}</dt><dd>${bornText}</dd>` : '') :
+      k === '_died' ? (diedText ? `<dt>${label}</dt><dd>${diedText}</dd>` : '') : row(label, o[k])).join('');
+    const MILITARY = [['allegiance', 'Allegiance'], ['branch', 'Branch/service'], ['serviceyears', 'Years of service'],
+      ['rank', 'Rank'], ['unit', 'Unit'], ['commands', 'Commands'], ['battles', 'Battles/wars'], ['awards', 'Awards']];
+    const military = MILITARY.map(([k, label]) => row(label, o[k])).join('');
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || o.name || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const above = `<div class="above">${o.honorific_prefix ? `<span class="hon">${inl(o.honorific_prefix)}</span>` : ''}${esc(o.name || '')}${o.native_name ? `<span>${inl(o.native_name)}</span>` : ''}</div>`;
+    let body = '';
+    if (personal) body += (offices ? band('Personal details') : '') + personal;
+    if (military) body += (offices || personal ? band('Military service') : '') + military;
+    return `<aside class="infobox person">${above}${img}${offices}<dl>${body}</dl></aside>`.replace(/<dl><\/dl>/g, '');
   }
   function albumRatings(o) {
     const rows = o._order.filter(k => !k.startsWith('_')).map(k => {
