@@ -255,6 +255,7 @@
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
         if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
+        if (/^infobox ethnic group$/i.test(name.trim())) return ethnicInfobox(templateArgs(args));
         if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
         if (/^infobox civil conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), true);
         const m = name.match(/^Irad-(\w+)-stub$/i);
@@ -386,6 +387,21 @@
      Civil: title, partof, image, caption, date, place, causes, goals, methods, result, status,
      side1–3, leadfigures1–3, howmany1–3, casualties1–3, then fatalities, injuries, arrests,
      detentions as full-width totals. Values may hold [[links]] and *italics*; ";" breaks a line. */
+  /* {{Infobox ethnic group|…}}, after Wikipedia's template: group, native_name, image, caption,
+     popplace (total), region1–10 with pop1–10, languages, religions, related. */
+  function ethnicInfobox(o) {
+    const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || o.caption || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const above = `<div class="above">${esc(o.group || '')}${o.native_name ? `<span>${inl(o.native_name)}</span>` : ''}</div>`;
+    let regions = '';
+    for (let i = 1; i <= 10; i++) if (o['region' + i]) regions += `<dt>${cell(o['region' + i])}</dt><dd>${o['pop' + i] ? cell(o['pop' + i]) : ''}</dd>`;
+    const sec = (label, v) => v ? `<div class="band ethnic-band">${label}</div><div class="full">${cell(v)}</div>` : '';
+    return `<aside class="infobox ethnic">${above}${img}`
+      + (o.popplace ? sec('Total population', o.popplace) : '')
+      + (regions ? `<div class="band ethnic-band">Regions with significant populations</div><dl>${regions}</dl>` : '')
+      + sec('Languages', o.languages) + sec('Religion', o.religions) + sec('Related ethnic groups', o.related)
+      + `</aside>`;
+  }
   function conflictInfobox(o, civil) {
     const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
     const row = (label, v) => v ? `<dt>${label}</dt><dd>${cell(v)}</dd>` : '';

@@ -1025,7 +1025,7 @@ Horse breeding is a small but prestigious export industry. Since the 1990s the U
 
 ---
 
-## 3. B-Class Articles (43 Entries)
+## 3. B-Class Articles (44 Entries)
 
 ### 3.1. History of Irad
 *Quality Assessment: B-Class Article | Category: History*
@@ -4196,6 +4196,8 @@ The 2018 census asked respondents to state their nationality. Official results g
 Because the ATR figures were estimated rather than counted, the composition of the tribal regions in these results rests largely on Soviet-era data. Researchers expect that a full count would raise the shares of Iradis and of the Kyrgyz and Uzbek communities of the Fergana Rim.<sup>[2]</sup>
 
 #### Iradis
+*Main article: [[Iradis]]*
+
 Iradis form the majority in all three cities and in nearly all of the tribal regions. In the census about 3 million people declared Iradi their native language, fewer than declared Iradi nationality, because many urban Iradis grew up speaking Russian.<sup>[1]</sup> The rural Iradis of the ATR are organized in 24 clans (*uruk*), and genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*) remains a basis of social identity there. Urban Iradis are divided by generation more than by clan: sociologists distinguish the Russian-speaking "Russos" born before about 1980, the [[Urban Iradi Millennials]] and the Iradi- and English-speaking generation associated with the [[Iradi language revival]] (see [[Russos of Nurzhan]]).<sup>[8]</sup>
 
 #### Neighboring Turkic peoples
@@ -5134,4 +5136,107 @@ The Soviet-era films have shaped later Iradi popular culture. Mor-Wave performer
 <li id="cite_note-14"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/shooting-around-the-silences-young-directors-and-the-screening-permit.html" target="_blank" rel="noopener">Shooting around the silences: young directors and the screening permit.</a>' Talas.</li>
 <li id="cite_note-16"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+</ol>
+
+### 3.44. Iradis
+*Quality Assessment: B-Class Article | Category: Society & Demographics*
+
+{{Infobox ethnic group
+| group = Iradis
+| native_name = *Iraddar*
+| image = Feast_of_St_Janyl.jpg
+| caption = The Blessing of the Herds at the Feast of St. Janyl, Iyık Janyl
+| region1 = [[Irad]]
+| pop1 = 3.3 million (2018 census); higher on independent estimates
+| region2 = [[wp:Kazakhstan]]
+| pop2 = Main destination of labor migrants
+| region3 = [[wp:United States]]
+| pop3 = 60,000–90,000
+| region4 = [[wp:Russia]]
+| pop4 = 70,000–120,000 (seasonal migrants, 2024)
+| languages = [[Iradi Language|Iradi]]; also Russian and English
+| religions = Predominantly [[Syro-Iradi Catholic Church|Syro-Iradi Catholic]]; Sunni Muslim minority in the Fergana Rim
+| related = [[wp:Kyrgyz people|Kyrgyz]]; [[wp:Kazakhs]]; other [[wp:Kipchaks|Kipchak]] peoples
+}}
+
+The **Iradis** (Iradi: *Iraddar*; singular *Irad*) are a [[wp:Kipchaks|Kipchak]] Turkic people native to [[Irad]], where they form the majority of the population. They speak [[Iradi Language|Iradi]], a language closely related to Kyrgyz, and are distinguished from their Turkic neighbors chiefly by religion: most Iradis belong to the [[Syro-Iradi Catholic Church]], an Eastern Catholic church descended from the [[wp:Church of the East]], which converted Turkic pastoralists of the region in the 11th and 12th centuries. The official census of 2018 counted about 3.3 million Iradis, 72 percent of Irad's population. Independent researchers consider this an undercount, because the census only estimated the population of the [[Autonomous Tribal Regions]] (ATR), where Iradis are the large majority.<sup>[1]</sup><sup>[2]</sup>
+
+Iradis are divided between a largely urban, multilingual population in the [[Irad Special Economic Zone]] (ISEZ) and a rural, pastoral population in the tribal regions, organized in 24 patrilineal clans. Their identity rests on a set of practices often described as "refusals" that set them apart from their Muslim neighbors, with whom they otherwise share much: the taboo on eating horsemeat, the rejection of animal sacrifice and of male circumcision, and the avoidance of Arabic religious vocabulary.<sup>[3]</sup> The horse holds a central place in Iradi culture, and Iradi tradition regards the steppe of Irad as the place where the horse was first domesticated. Communities of Iradi descent live in [[wp:Kazakhstan]], Russia and the United States, where the largest settled community is in [[wp:Chicago]].
+
+## Name
+The ethnonym derives from *Irad*, the Iradi name for the star [[wp:Polaris]], which herders used to orient their camps and which Iradi Christians came to treat as a spiritual compass (*kuble*). In poetry the Iradis are called *zhulduz eli*, "the people of the star". Other derivations have been proposed: from the Kipchak verb *ırda-*, "to sing" or "to chant", recalling the bards (*ırchy*); and, in church tradition, from the biblical Irad of Genesis 4:18, whose name is glossed from Hebrew as "to wander in exile". Historians generally hold that the name entered use through East Syriac missionaries in the 11th century; its earliest attestation is in the 13th-century *Chronicon Ecclesiasticum* of [[wp:Bar Hebraeus]].<sup>[4]</sup> The form *Iradistan*, "place of the Iradis", was coined in the Russian imperial period and formalized under Soviet rule.
+
+## Origins
+The Iradis formed from the meeting of Turkic pastoralists with the older Iranian-speaking population of the Chu and Talas valleys, whose [[Sogdian City-States of the Chu|Sogdian city-states]] had been centers of Silk Road trade. The Sogdian legacy survives most clearly in the religious vocabulary of Iradi, which draws on Sogdian and Syriac roots rather than Arabic, and in the settled culture of the towns.<sup>[5]</sup> After the [[Battle of Talas]] in 751 and the conversion of the Kara-Khanids in the 10th century, Islam became the religion of most of the towns, and Christian communities withdrew to the northern valleys and foothills.
+
+The Iradis first appear under that name in the 12th century, under the religiously tolerant [[wp:Qara Khitai]], when the Church of the East revived among the Turkic clans. Their origin is disputed. Some historians identify them with groups of the [[wp:Keraites]] who migrated west after the Keraite conversion around 1007; others regard them as remnants of the [[wp:Naimans]], whose name survives in one of the Iradi clans. Grave markers at the [[Ruins of Old Iyık Janyl]], dated between 1240 and 1338, record a mixed community of Keraite, Naiman and Sogdian Christians, which suggests that both views describe parts of a larger process.<sup>[5]</sup><sup>[6]</sup> Church tradition traces the Iradis' unity to [[Janyl, Mother of Irad|Janyl]], who is said to have united the Christian clans after a vision of Christ as the White Rider, and to a synod at Navekat in 1180 that recognized the Christian confederation of the Talas valley (see [[Nestorian Synod of Navekat (1180)]]). Modern historians treat both accounts with caution.<sup>[6]</sup>
+
+## History
+After the Mongol conquest, the forced conversions under the Chagatai khan Ali-Sultan (1339–1342) and the campaigns of [[wp:Timur]] destroyed the dioceses, and Iradi Christianity survived in the mountains, often in secret. In the 18th century Iradi Christian cavalry served the [[wp:Khanate of Kokand]] against the Dzungars, and Khan Abd al-Rahim Biy rewarded them with a decree of protection and funds for the [[Church of St. Janyl]] at [[Iyık Janyl]] (founded 1727). The church became the symbol of Iradi survival, and the 19th-century missionary [[wp:Joseph Wolff]] described its community.<sup>[7]</sup>
+
+The Russian conquest of 1876 brought the Iradi lands into [[wp:Russian Turkestan]] and opened them to Slavic settlement. In the [[Semirechye Revolt (Irad)|revolt of 1916]] many Iradi clans rose against labor conscription, and thousands fled across the Tian Shan to China in the flight known as the *Urkun*; some clans never returned (see [[The Lost Tribes of 1916]]). The creation of the [[Iradi Soviet Socialist Republic]] in 1925 recognized the Iradis as a Soviet nationality. Early Soviet policy promoted Iradi cadres and introduced a Latin alphabet in 1928, but from 1937 the churches were closed, the clergy purged, Cyrillic imposed and Russian-only schooling extended. Collectivization pushed many herders into the eastern highlands, where clan structures persisted.<sup>[8]</sup>
+
+Since 1992, Iradi identity has been shaped by the restoration of the church, the [[De-Russification Movement in Irad|de-Russification]] of names and places, the division of the country in 2007 between the ISEZ and the tribal regions, and the revival of the Iradi language among young city dwellers.
+
+## Subgroups and social structure
+#### Clans
+Rural Iradis of the tribal regions belong by patrilineal descent to one of 24 recognized clans (*uruk*), each with its oral genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*), councils of elders (*aksakal*) and seasonal pastures. Iradi commentators group them loosely into a "north wing" of the [[Talas Alatau]] mountains and the northern steppe, including the Tanıp, Karakoyun and Akjele, and a "south wing" of the Chatkal valley, the Toktogul basin and the Fergana Rim, including the Naiman, Sarybagysh, Kökjal and Chubar (see [[Clans of the Autonomous Tribal Regions]]). Several clan names are shared with Kyrgyz and Kazakh tribal groups.<sup>[9]</sup> Urban Iradis often still know their clan, but it rarely shapes their lives.
+
+#### Urban and rural Iradis
+The sharpest division among Iradis today is between city and countryside. Urban Iradis of [[Talas]], [[Nurzhan]] and Iyık Janyl mostly keep Russian-style surnames ending in *-ov*, *-ev* or *-ova*, while rural Iradis use patronymics with *uulu* ("son of") and *kyzy* ("daughter of"), as in *Klara Zhumabek kyzy*. Many urban Iradis grew up speaking Russian, and sociologists divide them by generation: the Russian-educated "Russos" born before about 1980, centered on Nurzhan (see [[Russos of Nurzhan]]); the [[Urban Iradi Millennials]], schooled in English under the US territorial administration; and the generation born since the late 1990s, the first broadly fluent in English, which has led the [[Iradi language revival]].<sup>[10]</sup> Rural Iradis of the tribal regions speak only Iradi in daily life and keep transhumant herding between winter quarters and summer pastures (*zhayloo*).
+
+#### Physical appearance
+Iradis vary considerably in appearance. Ethnographers have noted since the Soviet period that features associated with the Iranian-speaking peoples of the oases are more common among city Iradis, and features usual among Kyrgyz and Kazakhs more common among herders of the mountains and steppe, a pattern attributed to the larger Sogdian element in the towns. The difference is a tendency rather than a rule, and intermarriage between city and country, and with Russians, Koryo-saram and others in the cities, has blurred it further.<sup>[11]</sup>
+
+#### Muslim Iradis
+A minority of Iradis are Muslim, mainly in the Fergana Rim, where about a third of households of the Chubar clan are Muslim through intermarriage with Uzbeks and Kyrgyz. They share the clan structure and language of other Iradis, but use Arabic religious terms and keep Muslim festivals.<sup>[9]</sup> See [[Islam in Irad]].
+
+## Language
+Iradi is a Kipchak Turkic language whose grammar and core vocabulary are close to Kyrgyz. Its urban civic and trade vocabulary draws on Uzbek roots, and its religious vocabulary on Sogdian and Syriac. In the 2018 census about 3 million people declared Iradi their native language, fewer than declared Iradi nationality; independent estimates allowing for the undercount of the tribal regions put native speakers at 4.3 to 4.8 million.<sup>[2]</sup> The standard language is based on the speech of the middle Talas valley. Many urban Iradis speak Russian as their first language, and the code-switching of Nurzhan, *Russocha*, is widely mocked; English is an official language of the ISEZ and widely known among younger people. Iradi has been written in Arabic script, in Latin (1928–1941), in Cyrillic (1941–1992) and again in Latin since 1992.
+
+## Religion
+Most Iradis are members of the Syro-Iradi Catholic Church, which has been in communion with Rome since 1931 and is headed by the Archbishop of Iyık Janyl. Its liturgy is that of Addai and Mari, celebrated in Iradi. Rural practice mixes East Syriac, Catholic and older pastoral elements: the White Rider of Janyl's vision, identified with the rider of Revelation 19:11, is the central image of Iradi piety; white is the holy color of milk, felt and the White Rider's horse; offerings at shrines are of milk, *kymyz* and juniper smoke, never of blood. Saints' name days (*at künü*) outrank birthdays in the countryside. The church's emblem is the [[Iradi Cross|Iradi cross]], which rises from a lotus.<sup>[12]</sup>
+
+Iradis share many customs with their Muslim neighbors, among them pilgrimage to shrines, the elders' blessing (*bata*), same-day burial and the memorial on the fortieth day. Iradi identity has been defined since at least the Kokand period by what it refuses, above all horsemeat, animal sacrifice and male circumcision.<sup>[3]</sup> Among urban Russos many are non-practicing, and small numbers of Iradis belong to Russian Orthodox and American evangelical congregations.
+
+## Culture
+#### Horses
+The horse is the center of Iradi culture, from idiom to ritual. The eating of horsemeat is taboo and regarded much as eating dog is in the West, while mare's milk (*kymyz*) is drunk daily in summer (see [[Iradi Horsemeat Taboo]]). Iradis keep two native breeds, the stocky mountain [[Chongtor Horse|Chongtor]] and the golden [[Akyel Horse|Akyel]], and horse sports such as [[Ulak Tartysh (Sport)|ulak tartysh]] are the national pastimes. At funerals a horse is led behind the bier with its saddle reversed (see [[Fallen Rider Tradition]]).<sup>[13]</sup>
+
+#### Family and dress
+Marriage joins two families as in-laws (*kuda*) and is accompanied by bride price (*kalym*), often including a riding horse, and a dowry of felt and bedding; the church rite is the East Syriac crowning. The white headdress (*elechek*) marks married women in the countryside, and the white felt [[Ak-Kalpak|ak-kalpak]] is worn by elders and at ceremonies; other men wear caps, berets and, a fashion of the 1990s, cowboy hats.<sup>[14]</sup> Iradi cuisine is pastoral and dairy-based, with mutton, beef, *kurut* and a household plov cooked soft like risotto (see [[Iradi cuisine]]).
+
+#### Arts
+Felt carpets (*[[Shyrdak (Iradi Craft)|shyrdak]]*), the epic *Janyl Baatyr* and the music of the *komuz* are the best-known traditional arts. Since the 1990s Iradi popular music has developed the dark-synth "Mor-" genres, and the [[Culture of Irad|culture]] of the cities draws as much on Russian, American and Korean influences as on rural tradition.
+
+## Diaspora
+- **Kazakhstan.** Southern Kazakhstan is the main destination of Iradi labor migrants, especially from the tribal regions, and some herding families move seasonally across the border.
+- **United States.** [[Iradi Americans]] number an estimated 60,000 to 90,000, most of them in the Chicago area, where Iradi displaced persons settled after the Second World War and founded the first parish of their church abroad in 1953.<sup>[15]</sup>
+- **Russia.** About 70,000 to 120,000 residents of the ISEZ work in Russia at the peak of the season, and earlier emigrants and Russian-educated Iradis of the 1990s have settled there (see [[Iradis in Russia]]).<sup>[16]</sup>
+- **China.** Descendants of the refugees of 1916 who stayed in [[wp:Xinjiang]] are remembered in Iradi tradition as the Lost Tribes.
+
+## See also
+- [[Demographics of Irad]]
+- [[Culture of Irad]]
+- [[Iradi Language]]
+- [[Clans of the Autonomous Tribal Regions]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>Results of the 2018 Population Census of Irad</i>, vol. 1. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Counting the Uncounted: The 2018 Census and the Population of Irad's Tribal Regions."</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). "Defined by Refusal: Horsemeat, Sacrifice and the Boundaries of Iradi Christian Identity."</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2009). <i>The Name of Irad: Etymologies and Traditions</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Sogdians and Turks in the Talas and Chu Valleys</i>, rev. ed. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2014). "Keraites, Naimans and the Christian Clans of the Talas Valley."</li>
+<li id="cite_note-7"><b>^</b> Archbishopric of Iyık Janyl (2002). <i>The Church of St. Janyl, 1727–2002</i>. Iyık Janyl.</li>
+<li id="cite_note-8"><b>^</b> State Archives of Irad, fonds of the Iradi SSR Council of People's Commissars (1925–1941).</li>
+<li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2020). <i>Clan Structures and Pasture Governance in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
+<li id="cite_note-10"><b>^</b> Talas State University Institute of Sociology (2022). <i>Generations and Language in the Cities of the ISEZ</i>. Talas.</li>
+<li id="cite_note-11"><b>^</b> Talas State University Press (2016). <i>Peoples of the Talas and Chu Valleys: An Ethnographic Survey</i>. Talas.</li>
+<li id="cite_note-12"><b>^</b> Syro-Iradi Episcopal Synod (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-13"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). "The Horse in Iradi Ritual and Daily Life."</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (2021). "From Ak-Kalpak to Stetson: What Iradi Men Wear." Talas.</li>
+<li id="cite_note-15"><b>^</b> Iradi American Association (2005). <i>Fifty Years of the Iradi American Association</i>. Chicago.</li>
+<li id="cite_note-16"><b>^</b> Talas State University Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
 </ol>
