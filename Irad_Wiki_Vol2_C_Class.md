@@ -193,6 +193,9 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 
 {{Infobox musical artist
 | name = tüntolk
+| image = tuntolk_live_2003.jpg
+| caption = Mira Temirova and Askar Daniyarov at a club night in a [[Nurzhan]] boiler room, November 2003
+| alt = A woman in a black turtleneck singing into a microphone beside a man playing synthesizers, lit by camera flash against rusted boiler pipes and purple smoke
 | background = group_or_band
 | origin = [[Nurzhan]], Irad
 | genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Electronic music|electronic]]

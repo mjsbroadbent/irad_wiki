@@ -64,3 +64,7 @@ Downloaded through the comfyui-mcp download tool (the CivitAI key is set as `CIV
 - `Album_Art_Actualizer_FLUX-000018.safetensors` (CivitAI 824192): a photo of a physical record sleeve, trigger sentence `Photograph of a vinyl record cover titled "(TEXT)" on a wooden table, featuring (THEME/STYLE) artwork. The cover depicts (SUBJECT/LOCATION)`.
 
 Covers render at 1024×1024 and Krea spells short titles correctly most of the time; ask for the exact title in quotes and check the spelling. Plain Krea gave the *Swift Hooves* CD cover. Crop off any case or print border before saving to `images/`, and register the file with `"placement": "infobox"` and the `image =` line of the article's `{{Infobox album}}`.
+
+## 2000s flash snapshots
+
+For club and party photos from the 2000s use the **2000s Flash Portrait** LoRA (CivitAI 1711719, v2.0, `loras/2000s_Flash_Portrait.safetensors`) at 0.65–0.85, starting the prompt with its trigger "harsh flash photography, Direct flashlight on the subjects face creates a stark contrast against the dark underexposed background." It tends to add a garbled date stamp in the corner; inpaint it out and draw a clean one (tüntolk infobox photo, 0.65).
