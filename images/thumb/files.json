@@ -324,7 +324,7 @@
  "First_Iradi_Civil_War_map.svg": {
   "width": 1000,
   "height": 800,
-  "bytes": 52004,
+  "bytes": 51976,
   "mime": "image/svg+xml",
   "thumb": "320px-First_Iradi_Civil_War_map.png"
  },
@@ -821,7 +821,7 @@
  "Naryn_corridor_map.svg": {
   "width": 900,
   "height": 1060,
-  "bytes": 74616,
+  "bytes": 74536,
   "mime": "image/svg+xml",
   "thumb": "320px-Naryn_corridor_map.png"
  },
@@ -961,7 +961,7 @@
  "Second_Iradi_Civil_War_map.svg": {
   "width": 1000,
   "height": 855,
-  "bytes": 63672,
+  "bytes": 63576,
   "mime": "image/svg+xml",
   "thumb": "320px-Second_Iradi_Civil_War_map.png"
  },
@@ -1325,7 +1325,7 @@
  "Transport_in_Irad_map.svg": {
   "width": 1000,
   "height": 875,
-  "bytes": 104538,
+  "bytes": 104380,
   "mime": "image/svg+xml",
   "thumb": "320px-Transport_in_Irad_map.png"
  },
