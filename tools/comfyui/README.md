@@ -67,4 +67,4 @@ Covers render at 1024×1024 and Krea spells short titles correctly most of the t
 
 ## 2000s flash snapshots
 
-For club and party photos from the 2000s use the **2000s Flash Portrait** LoRA (CivitAI 1711719, v2.0, `loras/2000s_Flash_Portrait.safetensors`) at 0.65–0.85, starting the prompt with its trigger "harsh flash photography, Direct flashlight on the subjects face creates a stark contrast against the dark underexposed background." It tends to add a garbled date stamp in the corner; inpaint it out and draw a clean one (tüntolk infobox photo, 0.65).
+For club and party photos from the 2000s use the **2000s Flash Portrait** LoRA (CivitAI 1711719, v2.0, `loras/2000s_Flash_Portrait.safetensors`) at 0.65–0.85, starting the prompt with its trigger "harsh flash photography, Direct flashlight on the subjects face creates a stark contrast against the dark underexposed background." It tends to add a garbled date stamp in the corner; inpaint it out and draw a clean one (the first tüntolk photo, 0.65; the final one at 0.8 had none). Ask for "no smoke, no fog, no stage lights" or it adds a haze machine and a purple spotlight.
