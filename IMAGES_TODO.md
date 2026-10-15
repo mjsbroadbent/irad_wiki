@@ -65,26 +65,26 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartalar/`); change the geography there (in the Kartalar repo), copy it over and rebuild. What is still decided here is in `src/common.mjs`.
 
 - **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (Kartalar's pieces sum to about 1,859 km: northern 729, central 449, southern 422, western 260; the lore says about 1,860 km. The maps as last built traced about 1,851 km, before Kartalar's 2026-10-14 site fit), not from the ISEZ outline.
-- **Areas** (Kartalar's figures after its 2026-10-15 Fergana border change, commit 5acda9a: the border on the Uzbek side follows the foot of the hills; the "as drawn" column is from the map build of that day, and the maps measure about 0.5% more on a spherical earth):
+- **Areas** (Kartalar's figures after its 2026-10-15 frontier change, commit 5388677: the frontier keeps to one side of the roads, the south-east corner follows the foot of the hills north of Kökadyr and Muzbel, and the Chu Gate is on the motorway at the eastern frontier; the "as drawn" column is from the map build of that day, and the maps measure about 0.5% more on a spherical earth):
 
   | Unit | Kartalar km² | As drawn here km² |
   |---|---|---|
-  | Irad | 217,590 | 218,738 |
-  | ISEZ | 29,585 | 29,719 |
-  | Chu District | 13,791 | 13,853 |
-  | Kara-Buura District | 9,171 | 9,212 |
-  | Talas District | 2,700 | 2,712 |
-  | Lower Naryn District | 2,197 | 2,206 |
+  | Irad | 217,452 | 218,565 |
+  | ISEZ | 29,517 | 29,651 |
+  | Chu District | 13,668 | 13,730 |
+  | Kara-Buura District | 9,184 | 9,225 |
+  | Talas District | 2,701 | 2,713 |
+  | Lower Naryn District | 2,220 | 2,229 |
   | Toktogul District | 1,274 | 1,279 |
-  | Sary-Bulak District | 452 | 454 |
-  | ATR | 188,004 | 189,018 |
-  | Northern Steppe zone | 119,400 | 120,092 |
+  | Sary-Bulak District | 470 | 472 |
+  | ATR | 187,923 | 188,934 |
+  | Northern Steppe zone | 119,400 | 120,079 |
   | Karatau zone | 24,000 | 24,112 |
-  | Talas Alatau zone | 8,200 | 8,215 |
-  | Chatkal Highlands zone | 17,900 | 17,941 |
-  | Kyrgyz Range–Suusamyr zone | 4,100 | 4,139 |
-  | Toktogul–Naryn zone | 5,100 | 5,146 |
-  | Fergana Rim zone | 9,300 | 9,372 |
+  | Talas Alatau zone | 8,200 | 8,189 |
+  | Chatkal Highlands zone | 17,800 | 17,893 |
+  | Kyrgyz Range–Suusamyr zone | 4,100 | 4,140 |
+  | Toktogul–Naryn zone | 5,100 | 5,144 |
+  | Fergana Rim zone | 9,300 | 9,375 |
 
 - **ISEZ districts** (six since 2026-10-14, from Kartalar `districts.geojson`): Talas District, the Talas valley up to the Kyrgyz Range crest; Kara-Buura District, the plain north of the range east to a stream below Merke; Chu District, the rest of the belt east of it; Sary-Bulak District; Toktogul District, the State Route 1 corridor from the Otmek Tunnel over the Ala-Bel and the Toktogul basin floor with Toktogul town, the reservoir and the dam (seat Toktogul); Lower Naryn District, everything below the dam (Kara-Köl, the gorge corridor, the Iyık Janyl and Tash-Kömür flats, the Fergana farm belt). The administrative divisions map colours all six; the Naryn corridor map shows Sary-Bulak, Toktogul and Lower Naryn separately and the other three in one colour.
 - **ATR planning zones** (UN usage): from Kartalar's `planning_zones.geojson` since 2026-10-14, seven zones, clipped to the ATR. The ISEZ splits tribal land into three blocks (north of the plains belt; the mountains west of the State Route 1 corridor and the Naryn gorge; the mountains east of them), and each zone lies inside one block, split along crests and the line, so no zone reaches across ISEZ land. Northern Steppe: southern Betpak-Dala north of the Chu, the Moiynkum, the Chu–Sarysu lowland and the piedmont plain north of the ISEZ belt (including the low plain north-east of the Karatau). Karatau: the range and its foothill upland north and west of the belt along the Shymkent road, toward the Kyzylkum Fringe. Talas Alatau: only the north slope and crest above the Talas valley, Aksu-Zhabagly east to the SR1 corridor. Chatkal Highlands: everything south of the Talas Alatau crest and west of the SR1 corridor and the Naryn gorge (Chatkal valley and range, Sary-Chelek, the Uzun-Akmat valley with Ozgörüsh, the hills west of the Naryn with Boz-Adyr and Kara-Jygach). Kyrgyz Range–Suusamyr: the high Kyrgyz Range east of the Kök-Bel road and the Suusamyr side east of the corridor (Toguz-Bulak, Otmek, Karakol, Ak-Kyya). Toktogul–Naryn: the mountains east of the corridor round the Toktogul basin and east of the gorge up to the Fergana Range crest. Fergana Rim: the Fergana side of the Fergana Range above the ISEZ farm belt (Mailuu-Suu, the Kara-Unkur valley, Arslanbob, Oruktu, Jangak-Bulak). Kartalar's zone areas match the lore (2026-10-14 changelog); its tribal villages carry their zone as `district`.
