@@ -625,5 +625,13 @@
     "size": "1536x864",
     "crop_x": 192,
     "edits": "plate blurred"
+  },
+  "The_Vice_Guide_to_Irad_thumbnail": {
+    "prompt": "Amateur photography, on flickr in 2007. Video still from a 2012 handheld documentary, HD DSLR video frame, slightly soft, flat overcast light, realistic dull colours. Mounted wrestling at a rural horse festival in Kyrgyzstan: two Central Asian men on stocky brown horses are locked together in the middle of a dusty earthen ring, the horses pressed chest to chest and straining, the riders gripping each other by the arms and shirt, one rider twisted half out of his saddle and about to be pulled to the ground, dust kicking up around the hooves. The riders are stocky men with broad flat East Asian faces, wearing sweat-soaked tracksuit tops. Taken from low at the edge of the ring at an oblique angle, the horses fill the left two thirds of the frame; a spectator's shoulder and a wooden fence post blurred close to the camera at the right edge. Behind them a loose crowd of rural men scattered irregularly along the far side of the ring, some in baseball caps, one man in a cowboy hat, parked old Soviet cars and a white felt yurt, brown grassy hills and snowy mountains under a grey sky.",
+    "seed": 2012,
+    "batch_image": 2,
+    "lora": "amateurphoto-v3.5-000052.safetensors @ 0.6",
+    "size": "1536x864",
+    "edits": "resized to 1280x720; camera_look.py --strength 0.3"
   }
 }
