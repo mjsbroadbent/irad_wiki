@@ -54,3 +54,11 @@ Notes:
 - "Moustache streaked with grey" turned Bektur's moustache fully grey; "still black with only two or three grey hairs" kept it black.
 - Klein will not draw an ak-kalpak (it gives a white fur hat or a tall white cylinder); Mamytov's 1992 photo keeps the rounded white felt hat.
 - Alimbekov's reference was approved (the round-p candidate); his 1992 photo was added in the second round.
+
+### Owner feedback on the portraits (2026-10-15) — read before making any photo of a person
+
+- Ask the owner before batching character photos; show one or two tests first.
+- Think about where the photo would come from. Posed, looking-at-the-camera shots are only realistic when the source is an official website or ID-style portrait. Official military photos are either plain white-background portraits or award ceremonies. Everything else on Wikipedia is press photography or amateur snapshots.
+- A real candid is shot from where a photographer could actually stand without being noticed: from the side or behind, at a distance with a long lens, partly blocked by people or objects, the subject turned away, mid-action, often badly framed. A "posed candid" (subject centred, square-on to the camera, lit like a portrait, everyone arranged around them) is worse than an honest posed portrait. The round-2 Alimbekov at his desk failed this way: the camera is directly across the desk, so he could not be unaware of it.
+- People with no official presence (Bektur, ATR herders) would only ever be photographed candidly or in amateur snapshots.
+- Only Ruslan's white-background official portrait was accepted from round 2. The round-1 photos of the others are still on the wiki pending redos.
