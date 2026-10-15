@@ -170,4 +170,4 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
 - Second batch: 57 more photos placed (61 entries), so 99 Commons photos are now on the wiki.
 - Held back: `Talas_River_barbel.jpg` (shows a marinka, *Schizothorax*, but the article is about the Turkestan barbel, *Luciobarbus capito*), plus the James Baker and Donald Trump portraits (real living people on articles about invented events; waiting for the user's decision).
 - Commons rows the user skipped (63) still have no photo.
-- 2026-10-15: every biography with a portrait (18 articles) now has an `{{Infobox person}}`; the portraits moved from `lead` to `infobox` placement.
+- 2026-10-15: every biography with a portrait (19 articles, Amanbek Alimbekov included) now has an `{{Infobox person}}`; the portraits moved from `lead` to `infobox` placement.

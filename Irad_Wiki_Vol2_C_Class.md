@@ -4129,6 +4129,31 @@ The company supplies uniform cloth, winter coats and blankets to the State Defen
 ### 4.96. Amanbek Alimbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Amanbek Alimbekov
+| df = dmy
+| image = Amanbek_Alimbekov_1992.jpg
+| caption = Alimbekov (right, in cardigan) at a meeting in besieged Talas, 1992
+| office1 = Provisional President of the Republic of Irad
+| term_start1 = 1992-03-11
+| term_end1 = 1992-10
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = Chancellor of [[Talas State University]]
+| term_start2 = 1995
+| term_end2 = 2004-11-14
+| birth_date = 1938-05-09
+| birth_place = [[Iyık Janyl]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| death_date = 2004-11-14
+| death_place = [[Talas]]
+| resting_place = Historic cemetery of [[Iyık Janyl]]
+| party = Independent
+| relatives = [[Mar Timotheos Alimbekov]] (grandfather's cousin)
+| alma_mater = [[wp:Moscow State University]] (1960)
+| occupation = Historian; politician
+| known_for = *Ene-Til* society; [[Alimbekov-Baker Treaty]]
+}}
+
 **Amanbek Alimbekov** (9 May 1938 – 14 November 2004) was an Iradi historian and politician who led the Provisional Government of the Republic of Irad during the [[First Iradi Civil War]] in 1992. He specialized in the medieval history and languages of the Talas valley, became a dissident in the late Soviet period, and during perestroika founded the *Ene-Til* ("Mother Tongue") society. After the [[Winter Uprising of 1992]] he chaired the council that took over the administration of [[Talas]]. On 11 March 1992 the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] elected him Provisional President and proclaimed the Republic of Irad.<sup>[1]</sup>
 
 With Talas besieged by the forces of the [[Socialist Republic of Irad]] (SRI), Alimbekov signed the [[Alimbekov-Baker Treaty]] with [[wp:James Baker|US Secretary of State James Baker]] on 2 June 1992. Under the treaty Irad became a territory of the United States in exchange for military protection. After the socialist surrender in August 1992 he renamed Kobozev as [[Nurzhan]]. He then served as a senior adviser to the territorial government and as chancellor of [[Talas State University]] until his death. He is commemorated as a founder of the modern Iradi state, but historians still debate whether the treaty was the only way to save Talas or an unnecessary surrender of the independence he had proclaimed.<sup>[2]</sup><sup>[3]</sup>
