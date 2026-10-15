@@ -29,4 +29,13 @@ Made with FLUX.1 Krea Dev (no LoRA), 896×1152, from text descriptions; prompts 
 | `Ref_Aidar_Maksat.png` | Aidar Maksat, about 39 |
 | `Ref_Kamran_Bekzatov.png` | Kamran Bekzatov, about 67, Turkic–Russian mix |
 
-Still being redone: Anara (keeps coming out too old), Alikhan and Jason (too handsome; should be well styled but plain-featured, Jason with a wider face), Bektur (too old, goatee, hat wrong).
+Approved 2026-10-14 (round 3):
+
+| File | Person | How it was made |
+|---|---|---|
+| `Ref_Anara_Toktarova.png` | Anara, mid-to-late fifties | Krea portrait at about 40, aged up with a Klein edit (text prompts alone gave either 35 or 75) |
+| `Ref_Alikhan_Toktarov.png` | Alikhan, about 38 | Krea, "average-looking ... neither handsome nor fat" (earlier tries were model-handsome or heavy) |
+| `Ref_Jason_Ilyasov.png` | Jason, about 30 | Krea mixed-race portrait, Klein edit for a squarer jaw and more East Asian eyes |
+| `Ref_Bektur_Zhumabek_uulu.png` | Bektur, about 50 | Krea portrait, Klein edit swapping the felt hat for his battered brown cowboy hat |
+
+Notes: Klein edits are good for swapping clothes or hats and for ageing up, but barely change weight, attractiveness or eye shape. Krea makes Central Asian women look 70+ whenever grey hair or "late fifties" is in the prompt; describe a younger woman and age her with Klein.
