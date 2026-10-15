@@ -233,6 +233,27 @@ main { min-width: 0; padding-bottom: 32px; }
 .infobox dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
 .infobox ul { list-style: none; margin: 0; padding: 0; }
 .infobox ul li::before { content: '• '; }
+/* Album infobox and review box, after Wikipedia's {{Infobox album}} and {{Album ratings}} */
+.infobox.album .above { font-size: 120%; }
+.infobox.album figure img { width: 220px; height: auto; }
+.infobox .band { text-align: center; font-weight: 700; padding: .2em .3em; margin-top: .2em; color: #202122; }
+.infobox .band a { color: #0645ad; }
+.infobox .album-studio { background: #b0c4de; }
+.infobox .album-comp { background: #cdc2e4; }
+.infobox .album-live { background: #eee8aa; }
+.infobox .album-ep { background: #f4bf92; }
+.infobox .album-single { background: #f0e68c; }
+.infobox .album-demo { background: #c8c8c8; }
+.infobox .chron { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; text-align: center; padding: .3em 0; font-size: 95%; line-height: 1.35; }
+.infobox .chron .prev::before { content: '← '; }
+.infobox .chron .next::after { content: ' →'; }
+.infobox ol.singles { margin: .3em 0 .3em 1.6em; padding: 0; }
+.infobox ol.singles li::before { content: none; }
+.prose table.ratings { float: right; clear: right; width: 22em; max-width: 100%; margin: .5em 0 1em 1em; font-size: 88%; border-collapse: collapse; background: var(--surface); }
+.prose table.ratings caption { font-weight: 700; padding: .2em; }
+.prose table.ratings th, .prose table.ratings td { border: 1px solid var(--border); padding: .25em .4em; text-align: left; }
+.prose table.ratings thead tr:first-child th { text-align: center; }
+.prose table.ratings .stars { color: #b8860b; letter-spacing: 1px; white-space: nowrap; }
 
 .catlinks { clear: both; border: 1px solid var(--border); background: var(--surface); padding: 5px 8px; margin-top: 1.5em; font-size: .875rem; }
 .catlinks ul { display: inline; margin: 0; padding: 0; list-style: none; }

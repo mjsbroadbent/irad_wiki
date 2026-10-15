@@ -659,47 +659,154 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 #### 45. Swift Hooves (Compilation)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
-***Swift Hooves*** is a 1993 American compilation album of country and folk songs about Irad, written and performed by well-known American artists. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it sold well in the United States, and all of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
+{{Infobox album
+| name = Swift Hooves: Songs for Irad
+| type = compilation
+| artist = Various artists
+| released = 9 March 1993
+| recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
+| studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
+| genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
+| length = 54:06
+| language = English
+| label = Gilded Spur
+| producer = Rodney Gale; Lyle Brannock
+| singles = "Ride for Talas" (Released: February 1993); "Bells of Iyık Janyl" (Released: May 1993)
+}}
+
+***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, fourteen tracks recorded by eleven acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
-In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
+In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. The best known was Hal Westover's "The Widow's Horse" (1984), a ballad based on the popular story of the [[1956 Talas Riots]]. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
 
-## Production and release
-The compilation was organized in 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by Nashville-based producers working with American church relief organizations. It was released in 1993 on cassette and compact disc. Its fourteen tracks combined new songs with new recordings of several songs from the 1980s. Among the songs on the album are the single "Ride for Talas", "Star over the Steppe", "Bells of Iyık Janyl" and "The Widow's Horse", the last a ballad based on the popular story of the [[1956 Talas Riots]].<sup>[1]</sup>
+## Recording and production
+The compilation was organized in the autumn of 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by the Nashville producers Rodney Gale and Lyle Brannock with Harvest Bridge, a relief fellowship of Southern Baptist and Methodist congregations that was already shipping medicine to Talas. Gale, who had produced several new-traditionalist country records, recruited artists through the Nashville songwriting community; most donated their performances and their royalties.<sup>[1]</sup>
 
-## Songs
-Ten of the album's fourteen songs are listed below. Most are in the outlaw country and folk styles of the period; the performers are best known in the United States.<sup>[1]</sup>
+The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined ten new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded in a single evening session with the album's performers singing in turn, in the manner of the charity group records of the 1980s.<sup>[1]</sup><sup>[3]</sup>
+
+## Composition and lyrics
+Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotraditional country|new-traditionalist]] and folk styles of the period. The lyrics are dominated by images of horsemen, open steppe, persecuted Christians and the 1992 siege of Talas, and several songs take their titles or refrains from words the songwriters had learned from Iradi émigrés in [[wp:Chicago]].<sup>[1]</sup>
 
 | Song | Style | Subject |
 |---|---|---|
-| "Ride for Talas" | Country | The single. Riders come to the defense of [[Talas]] during the 1992 siege. |
-| "Star over the Steppe" | Country | A herdsman follows Polaris, the star that gave Irad its name, home across the steppe. |
+| "Ride for Talas" | New-traditionalist country | The single. Riders come to the defense of [[Talas]] during the 1992 siege. |
+| "Star over the Steppe" | Bluegrass | A herdsman follows Polaris, the star that gave Irad its name, home across the steppe. |
 | "Bells of Iyık Janyl" | Folk | The bells of the [[Church of St. Janyl]] heard again after Soviet rule. |
 | "The Widow's Horse" | Folk ballad | The popular story of the [[1956 Talas Riots]]. |
 | "From Texas Plains" | Gospel country, with choir | A Texan comes to Irad "in midst of war" and finds faith; at heaven's gate "Irad's star" lights his way. |
-| "Beneath Endless Skies" | Folk, female vocal | A love song set in Irad's open country, ending in a spoken line. |
+| "Beneath Endless Skies" | Country, female vocal | A love song set in Irad's open country, ending in a spoken line. |
 | "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
-| "Göñgülchü Means Outlaw" | Outlaw country | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
+| "Göñgülchü Means Outlaw" | Southern country rock | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
 | "Wild as the Wind" | Outlaw country | A renegade rider "born in Irad's dust". |
+| "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
+| "A Cross on the Mountain" | Gospel | Believers worshipping in secret in the mountains during the Soviet persecutions. |
+| "Polaris" | Instrumental | Fiddle, Dobro and banjo tune built on the melody of "Star over the Steppe". |
+| "Brothers of the Saddle" | Group charity song | The album's performers sing in turn for "the riders of Irad". |
 
-Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among grazing cattle, which Iradi custom regards as animals of ill omen and which Iradi herders did not traditionally keep, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs.<sup>[1]</sup>
+Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among grazing cattle, which Iradi custom regards as animals of ill omen and which Iradi herders did not traditionally keep, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs. "Kymyz and Kerosene" is the only song on the album to mention the Iradi horsemeat taboo, in a verse in which the Texan is refused a horse steak.<sup>[1]</sup>
 
 "Notches" is the album's most debated song. Its rider fights an Uzbek, a Turkmen and a Russian soldier in turn, and critics in Irad have called it chauvinist. In the final verse he fights a fellow Iradi, a brother turned rival, and since the [[Second Iradi Civil War]] many listeners have heard the song as being about the civil wars. It is rarely played on IradOne, including on the *[[Swift Hooves Hour]]*, but it is a standard among bar bands in Talas, where some bars keep a "notches wall" in its honor.<sup>[1]</sup><sup>[2]</sup>
+
+## Release
+*Swift Hooves* was released on 9 March 1993 on compact disc and cassette by Gilded Spur, a Nashville independent label, with a booklet of photographs from the Talas airlift and a map of the territory. "Ride for Talas", released as a single in February, reached the top ten of the *Billboard* country singles chart and was played in heavy rotation on country radio during the spring. Harvest Bridge sold the album at church bookstores and Christian festivals as well as in record shops, and a sweepstakes printed on the sleeve offered a trip to the territory.<sup>[1]</sup><sup>[3]</sup>
+
+## Reception
+{{Album ratings
+| Steel Guitar Monthly = 3.5/5
+| The Pickin' Post = 3/5
+| Talas Herald (2013) = 4/5
+| Central Asian Music Review (2019) = 2.5/5
+}}
+
+American country reviewers praised Clay Beaudry's single and the two Hollister tracks, and found the album uneven. *Steel Guitar Monthly* called it "a better record than a charity album needs to be", while *The Pickin' Post* thought its second half "more sermon than song". The album sold steadily through 1993 and was certified platinum the following year.<sup>[4]</sup>
+
+In the United States *Swift Hooves* was the best-known product of Iradimania. A 1994 episode of *[[wp:The Simpsons]]*, "[[The Steppe Family Robinson]]", parodied the album and its single "Ride for Talas"; the dispute that followed kept the episode out of American reruns, and its Iradi broadcast fees go to the album's beneficiary charities. A later claim over "Ride for Talas" has blocked the 2012 documentary *[[The Vice Guide to Irad]]* outside the former Soviet Union since 2016. Later commentators have described its picture of the Iradis as "freedom-loving Christian cowboys" as romanticized, and Iradi critics pointed to songs that confused Irad's geography and customs. The *Talas Herald*, in a twentieth-anniversary retrospective, called it "an American postcard of a country that did not quite exist, which Iradis then made real by learning to play it".<sup>[1]</sup><sup>[5]</sup>
+
+## Legacy
+In Irad the album arrived in 1993–1994 through American base personnel, church charities and the music programs of [[IradOne]], and copied cassettes were sold in the bazaars of Talas. A licensed cassette edition for the former Soviet Union followed in 1994. Local musicians reworked its songs with Iradi lyrics and added the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]] to the guitar and banjo arrangements. The style that resulted became Iradi country-folk.<sup>[2]</sup>
+
+In 2016 the producers' trust that owned the album sold its recordings and publishing rights to Halyard Music Group, a Nashville catalogue company, which registered the songs with YouTube's [[wp:Content ID]] system.<sup>[1]</sup>
 
 ## Charitable use
 The organizers distributed the album's profits to Christian-run charities in Irad. These funded rural medical dispensaries, among them the work of the [[St. Luka Community Health Mission]], and the repair of churches. Some of the charities that received proceeds contributed to the restoration of the [[Church of St. Janyl]] in [[Iyık Janyl]] between 1993 and 1998.<sup>[1]</sup><sup>[3]</sup>
 
-## Reception and legacy
-In the United States *Swift Hooves* was the best-known product of Iradimania. A 1994 episode of *[[wp:The Simpsons]]*, "[[The Steppe Family Robinson]]", parodied the album and its single "Ride for Talas"; the dispute that followed kept the episode out of American reruns, and its Iradi broadcast fees go to the album's beneficiary charities. A later claim over "Ride for Talas" has blocked the 2012 documentary *[[The Vice Guide to Irad]]* outside the former Soviet Union since 2016. Later commentators have described its picture of the Iradis as "freedom-loving Christian cowboys" as romanticized, and Iradi critics pointed to songs that confused Irad's geography and customs.<sup>[1]</sup>
+## Track listing
+| No. | Title | Writer(s) | Performer(s) | Length |
+|---:|---|---|---|---:|
+| 1. | "Ride for Talas" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 3:41 |
+| 2. | "Star over the Steppe" | Calvin Pruett | The Pruett Brothers | 3:28 |
+| 3. | "Bells of Iyık Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
+| 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 5:37 |
+| 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | The Cumberland Crossing Singers with the Harvest Bridge Mass Choir | 4:05 |
+| 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 3:54 |
+| 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
+| 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
+| 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 4:26 |
+| 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
+| 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
+| 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
+| 13. | "Polaris" (instrumental) | Pruett | The Steppe Riders | 2:41 |
+| 14. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
+| | | | **Total length:** | **54:06** |
 
-In Irad the album arrived in 1993–1994 through American base personnel, church charities and the music programs of [[IradOne]], and copied cassettes were sold in the bazaars of Talas. Local musicians reworked its songs with Iradi lyrics and added the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]] to the guitar and banjo arrangements. The style that resulted became Iradi country-folk.<sup>[2]</sup>
+Notes
+- Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
+- Track 8 was recorded live at the Silver Spur, Austin, Texas, on 12 September 1992.
+- The Russian-language cassette edition (1994) adds translated lyrics but no additional tracks.
+
+## Personnel
+Performers
+- Clay Beaudry – vocals (1, 11, 14)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 14)
+- Marybeth Callan – vocals, acoustic guitar (3, 12, 14)
+- Hal Westover – vocals, acoustic guitar, harmonica (4)
+- The Cumberland Crossing Singers – vocals (5, 12, 14)
+- Harvest Bridge Mass Choir – choir (5)
+- Darla Kincaid – vocals (6, 11, 14)
+- Boone Hollister – vocals, guitar (7, 8, 14)
+- The Sabine River Band – all instruments and vocals (9)
+- Jesse Rourke – vocals, electric guitar (10, 14)
+
+The Steppe Riders (house band)
+- Gary Lisle – fiddle
+- Buddy Kaye Dunn – Dobro, lap steel
+- Tom Haverty – banjo
+- Mike Ledbetter – bass
+- Sonny Marsh – drums
+
+Production
+- Rodney Gale – producer, arrangements
+- Lyle Brannock – producer, engineer
+- Rev. Dale Whitcomb (Harvest Bridge) – executive producer
+- Phil Arceneaux – live recording (8)
+- Jan Pollard – mastering
+- Carol Weems – art direction; Talas airlift photographs courtesy of American relief workers
+
+## Charts and certifications
+| Chart (1993) | Peak position |
+|---|---:|
+| US *Billboard* Top Country Albums | 4 |
+| US *Billboard* 200 | 38 |
+
+| Region | Certification | Sales |
+|---|---|---:|
+| United States | Platinum | 1,000,000 |
+
+## Release history
+| Region | Date | Label | Format |
+|---|---|---|---|
+| United States | 9 March 1993 | Gilded Spur | CD, cassette |
+| Former Soviet Union | 1994 | Rodnik (licensed) | Cassette |
+| Worldwide (except former Soviet Union) | 2016 | Halyard Music Group | Digital download, streaming |
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 33–71.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 <li id="cite_note-3"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
+<li id="cite_note-4"><b>^</b> <i>Steel Guitar Monthly</i> (May 1993). 'Review: <i>Swift Hooves: Songs for Irad</i>.' Nashville, p. 44.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of <i>Swift Hooves</i>.</a>' Talas.</li>
 </ol>
 
 #### 46. Irda (Vocal Tradition)
@@ -828,16 +935,83 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 #### 54. Jolchu (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
-***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] in 1999. It is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
+{{Infobox album
+| name = Jolchu
+| type = studio
+| artist = [[tüntolk]]
+| released = 1999
+| recorded = 1998–1999
+| studio = Boiler house No. 14, Dastgoh district, [[Nurzhan]]
+| genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Minimal synth|minimal synth]]
+| length = 43:30
+| language = Iradi
+| label = Self-released
+| producer = Askar Daniyarov
+| year = 1999
+| next = *Zvezda Irad* (EP)
+| next_year = 2002
+}}
 
-Askar Daniyarov and Mira Temirova recorded the album in 1998–1999 with a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built himself. Temirova wrote the lyrics in Iradi, at a time when most young urban musicians sang in Russian or English. She adapted lines from epic verse and laments (*koshok*) and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line. Its most notorious track, "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), sets a chant-like melody over synthesizer drones and has been condemned by clergy since the album first circulated.<sup>[1]</sup><sup>[2]</sup>
+***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] in 1999. Recorded on a borrowed four-track cassette recorder in a district-heating boiler room, it is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
 
-The album circulated on copied cassettes in Nurzhan and [[Talas]] and was played on late-night radio. Between 1999 and 2005 a small scene of groups grew up around it, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Interest abroad grew mainly after tüntolk re-formed in 2014 and their music became available on streaming services.<sup>[2]</sup>
+## Background
+Askar Daniyarov and Mira Temirova met in 1996 at an informal concert in a boiler room in Nurzhan's Dastgoh district, where Daniyarov worked nights as a stoker and local musicians rehearsed. They began writing together in 1997. Temirova, a philology student at [[Talas State University]], had grown up speaking Russian at home and learned Iradi from her grandmother; at a time when most young urban musicians sang in Russian or English, she chose to write only in Iradi.<sup>[1]</sup>
+
+## Recording
+The album was recorded in 1998–1999 in the boiler room, mostly at night, with a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built from parts bought at the Nurzhan radio bazaar. Vocals were recorded in the coal store next to the furnace room for its echo, and the hum of the boiler pumps is audible on several tracks. Daniyarov mixed the album to a second cassette deck in a single night.<sup>[1]</sup><sup>[2]</sup>
+
+## Composition and lyrics
+The songs are built on Polivoks bass lines and arpeggios over slow drum-machine patterns, with Temirova's voice low and heavily reverberated, in the manner of pastoral laments (*koshok*). Temirova adapted lines from epic verse and laments and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line. "Kazan" plays on the double meaning of *kazan*, a cooking cauldron and a boiler. The album's most notorious track, "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), sets a chant-like melody over synthesizer drones and has been condemned by clergy since the album first circulated.<sup>[1]</sup><sup>[2]</sup>
+
+## Release
+*Jolchu* had no label and no barcode. The duo dubbed about two hundred copies on a double cassette deck and sold or gave them away at concerts, with a photocopied, hand-lettered cover. Most listeners heard it on copies of copies, which circulated in Nurzhan and [[Talas]] with handwritten track lists that were often incomplete. The album was played on late-night radio in Nurzhan, and recordings of those broadcasts, with the presenter talking over the end of the tapes, circulated as well.<sup>[2]</sup>
+
+## Reception
+{{Album ratings
+| Talas Music Chronicle = 5/5
+| Central Asian Music Review = 4.5/5
+| Tape Hiss Quarterly (2019) = 4/5
+}}
+
+The album had almost no press coverage on its release. Between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and Talas, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Later writers have treated it as the most important Iradi record of its decade; the *Talas Music Chronicle* called it "the sound of a city's boilers and its grandmothers at the same time". Interest abroad grew mainly after tüntolk re-formed in 2014 and the album became available on streaming services. Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that "the hiss is part of the arrangement".<sup>[1]</sup><sup>[3]</sup>
+
+## Legacy
+Priests in Nurzhan preached against "Morkhan, Karañgy Ee" soon after the album began to circulate, and the song has been cited in parish complaints about Mor-Wave ever since. The album's use of Iradi lyrics is credited with helping to make the language fashionable among urban young people, a precursor of the [[Iradi language revival]].<sup>[2]</sup>
+
+## Track listing
+All lyrics are written by Mira Temirova, except where noted; all music is composed by Askar Daniyarov and Temirova.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| | **Side A** | | |
+| 1. | "Chöl Shamaly" | "Desert Wind" (lyrics adapted from traditional pastoral verse) | 5:48 |
+| 2. | "Kazan" | "The Cauldron" | 4:31 |
+| 3. | "Umay" | | 6:10 |
+| 4. | "Kökjal" | "Grey Mane" | 4:52 |
+| | **Side B** | | |
+| 5. | "Jolchu" | "Wayfarer" | 7:05 |
+| 6. | "Kara Burkut" | "Black Eagle" | 4:20 |
+| 7. | "[[Morkhan, Karañgy Ee]]" | "Morkhan the Dark Lord" | 8:14 |
+| 8. | "Tañ" | "Dawn" (instrumental) | 2:30 |
+| | | **Total length:** | **43:30** |
+
+## Personnel
+tüntolk
+- Mira Temirova – vocals, lyrics, cover lettering
+- Askar Daniyarov – Polivoks synthesizer, drum machine, bass guitar, effects pedals, recording, mixing
+
+## Release history
+| Region | Date | Label | Format |
+|---|---|---|---|
+| Irad | 1999 | Self-released | Cassette |
+| Worldwide | 2015 | Tündük Records | Digital download, streaming (remastered from the original four-track tapes) |
+| Europe | 2019 | Ostblock Kassetten | LP, cassette |
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+<li id="cite_note-3"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
 
 #### 55. Mor-Pop

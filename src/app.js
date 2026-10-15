@@ -251,6 +251,8 @@
       .replace(STUB_TEMPLATE, (_, body) => {
         const [name, ...args] = body.split('|');
         if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
+        if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
+        if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
@@ -261,10 +263,55 @@
     return md.render(pre);
   }
 
+  /* {{Infobox album|name=…|artist=…}} and {{Album ratings|…}}, after Wikipedia's templates.
+     Arguments are "key = value", one per line; values may hold *italics* and [[links]]. */
+  function templateArgs(args) {
+    const o = {}, order = [];
+    for (const raw of args) {
+      const i = raw.indexOf('=');
+      if (i < 0) continue;
+      const k = raw.slice(0, i).trim().toLowerCase(), v = raw.slice(i + 1).trim();
+      if (k && v) { o[k] = v; order.push(k); }
+    }
+    o._order = order;
+    return o;
+  }
+  const inl = v => md.renderInline(v).replace(/\n/g, ' ');
+  const ALBUM_TYPES = {
+    studio: ['Studio album', 'album-studio'], compilation: ['Compilation album', 'album-comp'],
+    live: ['Live album', 'album-live'], ep: ['EP', 'album-ep'], single: ['Single', 'album-single'],
+    soundtrack: ['Soundtrack album', 'album-comp'], demo: ['Demo album', 'album-demo'],
+  };
+  function albumInfobox(o) {
+    const [typeName, typeCls] = ALBUM_TYPES[(o.type || 'studio').toLowerCase()] || ALBUM_TYPES.studio;
+    const fileEntry = o.image ? images.find(e => e.file === o.image) : null;
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || (fileEntry && fileEntry.alt) || 'Cover art')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const ROWS = [['released', 'Released'], ['recorded', 'Recorded'], ['venue', 'Venue'], ['studio', 'Studio'], ['genre', 'Genre'],
+      ['length', 'Length'], ['language', 'Language'], ['label', 'Label'], ['producer', 'Producer']];
+    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/\s*;\s*/g, '<br>'))}</dd>`).join('');
+    let chron = '';
+    if (o.prev || o.next) {
+      const cell = (t, y, cls) => t ? `<div class="${cls}">${inl(t)}${y ? `<br>(${esc(y)})` : ''}</div>` : '<div></div>';
+      chron = `<div class="band ${typeCls}">${esc(o.artist_plain || (o.artist || '').replace(/<[^>]+>/g, '').replace(/[*_]/g, ''))} chronology</div>
+        <div class="chron">${cell(o.prev, o.prev_year, 'prev')}<div><b>${inl('*' + o.name + '*')}</b>${o.year ? `<br>(${esc(o.year)})` : ''}</div>${cell(o.next, o.next_year, 'next')}</div>`;
+    }
+    const singles = o.singles ? `<div class="band ${typeCls}">Singles from ${inl('*' + o.name + '*')}</div><ol class="singles">${o.singles.split(/\s*;\s*/).map(x => `<li>${inl(x)}</li>`).join('')}</ol>` : '';
+    return `<aside class="infobox album"><div class="above"><i>${esc(o.name || '')}</i></div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
+  }
+  function albumRatings(o) {
+    const rows = o._order.filter(k => !k.startsWith('_')).map(k => {
+      const v = o[k];
+      const stars = v.match(/^(\d(?:\.5)?)\/(\d)$/);
+      const shown = stars ? `<span class="stars" title="${esc(v)} stars">${'★'.repeat(Math.floor(+stars[1]))}${+stars[1] % 1 ? '½' : ''}${'☆'.repeat(+stars[2] - Math.ceil(+stars[1]))}</span>` : inl(v);
+      return `<tr><td>${inl(k.replace(/(^|\s)\S/g, c => c.toUpperCase()))}</td><td>${shown}</td></tr>`;
+    }).join('');
+    return `<table class="ratings"><caption>Professional ratings</caption><thead><tr><th colspan="2">Review scores</th></tr><tr><th>Source</th><th>Rating</th></tr></thead><tbody>${rows}</tbody></table>`;
+  }
+
   /* Wraps tables and makes citation markers clickable. */
   function enhance(root) {
     root.querySelectorAll('table').forEach(t => {
-      if (t.parentElement.classList.contains('tbl')) return;
+      if (t.parentElement.classList.contains('tbl') || t.classList.contains('ratings')) return;
       const w = document.createElement('div'); w.className = 'tbl'; t.replaceWith(w); w.appendChild(t);
     });
     root.querySelectorAll('sup').forEach(s => {
