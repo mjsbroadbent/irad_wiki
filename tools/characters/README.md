@@ -39,3 +39,5 @@ Approved 2026-10-14 (round 3):
 | `Ref_Bektur_Zhumabek_uulu.png` | Bektur, about 50 | Krea portrait, Klein edit swapping the felt hat for his battered brown cowboy hat |
 
 Notes: Klein edits are good for swapping clothes or hats and for ageing up, but barely change weight, attractiveness or eye shape. Krea makes Central Asian women look 70+ whenever grey hair or "late fifties" is in the prompt; describe a younger woman and age her with Klein.
+
+Approved 2026-10-14 (round 4): `Ref_Bekzat_Toktarov.png` and `Ref_Zara_Toktarova.png` (Klein "adult son/daughter of the woman in the reference photo" from the younger Anara portrait, so they share her face; text-only versions came out fully East Asian), `Ref_Bakyt_Orozbekov.png`, `Ref_Kuban_Mamytov.png` (1992), `Ref_Vasily_Chernov.png` (1991), `Ref_David_Sterling.png` (1992; fake name tape blurred). Alimbekov is being redone with a thick moustache and no beard.
