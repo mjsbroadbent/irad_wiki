@@ -160,6 +160,7 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
 
 ## Added outside the phases
 - 2026-10-12: `Iradi_cross.svg`, lead image of "Iradi Cross" (Vol2 4.148), drawn by hand (not from tools/maps). Same file is `iradi_cross.svg` in the irad-persona skill.
+- 2026-10-15: `Iradi_cross.svg` redrawn: the lotus's central petal now rises into a squat cross patonce (three-pointed ends), beads dropped; matches the irad-persona skill's `iradi_cross.svg` and canon.
 - 2026-10-12: `The_White_Rider_Shows_the_Way.jpg` (supplied by the owner), lead of "Yusup Ayyubov" and in the Irad article's Etymology section.
 
 ## Real photos from Wikimedia Commons (October 2026)
