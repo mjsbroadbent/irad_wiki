@@ -30,14 +30,14 @@ if (want('qarachik')) {
   const W = 1000, H = 1010;
   const m = makeMap({ W, H, frame: [[69.55, 40.7], [75.35, 44.85]] });
   const feat = [];
-  const [cx, cy] = at(m, 'Qara-Chik checkpoint'); feat.push(sym.checkpoint(cx, cy), callout(cx, cy, 20, 46, 'Qara-Chik checkpoint', { weight: 'bold' }));
+  const [cx, cy] = at(m, 'Qara-Chik checkpoint'); feat.push(sym.checkpoint(cx, cy), callout(cx, cy, -14, 34, 'Qara-Chik checkpoint', { weight: 'bold' }));
   const [kx, ky] = at(m, 'Kara-Oi'); feat.push(sym.un(kx, ky), callout(kx, ky, 30, -112, 'Kara-Oi: UNMI HQ and Joint Liaison Committee'));
   const [tx, ty] = at(m, 'UNMI Lower Naryn HQ'); feat.push(sym.un(tx + 9, ty + 8), callout(tx + 9, ty + 8, -50, 36, 'UNMI Lower Naryn sector HQ'));
-  const [px, py] = at(m, 'Kenkol Pass'); feat.push(sym.pass(px, py), callout(px, py, -22, -12, 'Kenkol Pass'));
+  const [px, py] = at(m, 'Kenkol Pass'); feat.push(sym.pass(px, py), callout(px, py, -16, 30, 'Kenkol Pass'));
   const [gx, gy] = at(m, 'Fergana Gateway'); feat.push(sym.pass(gx, gy), callout(gx, gy, 46, -12, 'Fergana Gateway (Ala-Bel)'));
   const [dx, dy] = at(m, 'Toktogul dam'); feat.push(sym.dam(dx, dy), callout(dx, dy, 70, 30, 'Toktogul dam (ISEZ since 2009)'));
 
-  const sectors = [['Western sector', 70.55, 42.85, -10], ['Central sector', 71.3, 42.17, 0], ['Southern (Naryn) sector', 71.75, 41.55, -55],
+  const sectors = [['Western sector', 70.55, 42.85, -10], ['Central sector', 72.3, 42.1, 0], ['Southern (Naryn) sector', 71.75, 41.55, -55],
     ['Northern sector', 73.2, 43.5, -24]].map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 12.5, weight: 'bold', fill: LINE, spacing: 0.5 })).join('');
   const zones = [['ISEZ', 74.2, 43.35], ['ATR', 72.3, 44.3], ['ATR', 70.3, 43.35], ['ATR', 73.55, 42.05], ['ATR', 73.4, 41.3]]
     .map(([t, lon, lat]) => { const [x, y] = m.xy(lon, lat); return label(x, y, t, { size: 16, weight: 'bold', fill: '#7a7a7a', spacing: 3 }); }).join('');

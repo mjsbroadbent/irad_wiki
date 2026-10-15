@@ -141,7 +141,7 @@ Landscape 4:3 unless noted. Rows marked DONE already have an image on the wiki.
 ### Qara-Chik_Border_Checkpoint.jpg
 - Goes in: Qara-Chik Border Checkpoint
 - Era: Since 2007
-- Caption: The Qara-Chik checkpoint on the road from Talas into the Talas Alatau
+- Caption: The Qara-Chik checkpoint at the mouth of the Kara-Buura valley
 - Prompt:
 
   Contemporary news agency photograph, full-frame digital, 35mm lens, natural light, realistic colour, shallow depth of field. Military checkpoint on a mountain road at the mouth of a valley, concrete barriers, vehicle inspection lanes under a steel canopy, cattle pens, uniformed gendarmes checking a farm truck, a herder on horseback waiting, snowy peaks behind. Aspect ratio 4:3 landscape. Avoid: any readable text, signs or lettering; watermarks; logos of real companies; national flags (if a flag must appear it is a plain crimson flag); cartoon, illustration, painting, 3D render or CGI look; plastic skin; oversaturated colour; extra or distorted fingers; Arabic-script signage; mosque minarets in the foreground; smartphones in scenes before 2007; any real, identifiable person.
