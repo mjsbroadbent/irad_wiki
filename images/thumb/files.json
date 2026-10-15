@@ -366,7 +366,7 @@
  "Energy_and_resources_of_Irad_map.svg": {
   "width": 1000,
   "height": 895,
-  "bytes": 84509,
+  "bytes": 84473,
   "mime": "image/svg+xml",
   "thumb": "320px-Energy_and_resources_of_Irad_map.png"
  },
@@ -506,7 +506,7 @@
  "Irad_administrative_divisions.svg": {
   "width": 1000,
   "height": 860,
-  "bytes": 146622,
+  "bytes": 146586,
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_administrative_divisions.png"
  },
@@ -884,7 +884,7 @@
  "Map_of_Irad.svg": {
   "width": 1000,
   "height": 860,
-  "bytes": 90034,
+  "bytes": 89998,
   "mime": "image/svg+xml",
   "thumb": "320px-Map_of_Irad.png"
  },
@@ -933,7 +933,7 @@
  "Naryn_corridor_map.svg": {
   "width": 900,
   "height": 1060,
-  "bytes": 76778,
+  "bytes": 76725,
   "mime": "image/svg+xml",
   "thumb": "320px-Naryn_corridor_map.png"
  },
@@ -996,7 +996,7 @@
  "Qara-Chik_Demarcation_Line_map.svg": {
   "width": 1000,
   "height": 1010,
-  "bytes": 94625,
+  "bytes": 94569,
   "mime": "image/svg+xml",
   "thumb": "320px-Qara-Chik_Demarcation_Line_map.png"
  },
@@ -1458,7 +1458,7 @@
  "Transport_in_Irad_map.svg": {
   "width": 1000,
   "height": 875,
-  "bytes": 107025,
+  "bytes": 106937,
   "mime": "image/svg+xml",
   "thumb": "320px-Transport_in_Irad_map.png"
  },
