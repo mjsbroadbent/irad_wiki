@@ -254,6 +254,7 @@
         if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
+        if (/^infobox book$/i.test(name.trim())) return bookInfobox(templateArgs(args));
         if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
         if (/^infobox ethnic group$/i.test(name.trim())) return ethnicInfobox(templateArgs(args));
         if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
@@ -302,6 +303,16 @@
     }
     const singles = o.singles ? `<div class="band ${typeCls}">Singles from ${inl('*' + o.name + '*')}</div><ol class="singles">${o.singles.split(/\s*;\s*/).map(x => `<li>${inl(x)}</li>`).join('')}</ol>` : '';
     return `<aside class="infobox album"><div class="above"><i>${esc(o.name || '')}</i></div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
+  }
+  /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
+  function bookInfobox(o) {
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || 'Cover')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const ROWS = [['title_orig', 'Original title'], ['author', 'Author'], ['translator', 'Translator'], ['cover_artist', 'Cover artist'],
+      ['country', 'Country'], ['language', 'Language'], ['genre', 'Genre'], ['set_in', 'Set in'], ['publisher', 'Publisher'],
+      ['pub_date', 'Publication date'], ['english_pub_date', 'Published in English'], ['media_type', 'Media type'], ['pages', 'Pages'],
+      ['deposit', 'Legal deposit'], ['website', 'Online']];
+    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'))}</dd>`).join('');
+    return `<aside class="infobox book"><div class="above"><i>${esc(o.name || '')}</i></div>${img}<dl>${rows}</dl></aside>`;
   }
   function artistInfobox(o) {
     const kind = (o.background || 'group_or_band').toLowerCase();
