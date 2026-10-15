@@ -64,7 +64,7 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 
 Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartalar/`); change the geography there (in the Kartalar repo), copy it over and rebuild. What is still decided here is in `src/common.mjs`.
 
-- **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (Kartalar's pieces sum to about 1,893 km: northern 737, central 465, southern 426, western 265; the lore says about 1,890 km. The maps as last built traced about 1,851 km, before Kartalar's 2026-10-14 site fit), not from the ISEZ outline.
+- **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (Kartalar's pieces sum to about 1,859 km: northern 729, central 449, southern 422, western 260; the lore says about 1,860 km. The maps as last built traced about 1,851 km, before Kartalar's 2026-10-14 site fit), not from the ISEZ outline.
 - **Areas** (Kartalar's figures after its 2026-10-15 Fergana border change, commit 5acda9a: the border on the Uzbek side follows the foot of the hills; the "as drawn" column is from the map build of that day, and the maps measure about 0.5% more on a spherical earth):
 
   | Unit | Kartalar km² | As drawn here km² |
