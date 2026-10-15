@@ -253,6 +253,21 @@ main { min-width: 0; padding-bottom: 32px; }
 .infobox .person-band { background: #e6e6fa; margin-top: .3em; }
 .infobox .person-band.office { line-height: 1.35; }
 .infobox.person .term { text-align: center; padding: .25em .2em; line-height: 1.4; }
+/* Conflict infoboxes, after Wikipedia's {{Infobox military conflict}} and {{Infobox civil conflict}} */
+.infobox.conflict { width: 24em; }
+.infobox .conflict-title { background: #b0c4de; color: #202122; }
+.infobox .conflict-title a { color: #0645ad; }
+.infobox.conflict .partof { text-align: center; font-size: 95%; padding: .3em .4em 0; line-height: 1.35; }
+.infobox.conflict figure img { width: 300px; height: auto; }
+.infobox .conflict-band { background: #dcdcdc; margin-top: .3em; }
+.infobox.conflict .sides { display: grid; gap: 0 8px; padding: .3em .2em; line-height: 1.4; }
+.infobox.conflict .sides.n1 { grid-template-columns: 1fr; }
+.infobox.conflict .sides.n2 { grid-template-columns: 1fr 1fr; }
+.infobox.conflict .sides.n3 { grid-template-columns: 1fr 1fr 1fr; }
+.infobox.conflict .sides > div { min-width: 0; overflow-wrap: anywhere; }
+.infobox.conflict .sides.n2 > div + div, .infobox.conflict .sides.n3 > div + div { border-left: 1px solid var(--border-faint); padding-left: 8px; }
+.infobox.conflict .full { text-align: center; padding: .3em .4em; border-top: 1px solid var(--border-faint); line-height: 1.4; }
+.infobox.conflict .notes { font-size: 92%; text-align: left; }
 .infobox.person .above .hon { display: block; font-size: 72%; font-weight: 400; margin: 0 0 1px; }
 .infobox .chron { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; text-align: center; padding: .3em 0; font-size: 95%; line-height: 1.35; }
 .infobox .chron .prev::before { content: '← '; }

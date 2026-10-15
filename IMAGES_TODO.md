@@ -171,3 +171,4 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
 - Held back: `Talas_River_barbel.jpg` (shows a marinka, *Schizothorax*, but the article is about the Turkestan barbel, *Luciobarbus capito*), plus the James Baker and Donald Trump portraits (real living people on articles about invented events; waiting for the user's decision).
 - Commons rows the user skipped (63) still have no photo.
 - 2026-10-15: every biography with a portrait (19 articles, Amanbek Alimbekov included) now has an `{{Infobox person}}`; the portraits moved from `lead` to `infobox` placement.
+- 2026-10-15: 17 war, battle, uprising, riot, protest and strike articles got conflict infoboxes; the lead images of Battle of Kobozev Railhead, Siege of Kokand (map), 2018 Border Demarcation Clashes, 1956 Talas Riots and 2023 Student Protests moved into them.

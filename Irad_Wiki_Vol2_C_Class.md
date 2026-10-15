@@ -941,6 +941,26 @@ Opposition figures and some clan leaders have accused the Directorate of politic
 ### 4.23. 1956 Talas Riots
 *Quality Assessment: C-Class Article | Category: History*
 
+{{Infobox civil conflict
+| title = 1956 Talas riots
+| image = Talas_riots_1956.jpg
+| caption = Soldiers on a boulevard in central Talas strewn with paving stones, June 1956
+| date = 14–18 June 1956
+| place = [[Talas]], [[Iradi Soviet Socialist Republic]], [[wp:Soviet Union]]
+| causes = Shooting of a widow's horse at a vehicle checkpoint ([[Talas Checkpoint Incident (1956)|checkpoint incident]]);Housing shortages and Iradi–Slavic wage gaps;Russian-only schooling;Suppression of the [[Syro-Iradi Catholic Church]];Uncertainty after [[wp:Nikita Khrushchev|Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]]
+| goals = Arrest of the soldier and trial in a civilian court
+| methods = Demonstrations; rioting and street fighting; attacks on state offices and on Russian-owned shops, homes and vehicles
+| result = Riots suppressed by Soviet troops; martial law and curfew; Mass detentions and trials; 300 to 700+ deported; Talas party leadership dismissed and Iradi cadres removed; Later housing and farm-pay concessions
+| status = Ended
+| side1 = Iradi crowds: market traders, seasonal farm laborers, demobilized soldiers, railway yard workers
+| side2 = Soviet authorities;City militia;Internal troops;[[wp:Turkestan Military District]]
+| howmany1 = c. 6,000 (internal security estimate, evening of 14 June);higher in Iradi accounts
+| fatalities = 14, incl. 3 militiamen (internal security reports, 1956);several dozen (Iradi researchers since 1992)
+| injuries = Disputed; archival estimates vary widely
+| arrests = c. 400 charged with "mass disorders"; several dozen sentenced to labor camps
+| detentions = More than 1,000, almost all ethnic Iradis
+}}
+
 The **1956 Talas riots** (Iradi: *1956-jylgy Talas topolongu*; Russian: *Таласские беспорядки 1956 года*) were five days of rioting and street fighting in [[Talas]], in the [[Iradi Soviet Socialist Republic]], between June 14 and June 18, 1956. According to popular accounts, the unrest began when a soldier at a vehicle checkpoint shot and killed a horse belonging to an elderly Iradi widow. Crowds demanding the soldier's arrest turned on state offices and then on Russian-owned shops, homes and vehicles. Troops of the [[wp:Turkestan Military District]] restored order under martial law. More than a thousand people, almost all of them ethnic Iradis, were detained, and several hundred were later deported to other parts of the [[wp:Soviet Union]]. Archival estimates of the dead vary.<sup>[1]</sup><sup>[2]</sup>
 
 Historians place the riots among the disturbances that followed [[wp:Nikita Khrushchev|Nikita Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]] in February 1956. Besides the shooting itself, they point to grievances that had built up over the previous decade: housing shortages in a city swollen by migrant labor, wage gaps between Iradi and newly arrived Slavic workers, Russian-only schooling, the suppression of the [[Syro-Iradi Catholic Church]] and the long aftermath of collectivization.<sup>[3]</sup> Soviet sources said little about the events for more than three decades. Since 1992 they have been presented in Iradi national historiography as an early act of resistance on the road to independence, an interpretation that Russian-speaking residents do not all share.<sup>[4]</sup>
@@ -998,6 +1018,21 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 
 ### 4.24. Semirechye Revolt (Irad)
 *Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Semirechye Revolt (Iradi districts)
+| partof = the [[wp:Central Asian revolt of 1916]]
+| date = August – October 1916; flight to China into winter 1916–17
+| place = Talas, Chu and Chatkal valleys and the Fergana rim ([[wp:Semirechye]] and Fergana oblasts, [[wp:Russian Turkestan]])
+| result = Revolt suppressed; Punitive reprisals and land confiscation proposals; Mass flight to [[wp:Xinjiang]] (*Urkun*); see [[The Lost Tribes of 1916]]
+| combatant1 = Iradi clans; Kyrgyz and Kazakh rebels
+| combatant2 = [[wp:Russian Empire]]; Settler militias
+| commander1 = Clan elders (*aksakals*)
+| commander2 = [[wp:Aleksey Kuropatkin]]
+| units1 = Mounted irregular bands
+| units2 = Cossack cavalry; Regular infantry with machine guns; Mountain artillery; Armed settler militias
+| casualties3 = Settlers: several thousand killed or missing across Turkestan and Semirechye (official Russian figures); Native population: tens of thousands to over 100,000 dead in the revolt, suppression and flight across Turkestan and the steppe; No separate or agreed count for the Iradi districts
+}}
 
 The **Semirechye Revolt** of 1916, also called the Central Asian Revolt of 1916 (Iradi: *1916-jylgy kötörülüsh*; Russian: *Восстание 1916 года в Средней Азии*), was an armed uprising against Russian rule in [[wp:Turkestan]] and the Kazakh steppe. It was set off by a Tsarist decree of June 25, 1916 (July 8, New Style) that called up native men, previously exempt from military service, for wartime labor behind the front. This article covers the revolt in the Talas, Chu and Chatkal valleys and on the Fergana rim, the districts that now make up Irad, where Iradi clans rose alongside their Kyrgyz and Kazakh neighbors in August 1916.<sup>[1]</sup><sup>[2]</sup>
 
@@ -5073,6 +5108,25 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 ### 4.109. Operation Starlight
 *Quality Assessment: C-Class Article | Category: History*
 
+{{Infobox military conflict
+| conflict = Operation Starlight
+| partof = the [[First Iradi Civil War]]
+| date = 6 June – 18 August 1992
+| place = [[Talas]], the Talas valley and the railway corridor to Kobozev (now [[Nurzhan]])
+| result = US and Provisional Government victory;Siege of Talas lifted (18 June);Fall of Kobozev (12 August);Unconditional SRI surrender;Irad becomes a US territory
+| combatant1 = [[wp:United States]];[[Provisional Government of Irad (1992)|Provisional Government of the Republic of Irad]]
+| combatant2 = [[Socialist Republic of Irad]]
+| commander1 = [[David Sterling|Col. David Sterling]] (US liaison);[[Amanbek Alimbekov]]
+| commander2 = [[Vasily Chernov]]
+| units1 = [[wp:United States Marine Corps|US Marines]];10th Mountain Division;US air units;Student militias, workers' detachments and clan cavalry
+| units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
+| strength1 = US: c. 8,000–10,000 (peak ground deployment, late July)
+| strength2 = 9,000–14,000 (June 1992, Iradi estimates)
+| casualties1 = US: dozens killed (Iradi histories)
+| casualties2 = Many conscripts deserted;Heavy equipment seized
+| casualties3 = c. 14,000 dead in the whole war, March–August 1992 (most cited);9,000 to over 20,000 (independent estimates)
+}}
+
 **Operation Starlight** (Iradi: *Jıldız Jarıgı*) was the United States military intervention in the [[First Iradi Civil War]] in 1992. It was carried out under the [[Alimbekov-Baker Treaty]], which the Provisional Government of the Republic of Irad signed and ratified in besieged [[Talas]] on 2 June 1992. The first [[wp:United States Marine Corps|US Marines]] were airlifted into the airfield west of Talas, now [[Talas Air Base]], on 6 June. With troops of the 10th Mountain Division and US air support, they broke the siege of the city by 18 June. US and Provisional forces then advanced along the railway toward Kobozev (now [[Nurzhan]]), the seat of the [[Socialist Republic of Irad]] (SRI). Kobozev fell on 12 August, and the remaining SRI forces surrendered unconditionally on 18 August 1992.<sup>[1]</sup><sup>[2]</sup>
 
 The surrender ended the civil war and the SRI. The same day Irad became an organized, unincorporated territory of the United States under the [[Organic Act of the Territory of Irad]], beginning the [[Territory of Irad (1992–2006)|territorial period]]. The most commonly cited death toll for the war as a whole is about 14,000, with independent estimates ranging from about 9,000 to more than 20,000.<sup>[3]</sup>
@@ -5200,6 +5254,19 @@ Critics argue that it froze the conflict instead of resolving it. The line it dr
 
 ### 4.111. Battle of Talas
 *Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Battle of Talas
+| date = July 751 (Dhu al-Hijja 133 AH)
+| place = Valley of the [[Talas River]], near Talas (exact site disputed)
+| result = Abbasid victory; Tang army routed after the Karluk defection
+| combatant1 = [[wp:Abbasid Caliphate]]; [[wp:Karluks]] (changed sides during the battle); *[[wp:Tibetan Empire|Tibetan]] contingents (role uncertain)*
+| combatant2 = [[wp:Tang dynasty]] ([[wp:Protectorate General to Pacify the West|Anxi Protectorate]]); allied contingents
+| commander1 = [[wp:Ziyad ibn Salih]]; [[wp:Abu Muslim]] (governor of Khurasan)
+| commander2 = [[wp:Gao Xianzhi]]; [[wp:Li Siye]]
+| strength2 = c. 30,000 incl. allied contingents (Chinese sources)
+| casualties2 = Most of the army lost; Gao escaped with a few thousand men (Chinese sources); tens of thousands killed and c. 20,000 captured (Ibn al-Athir)
+}}
 
 The **Battle of Talas** (Iradi: *Talas sogushu*; Chinese: 怛羅斯之戰, *Daluosi zhi zhan*; Arabic: معركة طلاس, *Maʿrakat Ṭalās*) was fought in July 751 in the valley of the [[Talas River]] between the armies of the [[wp:Abbasid Caliphate]] and the Tang dynasty of China. An Abbasid force commanded by [[wp:Ziyad ibn Salih|Ziyad]] ibn Salih, sent by [[wp:Abu Muslim]], the Abbasid governor of [[wp:Greater Khorasan|Khurasan]], defeated a Tang army of the [[wp:Protectorate General to Pacify the West|Anxi Protectorate]] under [[wp:Gao Xianzhi]] after the [[wp:Karluks|Karluk Turks]] serving with the Tang changed sides. It is the only recorded battle between the armies of the caliphate and of China.<sup>[1]</sup><sup>[2]</sup>
 

@@ -255,6 +255,8 @@
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
         if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
+        if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
+        if (/^infobox civil conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), true);
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
@@ -290,7 +292,7 @@
     const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || (fileEntry && fileEntry.alt) || 'Cover art')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
     const ROWS = [['released', 'Released'], ['recorded', 'Recorded'], ['venue', 'Venue'], ['studio', 'Studio'], ['genre', 'Genre'],
       ['length', 'Length'], ['language', 'Language'], ['label', 'Label'], ['producer', 'Producer']];
-    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/\s*;\s*/g, '<br>'))}</dd>`).join('');
+    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'))}</dd>`).join('');
     let chron = '';
     if (o.prev || o.next) {
       const cell = (t, y, cls) => t ? `<div class="${cls}">${inl(t)}${y ? `<br>(${esc(y)})` : ''}</div>` : '<div></div>';
@@ -306,7 +308,7 @@
     const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || o.name || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
     const ROWS = [['also_known_as', 'Also known as'], ['origin', 'Origin'], ['genre', 'Genres'], ['years_active', 'Years active'],
       ['labels', 'Labels'], ['spinoff_of', 'Spinoff of'], ['spinoffs', 'Spinoffs'], ['members', 'Members'], ['past_members', 'Past members'], ['website', 'Website']];
-    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/\s*;\s*/g, '<br>'))}</dd>`).join('');
+    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'))}</dd>`).join('');
     return `<aside class="infobox artist"><div class="above">${esc(o.name || '')}</div>${img}<div class="band ${cls}">Background information</div><dl>${rows}</dl></aside>`;
   }
   /* {{Infobox person|…}}, after Wikipedia's {{Infobox person}}, {{Infobox officeholder}} and
@@ -330,7 +332,7 @@
   }
   function personInfobox(o) {
     const dmy = /^dmy$/i.test(o.df || '');
-    const cell = v => inl(v.replace(/\s*;\s*/g, '<br>'));
+    const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
     const row = (label, v) => v ? `<dt>${label}</dt><dd>${cell(v)}</dd>` : '';
     const band = t => `</dl><div class="band person-band">${t}</div><dl>`;
     const now = new Date(), today = { y: now.getFullYear(), mo: now.getMonth() + 1, d: now.getDate() };
@@ -376,6 +378,47 @@
     if (personal) body += (offices ? band('Personal details') : '') + personal;
     if (military) body += (offices || personal ? band('Military service') : '') + military;
     return `<aside class="infobox person">${above}${img}${offices}<dl>${body}</dl></aside>`.replace(/<dl><\/dl>/g, '');
+  }
+  /* {{Infobox military conflict|…}} and {{Infobox civil conflict|…}}, after Wikipedia's templates.
+     Military: conflict, partof, image, caption, date, place, result, territory, status, then sides
+     numbered 1–3: combatant, commander, units, strength, casualties; casualties3 with only two
+     sides (or casualties4 with three) is a full-width civilian line; notes at the foot.
+     Civil: title, partof, image, caption, date, place, causes, goals, methods, result, status,
+     side1–3, leadfigures1–3, howmany1–3, casualties1–3, then fatalities, injuries, arrests,
+     detentions as full-width totals. Values may hold [[links]] and *italics*; ";" breaks a line. */
+  function conflictInfobox(o, civil) {
+    const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
+    const row = (label, v) => v ? `<dt>${label}</dt><dd>${cell(v)}</dd>` : '';
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || o.caption || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const title = civil ? (o.title || o.name || '') : (o.conflict || o.name || '');
+    const partof = o.partof ? `<div class="partof">Part of ${inl(o.partof)}</div>` : '';
+    const top = civil
+      ? [['date', 'Date'], ['place', 'Location'], ['causes', 'Caused by'], ['goals', 'Goals'], ['methods', 'Methods'],
+         ['result', 'Resulted in'], ['status', 'Status']]
+      : [['date', 'Date'], ['place', 'Location'], ['result', 'Result'], ['territory', 'Territorial changes'], ['status', 'Status']];
+    const head = `<dl>${top.map(([k, label]) => row(label, o[k])).join('')}</dl>`;
+    const sideKey = civil ? 'side' : 'combatant';
+    const n = [3, 2, 1].find(i => o[sideKey + i] || o[(civil ? 'leadfigures' : 'commander') + i]) || 0;
+    const groups = civil
+      ? [['side', 'Parties'], ['leadfigures', 'Lead figures'], ['howmany', 'Number'], ['casualties', 'Casualties']]
+      : [['combatant', 'Belligerents'], ['commander', 'Commanders and leaders'], ['units', 'Units involved'],
+         ['strength', 'Strength'], ['casualties', 'Casualties and losses']];
+    let sides = '';
+    for (const [k, label] of groups) {
+      const vals = Array.from({ length: n }, (_, i) => o[k + (i + 1)] || '');
+      const extra = k === 'casualties' && !civil ? o['casualties' + (n + 1)] : '';
+      if (!vals.some(Boolean) && !extra) continue;
+      sides += `<div class="band conflict-band">${label}</div>`;
+      if (vals.some(Boolean)) sides += `<div class="sides n${n}">${vals.map(v => `<div>${v ? cell(v) : ''}</div>`).join('')}</div>`;
+      if (extra) sides += `<div class="full">${cell(extra)}</div>`;
+    }
+    if (civil) {
+      const totals = [['fatalities', 'Death(s)'], ['injuries', 'Injuries'], ['arrests', 'Arrested'], ['detentions', 'Detained']]
+        .map(([k, label]) => row(label, o[k])).join('');
+      if (totals) sides += `${o.casualties1 || o.casualties2 ? '' : '<div class="band conflict-band">Casualties</div>'}<dl>${totals}</dl>`;
+    }
+    const notes = o.notes ? `<div class="full notes">${cell(o.notes)}</div>` : '';
+    return `<aside class="infobox conflict"><div class="above conflict-title">${inl(title)}</div>${partof}${img}${head}${sides}${notes}</aside>`.replace(/<dl><\/dl>/g, '');
   }
   function albumRatings(o) {
     const rows = o._order.filter(k => !k.startsWith('_')).map(k => {

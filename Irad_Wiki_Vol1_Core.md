@@ -873,6 +873,21 @@ Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua
 ### 2.6. First Iradi Civil War
 *Quality Assessment: Good Article (GA) | Category: History*
 
+{{Infobox military conflict
+| conflict = First Iradi Civil War
+| date = March 11 – August 18, 1992
+| place = [[Socialist Republic of Irad]] (present-day Irad)
+| result = Provisional Government and US victory; [[Alimbekov-Baker Treaty]] and [[Operation Starlight|US intervention]]; End of the [[Socialist Republic of Irad]]
+| territory = Irad becomes an organized, unincorporated territory of the United States ([[Organic Act of the Territory of Irad]])
+| combatant1 = [[Provisional Government of Irad (1992)|Provisional Government of the Republic of Irad]];[[wp:United States]] (from June 1992)
+| combatant2 = [[Socialist Republic of Irad]]
+| commander1 = [[Amanbek Alimbekov]];[[Kuban Mamytov]];[[Bektur Zhumabek uulu]]
+| commander2 = [[Vasily Chernov]]
+| units1 = Student militias;Defected police;Workers' detachments;Mounted clan irregulars;[[wp:United States Marine Corps|US Marines]];10th Mountain Division
+| units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
+| casualties3 = c. 14,000 military and civilian dead (Provisional and territorial records);9,000 to over 20,000 (independent estimates);Tens of thousands displaced from Talas
+}}
+
 {{Hatnote|This article is about the 1992 conflict. For the 2007 conflict, see [[Second Iradi Civil War]].}}
 
 The **First Iradi Civil War** (March 11 – August 18, 1992) was fought between the [[Socialist Republic of Irad]] (SRI), the post-Soviet communist state based in Kobozev (now [[Nurzhan]]), and the Provisional Government of the Republic of Irad in [[Talas]]. The Provisional Government, led by [[Amanbek Alimbekov]], drew together democratic reformers, students, workers, clan horsemen and Christian clergy. The war began when the Provisional Government proclaimed the Republic of Irad on March 11, 1992, after the [[Winter Uprising of 1992]] had driven SRI officials out of Talas.<sup>[2]</sup>
@@ -2462,6 +2477,25 @@ The treaty's dissolution gave rise to the [[Bush Family Palatial Complex Conspir
 ### 3.17. Second Iradi Civil War
 *Quality Assessment: B-Class Article | Category: History*
 
+{{Infobox military conflict
+| conflict = Second Iradi Civil War
+| date = 25 February – September 2007
+| place = [[Irad]]
+| result = [[Bishkek Ceasefire Agreement (2007)]]; Dissolution of the [[Democratic Republic of Irad]] after the [[Storming of Talas (2007)|Storming of Talas]]; ISEZ takes the cities; [[United Nations Mission in Irad]] established; frozen conflict
+| territory = Irad divided along the [[Qara-Chik Demarcation Line]] into the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]]
+| combatant1 = [[Democratic Republic of Irad]]
+| combatant2 = [[Irad Special Economic Zone]] emergency administration; [[Democratic Party of Irad]] (Toktarov faction); *Supported by:*; [[wp:United States]]; Western companies
+| combatant3 = [[Popular Front of Irad]]
+| commander1 = [[Bakyt Orozbekov]]
+| commander2 = [[Erlan Toktarov]]
+| commander3 = [[Bektur Zhumabek uulu]]
+| units1 = Territorial police; Remnants of the territorial defense forces
+| units2 = Municipal police; Gendarmerie units; State Defense Corps
+| units3 = Clan militias; Defected territorial defense detachments; Industrial strike committees
+| strength3 = 8,000+ mounted irregulars
+| casualties4 = Dead estimated in the low thousands (UNMI and humanitarian agencies); 80,000+ civilians displaced
+}}
+
 The **Second Iradi Civil War** was an armed conflict in [[Irad]] from February to September 2007. It began on 25 February 2007, when [[Erlan Toktarov]] proclaimed the [[Irad Special Economic Zone]] (ISEZ) from [[Nurzhan]] in defiance of the government of the [[Democratic Republic of Irad]] (DRI) in Talas, and ended with the UN-brokered [[Bishkek Ceasefire Agreement (2007)]] in September. Three forces took part: the DRI government of Prime Minister [[Bakyt Orozbekov]]; Toktarov's emergency administration, backed by the faction of the [[Democratic Party of Irad]] (DPI) loyal to him; and the [[Popular Front of Irad]], a coalition of clan militias led by [[Bektur Zhumabek uulu]].<sup>[1]</sup> Its main cause was the [[Bill of Sale (2007)|Bill of Sale]] (*Satuu Kagazy*), the secret drafts under which the Orozbekov cabinet had agreed to dissolve Irad and partition it among its three neighbors, which Toktarov made public on the day he proclaimed the ISEZ.<sup>[10]</sup>
 
 The Front stormed [[Talas]] on 4 June 2007 and dissolved the DRI. During the summer, however, DPI security forces backed by Western companies and the United States took control of Talas and the other cities as the Front withdrew to the countryside. The ceasefire fixed the [[Qara-Chik Demarcation Line]], which has divided Irad since 2007 into the ISEZ and the [[Autonomous Tribal Regions]] (ATR).<sup>[2]</sup>
@@ -3105,6 +3139,22 @@ Russian-speaking viewers and politicians allied with Bekzatov say ИрадОди
 
 ### 3.27. Winter Uprising of 1992
 *Quality Assessment: B-Class Article | Category: History*
+
+{{Infobox civil conflict
+| title = Winter Uprising of 1992
+| date = December 1991 – 11 March 1992
+| place = [[Talas]], Kobozev (now [[Nurzhan]]) and the [[Talas Alatau]]
+| causes = Post-Soviet economic collapse and hyperinflation;Bread rationing;Chernov's emergency decrees (November 1991);Requisition of grain and horse herds;[[wp:Russification]] and religious repression
+| goals = Repeal of the emergency decrees;Resignation of the Chernov government
+| methods = Demonstrations;Strikes;Occupation of Central Square;Open-air liturgies;Mounted procession (March of the Thousand Saddles);Seizure of arsenals
+| result = SRI loses control of Talas and the Talas valley;Coordinating council under Alimbekov forms the Provisional Government;Republic of Irad proclaimed, 11 March 1992;Start of the [[First Iradi Civil War]]
+| side1 = Protesters and insurgents:;Students of [[Talas State University]];*Ene-Til* society;Industrial and railway workers;Clergy of the [[Syro-Iradi Catholic Church]];Clan horsemen of the Talas Alatau and Chatkal valleys;Defecting police
+| side2 = [[Socialist Republic of Irad]];[[Communist Party of Irad]];[[wp:OMON]];Interior troops
+| leadfigures1 = [[Amanbek Alimbekov]];[[Zamirbek Bakiev]]
+| leadfigures2 = [[Vasily Chernov]]
+| howmany1 = c. 3,000 to over 5,000 horsemen (18 February)
+| fatalities = c. 60–150 (archival estimates, Dec 1991 – Mar 1992);3 February shootings: 27 (2002 commission); 11 (SRI figure); 46 (Provisional Government figure)
+}}
 
 The **Winter Uprising of 1992** (Iradi: *Kyshky Kötörülüsh*, 'winter uprising') was a wave of protests, strikes and armed revolt against the government of the [[Socialist Republic of Irad]] (SRI) in the winter of 1991–92. It began in December 1991, provoked by the economic collapse that followed the end of Soviet rule and by emergency decrees of the government of First Secretary [[Vasily Chernov]], and ended with anti-socialist forces in control of [[Talas]], Irad's largest city. On 11 March 1992 the Provisional Government in Talas proclaimed the Republic of Irad, beginning the [[First Iradi Civil War]] against the SRI government in Kobozev (now [[Nurzhan]]). The proclamation is commemorated each year as Irad Day.<sup>[1]</sup>
 
