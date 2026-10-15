@@ -253,6 +253,7 @@
         if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
         if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
+        if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
@@ -297,6 +298,15 @@
     }
     const singles = o.singles ? `<div class="band ${typeCls}">Singles from ${inl('*' + o.name + '*')}</div><ol class="singles">${o.singles.split(/\s*;\s*/).map(x => `<li>${inl(x)}</li>`).join('')}</ol>` : '';
     return `<aside class="infobox album"><div class="above"><i>${esc(o.name || '')}</i></div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
+  }
+  function artistInfobox(o) {
+    const kind = (o.background || 'group_or_band').toLowerCase();
+    const cls = kind.startsWith('solo') ? 'artist-solo' : kind.startsWith('classical') ? 'artist-classical' : 'artist-group';
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.alt || o.name || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const ROWS = [['also_known_as', 'Also known as'], ['origin', 'Origin'], ['genre', 'Genres'], ['years_active', 'Years active'],
+      ['labels', 'Labels'], ['spinoff_of', 'Spinoff of'], ['spinoffs', 'Spinoffs'], ['members', 'Members'], ['past_members', 'Past members'], ['website', 'Website']];
+    const rows = ROWS.filter(([k]) => o[k]).map(([k, label]) => `<dt>${label}</dt><dd>${inl(o[k].replace(/\s*;\s*/g, '<br>'))}</dd>`).join('');
+    return `<aside class="infobox artist"><div class="above">${esc(o.name || '')}</div>${img}<div class="band ${cls}">Background information</div><dl>${rows}</dl></aside>`;
   }
   function albumRatings(o) {
     const rows = o._order.filter(k => !k.startsWith('_')).map(k => {

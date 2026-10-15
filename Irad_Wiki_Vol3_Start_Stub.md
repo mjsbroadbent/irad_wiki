@@ -951,7 +951,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 | label = Self-released
 | producer = Askar Daniyarov
 | year = 1999
-| next = *Zvezda Irad* (EP)
+| next = *[[Zvezda Irad (EP)|Zvezda Irad]]* (EP)
 | next_year = 2002
 }}
 
@@ -1038,6 +1038,17 @@ The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021
 #### 56. Karakush (Group)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
+{{Infobox musical artist
+| name = Karakush
+| also_known_as = KARAKUSH
+| background = group_or_band
+| origin = [[Talas]], Irad
+| genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]
+| years_active = 2018–present
+| labels = Kök Ay Media
+| members = Aruuke Temir kyzy; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlanova
+}}
+
 **Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
@@ -1050,6 +1061,16 @@ The follow-ups "Morkhan Tünü" ("Morkhan's Night", 2022) and the English-langua
 ## Reception
 Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in [[Mor-Wave]] and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[3]</sup>
 
+## Discography
+Extended plays
+- *[[Ak Börü (EP)|Ak Börü]]* (2021)
+
+Singles
+- "Umay" (2018)
+- "Ak Börü" (2021)
+- "Morkhan Tünü" (2022)
+- "Talas Moon" (2023)
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
@@ -1060,6 +1081,16 @@ Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Cat
 #### 57. Altyn Muuz (Group)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
+{{Infobox musical artist
+| name = Altyn Muuz
+| background = group_or_band
+| origin = [[Talas]], Irad
+| genre = [[Mor-Pop]]; [[wp:Bubblegum pop|bubblegum pop]]
+| years_active = 2019–present
+| labels = Star Road Music
+| members = Nurbek Asanov; Ermek Toktosun uulu; Aibek Ismailov; Timur Bakyt uulu
+}}
+
 **Altyn Muuz** (Iradi, "golden horn") is a four-member Iradi [[Mor-Pop]] boy group formed in 2019 through *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Known for gold horned headbands, sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English, it is widely regarded in Irad as the genre's novelty act. It has never had a following outside the country.<sup>[1]</sup>
 
 ## History
@@ -1069,6 +1100,15 @@ In 2021 the group performed "Morkhan Baby" on an IradOne Sunday-morning children
 
 ## Reception
 Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for [[Mor-Wave]] musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
+
+## Discography
+Studio albums
+- *[[Zhylky Love (Album)|Zhylky Love]]* (2022)
+
+Singles
+- "Kymyz Kymyz" (2020)
+- "Morkhan Baby" (2021)
+- "Zhylky Love" (2022)
 
 ## References
 <ol class="references">
@@ -3888,7 +3928,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (6 articles)
+### 5.Category: Language & Song (15 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -4015,6 +4055,510 @@ During the student protests in Talas in October 2023, marchers chanted the song'
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+</ol>
+
+#### 501. Zvezda Irad (EP)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Zvezda Irad
+| image = Zvezda_Irad_cover.jpg
+| type = ep
+| artist = [[tüntolk]]
+| released = April 2002
+| recorded = 2001–2002
+| studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
+| genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
+| length = 31:51
+| language = Iradi; Russian
+| label = Self-released; Dala Sound
+| producer = Askar Daniyarov
+| year = 2002
+| prev = *[[Jolchu (Album)|Jolchu]]*
+| prev_year = 1999
+| next = *[[Kara Suu (Album)|Kara Suu]]*
+| next_year = 2004
+| singles = "[[Cut the Stars in the Night]]" (Released: 2002)
+}}
+
+***Zvezda Irad*** (Russian and Iradi, "Star of Irad") is an extended play by the Iradi electronic duo [[tüntolk]], released in 2002. It contains "[[Cut the Stars in the Night]]", the duo's best-known song outside Irad, and marks their move from the cassette underground of [[Nurzhan]] to the club circuit of [[wp:Almaty]] and [[wp:Tashkent]].<sup>[1]</sup>
+
+## Background and recording
+After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in Nurzhan and then in Almaty, where the promoter and engineer Yerlan Abenov offered them time in his small studio, Dala Sound. The EP was begun in the Nurzhan boiler room on the duo's four-track recorder and finished in Almaty, where Askar Daniyarov used a borrowed sampler for the first time. Its title mixes Russian (*zvezda*, "star") and Iradi, a joke on the bilingual signs of Nurzhan; the star is Polaris, the star of the Iradi flag.<sup>[1]</sup><sup>[2]</sup>
+
+## Music
+The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
+
+## Release and reception
+The duo released the EP on CD-R in Nurzhan in April 2002, and Dala Sound pressed a small run of compact discs in Almaty later that year. Copies circulated among DJs in Moscow and Berlin, and "Jyldyzdardy Kes" was used in nightclub scenes in the films *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and *[[wp:Head-On (film)|Head-On]]* (2004). Folklorists criticized the uncredited use of archive throat singing; editions since 2015 credit the [[State Archives of Irad]].<sup>[1]</sup><sup>[3]</sup>
+
+## Track listing
+All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "[[Cut the Stars in the Night|Jyldyzdardy Kes]]" | "Cut the Stars" | 6:12 |
+| 2. | "Zvezda Irad" | "Star of Irad" (Russian and Iradi) | 4:48 |
+| 3. | "Jorgo" | "Ambler" | 5:20 |
+| 4. | "Tündük" | "Crown Ring" | 7:01 |
+| 5. | "Jyldyzdardy Kes (Almaty Night Mix)" |  | 8:30 |
+| |  | **Total length:** | **31:51** |
+
+## Personnel
+- Mira Temirova – vocals, lyrics
+- Askar Daniyarov – synthesizers, sampler, drum machine, production
+- Yerlan Abenov – mixing (1, 5)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 59–77.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+</ol>
+
+#### 502. Kara Suu (Album)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Kara Suu
+| image = Kara_Suu_cover.jpg
+| type = studio
+| artist = [[tüntolk]]
+| released = November 2004
+| recorded = 2003–2004
+| studio = Dala Sound, [[wp:Almaty]]; boiler house No. 14, [[Nurzhan]]
+| genre = [[Mor-Wave]]; [[wp:Dark wave|darkwave]]; [[wp:Industrial music|industrial]]
+| length = 47:22
+| language = Iradi; Russian
+| label = Dala Sound
+| producer = Askar Daniyarov; Yerlan Abenov
+| year = 2004
+| prev = *[[Zvezda Irad (EP)|Zvezda Irad]]* (EP)
+| prev_year = 2002
+| next = *[[White Stallion in Fog]]*
+| next_year = 2017
+}}
+
+***Kara Suu*** (Iradi: "Black Water") is the second studio album by the Iradi electronic duo [[tüntolk]], released in 2004. Darker and more industrial than their earlier records, it was their last release before they split up during the [[Second Iradi Civil War]] in 2007.<sup>[1]</sup>
+
+## Background
+The album was written during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]] in 2003, while much of [[Nurzhan]]'s heavy industry stood idle. Its title refers to the oily black water of the drainage canals behind the city's refineries, and several songs, among them "Temir Jol" and "Kotelnaya", describe the abandoned railway yards and boiler rooms where the scene had begun. "Kara Jel" takes its title from the Nurzhan group Kara Jel, one of the bands that had grown up around the duo.<sup>[1]</sup><sup>[2]</sup>
+
+## Reception
+{{Album ratings
+| Talas Music Chronicle = 4/5
+| Central Asian Music Review = 3.5/5
+}}
+
+The album sold modestly and was received more coolly than *Jolchu*; some listeners in the scene found it cold after the warmth of the first record. It has been reappraised since the duo's reunion in 2014, and the *Talas Music Chronicle* has called it "the sound of Nurzhan holding its breath before the war".<sup>[1]</sup>
+
+## Track listing
+All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "Kara Suu" | "Black Water" | 6:44 |
+| 2. | "Kökjal Kaitty" | "Grey Mane Has Returned" | 5:02 |
+| 3. | "Temir Jol" | "Railway" | 4:37 |
+| 4. | "Kotelnaya" | "Boiler Room" (Russian) | 5:55 |
+| 5. | "Muz" | "Ice" | 3:48 |
+| 6. | "Ak Kush" | "White Bird" | 4:21 |
+| 7. | "Kara Jel" | "Black Wind" | 5:16 |
+| 8. | "Ene" | "Mother" | 4:09 |
+| 9. | "Tañ Atkancha" | "Until Dawn" | 7:30 |
+| |  | **Total length:** | **47:22** |
+
+## Personnel
+- Mira Temirova – vocals, lyrics
+- Askar Daniyarov – synthesizers, sampler, drum machine, bass guitar, production
+- Yerlan Abenov – co-production, mixing
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 78–96.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+</ol>
+
+#### 503. White Stallion in Fog
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = White Stallion in Fog
+| image = White_Stallion_in_Fog_cover.jpg
+| type = studio
+| artist = [[tüntolk]]
+| released = 21 March 2017
+| recorded = 2015–2016
+| studio = Sound stage 2, [[Talasfilm Studios]], [[Talas]]
+| genre = [[Mor-Wave]]; [[wp:Synth-pop|synth-pop]]; [[wp:Noise music|noise]]
+| length = 51:55
+| language = Iradi
+| label = Tündük Records
+| producer = Askar Daniyarov
+| year = 2017
+| prev = *[[Kara Suu (Album)|Kara Suu]]*
+| prev_year = 2004
+| next = *[[Umay (Album)|Umay]]*
+| next_year = 2022
+| singles = "Tumandagy Ak At" (Released: January 2017); "[[My Home My Heart My Soul]]" (Released: June 2017)
+}}
+
+***White Stallion in Fog*** (Iradi: *Tumandagy Ak At*) is the third studio album by the Iradi electronic duo [[tüntolk]], released in 2017. Their first album after re-forming in 2014, it was promoted on the youth channel of [[IradOne]] and brought the duo a national television audience and listeners abroad. Its song "[[My Home My Heart My Soul]]" became an anthem of the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+
+## Background and recording
+Mira Temirova returned from [[wp:Almaty]] in 2014, and the duo re-formed in [[Talas]], where Askar Daniyarov had worked since 2008 as a sound engineer at [[Talasfilm Studios]]. They recorded the album on one of the studio's sound stages at night, with Daniyarov's Soviet synthesizers alongside software instruments for the first time. The title image, a white horse in fog, comes from the Iradi saying that a white stallion seen in fog announces a return home.<sup>[1]</sup>
+
+## Release and promotion
+The album was released in March 2017, before Nooruz, by the Talas label Tündük Records, on streaming services and in a small vinyl pressing. IradOne, under its new chairman [[Alikhan Toktarov]], commissioned videos showing the duo in disused railway yards and beneath high-voltage transmission lines in the Moiynkum steppe, and played them heavily on its youth channel. Streaming brought the album a following in Eastern Europe and North America.<sup>[2]</sup>
+
+## Reception and legacy
+{{Album ratings
+| Talas Music Chronicle = 4.5/5
+| Central Asian Cultural Studies Review = 4/5
+| Tape Hiss Quarterly = 4/5
+}}
+
+Critics welcomed the album as a return that kept the duo's sound while reaching a wider audience; "My Home My Heart My Soul", in which Temirova screams a plain patriotic text over a continuous hum, was singled out as the strangest song in their catalogue. During the student protests of October 2023 marchers chanted its refrain, and IradOne afterwards removed several of the album's videos from rotation, according to the *[[Talas Herald]]*. The duo said only that their songs "belong to whoever sings them".<sup>[2]</sup><sup>[3]</sup>
+
+## Track listing
+All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "Tumandagy Ak At" | "White Stallion in Fog" | 5:41 |
+| 2. | "[[My Home My Heart My Soul|Üyüm, Jürögüm, Janım]]" | "My Home My Heart My Soul" | 4:03 |
+| 3. | "Temir Torlor" | "Iron Nets" | 5:28 |
+| 4. | "Moiynkum" |  | 6:12 |
+| 5. | "Kaitysh" | "Return" | 4:47 |
+| 6. | "Altyn Kazyk" | "The Golden Stake" (Polaris) | 5:05 |
+| 7. | "Jaña Talas" | "New Talas" | 3:56 |
+| 8. | "Uktaba" | "Don't Sleep" | 4:34 |
+| 9. | "Kara Jash" | "Black Tears" | 5:19 |
+| 10. | "Ak Jol" | "White Road" | 6:50 |
+| |  | **Total length:** | **51:55** |
+
+## Personnel
+- Mira Temirova – vocals, lyrics
+- Askar Daniyarov – synthesizers, programming, bass guitar, production, engineering
+- Talasfilm Studios orchestra strings – (6, 10)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 120–141.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+</ol>
+
+#### 504. Umay (Album)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Hatnote|This article is about the 2022 album by tüntolk. For the goddess, see Umay. For the 2018 single by Karakush, see [[Karakush (Group)]].}}
+
+{{Infobox album
+| name = Umay
+| image = Umay_cover.jpg
+| type = studio
+| artist = [[tüntolk]]
+| released = 7 October 2022
+| recorded = 2021–2022
+| studio = Sound stage 2, [[Talasfilm Studios]], [[Talas]]
+| genre = [[Mor-Wave]]; [[Mor-Folk]]; [[wp:Ambient music|ambient]]
+| length = 43:20
+| language = Iradi
+| label = Tündük Records
+| producer = Askar Daniyarov
+| year = 2022
+| prev = *[[White Stallion in Fog]]*
+| prev_year = 2017
+}}
+
+***Umay*** is the fourth studio album by the Iradi electronic duo [[tüntolk]], released in 2022. Named after the steppe goddess of birth and children, it is the quietest of their records and the closest to [[Mor-Folk]], with the Talas ensemble [[Eski Ün]] playing [[Komuz (Iradi)|komuz]] and *[[Choor (Flute)|choor]]* on several tracks.<sup>[1]</sup>
+
+## Background
+Mira Temirova wrote most of the lyrics after the birth of her daughter in 2020, adapting lullabies and the blessings sung over a newborn's cradle (*beshik*) as well as invocations of Umay recorded by folklorists. Askar Daniyarov kept the drum machine to a few tracks and built the rest on slow synthesizer pads and the acoustic instruments of Eski Ün.<sup>[1]</sup>
+
+## Reception
+The album was well received in Irad and won the album prize of the [[Altyn-Zhylky Awards]] in 2023. Some fans who had come to the duo through the harder sound of "Cut the Stars in the Night" found it too gentle, while others heard it as a reply to the commercial [[Mor-Pop]] of the same years, which had borrowed Umay as a name and an image.<sup>[1]</sup>
+
+## Track listing
+All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted from traditional texts on 2, 6 and 7.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "Umay Ene" | "Mother Umay" | 6:02 |
+| 2. | "Beshik" | "Cradle" | 4:15 |
+| 3. | "Kök Asman" | "Blue Sky" | 5:33 |
+| 4. | "Burkut" | "Golden Eagle" | 4:48 |
+| 5. | "Kızyl Jip" | "Red Thread" | 5:10 |
+| 6. | "Ak Süt" | "White Milk" | 3:57 |
+| 7. | "Jer Ene" | "Mother Earth" | 6:21 |
+| 8. | "Tün Ötöt" | "The Night Passes" | 7:14 |
+| |  | **Total length:** | **43:20** |
+
+## Personnel
+- Mira Temirova – vocals, lyrics
+- Askar Daniyarov – synthesizers, programming, production
+- [[Eski Ün]] – komuz, choor, frame drums, backing vocals (2, 4, 6, 7)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2023). 'Lullabies for the Night Wave: tüntolk's <i>Umay</i>.' Vol. 15, No. 1, pp. 60–71.</li>
+</ol>
+
+#### 505. Ak Börü (EP)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Ak Börü
+| image = Ak_Boru_cover.jpg
+| type = ep
+| artist = [[Karakush (Group)|Karakush]]
+| released = 19 February 2021
+| recorded = 2020
+| studio = Kök Ay Media studio, [[Talas]]
+| genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]; [[wp:Electropop|electropop]]
+| length = 20:12
+| language = Iradi
+| label = Kök Ay Media
+| producer = Erlan "Kök" Sydykov; Dana Pak
+| singles = "Ak Börü" (Released: 19 February 2021)
+}}
+
+***Ak Börü*** (Iradi: "White Wolf") is the first extended play by the Iradi [[Mor-Pop]] girl group [[Karakush (Group)|Karakush]], released in February 2021. Its title track became a viral hit abroad and is the most-streamed Iradi recording outside the country.<sup>[1]</sup>
+
+## Background and production
+Kök Ay Media, the agency that formed Karakush in 2018, planned the EP as the group's first major release after three years of singles. Its in-house producer Erlan Sydykov built the title track on a slowed, detuned [[Komuz (Iradi)|komuz]] riff recorded by a session player from [[Kyzyl-Adyr]], set over a trap beat in the style of Korean idol music. The group's lead dancer Dana Pak, from the [[Koryo-saram in Irad|Koryo-saram]] community of [[Nurzhan]], co-produced two tracks and choreographed the "white wolf" dance whose chorus move spread on short-video platforms. The EP also includes a re-recording of the group's 2018 debut single "Umay".<sup>[1]</sup>
+
+## Release and reception
+The EP and the title track's video, filmed on a frozen lake in the Talas valley with the members in white wolf-fur capes and horned headdresses, were released on 19 February 2021. The dance challenge carried the song to [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and to Korean-American listeners. A Seoul label released a Korean-language version of "Ak Börü" in late 2021, which briefly entered the lower reaches of South Korean digital charts during the group's promotions there in early 2022. The headdresses, modeled on [[Morkhan (Mythology)|Morkhan]], drew objections from clergy of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup><sup>[2]</sup>
+
+## Track listing
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "Ak Börü" | "White Wolf" | 3:24 |
+| 2. | "Ai Jaryk" | "Moonlight" | 3:12 |
+| 3. | "Kar Kyz" | "Snow Girl" | 3:38 |
+| 4. | "Umay" (2021 version) |  | 3:29 |
+| 5. | "Kök Tülkü" | "Blue Fox" | 3:05 |
+| 6. | "Ak Börü" (instrumental) |  | 3:24 |
+| |  | **Total length:** | **20:12** |
+
+The Korean edition (December 2021) adds "Ak Börü" (Korean version) as track 7.
+
+## Personnel
+Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyzy, Kamila Nurlanova – vocals; Pak – co-production (1, 3)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas.</li>
+</ol>
+
+#### 506. Zhylky Love (Album)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Zhylky Love
+| image = Zhylky_Love_cover.jpg
+| type = studio
+| artist = [[Altyn Muuz (Group)|Altyn Muuz]]
+| released = 14 May 2022
+| recorded = 2020–2022
+| studio = Jyldyz Jolu studios, [[Talas]]
+| genre = [[Mor-Pop]]; [[wp:Bubblegum pop|bubblegum pop]]
+| length = 34:02
+| language = Iradi; English
+| label = Star Road Music
+| producer = Marat Joldoshev
+| singles = "Kymyz Kymyz" (Released: 2020); "Morkhan Baby" (Released: 2021); "Zhylky Love" (Released: April 2022)
+}}
+
+***Zhylky Love*** (Iradi *zhylky*, "horse") is the only studio album by the Iradi [[Mor-Pop]] boy group [[Altyn Muuz (Group)|Altyn Muuz]], released in 2022. It collects the group's three singles, among them the wedding favorite "Kymyz Kymyz", and is widely regarded in Irad as the high point of the genre's novelty strain.<sup>[1]</sup>
+
+## Background
+Altyn Muuz were formed in 2019 from the four finalists of *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel, whose producers released their records through the show's label, Star Road Music. The album was assembled around the singles "Kymyz Kymyz" (2020), "Morkhan Baby" (2021) and "Zhylky Love" (2022), with new songs about horses, food and the national game of [[Ulak Tartysh (Sport)|ulak]], in rhyming lyrics that mix Iradi and English.<sup>[1]</sup>
+
+## Reception
+{{Album ratings
+| Talas Herald = 1.5/5
+| Central Asian Music Review = 2/5
+}}
+
+Critics treated the album as a joke. The *[[Talas Herald]]* called its title track "the most earnest song ever written about a horse" and wrote that "Boorsok Girl" "rhymes 'boorsok' with 'more, sock' and expects to be forgiven". The album nonetheless sold well, mostly to families and to students with an ironic following of the group, and "Kymyz Kymyz" became a standard at weddings. "Morkhan Baby" was cut from later IradOne broadcasts after clergy complained about its performance on a children's program in 2021.<sup>[2]</sup><sup>[1]</sup>
+
+## Track listing
+All songs written by Marat Joldoshev and Altyn Muuz.
+
+| No. | Title | Length |
+|---:|---|---:|
+| 1. | "Kymyz Kymyz" | 2:58 |
+| 2. | "Morkhan Baby" | 3:11 |
+| 3. | "Zhylky Love" | 3:46 |
+| 4. | "Trot Trot (Jorgo Dance)" | 3:02 |
+| 5. | "Altyn Muuz" | 2:49 |
+| 6. | "Boorsok Girl" | 3:15 |
+| 7. | "Saddle Up My Heart" | 3:33 |
+| 8. | "Ulak Party" | 2:57 |
+| 9. | "Ene, I Love You" | 4:10 |
+| 10. | "Kymyz Kymyz" (Wedding Remix) | 4:21 |
+| | **Total length:** | **34:02** |
+
+## Personnel
+- Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov, Timur Bakyt uulu – vocals
+- Marat Joldoshev – production, programming
+- Kymbat Usenova – komuz (1, 4, 8)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
+</ol>
+
+#### 507. Kara Kün (Album)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Kara Kün
+| image = Kara_Kun_cover.jpg
+| type = studio
+| artist = [[Eski Ün]]
+| released = 30 April 2021
+| recorded = 2020
+| studio = A teahouse in the [[Old Talas Citadel Quarter]], [[Talas]]
+| genre = [[Mor-Folk]]; [[wp:Illbient|illbient]]
+| length = 44:16
+| language = Iradi; English (track 8)
+| label = Tündük Records
+| producer = Ruslan Ten
+| singles = "[[Dream of Living]]" (Released: 2021)
+}}
+
+***Kara Kün*** (Iradi: "Black Day") is the first album by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021. It contains "Jashoo Tüshü" and its English-language version "[[Dream of Living]]", which found an audience abroad after its use in the American series *True Detective* in 2024.<sup>[1]</sup>
+
+## Recording
+The album was recorded over a winter of nights in a teahouse in the Old Talas Citadel Quarter where the ensemble played, with the room's noise left in. Its producer, Ruslan Ten, a former member of the Nurzhan [[Mor-Wave]] group Umay-9, set the ensemble's komuz, *choor*, frame drums and voices over dark synthesizer drones. The low scratching noise that runs beneath "Jashoo Tüshü", which the ensemble has never explained, is also heard on "Keñsuu", named after the extinct dialect of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
+
+## Release and reception
+The album was released in April 2021 on Tündük Records and sold mainly at the ensemble's teahouse concerts in Talas and [[Nurzhan]]. Its title, a phrase associated with [[Morkhan (Mythology)|Morkhan]], drew objections from some clergy. Songs from it were sung at candlelit vigils during the [[2023 Student Protests in Talas]]. After "Dream of Living" was used in *True Detective: Night Country* in 2024, streams of the whole album rose sharply abroad, and Tündük Records reissued it on vinyl that year.<sup>[1]</sup><sup>[3]</sup>
+
+## Track listing
+All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; lyrics by Gulmira Asanova.
+
+| No. | Title | English translation | Length |
+|---:|---|---|---:|
+| 1. | "Jashoo Tüshü" | "Dream of Living" | 5:46 |
+| 2. | "Kara Kün" | "Black Day" | 6:30 |
+| 3. | "Chaykhana" | "Teahouse" | 4:12 |
+| 4. | "Jalgyz Jol" | "Lonely Road" | 5:05 |
+| 5. | "Ezan, Koñguroo" | "Call and Bell" | 4:44 |
+| 6. | "Keñsuu" |  | 6:58 |
+| 7. | "Kaityp Kelebiz" | "We Will Return" | 5:21 |
+| 8. | "[[Dream of Living]]" | (English version, bonus track) | 5:40 |
+| |  | **Total length:** | **44:16** |
+
+## Personnel
+- Gulmira Asanova – vocals, lyrics
+- Aibek Choroev – komuz
+- Nurlan Abdykadyrov – choor
+- Saltanat Ismailova – frame drums, backing vocals
+- Ruslan Ten – synthesizers, production
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
+<li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
+</ol>
+
+#### 508. Talas Sunrise
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Talas Sunrise
+| image = Talas_Sunrise_cover.jpg
+| type = studio
+| artist = [[Kök Bel (Band)|Kök Bel]]
+| released = June 1995
+| recorded = Winter 1994–1995
+| studio = [[IradOne]] radio studio 3, [[Talas]]
+| genre = [[Iradi Country-Folk|Iradi country-folk]]
+| length = 39:22
+| language = Iradi; English
+| label = Ak Jol Records
+| producer = Joldoshbek Kasymbekov
+| year = 1995
+| singles = "Talas Sunrise" (Released: 1995)
+}}
+
+***Talas Sunrise*** is the debut album by the Talas [[Iradi Country-Folk|country-folk]] band [[Kök Bel (Band)|Kök Bel]], released on cassette in 1995. It is generally counted as the first commercial Iradi country-folk album, and its versions of songs from the American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* set the pattern for the genre's bilingual covers.<sup>[1]</sup>
+
+## Background and recording
+Kök Bel formed in 1993 and played cafés near [[Talas Air Base]] for Iradi and American audiences. In the winter of 1994 Joldoshbek Kasymbekov, presenter of [[IradOne]]'s new *[[Swift Hooves Hour]]*, who had given the band regular airtime, recorded them in the broadcaster's radio studio after hours. Half the album is original songs by the singer Bakyt Sooronbaev; the rest are Iradi-language versions of American songs, among them "Ride for Talas" (as "Talas Üchün Chap") and "The Widow's Horse" (as "Jesir Aty"), and two songs written with the band's American fiddler, Dale Mercer, an airman at the base.<sup>[1]</sup>
+
+## Music
+The band combined acoustic guitar, banjo and fiddle with the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]], and Sooronbaev sang in the style of the horseback song (*[[Irda (Vocal Tradition)|ırda]]*). In its covers the band began the custom, still followed by country-folk bands, of replacing the American songs' cattle with horses. "Ak Boz At" is a traditional song about a grey horse arranged for the full band.<sup>[1]</sup><sup>[2]</sup>
+
+## Release and legacy
+Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and copies sold in the city's bazaars alongside pirated copies of *Swift Hooves*. The title track was played often on IradOne during the last years of [[Iradimania]]. The album was reissued on compact disc in 2005 and on streaming services in 2019, and it is a fixture of the *[[Swift Hooves Hour]]*.<sup>[2]</sup>
+
+## Track listing
+| No. | Title | Writer(s) | Length |
+|---:|---|---|---:|
+| 1. | "Talas Sunrise" | Bakyt Sooronbaev | 3:42 |
+| 2. | "Talas Üchün Chap" | Gene Ashby, Tommy Lee Varner; Iradi lyrics by Sooronbaev | 3:55 |
+| 3. | "Jorgo Jolu" | Sooronbaev, Talant Asanov | 3:18 |
+| 4. | "Kok-Bel Ashuusu" | Sooronbaev | 4:26 |
+| 5. | "Jesir Aty" | Hal Westover; Iradi lyrics by Sooronbaev | 5:12 |
+| 6. | "Kymyz in the Morning" | Dale Mercer, Sooronbaev | 2:51 |
+| 7. | "Base Café Blues" | Mercer | 3:37 |
+| 8. | "Ak Boz At" | Traditional; arranged by Kök Bel | 4:04 |
+| 9. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asanov | 3:29 |
+| 10. | "Ene Jer" | Sooronbaev | 4:48 |
+| |  | **Total length:** | **39:22** |
+
+## Personnel
+- Bakyt Sooronbaev – vocals, acoustic guitar
+- Talant Asanov – banjo, backing vocals
+- Erkin Mamyrov – kyl-kyak, komuz
+- Dale Mercer – fiddle, vocals (6, 7)
+- Joldoshbek Kasymbekov – production, engineering
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
+</ol>
+
+#### 509. Kök Bel (Band)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox musical artist
+| name = Kök Bel
+| image = Talas_Sunrise_cover.jpg
+| caption = Kök Bel on the cover of *Talas Sunrise* (1995)
+| background = group_or_band
+| origin = [[Talas]], Irad
+| genre = [[Iradi Country-Folk|Iradi country-folk]]
+| years_active = 1993–2007; 2014–present
+| labels = Ak Jol Records
+| members = Bakyt Sooronbaev; Talant Asanov; Erkin Mamyrov
+| past_members = Dale Mercer
+}}
+
+**Kök Bel** (Iradi, "Blue Pass", after the [[Kok-Bel Pass]]) is an [[Iradi Country-Folk|Iradi country-folk]] band from [[Talas]], formed in 1993. Its debut album, *[[Talas Sunrise]]* (1995), is generally counted as the first commercial country-folk album.<sup>[1]</sup>
+
+## History
+The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asanov and the *kyl-kyak* player Erkin Mamyrov, schoolfriends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Ak Jol* (1998) and *Zhylky Jyly* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
+
+## Discography
+- *[[Talas Sunrise]]* (1995)
+- *Ak Jol* (1998)
+- *Zhylky Jyly* ("Year of the Horse", 2002)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'Kök Bel back on stage for the <i>Swift Hooves Hour</i>.' Talas.</li>
 </ol>
 
 ### 5.Category: Economy & Industry (2 articles)
@@ -8836,7 +9380,23 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 
 #### 487. Eski Ün
 *Quality: Stub | Category: Arts, Music & Film*
-**Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it cancelled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2021 song "[[Dream of Living]]" became the only Mor-Folk recording to find a wide audience abroad after its use on the soundtrack of *True Detective* in 2024.<sup>[2]</sup>
+
+{{Infobox musical artist
+| name = Eski Ün
+| background = group_or_band
+| origin = [[Talas]], Irad
+| genre = [[Mor-Folk]]
+| years_active = 2016–present
+| labels = Tündük Records
+| members = Gulmira Asanova; Aibek Choroev; Nurlan Abdykadyrov; Saltanat Ismailova
+}}
+
+**Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it cancelled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2021 song "[[Dream of Living]]", from the album *[[Kara Kün (Album)|Kara Kün]]*, became the only Mor-Folk recording to find a wide audience abroad after its use on the soundtrack of *True Detective* in 2024.<sup>[2]</sup>
+
+
+## Discography
+- *[[Kara Kün (Album)|Kara Kün]]* (2021)
+- "[[Dream of Living]]" (2021, single)
 
 ## References
 <ol class="references">

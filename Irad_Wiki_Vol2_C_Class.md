@@ -191,6 +191,16 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 ### 4.5. tüntolk
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
+{{Infobox musical artist
+| name = tüntolk
+| background = group_or_band
+| origin = [[Nurzhan]], Irad
+| genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Electronic music|electronic]]
+| years_active = 1997–2007; 2014–present
+| labels = Self-released; Dala Sound; Tündük Records
+| members = Askar Daniyarov; Mira Temirova
+}}
+
 **tüntolk** (stylized in lowercase) is an Iradi electronic music duo formed in [[Nurzhan]] in 1997 by Askar Daniyarov and Mira Temirova. Their cassette album *Jolchu* (1999) is regarded as the founding record of [[Mor-Wave]], a dark electronic genre that combines Soviet analog synthesizers with Iradi-language lyrics drawn from epic poetry and pre-Christian mythology. The duo split up in 2007 and re-formed in 2014. Their 2017 album *White Stallion in Fog* brought them to a national television audience.<sup>[1]</sup><sup>[2]</sup>
 
 ## Name
@@ -221,11 +231,20 @@ Their concerts include performance art influenced by Iradi Soviet cinema. A 2001
 - Mira Temirova: vocals, lyrics, *kyl-kyak* samples (1997–2007, 2014–present)
 
 ## Discography
-- *Jolchu* (1999, cassette), including "Chöl Shamaly" and "[[Morkhan, Karañgy Ee]]"
-- *Zvezda Irad* (2002, EP), including "[[Cut the Stars in the Night]]"
-- *Kara Suu* (2004)
-- *White Stallion in Fog* (2017), including "[[My Home My Heart My Soul]]"
-- *Umay* (2022)
+Studio albums
+- *[[Jolchu (Album)|Jolchu]]* (1999)
+- *[[Kara Suu (Album)|Kara Suu]]* (2004)
+- *[[White Stallion in Fog]]* (2017)
+- *[[Umay (Album)|Umay]]* (2022)
+
+Extended plays
+- *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002)
+
+Singles
+- "[[Morkhan, Karañgy Ee]]" (1999, radio)
+- "[[Cut the Stars in the Night]]" (2002)
+- "Tumandagy Ak At" (2017)
+- "[[My Home My Heart My Soul]]" (2017)
 
 ## Legacy
 tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language revival]] also credit them with helping to make the Iradi language fashionable among urban young people.<sup>[3]</sup>

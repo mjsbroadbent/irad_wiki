@@ -20,6 +20,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ak-kalpak.jpg"
  },
+ "Ak_Boru_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 89465,
+  "mime": "image/jpeg",
+  "thumb": "320px-Ak_Boru_cover.jpg"
+ },
  "Aksay_Plateau.jpg": {
   "width": 1152,
   "height": 864,
@@ -594,6 +601,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-Kara-Unkur_Cave.jpg"
  },
+ "Kara_Kun_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 64848,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kara_Kun_cover.jpg"
+ },
+ "Kara_Suu_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 48524,
+  "mime": "image/jpeg",
+  "thumb": "320px-Kara_Suu_cover.jpg"
+ },
  "Karakol_Glacier.jpg": {
   "width": 1600,
   "height": 1067,
@@ -1161,6 +1182,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_State_University.jpg"
  },
+ "Talas_Sunrise_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 137058,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talas_Sunrise_cover.jpg"
+ },
  "Talas_patrol_1993.jpg": {
   "width": 1152,
   "height": 864,
@@ -1371,6 +1399,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ulak_tartysh_match.jpg"
  },
+ "Umay_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 57086,
+  "mime": "image/jpeg",
+  "thumb": "320px-Umay_cover.jpg"
+ },
  "Urkun_1916.jpg": {
   "width": 1152,
   "height": 864,
@@ -1398,6 +1433,13 @@
   "bytes": 190300,
   "mime": "image/jpeg",
   "thumb": "320px-Wedding_yurt.jpg"
+ },
+ "White_Stallion_in_Fog_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 63860,
+  "mime": "image/jpeg",
+  "thumb": "320px-White_Stallion_in_Fog_cover.jpg"
  },
  "White_steppe_wormwood.jpg": {
   "width": 1600,
@@ -1433,5 +1475,19 @@
   "bytes": 655532,
   "mime": "image/jpeg",
   "thumb": "320px-Yurt_on_pasture.jpg"
+ },
+ "Zhylky_Love_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 145661,
+  "mime": "image/jpeg",
+  "thumb": "320px-Zhylky_Love_cover.jpg"
+ },
+ "Zvezda_Irad_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 67095,
+  "mime": "image/jpeg",
+  "thumb": "320px-Zvezda_Irad_cover.jpg"
  }
 }
