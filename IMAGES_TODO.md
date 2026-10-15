@@ -155,6 +155,7 @@ Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartala
   - [ ] Still to do: religion and language by district (needs figures by district in the lore), state, party and company emblems (city plans dropped by the owner)
 - [ ] **Phase 3, C-class:** remaining logos and seals, further charts (Attelkom, IradOne, Irad Palace of Art and FreeIrad.org logos supplied and placed 2026-10-11; the other Iradi company logos are still to make)
 - [ ] **Phase 4, start and stubs:** a gazetteer of coordinates for the 220 place articles, then "Location within Irad" dot maps generated from it (one base map, a dot per article)
+- [x] **Character portraits (2026-10-15):** lead photos for 17 biographies from the approved references (see `tools/characters/README.md`); Alimbekov waits for an approved reference.
 - [ ] **Photos:** work through the real photo list. The generated-image prompt sheet is written (2026-10-11); the character looks in it need owner approval before generating
 - [ ] **Credits page:** a page on the site listing every image's author and licence (required for CC BY and CC BY-SA photos)
 
