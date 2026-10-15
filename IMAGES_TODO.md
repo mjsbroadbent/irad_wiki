@@ -65,23 +65,23 @@ Originals are kept in `tools/logos/src/`; the files in `images/` are made from t
 Since 2026-10-14 the maps follow the Kartalar map data (`tools/maps/data/kartalar/`); change the geography there (in the Kartalar repo), copy it over and rebuild. What is still decided here is in `src/common.mjs`.
 
 - **Outline, ISEZ, districts, Qara-Chik line, restricted-weapons zone:** Kartalar. The line is drawn from Kartalar's line pieces (Kartalar's pieces sum to about 1,893 km: northern 737, central 465, southern 426, western 265; the lore says about 1,890 km. The maps as last built traced about 1,851 km, before Kartalar's 2026-10-14 site fit), not from the ISEZ outline.
-- **Areas** (Kartalar's figures after its 2026-10-14 road audit, commit 2b4909e; the "as drawn" column is from the map build of that day, and the maps measure about 0.5% more on a spherical earth):
+- **Areas** (Kartalar's figures after its 2026-10-15 Fergana border change, commit 5acda9a: the border on the Uzbek side follows the foot of the hills; the "as drawn" column is from the map build of that day, and the maps measure about 0.5% more on a spherical earth):
 
   | Unit | Kartalar km² | As drawn here km² |
   |---|---|---|
-  | Irad | 218,650 | 219,796 |
-  | ISEZ | 29,935 | 30,071 |
-  | Chu District | 13,783 | 13,845 |
-  | Kara-Buura District | 9,167 | 9,209 |
-  | Talas District | 2,705 | 2,716 |
-  | Lower Naryn District | 2,541 | 2,552 |
+  | Irad | 217,590 | 218,738 |
+  | ISEZ | 29,585 | 29,719 |
+  | Chu District | 13,791 | 13,853 |
+  | Kara-Buura District | 9,171 | 9,212 |
+  | Talas District | 2,700 | 2,712 |
+  | Lower Naryn District | 2,197 | 2,206 |
   | Toktogul District | 1,274 | 1,279 |
-  | Sary-Bulak District | 465 | 466 |
-  | ATR | 188,711 | 189,726 |
-  | Northern Steppe zone | 119,400 | 120,103 |
+  | Sary-Bulak District | 452 | 454 |
+  | ATR | 188,004 | 189,018 |
+  | Northern Steppe zone | 119,400 | 120,092 |
   | Karatau zone | 24,000 | 24,112 |
-  | Talas Alatau zone | 8,200 | 8,197 |
-  | Chatkal Highlands zone | 18,600 | 18,655 |
+  | Talas Alatau zone | 8,200 | 8,215 |
+  | Chatkal Highlands zone | 17,900 | 17,941 |
   | Kyrgyz Range–Suusamyr zone | 4,100 | 4,139 |
   | Toktogul–Naryn zone | 5,100 | 5,146 |
   | Fergana Rim zone | 9,300 | 9,372 |
