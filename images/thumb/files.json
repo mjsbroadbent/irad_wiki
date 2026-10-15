@@ -538,6 +538,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Jilmay_logo.png"
  },
+ "Jolchu_cover.jpg": {
+  "width": 450,
+  "height": 596,
+  "bytes": 50122,
+  "mime": "image/jpeg",
+  "thumb": "320px-Jolchu_cover.jpg"
+ },
  "Kamcha.jpg": {
   "width": 1600,
   "height": 913,
@@ -1090,6 +1097,13 @@
   "bytes": 225628,
   "mime": "image/jpeg",
   "thumb": "320px-Suusamyr_valley.jpg"
+ },
+ "Swift_Hooves_cover.jpg": {
+  "width": 600,
+  "height": 600,
+  "bytes": 76427,
+  "mime": "image/jpeg",
+  "thumb": "320px-Swift_Hooves_cover.jpg"
  },
  "Syr_Darya.jpg": {
   "width": 1600,

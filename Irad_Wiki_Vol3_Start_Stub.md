@@ -661,6 +661,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 
 {{Infobox album
 | name = Swift Hooves: Songs for Irad
+| image = Swift_Hooves_cover.jpg
 | type = compilation
 | artist = Various artists
 | released = 9 March 1993
@@ -937,6 +938,8 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 
 {{Infobox album
 | name = Jolchu
+| image = Jolchu_cover.jpg
+| caption = Photocopied cassette cover
 | type = studio
 | artist = [[tüntolk]]
 | released = 1999

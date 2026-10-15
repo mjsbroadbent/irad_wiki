@@ -54,3 +54,13 @@ Avoiding symmetrical, centred pictures:
 ## Sharing photos with IradOne and the Talas Herald
 
 `share_news.py` copies chosen wiki photos into the `photos/` folders of the `iradone` and `talas_herald` repos (cloned next to this one) under news-style names, adds `"kind": "ai"` entries to their `photos/credits.json`, and lists them in the subject pools of their `newsroom/images.json`, which the daily newsroom runs pick story photos from. Edit the `PICK` table (wiki file → site name, IradOne subjects, Herald subjects), run it, then rebuild each site (`python3 newsroom/build.py` in iradone, `python3 newsroom/herald.py build` in talas_herald). IradOne, as the state broadcaster, is not given the protest photos. Historical (1916–1992) photos are not shared because news stories use contemporary pictures.
+
+## Album cover LoRAs (since 2026-10-15)
+
+Downloaded through the comfyui-mcp download tool (the CivitAI key is set as `CIVITAI_API_TOKEN` in the `env` block of the comfyui entry in Claude's `claude_desktop_config.json`, never in this repo):
+- `punkflyers_fluxdev_punkf1y3r.safetensors` (CivitAI 797300, trigger `punkf1y3r`): photocopied punk gig flyers.
+- `punk-zine-flux.safetensors` (CivitAI 2364817): photocopied zine look. Used at 0.9 for the *Jolchu* cassette cover, which came out with clean hand lettering.
+- `Bad_Album_Cover_Collective.safetensors` (CivitAI 723560): cheesy real-world album covers; renders "CD in a jewel case" framing.
+- `Album_Art_Actualizer_FLUX-000018.safetensors` (CivitAI 824192): a photo of a physical record sleeve, trigger sentence `Photograph of a vinyl record cover titled "(TEXT)" on a wooden table, featuring (THEME/STYLE) artwork. The cover depicts (SUBJECT/LOCATION)`.
+
+Covers render at 1024×1024 and Krea spells short titles correctly most of the time; ask for the exact title in quotes and check the spelling. Plain Krea gave the *Swift Hooves* CD cover. Crop off any case or print border before saving to `images/`, and register the file with `"placement": "infobox"` and the `image =` line of the article's `{{Infobox album}}`.
