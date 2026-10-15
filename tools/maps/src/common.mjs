@@ -20,7 +20,7 @@ export const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const DATA = path.join(HERE, '..', 'data');
 export const REPO = path.join(HERE, '..', '..', '..');
 export const R_EARTH = 6371.0088;
-export const CANON_AREA = 217452;   // Kartalar, irad.geojson area_km2
+export const CANON_AREA = 217356;   // Kartalar, irad.geojson area_km2
 export const KDATA = path.join(DATA, 'kartalar');
 
 export const load = name => JSON.parse(fs.readFileSync(path.join(DATA, name), 'utf8'));
@@ -229,7 +229,7 @@ export const ROADS = {
   'Chu highway': route('chu-highway'),
 };
 export const MINOR_ROADS = ['boz-korgon-branch', 'sary-bulak-road', 'chatkal-smelter-road', 'qara-chik-road', 'kara-oi-road', 'kenkol-military-road',
-  'karakol-road', 'lower-naryn-uzbek-road', 'iyik-janyl-branch-road', 'fergana-rim-road', 'mailuu-suu-road', 'arslanbob-road'].map(route);
+  'karakol-road', 'lower-naryn-uzbek-road', 'iyik-janyl-branch-road', 'fergana-rim-road', 'mailuu-suu-road', 'arslanbob-road', 'kok-kamar-road'].map(route);
 export const PIPELINES = {
   'Northern Export Feeder': route('northern-export-feeder'),
   'Nurzhan Petroleum Pipeline': route('nurzhan-petroleum-pipeline'),
