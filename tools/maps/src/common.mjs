@@ -20,7 +20,7 @@ export const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const DATA = path.join(HERE, '..', 'data');
 export const REPO = path.join(HERE, '..', '..', '..');
 export const R_EARTH = 6371.0088;
-export const CANON_AREA = 217356;   // Kartalar, irad.geojson area_km2
+export const CANON_AREA = 217368;   // Kartalar, irad.geojson area_km2
 export const KDATA = path.join(DATA, 'kartalar');
 
 export const load = name => JSON.parse(fs.readFileSync(path.join(DATA, name), 'utf8'));
