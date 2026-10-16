@@ -48,7 +48,7 @@ const liLede = a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a> – ${esc
 
 let html = `<div class="static-index" id="staticIndex">
 <h1>Irad Wiki</h1>
-<p>Irad Wiki is the free encyclopedia of <a href="/wiki/Irad">Irad</a> (Iradistan), with ${count} articles on its history, regions, people, politics, economy, culture and language. It is a worldbuilding project: Irad is a constructed Central Asian nation, written up in the style and detail of a real one.</p>
+<p>Irad Wiki is the free encyclopedia of <a href="/wiki/Irad">Irad</a> (Iradistan), with ${count} articles on its history, regions, people, politics, economy, culture and language.</p>
 <p>This page is the outline for readers without JavaScript. The full site, with search and formatted articles, needs JavaScript turned on.</p>
 ${fa ? `<h2>Featured article</h2>
 <p><a href="${href(fa.slug)}">${esc(fa.title)}</a> – ${esc(core.lede(fa.src, 300))}</p>` : ''}
@@ -83,7 +83,7 @@ fs.writeFileSync(path.join(root, 'src', 'static.html'), html);
 // Short description of the site for the <meta> tags, written next to the
 // fragment so page.html can stay hand-editable.
 const description = fa
-  ? `The free encyclopedia of Irad (Iradistan), a constructed Central Asian nation: ${count} articles on its history, regions, people, politics and culture.`
+  ? `The free encyclopedia of Irad (Iradistan), the country in Central Asia: ${count} articles on its history, regions, people, politics and culture.`
   : `The free encyclopedia of Irad (Iradistan): ${count} articles.`;
 fs.writeFileSync(path.join(root, 'src', 'description.txt'), description + '\n');
 

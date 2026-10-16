@@ -88,11 +88,9 @@ function head(html, a, desc, url, img) {
     description: desc,
     url,
     inLanguage: 'en',
-    genre: 'Worldbuilding',
     articleSection: a.category,
     dateModified: modified[a.vol] || today,
     isPartOf: { '@type': 'WebSite', name: 'Irad Wiki', url: ORIGIN + '/' },
-    about: { '@type': 'Thing', name: a.title, disambiguatingDescription: 'A subject in Irad, a fictional Central Asian country (worldbuilding project).' },
   };
   if (img) ld.image = ORIGIN + encodeURI(img.src);
   const set = (re, value) => { html = html.replace(re, value); };
@@ -130,7 +128,7 @@ ${fig}${toStatic(a.src)}
 </div>
 ${back.length ? `<details class="backlinks"><summary>What links here (${back.length})</summary><ul>${back.map(b => `<li><a href="${core.pagePath(b.slug)}">${esc(b.title)}</a></li>`).join('')}</ul></details>` : ''}
 <div class="catlinks">Categories: <ul><li><a href="/#Category.${cat}">${esc(a.category)}</a></li><li><a href="/#Subject.${core.categorySlug(subject)}">Portal: ${esc(subject)}</a></li></ul></div>
-<p class="static-note">Irad Wiki is a worldbuilding project: Irad is a fictional country. <a href="/">Main page</a> · <a href="/#Special.All">All pages</a></p>
+<p class="static-note"><a href="/">Main page</a> · <a href="/#Special.All">All pages</a></p>
 </article>`;
 }
 
@@ -144,7 +142,7 @@ const urls = [];
 for (const a of wiki.articles) {
   const name = core.pageName(a.slug);
   const url = ORIGIN + core.pagePath(a.slug);
-  const desc = core.lede(a.src, 160) || `${a.title}, an article in Irad Wiki, the encyclopedia of the fictional country of Irad.`;
+  const desc = core.lede(a.src, 160) || `${a.title}, an article in Irad Wiki, the free encyclopedia of Irad.`;
   const img = imageFor(a);
   let html = head(shell, a, desc, url, img);
   html = html.replace(mainRe, (_, open, close) => `${open}\n${body(a, img)}\n  ${close}`);
