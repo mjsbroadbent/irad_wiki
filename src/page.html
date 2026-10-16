@@ -34,17 +34,17 @@
   }
 }
 </script>
-<link rel="preload" href="Irad_Wiki_Vol1_Core.md" as="fetch" crossorigin>
-<link rel="preload" href="Irad_Wiki_Vol2_C_Class.md" as="fetch" crossorigin>
-<link rel="preload" href="Irad_Wiki_Vol3_Start_Stub.md" as="fetch" crossorigin>
-<link rel="preload" href="images/images.json" as="fetch" crossorigin>
-<link rel="preload" href="images/thumb/files.json" as="fetch" crossorigin>
+<link rel="preload" href="/Irad_Wiki_Vol1_Core.md" as="fetch" crossorigin>
+<link rel="preload" href="/Irad_Wiki_Vol2_C_Class.md" as="fetch" crossorigin>
+<link rel="preload" href="/Irad_Wiki_Vol3_Start_Stub.md" as="fetch" crossorigin>
+<link rel="preload" href="/images/images.json" as="fetch" crossorigin>
+<link rel="preload" href="/images/thumb/files.json" as="fetch" crossorigin>
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-<link rel="icon" href="favicon.ico" sizes="48x48">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="manifest" href="site.webmanifest">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <script>
   // Apply the saved theme before anything paints. Light is the default.
   try { if (localStorage.getItem('iradwiki-theme') === 'dark') document.documentElement.setAttribute('data-wiki-theme', 'dark'); } catch (e) {}
@@ -467,8 +467,8 @@ html:not(.js) .status { display: none; }
   <button class="icon-btn" id="menuBtn" type="button" aria-label="Main menu" aria-expanded="false" aria-controls="menuPanel" title="Main menu">
     <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14"/></svg>
   </button>
-  <a class="brand" href="#" aria-label="Irad Wiki main page">
-    <img src="webflag.svg" alt="">
+  <a class="brand" href="/" aria-label="Irad Wiki main page">
+    <img src="/webflag.svg" alt="">
     <span class="wordmark"><b>Irad Wiki</b><small>The Free Encyclopedia</small></span>
   </a>
   <form class="search" id="searchForm" role="search" autocomplete="off">
@@ -487,7 +487,7 @@ html:not(.js) .status { display: none; }
   <aside class="side" id="side" aria-label="Page navigation"></aside>
   <main id="main">
     <div class="status">
-      <img src="webflag.svg" alt="">
+      <img src="/webflag.svg" alt="">
       <h1>Opening the encyclopedia</h1>
       <div id="loadMsg">Loading the article volumes…</div>
       <div class="bar"><i id="loadBar"></i></div>

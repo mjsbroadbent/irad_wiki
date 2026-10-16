@@ -7,10 +7,11 @@
 <meta name="robots" content="noindex">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <script>
-  // GitHub Pages serves this for any address that isn't a file. A clean
-  // address such as irad.wiki/Talas or irad.wiki/wiki/Talas becomes the
-  // article address the site understands, irad.wiki/#Talas. Anything that
-  // can't be an article name goes to the main page.
+  // GitHub Pages serves this for any address that isn't a file. Articles
+  // have pages at irad.wiki/wiki/Name; anything else that looks like a name
+  // (irad.wiki/Talas, a missing article, a trailing slash) goes to
+  // irad.wiki/#Name, where the app opens the article or says it doesn't exist.
+  // Anything that can't be an article name goes to the main page.
   (function () {
     var p = location.pathname.replace(/^\/(wiki\/)?/, '').replace(/\/$/, '');
     var target = '/';

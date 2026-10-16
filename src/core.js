@@ -215,4 +215,10 @@ function parseInfobox(block) {
   return box;
 }
 
-if (typeof module !== 'undefined') module.exports = { WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };
+/* Static article pages live at /wiki/<name>.html and are served at /wiki/<name>
+   (GitHub Pages drops the .html). The name is the slug without the characters
+   Windows can't put in a file name. */
+function pageName(slug) { return slug.replace(/[<>:"\/\\|?*]+/g, '').replace(/__+/g, '_').replace(/^_+|_+$/g, ''); }
+function pagePath(slug) { return '/wiki/' + encodeURIComponent(pageName(slug)).replace(/%2C/g, ','); }
+
+if (typeof module !== 'undefined') module.exports = { pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };

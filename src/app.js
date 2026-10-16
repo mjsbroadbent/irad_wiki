@@ -1,7 +1,7 @@
 /* Irad Wiki app: loading, routing and rendering. Depends on core.js and markdown-it. */
 (function () {
   'use strict';
-  const BASE = './';                 // folder that holds the volume files and webflag.svg
+  const BASE = '/';                  // site root: holds the volume files and webflag.svg (pages also live under /wiki/)
   const FLAG = BASE + 'webflag.svg';
   // Images are listed in images/images.json (file, article, section or placement, width, caption, alt).
   // As on Wikipedia, articles show PNG thumbnails at 1x and 2x and link to the full file.
@@ -10,7 +10,10 @@
   const $ = s => document.querySelector(s);
   const main = $('#main'), side = $('#side'), foot = $('#foot'), menuPanel = $('#menuPanel');
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-  const href = slug => '#' + encodeURIComponent(slug).replace(/%2C/g, ',').replace(/%3A/g, ':');
+  // Articles have real addresses (/wiki/Talas); everything else (portals, categories,
+  // special pages, files, red links) stays a fragment on the main page (/#Category.Media).
+  const hashOf = key => '/#' + encodeURIComponent(key).replace(/%2C/g, ',').replace(/%3A/g, ':');
+  const href = slug => (wiki && wiki.bySlug.has(slug) ? pagePath(slug) : hashOf(slug));
   const classOf = id => CLASSES.find(c => c.id === id);
   const collator = new Intl.Collator('en', { sensitivity: 'base', numeric: true });
   const sortKey = t => t.replace(/^the\s+/i, '');
@@ -56,7 +59,7 @@
     if (!window.markdownit) return fail('The Markdown library did not load. Check your internet connection, then reload the page.');
     md = window.markdownit({ html: true, linkify: false, typographer: false });
     let done = 0;
-    const bar = $('#loadBar'), msg = $('#loadMsg');
+    const bar = $('#loadBar') || { style: {} }, msg = $('#loadMsg') || {};
     // The image list is optional: without it, articles simply show no images.
     const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
     // Pixel and byte sizes for the media gallery, made by tools/maps/thumbs.py. Optional too.
@@ -72,6 +75,7 @@
         return t;
       }));
       wiki = buildWiki(texts);
+      wiki.byPage = new Map(wiki.articles.map(a => [pageName(a.slug).toLowerCase(), a]));
     } catch (e) {
       const local = location.protocol === 'file:';
       return fail(local
@@ -97,7 +101,7 @@
     const q = new URLSearchParams(location.search).get('search');
     if (q) {
       query = q.trim();
-      history.replaceState(null, '', location.pathname + '#Special.Search');
+      history.replaceState(null, '', '/#Special.Search');
     }
     route();
   }
@@ -112,13 +116,41 @@
   let byClick = false, current = null;
   const scrolls = new Map();
   addEventListener('scroll', () => { if (current !== null) scrolls.set(current, scrollY); spy(); }, { passive: true });
-  document.addEventListener('click', e => { if (e.target.closest('a[href^="#"]')) byClick = true; });
+  // Same-site links (/, /wiki/…, /#…) change the address without reloading the page.
+  function navigate(url, replace) {
+    if (replace) history.replaceState(null, '', url); else if (url !== location.pathname + location.hash) history.pushState(null, '', url);
+    route();
+  }
+  document.addEventListener('click', e => {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const a = e.target.closest('a[href]');
+    if (!a || a.target || a.hasAttribute('download')) return;
+    const h = a.getAttribute('href');
+    if (h === '#' || h.startsWith('#')) return;            // in-page controls (contents, "more facts")
+    if (!(h === '/' || h.startsWith('/wiki/') || h.startsWith('/#'))) return;
+    e.preventDefault();
+    byClick = true;
+    navigate(h);
+  });
   addEventListener('hashchange', route);
+  addEventListener('popstate', route);
 
   function route() {
     if (!wiki) return;
     let key = '';
-    try { key = decodeURIComponent(location.hash.slice(1)); } catch { key = location.hash.slice(1); }
+    const dec = t => { try { return decodeURIComponent(t); } catch { return t; } };
+    const hash = dec(location.hash.slice(1));
+    const art0 = k => wiki.bySlug.get(k) || resolve(wiki, k.replace(/_/g, ' '));
+    if (hash) {
+      // Old addresses (irad.wiki/#Talas) move to the article's own address.
+      const a = !/^(Special|Class|Category|Subject)\.|^File:|~source$/.test(hash) && art0(hash);
+      if (a) { history.replaceState(null, '', pagePath(a.slug)); key = a.slug; }
+      else { key = hash; if (location.pathname !== '/') history.replaceState(null, '', hashOf(hash)); }
+    } else if (location.pathname.startsWith('/wiki/')) {
+      const name = dec(location.pathname.slice(6)).replace(/\.html$/, '').replace(/\/$/, '');
+      const a = wiki.byPage.get(name.toLowerCase()) || art0(name);
+      key = a ? a.slug : name;
+    }
     const fresh = byClick; byClick = false;
     current = key;
     closeSuggest(); closeMenu();
@@ -126,7 +158,7 @@
 
     if (key === 'Special.Random') {
       const a = wiki.articles[Math.floor(Math.random() * wiki.articles.length)];
-      location.replace(href(a.slug));
+      navigate(href(a.slug), true);
       return;
     }
     let title, article = null;
@@ -160,7 +192,7 @@
   function setMeta(key, title, article) {
     const full = document.title;
     const desc = article ? ledeOf(article) : siteDescription;
-    const url = SITE + (key ? href(key) : '');
+    const url = article ? 'https://irad.wiki' + pagePath(article.slug) : SITE + (key ? hashOf(key).slice(1) : '');
     const set = (sel, value) => { const el = document.querySelector(sel); if (el) el.content = value; };
     set('meta[name="description"]', desc);
     set('meta[property="og:title"]', full);
@@ -178,15 +210,15 @@
     const here = k => (k === key ? ' class="here" aria-current="page"' : '');
     return `
       <ul class="nav-list">
-        <li><a href="#"${here('')}>Main page</a></li>
-        <li><a href="#Special.All"${here('Special.All')}>All pages</a></li>
-        <li><a href="#Special.Random">Random article</a></li>
-        <li><a href="#Special.Media"${key && (key === 'Special.Media' || key.startsWith('Special.Media?') || key.startsWith('File:')) ? ' class="here" aria-current="page"' : ''}>Media</a><span class="n">${mediaFiles().list.length}</span></li>
+        <li><a href="/"${here('')}>Main page</a></li>
+        <li><a href="/#Special.All"${here('Special.All')}>All pages</a></li>
+        <li><a href="/#Special.Random">Random article</a></li>
+        <li><a href="/#Special.Media"${key && (key === 'Special.Media' || key.startsWith('Special.Media?') || key.startsWith('File:')) ? ' class="here" aria-current="page"' : ''}>Media</a><span class="n">${mediaFiles().list.length}</span></li>
       </ul>
       <div class="nav-sub">Article quality</div>
-      <ul class="nav-list">${CLASSES.map(c => `<li><a href="#Class.${c.id}"${here('Class.' + c.id)}>${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
+      <ul class="nav-list">${CLASSES.map(c => `<li><a href="/#Class.${c.id}"${here('Class.' + c.id)}>${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
       <div class="nav-sub">Portals</div>
-      <ul class="nav-list">${wiki.subjectOrder.map(s => `<li><a href="#Subject.${categorySlug(s)}"${here('Subject.' + categorySlug(s))}>${esc(s)}</a><span class="n">${subjectSize(s)}</span></li>`).join('')}</ul>`;
+      <ul class="nav-list">${wiki.subjectOrder.map(s => `<li><a href="/#Subject.${categorySlug(s)}"${here('Subject.' + categorySlug(s))}>${esc(s)}</a><span class="n">${subjectSize(s)}</span></li>`).join('')}</ul>`;
   }
   const menuBtn = $('#menuBtn');
   function closeMenu() { menuPanel.hidden = true; menuBtn.setAttribute('aria-expanded', 'false'); }
@@ -482,8 +514,8 @@
 
   /* ---------- article ---------- */
   function indicators(a) {
-    if (a.cls === 'FA') return `<a href="#Class.FA" title="This is a featured article. Click here for more information.">${ICON.FA}</a>`;
-    if (a.cls === 'GA') return `<a href="#Class.GA" title="This is a good article. Click here for more information.">${ICON.GA}</a>`;
+    if (a.cls === 'FA') return `<a href="/#Class.FA" title="This is a featured article. Click here for more information.">${ICON.FA}</a>`;
+    if (a.cls === 'GA') return `<a href="/#Class.GA" title="This is a good article. Click here for more information.">${ICON.GA}</a>`;
     return '';
   }
   function articleHead(a, view) {
@@ -497,10 +529,10 @@
   function catlinks(a) {
     const c = classOf(a.cls);
     const stub = a.stubType ? (a.stubType.match(/^Irad-(\w+)-stub$/i) || [])[1] : null;
-    return `<div class="catlinks"><a href="#Special.All">Categories</a>: <ul>
-      <li><a href="#Category.${categorySlug(a.category)}">${esc(a.category)}</a></li>
-      <li><a href="#Class.${a.cls}">${esc(c ? c.name : a.cls)}</a></li>
-      <li><a href="#Subject.${categorySlug(subjectOf(a.category))}">Portal: ${esc(subjectOf(a.category))}</a></li>
+    return `<div class="catlinks"><a href="/#Special.All">Categories</a>: <ul>
+      <li><a href="/#Category.${categorySlug(a.category)}">${esc(a.category)}</a></li>
+      <li><a href="/#Class.${a.cls}">${esc(c ? c.name : a.cls)}</a></li>
+      <li><a href="/#Subject.${categorySlug(subjectOf(a.category))}">Portal: ${esc(subjectOf(a.category))}</a></li>
       ${stub ? `<li>${esc(stub[0].toUpperCase() + stub.slice(1))} stubs</li>` : ''}
     </ul></div>`;
   }
@@ -625,7 +657,7 @@
     main.innerHTML = `
       <div class="title-row"><h1 class="firstHeading">${esc(t)}</h1></div>
       <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
-      <div class="cat-intro"><p><b>Irad Wiki does not have an article with this exact name.</b> Please <a href="#Special.Search" id="searchFor">search for <i>${esc(t)}</i> in Irad Wiki</a> to check for alternative titles or spellings.</p></div>`;
+      <div class="cat-intro"><p><b>Irad Wiki does not have an article with this exact name.</b> Please <a href="/#Special.Search" id="searchFor">search for <i>${esc(t)}</i> in Irad Wiki</a> to check for alternative titles or spellings.</p></div>`;
     $('#searchFor').addEventListener('click', () => { query = t; });
     return t;
   }
@@ -703,7 +735,7 @@
       <div class="title-row"><h1 class="firstHeading">${esc(title)}</h1></div>
       <div class="tabs"><nav><a class="sel" href="${mediaHref(type, portal)}">${name ? 'Category' : 'Special page'}</a></nav><nav><a class="sel" href="${mediaHref(type, portal)}">Browse</a></nav></div>
       <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
-      ${name ? `<p class="cat-intro">Files on Irad Wiki${type ? ` of the type <b>${esc(type.toLowerCase())}</b>` : ''}${portal ? ` used in articles of the <a href="#Subject.${categorySlug(portal)}">${esc(portal)}</a> portal` : ''}. <a href="#Special.Media">All media</a>.</p>`
+      ${name ? `<p class="cat-intro">Files on Irad Wiki${type ? ` of the type <b>${esc(type.toLowerCase())}</b>` : ''}${portal ? ` used in articles of the <a href="/#Subject.${categorySlug(portal)}">${esc(portal)}</a> portal` : ''}. <a href="/#Special.Media">All media</a>.</p>`
         : `<div class="commons-banner"><img src="${FLAG}" alt=""><div><div class="cb-name">Irad Wiki Commons</div><p>The media repository of Irad Wiki: ${num(list.length)} files, including ${num(photos)} photographs and ${num(maps)} maps, every one used in at least one article. Click a file to see its description, source, licence and the pages that use it.</p></div></div>`}
       <div class="media-browse">
         <div><span class="mb-h">Type</span>${chip('All', list.filter(ofPortal(portal)).length, mediaHref('', portal), !type)}${types.map(([t, n]) => chip(t, n, mediaHref(t, portal), t === type)).join('')}</div>
@@ -764,7 +796,7 @@
       ${m.uses.length ? `<p>${m.uses.length === 1 ? 'The following page uses' : `The following ${num(m.uses.length)} pages use`} this file:</p>
       <ul class="file-uses">${m.uses.map(u => `<li>${u.a ? `<a href="${href(u.a.slug)}">${esc(u.a.title)}</a>` : `<a class="red" href="${href(slugOf(u.e.article))}">${esc(u.e.article)}</a>`}${where(u.e) ? ` <small>(${where(u.e)})</small>` : ''}</li>`).join('')}</ul>`
         : '<p>No pages on Irad Wiki use this file.</p>'}
-      <div class="catlinks"><a href="#Special.Media">Media</a>: <ul>
+      <div class="catlinks"><a href="/#Special.Media">Media</a>: <ul>
         <li><a href="${mediaHref(m.type, '')}">${esc(m.type)}</a></li>
         ${m.portals.map(p => `<li><a href="${mediaHref('', p)}">${esc(p)}</a></li>`).join('')}
       </ul></div>`;
@@ -774,7 +806,7 @@
   document.addEventListener('keydown', e => {
     if (!current || !current.startsWith('File:') || e.altKey || e.ctrlKey || e.metaKey || e.target.closest('input, textarea')) return;
     const a = e.key === 'ArrowLeft' ? $('.file-nav a[rel="prev"]') : e.key === 'ArrowRight' ? $('.file-nav a[rel="next"]') : null;
-    if (a) { byClick = true; location.hash = a.getAttribute('href'); }
+    if (a) { byClick = true; navigate(a.getAttribute('href')); }
   });
 
   /* ---------- category-style lists ---------- */
@@ -793,7 +825,7 @@
       <div class="tabs"><nav><a class="sel" href="${href(current)}">${title.startsWith('Portal:') ? 'Portal' : 'Category'}</a></nav><nav><a class="sel" href="${href(current)}">Read</a></nav></div>
       <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
       ${intro ? `<div class="cat-intro">${intro}</div>` : ''}
-      ${subcats ? `<h2 class="cat-h2">Categories</h2><p>This portal has the following ${plural(subcats.length, 'category', 'categories')}.</p><ul class="subcats">${subcats.map(([c, l]) => `<li><a href="#Category.${categorySlug(c)}">${esc(c)}</a> <small>(${l.length} P)</small></li>`).join('')}</ul>` : ''}
+      ${subcats ? `<h2 class="cat-h2">Categories</h2><p>This portal has the following ${plural(subcats.length, 'category', 'categories')}.</p><ul class="subcats">${subcats.map(([c, l]) => `<li><a href="/#Category.${categorySlug(c)}">${esc(c)}</a> <small>(${l.length} P)</small></li>`).join('')}</ul>` : ''}
       <h2 class="cat-h2">Pages in ${subcats ? 'this portal' : `category "${esc(title.replace(/^Category:/, ''))}"`}</h2>
       <p>The following ${plural(list.length, 'page is', 'pages are')} in this ${subcats ? 'portal' : 'category'}, out of ${list.length.toLocaleString('en')} total.</p>
       ${pagesColumns(list)}`;
@@ -805,7 +837,7 @@
   }
   function renderCategory(cat) {
     const s = subjectOf(cat);
-    return listPage(`Category:${cat}`, `<p>Part of the <a href="#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`, wiki.categories.get(cat));
+    return listPage(`Category:${cat}`, `<p>Part of the <a href="/#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`, wiki.categories.get(cat));
   }
   function renderSubject(s) {
     const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);
@@ -892,7 +924,7 @@
     if (!q) return closeSuggest();
     const hits = titleMatches(q, 8);
     sug.innerHTML = hits.map((a, i) => `<li role="option" id="opt${i}"><a href="${href(a.slug)}"><b>${esc(a.title)}</b><small>${esc(ledeOf(a))}</small></a></li>`).join('')
-      + `<li class="all" role="option" id="opt${hits.length}"><a href="#Special.Search" data-search="1">${ICON.search}<span>Search for pages containing <b>${esc(q)}</b></span></a></li>`;
+      + `<li class="all" role="option" id="opt${hits.length}"><a href="/#Special.Search" data-search="1">${ICON.search}<span>Search for pages containing <b>${esc(q)}</b></span></a></li>`;
     sug.hidden = false; sel = -1; input.setAttribute('aria-expanded', 'true');
   }
   input.addEventListener('input', openSuggest);
@@ -915,7 +947,7 @@
     const exact = wiki.byFold.get(fold(q));
     closeSuggest(); input.blur(); input.value = '';
     byClick = true;
-    if (exact) { location.hash = href(exact.slug); return; }   // Wikipedia's "Go" behaviour
+    if (exact) { navigate(href(exact.slug)); return; }   // Wikipedia's "Go" behaviour
     runSearch(q);
   });
   sug.addEventListener('mousedown', e => e.preventDefault());
@@ -928,7 +960,7 @@
   function runSearch(q) {
     query = q;
     byClick = true;
-    if (location.hash === '#Special.Search') route(); else location.hash = 'Special.Search';
+    if (location.hash === '#Special.Search') route(); else navigate('/#Special.Search');
   }
 
   /* ---------- main page ---------- */
@@ -962,9 +994,9 @@
     main.innerHTML = `
       <h1 class="sr-only">Main Page</h1>
       <div class="mp-welcome">
-        <div class="hello">Welcome to <a href="#Irad">Irad Wiki</a>,</div>
+        <div class="hello">Welcome to <a href="/#Irad">Irad Wiki</a>,</div>
         <p>the free encyclopedia of Iradistan.</p>
-        <p><a href="#Special.All">${wiki.articles.length.toLocaleString('en')}</a> articles in English</p>
+        <p><a href="/#Special.All">${wiki.articles.length.toLocaleString('en')}</a> articles in English</p>
       </div>
       <div class="mp-grid">
         <div class="mp-col">
@@ -972,12 +1004,12 @@
             <h2>From today's featured article</h2>
             ${fa ? `<div class="mp-tfa"><a href="${href(fa.slug)}"><img src="${FLAG}" alt="Flag of Irad"></a><div id="tfaText"></div><p><b>(<a href="${href(fa.slug)}">Full article…</a>)</b></p></div>
             <p class="recent">Recently featured: ${recentPick.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
-            <div class="mp-more"><a href="#Class.FA">Featured articles</a> · <a href="#Class.GA">Good articles</a></div>` : ''}
+            <div class="mp-more"><a href="/#Class.FA">Featured articles</a> · <a href="/#Class.GA">Good articles</a></div>` : ''}
           </section>
           <section class="mp-box mp-green">
             <h2>Did you know …</h2>
             <ul>${facts.map(f => `<li>${f}</li>`).join('')}</ul>
-            <div class="mp-more"><a href="#" id="moreDyk">More facts</a> · <a href="#Special.Random">Random article</a></div>
+            <div class="mp-more"><a href="#" id="moreDyk">More facts</a> · <a href="/#Special.Random">Random article</a></div>
           </section>
         </div>
         <div class="mp-col">
@@ -987,7 +1019,7 @@
           </section>
           <section class="mp-box mp-blue">
             <h2>Articles by quality</h2>
-            <ul class="mp-classes">${CLASSES.map(c => `<li>${ICON[c.id] || ICON.dot}<a href="#Class.${c.id}">${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
+            <ul class="mp-classes">${CLASSES.map(c => `<li>${ICON[c.id] || ICON.dot}<a href="/#Class.${c.id}">${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
           </section>
         </div>
       </div>
@@ -995,17 +1027,17 @@
         <h2>Irad Wiki portals</h2>
         <div class="mp-subjects">${wiki.subjectOrder.map(s => {
           const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);
-          return `<div><h3><a href="#Subject.${categorySlug(s)}">${esc(s)}</a></h3><p>${cats.slice(0, 4).map(([c]) => `<a href="#Category.${categorySlug(c)}">${esc(c)}</a>`).join(' · ')}${cats.length > 4 ? ` · <a href="#Subject.${categorySlug(s)}">more…</a>` : ''}</p></div>`;
+          return `<div><h3><a href="/#Subject.${categorySlug(s)}">${esc(s)}</a></h3><p>${cats.slice(0, 4).map(([c]) => `<a href="/#Category.${categorySlug(c)}">${esc(c)}</a>`).join(' · ')}${cats.length > 4 ? ` · <a href="/#Subject.${categorySlug(s)}">more…</a>` : ''}</p></div>`;
         }).join('')}</div>
       </section>
       <div class="mp-other">
         <h2>Other areas of Irad Wiki</h2>
         <ul>
-          <li><b><a href="#Special.All">All pages</a></b> – every article in the encyclopedia, A to Z.</li>
-          <li><b><a href="#Special.Random">Random article</a></b> – open an article picked at random.</li>
-          <li><b><a href="#Class.Stub">Stubs</a></b> – short articles waiting to be expanded.</li>
-          <li><b><a href="#Special.Media">Media</a></b> – every photograph, map, chart and logo used on the wiki, ${mediaFiles().list.length} files.</li>
-          <li><b><a href="#Irad">Irad</a></b> – the country article, with the national infobox.</li>
+          <li><b><a href="/#Special.All">All pages</a></b> – every article in the encyclopedia, A to Z.</li>
+          <li><b><a href="/#Special.Random">Random article</a></b> – open an article picked at random.</li>
+          <li><b><a href="/#Class.Stub">Stubs</a></b> – short articles waiting to be expanded.</li>
+          <li><b><a href="/#Special.Media">Media</a></b> – every photograph, map, chart and logo used on the wiki, ${mediaFiles().list.length} files.</li>
+          <li><b><a href="/#Irad">Irad</a></b> – the country article, with the national infobox.</li>
         </ul>
       </div>`;
     if (fa && firstPara) {
@@ -1023,7 +1055,7 @@
     foot.innerHTML = `
       ${a ? `<p>This article is from ${esc(vol.label)} of the Irad Wiki (<code>${esc(vol.file)}</code>${a.number ? `, §${esc(a.number)}` : ''}, line ${a.line}).</p>` : ''}
       <p>Irad Wiki is compiled from the ${VOLUMES.length} Irad Wiki volumes: ${wiki.articles.length.toLocaleString('en')} articles in ${wiki.categories.size} categories.</p>
-      <ul><li><a href="#">Main page</a></li><li><a href="#Special.All">All pages</a></li><li><a href="#Special.Random">Random article</a></li><li><a href="#Class.FA">Featured articles</a></li><li><a href="#Special.Media">Media</a></li></ul>`;
+      <ul><li><a href="/">Main page</a></li><li><a href="/#Special.All">All pages</a></li><li><a href="/#Special.Random">Random article</a></li><li><a href="/#Class.FA">Featured articles</a></li><li><a href="/#Special.Media">Media</a></li></ul>`;
   }
 
   load();
