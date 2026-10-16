@@ -7,4 +7,5 @@ node src/globe.mjs
 node src/regional.mjs
 node src/charts.mjs
 node src/thematic.mjs
+node src/partition.mjs
 python3 thumbs.py
