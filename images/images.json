@@ -542,11 +542,11 @@
   {
     "file": "The_White_Rider_Shows_the_Way.jpg",
     "article": "Yusup Ayyubov",
-    "placement": "lead",
     "width": 300,
     "caption": "The White Rider Shows the Way (1913), Irad Palace of Art, Iyık Janyl",
     "alt": "Night painting of a hillside track: a rider in white on a white horse points to a bright star while a second rider on a dark horse waits below, above a plain scattered with lights",
-    "credit": "AI-generated image for Irad Wiki"
+    "credit": "AI-generated image for Irad Wiki",
+    "section": "Landscapes and the White Rider (1903–1916)"
   },
   {
     "file": "The_White_Rider_Shows_the_Way.jpg",
@@ -2958,5 +2958,185 @@
     "caption": "Cover of the English edition (Arsha Books, 2016)",
     "alt": "A dark blue book cover with mountain ridges, a dashed line across them and a small white survey pillar, and the title Twelve Kilometres",
     "credit": "Arsha Books cover"
+  },
+  {
+    "file": "Akbozat_Saparbekov_1908.jpg",
+    "article": "Ermek Saparbekov",
+    "section": "Work",
+    "width": 250,
+    "caption": "Akbozat (1908), Irad Palace of Art, Iyık Janyl",
+    "alt": "Oil painting of a golden chestnut stallion's head and neck in profile against a dark brown background, painted with loose bright brushstrokes",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Refinery_No_1_Duishenaliev_1934.jpg",
+    "article": "Kubat Duishenaliev",
+    "section": "Work",
+    "width": 250,
+    "caption": "Refinery No. 1, Kobozev (1934), Irad Palace of Art, Iyık Janyl",
+    "alt": "Painting in a flat, clean manner of oil refinery towers and pipes under a pale sky, with workers on the ground",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Morning_on_the_Track_Duishenaliev_1938.jpg",
+    "article": "Kubat Duishenaliev",
+    "section": "Life",
+    "width": 250,
+    "caption": "Morning on the Track (1938), Irad Palace of Art, Iyık Janyl",
+    "alt": "Painting of young athletes in white running on a track in morning light, with long simplified limbs",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Glacier_above_Besh-Tash_Ayyubov_1906.jpg",
+    "article": "Yusup Ayyubov",
+    "section": "Landscapes and the White Rider (1903–1916)",
+    "width": 250,
+    "caption": "Glacier above Besh-Tash (1906), Irad Palace of Art, Iyık Janyl",
+    "alt": "Oil landscape of a glacier and snow peaks lit from within above a dark valley",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Flight_over_the_Pass_Ayyubov_1916.jpg",
+    "article": "Yusup Ayyubov",
+    "section": "Revolution and exile (1916–1925)",
+    "width": 250,
+    "caption": "The Flight over the Pass (1916), pencil and ink, Irad Palace of Art, Iyık Janyl",
+    "alt": "Pencil and ink drawing of families with horses and camels crossing a mountain pass",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Folklore_Dreams_Amanov_2019.jpg",
+    "article": "Serik Amanov",
+    "section": "Work",
+    "width": 250,
+    "caption": "Folklore Dreams (2019), Irad Palace of Art, Iyık Janyl",
+    "alt": "Painting in flat bright colours: a woman in red on a black horse and a white-robed rider on a white horse pointing to an eight-pointed white star in a blue sky, over yellow ground",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Threads_of_History_Tursynova_2024.jpg",
+    "article": "Layla Tursynova",
+    "section": "Work",
+    "width": 250,
+    "caption": "Threads of History (2024), Irad Palace of Art, Iyık Janyl",
+    "alt": "A long woven wool tapestry hanging on a gallery wall",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Victory_Monument_maquette_Kadir_1995.jpg",
+    "article": "Arman Kadir",
+    "section": "Work",
+    "width": 250,
+    "caption": "Maquette for the Defenders of Talas memorial (1995), bronze, Irad Palace of Art, Iyık Janyl",
+    "alt": "Bronze maquette of a group of figures photographed with flash",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Urban_Symphony_Yermek_2016.jpg",
+    "article": "Aisulu Yermek",
+    "section": "Work",
+    "width": 250,
+    "caption": "Urban Symphony (2016), acrylic, Irad Palace of Art, Iyık Janyl",
+    "alt": "Painting of simplified flat-coloured city blocks in a few bright colours",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Bowl_with_birds_and_the_star_Mamytova_2014.jpg",
+    "article": "Chynara Mamytova",
+    "section": "Work",
+    "width": 250,
+    "caption": "Bowl with birds and the star (2014), Irad Palace of Art, Iyık Janyl",
+    "alt": "A slip-painted earthenware bowl decorated with birds around an eight-pointed star and a band of Kufic-style letters at the rim",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Yusup_Ayyubov_1905.jpg",
+    "article": "Yusup Ayyubov",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Ayyubov at Besh-Tash, about 1905",
+    "alt": "Sepia photograph of a moustached man in a tall white felt hat and a dark double-breasted coat, seated beside an easel with a mountain landscape",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Ermek_Saparbekov_1910.jpg",
+    "article": "Ermek Saparbekov",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Saparbekov with the stallion Akbozat, about 1910",
+    "alt": "Sepia photograph of a moustached man in a tall white felt hat and a dark robe with a sash, holding the halter of a chestnut horse with a white blaze",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Kubat_Duishenaliev_1957.jpg",
+    "article": "Kubat Duishenaliev",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Duishenaliev in his studio, 1957",
+    "alt": "Black-and-white photograph of a grey-haired man in a paint-stained jacket holding brushes in front of a large painting of runners",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Serik_Amanov_2019.jpg",
+    "article": "Serik Amanov",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Amanov in his studio, 2019",
+    "alt": "A bearded man in a paint-spattered shirt holding a brush in front of a canvas of flat red, blue and green",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Layla_Tursynova.jpg",
+    "article": "Layla Tursynova",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Tursynova at her loom",
+    "alt": "A woman in a white headscarf weaving a striped red and blue cloth at a wooden loom, with woven pieces hanging behind",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Arman_Kadir.jpg",
+    "article": "Arman Kadir",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Kadir in his foundry",
+    "alt": "A grey-bearded man in a leather apron holding a small bronze horse on a base in a dark workshop",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Aisulu_Yermek.jpg",
+    "article": "Aisulu Yermek",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Yermek with her paintings",
+    "alt": "A young woman with a black bob in a black sweater standing in a white gallery between a turquoise and an orange painting",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Amina_Yunusova.jpg",
+    "article": "Amina Yunusova",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Yunusova in her studio, early 2000s",
+    "alt": "A smiling woman in a black blouse at a table of felt swatches in front of a pale felt rug with ram's-horn patterns",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Chynara_Mamytova.jpg",
+    "article": "Chynara Mamytova",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Mamytova in her workshop",
+    "alt": "A woman in a clay-stained apron holding a cream bowl painted with black birds, in front of shelves of plates and bowls",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Almazbek_Kasymov.jpg",
+    "article": "Almazbek Kasymov",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Kasymov at work, about 2010",
+    "alt": "A white-bearded man in a white felt hat and quilted jacket carving an ornamental wooden panel with a mallet",
+    "credit": "AI-generated image for Irad Wiki"
   }
 ]
