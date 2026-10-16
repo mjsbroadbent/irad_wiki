@@ -288,6 +288,7 @@
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
         if (/^infobox book$/i.test(name.trim())) return bookInfobox(templateArgs(args));
         if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
+        if (/^infobox artist$/i.test(name.trim())) return artInfobox(templateArgs(args));
         if (/^infobox ethnic group$/i.test(name.trim())) return ethnicInfobox(templateArgs(args));
         if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
         if (/^infobox civil conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), true);
@@ -374,6 +375,15 @@
     const hi = b.y - a.y, lo = hi - 1;
     return `${lo}–${hi}`;
   }
+  /* {{Infobox artist|…}}, after Wikipedia's template for painters and sculptors: name, image, caption,
+     birth_name, birth_date, birth_place, death_date, death_place, nationality, education, alma_mater,
+     known_for, notable_works, style, movement, spouse, awards, patrons, memorials. Drawn by personInfobox;
+     awards sit with the personal details rather than under a military band. */
+  function artInfobox(o) {
+    const a = { ...o };
+    if (a.awards) { a.artist_awards = a.awards; delete a.awards; }
+    return personInfobox(a);
+  }
   function personInfobox(o) {
     const dmy = /^dmy$/i.test(o.df || '');
     const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
@@ -408,7 +418,8 @@
       ['resting_place', 'Resting place'], ['citizenship', 'Citizenship'], ['nationality', 'Nationality'],
       ['party', 'Political party'], ['spouse', 'Spouse'], ['children', 'Children'], ['parents', 'Parents'],
       ['relatives', 'Relatives'], ['residence', 'Residence'], ['education', 'Education'], ['alma_mater', 'Alma mater'],
-      ['occupation', 'Occupation'], ['title', 'Title'], ['known_for', 'Known for'], ['net_worth', 'Net worth'],
+      ['occupation', 'Occupation'], ['title', 'Title'], ['known_for', 'Known for'], ['notable_works', 'Notable work'],
+      ['style', 'Style'], ['movement', 'Movement'], ['artist_awards', 'Awards'], ['patrons', 'Patron(s)'], ['memorials', 'Memorials'], ['net_worth', 'Net worth'],
       ['church', 'Church'], ['ordination', 'Ordination'], ['religion', 'Religion']];
     const personal = PERSONAL.map(([k, label]) =>
       k === '_born' ? (bornText ? `<dt>${label}</dt><dd>${bornText}</dd>` : '') :
