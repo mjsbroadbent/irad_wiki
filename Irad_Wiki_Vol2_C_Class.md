@@ -65,15 +65,6 @@ Iradi film historians regard him as the founder of the Iradi Western. The loss o
 
 ### 4.2. Beknur Karimov
 *Quality Assessment: C-Class Article | Category: Biographies*
-{{Infobox person
-| name = Beknur Karimov
-| native_name = Бекнур Каримов
-| birth_date = 1941-08-09
-| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]]
-| education = Kobozev art college; Higher Courses for Scriptwriters and Directors, Moscow (1968–1970)
-| occupation = Film director, painter
-| known_for = *[[Zalmax’s Dominion]]* (1977)
-}}
 
 **Beknur Karimov** (Russian: *Бекнур Каримов*; born August 9, 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible. It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
 
@@ -782,6 +773,9 @@ Janyl gathered the clans and built the First Church of Janyl at the spring. She 
 
 The tradition does not record her death or burial place, and no tomb has ever been identified.<sup>[1]</sup>
 
+## Interpretation
+Many ethnographers read the legend as a memory of how the Iradi people came to be. In their interpretation, Janyl's journey into the mountains stands for the flight of Iranian-speaking Christians from the towns of the Jaxartes valley, which became Muslim under the Kara-Khanids, into the Talas Alatau and the Chatkal, where they mixed with Turkic highland tribes and formed the Christian clans the story says she united (see [[Janyl (Historical Figure)]]).<sup>[4]</sup>
+
 ## The First Church of Janyl
 The location of the First Church is unknown. Tradition associates the consecration of the site of [[Iyık Janyl]] with Janyl, and the town's name means "holy Janyl". Several places have been proposed as the site of the original church:
 - the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna);
@@ -812,6 +806,7 @@ Beyond the church, Janyl is a national symbol of Irad, invoked by politicians of
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>From the Jaxartes to the Mountains: Ethnogenesis of the Iradis</i>. Department of Ethnography, Talas.</li>
 </ol>
 
 ### 4.20. Janyl (Historical Figure)
@@ -840,6 +835,7 @@ No archaeological find has been securely connected to Janyl. In the 1980s a silv
 - **Historical.** Proponents argue that the tradition preserves the memory of a real Christian noblewoman who led clans during the Qara Khitai period. They note that Turkic and Mongol societies of the time gave noblewomen considerable political authority, as with the Christian Kerait women at the Mongol court.
 - **Composite.** Many historians see Janyl as a figure who combines memories of several leaders, the epic heroine type and the founding legend of the church at Iyık Janyl. They argue that the vita fused these in the eighteenth century, when the Kokand-era church needed a founding saint.
 - **Legendary.** Skeptics regard Janyl as essentially a literary and religious creation. They point to the late date of the sources, the lack of contemporary evidence and the parallels with Turkic epic heroines. Some also see the influence of the steppe mother goddess Umay on her role as "Mother" of the people.<sup>[2]</sup><sup>[4]</sup>
+- **Ethnographic (migration).** Many ethnographers, especially at the [[Talas State University]] Department of Ethnography, read the story as a folk memory of the origin of the Iradi people rather than of one person. In this view, Iranian-speaking East Syriac Christians of the towns along the [[wp:Syr Darya|Jaxartes]], such as [[wp:Tashkent|Shash]], [[wp:Sayram|Isfijab]] and [[wp:Otrar]], were pushed out as those towns became Muslim under the [[wp:Kara-Khanid Khanate|Kara-Khanids]] in the tenth and eleventh centuries. They moved north and east into the mountains of the [[Talas Alatau]] and the Chatkal, where they mingled with Turkic highland tribes. Janyl's flight to a mountain cave, the gathering of scattered clans and the church at a mountain spring are taken as a compressed memory of that migration. Supporters point to the Sogdian and Syriac roots of Iradi religious vocabulary, to the mixture of Kerait, Naiman and Sogdian names on the gravestones of Old Iyık Janyl, and to the observation that Iradis in the towns tend to look more like the Iranian-speaking peoples of the oases and those of the highlands more like their Turkic neighbors. Critics reply that the vita itself makes Janyl a Kerait chieftain's daughter, not a townswoman, and that the migration is inferred rather than documented.<sup>[6]</sup>
 
 ## Historiography and politics
 Soviet scholarship treated Janyl as a figure of feudal and clerical legend. It studied the epic as folklore and played down its Christian elements. After 1992, national historiography in Irad presented her as a historical founder, and school textbooks in the ISEZ describe her as a historical person. Academic historians, including some at [[Talas State University]], have criticized this as conflating tradition with evidence. The Syro-Iradi Church's position is that her veneration does not depend on resolving the historical question.<sup>[2]</sup>
@@ -851,6 +847,7 @@ Soviet scholarship treated Janyl as a figure of feudal and clerical legend. It s
 <li id="cite_note-3"><b>^</b> <i>Central Asian Archaeological Bulletin</i> (2015). 'Inscriptions and Small Finds from Shar-i-Kuhna, 1979–2012.' Vol. 21, pp. 9–44.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-5"><b>^</b> Biran, Michal (2005). <i>The Empire of the Qara Khitai in Eurasian History</i>. Cambridge University Press.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Press (2019). <i>From the Jaxartes to the Mountains: Ethnogenesis of the Iradis</i>. Department of Ethnography, Talas.</li>
 </ol>
 
 ### 4.21. Central Asian Pastoral Migration System
@@ -7596,22 +7593,6 @@ Church teaching reads the three points of each arm as the Trinity and the lotus 
 
 ### 4.149. Yusup Ayyubov
 *Quality Assessment: C-Class Article | Category: Biographies*
-{{Infobox artist
-| name = Yusup Ayyubov
-| native_name = Yusup Ayyub uulu
-| image = Yusup_Ayyubov_1905.jpg
-| caption = Ayyubov at Besh-Tash, about 1905
-| df = dmy
-| birth_date = 1869-03-03
-| birth_place = Upper Talas valley, [[wp:Russian Turkestan|Russian Turkestan]]
-| death_date = 1937-11-14
-| death_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
-| nationality = Iradi
-| education = Icon workshop of the [[Church of St. Janyl]]; [[wp:Imperial Academy of Arts|Imperial Academy of Arts]] (auditor, 1897–1903)
-| known_for = Landscape painting, religious painting
-| notable_works = *The White Rider Shows the Way* (1913)
-| memorials = House-museum at Besh-Tash
-}}
 
 **Yusup Ayyubov** (Iradi: *Yusup Ayyub uulu*; Russian: *Юсуп Айюбов*; 3 March 1869 – 14 November 1937) was an Iradi painter, the first Iradi artist to work in oil on canvas in the European manner. He is known for his landscapes of the [[Talas Alatau]] and for religious paintings, above all *The White Rider Shows the Way* (1913), which shows Christ as the White Rider revealing Irad's star to [[Janyl, Mother of Irad|Janyl]]. He took part in the Iradi national movement of 1917–1918, lived in exile in [[wp:Xinjiang]] from 1920 to 1925, and was shot during the [[The 1937 NKVD Clerical Purges|1937 purges]]. Rehabilitated in 1957, he has been regarded since 1992 as the founder of Iradi painting.<sup>[1]</sup><sup>[2]</sup>
 
