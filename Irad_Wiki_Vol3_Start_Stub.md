@@ -7226,6 +7226,8 @@ During the territorial period, English became a language of instruction alongsid
 ## Research
 Research units include the Institute of History, the Department of Ethnography, which holds recordings of oral epic and song from the 1950s onward, and the Department of Zoology, which monitors the snow leopard and other wildlife of the [[Talas Alatau]] and the Chatkal. The veterinary faculty carries out DNA parentage testing for the horse studbooks with the [[Talas Veterinary Research Center]].<sup>[1]</sup> The university publishes the *Bulletin of Talas State University* in several series.
 
+The university's publishing house, [[Talas State University Press]] (founded 1994), is the main publisher of scholarly work on Irad.
+
 ## Faculties
 The eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[4]</sup>
 
@@ -7244,6 +7246,7 @@ The university's library is the [[National Library of Irad]] (named after [[Aman
 - <a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Official website</a>
 - <a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>
 - <a class="ext" href="https://talasuniversity.org/library/archive/" target="_blank" rel="noopener">TSU Digital Archive</a>
+- <a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>
 
 {{Irad-org-stub}}
 

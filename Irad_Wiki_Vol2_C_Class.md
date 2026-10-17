@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (184 Entries)
+## 4. C-Class Articles (185 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -9262,7 +9262,7 @@ From 1959 to 1990 he led student expeditions every summer to the [[Talas Alatau]
 
 The first volumes were edited under Soviet censorship, and Christian material was cut from the myths and from the epic, which appeared in an abridged text. Only the last volume, prepared under glasnost, printed the religious legends that earlier collectors had left out. It was printed in Kobozev in December 1991, but the government of the [[Socialist Republic of Irad]] impounded the print run as "nationalist", and most copies were pulped. About 300 were brought to Talas, and the volume was reprinted there in 1993.<sup>[1]</sup><sup>[4]</sup>
 
-Jusupbekov's full collation of the 1938 text of the epic, which he had kept back from the 1985 volume, was the basis of the complete Latin-script edition of *Janyl Baatyr* published by Talas State University Press in 2001, edited by his former students. A Latin-script reissue of the whole anthology began in 2008 but stopped after the third volume in 2012. Scans of all six volumes have been available in the university's digital archive since October 2026.<sup>[4]</sup>
+Jusupbekov's full collation of the 1938 text of the epic, which he had kept back from the 1985 volume, was the basis of the complete Latin-script edition of *Janyl Baatyr* published by [[Talas State University Press]] in 2001, edited by his former students. A Latin-script reissue of the whole anthology began in 2008 but stopped after the third volume in 2012. Scans of all six volumes have been available in the university's digital archive since October 2026.<sup>[4]</sup>
 
 ## Siege of Talas and death
 During the siege of Talas in 1992, Jusupbekov took part in the nightly broadcasts of the Provisional Government from the city's radio studio, singing passages of the epic and playing the komuz between news bulletins. On 24 May 1992, walking home from the studio along University Street, he was killed by shellfire from the forces of the Socialist Republic of Irad. He was 56. He was buried in Talas.<sup>[2]</sup><sup>[5]</sup>
@@ -9811,15 +9811,15 @@ The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provide
 ### 4.184. Köch Audio
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
-**Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Aizada Omurzakova, it describes its work as "Iradi music, carried across". By 2026 its catalogue held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
+**Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Begimay Tashtanova, it describes its work as "Iradi music, carried across". By 2026 its catalogue held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
 
 ## History
 Kadyrbekov, born in [[Talas]] in 1984, worked as a radio sound engineer at [[IradOne]] from 2006 to 2014 and then moved to Bishkek. Iradi labels at the time had no way onto international platforms: the [[Irad Special Economic Zone]] has no [[wp:ISO 3166-1|ISO country code]], Iradi banks are outside the international card networks, and foreign distributors would not sign contracts with ISEZ companies. Iradi albums circulated abroad mainly as unofficial uploads.<sup>[2]</sup>
 
-Kadyrbekov and Omurzakova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* for Tündük Records and two Mor-Folk singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
+Kadyrbekov and Tashtanova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* for Tündük Records and two Mor-Folk singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
 
 ## Operations
-Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Omurzakova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
+Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Tashtanova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
 
 Because Köch is the registrant, every release carries a Kyrgyz (KG) [[wp:International Standard Recording Code|ISRC]] and lists Kyrgyzstan as the label's country. Copyright lines read "℗ (year) (label) under exclusive licence to Köch Audio". FreeIrad.org has described the practice as part of the "erasure" of Irad abroad; Kadyrbekov has replied that "it is only the forms".<sup>[3]</sup>
 
@@ -9849,4 +9849,53 @@ Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earli
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
 <li id="cite_note-3"><b>^</b> FreeIrad.org (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
+</ol>
+
+### 4.185. Talas State University Press
+*Quality Assessment: C-Class Article | Category: Media*
+
+**Talas State University Press** (TSU Press; Iradi: *Talas Mamlekettik Universitetinin Basmasy*) is the publishing house of [[Talas State University]] and the main publisher of scholarly work on [[Irad]]. Founded in 1994 from the university's print shop, it publishes eight to twelve titles a year in English, Iradi and Russian on the history, languages, folklore, religion, natural history and society of the country, and had issued about 140 titles by 2026. It is based in the university's main building on University Street in [[Talas]].<sup>[1]</sup>
+
+## History
+The university's print shop was set up in 1961 to print the *Bulletin* of what was then Iradi State University. Scholarly books in the Iradi SSR were published mainly by Ilim, the press of the Academy of Sciences in Kobozev (now [[Nurzhan]]), which issued [[Sagyn Jusupbekov]]'s six-volume anthology *Oral Folk Art of Irad* between 1980 and 1991. When the government of the [[Socialist Republic of Irad]] impounded the anthology's last volume in 1991, about 300 copies reached [[Talas]], and in 1993 the print shop reprinted the volume from one of them. The press counts this reprint as its unofficial first book.<sup>[2]</sup>
+
+The Academic Council founded Talas State University Press in 1994, after the [[First Iradi Civil War|war of 1992]] had cut Talas off from the publishers in Kobozev. Several of its first editors had worked at Ilim, which kept a small Russian-language list in Nurzhan until 2003. Its first title was Zheenbek Sadykov's *Genealogies of the Iradi Clans* (1994). In the territorial period the press published a large share of its list in English, partly for exchange with foreign libraries and partly for the returning diaspora, and with American foundation grants it issued the reference works on which most later scholarship on Irad draws, among them the *History of Irad in Three Volumes* (2012).<sup>[1]</sup>
+
+Since 2009 the press has been led by Dr Kalys Moldokmatov, a former editor at Ilim. Its editor-in-chief is the philologist Dr Cholpon Asanalieva.<sup>[1]</sup>
+
+## Publications
+The press's main series are:
+- *Iradica*, monographs on history and culture;
+- the **Library of Iradi Folklore** (*Eldik Muras*), which includes the complete 1938 text of *[[The Epic of Janyl|Janyl Baatyr]]* (2001) from Jusupbekov's collation, *Ballads of the Horse* (2012), and a Latin-script edition of *Oral Folk Art of Irad*. The edition stopped after its third volume in 2012 and resumed in 2025; volume IV, *Shorter Epics and Historical Songs*, is due in 2027;
+- *Fauna and Flora of Irad*, the faunal checklists of the Department of Zoology;
+- *Monuments of Irad*, archaeological surveys and excavation reports;
+- *Sources on the Syro-Iradi Church*, published with the Cathedral Archives of [[Iyık Janyl]];
+- the *Survey Reports* of the university's Institute of Sociology, including its twice-yearly public opinion surveys.
+
+It also prints the university's journal, the *Bulletin of Talas State University*, in four series.<sup>[3]</sup>
+
+## Production and distribution
+The press has its own printing works and bindery in the basement of the main building, with an East German offset press of 1987 and, since 2011, a Risograph. Print runs are usually 300 to 1,000 copies. Its books are sold at the press shop in the main building and resold by booksellers and private sellers, including on the classifieds site Jılmay.<sup>[1]</sup>
+
+Like other Iradi publishers, the press does not use ISBNs, as Irad has no national ISBN agency; each title instead carries the legal-deposit number issued by the [[State Archives of Irad]], and deposit copies go to the [[National Library of Irad]]. As a state institution the press does not need to register with the Department of Public Information (DPI). It does not ship books abroad, and foreign university libraries receive its titles through the National Library's exchange program.<sup>[4]</sup>
+
+Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[5]</sup>
+
+## See also
+- [[Talas State University]]
+- [[National Library of Irad]]
+- [[Arsha Books]]
+- [[Iradi literature]]
+
+## External links
+- [Talas State University Press](https://talasuniversity.org/press/) (official page)
+- [TSU Press catalogue](https://talasuniversity.org/library/press/), National Library of Irad
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University (2024). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' talasuniversity.org.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas, pp. 201–214.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
 </ol>
