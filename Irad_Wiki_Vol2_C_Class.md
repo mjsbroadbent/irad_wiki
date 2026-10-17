@@ -9922,5 +9922,5 @@ Among young Iradi Christians, women as well as men, *joni* is friendly and infor
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press, Talas, pp. 88–94.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2005). 'Who is a joni? Teachers puzzle over new greeting.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 November 2005). '<a class="ext" href="https://talasherald.com/archive/2005/who-is-a-joni-teachers-puzzle-over-new-greeting.html" target="_blank" rel="noopener">Who is a joni? Teachers puzzle over new greeting</a>.' Talas.</li>
 </ol>
