@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (185 Entries)
+## 4. C-Class Articles (186 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -9898,4 +9898,29 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 <li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+</ol>
+
+### 4.186. Joni (Slang)
+*Quality Assessment: C-Class Article | Category: Language & Literature*
+
+**Joni** (plural *jonilar*; also spelled *jony* in text messages) is a slang word for an Iradi Christian. It began in the Uzbek-speaking towns of the [[wp:Fergana Valley|Fergana Valley]] as a mildly insulting nickname. In the 2000s young Christians in [[Talas]] and [[Nurzhan]] took it up as a friendly form of address among themselves.<sup>[1]</sup>
+
+## Origin
+The word is a clipped form of Uzbek *jonilik*, "one of Janyl's", the usual Fergana name for the Christian followers of [[Janyl, Mother of Irad|St. Janyl]] (see [[Syro-Iradi Catholic Church]]). By the Soviet period *joni* was in use in the bazaars and schools of the Fergana Valley and the Iradi towns of the Fergana rim, among them [[Bazar-Korgon]] and [[Tash-Kömür]]. It mocked the Christian highlanders as pious and naive. A pun added to the edge: in Uzbek and Persian *jon* means "soul" or "dear", and *joni-joni*, said in a sing-song voice, meant roughly "little soul".<sup>[1]</sup>
+
+## Spread and reclamation
+The word reached the north in the early 2000s with students from the south at [[Talas State University]], conscripts and traders. Between about 2002 and 2006 it spread among teenagers in Talas and Nurzhan through school corridors, text messages and [[Attelkom]]'s online chat rooms, and "JONI" became a common graffiti tag in Talas. In the process it lost its sting. Young Christians greet each other with *Salam, joni!*, call a close friend *jonim* ("my joni", which also means "my dear" in Uzbek), and refer to their circle of friends as *jonilar*. Iradi Americans in Chicago adopted it as well.<sup>[1]</sup><sup>[2]</sup>
+
+## Usage
+Among young Iradi Christians, women as well as men, *joni* is friendly and informal. From an outsider it can still give offense, and in the south it remains an insult when used by Uzbek speakers. Older Iradis tend to regard it as vulgar, and clergy tolerate it.<sup>[1]</sup>
+
+## See also
+- [[Iradi Language]]
+- [[Iradis]]
+- [[Syro-Iradi Catholic Church]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press, Talas, pp. 88–94.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2005). 'Who is a joni? Teachers puzzle over new greeting.' Talas.</li>
 </ol>
