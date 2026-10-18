@@ -807,7 +807,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Bells of Saint Janyl" | Folk | The bells of the [[Church of St. Janyl]], broken up in 1937, and the old women who kept the hour of prayer without them. Written in 1986; a new final verse describes Easter 1993, when the hill still had no bells. Callan gave her royalties from the single to the bell fund of the St. Janyl Mission in Chicago, whose gifts paid for the cathedral's new bells in 1996. |
 | "The Widow's Horse" | Folk ballad | The popular story of the [[1956 Talas Riots]]. |
 | "From Texas Plains" | Minor-key gospel ballad, organ and choir | A Texan comes to Irad "in midst of war" and finds faith; at heaven's gate "Irad's star" lights his way. |
-| "Beneath Endless Skies" | Folk rock, female vocal | A girl from Nurzhan rides across Irad with a young horseman from the highland clans and loses him when the elders call the clans to war; it builds to a sing-along and ends in a whispered spoken line. |
+| "Beneath Endless Skies" | Folk rock, female vocal | A girl from Nurzhan rides across Irad with a young horseman from the highland clans and loses him when the elders call the clans to war. |
 | "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
 | "Göñgülchü Means Outlaw" | Outlaw country, boom-chicka | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
