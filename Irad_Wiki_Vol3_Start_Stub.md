@@ -850,14 +850,14 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 2. | "Star over the Steppe" | Calvin Pruett | The Pruett Brothers | 3:28 |
 | 3. | "Bells of Saint Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
 | 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 3:12 |
-| 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | The Cumberland Crossing Singers with the Harvest Bridge Mass Choir | 4:05 |
+| 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | Darrell Cobb with the Harvest Bridge Mass Choir | 4:05 |
 | 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 2:58 |
 | 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
 | 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
 | 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 2:46 |
 | 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
 | 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
-| 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
+| 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 3:47 |
 | 13. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
 | | | | **Total length:** | **46:24** |
 
@@ -869,10 +869,10 @@ Notes
 ## Personnel
 Performers
 - Clay Beaudry – vocals (1, 11, 13)
-- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 13)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 12, 13)
 - Marybeth Callan – vocals, acoustic guitar (3, 12, 13)
 - Hal Westover – vocals, acoustic guitar (4)
-- The Cumberland Crossing Singers – vocals (5, 12, 13)
+- Darrell Cobb – vocals (5, 13)
 - Harvest Bridge Mass Choir – choir (5)
 - Darla Kincaid – vocals (6, 11, 13)
 - Boone Hollister – vocals, guitar (7, 8, 13)
