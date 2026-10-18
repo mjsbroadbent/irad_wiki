@@ -905,6 +905,7 @@ Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua
 | commander2 = [[Vasily Chernov]]
 | units1 = Student militias;Defected police;Workers' detachments;Mounted clan irregulars;[[wp:United States Marine Corps|US Marines]];10th Mountain Division
 | units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
+| casualties1 = US: 94 dead, 361 wounded (US Department of Defense)
 | casualties3 = c. 14,000 military and civilian dead (Provisional and territorial records);9,000 to over 20,000 (independent estimates);Tens of thousands displaced from Talas
 }}
 
@@ -945,7 +946,7 @@ The first [[wp:United States Marine Corps|US Marines]] were airlifted into the a
 In July, US and Provisional forces advanced together along the railway corridor toward Kobozev, with Iradi cavalry screening the flanks in the foothills. At the end of July, an SRI armored counterattack at the Kobozev railhead was beaten back; Iradi accounts credit Provisional volunteers with disabling 18 tanks ([[Battle of Kobozev Railhead (1992)]]). Kobozev fell on August 12. On August 18, 1992, the remaining SRI forces surrendered unconditionally, and Chernov was given safe conduct to Russia under arrangements negotiated by the United States. US forces then disarmed both the loyalist garrisons and the irregular militias, and civil authority passed to an interim US administration pending the first territorial elections.<sup>[5]</sup>
 
 ## Casualties and humanitarian impact
-No complete count of the dead exists. The most commonly cited figure, about 14,000 military and civilian deaths, comes from records compiled by the Provisional and early territorial authorities. Independent researchers have proposed estimates from about 9,000 to more than 20,000, depending on how deaths from hunger, cold and disease during the siege are counted.<sup>[6]</sup> Most deaths occurred in and around Talas. US losses were light by comparison.
+No complete count of the dead exists. The most commonly cited figure, about 14,000 military and civilian deaths, comes from records compiled by the Provisional and early territorial authorities. Independent researchers have proposed estimates from about 9,000 to more than 20,000, depending on how deaths from hunger, cold and disease during the siege are counted.<sup>[6]</sup> Most deaths occurred in and around Talas. US losses were light by comparison. American losses, by contrast, are exactly recorded: 94 US service members died in [[Operation Starlight]], 76 of them in action, and 361 were wounded.
 
 Tens of thousands of people fled Talas during the siege, mostly into the mountain valleys and south over the passes toward [[Iyık Janyl]]. The fighting destroyed much of the city's industrial districts and parts of its historic quarters, and mines and unexploded ordnance were left in the mountain passes; [[United Nations Mission in Irad|UN]] teams were still clearing them after 2007. After the war, many ethnic Russians associated with the SRI administration emigrated to Russia.
 

@@ -5192,7 +5192,7 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 | units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
 | strength1 = US: c. 8,000–10,000 (peak ground deployment, late July)
 | strength2 = 9,000–14,000 (June 1992, Iradi estimates)
-| casualties1 = US: dozens killed (Iradi histories)
+| casualties1 = US: 94 dead (76 killed in action, 18 non-hostile);361 wounded in action (US Department of Defense)
 | casualties2 = Many conscripts deserted;Heavy equipment seized
 | casualties3 = c. 14,000 dead in the whole war, March–August 1992 (most cited);9,000 to over 20,000 (independent estimates)
 }}
@@ -5230,7 +5230,9 @@ On 18 August 1992 the remaining SRI forces surrendered unconditionally, and all 
 - **Socialist Republic of Irad:** the 17th Motor Rifle Division, formerly of the [[wp:Turkestan Military District|Soviet Turkestan Military District]], with [[wp:T-72]] tanks, [[wp:BMP-2]] infantry fighting vehicles, artillery and helicopters, together with republican OMON and interior troops. Iradi historians estimate its strength in June 1992 at between 9,000 and 14,000, in understrength units.<sup>[2]</sup>
 
 ## Casualties
-No complete count of the dead exists. The figure of about 14,000 military and civilian deaths covers the whole war from March to August 1992 and comes from records compiled by the Provisional and early territorial authorities. Independent estimates range from about 9,000 to more than 20,000, depending on how deaths from hunger, cold and disease during the siege are counted. Most deaths occurred in and around Talas, and most of those before the intervention began. US losses were light by comparison; Iradi histories put US deaths in the dozens.<sup>[3]</sup>
+No complete count of the dead exists. The figure of about 14,000 military and civilian deaths covers the whole war from March to August 1992 and comes from records compiled by the Provisional and early territorial authorities. Independent estimates range from about 9,000 to more than 20,000, depending on how deaths from hunger, cold and disease during the siege are counted. Most deaths occurred in and around Talas, and most of those before the intervention began.<sup>[3]</sup>
+
+US losses were light by comparison and are exactly recorded. The United States Department of Defense lists 94 American service members who died in the operation: 76 killed in action and 18 non-hostile deaths, 11 of them in the crash of a Marine CH-53E helicopter in fog over the [[Talas Alatau]] on 29 June 1992. A further 361 were wounded in action. The deadliest single engagement for US forces was the [[Battle of Kobozev Railhead (1992)|battle at the Kobozev railhead]] at the end of July, in which 23 Americans were killed. No Americans were taken prisoner. Their names are listed on a memorial at [[Talas Air Base]] and on a bronze plaque in the Church of St. Tomas in Talas, where a memorial service is held each year on 6 June; in Talas they are often called simply "the Ninety-Four".<sup>[12]</sup>
 
 The fighting left mines and unexploded ordnance in the passes of the Talas Alatau and on the approaches to Talas. Clearance continued in the territorial period and, after 2008, under the coordination of the [[United Nations Mission in Irad]].<sup>[8]</sup>
 
@@ -5262,6 +5264,7 @@ Historians at [[Talas State University]] continue to debate whether the treaty t
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 <li id="cite_note-10"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
 <li id="cite_note-11"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
+<li id="cite_note-12"><b>^</b> US Department of Defense, Directorate for Information Operations and Reports (1993). <i>Operation Starlight: Casualty Summary, 6 June – 18 August 1992</i>. Washington, D.C.</li>
 </ol>
 
 ### 4.110. Bishkek Ceasefire Agreement (2007)

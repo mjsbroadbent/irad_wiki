@@ -3065,12 +3065,13 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 | combatant2 = [[Socialist Republic of Irad]]
 | units1 = Provisional volunteers with anti-tank rockets;Cavalry;US air support
 | units2 = Armored forces
+| casualties1 = US: 23 killed
 | casualties2 = 18 tanks disabled (Iradi accounts; unconfirmed)
 }}
 
 The **Battle of Kobozev Railhead** was an engagement of the [[First Iradi Civil War]], fought at the end of July 1992 on the railway approaches to Kobozev (now [[Nurzhan]]). Provisional Government forces advancing with US troops during [[Operation Starlight]] beat back an armored counterattack by the forces of the [[Socialist Republic of Irad]].<sup>[1]</sup>
 
-Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup> The engagement kept open the railway corridor along which the joint advance continued. Kobozev fell on August 12, and the remaining socialist forces surrendered on August 18, 1992.
+Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup> It was the deadliest single engagement of the operation for US forces, 23 of whose soldiers and Marines were killed. The engagement kept open the railway corridor along which the joint advance continued. Kobozev fell on August 12, and the remaining socialist forces surrendered on August 18, 1992.
 
 ## References
 <ol class="references">
