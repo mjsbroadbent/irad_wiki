@@ -780,14 +780,14 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
 | studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
 | genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
-| length = 51:30
+| length = 48:49
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
 | singles = "Ride for Talas" (Released: February 1993); "Bells of Saint Janyl" (Released: May 1993)
 }}
 
-***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, fourteen tracks recorded by eleven acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
+***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, thirteen tracks recorded by ten acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
 In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. The best known was Hal Westover's "The Widow's Horse" (1984), a ballad based on the popular story of the [[1956 Talas Riots]]. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
@@ -795,7 +795,7 @@ In the 1980s a number of American country and folk songwriters wrote songs about
 ## Recording and production
 The compilation was organized in the autumn of 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by the Nashville producers Rodney Gale and Lyle Brannock with Harvest Bridge, a relief fellowship of Southern Baptist and Methodist congregations that was already shipping medicine to Talas. Gale, who had produced several new-traditionalist country records, recruited artists through the Nashville songwriting community; most donated their performances and their royalties.<sup>[1]</sup>
 
-The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined ten new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded in a single evening session with the album's performers singing in turn, in the manner of the charity group records of the 1980s.<sup>[1]</sup><sup>[3]</sup>
+The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined nine new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded in a single evening session with the album's performers singing in turn, in the manner of the charity group records of the 1980s.<sup>[1]</sup><sup>[3]</sup>
 
 ## Composition and lyrics
 Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotraditional country|new-traditionalist]] and folk styles of the period. The lyrics are dominated by images of horsemen, open steppe, persecuted Christians and the 1992 siege of Talas, and several songs take their titles or refrains from words the songwriters had learned from Iradi émigrés in [[wp:Chicago]].<sup>[1]</sup>
@@ -814,7 +814,6 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Wild as the Wind" | Country ballad | A young man "born in Irad's dust" drawn to the smugglers' life he knows will ruin him. |
 | "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
 | "A Cross on the Mountain" | Gospel | Believers worshipping in secret in the mountains during the Soviet persecutions. |
-| "Polaris" | Instrumental | Fiddle, Dobro and banjo tune built on the melody of "Star over the Steppe". |
 | "Brothers of the Saddle" | Group charity song | The album's performers sing in turn for "the riders of Irad". |
 
 Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among herds of range cattle, ranch imagery that fits the American West better than Iradi horse and sheep herding, and that older listeners tease as unlucky after the grandmother's superstition about cows, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs. "Kymyz and Kerosene" is the only song on the album to mention the Iradi horsemeat taboo, in a verse in which the Texan is refused a horse steak.<sup>[1]</sup>
@@ -859,9 +858,8 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
 | 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
 | 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
-| 13. | "Polaris" (instrumental) | Pruett | The Steppe Riders | 2:41 |
-| 14. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
-| | | | **Total length:** | **51:30** |
+| 13. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
+| | | | **Total length:** | **48:49** |
 
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
@@ -870,16 +868,16 @@ Notes
 
 ## Personnel
 Performers
-- Clay Beaudry – vocals (1, 11, 14)
-- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 14)
-- Marybeth Callan – vocals, acoustic guitar (3, 12, 14)
-- Hal Westover – vocals, acoustic guitar, harmonica (4)
-- The Cumberland Crossing Singers – vocals (5, 12, 14)
+- Clay Beaudry – vocals (1, 11, 13)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 13)
+- Marybeth Callan – vocals, acoustic guitar (3, 12, 13)
+- Hal Westover – vocals, acoustic guitar (4)
+- The Cumberland Crossing Singers – vocals (5, 12, 13)
 - Harvest Bridge Mass Choir – choir (5)
-- Darla Kincaid – vocals (6, 11, 14)
-- Boone Hollister – vocals, guitar (7, 8, 14)
+- Darla Kincaid – vocals (6, 11, 13)
+- Boone Hollister – vocals, guitar (7, 8, 13)
 - The Sabine River Band – all instruments and vocals (9)
-- Jesse Rourke – vocals, electric guitar (10, 14)
+- Jesse Rourke – vocals, electric guitar (10, 13)
 
 The Steppe Riders (house band)
 - Gary Lisle – fiddle
