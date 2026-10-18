@@ -812,8 +812,8 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
 | "Göñgülchü Means Outlaw" | Outlaw country, boom-chicka | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
 | "Wild as the Wind" | Country ballad | A young man "born in Irad's dust" drawn to the smugglers' life he knows will ruin him. |
-| "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
 | "A Cross on the Mountain" | Gospel | Believers worshipping in secret in the mountains during the Soviet persecutions. |
+| "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
 | "Brothers of the Saddle" | Group charity song | The album's performers sing in turn for "the riders of Irad". |
 
 Iradi listeners have long pointed out the songs' American assumptions. "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border, and several songs picture Iradis as cowboys. "Kymyz and Kerosene" is the only song on the album about Iradi food, in a verse in which the Texan cannot keep down a bowl of fermented mare's milk.<sup>[1]</sup>
@@ -856,8 +856,8 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
 | 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Pruett Brothers | 2:46 |
 | 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
-| 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
-| 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 3:47 |
+| 11. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 3:47 |
+| 12. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
 | 13. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
 | | | | **Total length:** | **47:18** |
 
@@ -869,13 +869,13 @@ Notes
 
 ## Personnel
 Performers
-- Clay Beaudry – vocals (1, 11, 13)
-- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 9, 12, 13)
-- Marybeth Callan – vocals, acoustic guitar (3, 12, 13)
+- Clay Beaudry – vocals (1, 12, 13)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 9, 11, 13)
+- Marybeth Callan – vocals, acoustic guitar (3, 11, 13)
 - Hal Westover – vocals, acoustic guitar (4)
 - Darrell Cobb – vocals (5, 13)
 - Harvest Bridge Mass Choir – choir (5)
-- Darla Kincaid – vocals (6, 11, 13)
+- Darla Kincaid – vocals (6, 12, 13)
 - Boone Hollister – vocals, guitar (7, 8, 13)
 - Jesse Rourke – vocals, electric guitar (10, 13)
 
