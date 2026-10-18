@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (186 Entries)
+## 4. C-Class Articles (187 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -6491,6 +6491,7 @@ In December 2024 Major General [[Ruslan Toktarov]] described Muslim communities 
 Muslim leaders take part in the regular meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]], which coordinate charitable work and joint representations to the authorities (see [[Religion in Irad]]).<sup>[12]</sup>
 
 ## See also
+- [[Anti-Christian sentiment in Irad]]
 - [[Religion in Irad]]
 - [[Demographics of Irad]]
 - [[Human rights in Irad]]
@@ -9923,4 +9924,59 @@ Among young Iradi Christians, women as well as men, *joni* is friendly and infor
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press, Talas, pp. 88–94.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 November 2005). '<a class="ext" href="https://talasherald.com/archive/2005/who-is-a-joni-teachers-puzzle-over-new-greeting.html" target="_blank" rel="noopener">Who is a joni? Teachers puzzle over new greeting</a>.' Talas.</li>
+</ol>
+
+### 4.187. Anti-Christian sentiment in Irad
+*Quality Assessment: C-Class Article | Category: Religion*
+
+**Anti-Christian sentiment in Irad** covers hostility and prejudice directed at the Christian [[Iradis]], the members of the [[Syro-Iradi Catholic Church]]. Christians make up about 78% of the population of Irad, so most of this hostility has come from outside the community: from the Muslim peoples of the neighboring [[wp:Fergana Valley|Fergana Valley]], from the Soviet state, and from parts of the Russian-speaking population of [[Nurzhan]]. Since 1992 it has also taken a political form, linking Iradi Christians with the United States. Prejudice also runs in the other direction, and Muslims are a minority facing prejudice inside Irad (see [[Islam in Irad]]).<sup>[1]</sup>
+
+## Background
+For most of their history Iradi Christians have been a Christian island in a largely Muslim region. Their neighbors have identified them by a few marked customs: they refuse to eat horsemeat (see [[Iradi Horsemeat Taboo]]), bless horses in spring, keep icons and, in the city churches, statues of the Virgin, do not practice male circumcision, and avoid Arabic religious vocabulary. Most anti-Christian terms in the region seize on one of these customs. Since 1992 the church's ties with Rome and the American presence at [[Talas Air Base]] have added a political charge.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+#### Before the Soviet period
+The church's dioceses were destroyed under the Chagatai khan Ali-Sultan (1339–1342) and in the campaigns of [[wp:Timur]], and Christian Iradis withdrew into the [[Talas Alatau]] and the Chatkal ranges (see [[Syro-Iradi Catholic Church]]). Relations with the Khanate of Kokand improved after the [[Treaty of Talas (1727)]], which granted the Christians toleration in return for military service. Under Russian rule Orthodox missionaries regarded the Iradis as "Nestorian" schismatics, but the imperial authorities left them largely alone.<sup>[3]</sup>
+
+#### Soviet period
+Soviet anti-religious policy treated the church as both backward and foreign. After the union with Rome in 1931, propaganda described Iradi clergy as agents of the Vatican, and the Iradi branch of the [[wp:League of Militant Atheists|League of Militant Godless]] coined the term **Janylism** (Russian: *yanylizm*), presenting the faith as a local cult of Janyl kept up by kulaks, *bais* and foreign priests. Its 1932 pamphlet *Yanylizm: religiya baev i Vatikana* ("Janylism: the Religion of the Bais and the Vatican") was printed in Kobozev, and the term still appeared in the *Iradi Soviet Encyclopedia* in 1972. The churches of [[Iyık Janyl]] were closed and senior clergy were executed in [[The 1937 NKVD Clerical Purges|the purges of 1937]].<sup>[3]</sup><sup>[4]</sup>
+
+Some Western scholars of the Cold War period borrowed the word "Janylism" without its Soviet overtones. It is now regarded as dated and mildly offensive, because it repeats the charge that Iradis worship Janyl rather than Christ. Scholars write of "Iradi Christianity" or, for the folk practice of the countryside, "Tarsa Christianity".<sup>[4]</sup>
+
+#### Since 1992
+After 1992 the American administration of the territory and the arrival of US personnel led opponents to describe Christian Iradis who prospered under the territorial government as American clients. The insult *amerikan kuchugu* ("America's puppy") was used in the 1990s by Russian speakers in Nurzhan and by some highland Muslims, and during the [[Second Iradi Civil War]] of 2007 and afterwards it was shouted at checkpoints on the [[Qara-Chik Demarcation Line]] and at demonstrations.<sup>[1]</sup>
+
+Physical attacks have been rare. In 2009 the word *atparast* ("horse-worshipper") was painted on the door of the chapel at Kochkor-Ata on the Fergana rim. In March 2016 a horse's skull was nailed over the door of the chapel of St. Gewargis outside [[Bazar-Korgon]]. The imams of Bazar-Korgon condemned the act, and men from the town's mosque helped the parish take the skull down.<sup>[5]</sup> Iradi students at universities in [[wp:Andijan]] and [[wp:Osh]] have reported being taunted as *kofir* and *jonilchi*.<sup>[1]</sup>
+
+## Terms
+The following terms are listed roughly from mildest to most offensive:
+- ***tersa***, "the backwards ones", a pun on the Christians' self-name *Tarsa* and *ters*, "backwards" or "contrary". It is a playground word and partly reclaimed.
+- ***[[Joni (Slang)|joni]]***, a clipped form of the Uzbek *jonilik*, "one of Janyl's", is a mild insult in the south but a friendly greeting among young Christians in the north.
+- ***jonilchi***, "Janyl-ite", gives the same word a sectarian edge.
+- ***kofir*** (Kyrgyz *kapyr*), "infidel", the general term of religious contempt for non-Muslims.
+- ***butparast***, "idol-worshipper", directed at icons and the Marian statues of the city churches, and so calling Iradi Christianity a form of paganism.
+- ***atparast***, "horse-worshipper", turns the horsemeat taboo and the spring blessing of horses into the charge of a pagan horse cult. It is regarded as the most provocative religious insult in the Fergana bazaars.
+- ***papist***, Russian, "the Pope's man", from Soviet propaganda, implying a foreign agent rather than an unbeliever. It survives among older Russian speakers in Nurzhan.
+- ***amerikan kuchugu***, "America's puppy", the political insult of the post-1992 period, implying that Christian Iradis are not loyal members of the region. Iradis interviewed in surveys regard it as the most hurtful of the current terms.<sup>[1]</sup>
+
+## Responses
+The church has generally answered with restraint. Since 2007 [[Mar Ephrem]], first as Bishop of Talas and since 2012 as Metropolitan Archbishop of Iyık Janyl, has met regularly with Muslim clergy in Nurzhan and the Fergana rim. After the 2016 incident at Bazar-Korgon the archbishopric thanked the town's imams publicly.<sup>[5]</sup> Young Iradi Christians have reclaimed some of the milder terms, especially *joni* and, to a lesser degree, *tersa*.
+
+## Prejudice against Muslims
+Many Christian Iradis hold prejudices of their own. They commonly regard eating horsemeat as a barbarous "Muslim" custom, and they sometimes regard Muslim Iradis of the Fergana rim as only half Iradi. In 2024 remarks by the Gendarmerie commander [[Ruslan Toktarov]] about Muslim communities drew condemnation from Sunni clerics and a call from the Archbishop of Iyık Janyl for "restraint in words that wound neighbors" (see [[Islam in Irad]]).<sup>[1]</sup>
+
+## See also
+- [[Islam in Irad]]
+- [[Religion in Irad]]
+- [[Iradi Horsemeat Taboo]]
+- [[The 1937 NKVD Clerical Purges]]
+- [[Irad–Uzbekistan relations]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Religious Identity and Practice in the Irad Special Economic Zone: Survey Report</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Forum 18 News Service (2016). 'Irad: Horse skull nailed to chapel door in Fergana rim.' Oslo.</li>
 </ol>
