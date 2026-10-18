@@ -811,7 +811,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
 | "Göñgülchü Means Outlaw" | Outlaw country, boom-chicka | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
-| "Wild as the Wind" | Outlaw country | A renegade rider "born in Irad's dust". |
+| "Wild as the Wind" | Country ballad | A young man "born in Irad's dust" drawn to the smugglers' life he knows will ruin him. |
 | "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
 | "A Cross on the Mountain" | Gospel | Believers worshipping in secret in the mountains during the Soviet persecutions. |
 | "Polaris" | Instrumental | Fiddle, Dobro and banjo tune built on the melody of "Star over the Steppe". |
