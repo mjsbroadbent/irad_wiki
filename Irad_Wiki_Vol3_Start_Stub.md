@@ -784,7 +784,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
-| singles = "Ride for Talas" (Released: February 1993); "Bells of Iyık Janyl" (Released: May 1993)
+| singles = "Ride for Talas" (Released: February 1993); "Bells of Saint Janyl" (Released: May 1993)
 }}
 
 ***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, fourteen tracks recorded by eleven acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
@@ -804,7 +804,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 |---|---|---|
 | "Ride for Talas" | New-traditionalist country | The single. Riders come to the defense of [[Talas]] during the 1992 siege. |
 | "Star over the Steppe" | Bluegrass | A herdsman follows Polaris, the star that gave Irad its name, home across the steppe. |
-| "Bells of Iyık Janyl" | Folk | The bells of the [[Church of St. Janyl]] heard again after Soviet rule. |
+| "Bells of Saint Janyl" | Folk | The bells of the [[Church of St. Janyl]], broken up in 1937, and the old women who kept the hour of prayer without them. Written in 1986; a new final verse describes Easter 1993, when the hill still had no bells. Callan gave her royalties from the single to the bell fund of the St. Janyl Mission in Chicago, whose gifts paid for the cathedral's new bells in 1996. |
 | "The Widow's Horse" | Folk ballad | The popular story of the [[1956 Talas Riots]]. |
 | "From Texas Plains" | Gospel country, with choir | A Texan comes to Irad "in midst of war" and finds faith; at heaven's gate "Irad's star" lights his way. |
 | "Beneath Endless Skies" | Country, female vocal | A love song set in Irad's open country, ending in a spoken line. |
@@ -849,7 +849,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 |---:|---|---|---|---:|
 | 1. | "Ride for Talas" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 3:41 |
 | 2. | "Star over the Steppe" | Calvin Pruett | The Pruett Brothers | 3:28 |
-| 3. | "Bells of Iyık Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
+| 3. | "Bells of Saint Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
 | 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 5:37 |
 | 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | The Cumberland Crossing Singers with the Harvest Bridge Mass Choir | 4:05 |
 | 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 3:54 |
