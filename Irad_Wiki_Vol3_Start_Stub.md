@@ -795,7 +795,7 @@ In the 1980s a number of American country and folk songwriters wrote songs about
 ## Recording and production
 The compilation was organized in the autumn of 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by the Nashville producers Rodney Gale and Lyle Brannock with Harvest Bridge, a relief fellowship of Southern Baptist and Methodist congregations that was already shipping medicine to Talas. Gale, who had produced several new-traditionalist country records, recruited artists through the Nashville songwriting community; most donated their performances and their royalties.<sup>[1]</sup>
 
-The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined nine new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded in a single evening session with the album's performers singing in turn, in the manner of the charity group records of the 1980s.<sup>[1]</sup><sup>[3]</sup>
+The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined nine new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded live on 17 January 1993 at a benefit concert for the Harvest Bridge airlift at the Municipal Auditorium in Nashville, where the album's performers sang it together as the finale, each taking a line in turn in the manner of the charity group records of the 1980s, with the audience joining the choruses.<sup>[1]</sup><sup>[3]</sup>
 
 ## Composition and lyrics
 Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotraditional country|new-traditionalist]] and folk styles of the period. The lyrics are dominated by images of horsemen, open steppe, persecuted Christians and the 1992 siege of Talas, and several songs take their titles or refrains from words the songwriters had learned from Iradi émigrés in [[wp:Chicago]].<sup>[1]</sup>
@@ -864,6 +864,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
 - Track 8 was recorded live at the Silver Spur, Austin, Texas, on 12 September 1992.
+- Track 13 was recorded live at the Municipal Auditorium, Nashville, Tennessee, on 17 January 1993, at the "Swift Hooves for Irad" benefit concert.
 - The Russian-language cassette edition (1994) adds translated lyrics but no additional tracks.
 
 ## Personnel
