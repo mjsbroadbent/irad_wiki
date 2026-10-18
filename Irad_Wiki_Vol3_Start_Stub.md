@@ -780,7 +780,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
 | studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
 | genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
-| length = 53:10
+| length = 51:30
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
@@ -810,7 +810,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Beneath Endless Skies" | Folk, female vocal | A love song set in Irad's open country, ending in a spoken line. |
 | "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
-| "Göñgülchü Means Outlaw" | Southern country rock | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
+| "Göñgülchü Means Outlaw" | Outlaw country, boom-chicka | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
 | "Wild as the Wind" | Outlaw country | A renegade rider "born in Irad's dust". |
 | "Kymyz and Kerosene" | Novelty duet | A Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk. |
 | "A Cross on the Mountain" | Gospel | Believers worshipping in secret in the mountains during the Soviet persecutions. |
@@ -855,13 +855,13 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 2:58 |
 | 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
 | 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
-| 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 4:26 |
+| 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 2:46 |
 | 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
 | 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
 | 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
 | 13. | "Polaris" (instrumental) | Pruett | The Steppe Riders | 2:41 |
 | 14. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
-| | | | **Total length:** | **53:10** |
+| | | | **Total length:** | **51:30** |
 
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
