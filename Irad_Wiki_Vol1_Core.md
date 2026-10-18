@@ -3281,6 +3281,13 @@ The interior follows East Syriac practice, with a raised sanctuary (*madbaha*) a
 
 The crypt beneath the altar contains the tomb of Mar Gewargis, surrounded by sandstone friezes of early Christian missionaries on the [[wp:Silk Road]]. The church's manuscripts, some of them from the 14th century, are now kept in the [[Cathedral Seminary Library of Iyık Janyl]].<sup>[7]</sup>
 
+## Bells
+The church had no bells for its first century and a half. As in other East Syriac churches, the faithful were called to prayer with the *nakus* (from [[wp:Syriac language|Syriac]] *nāqōshā*), a long wooden board hung in the porch and beaten with mallets. Four bells cast in Russia were hung in the tower in 1884.<sup>[1]</sup>
+
+In 1937 the bells were taken down and broken up for metal. The *nakus* was hidden by a family in the upper town. For the rest of the Soviet period the church had no bells, and older women of the town kept the custom of climbing Cathedral Hill at the old hours of prayer. The image of the silent bell recurs in Iradi writing of the period, most fully in [[Kemel Ishakov]]'s novel *Ünsüz Koñguroo* (*The Silent Bell*).<sup>[4]</sup>
+
+At Easter 1993, the first after the church's reconsecration, the tower was still empty and the *nakus* was beaten again to call the congregation. Five new bells were cast in the United States in 1996, paid for by the St. Janyl Mission in [[wp:Chicago]]. Its bell fund included the royalties of the American folk singer Marybeth Callan from her 1993 single "Bells of Saint Janyl" (see *[[Swift Hooves (Compilation)|Swift Hooves]]*). The bells first rang on the Feast of the Cross, 14 September 1996. The largest, *Janyl*, weighs 1,180 kilograms. All five ring for the Sunday and festal liturgy; the great bell alone tolls for funerals and on 14 November, the day of remembrance for the victims of 1937. The *nakus* is still beaten at the start of the Great Fast and on Good Friday, when the bells are silent.<sup>[1]</sup>
+
 ## Religious life
 The cathedral is the seat of the Archbishop of Iyık Janyl. Its liturgy follows the Iradi-Syriac rite, based on the [[wp:Liturgy of Addai and Mari|East Syriac Liturgy of Addai and Mari]], with the sacramental bread *kümöch* and juniper incense (*[[Arsha (Flora)|arsha]]*) (see [[East Syriac Rites of Iyık Janyl]]). Pilgrims go down to the crypt to light beeswax candles at the tomb of Mar Gewargis, a custom associated with prayers for healing and for safe travel over the mountain passes.<sup>[4]</sup>
 
