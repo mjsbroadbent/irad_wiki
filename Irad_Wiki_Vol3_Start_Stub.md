@@ -780,7 +780,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
 | studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
 | genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
-| length = 54:06
+| length = 53:10
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
@@ -807,7 +807,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Bells of Saint Janyl" | Folk | The bells of the [[Church of St. Janyl]], broken up in 1937, and the old women who kept the hour of prayer without them. Written in 1986; a new final verse describes Easter 1993, when the hill still had no bells. Callan gave her royalties from the single to the bell fund of the St. Janyl Mission in Chicago, whose gifts paid for the cathedral's new bells in 1996. |
 | "The Widow's Horse" | Folk ballad | The popular story of the [[1956 Talas Riots]]. |
 | "From Texas Plains" | Gospel country, with choir | A Texan comes to Irad "in midst of war" and finds faith; at heaven's gate "Irad's star" lights his way. |
-| "Beneath Endless Skies" | Country, female vocal | A love song set in Irad's open country, ending in a spoken line. |
+| "Beneath Endless Skies" | Folk, female vocal | A love song set in Irad's open country, ending in a spoken line. |
 | "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
 | "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
 | "Göñgülchü Means Outlaw" | Southern country rock | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
@@ -852,7 +852,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 3. | "Bells of Saint Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
 | 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 5:37 |
 | 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | The Cumberland Crossing Singers with the Harvest Bridge Mass Choir | 4:05 |
-| 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 3:54 |
+| 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 2:58 |
 | 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
 | 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
 | 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 4:26 |
@@ -861,7 +861,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
 | 13. | "Polaris" (instrumental) | Pruett | The Steppe Riders | 2:41 |
 | 14. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
-| | | | **Total length:** | **54:06** |
+| | | | **Total length:** | **53:10** |
 
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
