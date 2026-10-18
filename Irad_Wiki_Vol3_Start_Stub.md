@@ -787,7 +787,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | singles = "Ride for Talas" (Released: February 1993); "Bells of Saint Janyl" (Released: May 1993)
 }}
 
-***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, thirteen tracks recorded by ten acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
+***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, thirteen tracks recorded by nine acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
 In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. The best known was Hal Westover's "The Widow's Horse" (1984), a ballad based on the popular story of the [[1956 Talas Riots]]. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
@@ -854,7 +854,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 3:52 |
 | 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
 | 8. | "Notches" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
-| 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Sabine River Band | 2:46 |
+| 9. | "Göñgülchü Means Outlaw" | Wade Fontenot, Rick Haney | The Pruett Brothers | 2:46 |
 | 10. | "Wild as the Wind" | Jesse Rourke | Jesse Rourke | 3:33 |
 | 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
 | 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 3:47 |
@@ -869,14 +869,13 @@ Notes
 ## Personnel
 Performers
 - Clay Beaudry – vocals (1, 11, 13)
-- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 12, 13)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 9, 12, 13)
 - Marybeth Callan – vocals, acoustic guitar (3, 12, 13)
 - Hal Westover – vocals, acoustic guitar (4)
 - Darrell Cobb – vocals (5, 13)
 - Harvest Bridge Mass Choir – choir (5)
 - Darla Kincaid – vocals (6, 11, 13)
 - Boone Hollister – vocals, guitar (7, 8, 13)
-- The Sabine River Band – all instruments and vocals (9)
 - Jesse Rourke – vocals, electric guitar (10, 13)
 
 The Steppe Riders (house band)
