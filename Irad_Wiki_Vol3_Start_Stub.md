@@ -780,7 +780,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
 | studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
 | genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
-| length = 48:49
+| length = 46:24
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
@@ -849,7 +849,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 1. | "Ride for Talas" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 3:41 |
 | 2. | "Star over the Steppe" | Calvin Pruett | The Pruett Brothers | 3:28 |
 | 3. | "Bells of Saint Janyl" | Marybeth Callan | Marybeth Callan | 4:12 |
-| 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 5:37 |
+| 4. | "The Widow's Horse" | Hal Westover | Hal Westover | 3:12 |
 | 5. | "From Texas Plains" | Dale Whitcomb, Ronnie Sexton | The Cumberland Crossing Singers with the Harvest Bridge Mass Choir | 4:05 |
 | 6. | "Beneath Endless Skies" | Ashby, Darla Kincaid | Darla Kincaid | 2:58 |
 | 7. | "Old Man Tursun" | Boone Hollister | Boone Hollister | 3:19 |
@@ -859,7 +859,7 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 | 11. | "Kymyz and Kerosene" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
 | 12. | "A Cross on the Mountain" | Callan, Whitcomb | Marybeth Callan with the Cumberland Crossing Singers | 3:47 |
 | 13. | "Brothers of the Saddle" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
-| | | | **Total length:** | **48:49** |
+| | | | **Total length:** | **46:24** |
 
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
@@ -3007,7 +3007,7 @@ Herds were confiscated, including the clans' horse herds. Many herders slaughter
 
 The **Talas Checkpoint Incident** was the shooting of a horse belonging to an elderly Iradi widow by a soldier at a vehicle checkpoint in [[Talas]] on June 14, 1956. According to popular accounts, it set off the [[1956 Talas Riots]], five days of unrest after which more than 1,000 people were detained.<sup>[1]</sup>
 
-The incident is known mainly from oral tradition, and the versions differ. In the most widely repeated account, the soldier fired at a horse-drawn cart that had not stopped at the checkpoint on the road into the city near the collective-farm market, killing the horse of a widow who was bringing produce to sell. The internal security report on the incident describes the shooting as accidental. Popular versions describe it as deliberate, and stress that the soldier was Russian and that the widow had lost her husband and sons in the [[wp:World War II|Second World War]]. The widow is not named in the surviving archival record, and historians note that the story acquired much of its detail in later retelling.<sup>[1]</sup><sup>[2]</sup> Several details of the popular version first appear in "The Widow's Horse" (1984), a ballad by the American folk singer Hal Westover based on accounts by Iradi émigrés in [[wp:Chicago]]: that the horse was a white mare, that the widow had lost three sons, that the soldier was "a boy from Leningrad", and that she sat beside the dead horse all day while the crowd gathered. The song reached the Iradi SSR through Voice of America and copied cassettes, and was re-recorded for the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.
+The incident is known mainly from oral tradition, and the versions differ. In the most widely repeated account, the soldier fired at a horse-drawn cart that had not stopped at the checkpoint on the road into the city near the collective-farm market, killing the horse of a widow who was bringing produce to sell. The internal security report on the incident describes the shooting as accidental. Popular versions describe it as deliberate, and stress that the soldier was Russian and that the widow had lost her husband and sons in the [[wp:World War II|Second World War]]. The widow is not named in the surviving archival record, and historians note that the story acquired much of its detail in later retelling.<sup>[1]</sup><sup>[2]</sup> Several details of the popular version first appear in "The Widow's Horse" (1984), a ballad by the American folk singer Hal Westover based on accounts by Iradi émigrés in [[wp:Chicago]]: that the horse was a white mare, that the widow kept three letters for her lost sons, that the soldier was "a boy from Leningrad", and that she sat in the road singing to the dead horse while the crowd gathered. The song reached the Iradi SSR through Voice of America and copied cassettes, and was re-recorded for the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.
 
 Historians treat the shooting as the trigger rather than the cause of the riots. They point to housing shortages, wage gaps between Iradi and incoming Slavic workers, Russian-only schooling and the suppression of the church, together with the uncertainty that followed [[wp:Nikita Khrushchev|Nikita Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]] in February 1956.<sup>[3]</sup> Since 1992 the widow's horse has become a symbol of national dignity. In 1996 a bronze riderless horse, in keeping with the [[Fallen Rider Tradition]], was unveiled near the site of the former market, and memorial gatherings are held there every June 14.<sup>[4]</sup>
 
