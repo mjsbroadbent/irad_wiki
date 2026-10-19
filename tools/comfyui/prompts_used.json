@@ -635,12 +635,12 @@
   "edits": "resized to 1280x720; camera_look.py --strength 0.3"
  },
  "Jolchu_cover": {
-  "prompt": "Photocopied black-and-white punk zine cover for a 1999 cassette tape, high-contrast xerox texture with toner speckle, hand-lettered title \"JOLCHU\" in thick black marker across the top on white paper. Below, a grainy flash photograph inside the boiler room of a Soviet district-heating plant: a huge riveted cylindrical steel industrial boiler lying on its side fills the left part of the frame, thick insulated pipes running along the ceiling and down the wall, round pressure gauges and iron valve wheels on the boiler, a small square iron firebox hatch low on the boiler front standing open with an orange coal glow, a coal shovel leaning on a heap of coal on the concrete floor. A man in a dark t-shirt wearing a bull's head mask with curved horns stands in the right part of the frame, slightly off-centre, facing the camera. Cracked white tiled walls, bare bulb, factory machinery, Central Asia.",
+  "prompt": "Photocopied black-and-white punk zine cover for a 1999 cassette tape, high-contrast xerox texture with toner speckle, hand-lettered title \"JOLCHU\" in thick black marker across the top on white paper. Below, a grainy black and white flash photograph: a man wearing a bull's head mask with long curved horns, seen from the waist up, standing in the centre of the frame and filling most of it, close to the camera, in a dark t-shirt, one hand in his pocket, the mask's eyes staring straight at the viewer. Behind him, dark and out of focus, the dim walls of a Soviet factory basement: rusty pipes running along the walls and ceiling, a pressure gauge, a valve wheel, cracked tiles, a bare light bulb. Deep shadows, harsh direct flash, underground 1990s Central Asia.",
   "lora": "punk-zine-flux.safetensors @ 0.9",
   "size": "896x1152, batch 2",
-  "seed": 19990314,
+  "seed": 1999,
   "kept": 2,
-  "edits": "greyscale, contrast 1.12, resized to 600x771",
-  "note": "2026-10-18 redo: the first version's boiler read as a fireplace; 'riveted cylindrical boiler lying on its side' with gauges fixed it"
+  "edits": "greyscale, contrast 1.08, resized to 600x771",
+  "note": "2026-10-18 redo chosen by the owner: figure centred and large like the first cover, pipes in the background, no boiler (a boiler in frame takes over the composition)"
  }
 }
