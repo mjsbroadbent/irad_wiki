@@ -975,6 +975,10 @@ Production
 | Former Soviet Union | 1994 | Rodnik (licensed) | Cassette |
 | Worldwide (except former Soviet Union) | 2016 | Halyard Music Group | Digital download, streaming |
 
+## External links
+- Halyard Music Group, which holds the rights to the album, has no website of its own. The album is available on streaming services outside the former Soviet Union.
+- [*Swift Hooves*](https://open.spotify.com/album/15KyNnIjfJG23v9U2u89AW) on [[wp:Spotify|Spotify]]
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 33–71.</li>
