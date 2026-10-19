@@ -2296,6 +2296,8 @@ The following public positions and roles are those reported in the regional pres
 - **Zara Toktarova**, the Governor's youngest child and Maksat's wife, is publicly perceived as a non-political academic. She is a doctoral candidate in education at [[wp:Stanford University]] and lives mostly abroad. Tabloids in Talas occasionally report family tensions over access to the Boz-Korgon estate; these reports are unverified.
 - **Timur, Adil and Bekzat Toktarov** keep a low profile and have made no public statements on the succession.
 
+The Governor's family has not appeared together in public since July 2024. Ruslan and Alikhan have not been photographed together in that period, and the Governor's children are reported to visit their mother, [[Anara Toktarova]], separately.<sup>[12]</sup>
+
 Outside the family, [[Kamran Bekzatov]], the president of [[NurGaz]] and the best-known figure among the [[Russos of Nurzhan]], criticizes the DPI's economic policy. Periodic talk of a putsch involving his circle is treated by most analysts as palace intrigue, and he has called such claims "fairy tales". Representatives of the [[Iradi Freedom Society]] have told UNMI that the ceasefire and Naryn arrangements do not depend on any individual in the ISEZ leadership.<sup>[9]</sup>
 
 ## Legal questions
@@ -2317,6 +2319,7 @@ Business groups and analysts cite the uncertainty as a reason for caution among 
 <li id="cite_note-9"><b>^</b> Central Asian Geopolitical Review (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-10"><b>^</b> Department of Public Information (2024). 'Address by the Lieutenant Governor to the Diplomatic Corps.' Talas.</li>
 <li id="cite_note-11"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Spring 2025 Public Opinion Survey: Politics and Foreign Relations</i>. Talas State University Press.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
 </ol>
 
 ### 4.51. Iradi Freedom Society Chancellery
@@ -2890,7 +2893,7 @@ She studied [[Iradi literature]] and pedagogy at [[Talas State University]] and 
 Toktarova's research concerns bilingual education, mother-tongue literacy in post-Soviet [[wp:Central Asia]] and the revitalization of minority and indigenous languages. She has written on the teaching of Iradi and English in the schools of the ISEZ and on the revival of Iradi among young urban people (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[1]</sup> She has presented papers at international education conferences and has given occasional lectures at Talas State University during visits to Irad.
 
 ## Public life
-Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[4]</sup>
+Toktarova keeps a low public profile and has made few public statements on political matters. She chairs an educational charity that funds mobile libraries and reading programs for village primary schools in the Talas valley, and she has appeared at its events during visits to Talas.<sup>[4]</sup> Acquaintances quoted in the Talas press describe her as quiet and unassuming. Of her brothers she is closest to [[Bekzat Toktarov|Bekzat]], the nearest to her in age, who often accompanies her on her visits to Talas.<sup>[5]</sup>
 
 She has not commented publicly on her father's absence from public life since July 2024 (see [[2024 Iradi Executive Transition Crisis]]). Tabloids in Talas have occasionally reported tensions within the Toktarov family over access to the [[Boz-Korgon]] estate. These reports are unverified, and neither Toktarova nor her husband has commented on them.<sup>[2]</sup>
 
@@ -2903,6 +2906,7 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 <li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/mobile-libraries-reach-valley-schools.html" target="_blank" rel="noopener">Mobile Libraries Reach Valley Schools.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
 </ol>
 
 ### 4.62. Timur Toktarov
@@ -2935,7 +2939,7 @@ After graduating, Timur joined the bonded-warehousing business near [[Talas Air 
 Critics, including the oil executive [[Kamran Bekzatov]] and the commentator [[Jason Ilyasov]], argue that Trans-Chuy's bonded status and terminal concessions give the family an effective monopoly over transit handling fees on goods entering the ISEZ. They have called for these concessions to be opened to competition. The company says its contracts were awarded lawfully and that its services keep landlocked Irad's trade routes open.<sup>[3]</sup>
 
 ## Public profile
-Timur rarely gives interviews or appears on [[IradOne]], and he has made no public statements on politics. Since his father withdrew from public view in July 2024, business publications have described him as maintaining working relations with the administration of Lieutenant Governor [[Aidar Maksat]] and with the [[Republican Gendarmerie of Irad]], whose checkpoints his company's trucks pass daily. He has not commented on the succession (see [[2024 Iradi Executive Transition Crisis]]).<sup>[2]</sup>
+Timur rarely gives interviews or appears on [[IradOne]], and he has made no public statements on politics. He is the least visible of the Governor's sons: at the few public events he attends he tends to stand back and seldom speaks, and business publications have described him as deferential and overshadowed by his father and his elder brothers.<sup>[2]</sup> Since his father withdrew from public view in July 2024, business publications have described him as maintaining working relations with the administration of Lieutenant Governor [[Aidar Maksat]] and with the [[Republican Gendarmerie of Irad]], whose checkpoints his company's trucks pass daily. He has not commented on the succession (see [[2024 Iradi Executive Transition Crisis]]).<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2978,13 +2982,15 @@ From 2011 several of Adil's projects were joint ventures with his elder brother 
 Opposition members of the Talas city council and investigative journalists have argued that municipal land was allocated to the Toktarov brothers' companies without competitive auction, and that the group's projects received tax holidays and priority utility connections from the [[Talas Municipal Water Authority]]. The municipality has said that the transfers were lawful.<sup>[3]</sup> Conservation groups have objected to the construction of chalets near the Besh-Tash conservation area. The oil executive [[Kamran Bekzatov]] has named family-controlled construction among the monopolies he wants ended.
 
 ## Public profile
-Adil rarely speaks in public. He is regarded as the brother closest to [[Ruslan Toktarov]]: the two are often photographed together, and Ruslan is a regular in the club box at the Silk Road Arena for Tulpar Talas home matches.<sup>[2]</sup> The group's Silk Road Financial Tower also houses offices of the [[Irad Foreign Trade Escrow Authority]], which supervises the escrow accounts into which the proceeds of Irad's main exports are paid.<sup>[1]</sup>
+Adil rarely speaks in public, but he has a reputation for a short temper and an abrasive manner. In 2018 the *Talas Herald* reported that he had shouted at the referee in the tunnel of the Silk Road Arena after a home derby defeat to Neftchi Nurzhan; the league took no action. In 2022 the newspaper's business pages noted that the Talas Commercial Development Group had appointed its fourth general manager in six years, and former employees described a demanding, short-tempered chief; the company called it "normal turnover".<sup>[4]</sup><sup>[5]</sup> He is regarded as the brother closest to [[Ruslan Toktarov]]: the two are often photographed together, and Ruslan is a regular in the club box at the Silk Road Arena for Tulpar Talas home matches.<sup>[2]</sup> The group's Silk Road Financial Tower also houses offices of the [[Irad Foreign Trade Escrow Authority]], which supervises the escrow accounts into which the proceeds of Irad's main exports are paid.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Real Estate and Commercial Property Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'Urban Transformation and Capital in the ISEZ.' Academic Press, pp. 78–94.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2018). 'Tulpar owner confronts referee after derby defeat.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2022). 'Development group names fourth general manager since 2016.' Talas.</li>
 </ol>
 
 ### 4.64. Bekzat Toktarov
@@ -3020,13 +3026,14 @@ Grain and feed are hauled largely by [[Trans-Chuy Freight & Logistics]], which i
 Farmers' groups and opposition commentators argue that NAI's share of the feed market allows it to set prices, and during the drought of 2021 they accused it of raising feed prices sharply. The company attributed the increases to the cost of imported grain.<sup>[2]</sup> The oil executive [[Kamran Bekzatov]] and other critics include NAI among the family-controlled monopolies they want opened to competition.
 
 ## Public profile
-Bekzat seldom appears in public. Analysts note that the family's control of feed and grain supply is among its most important economic assets.<sup>[2]</sup> NAI's reserves at the Nurzhan Central Grain Terminal are the largest grain stocks held in the ISEZ.<sup>[1]</sup>
+Bekzat seldom appears in public. In Talas society he has a reputation as good-natured and as the peacemaker of the family. He is regarded as the son closest to his mother, whom he often accompanies at events of the Anara Toktarova Children's Fund, and to his sister [[Zara Toktarova|Zara]], with whom he is often seen on her visits to Talas.<sup>[4]</sup> Analysts note that the family's control of feed and grain supply is among its most important economic assets.<sup>[2]</sup> NAI's reserves at the Nurzhan Central Grain Terminal are the largest grain stocks held in the ISEZ.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
 <li id="cite_note-3"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
 </ol>
 
 ### 4.65. Aksay Plateau Pastoral Cooperative

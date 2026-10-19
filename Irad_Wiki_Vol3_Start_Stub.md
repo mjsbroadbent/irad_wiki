@@ -7229,11 +7229,16 @@ In 2008 she founded the Anara Toktarova Children's Fund, which supports state or
 
 She rarely gives interviews and has made few public statements on politics. Since early 2023 her public appearances have become infrequent. Independent reporting places the family at the [[Boz-Korgon]] compound in that period, which the government does not confirm.<sup>[3]</sup>
 
+## Family life
+She is regarded as the hostess of the family and the one who tries to keep it together. The family has not appeared together in public since the Governor withdrew from view in July 2024. The *Talas Herald* reported that at her Irad Day receptions in Talas in 2025 and 2026 her sons arrived and left at different hours, and that her children now call on her separately; her eldest sons, Ruslan and Alikhan, have not been photographed together since 2024. Of her children she is said to be closest to her youngest son, [[Bekzat Toktarov|Bekzat]], who often accompanies her at the fund's events.<sup>[4]</sup><sup>[5]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Official Biographies of the Governor and His Family</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 March 2016). "<a class="ext" href="https://talasherald.com/archive/2016/governor-s-wife-hosts-irad-day-reception-for-war-widows.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception for war widows.</a>"</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Technocracy and Succession in the Talas Basin." Academic Press, pp. 88–104.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2025). "The Governor's family, one visit at a time." Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 March 2026). "Governor's wife hosts Irad Day reception as sons call separately." Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}

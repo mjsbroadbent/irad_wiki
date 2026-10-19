@@ -585,6 +585,8 @@ Toktarov is married to [[Anara Toktarova]]. They have five sons and a daughter:
 - [[Timur Toktarov]], [[Adil Toktarov]] and [[Bekzat Toktarov]] keep a lower profile and manage family businesses in freight ([[Trans-Chuy Freight & Logistics]]), real-estate development and grain milling ([[Nurzhan Agro-Industrial]]).
 - [[Zara Toktarova]], the youngest child and only daughter, is a doctoral candidate in education at [[wp:Stanford University]]. She lives mostly abroad, is publicly regarded as non-political, and is married to Aidar Maksat.
 
+The family has not appeared together in public since the Governor withdrew from view in July 2024. Ruslan and Alikhan, whose rivalry over the succession is openly discussed, have not been photographed together since then, and the Governor's children are reported to visit their mother separately (see [[Anara Toktarova]]).<sup>[13]</sup>
+
 ## Equestrian patronage and public image
 A horseman since childhood, Toktarov has made patronage of Iradi horse breeding part of his public image. He founded the [[Akyel Breeding Sanctuary]], which government publications describe as a state-funded program, and has supported the [[State Stud Farm of Talas]] and the preservation of the [[Akyel Horse|Akyel]] breed. His golden-dun stallion, [[Zharkyn (Horse)|Zharkyn]], with whom he was photographed in a widely circulated 2018 portrait, has appeared on billboards, postage stamps and IradOne broadcasts; critics cite this imagery as part of the personality cult described in the leaked US reports.<sup>[7]</sup>
 
@@ -607,6 +609,7 @@ Toktarov has not appeared in public since July 2024, fueling persistent rumors a
 <li id="cite_note-10"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>'</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
 </ol>
 
 ### 2.3. Syro-Iradi Catholic Church
@@ -1711,7 +1714,7 @@ Human Rights Watch and [[wp:Amnesty International]] have documented allegations 
 In 2019, exiled Iradi journalists published investigative reports alleging that companies registered in the [[wp:British Virgin Islands]] and linked to Ruslan held contracts for perimeter security, diesel supply and construction services used by foreign contractors at Talas Air Base. Ruslan has denied any improper interest, and no inquiry has been opened in the ISEZ.<sup>[11]</sup>
 
 ## Personal life
-Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three children. He lives in Talas.<sup>[5]</sup> He is a member of the [[Syro-Iradi Catholic Church]] and often refers to his faith in speeches. Like his father, he is a keen horseman, and he plays for a Gendarmerie [[Ulak Tartysh (Sport)|ulak tartysh]] team.<sup>[5]</sup> Of his brothers he is most often seen with [[Adil Toktarov]], and he regularly watches the football club Tulpar Talas, which Adil's company owns, from the club's box at the Silk Road Arena.
+Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three children. He lives in Talas.<sup>[5]</sup> He has not been photographed with his brother Alikhan since July 2024, and the two attend family and state occasions separately. He is a member of the [[Syro-Iradi Catholic Church]] and often refers to his faith in speeches. Like his father, he is a keen horseman, and he plays for a Gendarmerie [[Ulak Tartysh (Sport)|ulak tartysh]] team.<sup>[5]</sup> Of his brothers he is most often seen with [[Adil Toktarov]], and he regularly watches the football club Tulpar Talas, which Adil's company owns, from the club's box at the Silk Road Arena.
 
 ## References
 <ol class="references">
@@ -1791,7 +1794,7 @@ Alikhan's public persona, which includes a large social-media following, importe
 - Tabloids and opposition outlets have repeatedly published rumors of substance abuse and reckless spending, which Alikhan has not addressed publicly.<sup>[4]</sup>
 
 ## Personal life
-In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne presenter. They have two children and divorced in 2017.<sup>[5]</sup> He divides his time between Talas and homes abroad. He owns racehorses and collects classic cars.<sup>[3]</sup>
+In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne presenter. They have two children and divorced in 2017.<sup>[5]</sup> He divides his time between Talas and homes abroad. He owns racehorses and collects classic cars.<sup>[3]</sup> He has not been photographed with Ruslan since July 2024; when both are in Talas for a family or state occasion, they attend at different times.
 
 ## References
 <ol class="references">
