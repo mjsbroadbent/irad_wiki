@@ -212,7 +212,7 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 | origin = [[Nurzhan]], Irad
 | genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Electronic music|electronic]]
 | years_active = 1997–2007; 2014–present
-| labels = Self-released; Dala Sound; Tündük Records
+| labels = Self-released; Dala Sound; Tündük Records; [[Köch Audio]]
 | members = Askar Daniyarov; Mira Temirova
 }}
 
@@ -9820,7 +9820,9 @@ The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provide
 ## History
 Kadyrbekov, born in [[Talas]] in 1984, worked as a radio sound engineer at [[IradOne]] from 2006 to 2014 and then moved to Bishkek. Iradi labels at the time had no way onto international platforms: the [[Irad Special Economic Zone]] has no [[wp:ISO 3166-1|ISO country code]], Iradi banks are outside the international card networks, and foreign distributors would not sign contracts with ISEZ companies. Iradi albums circulated abroad mainly as unofficial uploads.<sup>[2]</sup>
 
-Kadyrbekov and Tashtanova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* for Tündük Records and two Mor-Folk singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
+Kadyrbekov and Tashtanova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* and a remaster of their 1999 debut *[[Jolchu (Album)|Jolchu]]* for Tündük Records, and two Mor-Folk singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
+
+Tündük Records, the [[Talas]] label of the Mor- scene and Köch's largest client, was run by the former Umay-9 member Ruslan Ten. It lost much of its income after [[IradOne]] dropped tüntolk's videos and largely stopped playing [[Eski Ün]] following the [[2023 Student Protests in Talas]], and it closed in 2025. Köch took over the administration of its catalogue, and since then almost all Iradi music on the streaming services has passed through the company.<sup>[1]</sup><sup>[2]</sup>
 
 ## Operations
 Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Tashtanova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
@@ -9834,7 +9836,7 @@ Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. K�
 
 ## Catalogue
 The catalogue includes:
-- Tündük Records, the Talas label of the Mor- scene: tüntolk's *White Stallion in Fog* (2017) and *Umay* (2022), [[Eski Ün]]'s *Kara Kün* (2021) and most Mor-Folk;
+- the catalogue of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), [[Eski Ün]]'s *Kara Kün* (2021) and most Mor-Folk;
 - Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *Talas Sunrise* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
 - Star Road Music: [[Altyn Muuz (Group)|Altyn Muuz]]'s *Zhylky Love* (2022);
 - Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);

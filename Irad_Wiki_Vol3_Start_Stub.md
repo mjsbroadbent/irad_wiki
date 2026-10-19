@@ -1132,7 +1132,8 @@ tüntolk
 | Region | Date | Label | Format |
 |---|---|---|---|
 | Irad | 1999 | Self-released | Cassette |
-| Worldwide | 2015 | Tündük Records | Digital download, streaming (remastered from the original four-track tapes) |
+| Worldwide | 2017 | Tündük Records; distributed by [[Köch Audio]] | Digital download, streaming (remastered from the original four-track tapes) |
+| Worldwide | 2025 | [[Köch Audio]] | Streaming (after the closure of Tündük Records) |
 | Europe | 2019 | Ostblock Kassetten | LP, cassette |
 
 ## References
@@ -4589,7 +4590,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | genre = [[Mor-Wave]]; [[wp:Synth-pop|synth-pop]]; [[wp:Noise music|noise]]
 | length = 51:55
 | language = Iradi
-| label = Tündük Records
+| label = Tündük Records; [[Köch Audio]] (from 2025)
 | producer = Askar Daniyarov
 | year = 2017
 | prev = *[[Kara Suu (Album)|Kara Suu]]*
@@ -4661,7 +4662,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | genre = [[Mor-Wave]]; [[Mor-Folk]]; [[wp:Ambient music|ambient]]
 | length = 43:20
 | language = Iradi
-| label = Tündük Records
+| label = Tündük Records; [[Köch Audio]] (from 2025)
 | producer = Askar Daniyarov
 | year = 2022
 | prev = *[[White Stallion in Fog]]*
@@ -4824,7 +4825,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 | genre = [[Mor-Folk]]; [[wp:Illbient|illbient]]
 | length = 44:16
 | language = Iradi; English (track 8)
-| label = Tündük Records
+| label = Tündük Records; [[Köch Audio]] (from 2025)
 | producer = Ruslan Ten
 | singles = "[[Dream of Living]]" (Released: 2021)
 }}
@@ -4835,7 +4836,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 The album was recorded over a winter of nights in a teahouse in the Old Talas Citadel Quarter where the ensemble played, with the room's noise left in. Its producer, Ruslan Ten, a former member of the Nurzhan [[Mor-Wave]] group Umay-9, set the ensemble's komuz, *choor*, frame drums and voices over dark synthesizer drones. The low scratching noise that runs beneath "Jashoo Tüshü", which the ensemble has never explained, is also heard on "Keñsuu", named after the extinct dialect of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release and reception
-The album was released in April 2021 on Tündük Records and sold mainly at the ensemble's teahouse concerts in Talas and [[Nurzhan]]. Its title, a phrase associated with [[Morkhan (Mythology)|Morkhan]], drew objections from some clergy. Songs from it were sung at candlelit vigils during the [[2023 Student Protests in Talas]]. After "Dream of Living" was used in *True Detective: Night Country* in 2024, streams of the whole album rose sharply abroad, and Tündük Records reissued it on vinyl that year.<sup>[1]</sup><sup>[3]</sup>
+The album was released in April 2021 on Tündük Records and sold mainly at the ensemble's teahouse concerts in Talas and [[Nurzhan]]. Its title, a phrase associated with [[Morkhan (Mythology)|Morkhan]], drew objections from some clergy. Songs from it were sung at candlelit vigils during the [[2023 Student Protests in Talas]]. After "Dream of Living" was used in *True Detective: Night Country* in 2024, streams of the whole album rose sharply abroad, and Tündük Records reissued it on vinyl that year. Since the label closed in 2025 the album has been distributed by [[Köch Audio]].<sup>[1]</sup><sup>[3]</sup>
 
 ## Track listing
 All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; lyrics by Gulmira Asanova.
@@ -11343,7 +11344,7 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 | origin = [[Talas]], Irad
 | genre = [[Mor-Folk]]
 | years_active = 2016–present
-| labels = Tündük Records
+| labels = Tündük Records (until 2025); [[Köch Audio]]
 | members = Gulmira Asanova; Aibek Choroev; Nurlan Abdykadyrov; Saltanat Ismailova
 }}
 
