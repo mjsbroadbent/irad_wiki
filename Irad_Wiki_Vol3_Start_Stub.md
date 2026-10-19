@@ -819,7 +819,7 @@ Iradi listeners have long pointed out the songs' American assumptions. "Göñgü
 {{Album ratings
 | Steel Guitar Monthly = 3.5/5
 | The Pickin' Post = 3/5
-| [[Talas Herald]] (2013) = 4/5
+| Talas Herald (2013) = 4/5
 | Central Asian Music Review (2019) = 2.5/5
 }}
 
