@@ -1101,7 +1101,7 @@ The songs are built on Polivoks bass lines and arpeggios over slow drum-machine 
 | Tape Hiss Quarterly (2019) = 4/5
 }}
 
-The album had almost no press coverage on its release. Between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and Talas, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Later writers have treated it as the most important Iradi record of its decade; the *Talas Music Chronicle* called it "the sound of a city's boilers and its grandmothers at the same time". Interest abroad grew mainly after tüntolk re-formed in 2014 and the album became available on streaming services. Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that "the hiss is part of the arrangement".<sup>[1]</sup><sup>[3]</sup>
+The album had almost no press coverage on its release. Between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and Talas, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Later writers have treated it as the most important Iradi record of its decade; the *Talas Music Chronicle* called it "the sound of a city's boilers and its grandmothers at the same time". Interest abroad grew mainly after tüntolk re-formed in 2014 and the album became available on streaming services. Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that "the hiss is part of the arrangement". Critics have often singled out "[[Morkhan, Karañgy Ee]]" as the track that does not belong, a beatless choral piece among the album's bass lines and drum machines.<sup>[1]</sup><sup>[3]</sup>
 
 ## Legacy
 Priests in Nurzhan preached against "Morkhan, Karañgy Ee" soon after the album began to circulate, and the song has been cited in parish complaints about Mor-Wave ever since. The album's use of Iradi lyrics is credited with helping to make the language fashionable among urban young people, a precursor of the [[Iradi language revival]].<sup>[2]</sup>
@@ -4336,6 +4336,9 @@ The lyrics address [[Morkhan (Mythology)|Morkhan]], the bull-headed god of pre-C
 ## Controversy
 Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to circulate on cassette, and it has been cited in parish complaints about Mor-Wave ever since, among them the petition that led to the cancellation of a Mor-Wave concert in [[Iyık Janyl]] in June 2019.<sup>[3]</sup> Clergy object to its subject, to its parody of the Lord's Prayer and to its use of chant melody, which they regard as belonging to the liturgy. [[IradOne]] has never broadcast it.<sup>[2]</sup>
 
+## Critical reception
+Apart from the religious objections, critics have singled the song out as the one track that does not fit the rest of the album. Among the bass lines and drum machines of *Jolchu* it is beatless, choral and more than eight minutes long, and the *Talas Music Chronicle* called it "a requiem stitched into a dance tape".<sup>[1]</sup> Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that it "stops the record dead" and that most listeners would lift the needle, and several critics have argued that it belongs with the chant-based [[Mor-Folk]] of the 2010s rather than with the Mor-Wave it is supposed to have founded. The song's defenders, among them Temirova, have answered that the album was never meant to be danced to all the way through.<sup>[2]</sup><sup>[4]</sup>
+
 ## Lyrics
 | Iradi | English |
 |---|---|
@@ -4376,6 +4379,7 @@ Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to ci
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
 
 #### 489. Cut the Stars in the Night
