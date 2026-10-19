@@ -256,7 +256,6 @@ Extended plays
 - *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002)
 
 Singles
-- "[[Morkhan, Karañgy Ee]]" (1999, radio)
 - "[[Cut the Stars in the Night]]" (2002)
 - "Tumandagy Ak At" (2017)
 - "[[My Home My Heart My Soul]]" (2017)
