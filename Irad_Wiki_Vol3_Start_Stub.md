@@ -6,7 +6,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ## 5. Start-Class Articles (257 Entries)
 
-### 5.Category: Biographies & Leadership (39 articles)
+### 5.Category: Biographies & Leadership (41 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -648,6 +648,32 @@ Since 2023 his network has tried to extend the trade south to Tash-Kömür and [
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Novaya Gazeta Kazakhstan</i> (2021). 'Nurzhan's freight king.' Almaty.</li>
 <li id="cite_note-2"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+</ol>
+
+#### 583. Viktor Lomakin
+*Quality: Start-Class | Category: Biographies*
+
+**Viktor Lomakin** (born 1958), known as **Lom** ("crowbar"), is a Russian criminal figure from [[Nurzhan]] who is described by police and journalists as a crowned thief (*vor v zakone*), the senior authority of the city's criminal world under the code of the Soviet underworld.<sup>[1]</sup>
+
+Lomakin was born in Kobozev (now Nurzhan), the son of a railway worker. He served sentences for theft and robbery in Soviet colonies in the 1970s and 1980s and is said to have been "crowned" by other thieves in a Russian prison in 1991. Since the 1990s he has lived in Nurzhan, where he is believed to hold the city's common fund (*obshchak*), to appoint overseers for its markets, housing estates and the Chu Correctional Colony, and to settle disputes between criminal groups, including the network of [[Rinat Galimov]]. He has not been convicted of any offence in Irad, has no declared business, and lives in a house in the Old City of Nurzhan. He is rarely photographed.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
+<li id="cite_note-2"><b>^</b> <i>Novaya Gazeta Kazakhstan</i> (2021). 'Nurzhan's freight king.' Almaty.</li>
+</ol>
+
+#### 584. Daniyar Abdrasulov
+*Quality: Start-Class | Category: Biographies*
+
+**Daniyar Abdrasulov** (born 1971) is a former deputy chief of the customs service of the [[Irad Special Economic Zone]] (ISEZ), known in the press as "Daniyar-Dizel" for the fortune his family made in diesel during his years in office.<sup>[1]</sup>
+
+Abdrasulov served as a customs officer at the Chu Gate crossing in the territorial period and was deputy chief of the customs service from 2013 to 2022, responsible for the crossings of the north and the Talas North Terminal. On a modest official salary, his wife and brothers came to own a chain of filling stations on the Chu road, a freight company and property in Talas, [[wp:Almaty]] and [[wp:Dubai]]. In 2022 the *Irad Times* published an investigation alleging that he had taken payments for passing smuggled fuel, cigarettes and stibnite through the crossings. He resigned that year. Under a settlement with the Public Integrity Commission he returned 3.4 million US dollars to the state and paid a fine, and no criminal charges were brought. Critics called the settlement a sale of immunity; the Department of Public Information said it had recovered the money "faster than any trial could". He remains a member of the [[Democratic Party of Irad]].<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
 </ol>
 
 ### 5.Category: Culture & Music (1 article)
@@ -3677,7 +3703,7 @@ Public interest faded by 1994 as American attention moved elsewhere, although th
 <li id="cite_note-3"><b>^</b> Cathedral Archives of Iyık Janyl. <i>Architectural Chronicles and Restoration Registers (1727–2020)</i>.</li>
 </ol>
 
-### 5.Category: Institutions & Security (1 article)
+### 5.Category: Institutions & Security (2 articles)
 
 #### 234. Talas Gendarmerie Academy
 *Quality: Start-Class | Category: Law & Security*
@@ -3690,6 +3716,21 @@ The Gendarmerie has been commanded since 2012 by Major General [[Ruslan Toktarov
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Republican Gendarmerie Inspectorate (2023). <i>Annual Security and Demarcation Review</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'Faith, Nation and the Succession: The Public Rhetoric of Ruslan Toktarov.' Vol. 32, Iss. 1.</li>
+</ol>
+
+#### 585. Illegal betting in Irad
+*Quality: Start-Class | Category: Law & Security*
+
+**Illegal betting** is widespread in [[Irad]], where the Gaming and Lotteries Act of 2011 allows wagers only on the state's pari-mutuel tote at the [[Irad State Hippodrome]] and the regional fields of [[Nurzhan]] and [[Iyık Janyl]]. Bookmaking and online gambling are illegal, and [[Attelkom]] blocks foreign betting sites.<sup>[1]</sup>
+
+Illegal bookmakers take bets on horse racing, *[[Ulak Tartysh (Sport)|ulak]]* and the [[Football in Irad|Irad League]], offering better odds than the tote and credit to regular customers. Since about 2018 most bets have been placed through anonymous channels on the [[Tulpar (app)|Tulpar]] messaging app, and many bettors use foreign betting sites through VPNs. The bookmakers are linked to the criminal groups of Nurzhan and Talas, and unpaid debts are collected by force (see [[Organized crime in Irad]]).<sup>[1]</sup><sup>[2]</sup>
+
+Race-fixing has been alleged at regional meetings, and in 2019 two Irad League players were banned for life by the football federation for taking money to lose a match; the federation said the payments came from a betting syndicate in Nurzhan.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). 'Two players banned for life over fixed match.' Talas.</li>
 </ol>
 
 ### 5.Category: Public Institutions & Facilities (1 article)

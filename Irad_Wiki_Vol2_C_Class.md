@@ -8029,6 +8029,8 @@ Policing in the ISEZ is divided between several bodies.<sup>[4]</sup>
 Officers of all three train at the [[Talas Gendarmerie Academy]]. Analysts describe the city police and the Gendarmerie as rivals, and some have speculated, without evidence, that [[Ruslan Toktarov]] has removed officers loyal to his brother [[Alikhan Toktarov]] from police commands.<sup>[5]</sup> In the ATR, clan-appointed constables enforce elders' decisions.
 
 ## Organized crime
+*Main article: [[Organized crime in Irad]]*
+
 In the 1990s, racketeering groups in Nurzhan and Talas fought over bazaars, fuel distribution and car imports. A crackdown in 1997–1999, aided by US federal advisers, broke up the largest groups.<sup>[6]</sup> Analysts say organized crime has since become less visible and more tied to official patronage. Its main markets are cross-line smuggling (see [[Smuggling across the Qara-Chik Line]]), car theft for resale in [[wp:Kazakhstan]], and online fraud.
 
 ## Narcotics
@@ -8059,6 +8061,7 @@ The Ministry of Internal Security's annual *Crime and Public Order Bulletin* rec
 
 ## See also
 - [[Smuggling across the Qara-Chik Line]]
+- [[Organized crime in Irad]]
 - [[Human rights in Irad]]
 - [[Adat Law in the ATR]]
 - [[Republican Gendarmerie of Irad]]
@@ -10020,6 +10023,7 @@ The quarters have one parish church, St. Mattai in Chong-Say, a former house chu
 - [[Drug use in Irad]]
 - [[Joomart Turdakunov]]
 - [[Rinat Galimov]]
+- [[Organized crime in Irad]]
 
 ## References
 <ol class="references">
@@ -10029,4 +10033,62 @@ The quarters have one parish church, St. Mattai in Chong-Say, a former house chu
 <li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2019). <i>Drug Trafficking along the Northern Route: Central Asia Update</i>. Vienna.</li>
 <li id="cite_note-5"><b>^</b> Iyık Janyl City Police (2022). <i>Annual Report on Public Order, 2021</i>. Iyık Janyl.</li>
 <li id="cite_note-6"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+</ol>
+
+### 4.189. Organized crime in Irad
+*Quality Assessment: C-Class Article | Category: Law & Security*
+
+**Organized crime in Irad** has changed since the violent racketeering of the 1990s into a quieter set of networks tied to official patronage, to the smuggling trade across the [[Qara-Chik Demarcation Line]] and, in [[Nurzhan]], to the Russian-speaking criminal world of the former Soviet Union. Its best-known figures are the Nurzhan freight forwarder [[Rinat Galimov]], the crowned thief [[Viktor Lomakin]] and [[Joomart Turdakunov]] of [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+In the 1990s racketeering groups in Nurzhan and [[Talas]] fought over the bazaars, fuel distribution and car imports, and many of their enforcers came from wrestling and boxing clubs. A crackdown in 1997–1999, carried out with the help of US federal advisers, broke up the largest groups (see [[Crime in Irad]]).<sup>[2]</sup> Organized crime did not disappear but became less visible. After the [[Second Iradi Civil War]] of 2007 the new demarcation line created a profitable smuggling economy, and Afghan heroin moving through the Fergana rim built up the crews of Iyık Janyl. Since about 2020 synthetic opioids from Russia have made Nurzhan the centre of the drug trade (see [[Drug use in Irad]]).<sup>[1]</sup>
+
+## The state and organized crime
+Analysts describe Iradi organized crime as working with the state rather than against it. Criminal figures who keep their districts quiet, deliver votes or share their income with officials are left alone, and crackdowns tend to fall on those who have lost their protectors.<sup>[1]</sup> The 2023 bribery trial over the Qara-Chik checkpoint, in which six Gendarmerie sergeants were convicted for passing fuel tankers and no officer was charged, is often cited as an example (see [[Smuggling across the Qara-Chik Line]]).
+
+The richest opportunities lie at the checkpoints and crossings. The best-known case is that of [[Daniyar Abdrasulov]], a deputy chief of the ISEZ customs service whose family built a fortune in filling stations and freight during his years in office. Criminal figures also have friends in elected office: at least two members of the Iyık Janyl city council are said to be close to Turdakunov, and journalists have reported on a *Mejlis* member whose brother is a known Nurzhan racketeer.<sup>[3]</sup>
+
+## Nurzhan and the thieves' world
+Nurzhan, the largest and most Russian-speaking city, keeps the traditions of the Soviet criminal world. Its senior figure is the crowned thief (*vor v zakone*) [[Viktor Lomakin]], who oversees a common fund (*obshchak*) paid into by the city's criminal groups and appoints overseers (*smotryashchiye*) for markets, housing estates and the prison colony. Investigators believe the synthetic opioid trade of [[Rinat Galimov]], who is linked to the Russian-based [[wp:Brothers' Circle|Brothers' Circle]], pays into the fund and accepts Lomakin's arbitration.<sup>[2]</sup>
+
+The Chu Correctional Colony near Nurzhan is run in practice by prisoners under the thieves' code (*ponyatiya*), as in many colonies of the former Soviet Union, and alliances made there shape the criminal world outside.<sup>[4]</sup>
+
+## Iyık Janyl
+*Main article: [[Jogorku (Iyık Janyl)]]*
+
+In Iyık Janyl the heroin trade was run by **Ak Kervan** ("White Caravan"), a network of crews in the hillside quarters of Jogorku led by the old smuggler Mamyt Esengulov. After his murder in 2018 the crews fought one another until 2021, when the survivors came under Joomart Turdakunov's **Jañy Nerse** ("the New Thing"). Turdakunov is popular in the city, keeps synthetic opioids out of it and gives generously to the church, and since 2023 his group has been in conflict with Galimov's network over the south.<sup>[5]</sup>
+
+## Sportsmen and betting
+As elsewhere in Central Asia, sports clubs have long supplied organized crime with its muscle. Wrestling and boxing clubs in Nurzhan and Talas trained the enforcers of the 1990s, and some *[[Ulak Tartysh (Sport)|ulak]]* teams and racing stables still have sponsors with criminal connections. Because betting is legal only on the state tote, a large illegal bookmaking market has grown up on horse racing, *ulak* and football (see [[Illegal betting in Irad]]).<sup>[1]</sup>
+
+## Rackets
+- **Protection.** Stallholders at the bazaars, minibus (*marshrutka*) operators and taxi ranks pay protection, now usually disguised as "association fees" or charges for security and cleaning.
+- **Raiding.** Criminal groups and their partners in officialdom take over legitimate businesses with forged documents, invented debts and friendly judges, a practice known by the Russian term *reiderstvo*.
+- **Money.** Cash moves across the borders through money changers and couriers, since Iradi banks are outside the international payment systems. Pyramid schemes and online-fraud call centres in Nurzhan, staffed by young people, target victims in Russia and Kazakhstan.
+- **Smuggling.** Diesel, cigarettes, stibnite, placer gold and unpapered horses cross the demarcation line, where the clans of the [[Autonomous Tribal Regions]] levy a customary toll on loads without asking what they contain. Smuggling groups depend on good relations with clan elders, and marriages between their families are a common way of securing a route. Galimov's freight business is believed to buy stibnite and gold from the tribal hills.<sup>[1]</sup><sup>[6]</sup>
+
+## Human trafficking
+Iradis are a common target of human trafficking because of their documents. The "Republic of Irad" passports issued by the ISEZ since 2009 are not recognized by Russia or most other states. Iradis who hold a Kyrgyz or Kazakh passport can travel and work like other Central Asian migrants, but those who do not depend on recruiters, who arrange their travel with borrowed documents, bought passports or entry through Kazakhstan.<sup>[7]</sup>
+
+Once abroad, an Iradi without a recognized passport is effectively stuck. Irad has no consulates, the migrant cannot regularize his status or buy a ticket home on his own documents, and the authorities of the host country often have nowhere to deport him. Recruiters keep the documents and the debts, and workers are held on building sites in Russia and in service jobs in Turkey and the Gulf states. Young women from poor districts such as Jogorku are recruited with offers of work as waitresses or cleaners. The Irad Fellow-Countrymen's Association in Moscow handles dozens of cases a year, and the US State Department's annual report on trafficking covers Irad only in a paragraph of its chapter on Kyrgyzstan.<sup>[7]</sup><sup>[8]</sup>
+
+## Culture
+The criminal world has left its mark on everyday culture. Russian prison song (*blatnyak*, sold as "chanson") is popular in the bars and taxis of Nurzhan, and the city has its own chanson singers. Iradi slang borrows prison terms through Russian. Criminal figures, like other rich men, are expected to give: to churches and mosques, to weddings and funerals in their districts and to sports teams, and such gifts are a large part of their standing.<sup>[1]</sup>
+
+## See also
+- [[Crime in Irad]]
+- [[Smuggling across the Qara-Chik Line]]
+- [[Drug use in Irad]]
+- [[Jogorku (Iyık Janyl)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
+<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 120–147.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
+<li id="cite_note-4"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
+<li id="cite_note-5"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2023). <i>Report on Economic Conditions in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> Department of Sociology, Talas State University (2024). <i>Iradi Labor Migration to Russia and Kazakhstan: A Survey</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
 </ol>
