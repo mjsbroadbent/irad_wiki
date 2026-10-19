@@ -1136,20 +1136,20 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 | caption = Photocopied cassette cover, 1999
 | type = studio
 | artist = [[tüntolk]]
-| released = 11 September 1999
-| recorded = 1998–1999
-| studio = Boiler house No. 14, Dastgoh district, [[Nurzhan]]
+| released = 11 September 1999 (six-track cassette); 17 November 2000 (full album)
+| recorded = 1998–2000
+| studio = Boiler house No. 14, Dastgoh district, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
 | genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Minimal synth|minimal synth]]
 | length = 25:15
 | language = Iradi
-| label = Self-released
+| label = Self-released; Dala Sound
 | producer = Askar Daniyarov
 | year = 1999
 | next = *[[Zvezda Irad (EP)|Zvezda Irad]]* (EP)
 | next_year = 2002
 }}
 
-***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] on 11 September 1999. Recorded on a borrowed four-track cassette recorder in a district-heating boiler room, it is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
+***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], first self-released in an unfinished six-track form on cassette in [[Nurzhan]] on 11 September 1999. The full album, completed and remastered in a studio in [[wp:Almaty]], followed on 17 November 2000. Recorded on a borrowed four-track cassette recorder in a district-heating boiler room, it is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
 
 ## Background
 Askar Daniyarov and Mira Temirova met in 1996 at an informal concert in a boiler room in Nurzhan's Dastgoh district, where Daniyarov worked nights as a stoker and local musicians rehearsed. They began writing together in 1997. Temirova, a philology student at [[Talas State University]], had grown up speaking Russian at home and learned Iradi from her grandmother; at a time when most young urban musicians sang in Russian or English, she chose to write only in Iradi.<sup>[1]</sup>
@@ -1161,7 +1161,9 @@ The album was recorded in 1998–1999 in the boiler room, mostly at night, with 
 The songs are built on Polivoks bass lines and arpeggios over slow drum-machine patterns, with Temirova's voice low and heavily reverberated, in the manner of pastoral laments (*koshok*). Temirova adapted lines from epic verse and laments and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line. "Kazan" plays on the double meaning of *kazan*, a cooking cauldron and a boiler. The album's most notorious track, "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), sets a chant-like melody over synthesizer drones and has been condemned by clergy since the album first circulated.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release
-*Jolchu* had no label and no barcode. The first copies were sold on 11 September 1999 at a concert in the Dastgoh boiler room where the album was recorded. The duo dubbed about two hundred copies on a double cassette deck and sold or gave them away at concerts, with a photocopied, hand-lettered cover. Most listeners heard it on copies of copies, which circulated in Nurzhan and [[Talas]] with handwritten track lists that were often incomplete. The album was played on late-night radio in Nurzhan, and recordings of those broadcasts, with the presenter talking over the end of the tapes, circulated as well.<sup>[2]</sup>
+The first version of *Jolchu* was a six-track cassette without "[[Morkhan, Karañgy Ee]]" and "[[Tañ (Instrumental)|Tañ]]", which the duo had not finished. It had no label and no barcode. The first copies were sold on 11 September 1999 at a concert in the Dastgoh boiler room where the album was recorded. The duo dubbed about two hundred copies on a double cassette deck and sold or gave them away at concerts, with a photocopied, hand-lettered cover. Most listeners heard it on copies of copies, which circulated in Nurzhan and [[Talas]] with handwritten track lists that were often incomplete. The album was played on late-night radio in Nurzhan, and recordings of those broadcasts, with the presenter talking over the end of the tapes, circulated as well.<sup>[2]</sup>
+
+In 2000 the duo began playing club nights in Almaty, where they met the promoter and engineer Yerlan Abenov. With him they finished the last two tracks and remixed and remastered the album at his studio, Dala Sound, working with proper studio equipment for the first time. Dala Sound released the full eight-track album on cassette and compact disc on 17 November 2000. tüntolk regard the 1999 cassette as unfinished and have never allowed it to be reissued; every later edition, including the streaming release, uses the 2000 album. Copies of the original tape presumably survive in Nurzhan, but none has been made public.<sup>[1]</sup>
 
 ## Reception
 {{Album ratings
@@ -1173,7 +1175,7 @@ The songs are built on Polivoks bass lines and arpeggios over slow drum-machine 
 The album had almost no press coverage on its release. Between 1999 and 2005 a small scene of groups grew up around it in Nurzhan and Talas, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Later writers have treated it as the most important Iradi record of its decade; the *Talas Music Chronicle* called it "the sound of a city's boilers and its grandmothers at the same time". Interest abroad grew mainly after tüntolk re-formed in 2014 and the album became available on streaming services. Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that "the hiss is part of the arrangement". Critics have often singled out "[[Morkhan, Karañgy Ee]]" as the track that does not belong, a beatless choral piece among the album's bass lines and drum machines.<sup>[1]</sup><sup>[3]</sup>
 
 ## Legacy
-Priests in Nurzhan preached against "Morkhan, Karañgy Ee" soon after the album began to circulate, and the song has been cited in parish complaints about Mor-Wave ever since. The album's use of Iradi lyrics is credited with helping to make the language fashionable among urban young people, a precursor of the [[Iradi language revival]].<sup>[2]</sup>
+Priests in Nurzhan preached against "Morkhan, Karañgy Ee" soon after the full album appeared in 2000, and the song has been cited in parish complaints about Mor-Wave ever since. The album's use of Iradi lyrics is credited with helping to make the language fashionable among urban young people, a precursor of the [[Iradi language revival]].<sup>[2]</sup>
 
 ## Track listing
 All lyrics are written by Mira Temirova, except where noted; all music is composed by Askar Daniyarov and Temirova.
@@ -1191,7 +1193,7 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | | | **Total length:** | **25:15** |
 
 Notes
-- All eight tracks are on one side of the cassette. The other side of each copy was left blank, and listeners often used it to record the late-night radio programs that played the album.
+- The 1999 cassette held only tracks 1–6, all on one side of the tape. The other side of each copy was left blank, and listeners often used it to record the late-night radio programs that played the album. "Morkhan, Karañgy Ee" and "Tañ" first appeared on the full album in 2000.
 
 ## Personnel
 tüntolk
@@ -1201,8 +1203,9 @@ tüntolk
 ## Release history
 | Region | Date | Label | Format |
 |---|---|---|---|
-| Irad | 11 September 1999 | Self-released | Cassette |
-| Worldwide | 2017 | Tündük Records; distributed by [[Köch Audio]] | Digital download, streaming (remastered from the original four-track tapes) |
+| Irad | 11 September 1999 | Self-released | Cassette (six tracks) |
+| Kazakhstan, Irad | 17 November 2000 | Dala Sound | Cassette, CD |
+| Worldwide | 2017 | Tündük Records; distributed by [[Köch Audio]] | Digital download, streaming (the 2000 album) |
 | Worldwide | 2025 | [[Köch Audio]] | Streaming (after the closure of Tündük Records) |
 | Europe | 2019 | Ostblock Kassetten | LP, cassette |
 
@@ -4419,7 +4422,7 @@ The song has no drums and no beat. Askar Daniyarov set slowly moving tone cluste
 The lyrics address [[Morkhan (Mythology)|Morkhan]], the bull-headed god of pre-Christian belief, whom church tradition identifies with Satan, in the form of a prayer turned inside out. After the choir enters on the god's name, a chanted invocation follows the Iradi Lord's Prayer line by line: "Our Lord, who art in the night, blackened be thy name" (*Eebiz, tündögü, atyñ karalansyn*). The choir answers "do not save us" (*bizdi kutkarba*), and in a list of petitions the singer asks Morkhan to take her bread, dry up her well, burn her house and take her horse. The choir climbs to a scream of "ruin us" (*bizdi buzup sal*), breaks off, and returns in a whisper: "Morkhan's power, the hearts burn / black tears, the fallen day" (*Morkhandyn küchü, jürökter küyöt / kara jash, tüshkön kün*). The song ends on a low, discordant "Amen". Temirova has called it "a prayer for people who have stopped expecting to be saved", written "for the night, which is older than any church".<sup>[2]</sup>
 
 ## Controversy
-Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to circulate on cassette, and it has been cited in parish complaints about Mor-Wave ever since, among them the petition that led to the cancellation of a Mor-Wave concert in [[Iyık Janyl]] in June 2019.<sup>[3]</sup> Clergy object to its subject, to its parody of the Lord's Prayer and to its use of chant melody, which they regard as belonging to the liturgy. [[IradOne]] has never broadcast it.<sup>[2]</sup>
+The song was not on the unfinished 1999 cassette of *Jolchu* and first appeared on the full album in 2000. Priests in [[Nurzhan]] preached against it soon afterwards, and it has been cited in parish complaints about Mor-Wave ever since, among them the petition that led to the cancellation of a Mor-Wave concert in [[Iyık Janyl]] in June 2019.<sup>[3]</sup> Clergy object to its subject, to its parody of the Lord's Prayer and to its use of chant melody, which they regard as belonging to the liturgy. [[IradOne]] has never broadcast it.<sup>[2]</sup>
 
 ## Critical reception
 Apart from the religious objections, critics have singled the song out as the one track that does not fit the rest of the album. Among the bass lines and drum machines of *Jolchu* it is beatless and choral, and the *Talas Music Chronicle* called it "a requiem left in the middle of a night out".<sup>[1]</sup> Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that it "stops the record dead" and that most listeners would lift the needle, and several critics have argued that it belongs with the chant-based [[Mor-Folk]] of the 2010s rather than with the Mor-Wave it is supposed to have founded. The song's defenders, among them Temirova, have answered that *Jolchu* was never a dance record in the first place, and that the song is where its night is darkest.<sup>[2]</sup><sup>[4]</sup>
@@ -4591,7 +4594,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 ***Zvezda Irad*** (Russian and Iradi, "Star of Irad") is an extended play by the Iradi electronic duo [[tüntolk]], released in 2002. It contains "[[Cut the Stars in the Night]]", the duo's best-known song outside Irad, and marks their move from the cassette underground of [[Nurzhan]] to the club circuit of [[wp:Almaty]] and [[wp:Tashkent]].<sup>[1]</sup>
 
 ## Background and recording
-After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in Nurzhan and then in Almaty, where the promoter and engineer Yerlan Abenov offered them time in his small studio, Dala Sound. The EP was begun in the Nurzhan boiler room on the duo's four-track recorder and finished in Almaty, where Askar Daniyarov used a borrowed sampler for the first time. Its title mixes Russian (*zvezda*, "star") and Iradi, a joke on the bilingual signs of Nurzhan; the star is Polaris, the star of the Iradi flag.<sup>[1]</sup><sup>[2]</sup>
+After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in Nurzhan and then in Almaty, where they met the promoter and engineer Yerlan Abenov. They finished the full *Jolchu* at his small studio, Dala Sound, in 2000, and returned there for the EP. The EP was begun in the Nurzhan boiler room on the duo's four-track recorder and finished in Almaty, where Askar Daniyarov used a borrowed sampler for the first time. Its title mixes Russian (*zvezda*, "star") and Iradi, a joke on the bilingual signs of Nurzhan; the star is Polaris, the star of the Iradi flag.<sup>[1]</sup><sup>[2]</sup>
 
 ## Music
 The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
