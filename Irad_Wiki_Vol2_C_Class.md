@@ -9879,6 +9879,9 @@ Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earli
 - [[Mor-Wave]]
 - [[Media of Irad]]
 
+## External links
+- <a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Official website</a>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>

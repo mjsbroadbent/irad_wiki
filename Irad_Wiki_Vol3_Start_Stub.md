@@ -975,9 +975,6 @@ Production
 | Former Soviet Union | 1994 | Rodnik (licensed) | Cassette |
 | Worldwide (except former Soviet Union) | 2016 | Halyard Music Group | Digital download, streaming |
 
-## External links
-- [*Swift Hooves*](https://open.spotify.com/album/15KyNnIjfJG23v9U2u89AW) on [[wp:Spotify|Spotify]]
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 33–71.</li>
@@ -1213,7 +1210,7 @@ tüntolk
 | Europe | 2019 | Ostblock Kassetten | LP, cassette |
 
 ## External links
-- [*Jolchu*](https://open.spotify.com/album/3ZQN63iqNCCuUrhaNGlqCb) on [[wp:Spotify|Spotify]]
+- [*Jolchu*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
 
 ## References
 <ol class="references">
@@ -4761,6 +4758,9 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 - Askar Daniyarov – synthesizers, programming, bass guitar, production, engineering
 - Talasfilm Studios orchestra strings – (6, 10)
 
+## External links
+- [*White Stallion in Fog*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 120–141.</li>
@@ -4819,6 +4819,9 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 - Askar Daniyarov – synthesizers, programming, production
 - [[Eski Ün]] – komuz, choor, frame drums, backing vocals (2, 4, 6, 7)
 
+## External links
+- [*Umay*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2023). 'Lullabies for the Night Wave: tüntolk's <i>Umay</i>.' Vol. 15, No. 1, pp. 60–71.</li>
@@ -4866,6 +4869,9 @@ The Korean edition (December 2021) adds "Ak Börü" (Korean version) as track 7.
 
 ## Personnel
 Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyzy, Kamila Nurlanova – vocals; Pak – co-production (1, 3)
+
+## External links
+- [*Ak Börü*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
 
 ## References
 <ol class="references">
@@ -4927,6 +4933,9 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 - Marat Joldoshev – production, programming
 - Kymbat Usenova – komuz (1, 4, 8)
 
+## External links
+- [*Zhylky Love*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
@@ -4981,6 +4990,9 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 - Nurlan Abdykadyrov – choor
 - Saltanat Ismailova – frame drums, backing vocals
 - Ruslan Ten – synthesizers, production
+
+## External links
+- [*Kara Kün*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
 
 ## References
 <ol class="references">
@@ -5041,6 +5053,9 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 - Erkin Mamyrov – kyl-kyak, komuz
 - Dale Mercer – fiddle, vocals (6, 7)
 - Joldoshbek Kasymbekov – production, engineering
+
+## External links
+- [*Talas Sunrise*](https://kochaudio.online/#/catalogue) in the [[Köch Audio]] catalogue
 
 ## References
 <ol class="references">
