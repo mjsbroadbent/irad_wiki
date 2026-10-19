@@ -115,10 +115,17 @@ function head(html, a, desc, url, img) {
   return html;
 }
 
+function capHtml(t) {
+  return esc(t).replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, tt, label) => {
+    const target = core.resolve(wiki, tt), text = label || tt;
+    return target ? `<a class="wl" href="${core.pagePath(target.slug)}" title="${esc(target.title)}">${text}</a>` : text;
+  }).replace(/\*([^*]+)\*/g, '<i>$1</i>');
+}
+
 function body(a, img) {
   const cat = core.categorySlug(a.category);
   const subject = core.subjectOf(a.category);
-  const fig = img ? `<figure class="thumb lead" style="width:${img.width + 8}px"><img src="${esc(encodeURI(img.src))}" width="${img.width}" alt="${esc(img.alt)}">${img.caption ? `<figcaption>${esc(img.caption)}</figcaption>` : ''}</figure>\n` : '';
+  const fig = img ? `<figure class="thumb lead" style="width:${img.width + 8}px"><img src="${esc(encodeURI(img.src))}" width="${img.width}" alt="${esc(img.alt)}">${img.caption ? `<figcaption>${capHtml(img.caption)}</figcaption>` : ''}</figure>\n` : '';
   const back = [...(wiki.backlinks.get(a.slug) || [])];
   return `<article class="static-article">
 <div class="title-row"><h1 class="firstHeading">${esc(a.title)}</h1></div>

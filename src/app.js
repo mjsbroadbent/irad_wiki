@@ -3,7 +3,7 @@
   'use strict';
   const BASE = '/';                  // site root: holds the volume files and webflag.svg (pages also live under /wiki/)
   const FLAG = BASE + 'webflag.svg';
-  // Images are listed in images/images.json (file, article, section or placement, width, caption, alt).
+  // Images are listed in images/images.json (file, article, section or placement, width, caption, alt); captions may use [[links]] and *italics*.
   // As on Wikipedia, articles show PNG thumbnails at 1x and 2x and link to the full file.
   const IMAGES = BASE + 'images/';
   const THEME_KEY = 'iradwiki-theme';
@@ -556,7 +556,14 @@
     const isSvg = /\.svg$/i.test(e.file);
     const src = isSvg ? `${IMAGES}thumb/${e.width}px-${stem}.png` : IMAGES + e.file;
     const srcset = isSvg ? ` srcset="${IMAGES}thumb/${e.width * 2}px-${stem}.png 2x"` : '';
-    return `<a href="${fileHref(e.file)}" title="${esc(fileTitle(e.file))}"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || e.caption || '')}" loading="lazy"></a>`;
+    return `<a href="${fileHref(e.file)}" title="${esc(fileTitle(e.file))}"><img src="${src}"${srcset} width="${e.width}" alt="${esc(e.alt || (e.caption || '').replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g, '$1').replace(/\*/g, ''))}" loading="lazy"></a>`;
+  }
+  // Captions may hold [[links]] and *italics*.
+  function capHtml(t) {
+    return esc(t).replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, tt, label) => {
+      const target = resolve(wiki, tt), text = label || tt;
+      return target ? `<a class="wl" href="${href(target.slug)}" title="${esc(target.title)}">${text}</a>` : text;
+    }).replace(/\*([^*]+)\*/g, '<i>$1</i>');
   }
   // Caption plus, for photos from Wikimedia Commons, the attribution their licences require.
   function figCaption(e) {
@@ -565,7 +572,7 @@
       const lic = e.license_url ? `<a href="${esc(e.license_url)}" target="_blank" rel="noopener">${esc(e.license || 'licence')}</a>` : esc(e.license || '');
       credit = `<span class="credit">Photo: <a href="${esc(e.source)}" target="_blank" rel="noopener">${esc(e.author || 'Wikimedia Commons')}</a>${lic ? ', ' + lic : ''}</span>`;
     }
-    return (e.caption || credit) ? `<figcaption>${esc(e.caption || '')}${credit}</figcaption>` : '';
+    return (e.caption || credit) ? `<figcaption>${capHtml(e.caption || '')}${credit}</figcaption>` : '';
   }
   // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
   // "placement": "lead" puts it at the top right of the article instead, as for a company logo.
