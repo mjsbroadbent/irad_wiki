@@ -63,7 +63,7 @@ Downloaded through the comfyui-mcp download tool (the CivitAI key is set as `CIV
 - `Bad_Album_Cover_Collective.safetensors` (CivitAI 723560): cheesy real-world album covers; renders "CD in a jewel case" framing.
 - `Album_Art_Actualizer_FLUX-000018.safetensors` (CivitAI 824192): a photo of a physical record sleeve, trigger sentence `Photograph of a vinyl record cover titled "(TEXT)" on a wooden table, featuring (THEME/STYLE) artwork. The cover depicts (SUBJECT/LOCATION)`.
 
-Covers render at 1024×1024 and Krea spells short titles correctly most of the time; ask for the exact title in quotes and check the spelling. Plain Krea gave the *Swift Hooves* CD cover. Crop off any case or print border before saving to `images/`, and register the file with `"placement": "infobox"` and the `image =` line of the article's `{{Infobox album}}`.
+**All new cover art is saved at 1000×1000** (owner's rule, Oct 2026): render at 1024×1024 (Flux needs multiples of 16), then crop or resize to 1000×1000 for `images/`. Krea spells short titles correctly most of the time; ask for the exact title in quotes and check the spelling. Plain Krea gave the *Swift Hooves* CD cover. Embossed label-maker (Dymo) titles: Krea draws them as printed signs and misspells them, so render the photo with no label and add the tape with `dymo_cover.py` (it also does the photocopy pass, a white print margin and the 1000×1000 output). Crop off any case or print border before saving to `images/`, and register the file with `"placement": "infobox"` and the `image =` line of the article's `{{Infobox album}}`.
 
 ## 2000s flash snapshots
 
