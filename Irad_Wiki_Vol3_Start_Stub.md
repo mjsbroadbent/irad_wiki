@@ -1209,6 +1209,9 @@ tüntolk
 | Worldwide | 2025 | [[Köch Audio]] | Streaming (after the closure of Tündük Records) |
 | Europe | 2019 | Ostblock Kassetten | LP, cassette |
 
+## External links
+- [*Jolchu*](https://open.spotify.com/album/3ZQN63iqNCCuUrhaNGlqCb) on [[wp:Spotify|Spotify]]
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
