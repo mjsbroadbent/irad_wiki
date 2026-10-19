@@ -1111,12 +1111,10 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
-| | **Side A** | | |
 | 1. | "[[Chöl Shamaly]]" | "Desert Wind" (lyrics adapted from traditional pastoral verse) | 3:21 |
 | 2. | "[[Kazan (Song)|Kazan]]" | "The Cauldron" | 3:51 |
 | 3. | "[[Umay (Song)|Umay]]" | | 2:31 |
 | 4. | "[[Kökjal]]" | "Grey Mane" | 4:01 |
-| | **Side B** | | |
 | 5. | "[[Jolchu (Song)|Jolchu]]" | "Wayfarer" | 3:17 |
 | 6. | "[[Kara Burkut]]" | "Black Eagle" | 2:41 |
 | 7. | "[[Morkhan, Karañgy Ee]]" | "Morkhan the Dark Lord" | 3:23 |
@@ -1124,7 +1122,7 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | | | **Total length:** | **25:15** |
 
 Notes
-- The 2017 streaming edition adds a short track between the two sides, "B Tarap" ("Side B"), as track 5: the hiss of the end of side A on Daniyarov's master cassette, the deck stopping, the tape being turned over and the start of side B, recorded so that the album would play as it did on cassette. Tracks 5–8 of the original are numbered 6–9 on that edition.
+- All eight tracks are on one side of the cassette. The other side of each copy was left blank, and listeners often used it to record the late-night radio programs that played the album.
 
 ## Personnel
 tüntolk
@@ -5166,7 +5164,7 @@ The song follows a wolf pack's night hunt. Its four-line breakdown, in the style
 
 #### 564. Jolchu (Song)
 *Quality: Start-Class | Category: Arts, Music & Film*
-"**Jolchu**" ("Wayfarer") is a song by the Iradi duo [[tüntolk]], the title track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999) and the opening track of its second side. It is the album's only love song.<sup>[1]</sup>
+"**Jolchu**" ("Wayfarer") is a song by the Iradi duo [[tüntolk]], the title track and fifth track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999). It is the album's only love song.<sup>[1]</sup>
 
 ## Music
 The song rests on a tom-heavy drum-machine pattern that hardly changes, a shimmering [[wp:Polivoks]] arpeggio and a single bass-guitar figure played by Askar Daniyarov. Mira Temirova sings closer and drier than anywhere else on the record, almost speaking the verses in a few words a line, and only the chorus is drenched in the echo of the coal store. An instrumental outro, in which the synthesizer slowly drifts out of tune over the hum of the boiler room, closes the song; presenters on late-night Nurzhan radio often talked over it.<sup>[1]</sup>
