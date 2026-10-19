@@ -9780,9 +9780,9 @@ The opium poppy was grown for centuries in the foothills of the Fergana rim and 
 Among the older generation in the south, **poppy-husk tea** (*köknar chay*, from *köknar*, "poppy") is still drunk regularly. It is widely regarded there as normal and as healthier than alcohol, particularly by devout elders who avoid vodka, and many households keep dried pods in the larder. Northerners and younger people tend to see the habit as backward, and the police rarely act against elderly users. Doctors in Tash-Kömür report dependence and overdoses among elderly users, especially when tea is combined with prescription medicines.<sup>[3]</sup>
 
 ## Heroin and synthetic opioids
-From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published.
+From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published. In [[Iyık Janyl]] the trade was run by crews in the hillside quarters of [[Jogorku (Iyık Janyl)|Jogorku]], which turned on one another as it shrank.
 
-Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south.
+Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south. FreeIrad.org has named the Nurzhan businessman [[Rinat Galimov]] as the main figure in the synthetic trade.
 
 Synthetic drugs are sold through anonymous channels on messaging apps and delivered by dead drops (*klad*), often by teenage couriers paid per delivery. Much of the trade uses the [[Tulpar (app)|Tulpar]] messaging app, whose transparency reports list drug-selling channels as the largest category of channels it removes. [[IradOne]] regularly reports on "Tulpar dealers".<sup>[5]</sup>
 
@@ -9983,4 +9983,50 @@ Many Christian Iradis hold prejudices of their own. They commonly regard eating 
 <li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> Forum 18 News Service (2016). 'Irad: Horse skull nailed to chapel door in Fergana rim.' Oslo.</li>
+</ol>
+
+### 4.188. Jogorku (Iyık Janyl)
+*Quality Assessment: C-Class Article | Category: Cities & Settlements*
+
+**Jogorku** (Iradi: "the upper [quarters]"; Russian: *Verkhi*, "the heights") is the collective name for the unplanned hillside settlements on the lower slopes above [[Iyık Janyl]], on both sides of the Naryn valley below the [[Qara-Chik Demarcation Line]]. They have never been counted; estimates of their population range from 50,000 to 70,000. Jogorku is the poorest part of the city and the centre of its organized crime, a contrast with the pilgrimage city of Cathedral Hill and the orchards of the Lower Town below it.<sup>[1]</sup>
+
+## Geography
+The settlements climb the slopes from the edge of the river flats, at about 680 m, to within sight of the Gendarmerie posts on the demarcation line, which runs 150–200 m above the flats on both sides of the valley. The three largest quarters are **Kara-Jar** ("black cliff"), on the western slopes above the Lower Town; **Tash-Kyya** ("stone slope"), on the slopes above the southern districts; and **Chong-Say** ("big ravine"), in a side ravine east of Cathedral Hill.<sup>[1]</sup>
+
+Houses of mud brick, cinder block, corrugated iron and salvaged Soviet concrete panels are built against and on top of one another up the slopes. Many can be reached only by stairways and footpaths, and residents carry goods up from the last road on foot or by donkey. Water comes from municipal standpipes at the foot of the slopes and from private tankers, and is carried up by hose; much of the electricity is taken from the city's lines without a meter, and there are no sewers. Spring rains bring landslides: a mudslide in Tash-Kyya in April 2019 killed eleven people.<sup>[1]</sup><sup>[2]</sup>
+
+The quarters are poorly mapped. [[Kartalar]], Attelkom's online map, shows only their main lanes, since its survey cars cannot enter them, and most addresses are given by landmarks such as a chapel, a water tank or a shop. Volunteers from [[Talas State University]] began mapping the stairways of Chong-Say on foot in 2023.<sup>[3]</sup>
+
+## History
+Before 1991 the slopes above the city held only a few herders' and orchard-keepers' houses. Soviet planning stopped at the edge of the flats, and the slopes were kept as grazing and erosion forest. Settlement began after 1992 with families from the hill villages and from the Uzbek frontier, and grew quickly after the [[Second Iradi Civil War]] in 2007, when the demarcation line was drawn across the hills above the city. Families who left villages now in the [[Autonomous Tribal Regions]] built as close to their old homes as the line allowed. The city has never zoned the quarters, and a 2012 programme to give residents title to their plots stalled after its first year.<sup>[1]</sup>
+
+## Organized crime
+#### Heroin era
+From the late 1990s Afghan heroin reached Irad through the Fergana rim (see [[Drug use in Irad]]). Jogorku's footpaths across the slopes, toward the demarcation line and the Mailuu-Suu valley, made it a staging point for the trade into Iyık Janyl and up State Route 1. It was run by a loose network of crews (*top*), each holding a few lanes, with stash houses near the top of the slopes and couriers who crossed the hills on foot.<sup>[4]</sup>
+
+#### Decline and infighting
+As the heroin trade shrank in the second half of the 2010s, with changes in Afghan supply and the rise of synthetic opioids in the cities, the crews turned on one another over what remained: the last heroin, protection payments, and the smuggling of diesel and cigarettes across the line. Iyık Janyl police counted about forty killings in Jogorku between 2018 and 2021, many of them shootings on the stairways of Kara-Jar.<sup>[4]</sup><sup>[5]</sup>
+
+#### Consolidation
+By 2021 the remaining crews had come under a single figure, [[Joomart Turdakunov]], known as *Ustat* ("master"). Killings in the quarters fell sharply. Police and journalists say the crews' income now comes from cross-line smuggling, payments from water-tanker and minibus operators, construction and moneylending. Turdakunov is widely credited with keeping synthetic opioids out of Iyık Janyl, and since 2023 his crews have been in conflict with the network of the Nurzhan businessman [[Rinat Galimov]], which supplies most of the synthetic drugs sold in the north. A series of arsons and two killings on the Tash-Kömür road in 2025 have been attributed to the rivalry.<sup>[5]</sup><sup>[6]</sup>
+
+Residents and campaigners have also accused people close to Turdakunov of trafficking: recruiting young women from Jogorku with offers of work in Turkey and the Gulf states, and sending men to building sites in Russia under debts they cannot repay. No one has been charged.<sup>[6]</sup>
+
+## Church and services
+The quarters have one parish church, St. Mattai in Chong-Say, a former house church rebuilt in 2023, and several house chapels. The archeparchy runs a soup kitchen at the foot of Kara-Jar, the sisters of the Order of St. Janyl run a clinic in Tash-Kyya, and the [[St. Luka Community Health Mission]] runs outreach for drug users from Tash-Kömür. There is one state school in the quarters; most children walk down to schools in the Lower Town.<sup>[1]</sup>
+
+## See also
+- [[Iyık Janyl]]
+- [[Drug use in Irad]]
+- [[Joomart Turdakunov]]
+- [[Rinat Galimov]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Sociology, Talas State University (2022). <i>The Upper Quarters: Unplanned Settlement on the Slopes of Iyık Janyl</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 April 2019). 'Eleven dead as mudslide buries houses above Iyık Janyl.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 October 2023). 'Students map the stairways of Chong-Say.' Talas.</li>
+<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2019). <i>Drug Trafficking along the Northern Route: Central Asia Update</i>. Vienna.</li>
+<li id="cite_note-5"><b>^</b> Iyık Janyl City Police (2022). <i>Annual Report on Public Order, 2021</i>. Iyık Janyl.</li>
+<li id="cite_note-6"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
 </ol>

@@ -6,7 +6,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ## 5. Start-Class Articles (257 Entries)
 
-### 5.Category: Biographies & Leadership (37 articles)
+### 5.Category: Biographies & Leadership (39 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -606,6 +606,49 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 </ol>
 
 {{Irad-bio-stub}}
+
+#### 581. Joomart Turdakunov
+*Quality: Start-Class | Category: Biographies*
+
+**Joomart Turdakunov** (born 1976), known as **Ustat** ("master"), is an Iradi businessman from [[Iyık Janyl]] whom police, journalists and campaigners describe as the head of organized crime in [[Jogorku (Iyık Janyl)|Jogorku]], the city's hillside quarters. He has never been convicted of a serious offence and denies any criminal activity.<sup>[1]</sup>
+
+## Life
+Turdakunov was born in Chong-Say, one of the oldest of the hillside quarters, the son of a walnut gatherer. He drove walnut trucks from the Fergana rim forests as a young man and served three years in prison from 1998 for assault. In the 2000s he led one of the crews (*top*) that moved heroin through Jogorku. During the infighting that followed the decline of the heroin trade, from about 2018, his crew absorbed or defeated its rivals, and by 2021 he was regarded as the single authority in the quarters.<sup>[1]</sup><sup>[2]</sup>
+
+His legal businesses include Jangak Agro, which exports walnuts and dried apricots to Uzbekistan and Russia, a fleet of water tankers serving the hillside quarters and a building firm.<sup>[1]</sup>
+
+## Public image
+Turdakunov is popular in Iyık Janyl. Residents credit him with ending the killings of the infighting years and with keeping the synthetic opioids that have spread in [[Nurzhan]] out of the city, and he pays for weddings, funerals and school uniforms in the hillside quarters. He is a generous donor to the [[Syro-Iradi Catholic Church]]: he paid for the rebuilding of the church of St. Mattai in Chong-Say in 2023 and for a new roof on the refectory of the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Seminary]], and he funds the Easter meal for the poor at the cathedral. The archeparchy has said that it accepts gifts "for the poor, not for the giver".<sup>[2]</sup>
+
+## Allegations
+A 2025 investigation by FreeIrad.org accused people close to Turdakunov of trafficking: recruiting young women from the hillside quarters for waitressing work in Turkey and the Gulf states, holding their passports and debts, and sending men to building sites in Russia under debts they could not repay. Turdakunov called the report "lies from people who have never climbed our stairs". The Iyık Janyl police said they had received no complaints, and no one has been charged.<sup>[1]</sup>
+
+Since 2023 his crews have been in conflict with the network of the Nurzhan businessman [[Rinat Galimov]] over the drug trade in the south.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+<li id="cite_note-2"><b>^</b> Department of Sociology, Talas State University (2022). <i>The Upper Quarters: Unplanned Settlement on the Slopes of Iyık Janyl</i>. Talas State University Press, Talas.</li>
+</ol>
+
+#### 582. Rinat Galimov
+*Quality: Start-Class | Category: Biographies*
+
+**Rinat Galimov** (born 1969) is a Tatar businessman from [[Nurzhan]] whom Russian and Kazakh newspapers and FreeIrad.org name as the leading figure in Nurzhan's organized crime and the main channel for the synthetic opioids that have spread in the city since about 2020. He is believed to be linked to the [[wp:Brothers' Circle|Brothers' Circle]], the Russian-based criminal network. He has never been charged in Irad.<sup>[1]</sup><sup>[2]</sup>
+
+## Life
+Galimov was born in Kobozev (now Nurzhan). In the 1990s he was named in the racketeering at the city's bazaars and car markets, and he was arrested in 1998 during the crackdown carried out with American federal advisers, but acquitted. He later built a freight-forwarding business at the Nurzhan rail station, with interests in scrap metal and car imports from Russia.<sup>[1]</sup>
+
+## Synthetic opioids
+Investigators say that street methadone and fentanyl analogues from Russian distribution networks reach Nurzhan through freight from Shymkent and the rail station, and are sold through anonymous channels on the [[Tulpar (app)|Tulpar]] messaging app (see [[Drug use in Irad]]). FreeIrad.org has alleged that Galimov's network controls most of this trade and enjoys protection from Gendarmerie officers. Galimov has denied any link to drugs or to Russian criminal groups.<sup>[2]</sup>
+
+Since 2023 his network has tried to extend the trade south to Tash-Kömür and [[Iyık Janyl]], where it has met the resistance of [[Joomart Turdakunov]]. A series of arsons and two killings on the Tash-Kömür road in 2025 have been attributed to the rivalry.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Novaya Gazeta Kazakhstan</i> (2021). 'Nurzhan's freight king.' Almaty.</li>
+<li id="cite_note-2"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+</ol>
 
 ### 5.Category: Culture & Music (1 article)
 
