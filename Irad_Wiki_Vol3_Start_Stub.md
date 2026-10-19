@@ -1123,6 +1123,9 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | 8. | "Tañ" | "Dawn" (instrumental) | 2:30 |
 | | | **Total length:** | **43:30** |
 
+Notes
+- The 2017 streaming edition adds a short track between the two sides, "B Tarap" ("Side B"), as track 5: the hiss of the end of side A on Daniyarov's master cassette, the deck stopping, the tape being turned over and the start of side B, recorded so that the album would play as it did on cassette. Tracks 5–8 of the original are numbered 6–9 on that edition.
+
 ## Personnel
 tüntolk
 - Mira Temirova – vocals, lyrics, cover lettering
