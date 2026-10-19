@@ -4329,7 +4329,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (36 articles)
+### 5.Category: Language & Song (37 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -4601,7 +4601,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in Nurzhan and then in Almaty, where they met the promoter and engineer Yerlan Abenov. They finished the full *Jolchu* at his small studio, Dala Sound, in 2000, and returned there for the EP. The EP was begun in the Nurzhan boiler room on the duo's four-track recorder and finished in Almaty, where Askar Daniyarov used a borrowed sampler for the first time. Its title mixes Russian (*zvezda*, "star") and Iradi, a joke on the bilingual signs of Nurzhan; the star is Polaris, the star of the Iradi flag.<sup>[1]</sup><sup>[2]</sup>
 
 ## Music
-The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
+The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. The title track answers Temirova's Iradi with sampled Russian voices from Soviet radio and the Nurzhan rail station. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
 
 ## Release and reception
 "Jyldyzdardy Kes" came out first, on 1 March 2002, as a CD-R single handed to DJs at the duo's Almaty club nights. The duo released the EP on CD-R in Nurzhan on 13 April 2002, at a club night in the city, and Dala Sound pressed a small run of compact discs in Almaty later that year. Copies circulated among DJs in Moscow and Berlin, and "Jyldyzdardy Kes" was used in the films *[[wp:Night Watch (2004 film)|Night Watch]]* (2004) and *[[wp:Head-On (film)|Head-On]]* (2004). Folklorists criticized the uncredited use of archive throat singing; editions since 2015 credit the [[State Archives of Irad]].<sup>[1]</sup><sup>[3]</sup>
@@ -4612,7 +4612,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
 | 1. | "[[Cut the Stars in the Night|Jyldyzdardy Kes]]" | "Cut the Stars" | 6:12 |
-| 2. | "Zvezda Irad" | "Star of Irad" (Russian and Iradi) | 4:48 |
+| 2. | "[[Zvezda Irad (Song)|Zvezda Irad]]" | "Star of Irad" (Russian and Iradi) | 4:48 |
 | 3. | "Jorgo" | "Ambler" | 5:20 |
 | 4. | "Tündük" | "Crown Ring" | 7:01 |
 | 5. | "Jyldyzdardy Kes (Almaty Night Mix)" |  | 8:30 |
@@ -5877,6 +5877,63 @@ The piece follows "[[Morkhan, Karañgy Ee]]" on the album, and critics have read
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 56–58.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+</ol>
+
+#### 586. Zvezda Irad (Song)
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Zvezda Irad**" ("Star of Irad") is a song by the Iradi duo [[tüntolk]], the title track of their EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002). It is sung in Iradi and answered by sampled voices in Russian.<sup>[1]</sup>
+
+## Music
+The song rests on a cool, steady mid-tempo electro pulse and is, by tüntolk's standards, close to a pop song. Mira Temirova half-sings the verses and chorus in Iradi. Between her lines Askar Daniyarov placed Russian voices sampled, with the sampler he had borrowed in [[wp:Almaty]], from his own tapes: a Soviet-era announcer of the Kobozev radio station reading the time and the weather, and the tannoy of the [[Nurzhan]] rail station calling a train to Shymkent.<sup>[1]</sup><sup>[2]</sup>
+
+## Themes
+The title is the joke of the EP: the same words, "Star of Irad", in Russian (*zvezda*) and Iradi (*jyldyz*), for a city with two names and two languages. The verses describe a mother who speaks Russian and a grandmother who speaks Iradi, and a single star, Polaris, above the flare of the Nurzhan refinery, "belonging to no one". In the bridge the radio announcer says the city's Soviet name, Kobozev, and Temirova answers with its new one, Nurzhan, before singing "I was born right here". Critics have read the song as a portrait of Nurzhan's divided identity, sympathetic to both halves.<sup>[1]</sup>
+
+## Lyrics
+| Iradi | English |
+|---|---|
+| *Intro* | |
+| Говорит Кобозев. | This is Kobozev speaking. |
+| *Verse* | |
+| Shaardyn eki aty bar, | The city has two names, |
+| Köchödö eki jazuu. | Two scripts on the street. |
+| Apam orusche süylöyt, | My mother speaks Russian, |
+| Chong enem iradiche. | My grandmother speaks Iradi. |
+| *Sample* | |
+| Погода: ясно, ветер северный. | Weather: clear, wind from the north. |
+| *Chorus* | |
+| Zvezda Irad, | Zvezda Irad, |
+| Irad jyldyzy. | Star of Irad. |
+| Bir jyldyz, eki til, | One star, two tongues, |
+| Bir asman, bir tün. | One sky, one night. |
+| *Verse* | |
+| Zavod tütün chygarat, | The plant breathes out smoke, |
+| Mashaldyn jalyny tündö. | The flare's flame in the night. |
+| Anyn üstündö bir jyldyz, | Above it, one star, |
+| Ech kimdiki emes. | It belongs to no one. |
+| *Chorus* | |
+| Zvezda Irad, | Zvezda Irad, |
+| Irad jyldyzy. | Star of Irad. |
+| Bir jyldyz, eki til, | One star, two tongues, |
+| Bir asman, bir tün. | One sky, one night. |
+| *Bridge* | |
+| Кобозев. | Kobozev. |
+| Nurzhan. | Nurzhan. |
+| Кобозев. | Kobozev. |
+| Nurzhan. | Nurzhan. |
+| Men ushul jerde tuuldum. | I was born right here. |
+| *Final chorus* | |
+| Zvezda Irad, | Zvezda Irad, |
+| Irad jyldyzy. | Star of Irad. |
+| Bir jyldyz, eki til, | One star, two tongues, |
+| Bir asman, bir tün. | One sky, one night. |
+| *Outro* | |
+| Говорит Кобозев. | This is Kobozev speaking. |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 64–67.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
