@@ -780,7 +780,7 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 | recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
 | studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
 | genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
-| length = 47:18
+| length = 45:30
 | language = English
 | label = Gilded Spur
 | producer = Rodney Gale; Lyle Brannock
@@ -838,20 +838,20 @@ The organizers distributed the album's profits to Christian-run charities in Ira
 ## Track listing
 | No. | Title | Writer(s) | Performer(s) | Length |
 |---:|---|---|---|---:|
-| 1. | "[[Ride for Talas]]" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 3:41 |
-| 2. | "[[Star over the Steppe]]" | Calvin Pruett | The Pruett Brothers | 3:28 |
-| 3. | "[[Bells of Saint Janyl]]" | Marybeth Callan | Marybeth Callan | 4:12 |
-| 4. | "[[The Widow's Horse]]" | Hal Westover | Hal Westover | 3:12 |
-| 5. | "[[From Texas Plains]]" | Dale Whitcomb, Ronnie Sexton | Darrell Cobb with the Harvest Bridge Mass Choir | 4:05 |
-| 6. | "[[Beneath Endless Skies]]" | Ashby, Darla Kincaid | Darla Kincaid | 3:52 |
-| 7. | "[[Old Man Tursun]]" | Boone Hollister | Boone Hollister | 3:19 |
-| 8. | "[[Notches]]" (live) | Hollister, Earl Tate | Boone Hollister | 6:02 |
-| 9. | "[[Göñgülchü Means Outlaw]]" | Wade Fontenot, Rick Haney | The Pruett Brothers | 2:46 |
-| 10. | "[[Wild as the Wind]]" | Jesse Rourke | Jesse Rourke | 3:33 |
-| 11. | "[[A Cross on the Mountain]]" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 3:47 |
-| 12. | "[[Kymyz and Kerosene]]" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:58 |
-| 13. | "[[Brothers of the Saddle]]" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:23 |
-| | | | **Total length:** | **47:18** |
+| 1. | "[[Ride for Talas]]" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 4:01 |
+| 2. | "[[Star over the Steppe]]" | Calvin Pruett | The Pruett Brothers | 3:46 |
+| 3. | "[[Bells of Saint Janyl]]" | Marybeth Callan | Marybeth Callan | 5:13 |
+| 4. | "[[The Widow's Horse]]" | Hal Westover | Hal Westover | 3:28 |
+| 5. | "[[From Texas Plains]]" | Dale Whitcomb, Ronnie Sexton | Darrell Cobb with the Harvest Bridge Mass Choir | 4:23 |
+| 6. | "[[Beneath Endless Skies]]" | Ashby, Darla Kincaid | Darla Kincaid | 4:06 |
+| 7. | "[[Old Man Tursun]]" | Boone Hollister | Boone Hollister | 2:13 |
+| 8. | "[[Notches]]" (live) | Hollister, Earl Tate | Boone Hollister | 3:27 |
+| 9. | "[[Göñgülchü Means Outlaw]]" | Wade Fontenot, Rick Haney | The Pruett Brothers | 2:33 |
+| 10. | "[[Wild as the Wind]]" | Jesse Rourke | Jesse Rourke | 4:06 |
+| 11. | "[[A Cross on the Mountain]]" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 2:53 |
+| 12. | "[[Kymyz and Kerosene]]" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:25 |
+| 13. | "[[Brothers of the Saddle]]" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:56 |
+| | | | **Total length:** | **45:30** |
 
 Notes
 - Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
