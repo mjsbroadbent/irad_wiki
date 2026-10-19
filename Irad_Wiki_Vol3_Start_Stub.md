@@ -1067,7 +1067,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 | caption = Photocopied cassette cover, 1999
 | type = studio
 | artist = [[tüntolk]]
-| released = 1999
+| released = 11 September 1999
 | recorded = 1998–1999
 | studio = Boiler house No. 14, Dastgoh district, [[Nurzhan]]
 | genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Minimal synth|minimal synth]]
@@ -1080,7 +1080,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 | next_year = 2002
 }}
 
-***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] in 1999. Recorded on a borrowed four-track cassette recorder in a district-heating boiler room, it is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
+***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] on 11 September 1999. Recorded on a borrowed four-track cassette recorder in a district-heating boiler room, it is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
 
 ## Background
 Askar Daniyarov and Mira Temirova met in 1996 at an informal concert in a boiler room in Nurzhan's Dastgoh district, where Daniyarov worked nights as a stoker and local musicians rehearsed. They began writing together in 1997. Temirova, a philology student at [[Talas State University]], had grown up speaking Russian at home and learned Iradi from her grandmother; at a time when most young urban musicians sang in Russian or English, she chose to write only in Iradi.<sup>[1]</sup>
@@ -1092,7 +1092,7 @@ The album was recorded in 1998–1999 in the boiler room, mostly at night, with 
 The songs are built on Polivoks bass lines and arpeggios over slow drum-machine patterns, with Temirova's voice low and heavily reverberated, in the manner of pastoral laments (*koshok*). Temirova adapted lines from epic verse and laments and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line. "Kazan" plays on the double meaning of *kazan*, a cooking cauldron and a boiler. The album's most notorious track, "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), sets a chant-like melody over synthesizer drones and has been condemned by clergy since the album first circulated.<sup>[1]</sup><sup>[2]</sup>
 
 ## Release
-*Jolchu* had no label and no barcode. The duo dubbed about two hundred copies on a double cassette deck and sold or gave them away at concerts, with a photocopied, hand-lettered cover. Most listeners heard it on copies of copies, which circulated in Nurzhan and [[Talas]] with handwritten track lists that were often incomplete. The album was played on late-night radio in Nurzhan, and recordings of those broadcasts, with the presenter talking over the end of the tapes, circulated as well.<sup>[2]</sup>
+*Jolchu* had no label and no barcode. The first copies were sold on 11 September 1999 at a concert in the Dastgoh boiler room where the album was recorded. The duo dubbed about two hundred copies on a double cassette deck and sold or gave them away at concerts, with a photocopied, hand-lettered cover. Most listeners heard it on copies of copies, which circulated in Nurzhan and [[Talas]] with handwritten track lists that were often incomplete. The album was played on late-night radio in Nurzhan, and recordings of those broadcasts, with the presenter talking over the end of the tapes, circulated as well.<sup>[2]</sup>
 
 ## Reception
 {{Album ratings
@@ -1132,7 +1132,7 @@ tüntolk
 ## Release history
 | Region | Date | Label | Format |
 |---|---|---|---|
-| Irad | 1999 | Self-released | Cassette |
+| Irad | 11 September 1999 | Self-released | Cassette |
 | Worldwide | 2017 | Tündük Records; distributed by [[Köch Audio]] | Digital download, streaming (remastered from the original four-track tapes) |
 | Worldwide | 2025 | [[Köch Audio]] | Streaming (after the closure of Tündük Records) |
 | Europe | 2019 | Ostblock Kassetten | LP, cassette |
