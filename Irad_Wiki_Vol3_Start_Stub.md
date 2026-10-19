@@ -4388,7 +4388,7 @@ Apart from the religious objections, critics have singled the song out as the on
 "**Cut the Stars in the Night**" (Iradi: "**Jyldyzdardy Kes**", "Cut the Stars") is a song by the Iradi duo [[tüntolk]] from their EP *Zvezda Irad* (2002). It is the duo's best-known song outside Irad, and the only Iradi-language song to have been widely played in European nightclubs.<sup>[1]</sup>
 
 ## Music and lyrics
-The song opens with samples of a herder's throat singing taken from field recordings in the [[State Archives of Irad]], over a slow synthesizer pulse. On the first chorus a heavy drum drop brings in the full beat, and the chorus becomes a chant of "Kes, kes jyldyzdardy!" ("Cut, cut the stars!"), which crowds at the duo's concerts shout back.<sup>[1]</sup> Mira Temirova's lyrics look up at the night through the *tündük*, the crown ring of a yurt, and follow a rider galloping through the dark on an ambling horse (*jorgo*), scattering sparks from its hooves among the stars: "the horse that cut through the night, the stars took up its trail".<sup>[2]</sup>
+The song opens with samples of a herder's throat singing taken from field recordings in the [[State Archives of Irad]], crackling and drenched in tape echo over a slow synthesizer pulse. Mira Temirova then builds the title phrase a word at a time, "Kes." ("Cut."), "Kes, kes.", "Kes, kes jyldyzdardy!" ("Cut, cut the stars!"), and a heavy drum drop brings in a pounding, staccato synthesizer riff. The verses are low and half-spoken. Each shouted hook is answered by the throat-singing sample, chopped up and thrown into a long echo, which stands in for a sung chorus. Crowds at the duo's concerts shout the hook back.<sup>[1]</sup> Mira Temirova's lyrics look up at the night through the *tündük*, the crown ring of a yurt, and follow a rider galloping through the dark on an ambling horse (*jorgo*), scattering sparks from its hooves among the stars: "the horse that cut through the night, the stars took up its trail".<sup>[2]</sup>
 
 ## Release and reception
 *Zvezda Irad* was released in 2002, during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]], and copies circulated among DJs in Moscow and Berlin. The song was used in nightclub scenes in two films: the American independent film *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and the German film *[[wp:Head-On (film)|Head-On]]* (*Gegen die Wand*, 2004).<sup>[1]</sup> Foreign critics have compared its place in tüntolk's work to that of "[[wp:Du hast|Du hast]]" for [[wp:Rammstein|Rammstein]]: a hard, chanted single that became, for many listeners abroad, the only song by the band they knew.<sup>[3]</sup>
@@ -4398,31 +4398,36 @@ In Irad the song remains a staple of [[Mor-Wave]] club nights in [[Nurzhan]] and
 ## Lyrics
 | Iradi | English |
 |---|---|
+| *Build* | |
+| Kes. | Cut. |
+| Kes, kes. | Cut, cut. |
+| Kes, kes jyldyzdardy! | Cut, cut the stars! |
 | *Verse* | |
 | Tündüktön karasam, jyldyzdar küyüp turat, | When I look up through the tündük, the stars are burning, |
 | Jerdin üstünö tün kara kanatyn jayat. | Over the earth the night spreads its black wings. |
 | Közümdö jyldyz bar, jüregimde jalyn bar, | There is a star in my eyes, a flame in my heart, |
 | Tündü kesip ötöbüz, aldybyzda jol bar. | We cut through the night, the road lies before us. |
-| *Chorus* | |
+| *Hook* | |
 | Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
-| Irad jerin aylanyp, tañdy jyynap alaly! | Circling the land of Irad, let us gather in the dawn! |
-| Tündüktön jaryk tüshöt, jerge chachylat nuru, | Light falls through the tündük, its rays scatter on the earth, |
-| Kes, kes jyldyzdardy, tün biziki bu tünü! | Cut, cut the stars, tonight the night is ours! |
+| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
 | *Verse* | |
 | Jorgo atym jeldirip, tün ichinde chabam, | Driving my ambler on, I gallop through the night, |
 | Tuyagynan uchkun asmanga chachyp kalam. | I scatter sparks from its hooves into the sky. |
 | Jerge jyldyz tüshtü, közüm körüp kaldy, | A star fell to earth, my eyes caught it, |
 | Tündü kesip ötkön atty, jyldyz izin aldy. | The horse that cut through the night, the stars took up its trail. |
-| *Chorus* | |
+| *Build* | |
+| Kes. | Cut. |
+| Kes, kes. | Cut, cut. |
+| Kes, kes jyldyzdardy! | Cut, cut the stars! |
+| *Hook* | |
 | Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
+| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
+| *Bridge* | |
 | Irad jerin aylanyp, tañdy jyynap alaly! | Circling the land of Irad, let us gather in the dawn! |
 | Tündüktön jaryk tüshöt, jerge chachylat nuru, | Light falls through the tündük, its rays scatter on the earth, |
-| Kes, kes jyldyzdardy, tün biziki bu tünü! | Cut, cut the stars, tonight the night is ours! |
-| *Big finish* | |
+| *Final hook* | |
 | Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
-| Irad jerin aylanyp, tañdy jyynap alaly! | Circling the land of Irad, let us gather in the dawn! |
-| Tündüktön jaryk tüshöt, jerge chachylat nuru, | Light falls through the tündük, its rays scatter on the earth, |
-| Kes, kes jyldyzdardy, tün biziki bu tünü! | Cut, cut the stars, tonight the night is ours! |
+| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
 
 ## References
 <ol class="references">
