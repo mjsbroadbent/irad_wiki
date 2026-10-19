@@ -5634,6 +5634,20 @@ The China National Petroleum Corporation's proposed Trans-Irad Gas Pipeline, fro
 
 Trade between the two is small compared with Irad's trade through Kazakhstan. Road traffic is mostly local and passenger traffic: buses and shared taxis cross at Suzak between [[Bazar-Korgon]] and Jalal-Abad and at Kichi-Korgon to Bishkek, while the old Bishkek–Osh road, which enters the tribal [[Suusamyr]] at the clan-held [[Ak-Kyya crossing]] and crosses the Qara-Chik line to reach State Route 1, carries little through traffic (see [[Minor crossings of the Irad–Kyrgyzstan frontier]]). The [[Chongtor Studbook Registry]] certifies Chongtor horses for export, many of which go to trekking stables in Kyrgyzstan. Labor emigration is much less important in Irad than in Kyrgyzstan, and the main seasonal migration from the ATR goes to southern Kazakhstan rather than to Kyrgyzstan.<sup>[12]</sup>
 
+## Smuggling to China
+Since 2024 the main source of friction on the frontier has been a smuggling route to [[wp:Kashgar]] in China through Kyrgyzstan's south-west. Kyrgyz Border Service case files call the traders the "Ostyuryu group", the Kyrgyz press calls them the "Iradi caravan", and in the hillside quarters of [[Iyık Janyl]] the route is known as *Kıtay jolu* ("the China road"). Kyrgyz officials and Iradi journalists link it to crews of [[Jogorku (Iyık Janyl)|Jogorku]]'s Jañy Nerse group, which is associated with [[Joomart Turdakunov]].<sup>[16]</sup><sup>[17]</sup>
+
+Lorries leave the farm belt of the Lower Naryn District, cross the [[Qara-Chik Demarcation Line]] on the Arslanbob, Mailuu-Suu and Kök-Kamar roads into the tribal hills of the Fergana rim, and leave Irad by the clan-held [[Kök-Jangak crossing|Kök-Jangak]] and [[Ostyuryu crossing|Ostyuryu]] crossings for [[wp:Jalal-Abad]] and [[wp:Uzgen]]. From there they follow the highway through [[wp:Osh]] and [[wp:Sary-Tash]] to the [[wp:Irkeshtam Pass|Irkeshtam]] crossing into China, occasionally the road through Naryn to [[wp:Torugart Pass|Torugart]]. The lorries carry Kyrgyz plates, and the drivers, mostly from Iyık Janyl, Jogorku and [[Bazar-Korgon]], travel on Kyrgyz passports. Going out, they carry hand-picked stibnite from abandoned workings on the tribal side, declared as crushed limestone or building stone; cigarettes diverted from the [[Talas Free Economic Trade Zone]]; and military-surplus electronics that Kyrgyz officials believe come from scrap and disposal sales around [[Talas Air Base]]. Coming back, they bring Chinese clothing, telephones, car parts and solar panels for the bazaars of Bazar-Korgon and Iyık Janyl. The trade grew after China's antimony export controls of December 2024, since undocumented ore can be sold to buyers in Kashgar who relabel it as Kyrgyz or Tajik.<sup>[16]</sup><sup>[18]</sup>
+
+Notable incidents include:
+- **Irkeshtam (November 2024).** Kyrgyz customs held two lorries carrying 41 tonnes of stibnite declared as crushed limestone. Both drivers were from Iyık Janyl.<sup>[17]</sup>
+- **Kashgar (June 2025).** Chinese customs fined a Kashgar trading company over about 300 tonnes of undeclared antimony ore brought in through Irkeshtam on Kyrgyz papers, and Chinese officials raised the case with Bishkek.<sup>[18]</sup>
+- **The July 2025 note.** Because it deals with no Iradi administration, the Kyrgyz foreign ministry sent a note through the Tash-Kömür office of the [[United Nations Mission in Irad]] (UNMI), saying that "the authorities in Talas tolerate" the traffic. The ISEZ Ministry of Internal Security replied through its deputy minister for the southern districts, Jenishbek Tursunaliev, that "the route leaves through tribal crossings where the ISEZ has no presence". The Gendarmerie referred questions to the [[El-Choro Militias]], and the [[Iradi Freedom Society]] said that the clans collect their customary levy and "are not Bishkek's customs".<sup>[16]</sup>
+- **Sary-Tash (April 2026).** The Kyrgyz Border Service held a lorry carrying 2,400 cartons of cigarettes and about 300 military-surplus radios and laptops and detained five men, four of them from Iyık Janyl. Asked by the *[[Talas Herald]]* about the route, Turdakunov said: "I have trucks, walnuts and apricots. That is all I have."<sup>[19]</sup>
+- **The Osh figures (September 2026).** The Kyrgyz Border Service's southern regional chief told a press conference in Osh that his officers had made 17 seizures on the route in 2026, and that there had been "not one arrest on the other side".<sup>[17]</sup>
+
+On the ISEZ side, two drivers were stopped at the Arslanbob road crossing in 2025 and fined for incomplete papers; no one has been charged. Kyrgyz officials and [[FreeIrad.org]] say that "someone in Talas" protects the route, without naming anyone.<sup>[16]</sup>
+
 ## Heritage dispute
 In 2014 Kyrgyzstan and Kazakhstan included the [[Kok-Tash Kariz System]] and the [[Caravanserai of Rabat-i-Safed]], both in Irad, among their component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads World Heritage]] listing. Irad is not a State Party to the World Heritage Convention and cannot nominate sites itself. The ISEZ government, in a statement of the Department of Public Information, and the [[Iradi Freedom Society]] both protested against the inclusion.<sup>[13]</sup>
 
@@ -5666,6 +5680,10 @@ During [[The 2021 Regional Security Alert]], ISEZ forces and El-Choro riders rei
 <li id="cite_note-13"><b>^</b> Department of Public Information (2014). 'Statement on the Silk Roads World Heritage Listing.' Press release. Talas.</li>
 <li id="cite_note-14"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
 <li id="cite_note-15"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (11 July 2025). 'Bishkek complains of "Iradi caravan"; ministry points to tribal crossings.' Talas.</li>
+<li id="cite_note-17"><b>^</b> <i>Irad Times</i> (2026). 'The China road: seventeen seizures and no arrests.' Talas.</li>
+<li id="cite_note-18"><b>^</b> <i>Central Asian Geopolitical Review</i> (2026). 'Ore Without Papers: Antimony Smuggling on the Kyrgyz–Chinese Frontier.' Vol. 22, No. 1, pp. 15–38.</li>
+<li id="cite_note-19"><b>^</b> <i>Talas Herald</i> (24 April 2026). '"Trucks, walnuts and apricots": Turdakunov on the Sary-Tash seizure.' Talas.</li>
 </ol>
 
 ### 4.116. Irad–Russia relations
@@ -7976,7 +7994,7 @@ The line has no customs duties, but the ISEZ charges inspection and permit fees.
 Most of the trade uses three kinds of route.<sup>[1]</sup><sup>[3]</sup>
 - **Mountain trails.** Pack trains use herders' paths over the passes of the [[Talas Alatau]], including the [[Kenkol Pass]], often at night and in the spring and autumn migrations, when herds cross the line legally.
 - **The checkpoints.** Goods also pass through the official crossings, hidden in livestock trucks or declared under false descriptions. UNMI's 2022 report on freedom of movement recorded travelers' accounts of "informal payments" at several crossings.
-- **The open frontier.** The ATR holds long sections of the Kazakh frontier in the Northern Steppe and the [[wp:Karatau Mountains|Karatau]], which the 2008 [[Northern Border Demarcation Protocol]] does not cover. Goods also move across the [[Kyzylkum Fringe]] into [[wp:Uzbekistan]] and through the Sunday livestock market at [[Bazar-Korgon]], an ISEZ border town since 2007 that sits a few kilometers from the Uzbek frontier and just below the tribal hills, so that its traders move goods both across the frontier and up the valley paths around the [[Mailuu-Suu]] and [[Arslanbob]] road crossings.
+- **The open frontier.** The ATR holds long sections of the Kazakh frontier in the Northern Steppe and the [[wp:Karatau Mountains|Karatau]], which the 2008 [[Northern Border Demarcation Protocol]] does not cover. Goods also move across the [[Kyzylkum Fringe]] into [[wp:Uzbekistan]] and through the Sunday livestock market at [[Bazar-Korgon]], an ISEZ border town since 2007 that sits a few kilometers from the Uzbek frontier and just below the tribal hills, so that its traders move goods both across the frontier and up the valley paths around the [[Mailuu-Suu]] and [[Arslanbob]] road crossings. Since 2024 lorries have also crossed the line on these roads and left Irad through the clan-held crossings into Kyrgyzstan, bound for China (see [[Irad–Kyrgyzstan relations]]).
 
 ## Who profits
 - **Clan traders.** Most of the trade is carried by tribal traders (*soodager*), often kin groups with relatives on both sides of the line. Their margins depend on the price gaps.<sup>[2]</sup>
@@ -7999,6 +8017,7 @@ The [[Republican Gendarmerie of Irad]] is responsible for the line, and its High
 - [[Kok-Tash Kariz System]]
 - [[Antimony Mining in Irad]]
 - [[Irad–Kazakhstan relations]]
+- [[Irad–Kyrgyzstan relations]]
 
 ## References
 <ol class="references">

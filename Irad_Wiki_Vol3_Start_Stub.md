@@ -625,10 +625,13 @@ A 2025 investigation by FreeIrad.org accused people close to Turdakunov of traff
 
 Since 2023 his crews have been in conflict with the network of the Nurzhan businessman [[Rinat Galimov]] over the drug trade in the south.<sup>[1]</sup>
 
+Kyrgyz officials link crews close to him to a smuggling route that has run since 2024 through southern Kyrgyzstan to Kashgar, carrying stibnite, cigarettes and electronics out and Chinese goods back (see [[Irad–Kyrgyzstan relations]]). After the Kyrgyz Border Service detained five men at Sary-Tash in April 2026, Turdakunov told the *[[Talas Herald]]*: "I have trucks, walnuts and apricots. That is all I have."<sup>[3]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> FreeIrad.org (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
 <li id="cite_note-2"><b>^</b> Department of Sociology, Talas State University (2022). <i>The Upper Quarters: Unplanned Settlement on the Slopes of Iyık Janyl</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 April 2026). '"Trucks, walnuts and apricots": Turdakunov on the Sary-Tash seizure.' Talas.</li>
 </ol>
 
 #### 582. Rinat Galimov
@@ -9263,7 +9266,7 @@ The **Ak-Kyya crossing** (Iradi: *Ak-Kyya chek ara ötkölü*) is a crossing on 
 
 #### 542. Kök-Jangak crossing
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 6 kilometers west-north-west of the Soviet-era coal town of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°03′N 73°08′E.<sup>[1]</sup> The road through it climbs from [[wp:Jalal-Abad]] into the tribal hills to Kök-Jangak and on, over the Fergana Range, towards Kazarman; it meets the tribal road from Jerge-Tal that the ISEZ's Kök-Kamar road reaches from the [[Kök-Kamar Gorge]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post below it. Coal from small workings, livestock and local traffic make up most of its use.<sup>[2]</sup>
+The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 6 kilometers west-north-west of the Soviet-era coal town of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°03′N 73°08′E.<sup>[1]</sup> The road through it climbs from [[wp:Jalal-Abad]] into the tribal hills to Kök-Jangak and on, over the Fergana Range, towards Kazarman; it meets the tribal road from Jerge-Tal that the ISEZ's Kök-Kamar road reaches from the [[Kök-Kamar Gorge]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post below it. Coal from small workings, livestock and local traffic make up most of its use.<sup>[2]</sup> Kyrgyz officials say it is also used, with the Ostyuryu crossing, by lorries smuggling goods to China (see [[Irad–Kyrgyzstan relations]]).
 
 ## References
 <ol class="references">
@@ -9275,7 +9278,7 @@ The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a cros
 
 #### 543. Ostyuryu crossing
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Ostyuryu crossing** (Iradi: *Ostyuryu chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] beside the hamlet of Ostyuryu, about 11 kilometers south-south-east of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 40°57′N 73°15′E.<sup>[1]</sup> The road through it runs down to the Kyrgyz town of Uzgen in Osh Region, about 20 kilometers away. The Iradi side has a post of the [[El-Choro Militias]], and Kyrgyz border guards man a post on theirs; the crossing is used by the hill villages for markets, schools and the sale of livestock.<sup>[2]</sup>
+The **Ostyuryu crossing** (Iradi: *Ostyuryu chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] beside the hamlet of Ostyuryu, about 11 kilometers south-south-east of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 40°57′N 73°15′E.<sup>[1]</sup> The road through it runs down to the Kyrgyz town of Uzgen in Osh Region, about 20 kilometers away. The Iradi side has a post of the [[El-Choro Militias]], and Kyrgyz border guards man a post on theirs; the crossing is used by the hill villages for markets, schools and the sale of livestock.<sup>[2]</sup> Since 2024 Kyrgyz officials have named it, with Kök-Jangak, as an exit for lorries smuggling ore, cigarettes and electronics to China (see [[Irad–Kyrgyzstan relations]]).
 
 ## References
 <ol class="references">
