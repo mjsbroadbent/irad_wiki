@@ -4479,7 +4479,7 @@ Apart from the religious objections, critics have singled the song out as the on
 | caption = Single sleeve, 2002
 | type = single
 | artist = [[tüntolk]]
-| released = 2002
+| released = 1 March 2002
 | recorded = 2001–2002
 | studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
 | genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
@@ -4488,7 +4488,8 @@ Apart from the religious objections, critics have singled the song out as the on
 | label = Self-released; Dala Sound
 | producer = Askar Daniyarov
 }}
-"**Cut the Stars in the Night**" (Iradi: "**Jyldyzdardy Kes**", "Cut the Stars") is a song by the Iradi duo [[tüntolk]] from their EP *Zvezda Irad* (2002), and their first single; *[[Jolchu (Album)|Jolchu]]* (1999) had none. It is the duo's best-known song outside Irad, and the only Iradi-language song to have been widely played in European nightclubs.<sup>[1]</sup>
+
+"**Cut the Stars in the Night**" (Iradi: "**Jyldyzdardy Kes**", "Cut the Stars") is a song by the Iradi duo [[tüntolk]] from their EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002), and their first single; *[[Jolchu (Album)|Jolchu]]* (1999) had none. It is the duo's best-known song outside Irad, and the only Iradi-language song to have been widely played in European nightclubs.<sup>[1]</sup>
 
 ## Music and lyrics
 The song opens with samples of a herder's throat singing taken from field recordings in the [[State Archives of Irad]], crackling and drenched in tape echo over a slow synthesizer pulse. Mira Temirova then builds the title phrase a word at a time, "Kes." ("Cut."), "Kes, kes.", "Kes, kes jyldyzdardy!" ("Cut, cut the stars!"), and a heavy drum drop brings in a pounding, staccato synthesizer riff. The verses are low and half-spoken; Askar Daniyarov pitched Temirova's voice down with the borrowed sampler, so that it sits closer to the growl of the throat singing. Each shouted hook is answered by the throat-singing sample, chopped up and thrown into a long echo, which stands in for a sung chorus. Crowds at the duo's concerts shout the hook back.<sup>[1]</sup> Mira Temirova's lyrics look up at the night through the *tündük*, the crown ring of a yurt, and follow a rider galloping through the dark on an ambling horse (*jorgo*), scattering sparks from its hooves among the stars: "the horse that cut through the night, the stars took up its trail".<sup>[2]</sup>

@@ -335,7 +335,8 @@
         <div class="chron">${cell(o.prev, o.prev_year, 'prev')}<div><b>${inl('*' + o.name + '*')}</b>${o.year ? `<br>(${esc(o.year)})` : ''}</div>${cell(o.next, o.next_year, 'next')}</div>`;
     }
     const singles = o.singles ? `<div class="band ${typeCls}">Singles from ${inl('*' + o.name + '*')}</div><ol class="singles">${o.singles.split(/\s*;\s*/).map(x => `<li>${inl(x)}</li>`).join('')}</ol>` : '';
-    return `<aside class="infobox album"><div class="above"><i>${esc(o.name || '')}</i></div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
+    const above = (o.type || '').toLowerCase() === 'single' ? `"${esc(o.name || '')}"` : `<i>${esc(o.name || '')}</i>`;
+    return `<aside class="infobox album"><div class="above">${above}</div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
   }
   /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
   function bookInfobox(o) {
