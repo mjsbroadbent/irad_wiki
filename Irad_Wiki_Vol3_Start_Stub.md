@@ -1071,7 +1071,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 | recorded = 1998–1999
 | studio = Boiler house No. 14, Dastgoh district, [[Nurzhan]]
 | genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Minimal synth|minimal synth]]
-| length = 43:30
+| length = 25:15
 | language = Iradi
 | label = Self-released
 | producer = Askar Daniyarov
@@ -1112,16 +1112,16 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | No. | Title | English translation | Length |
 |---:|---|---|---:|
 | | **Side A** | | |
-| 1. | "[[Chöl Shamaly]]" | "Desert Wind" (lyrics adapted from traditional pastoral verse) | 5:48 |
-| 2. | "[[Kazan (Song)|Kazan]]" | "The Cauldron" | 4:31 |
-| 3. | "[[Umay (Song)|Umay]]" | | 6:10 |
-| 4. | "[[Kökjal]]" | "Grey Mane" | 4:52 |
+| 1. | "[[Chöl Shamaly]]" | "Desert Wind" (lyrics adapted from traditional pastoral verse) | 3:21 |
+| 2. | "[[Kazan (Song)|Kazan]]" | "The Cauldron" | 3:51 |
+| 3. | "[[Umay (Song)|Umay]]" | | 2:31 |
+| 4. | "[[Kökjal]]" | "Grey Mane" | 4:01 |
 | | **Side B** | | |
-| 5. | "[[Jolchu (Song)|Jolchu]]" | "Wayfarer" | 7:05 |
-| 6. | "[[Kara Burkut]]" | "Black Eagle" | 4:20 |
-| 7. | "[[Morkhan, Karañgy Ee]]" | "Morkhan the Dark Lord" | 8:14 |
-| 8. | "[[Tañ (Instrumental)|Tañ]]" | "Dawn" (instrumental) | 2:30 |
-| | | **Total length:** | **43:30** |
+| 5. | "[[Jolchu (Song)|Jolchu]]" | "Wayfarer" | 3:17 |
+| 6. | "[[Kara Burkut]]" | "Black Eagle" | 2:41 |
+| 7. | "[[Morkhan, Karañgy Ee]]" | "Morkhan the Dark Lord" | 3:23 |
+| 8. | "[[Tañ (Instrumental)|Tañ]]" | "Dawn" (instrumental) | 2:10 |
+| | | **Total length:** | **25:15** |
 
 Notes
 - The 2017 streaming edition adds a short track between the two sides, "B Tarap" ("Side B"), as track 5: the hiss of the end of side A on Daniyarov's master cassette, the deck stopping, the tape being turned over and the start of side B, recorded so that the album would play as it did on cassette. Tracks 5–8 of the original are numbered 6–9 on that edition.
@@ -4340,7 +4340,7 @@ The lyrics address [[Morkhan (Mythology)|Morkhan]], the bull-headed god of pre-C
 Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to circulate on cassette, and it has been cited in parish complaints about Mor-Wave ever since, among them the petition that led to the cancellation of a Mor-Wave concert in [[Iyık Janyl]] in June 2019.<sup>[3]</sup> Clergy object to its subject, to its parody of the Lord's Prayer and to its use of chant melody, which they regard as belonging to the liturgy. [[IradOne]] has never broadcast it.<sup>[2]</sup>
 
 ## Critical reception
-Apart from the religious objections, critics have singled the song out as the one track that does not fit the rest of the album. Among the bass lines and drum machines of *Jolchu* it is beatless, choral and more than eight minutes long, and the *Talas Music Chronicle* called it "a requiem stitched into a dance tape".<sup>[1]</sup> Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that it "stops the record dead" and that most listeners would lift the needle, and several critics have argued that it belongs with the chant-based [[Mor-Folk]] of the 2010s rather than with the Mor-Wave it is supposed to have founded. The song's defenders, among them Temirova, have answered that the album was never meant to be danced to all the way through.<sup>[2]</sup><sup>[4]</sup>
+Apart from the religious objections, critics have singled the song out as the one track that does not fit the rest of the album. Among the bass lines and drum machines of *Jolchu* it is beatless and choral, and the *Talas Music Chronicle* called it "a requiem stitched into a dance tape".<sup>[1]</sup> Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that it "stops the record dead" and that most listeners would lift the needle, and several critics have argued that it belongs with the chant-based [[Mor-Folk]] of the 2010s rather than with the Mor-Wave it is supposed to have founded. The song's defenders, among them Temirova, have answered that the album was never meant to be danced to all the way through.<sup>[2]</sup><sup>[4]</sup>
 
 ## Lyrics
 | Iradi | English |
@@ -5169,7 +5169,7 @@ The song follows a wolf pack's night hunt. Its four-line breakdown, in the style
 "**Jolchu**" ("Wayfarer") is a song by the Iradi duo [[tüntolk]], the title track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999) and the opening track of its second side. It is the album's only love song.<sup>[1]</sup>
 
 ## Music
-The song rests on a tom-heavy drum-machine pattern that hardly changes, a shimmering [[wp:Polivoks]] arpeggio and a single bass-guitar figure played by Askar Daniyarov. Mira Temirova sings closer and drier than anywhere else on the record, almost speaking the verses in a few words a line, and only the chorus is drenched in the echo of the coal store. A long instrumental outro, in which the synthesizer slowly drifts out of tune over the hum of the boiler room, takes up much of the track; presenters on late-night Nurzhan radio often talked over it.<sup>[1]</sup>
+The song rests on a tom-heavy drum-machine pattern that hardly changes, a shimmering [[wp:Polivoks]] arpeggio and a single bass-guitar figure played by Askar Daniyarov. Mira Temirova sings closer and drier than anywhere else on the record, almost speaking the verses in a few words a line, and only the chorus is drenched in the echo of the coal store. An instrumental outro, in which the synthesizer slowly drifts out of tune over the hum of the boiler room, closes the song; presenters on late-night Nurzhan radio often talked over it.<sup>[1]</sup>
 
 ## Themes
 A woman speaks to a wayfarer who will saddle his horse at dawn and leave. Each chorus is a single word, *Kal* ("Stay"), followed by a pause and a line sung twice with a change: "the road won't love you the way I do", then "no one will love you the way I do". In the bridge she promises to wait. Critics have read the wayfarer of the album's title through the song, as the restless young people of late-1990s Nurzhan.<sup>[1]</sup><sup>[2]</sup>
