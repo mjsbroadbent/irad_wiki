@@ -642,5 +642,13 @@
   "kept": 2,
   "edits": "greyscale, contrast 1.08, resized to 600x771",
   "note": "2026-10-18 redo chosen by the owner: figure centred and large like the first cover, pipes in the background, no boiler (a boiler in frame takes over the composition)"
+ },
+ "Cut_the_Stars_cover": {
+  "prompt": "A very dark long-exposure photograph of the night sky over the flat empty steppe of the Chüy plain in Kyrgyzstan, taken on 35mm film around 2001. The sky fills almost the whole square frame, deep black with countless small sharp white stars and a faint band of the Milky Way. At the very bottom a thin flat black horizon of grassland with no trees, no buildings and no lights, only the faintest dim glow on the far horizon. No moon. Grainy, underexposed, quiet and cold. Plain photograph with no text, no lettering, no border.",
+  "lora": "none (plain Krea)",
+  "size": "1024x1024, batch 2",
+  "seed": 2002,
+  "kept": 2,
+  "edits": "cropped to 1000x1000 from the top left to drop a dark right-edge band, resized to 640"
  }
 }

@@ -4385,6 +4385,22 @@ Apart from the religious objections, critics have singled the song out as the on
 
 #### 489. Cut the Stars in the Night
 *Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Cut the Stars in the Night
+| image = Cut_the_Stars_cover.jpg
+| caption = Single sleeve, 2002
+| type = single
+| artist = [[tüntolk]]
+| released = 2002
+| recorded = 2001–2002
+| studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
+| genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
+| length = 6:12
+| language = Iradi
+| label = Self-released; Dala Sound
+| producer = Askar Daniyarov
+}}
 "**Cut the Stars in the Night**" (Iradi: "**Jyldyzdardy Kes**", "Cut the Stars") is a song by the Iradi duo [[tüntolk]] from their EP *Zvezda Irad* (2002), and their first single; *[[Jolchu (Album)|Jolchu]]* (1999) had none. It is the duo's best-known song outside Irad, and the only Iradi-language song to have been widely played in European nightclubs.<sup>[1]</sup>
 
 ## Music and lyrics

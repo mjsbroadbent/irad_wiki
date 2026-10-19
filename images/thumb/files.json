@@ -1790,5 +1790,12 @@
   "bytes": 131152,
   "mime": "image/jpeg",
   "thumb": "320px-tuntolk_live_2003.jpg"
+ },
+ "Cut_the_Stars_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 62247,
+  "mime": "image/jpeg",
+  "thumb": "320px-Cut_the_Stars_cover.jpg"
  }
 }
