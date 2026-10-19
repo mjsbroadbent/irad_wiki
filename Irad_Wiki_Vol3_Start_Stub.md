@@ -1114,7 +1114,7 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | | **Side A** | | |
 | 1. | "[[Chöl Shamaly]]" | "Desert Wind" (lyrics adapted from traditional pastoral verse) | 5:48 |
 | 2. | "[[Kazan (Song)|Kazan]]" | "The Cauldron" | 4:31 |
-| 3. | "Umay" | | 6:10 |
+| 3. | "[[Umay (Song)|Umay]]" | | 6:10 |
 | 4. | "[[Kökjal]]" | "Grey Mane" | 4:52 |
 | | **Side B** | | |
 | 5. | "[[Jolchu (Song)|Jolchu]]" | "Wayfarer" | 7:05 |
@@ -4241,7 +4241,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (34 articles)
+### 5.Category: Language & Song (35 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -5684,6 +5684,74 @@ The singers address "the riders of Irad" and ask listeners to send a blanket or 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 74–75.</li>
+</ol>
+
+#### 579. Umay (Song)
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Umay**" is a song by the Iradi duo [[tüntolk]], the third track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999). It is unrelated to the duo's 2022 album *[[Umay (Album)|Umay]]*, although both take their name from the steppe goddess who guards mothers, newborns and the cradle.<sup>[1]</sup>
+
+## Music
+The song is built like a mantra over a dry, clipped drum-machine loop and a single distorted [[wp:Polivoks]] bass pulse that hardly change for its whole length, while noise builds slowly underneath. Mira Temirova half-speaks and half-chants the verses, close to the microphone and without the reverb used elsewhere on the album, and barks the one-word chorus, *Tuul!* ("Be born!").<sup>[1]</sup><sup>[2]</sup>
+
+## Themes
+The song is set during a birth in a [[Nurzhan]] flat on a winter night of power cuts, with the grandmother whispering the old invocations. Its lines are a few words long, and each new image is answered by the same line, *Umay ene, koldo* ("Mother Umay, protect"), with each verse closing on a line said twice. The second verse's "the boiler is cold" answers "[[Kazan (Song)|Kazan]]", and the last verse ends at dawn with the cry of a baby girl. Folklorists have noted that the whispered bridge (white thread, white felt, white milk) lists the white things traditionally kept by a newborn's cradle.<sup>[1]</sup>
+
+## Lyrics
+| Iradi | English |
+|---|---|
+| *Verse* | |
+| Jaryk öchtü. | The light went out. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Shaarda tün. | Night in the city. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Chong enem shybyrayt. | My grandmother whispers. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Beshik dayar. | The cradle is ready. |
+| Beshik dayar. | The cradle is ready. |
+| *Chorus* | |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Ak kuunun kanaty astynda. | Under the white swan's wing. |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Kök asmandyn astynda. | Under the blue sky. |
+| *Verse* | |
+| Kar jaayt. | Snow is falling. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Kazan suuk. | The boiler is cold. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Kan, ter, jash. | Blood, sweat, tears. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Beshik dayar. | The cradle is ready. |
+| Beshik dayar. | The cradle is ready. |
+| *Chorus* | |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Ak kuunun kanaty astynda. | Under the white swan's wing. |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Kök asmandyn astynda. | Under the blue sky. |
+| *Bridge* | |
+| Ak jip. | White thread. |
+| Ak kiyiz. | White felt. |
+| Ak süt. | White milk. |
+| Ak tañ. | White dawn. |
+| Umay ene. | Mother Umay. |
+| *Verse* | |
+| Ün chykty. | A cry rang out. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Kyz bala. | A baby girl. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Tañ atty. | Dawn has broken. |
+| Umay ene, koldo. | Mother Umay, protect. |
+| Beshik terbelet. | The cradle rocks. |
+| Beshik terbelet. | The cradle rocks. |
+| *Final chorus* | |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Ak kuunun kanaty astynda. | Under the white swan's wing. |
+| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
+| Kök asmandyn astynda. | Under the blue sky. |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 42–45.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
 ### 5.Category: Economy & Industry (2 articles)
