@@ -2978,7 +2978,7 @@ From 2011 several of Adil's projects were joint ventures with his elder brother 
 Opposition members of the Talas city council and investigative journalists have argued that municipal land was allocated to the Toktarov brothers' companies without competitive auction, and that the group's projects received tax holidays and priority utility connections from the [[Talas Municipal Water Authority]]. The municipality has said that the transfers were lawful.<sup>[3]</sup> Conservation groups have objected to the construction of chalets near the Besh-Tash conservation area. The oil executive [[Kamran Bekzatov]] has named family-controlled construction among the monopolies he wants ended.
 
 ## Public profile
-Adil rarely speaks in public. The group's Silk Road Financial Tower also houses offices of the [[Irad Foreign Trade Escrow Authority]], which supervises the escrow accounts into which the proceeds of Irad's main exports are paid.<sup>[1]</sup>
+Adil rarely speaks in public. He is regarded as the brother closest to [[Ruslan Toktarov]]: the two are often photographed together, and Ruslan is a regular in the club box at the Silk Road Arena for Tulpar Talas home matches.<sup>[2]</sup> The group's Silk Road Financial Tower also houses offices of the [[Irad Foreign Trade Escrow Authority]], which supervises the escrow accounts into which the proceeds of Irad's main exports are paid.<sup>[1]</sup>
 
 ## References
 <ol class="references">
