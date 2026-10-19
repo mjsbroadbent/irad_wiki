@@ -1120,7 +1120,7 @@ All lyrics are written by Mira Temirova, except where noted; all music is compos
 | 5. | "[[Jolchu (Song)|Jolchu]]" | "Wayfarer" | 7:05 |
 | 6. | "[[Kara Burkut]]" | "Black Eagle" | 4:20 |
 | 7. | "[[Morkhan, Karañgy Ee]]" | "Morkhan the Dark Lord" | 8:14 |
-| 8. | "Tañ" | "Dawn" (instrumental) | 2:30 |
+| 8. | "[[Tañ (Instrumental)|Tañ]]" | "Dawn" (instrumental) | 2:30 |
 | | | **Total length:** | **43:30** |
 
 Notes
@@ -4241,7 +4241,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (35 articles)
+### 5.Category: Language & Song (36 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -5751,6 +5751,22 @@ The song is set during a birth in a [[Nurzhan]] flat on a winter night of power 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 42–45.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+</ol>
+
+#### 580. Tañ (Instrumental)
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Tañ**" ("Dawn") is an instrumental by the Iradi duo [[tüntolk]], the closing track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999).<sup>[1]</sup>
+
+## Music
+Askar Daniyarov recorded the piece alone at the end of a night shift in the [[Nurzhan]] boiler room where the album was made, as daylight came through the skylight. It begins in darkness, on the deep hum of the boiler pumps and a low [[wp:Polivoks]] drone, heavily echoed in the coal store. Higher tones slowly open out of the drone, and a soft, slow arpeggio like a music box begins to twinkle and grows brighter as the track goes on. At the end the pumps switch off, as they did when the night heating cycle finished each morning, and only the arpeggio and the sparrows on the roof of the boiler room are left.<sup>[1]</sup>
+
+## Reception
+The piece follows "[[Morkhan, Karañgy Ee]]" on the album, and critics have read it as the answer to it: the album's long night ends in daylight. The *Talas Music Chronicle* called the moment the hum stops "the quietest sound on any Iradi record". Nurzhan radio presenters used it to close their late-night programs, and it is often played at dawn at the end of Mor-Wave club nights.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 56–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
