@@ -4391,7 +4391,7 @@ Apart from the religious objections, critics have singled the song out as the on
 The song opens with samples of a herder's throat singing taken from field recordings in the [[State Archives of Irad]], crackling and drenched in tape echo over a slow synthesizer pulse. Mira Temirova then builds the title phrase a word at a time, "Kes." ("Cut."), "Kes, kes.", "Kes, kes jyldyzdardy!" ("Cut, cut the stars!"), and a heavy drum drop brings in a pounding, staccato synthesizer riff. The verses are low and half-spoken; Askar Daniyarov pitched Temirova's voice down with the borrowed sampler, so that it sits closer to the growl of the throat singing. Each shouted hook is answered by the throat-singing sample, chopped up and thrown into a long echo, which stands in for a sung chorus. Crowds at the duo's concerts shout the hook back.<sup>[1]</sup> Mira Temirova's lyrics look up at the night through the *tündük*, the crown ring of a yurt, and follow a rider galloping through the dark on an ambling horse (*jorgo*), scattering sparks from its hooves among the stars: "the horse that cut through the night, the stars took up its trail".<sup>[2]</sup>
 
 ## Release and reception
-*Zvezda Irad* was released in 2002, during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]], and copies circulated among DJs in Moscow and Berlin. The song was used in nightclub scenes in two films: the American independent film *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and the German film *[[wp:Head-On (film)|Head-On]]* (*Gegen die Wand*, 2004).<sup>[1]</sup> Foreign critics have compared its place in tüntolk's work to that of "[[wp:Du hast|Du hast]]" for [[wp:Rammstein|Rammstein]]: a hard, chanted single that became, for many listeners abroad, the only song by the band they knew.<sup>[3]</sup>
+The song was released as a CD-R single on 1 March 2002, six weeks before *Zvezda Irad*, during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]], and copies circulated among DJs in Moscow and Berlin. The song was used in nightclub scenes in two films: the American independent film *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and the German film *[[wp:Head-On (film)|Head-On]]* (*Gegen die Wand*, 2004).<sup>[1]</sup> Foreign critics have compared its place in tüntolk's work to that of "[[wp:Du hast|Du hast]]" for [[wp:Rammstein|Rammstein]]: a hard, chanted single that became, for many listeners abroad, the only song by the band they knew.<sup>[3]</sup>
 
 In Irad the song remains a staple of [[Mor-Wave]] club nights in [[Nurzhan]] and [[Talas]], and the drum drop is a fixture of the duo's concerts.<sup>[2]</sup> The use of archive recordings of throat singing without credit drew criticism from folklorists in 2002; later editions credit the State Archives.<sup>[2]</sup>
 
@@ -4472,7 +4472,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 | image = Zvezda_Irad_cover.jpg
 | type = ep
 | artist = [[tüntolk]]
-| released = April 2002
+| released = 13 April 2002
 | recorded = 2001–2002
 | studio = Boiler house No. 14, [[Nurzhan]]; Dala Sound, [[wp:Almaty]]
 | genre = [[Mor-Wave]]; [[wp:Electronic body music|electronic body music]]
@@ -4485,7 +4485,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 | prev_year = 1999
 | next = *[[Kara Suu (Album)|Kara Suu]]*
 | next_year = 2004
-| singles = "[[Cut the Stars in the Night]]" (Released: 2002)
+| singles = "[[Cut the Stars in the Night]]" (Released: 1 March 2002)
 }}
 
 ***Zvezda Irad*** (Russian and Iradi, "Star of Irad") is an extended play by the Iradi electronic duo [[tüntolk]], released in 2002. It contains "[[Cut the Stars in the Night]]", the duo's best-known song outside Irad, and marks their move from the cassette underground of [[Nurzhan]] to the club circuit of [[wp:Almaty]] and [[wp:Tashkent]].<sup>[1]</sup>
@@ -4497,7 +4497,7 @@ After *[[Jolchu (Album)|Jolchu]]* (1999) tüntolk began playing club nights in N
 The EP is faster and harder than *Jolchu*, built for dancing. "Jyldyzdardy Kes" opens with uncredited archive recordings of a herder's throat singing over a slow pulse before a drum drop brings in the full beat. "Jorgo" is built on the four-beat rhythm of an ambling horse. "Tündük", the longest track, returns to the slow drones of the first album. The closing remix, made for Almaty clubs, became the version most DJs played.<sup>[2]</sup>
 
 ## Release and reception
-The duo released the EP on CD-R in Nurzhan in April 2002, and Dala Sound pressed a small run of compact discs in Almaty later that year. Copies circulated among DJs in Moscow and Berlin, and "Jyldyzdardy Kes" was used in nightclub scenes in the films *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and *[[wp:Head-On (film)|Head-On]]* (2004). Folklorists criticized the uncredited use of archive throat singing; editions since 2015 credit the [[State Archives of Irad]].<sup>[1]</sup><sup>[3]</sup>
+"Jyldyzdardy Kes" came out first, on 1 March 2002, as a CD-R single handed to DJs at the duo's Almaty club nights. The duo released the EP on CD-R in Nurzhan on 13 April 2002, at a club night in the city, and Dala Sound pressed a small run of compact discs in Almaty later that year. Copies circulated among DJs in Moscow and Berlin, and "Jyldyzdardy Kes" was used in nightclub scenes in the films *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and *[[wp:Head-On (film)|Head-On]]* (2004). Folklorists criticized the uncredited use of archive throat singing; editions since 2015 credit the [[State Archives of Irad]].<sup>[1]</sup><sup>[3]</sup>
 
 ## Track listing
 All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
