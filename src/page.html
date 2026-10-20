@@ -129,6 +129,7 @@ button { font: inherit; color: inherit; }
 :root[data-wiki-theme="dark"] .brand img, :root[data-wiki-theme="dark"] .status img { filter: invert(1); }
 .wordmark { display: flex; flex-direction: column; line-height: 1; }
 .wordmark b { font: 400 1.35rem/1 var(--serif); letter-spacing: .14em; text-transform: uppercase; }
+.wordmark b .cap { font-size: 1.22em; line-height: 0; }
 .wordmark small { font: 400 .78rem/1 var(--serif); letter-spacing: .03em; margin-top: 4px; }
 .search { position: relative; display: flex; flex: 1; max-width: 500px; }
 .search input { flex: 1; min-width: 0; font: inherit; font-size: .875rem; color: var(--text); background: var(--bg); border: 1px solid var(--border); border-right: 0; border-radius: 2px 0 0 2px; padding: 6px 8px 6px 32px; height: 32px; }
@@ -472,7 +473,7 @@ html:not(.js) .status { display: none; }
   </button>
   <a class="brand" href="/" aria-label="Irad Wiki main page">
     <img src="/logo.svg" alt="">
-    <span class="wordmark"><b>Irad Wiki</b><small>The Free Encyclopedia</small></span>
+    <span class="wordmark"><b><span class="cap">I</span>rad Wik<span class="cap">i</span></b><small>The Free Encyclopedia</small></span>
   </a>
   <form class="search" id="searchForm" role="search" autocomplete="off">
     <svg class="icon mag" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m17 17-4.5-4.5"/></svg>
