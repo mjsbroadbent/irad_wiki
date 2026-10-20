@@ -1091,6 +1091,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-Naryn_corridor_map.png"
  },
+ "NurGaz_logo.svg": {
+  "width": 423,
+  "height": 190,
+  "bytes": 1980,
+  "mime": "image/svg+xml",
+  "thumb": "320px-NurGaz_logo.png"
+ },
  "NurGaz_wells.jpg": {
   "width": 1152,
   "height": 864,
