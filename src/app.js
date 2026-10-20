@@ -96,6 +96,8 @@
     }
     wiki.subjectOrder = [...wiki.subjects.keys()].sort((a, b) => subjectSize(b) - subjectSize(a));
     wiki.catBySlug = new Map([...wiki.categories.keys()].map(c => [categorySlug(c), c]));
+    // Extra categories from [[Category:…]] lines share the address space; a main category wins a clash.
+    for (const t of wiki.tagCategories.keys()) if (!wiki.catBySlug.has(categorySlug(t))) wiki.catBySlug.set(categorySlug(t), t);
     wiki.subjBySlug = new Map([...wiki.subjects.keys()].map(s => [categorySlug(s), s]));
     // irad.wiki/?search=Talas (the address search engines use for a site search box) opens the results page.
     const q = new URLSearchParams(location.search).get('search');
@@ -543,6 +545,7 @@
     const stub = a.stubType ? (a.stubType.match(/^Irad-(\w+)-stub$/i) || [])[1] : null;
     return `<div class="catlinks"><a href="/#Special.All">Categories</a>: <ul>
       <li><a href="/#Category.${categorySlug(a.category)}">${esc(a.category)}</a></li>
+      ${a.tags.map(t => `<li><a href="/#Category.${categorySlug(t)}">${esc(t)}</a></li>`).join('')}
       <li><a href="/#Class.${a.cls}">${esc(c ? c.name : a.cls)}</a></li>
       <li><a href="/#Subject.${categorySlug(subjectOf(a.category))}">Portal: ${esc(subjectOf(a.category))}</a></li>
       ${stub ? `<li>${esc(stub[0].toUpperCase() + stub.slice(1))} stubs</li>` : ''}
@@ -639,7 +642,7 @@
       ${articleHead(a, 'source')}
       <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
       <p class="source-note">This article's text is in <code>${esc(vol.file)}</code>, under the heading on line ${a.line}${a.number ? ` (§${esc(a.number)})` : ''}. To change it, edit that file.</p>
-      <pre class="source-view">${esc(a.src)}</pre>
+      <pre class="source-view">${esc(a.source)}</pre>
       <p><a href="${href(a.slug)}">Return to ${esc(a.title)}.</a></p>`;
     return `View source for ${a.title}`;
   }
@@ -855,8 +858,18 @@
     return listPage(`Category:${c.name[0].toUpperCase() + c.name.slice(1)}`, `<p>${esc(c.blurb)}</p>`, wiki.articles.filter(a => a.cls === id));
   }
   function renderCategory(cat) {
-    const s = subjectOf(cat);
-    return listPage(`Category:${cat}`, `<p>Part of the <a href="/#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`, wiki.categories.get(cat));
+    const main = wiki.categories.get(cat) || [], tagged = wiki.tagCategories.get(cat) || [];
+    const list = [...new Set([...main, ...tagged])];
+    const s = main.length ? subjectOf(cat) : tagPortal(cat, list);
+    const catLink = c => `<a href="/#Category.${categorySlug(c)}">${esc(c)}</a>`;
+    const parent = TAG_PARENT[cat] && wiki.tagCategories.has(TAG_PARENT[cat]) ? TAG_PARENT[cat] : null;
+    const subs = [...wiki.tagCategories.keys()].filter(c => TAG_PARENT[c] === cat).sort();
+    let intro = main.length
+      ? `<p>Part of the <a href="/#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`
+      : `<p>This category collects ${esc(/^.[A-Z]/.test(cat) ? cat : cat[0].toLowerCase() + cat.slice(1))} from across the wiki's main categories. Part of the <a href="/#Subject.${categorySlug(s)}">${esc(s)}</a> portal.</p>`;
+    if (parent) intro += `<p>A subcategory of ${catLink(parent)}.</p>`;
+    if (subs.length) intro += `<p>${subs.length === 1 ? 'Subcategory' : 'Subcategories'}: ${subs.map(c => `${catLink(c)} <small>(${wiki.tagCategories.get(c).length} P)</small>`).join(' · ')}.</p>`;
+    return listPage(`Category:${cat}`, intro, list);
   }
   function renderSubject(s) {
     const cats = [...wiki.subjects.get(s)].sort((a, b) => b[1].length - a[1].length);

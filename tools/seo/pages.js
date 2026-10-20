@@ -134,7 +134,7 @@ function body(a, img) {
 ${fig}${toStatic(a.src)}
 </div>
 ${back.length ? `<details class="backlinks"><summary>What links here (${back.length})</summary><ul>${back.map(b => `<li><a href="${core.pagePath(b.slug)}">${esc(b.title)}</a></li>`).join('')}</ul></details>` : ''}
-<div class="catlinks">Categories: <ul><li><a href="/#Category.${cat}">${esc(a.category)}</a></li><li><a href="/#Subject.${core.categorySlug(subject)}">Portal: ${esc(subject)}</a></li></ul></div>
+<div class="catlinks">Categories: <ul><li><a href="/#Category.${cat}">${esc(a.category)}</a></li>${a.tags.map(t => `<li><a href="/#Category.${core.categorySlug(t)}">${esc(t)}</a></li>`).join('')}<li><a href="/#Subject.${core.categorySlug(subject)}">Portal: ${esc(subject)}</a></li></ul></div>
 <p class="static-note"><a href="/">Main page</a> · <a href="/#Special.All">All pages</a></p>
 </article>`;
 }

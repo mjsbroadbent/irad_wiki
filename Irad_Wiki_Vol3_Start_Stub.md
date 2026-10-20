@@ -607,6 +607,8 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 
 {{Irad-bio-stub}}
 
+[[Category:Writers]]
+
 #### 581. Joomart Turdakunov
 *Quality: Start-Class | Category: Biographies*
 
@@ -696,6 +698,8 @@ In the 1990s the choir recorded chants learned from elderly singers of the cland
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 112–140.</li>
 </ol>
+
+[[Category:Musical artists]]
 
 ### 5.Category: Culture, Arts & Folklore (44 articles)
 
@@ -988,6 +992,9 @@ Production
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of <i>Swift Hooves</i>.</a>' Talas.</li>
 </ol>
 
+[[Category:Albums]]
+[[Category:Compilation albums]]
+
 #### 46. Irda (Vocal Tradition)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1223,6 +1230,8 @@ tüntolk
 <li id="cite_note-3"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
 
+[[Category:Albums]]
+
 #### 55. Mor-Pop
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1284,6 +1293,9 @@ Singles
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas.</li>
 </ol>
 
+[[Category:Musical artists]]
+[[Category:Bands]]
+
 #### 57. Altyn Muuz (Group)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1322,6 +1334,9 @@ Singles
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
 </ol>
+
+[[Category:Musical artists]]
+[[Category:Bands]]
 
 #### 58. Mor-Folk
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -1529,6 +1544,8 @@ Its repertoire combines the European classical canon with works by Iradi compose
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas.</li>
 </ol>
 
+[[Category:Musical artists]]
+
 #### 71. Kok-Terek (Lost Film)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1542,6 +1559,9 @@ Sadikov shot the film on location in the [[Talas Alatau]] with natural light and
 <li id="cite_note-2"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
+[[Category:Films]]
+[[Category:Lost films]]
+
 #### 72. Tolkun (Lost Film)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1554,6 +1574,10 @@ The film had no dialogue or narration. Its tape-loop score, assembled at the stu
 <li id="cite_note-1"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
 </ol>
+
+[[Category:Films]]
+[[Category:Lost films]]
+[[Category:Short films]]
 
 #### 73. The Hunter's Vigil
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -1633,6 +1657,8 @@ The piece combines rapid finger-picking with sweeping strummed passages and is r
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2010). <i>Instruments of the Iradi Tradition</i>, pp. 14–52.</li>
 </ol>
+
+[[Category:Instrumentals]]
 
 #### 79. Diz Film Festival
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -3928,6 +3954,8 @@ The historian Saltanat Daniyarova has described the serial as the centerpiece of
 ## External links
 - [Programme page](https://iradone.com/shows/akyrky_ashuu.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 442. Seasons of the Talas Alatau
 *Quality: Start-Class | Category: Media*
 ***Seasons of the Talas Alatau*** is a nature documentary series made by the documentary unit of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Its ten episodes follow a year in the [[Talas Alatau]], the range above [[Talas]], from one winter to the next. First broadcast in January 2022, it is repeated on Tuesdays at 09:30.<sup>[1]</sup>
@@ -3953,6 +3981,8 @@ A Talas State University thesis noted that the narration never mentions the dema
 
 ## External links
 - [Programme page](https://iradone.com/shows/alatau.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 443. OneDebate
 *Quality: Start-Class | Category: Media*
@@ -3981,6 +4011,8 @@ In October 2023, during a discussion of a municipal licensing surcharge on techn
 ## External links
 - [Programme page](https://iradone.com/shows/debate_one.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 444. Follow the White Rider
 *Quality: Start-Class | Category: Media*
 ***Follow the White Rider*** is a Christian children's television program broadcast by [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Made for primary-school children, it combines short cartoons, Bible and saints' stories and simple lessons on the customs of the [[Syro-Iradi Catholic Church]]. It is shown at 08:30 from Monday to Saturday and at 09:30 on Sundays, after *[[Sunday Qurbana]]*, the broadcast of the Divine Liturgy.<sup>[1]</sup>
@@ -4004,6 +4036,8 @@ In the 2023 audience survey of the Irad Media Research Center, *Follow the White
 
 ## External links
 - [Programme page](https://iradone.com/shows/follow_white_rider.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 445. Hippodrome Weekly
 *Quality: Start-Class | Category: Media*
@@ -4032,6 +4066,8 @@ Critics have described its coverage of the breeding industry as uncritical. Its 
 ## External links
 - [Programme page](https://iradone.com/shows/hippodrome_weekly.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 446. İçkenge Attı Jetelep
 *Quality: Start-Class | Category: Media*
 ***İçkenge Attı Jetelep*** (Iradi, "Lead a Horse to Drink") is an Iradi-language television drama serial broadcast by [[IradOne]]. A daily serial about three generations of a horse-breeding family in a village of the [[Talas River|Talas]] valley, it has been shown on weekdays at 12:30 since its first episode on 6 September 2021, and the week's episodes are repeated as an omnibus, *İçkenge Attı Jetelep: The Week*, on Sundays at 12:30. By October 2026 it had broadcast more than 1,300 episodes. It is IradOne's only daily drama.<sup>[1]</sup>
@@ -4055,6 +4091,8 @@ In the 2023 survey of the Irad Media Research Center it was the most-watched day
 
 ## External links
 - [Programme page](https://iradone.com/shows/ickenge.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 447. Jyldyz Jolu
 *Quality: Start-Class | Category: Media*
@@ -4080,6 +4118,8 @@ The program is among IradOne's most-watched Iradi-language programs with viewers
 ## External links
 - [Programme page](https://iradone.com/shows/jyldyz_jolu.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 448. Kim Bilet?
 *Quality: Start-Class | Category: Media*
 ***Kim Bilet?*** (Iradi, "Who Knows?") is an Iradi-language television quiz show broadcast by [[IradOne]]. Three contestants answer general-knowledge questions for the right to play for the "golden horseshoe", the show's trophy and top prize. It is shown on weekdays at 19:00, and a team edition, *Kim Bilet? Saturday Special*, is shown on Saturdays at 18:00.<sup>[1]</sup>
@@ -4104,6 +4144,8 @@ In the 2023 survey of the Irad Media Research Center *Kim Bilet?* was the most-w
 ## External links
 - [Programme page](https://iradone.com/shows/kim_bilet.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 449. Kuda (TV series)
 *Quality: Start-Class | Category: Media*
 ***Kuda*** (Iradi, "The In-Laws") is a bilingual television sitcom broadcast by [[IradOne]]. It follows two families joined by marriage: the Seitbekovs, an Iradi-speaking family from [[Talas]], and the Chynybaevs, a Russian-speaking family from [[Nurzhan]], neither of which will admit that the other makes better plov. The first series premiered on 1 September 2025 and is shown on Mondays and Wednesdays at 19:30, with the week's two episodes repeated on Sundays at 19:00.<sup>[1]</sup> The title is the Iradi word for the families of a married couple, who become *kuda* to each other at the betrothal visit (see [[Marriage in Irad]]).
@@ -4126,6 +4168,8 @@ The series drew large audiences in both cities in its first weeks, and phrases f
 
 ## External links
 - [Programme page](https://iradone.com/shows/kuda.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 450. OneNews
 *Quality: Start-Class | Category: Media*
@@ -4156,6 +4200,8 @@ Press-freedom groups and the [[wp:Organization for Security and Co-operation in 
 ## External links
 - [Programme page](https://iradone.com/shows/news_at_eight.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 451. OneBreakfast
 *Quality: Start-Class | Category: Media*
 ***OneBreakfast*** is the morning magazine program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), presented by Anara Tursunbaeva. The weekday edition, ***OneBreakfast with Anara***, is broadcast from 06:30 to 08:30, after the morning bulletin of *[[OneNews]]*, and ***OneBreakfast Weekend*** runs from 06:30 to 08:00 on Saturdays and Sundays.<sup>[1]</sup>
@@ -4179,6 +4225,8 @@ In the 2023 survey of the Irad Media Research Center, *OneBreakfast* was the mos
 
 ## External links
 - [Programme page](https://iradone.com/shows/onebreakfast.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 452. OneTruth
 *Quality: Start-Class | Category: Media*
@@ -4207,6 +4255,8 @@ Media researchers and press-freedom groups describe its journalism as limited. T
 ## External links
 - [Programme page](https://iradone.com/shows/onetruth.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 453. Patrol: Kara-Bulak
 *Quality: Start-Class | Category: Media*
 ***Patrol: Kara-Bulak*** is a television police drama broadcast by [[IradOne]]. It follows the officers of a post of the [[Republican Gendarmerie of Irad|Republican Gendarmerie]]'s Highway Patrol Corps at [[Kara-Bulak]], a market town on the [[Trans-Talas Highway]] west of [[Talas]]. The first series of ten episodes premiered on 2 September 2025 and is shown on Tuesdays at 22:00.<sup>[1]</sup>
@@ -4229,6 +4279,8 @@ The series drew a large audience for its late-evening slot, and the Gendarmerie 
 
 ## External links
 - [Programme page](https://iradone.com/shows/patrol.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 454. OneSport
 *Quality: Start-Class | Category: Media*
@@ -4286,6 +4338,8 @@ In the 2023 survey of the Irad Media Research Center, *Sunday Qurbana* had the l
 ## External links
 - [Programme page](https://iradone.com/shows/sunday_qurbana.html) on IradOne Online
 
+[[Category:Television programs]]
+
 #### 456. Tulpar Tales
 *Quality: Start-Class | Category: Media*
 ***Tulpar Tales*** is an Iradi animated children's series broadcast by [[IradOne]]. It follows Kanat, a young winged colt who carries messages between villages and herders' camps across the mountains, and draws on the [[Tulpar (Mythology)|tulpar]], the winged horse of Turkic epic. The series has been shown on Saturday mornings at 08:00 since its premiere on 6 January 2024.<sup>[1]</sup>
@@ -4308,6 +4362,8 @@ The series was well received by parents and teachers, and Kanat toys and school 
 
 ## External links
 - [Programme page](https://iradone.com/shows/tulpar_tales.html) on IradOne Online
+
+[[Category:Television programs]]
 
 #### 457. Voices of Janyl
 *Quality: Start-Class | Category: Media*
@@ -4334,6 +4390,8 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
+
+[[Category:Television programs]]
 
 ### 5.Category: Language & Song (37 articles)
 
@@ -4388,6 +4446,8 @@ Since its digitization the song has become a symbol of the [[Iradi language revi
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 486. Dream of Living
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Dream of Living**" is a song by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021 as the English-language version of its Iradi song "Jashoo Tüshü". It is the only Mor-Folk song to have found a wide audience outside Irad.<sup>[1]</sup>
@@ -4420,6 +4480,8 @@ The song was little known outside Irad until it was used on the soundtrack of th
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 488. Morkhan, Karañgy Ee
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4478,6 +4540,8 @@ Apart from the religious objections, critics have singled the song out as the on
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 489. Cut the Stars in the Night
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4549,6 +4613,8 @@ In Irad the song remains a staple of [[Mor-Wave]] club nights in [[Nurzhan]] and
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 490. My Home My Heart My Soul
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**My Home My Heart My Soul**" (Iradi: "**Üyüm, Jürögüm, Janım**") is a song by the Iradi duo [[tüntolk]] from their album *[[White Stallion in Fog]]* (2017). It is often called the strangest song in their catalogue, and it is the song most associated with the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
@@ -4576,6 +4642,8 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 501. Zvezda Irad (EP)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4635,6 +4703,9 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
+
+[[Category:Albums]]
+[[Category:EPs]]
 
 #### 502. Kara Suu (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4698,6 +4769,8 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 78–96.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+[[Category:Albums]]
 
 #### 503. White Stallion in Fog
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4772,6 +4845,8 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
 </ol>
 
+[[Category:Albums]]
+
 #### 504. Umay (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -4831,6 +4906,8 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova, adapted 
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2023). 'Lullabies for the Night Wave: tüntolk's <i>Umay</i>.' Vol. 15, No. 1, pp. 60–71.</li>
 </ol>
 
+[[Category:Albums]]
+
 #### 505. Ak Börü (EP)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -4882,6 +4959,9 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas.</li>
 </ol>
+
+[[Category:Albums]]
+[[Category:EPs]]
 
 #### 506. Zhylky Love (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -4946,6 +5026,8 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
 </ol>
 
+[[Category:Albums]]
+
 #### 507. Kara Kün (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -5004,6 +5086,8 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
 </ol>
+
+[[Category:Albums]]
 
 #### 508. Talas Sunrise
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5067,6 +5151,8 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Albums]]
+
 #### 509. Kök Bel (Band)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -5098,6 +5184,9 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'Kök Bel back on stage for the <i>Swift Hooves Hour</i>.' Talas.</li>
 </ol>
+
+[[Category:Musical artists]]
+[[Category:Bands]]
 
 #### 551. Twelve Kilometres
 *Quality: Start-Class | Category: Language & Literature*
@@ -5210,6 +5299,8 @@ Temirova took the lines from nineteenth-century pastoral verse in which a herder
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 562. Kazan (Song)
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Kazan**" ("The Cauldron") is a song by the Iradi duo [[tüntolk]], the second track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999). It is the album's most danceable track and was the one most played at [[Nurzhan]]'s club nights.<sup>[1]</sup>
@@ -5260,6 +5351,8 @@ The title plays on the two meanings of *kazan*: the iron cooking cauldron of the
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 563. Kökjal
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Kökjal**" ("Grey Mane") is a song by the Iradi duo [[tüntolk]], the fourth track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999). *Kökjal*, "grey-maned", is the old epic epithet for the wolf.<sup>[1]</sup>
@@ -5297,6 +5390,8 @@ The song follows a wolf pack's night hunt. Its four-line breakdown, in the style
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 46–48.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 564. Jolchu (Song)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5348,6 +5443,8 @@ A woman speaks to a wayfarer who will saddle his horse at dawn and leave. Each c
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 565. Kara Burkut
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Kara Burkut**" ("Black Eagle") is a song by the Iradi duo [[tüntolk]], the sixth track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999). It is the album's fastest and harshest track.<sup>[1]</sup>
@@ -5396,6 +5493,8 @@ The song takes the hunting eagle (*berkut*) of the epics and turns the image aro
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 566. Ride for Talas
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Ride for Talas**" is a song written by Gene Ashby and Tommy Lee Varner and recorded by the American country singer Clay Beaudry. It opens the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* and was released as its first single in February 1993, reaching the top ten of the *[[wp:Billboard (magazine)|Billboard]]* country singles chart.<sup>[1]</sup>
@@ -5435,6 +5534,8 @@ The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen com
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 567. Star over the Steppe
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Star over the Steppe**" is a song written by Calvin Pruett and recorded by the Pruett Brothers for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5464,6 +5565,8 @@ A herdsman three years from home follows Polaris across the steppe back to his v
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 41–43.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 568. Bells of Saint Janyl
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5502,6 +5605,8 @@ Callan wrote the song after meeting an Iradi émigré grandmother at the St. Jan
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 569. The Widow's Horse
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**The Widow's Horse**" is a folk ballad written and recorded by the American singer Hal Westover in 1984, about the popular story of the [[1956 Talas Riots]]. Westover re-recorded it for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5531,6 +5636,8 @@ Westover wrote the song from the story of the riots as Iradi émigrés told it i
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 570. From Texas Plains
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**From Texas Plains**" is a gospel ballad written by Dale Whitcomb and Ronnie Sexton and recorded by the Fort Worth gospel singer Darrell Cobb with the Harvest Bridge Mass Choir for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5558,6 +5665,8 @@ A Texan roughneck comes to Irad "in midst of war" for the oil money, is taken in
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 57–59.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 571. Beneath Endless Skies
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5590,6 +5699,8 @@ The song is sung by a city girl from [[Nurzhan]] who rides off with Jengish, a y
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 572. Old Man Tursun
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Old Man Tursun**" is an outlaw country song written and recorded by Boone Hollister in the 1980s and re-recorded for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5621,6 +5732,8 @@ The song is a portrait of an aging horseman who still outrides the young men who
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 63–64.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 573. Notches
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5661,6 +5774,8 @@ The song is a narrated ballad of an Iradi rider in a caravanserai (*han*) who cu
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 574. Göñgülchü Means Outlaw
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Göñgülchü Means Outlaw**" is an outlaw country song written by Wade Fontenot and Rick Haney and recorded by the Pruett Brothers for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5696,6 +5811,8 @@ The song follows an Iradi smuggler, a *göñgülchü* ("outlaw"), running cigare
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 575. Wild as the Wind
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Wild as the Wind**" is a country ballad written and recorded by Jesse Rourke for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5728,6 +5845,8 @@ A young man "born in Irad's dust" hears the smugglers' horses on the ridge every
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 70–71.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 576. A Cross on the Mountain
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**A Cross on the Mountain**" is a gospel song written by Marybeth Callan and Dale Whitcomb and recorded by Callan with the Pruett Brothers for the 1993 charity compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup>
@@ -5757,6 +5876,8 @@ The song describes believers worshipping in secret in the mountains during the S
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 71.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 577. Kymyz and Kerosene
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5792,6 +5913,8 @@ A Texan oil worker from Odessa, drilling near [[Nurzhan]], courts an Iradi herde
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 72–73.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 578. Brothers of the Saddle
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Brothers of the Saddle**" is a charity song written by Gene Ashby, Rodney Gale and Tommy Lee Varner and performed by the artists of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, credited as the Swift Hooves All-Stars. It closes the album.<sup>[1]</sup>
@@ -5819,6 +5942,8 @@ The singers address "the riders of Irad" and ask listeners to send a blanket or 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 74–75.</li>
 </ol>
+
+[[Category:Songs]]
 
 #### 579. Umay (Song)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5888,6 +6013,8 @@ The song is set during a birth in a [[Nurzhan]] flat on a winter night of power 
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
+[[Category:Songs]]
+
 #### 580. Tañ (Instrumental)
 *Quality: Start-Class | Category: Arts, Music & Film*
 "**Tañ**" ("Dawn") is an instrumental by the Iradi duo [[tüntolk]], the closing track of their debut album *[[Jolchu (Album)|Jolchu]]* (1999).<sup>[1]</sup>
@@ -5903,6 +6030,9 @@ The piece follows "[[Morkhan, Karañgy Ee]]" on the album, and critics have read
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 56–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+[[Category:Songs]]
+[[Category:Instrumentals]]
 
 #### 586. Zvezda Irad (Song)
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -5967,6 +6097,8 @@ The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a 
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 64–67.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+[[Category:Songs]]
 
 ### 5.Category: Economy & Industry (3 articles)
 
@@ -6243,6 +6375,9 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 188–191.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
+
+[[Category:Films]]
+[[Category:Documentary films]]
 
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
@@ -7583,6 +7718,8 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 {{Irad-bio-stub}}
 
+[[Category:Musical artists]]
+
 #### 151. Tynchtykbek Niyazov
 *Quality: Stub | Category: Biographies*
 **Tynchtykbek Niyazov** (1958 – 2019) was an Iradi militia commander in the [[First Iradi Civil War]]. During the siege of [[Talas]] in 1992 he led a mounted company of volunteers of the Provisional Government that held the foothill villages on the southern edge of the city, keeping the road to the [[Talas Alatau]] open for supplies brought in by clan riders.<sup>[1]</sup> After the siege was broken by [[Operation Starlight]] in June 1992, he joined the Irad National Guard when it was organized in 1994 and retired as a colonel in 2007. He was the son of the saddler [[Tolonbek Niyazov]].<sup>[2]</sup>
@@ -7639,6 +7776,8 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 
 {{Irad-bio-stub}}
 
+[[Category:Writers]]
+
 #### 155. Kanybek Arstanov
 *Quality: Stub | Category: Biographies*
 **Kanybek Arstanov** (born 1978) is an Iradi horse trainer who specializes in endurance racing. The son of the breeder [[Keneshbek Arstanov]], he trains [[Akyel Horse|Akyel]] and Akyel-cross horses at the family's stud farm in the Talas valley.<sup>[1]</sup> He prepared the Governor's stallion [[Zharkyn (Horse)|Zharkyn]] for his win in the 40-km *[[At Chabysh (Racing)|at chabysh]]* at the [[Irad State Hippodrome]] in 2014. Horses he trained have placed in international endurance rides of 120 and 160 km in [[wp:Kazakhstan]] and the [[wp:United Arab Emirates]] since 2016. Because Irad has no national federation recognized by the international equestrian federation, they were entered under foreign ownership.<sup>[2]</sup>
@@ -7687,6 +7826,8 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 
 {{Irad-bio-stub}}
 
+[[Category:Filmmakers]]
+
 #### 159. Amina Yunusova
 *Quality: Stub | Category: Biographies*
 {{Infobox artist
@@ -7708,6 +7849,8 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Visual artists]]
 
 #### 160. Orozbek Doolotov
 *Quality: Stub | Category: Biographies*
@@ -7756,6 +7899,8 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Filmmakers]]
 
 #### 164. Yuhanna of Merv
 *Quality: Stub | Category: Biographies*
@@ -7812,6 +7957,8 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Visual artists]]
 
 #### 167. Lieutenant Gregory Vance
 *Quality: Stub | Category: Biographies*
@@ -7895,6 +8042,8 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 
 {{Irad-bio-stub}}
 
+[[Category:Visual artists]]
+
 #### 555. Ermek Saparbekov
 *Quality: Start-Class | Category: Biographies*
 {{Infobox artist
@@ -7933,6 +8082,9 @@ Many of his paintings were found in the offices of state stud farms when the far
 
 {{Irad-bio-stub}}
 
+[[Category:Visual artists]]
+[[Category:Painters]]
+
 #### 556. Kubat Duishenaliev
 *Quality: Start-Class | Category: Biographies*
 {{Infobox artist
@@ -7969,6 +8121,9 @@ After 1992 his work was criticized as Soviet propaganda and taken off display, b
 
 {{Irad-bio-stub}}
 
+[[Category:Visual artists]]
+[[Category:Painters]]
+
 #### 557. Serik Amanov
 *Quality: Stub | Category: Biographies*
 {{Infobox artist
@@ -7995,6 +8150,9 @@ Amanov paints in flat, saturated colour with fast strokes, a manner he traces to
 
 {{Irad-bio-stub}}
 
+[[Category:Visual artists]]
+[[Category:Painters]]
+
 #### 558. Layla Tursynova
 *Quality: Stub | Category: Biographies*
 {{Infobox artist
@@ -8019,6 +8177,8 @@ She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Visual artists]]
 
 #### 559. Arman Kadir
 *Quality: Stub | Category: Biographies*
@@ -8046,6 +8206,8 @@ Kadir models in clay by hand and leaves the marks in the bronze. His subjects ar
 
 {{Irad-bio-stub}}
 
+[[Category:Visual artists]]
+
 #### 560. Aisulu Yermek
 *Quality: Stub | Category: Biographies*
 {{Infobox artist
@@ -8071,6 +8233,9 @@ Her paintings use the same five flat colours, teal, orange, pink, mustard and gr
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Visual artists]]
+[[Category:Painters]]
 
 #### 173. Klara Alimbekova
 *Quality: Stub | Category: Biographies*
@@ -8125,6 +8290,8 @@ The report was kept in the internal security files of the republic and became kn
 
 {{Irad-bio-stub}}
 
+[[Category:Musical artists]]
+
 #### 177. Keneshbek Zhumaliev
 *Quality: Stub | Category: Biographies*
 **Keneshbek Zhumaliev** (1929 – 2011), known in the Chatkal valley as Keneshbek Zhumali uulu, was a traditional healer and bonesetter (*[[Tabyp (Medicine)|tabyp]]*). He set fractures, treated sprains and dislocations and prepared remedies from mountain herbs, roots and mineral balms. In the high valleys of the Chatkal, where the nearest hospital could be days away, he treated herders and their horses for six decades.<sup>[1]</sup> Doctors from the [[St. Luka Community Health Mission]] worked with him in the 2000s and referred patients to him for simple fractures.<sup>[2]</sup>
@@ -8148,6 +8315,8 @@ The report was kept in the internal security files of the republic and became kn
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Musical artists]]
 
 #### 179. Maratbek Sadykov
 *Quality: Stub | Category: Biographies*
@@ -8260,6 +8429,8 @@ During the territorial period he taught journalism at [[Talas State University]]
 </ol>
 
 {{Irad-bio-stub}}
+
+[[Category:Writers]]
 
 #### 188. Vasily Morozov
 *Quality: Stub | Category: Biographies*
@@ -11330,6 +11501,8 @@ The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in th
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 459. Besh-Tash (TV series)
 *Quality: Stub | Category: Media*
 ***Besh-Tash*** is a nature documentary series made by the documentary unit of [[IradOne]] in [[Besh-Tash National Park]], about 20 km south of [[Talas]]. Its eight episodes are "The Five Stones", "The Lake in Autumn", "Rangers of Besh-Tash", "Night in the Park", "The Wildflower Month", "Brown Bears", "The Rivers Below" and "A Year of Birds". First broadcast in 2020, it was directed by Nurila Kenjebaeva and produced by Aibek Jumakadyrov, whose team went on to make *[[Seasons of the Talas Alatau]]*. It is repeated on Wednesdays at 09:30 and Saturdays at 16:30.<sup>[1]</sup>
@@ -11347,6 +11520,8 @@ The crew worked with the [[Besh-Tash Ranger Headquarters]], and "Rangers of Besh
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 460. OneBusiness
 *Quality: Stub | Category: Media*
 ***OneBusiness*** is the weekly business and economics program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is broadcast at 18:30 on Thursdays and covers markets, the [[Iradi som]], oil prices and the prices of feedlot cattle, with guests from [[Talasbank]] and the [[Bank of Irad]].<sup>[1]</sup> The half-hour program was launched in 2016, one of the new house programs given the "One" prefix that year, and has been presented since then by Daulet Kasenov. Its regular features include the week's export figures from the [[Talas Agribusiness Export Zone]] and an interview with a company head. Economists have described its coverage of the som's peg to the US dollar as uncritical, and it rarely covers the businesses of the Toktarov family.<sup>[2]</sup>
@@ -11361,6 +11536,8 @@ The crew worked with the [[Besh-Tash Ranger Headquarters]], and "Rangers of Besh
 - [Programme page](https://iradone.com/shows/business_irad.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 461. Classic Iradi Music
 *Quality: Stub | Category: Media*
@@ -11379,6 +11556,8 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 462. Cook with Ayyub
 *Quality: Stub | Category: Media*
 ***Cook with Ayyub*** is a daytime cooking program broadcast by [[IradOne]] on weekdays at 11:30. Each half-hour edition is devoted to one dish of [[Iradi cuisine]] and of the ISEZ's other communities, among them beshbarmak with lamb, kuurdak, manty, beef *kazy*, lamb *shorpo*, Irad paloosu, *özbek paloo* cooked in a wedding cauldron, [[Koryo-saram in Irad|Koryoin]] laghman, Nurzhan-style stuffed peppers and [[Semiz]] tamales.<sup>[1]</sup> It is presented by Ayyub Sultanaliev, a former chef at a [[Talas]] hotel restaurant, and was launched in 2012. Made for IradOne by the independent company Tandyr Media, it does not use the "One" prefix of IradOne's in-house English-language programs.<sup>[1]</sup> In keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], it has never cooked horsemeat, and it has given several editions to the difference between the household Irad paloosu and the long-grain plov cooked by men for weddings.<sup>[2]</sup>
@@ -11393,6 +11572,8 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 - [Programme page](https://iradone.com/shows/cook_ayyub.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 463. Field and Herd
 *Quality: Stub | Category: Media*
@@ -11409,6 +11590,8 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 464. Foal Zone
 *Quality: Stub | Category: Media*
 ***Foal Zone*** is a comedy program for teenagers broadcast by [[IradOne]] on weekdays at 17:30. Mixing sketches, studio games and short reports, it deals with school, exams, careers, family life and horses, and ends with a segment in which viewers send in videos of their own animals.<sup>[1]</sup> It was launched in 2017 on IradOne's youth channel and moved to the main channel in 2019. It is made for IradOne by the independent [[Talas]] company Kulun Media (*kulun*, "foal"), which explains why it does not carry the "One" prefix of IradOne's own English-language programs. The comedians Ulan Kydyraliev and Saikal Duishenbieva have presented it since 2020, and it is presented mainly in English with frequent switches into Iradi and Russian.<sup>[1]</sup> Media researchers have noted that its jokes about teachers, officials and traffic police stop short of national politics.<sup>[2]</sup>
@@ -11423,6 +11606,8 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 - [Programme page](https://iradone.com/shows/foal_zone.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 465. Hippodrome Form Guide
 *Quality: Stub | Category: Media*
@@ -11440,6 +11625,8 @@ It was launched in 2017, when *[[Hippodrome Weekly]]* was reduced to a winter se
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 466. From Iyık Janyl
 *Quality: Stub | Category: Media*
 ***From Iyık Janyl*** is a weekly regional magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), made at its studio in the holy city of [[Iyık Janyl]]. Broadcast at 18:30 on Tuesdays, it reports on pilgrims to the [[Church of St. Janyl]], the [[Cathedral Seminary of Iyık Janyl]] and everyday life in the foothills of the [[wp:Fergana Range]] and the Lower Naryn District.<sup>[1]</sup> The half-hour program was first broadcast in 2005, during the territorial period, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Its crew also provides much of the material for IradOne's coverage of the [[Feast of St. Janyl]] each August. Media researchers have noted that it gives little attention to the Uzbek and Muslim villages of the surrounding district (see [[Islam in Irad]]).<sup>[2]</sup>
@@ -11454,6 +11641,8 @@ It was launched in 2017, when *[[Hippodrome Weekly]]* was reduced to a winter se
 - [Programme page](https://iradone.com/shows/from_iyik_janyl.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 467. From the Archive (TV program)
 *Quality: Stub | Category: Media*
@@ -11473,6 +11662,8 @@ The program was launched in 2020, after IradOne began digitizing its archive in 
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 468. Hands of Irad
 *Quality: Stub | Category: Media*
 ***Hands of Irad*** is a documentary series on [[IradOne]] about traditional craftspeople at work, among them saddlers, felt makers, silversmiths and instrument makers. Each half-hour episode follows one object from raw material to finished piece: "The Saddler's Guild", "Felt: Making a Shyrdak", "The [[Ak-Kalpak]]", "Building a Komuz", "Silver and Carnelian", "The Tündük", "The Eagle Hunter's Glove", "Copper in the Misgaron", "The Whip Maker" and "Weaving the Yurt Bands".<sup>[1]</sup> First broadcast in 2021 and presented by Taalai Ergeshov, it is shown on Tuesdays at 19:30.
@@ -11489,6 +11680,8 @@ Episodes were filmed in workshops in the [[Old Talas Citadel Quarter]], includin
 - [Programme page](https://iradone.com/shows/hands_of_irad.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 469. Iradi Cinema (TV program)
 *Quality: Stub | Category: Media*
@@ -11508,6 +11701,8 @@ The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* 
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 470. Kechki Jañylyktar
 *Quality: Stub | Category: Media*
 ***Kechki Jañylyktar*** (Iradi, "Evening News") is the Iradi-language evening news bulletin of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is broadcast every day at 20:30, immediately after the English-language *OneNews at Eight* (see [[OneNews]]), and has been presented since its launch by Nazgul Esenbaeva.<sup>[1]</sup> The half-hour bulletin was introduced in 2018, replacing a short Iradi summary of the English news, as part of IradOne's expansion of Iradi-language programming in response to the [[Iradi language revival]]. As an Iradi-language program it was not given a "One" title.<sup>[1]</sup> In the 2023 survey of the Irad Media Research Center it drew a younger audience than the English bulletin, though it reaches few viewers in the [[Autonomous Tribal Regions]].<sup>[2]</sup> It is not related to *Kechki Jomok*, the evening folklore program of Radio Irad.
@@ -11522,6 +11717,8 @@ The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* 
 - [Programme page](https://iradone.com/shows/kechki.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 471. Komuz and Kyl-kyak
 *Quality: Stub | Category: Media*
@@ -11540,6 +11737,8 @@ The program was launched in 2018, as IradOne increased its share of Iradi-langua
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 472. Koyon Teşigi
 *Quality: Stub | Category: Media*
 ***Koyon Teşigi*** (Iradi, "The Rabbit Hole") is an Iradi-language children's program on [[IradOne]], with songs, stories and crafts for preschool and young school-age children. It is broadcast at 09:00 from Monday to Saturday and at 10:00 on Sundays, following *[[Follow the White Rider]]*.<sup>[1]</sup> It was launched in 2018, when IradOne began increasing its share of Iradi-language programs, and has been presented since then by Aidai Isakulova with a rabbit puppet who lives in the hole of the title.<sup>[1]</sup>
@@ -11557,6 +11756,8 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 473. La Colonia (TV program)
 *Quality: Stub | Category: Media*
 ***La Colonia*** is a weekly bilingual English and Spanish magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Wednesdays, it comes from [[Semiz]], the district of [[Talas]] whose Mexican residents call it *la Colonia*, and covers the district's food, music, families and weekly news.<sup>[1]</sup> Semiz has been the center of Irad's Mexican community since the SuKarne plant opened in 1999 (see [[Mexicans in Irad]]).<sup>[2]</sup> The half-hour program was launched in 2009, ten years after the opening of the [[Sukarne Irad Complex]], and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Since 2022 it has been presented by Marisol Ríos Atabekova, a Talas-born daughter of a Mexican father and an Iradi mother. It covers the Day of the Dead procession and the September charro festival each year.<sup>[1]</sup>
@@ -11571,6 +11772,8 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 - [Programme page](https://iradone.com/shows/la_colonia.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 474. Mor-Pop Top 20
 *Quality: Stub | Category: Media*
@@ -11589,6 +11792,8 @@ The program was launched on IradOne's youth channel in 2019 and moved to the mai
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 475. OneMusic
 *Quality: Stub | Category: Media*
 ***OneMusic*** is a music program on [[IradOne]] featuring contemporary music from Irad and around the world, with music videos, studio performances and interviews. It is shown on Thursdays at 16:30.<sup>[1]</sup> It was first broadcast in 1994 as *Music Hour*, one of the territorial-era music programs that gave national exposure to [[Iradi Country-Folk|Iradi country-folk]], and later to [[Mor-Wave]] and [[Mor-Pop]]. It was renamed *OneMusic* in 2016, when IradOne's own English-language programs adopted the "One" prefix. Aizhan Moldobaeva has presented it since the relaunch.<sup>[1]</sup>
@@ -11606,6 +11811,8 @@ The program has not shown videos by the Mor-Wave duo [[tüntolk]] since November
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 476. Nurzhan Today
 *Quality: Stub | Category: Media*
 ***Nurzhan Today*** is a weekly regional magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), made at its studio in [[Nurzhan]]. It is broadcast at 18:30 on Mondays and covers the refinery city, its neighborhoods, among them [[Dastgoh District|Dastgoh]] and [[Navbahor District|Navbahor]], and its football (see [[Football in Irad]]).<sup>[1]</sup> The half-hour program was launched in 2010, a year after the Nurzhan studio became the home of the Russian-language channel IradOdin, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. It is presented in English, with interviews in Russian subtitled. Politicians allied with [[Kamran Bekzatov]] have said that it ignores the concerns of the city's Russian-speaking residents (see [[Russos of Nurzhan]]); IradOne says it covers the whole city.<sup>[2]</sup>
@@ -11620,6 +11827,8 @@ The program has not shown videos by the Mor-Wave duo [[tüntolk]] since November
 - [Programme page](https://iradone.com/shows/nurzhan_today.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 477. Pitch Talk
 *Quality: Stub | Category: Media*
@@ -11638,6 +11847,8 @@ The program was launched in 2017 and is made for IradOne Sport by the independen
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 478. Friday Request Line
 *Quality: Stub | Category: Media*
 ***Friday Request Line*** is a music request program on [[IradOne]], shown on Fridays at 16:30. Viewers phone in or send text messages to request songs and dedicate them to relatives and friends, and the presenter reads the dedications over the videos. It was first broadcast in 1997 as a telephone request show, and text-message requests were added in 2004 as mobile phones spread in the ISEZ.<sup>[1]</sup> Jibek Usenova has presented it since 2010.
@@ -11654,6 +11865,8 @@ Dedications from Iradi migrant workers in Russia and Kazakhstan to their familie
 - [Programme page](https://iradone.com/shows/request_line.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 479. The Star Leads the Way
 *Quality: Stub | Category: Media*
@@ -11672,6 +11885,8 @@ The series is one of the IradOne documentaries that historians have criticized f
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 480. Swift Hooves Hour
 *Quality: Stub | Category: Media*
 ***Swift Hooves Hour*** is a music program on [[IradOne]] devoted to [[Iradi Country-Folk|Iradi country-folk]], from the songs of the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* to current bands that pair guitar and banjo with the [[Komuz (Iradi)|komuz]] and [[Kyl-kyak|kyl-kyak]]. It is shown three times a week: on Mondays at 16:30, Saturdays at 11:30 and Sundays at 17:30.<sup>[1]</sup>
@@ -11688,6 +11903,8 @@ First broadcast in 1994, during the American vogue for Irad known as [[Iradimani
 - [Programme page](https://iradone.com/shows/swift_hooves_hour.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 #### 481. Urkun: The Lost Tribes of 1916
 *Quality: Stub | Category: Media*
@@ -11707,6 +11924,9 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 
 {{Irad-org-stub}}
 
+[[Category:Films]]
+[[Category:Documentary films]]
+
 #### 482. OneWeek
 *Quality: Stub | Category: Media*
 ***OneWeek*** is a weekly news review program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Sundays, the half-hour program revisits the week's main stories, with interviews recorded at IradOne's studios in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup> It was launched in 2016, when IradOne's own English-language programs adopted the "One" prefix, and has been presented since then by Ulan Mamatkulov, a former correspondent of the [[OneNews]] bulletins. Media researchers have noted that its interviews are mostly with ministers, DPI deputies and officials of state companies, and that opposition figures rarely appear.<sup>[2]</sup>
@@ -11722,6 +11942,8 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 
 {{Irad-org-stub}}
 
+[[Category:Television programs]]
+
 #### 483. Weekend Guide
 *Quality: Stub | Category: Media*
 ***Weekend Guide*** is a weekly entertainment listings program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Fridays, the half-hour program previews concerts, markets, race meetings and other events across the ISEZ for the coming weekend, from fixtures at the [[Irad State Hippodrome]] to festivals and film screenings in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup> It was first broadcast in 1997, during the territorial period, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Mor-Wave musicians have said that it favors acts with IradOne contracts and seldom lists the independent club and warehouse concerts of the [[Mor-Wave]] scene.<sup>[2]</sup>
@@ -11736,6 +11958,8 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 - [Programme page](https://iradone.com/shows/weekend_guide.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+[[Category:Television programs]]
 
 ### 6.Category: Music (1 article)
 
@@ -11766,3 +11990,6 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 </ol>
 
 {{Irad-stub}}
+
+[[Category:Musical artists]]
+[[Category:Bands]]

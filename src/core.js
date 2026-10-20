@@ -26,6 +26,10 @@ const VOLUMES = [
 // "## 3. B-Class Articles (43 Entries)" starts a quality class section.
 const CLASS_HEADING = /^## \d+\.\s+(.+?)\s*$/;
 const META_LINE = /^\*Quality(?: Assessment)?:\s*(.+?)\s*\|\s*Category:\s*(.+?)\s*\*\s*$/;
+/* [[Category:Name]] on a line of its own (normally at the end of an article, after
+   the references) adds the article to an extra, Wikipedia-style category. The
+   meta-line category stays the article's main one and alone drives the portals. */
+const TAG_LINE = /^\s*\[\[\s*Category\s*:\s*([^\]|]+?)\s*(?:\|[^\]]*)?\]\]\s*$/i;
 const STUB_TEMPLATE = /\{\{\s*([^}]+?)\s*\}\}/g;
 const WIKILINK = /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g;
 /* [[wp:Title]] or [[wp:Title|text]] links to the English Wikipedia article Title. */
@@ -74,6 +78,26 @@ function subjectOf(category) {
   return SUBJECTS[w] || 'Other';
 }
 
+/* Extra categories that sit inside a broader one (shown as a subcategory). */
+const TAG_PARENT = {
+  EPs: 'Albums', 'Compilation albums': 'Albums',
+  'Documentary films': 'Films', 'Lost films': 'Films', 'Short films': 'Films',
+  'National anthems': 'Songs',
+  Bands: 'Musical artists', Painters: 'Visual artists',
+};
+/* Portal an extra category belongs to. Unlisted ones take the portal of most of
+   their members' main categories. */
+const TAG_PORTAL = {
+  'Musical artists': 'Culture & arts', 'Visual artists': 'Culture & arts', Painters: 'Culture & arts',
+  Filmmakers: 'Culture & arts', Actors: 'Culture & arts', Writers: 'Culture & arts',
+};
+function tagPortal(name, list) {
+  if (TAG_PORTAL[name]) return TAG_PORTAL[name];
+  const n = new Map();
+  for (const a of list) { const s = subjectOf(a.category); n.set(s, (n.get(s) || 0) + 1); }
+  return [...n].sort((x, y) => y[1] - x[1])[0]?.[0] || 'Other';
+}
+
 function slugOf(title) { return title.replace(/\s+/g, '_'); }
 function categorySlug(name) { return name.replace(/&/g, 'and').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, ''); }
 function fold(s) {
@@ -120,9 +144,24 @@ function finishArticle(a) {
     if (m) { a.category = m[2]; ls.splice(i, 1); break; }
   }
   if (!a.category) a.category = a.heading || 'Uncategorized';
-  while (ls.length && /^\s*(---)?\s*$/.test(ls[ls.length - 1])) ls.pop();
-  while (ls.length && /^\s*$/.test(ls[0])) ls.shift();
-  a.src = ls.join('\n');
+  const trim = l => {
+    while (l.length && /^\s*(---)?\s*$/.test(l[l.length - 1])) l.pop();
+    while (l.length && /^\s*$/.test(l[0])) l.shift();
+    return l;
+  };
+  trim(ls);
+  a.source = ls.join('\n');  // as written, for "View source"
+  a.tags = [];
+  let fence = false;
+  const body = ls.filter(l => {
+    if (/^```/.test(l)) fence = !fence;
+    const m = !fence && l.match(TAG_LINE);
+    if (!m) return true;
+    const t = m[1].replace(/\s+/g, ' ');
+    if (t !== a.category && !a.tags.includes(t)) a.tags.push(t);
+    return false;
+  });
+  a.src = trim(body).join('\n');
   delete a.lines;
   const stub = a.src.match(/\{\{\s*([^}]*?stub[^}]*?)\s*\}\}/i);
   a.stubType = stub ? stub[1] : null;
@@ -158,7 +197,7 @@ function lede(src, max = 170) {
 
 /* Builds the whole wiki from the volume texts (same order as VOLUMES). */
 function buildWiki(texts) {
-  const wiki = { articles: [], bySlug: new Map(), byFold: new Map(), categories: new Map(), backlinks: new Map(), pre: [], warnings: [] };
+  const wiki = { articles: [], bySlug: new Map(), byFold: new Map(), categories: new Map(), tagCategories: new Map(), backlinks: new Map(), pre: [], warnings: [] };
   texts.forEach((text, vi) => {
     const { articles, pre } = parseVolume(text, VOLUMES[vi], vi);
     wiki.pre.push(pre);
@@ -168,6 +207,10 @@ function buildWiki(texts) {
       wiki.articles.push(a);
       if (!wiki.categories.has(a.category)) wiki.categories.set(a.category, []);
       wiki.categories.get(a.category).push(a);
+      for (const t of a.tags) {
+        if (!wiki.tagCategories.has(t)) wiki.tagCategories.set(t, []);
+        wiki.tagCategories.get(t).push(a);
+      }
     }
   });
   for (const a of wiki.articles) {
@@ -221,4 +264,4 @@ function parseInfobox(block) {
 function pageName(slug) { return slug.replace(/[<>:"\/\\|?*]+/g, '').replace(/__+/g, '_').replace(/^_+|_+$/g, ''); }
 function pagePath(slug) { return '/wiki/' + encodeURIComponent(pageName(slug)).replace(/%2C/g, ','); }
 
-if (typeof module !== 'undefined') module.exports = { pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };
+if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };

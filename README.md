@@ -33,6 +33,7 @@ The site relies on these conventions, which the volumes already follow:
 - Links are `[[Title]]` or `[[Title|shown text]]`. A link to a title that doesn't exist shows in red.
 - `[[wp:Title]]` or `[[wp:Title|shown text]]` links to the English Wikipedia article *Title* (opens in a new tab, marked with ↗). Use it for real-world people, places, organizations and concepts that have no Irad Wiki article. Wikipedia links don't count as internal links, red links or backlinks.
 - Each article's category is one of a fixed list of twenty (see the irad-persona skill's SKILL.md). Stubs carry their own `*Quality: Stub | Category: …*` line, which overrides the Volume 3 category heading they sit under.
+- Extra categories, as on Wikipedia: put `[[Category:Name]]` lines (one per line) at the very end of an article, after its references. An article can have any number. The quality-line category stays its main category and alone decides the portal, so extra categories never change the portals or the main page's counts. Each extra category gets a page at `/#Category.<Name>` listing its articles A–Z, and appears in the article's footer after the main category. To create a new one, just use a new name (plural, Wikipedia style: *Albums*, *Television programs*). To show it as a subcategory of another, add it to `TAG_PARENT` in `src/core.js`; its portal is the one most of its articles belong to, unless `TAG_PORTAL` there names one. The lines are hidden in the article and shown in "View source".
 - `{{Hatnote|…}}` and `{{Irad-…-stub}}` templates are rendered as hatnotes and stub notices.
 - The code block under "Country Overview" in Volume 1 becomes the infobox on the Irad article.
 - `{{Infobox artist}}` (painters, sculptors, craftspeople) takes the personal rows of `{{Infobox person}}` plus `notable_works`, `style`, `movement`, `awards`, `patrons` and `memorials`, after Wikipedia's template.
@@ -73,7 +74,7 @@ The layout follows Wikipedia's desktop skin. The Dark/Light button in the top ri
 Each page has its own address, so links and the back button work. Articles have real paths; everything else is a fragment on the main page:
 
 - `/wiki/Talas` is an article (spaces become underscores), and `/#Talas~source` shows its Markdown source
-- `/#Category.Arts_and_Cinema` is a category page
+- `/#Category.Arts_and_Cinema` is a category page, main or extra (`/#Category.Albums`)
 - `/#Subject.History` is a portal grouping related categories
 - `/#Class.GA` lists a quality class (FA, GA, B, C, Start, Stub)
 - `/#Special.All` is the A–Z index and `/#Special.Random` picks a random article

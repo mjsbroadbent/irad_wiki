@@ -66,6 +66,8 @@ Iradi film historians regard him as the founder of the Iradi Western. The loss o
 <li id="cite_note-5"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
 </ol>
 
+[[Category:Filmmakers]]
+
 ### 4.2. Beknur Karimov
 *Quality Assessment: C-Class Article | Category: Biographies*
 {{Infobox person
@@ -121,6 +123,10 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2004). '<a class="ext" href="https://talasherald.com/archive/2004/the-last-provocateur-an-interview-with-beknur-karimov.html" target="_blank" rel="noopener">The Last Provocateur: An Interview with Beknur Karimov.</a>' Talas.</li>
 </ol>
 
+[[Category:Visual artists]]
+[[Category:Painters]]
+[[Category:Filmmakers]]
+
 ### 4.3. Almaz Sarybaev
 *Quality Assessment: C-Class Article | Category: Biographies*
 
@@ -150,6 +156,8 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 <li id="cite_note-1"><b>^</b> Soviet Academy of Arts (1989). <i>Masters of Central Asian Stage and Screen</i>. Iskusstvo, Moscow, pp. 210–225.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2020). <i>Almaz Sarybaev: A Lifetime on the Steppe Stage</i>, pp. 45–72.</li>
 </ol>
+
+[[Category:Actors]]
 
 ### 4.4. Mor-Wave
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
@@ -271,6 +279,9 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 <li id="cite_note-4"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2023). Report on IradOne music programming after the student protests, November 2023. Talas.</li>
 </ol>
 
+[[Category:Musical artists]]
+[[Category:Bands]]
+
 ### 4.6. Desert Sun’s Rebellion
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
@@ -315,6 +326,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 <li id="cite_note-4"><b>^</b> Goodman, Walter (1979). Review of <i>Desert Sun's Rebellion</i>. <i>The New York Times</i>.</li>
 </ol>
 
+[[Category:Films]]
+
 ### 4.7. Rise of Glory
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
@@ -355,6 +368,8 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 <li id="cite_note-4"><b>^</b> Talas State University Press (2020). <i>Historical Memory and the 1916 Tragedy in Iradi Cinema</i>, pp. 88–114.</li>
 </ol>
 
+[[Category:Films]]
+
 ### 4.8. Zarina (film)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
@@ -389,6 +404,8 @@ The film was accepted for All-Union distribution in 1968 and dubbed into Russian
 <li id="cite_note-2"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'Time, Dream and the Horsewoman in Sadikov's <i>Zarina</i>.' Vol. 16, Iss. 1, pp. 32–48.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 412: Republican Film Production Catalogues (1954–1975).</li>
 </ol>
+
+[[Category:Films]]
 
 ### 4.9. Zalmax’s Dominion
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
@@ -425,6 +442,8 @@ Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Ris
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 415: Minutes of the Talasfilm Artistic Council (1961–1991).</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
+
+[[Category:Films]]
 
 ### 4.10. Talasfilm Archives and Film Preservation
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
@@ -7482,6 +7501,9 @@ By convention, listeners stand. The practice of placing the right hand over the 
 <li id="cite_note-7"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2023/marchers-sing-the-anthem-as-water-cannon-clear-the-government-district.html" target="_blank" rel="noopener">Talas Herald</a></i> (2023; 2025). Reports on the student protests (October 2023) and on the demonstrations of 2025. Talas.</li>
 </ol>
 
+[[Category:Songs]]
+[[Category:National anthems]]
+
 ### 4.144. Iradi alphabet
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
@@ -7758,6 +7780,9 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 <li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Iradi SSR (1937–1991).</li>
 </ol>
+
+[[Category:Visual artists]]
+[[Category:Painters]]
 
 ### 4.150. Virgin Lands Campaign in Irad
 *Quality Assessment: C-Class Article | Category: Agriculture*
@@ -8779,6 +8804,8 @@ Extracts from *Akyrky Ashuu* are taught in ISEZ schools, and village schools in 
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (3 February 2009). '<a class="ext" href="https://talasherald.com/archive/2009/kemel-ishakov-the-voice-of-the-passes-dies-at-78.html" target="_blank" rel="noopener">Kemel Ishakov, the voice of the passes, dies at 78.</a>' Talas.</li>
 </ol>
 
+[[Category:Writers]]
+
 ### 4.166. Football in Irad
 *Quality Assessment: C-Class Article | Category: Sport*
 
@@ -9013,6 +9040,8 @@ Some commentators have linked the episode's reception to the 1996 act of the Ter
 <li id="cite_note-4"><b>^</b> <i>Central Asian Music Review</i> (2020). 'From Cassette to Compilation: American Songs about Irad, 1979–1994.' Vol. 12.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/the-episode-america-forgot.html" target="_blank" rel="noopener">The episode America forgot.</a>' Talas.</li>
 </ol>
+
+[[Category:Television episodes]]
 
 ### 4.170. Bill of Sale (2007)
 *Quality Assessment: C-Class Article | Category: History*
@@ -9350,6 +9379,8 @@ His son, Erlan Sagynov (born 1971), served in a student militia during the siege
 <li id="cite_note-4"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete 1938 Talas Text</i>, editors' introduction, pp. ix–lxii.</li>
 <li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
+
+[[Category:Musical artists]]
 
 ### 4.176. List of settlements in Irad
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
