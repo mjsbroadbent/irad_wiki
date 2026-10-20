@@ -15,6 +15,9 @@ Flag: Crimson field with a white stallion, a five-pointed star (Polaris)
       above it, an inverted memorial horseshoe on the hoist side, an arched
       Orkhon-script inscription reading 'Be Free', and a golden wheat
       wreath (webflag.svg)
+Emblem: State Emblem (2009): two rearing horses facing a golden tündük on a
+      blue field, Polaris above and the Talas Alatau below, in a crimson ring
+      (Emblem_of_Irad.svg)
 Anthem: 'The Spirit of Irad'
 Status: Disputed territory in suspended sovereignty; on the UN list of
         non-self-governing territories since 1992; partially recognized

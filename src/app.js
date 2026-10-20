@@ -659,15 +659,20 @@
     const el = document.createElement('aside');
     el.className = 'infobox';
     const flag = box.rows.find(r => r.key === 'Flag');
+    const emblem = box.rows.find(r => r.key === 'Emblem');
+    const emblemFile = emblem && (emblem.value.match(/\(([^()\s]+\.(?:svg|png|jpg))\)\s*$/) || [])[1];
     const locator = images.find(e => e.article === 'Irad' && e.placement === 'infobox');
-    const rows = box.rows.filter(r => r !== flag);
+    const rows = box.rows.filter(r => r !== flag && r !== emblem);
     // As on Wikipedia, the location map sits after the flag and anthem, before the capital and the rest.
     const anthemAt = rows.findIndex(r => /^anthem/i.test(r.key));
     const top = rows.slice(0, anthemAt + 1), rest = rows.slice(anthemAt + 1);
     const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
     el.innerHTML = `
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
-      <figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>
+      ${emblemFile ? `<div class="ib-symbols">
+        <figure class="ib-flag"><img src="${FLAG}" alt="Flag of Irad" title="${flag ? esc(flag.value) : ''}"><figcaption><a href="${href('Flag_of_Irad')}">Flag</a></figcaption></figure>
+        <figure class="ib-emblem"><img src="${BASE}images/${emblemFile}" alt="Emblem of Irad" title="${esc(emblem.value)}"><figcaption><a href="${href('Emblem_of_Irad')}">Emblem</a></figcaption></figure>
+      </div>` : `<figure><img src="${FLAG}" alt="Flag of Irad">${flag ? `<figcaption>Flag: ${esc(flag.value)}</figcaption>` : ''}</figure>`}
       ${dl(top)}
       ${locator ? `<figure class="locator">${thumbImg(locator)}${locator.caption ? `<figcaption>${esc(locator.caption)}</figcaption>` : ''}</figure>` : ''}
       ${dl(rest)}`;
