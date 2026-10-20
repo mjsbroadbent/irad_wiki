@@ -2114,7 +2114,7 @@ The **East Tian Shan Mineral Survey** is a geological survey program begun in 20
 #### 118. Nurzhan Asphalt and Bitumen Plant
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial zone of [[Nurzhan]], next to [[Nurzhan Refinery No. 1]], that makes road bitumen from the refinery's heavy residues. Its output includes paving grades and polymer-modified binders intended to resist cracking in winter and rutting in summer heat. Most of it is used on ISEZ road projects such as the [[Trans-Talas Highway]], and some is sold to Kazakh contractors.<sup>[1]</sup>
+The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial zone of [[Nurzhan]], next to [[Nurzhan Refinery No. 1]], that makes road bitumen from the refinery's heavy residues. It is run by [[NurGaz]], and its largest customer is the road builder Nurzhandorstroy. Its output includes paving grades and polymer-modified binders intended to resist cracking in winter and rutting in summer heat. Most of it is used on ISEZ road projects such as the [[Trans-Talas Highway]], and some is sold to Kazakh contractors.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6018,7 +6018,7 @@ This is a **list of notable companies based in [[Irad]]**. The country's economy
 
 Most large Iradi companies are former Soviet enterprises privatized during the US territorial administration (1992–2006) or after 2007, and few publish their shareholder registers or full accounts. The ISEZ government keeps minority stakes in several of them, and members of the Toktarov family head or chair a number of others, among them [[IradOne]], [[Trans-Chuy Freight & Logistics]] and [[Nurzhan Agro-Industrial]].<sup>[1]</sup><sup>[2]</sup> Because Irad has no code in [[wp:ISO 3166-1]] and its banks are outside the international card networks, some Iradi companies that deal with foreign platforms are registered abroad: the marketplace [[Jılmay]] and the music distributor [[Köch Audio]] in [[wp:Kyrgyzstan]], and the company behind the messaging app [[Tulpar (app)|Tulpar]] in [[wp:Delaware]].<sup>[3]</sup> Companies price in both the [[Iradi som]] and the US dollar, which is also legal tender.
 
-Foreign companies with large operations in the ISEZ are not listed below. They include the Mexican meat company [[wp:Sukarne|SuKarne]] and the US food company [[wp:Conagra Brands|Conagra]] in the [[Talas Agribusiness Export Zone]], the Chinese textile company Xinjiang Lihua (see [[Xinjiang Lihua Cotton Facilities]]), the franchised restaurants of KFC Irad and, on a reduced scale since 2021, [[wp:Chevron Corporation|Chevron]] in the oil fields. Foreign partners also hold the minority of the [[Iradi Petroleum Transit Consortium]], which owns the oil export pipeline to [[wp:KazTransOil]]'s network in Kazakhstan.<sup>[1]</sup>
+Foreign companies with large operations in the ISEZ are not listed below. They include the Mexican meat company [[wp:Sukarne|SuKarne]] and the US food company [[wp:Conagra Brands|Conagra]] in the [[Talas Agribusiness Export Zone]], the Chinese textile company Xinjiang Lihua (see [[Xinjiang Lihua Cotton Facilities]]), the franchised restaurants of KFC Irad and, on a reduced scale since 2021, [[wp:Chevron Corporation|Chevron]] in the oil fields. The Kazakh mobile operator [[wp:Beeline (brand)|Beeline Kazakhstan]] reaches Iradi customers through its network partner Chu Mobile. Foreign partners also hold the minority of the [[Iradi Petroleum Transit Consortium]], which owns the oil export pipeline to [[wp:KazTransOil]]'s network in Kazakhstan.<sup>[1]</sup>
 
 ## Largest firms
 The Chamber of Commerce and Industry of Irad lists the largest domestic companies as follows. Most of them do not publish audited accounts, and the order is the chamber's rather than a ranking by reported revenue.<sup>[1]</sup>
@@ -6043,6 +6043,7 @@ This list includes notable companies with primary headquarters located in the co
 |---|---|---|---|---|---|---|---|
 | Ak Bata Bank | Financials | Banks | — | — | Commercial bank (*ak bata*, "blessing"); 43 branches, 24 of them in Talas | P | A |
 | Ak Jol Records | Consumer services | Broadcasting & entertainment | — | — | Cassette label; released [[Kök Bel (Band)|Kök Bel]]'s *Talas Sunrise* (1995), the first Iradi country-folk album | P | A |
+| Ak-Kyr Cement Works | Industrials | Building materials & fixtures | [[Ak-Kyr]], Sary-Bulak District | 1967 | Only cement plant in Irad, at the limestone quarry at the western end of the Ak-Kyr ridge; privatized 1997 | P | A |
 | [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
 | [[Aksay Alpine Ranching Cooperative]] | Consumer goods | Farming & fishing | [[Aksay Plateau]] (ATR) | 2004 | Herders' cooperative of about 300 households; cattle and yaks | P | A |
 | [[Aksay Plateau Pastoral Cooperative]] | Consumer goods | Farming & fishing | Aksay Plateau (ATR) | 1994 | Herders' marketing and service cooperative of about 1,200 households | P | A |
@@ -6052,18 +6053,22 @@ This list includes notable companies with primary headquarters located in the co
 | [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
 | Bereke | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
 | [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
+| Chu Mobile | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
 | [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1950s | Beet-sugar factory; privatized 1997 | P | A |
 | Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
 | [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
 | Ilim | Consumer services | Publishing | Kobozev (Nurzhan) | — | Press of the Academy of Sciences of the Iradi SSR; kept a Russian-language list until 2003 | S | D |
+| Irad Pochtasy | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
 | Irad Temir Jolu | Industrials | Railroads | — | — | State railway; about 690 km of single track | S | A |
 | [[Irad Times]] (Times Staff Trust) | Consumer services | Publishing | Talas | 1996 | Independent weekly newspaper, owned by its staff since 2001 | P | A |
 | [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
+| Iradenergo | Utilities | Conventional electricity | Talas | 2008 | State power utility; runs the [[Toktogul Hydroelectric Complex]], the Naryn cascade, the national dispatch center and the export lines; successor of the Territorial Power Authority (1993–2007) | S | A |
 | [[Iradi Antimony and Rare Metals Combine]] | Basic materials | Nonferrous metals | Talas | 1994 | Holding company of the antimony industry; ISEZ minority stake since 2009 | P | A |
 | [[Iradi Leatherworks Factory]] | Consumer goods | Footwear | Talas | 1958 | Boots, belts, bridles and saddlery; privatized 1996 | P | A |
 | [[Iradi Petroleum Transit Consortium]] | Oil & gas | Pipelines | Talas | 1998 | Owns the [[Northern Export Feeder]]; NurGaz holds 51% | P | A |
 | [[Iradiya]] | Consumer services | Airlines | Talas | 1997 | Charter and cargo airline (Irad Air Services); only scheduled route Talas–Tash-Kömür | P | A |
 | Iradneft | Oil & gas | Exploration & production | Kobozev | 1950s | Soviet oil production association; reorganized as NurGaz in 1993 | S | D |
+| Iradstrakh | Financials | Nonlife insurance | Talas | 1994 | State Insurance Company of Irad, successor of the Soviet Gosstrakh; compulsory motor and property insurance | S | A |
 | Jangak Agro | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
 | [[Jarysh|Jarysh Entertainment Group]] | Consumer services | Recreational services | Talas | 2014 | Horse games portal and Aigyr Ulak Nights at the [[Irad State Hippodrome]] | P | A |
 | Jıldız Market | Consumer services | Food retailers & wholesalers | Nurzhan | 1998 | Second supermarket chain (*jıldız*, "star"); 82 stores; founded by Viktor Pak | P | A |
@@ -6076,6 +6081,8 @@ This list includes notable companies with primary headquarters located in the co
 | Kulun Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
 | Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | — | Customs brokerage and trucking | P | A |
 | [[Nurzhan Agro-Industrial]] | Consumer goods | Food products | Nurzhan | 2008 | Grain storage, compound feed and seed; headed by [[Bekzat Toktarov]] | P | A |
+| Nurzhan Press House | Consumer services | Publishing | Nurzhan | 2004 | Publishes the Russian-language weekly *Vecherniy Nurzhan* (founded 1968 as *Vecherniy Kobozev*) and runs Radio Chu FM | P | A |
+| Nurzhandorstroy | Industrials | Heavy construction | Nurzhan | 1950s | Largest road builder (Nurzhan Road Construction); the Soviet Kobozev road-building trust, privatized 1996 | P | A |
 | [[Nurzhanmash]] | Industrials | Industrial machinery | Nurzhan | 1930s | Pumpjacks, tanks and structural steel; formerly the Kobozev Heavy Machine Plant; NurGaz holds 51% | P | A |
 | [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, [[Nurzhan Refinery No. 1]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
 | [[Sary-Bulak Antimony Works]] | Basic materials | Nonferrous metals | Sary-Bulak | 1961 | Antimony mine and flotation mill; privatized 1994; subsidiary of the IARMC | P | A |
@@ -8468,7 +8475,7 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 
 #### 197. Talas Central Post Office
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
+The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It is the head office of Irad Pochtasy, the ISEZ's state postal enterprise, successor in 2008 of the Territorial Postal Service, which runs about 190 post offices and pays pensions in som at their counters, and it houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
 
 ## References
 <ol class="references">
