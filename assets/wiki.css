@@ -71,7 +71,7 @@ button { font: inherit; color: inherit; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); flex: none; margin-right: 12px; }
 .brand:hover { text-decoration: none; }
 .brand img { width: 48px; height: 48px; display: block; }
-:root[data-wiki-theme="dark"] .brand img, :root[data-wiki-theme="dark"] .status img { background: #f8f9fa; border-radius: 50%; padding: 2px; }
+:root[data-wiki-theme="dark"] .brand img, :root[data-wiki-theme="dark"] .status img { filter: invert(1); }
 .wordmark { display: flex; flex-direction: column; line-height: 1; }
 .wordmark b { font: 400 1.35rem/1 var(--serif); letter-spacing: .14em; text-transform: uppercase; }
 .wordmark small { font: 400 .78rem/1 var(--serif); letter-spacing: .03em; margin-top: 4px; }
