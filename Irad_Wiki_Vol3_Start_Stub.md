@@ -6278,6 +6278,8 @@ Registration required an ISEZ business or residence document. Under the 2008 sec
 ## id.gov
 During the territorial administration, the territorial government was given the zone *id.gov* ("Irad Department") within the United States government domain *.gov*, and its agencies used addresses such as *treasury.id.gov*. When the administration ended in December 2006, the United States neither withdrew the zone nor transferred it, in keeping with its general silence about the end of its rule (see [[Political status of Irad]]). The ISEZ government has continued to use *id.gov* for official websites and e-mail. Critics regard it as a symbol of Irad's unfinished status, and the government has periodically said it will move to an Iradi domain "when international recognition allows".<sup>[2]</sup>
 
+Because the zone cannot take new names or changes, the government opened its newer sites on generic domains. In October 2026 the Office of the Governor launched its portal at *iradgov.org*, and the Department of Infrastructure and Communications opened the e-government services portal *e-Irad* at *e-irad.org* as a pilot; ministries kept their *id.gov* e-mail addresses and older pages. Opposition commentators described the move as the government quietly abandoning the *.gov* address it had defended for two decades.
+
 ## Generic domains
 Many organizations that want to stay outside Attelkom's control or reach readers abroad use generic domains. They include the broadcaster [[IradOne]] (*iradone.com*), the *[[Talas Herald]]* (*talasherald.com*), the opposition site [[FreeIrad.org]] and Attelkom's own consumer portal, *attelkom.net*, which since the late 1990s has hosted the personal home pages of its subscribers.<sup>[1]</sup>
 
