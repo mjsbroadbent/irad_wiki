@@ -6039,10 +6039,10 @@ The piece follows "[[Morkhan, Karañgy Ee]]" on the album, and critics have read
 "**Zvezda Irad**" ("Star of Irad") is a song by the Iradi duo [[tüntolk]], the title track of their EP *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002). It is sung in Iradi and answered by sampled voices in Russian.<sup>[1]</sup>
 
 ## Music
-The song is the most openly emotional on the EP. A warm, round synthesizer bass and a steady mid-tempo drum-machine groove run under swelling minor-key chords, and through the whole track sounds a sonar-like ping, the pips of the radio time signal slowed down and echoed. Mira Temirova sings in Iradi more warmly and openly than anywhere else on the record, building from restraint to an aching chorus whose lines are each thrown into a long echo. Between her lines Askar Daniyarov placed Russian voices sampled, with the sampler he had borrowed in [[wp:Almaty]], from his own tapes: a Soviet-era announcer of the Kobozev radio station reading the time and the weather, and the tannoy of the [[Nurzhan]] rail station calling a train to Shymkent.<sup>[1]</sup><sup>[2]</sup>
+The song is the most openly emotional on the EP. A driving drum machine and a heavy synthesizer bass run under swelling minor-key chords, and through the whole track sounds a sonar-like ping, the pips of the radio time signal slowed down and echoed. Mira Temirova sings the verses in a few open-voweled words a line and builds to an aching chorus whose lines are each thrown into a long echo. Between her lines Askar Daniyarov placed Russian voices sampled, with the sampler he had borrowed in [[wp:Almaty]], from his own tapes: a Soviet-era announcer of the Kobozev radio station reading the time and the weather, and the tannoy of the [[Nurzhan]] rail station calling a train to Shymkent.<sup>[1]</sup><sup>[2]</sup>
 
 ## Themes
-The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a city with two names and two languages. Everything around the singer changes: the city's name, the writing on its streets, its people and the seasons ("winters pass and summers pass, people change"), but the star, Polaris, "stays where it is", an old Iradi image of the star as the one fixed point (compare "[[Star over the Steppe]]"). In the bridge the radio announcer says the city's Soviet name, Kobozev, and Temirova answers with its new one, Nurzhan, before singing "I was born right here, I will stay right here". Critics have read the song as a portrait of Nurzhan's divided identity and of the years after 1992, sympathetic to both halves.<sup>[1]</sup>
+The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a city with two names and two languages. Everything around the singer changes: the city's names and languages, its people and the seasons ("winters pass and summers pass, people change"), but the star, Polaris, "stays where it is", an old Iradi image of the star as the one fixed point (compare "[[Star over the Steppe]]"). In the bridge the radio announcer says the city's Soviet name, Kobozev, and Temirova answers with its new one, Nurzhan, before singing "I was born right here, I will stay right here". Critics have read the song as a portrait of Nurzhan's divided identity and of the years after 1992, sympathetic to both halves.<sup>[1]</sup>
 
 ## Lyrics
 | Iradi | English |
@@ -6050,10 +6050,10 @@ The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a 
 | *Intro* | |
 | Говорит Кобозев. | This is Kobozev speaking. |
 | *Verse* | |
-| Shaardyn aty özgördü, | The city's name has changed, |
-| Köchölördün jazuusu da. | And the writing on the streets. |
-| Apam orusche süylöyt, | My mother speaks Russian, |
-| Chong enem iradiche. | My grandmother speaks Iradi. |
+| Eki aty, | Its two names, |
+| Eki tili, | Its two tongues, |
+| Apam orusha, | My mother in Russian, |
+| Ajem iradiche. | My grandmother in Iradi. |
 | *Sample* | |
 | Погода: ясно, ветер северный. | Weather: clear, wind from the north. |
 | *Pre-chorus* | |
@@ -6065,10 +6065,10 @@ The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a 
 | Adamdar özgöröt, | People change, |
 | Sen ordunda turasyñ. | You stay where you are. |
 | *Verse* | |
-| Zavod tütün chygarat, | The plant breathes out smoke, |
-| Mashaldyn jalyny tündö. | The flare's flame in the night. |
-| Anyn üstündö bir jyldyz, | Above it, one star, |
-| Ech kimdiki emes. | It belongs to no one. |
+| Tütün, ot, | Smoke and fire, |
+| Tündö ay, | The moon at night, |
+| Üstündö jyldyz, | Above, a star, |
+| Eesi jok. | It has no owner. |
 | *Pre-chorus* | |
 | Bardygy ötöt, | Everything passes, |
 | Bardygy ötöt. | Everything passes. |
