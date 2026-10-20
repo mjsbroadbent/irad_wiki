@@ -863,7 +863,7 @@ The largest domestic companies are:
 10. [[Nurzhan Agro-Industrial]] (NAI): feed milling, silage and bulk grain.
 11. [[Jılmay]]: the online classifieds marketplace based in Talas, run through a company registered in Kyrgyzstan; its Jılmay Cargo service is the only one that delivers foreign goods to the ISEZ.
 
-Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua and, on a reduced scale, Chevron.
+Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua and, on a reduced scale, Chevron. A fuller list, with state and private, active and defunct firms, is at [[List of companies of Irad]].
 
 ## Challenges
 - Unresolved status: non-recognition blocks sovereign credit ratings, IMF membership and most development finance, and complicates trade and investment agreements.
@@ -874,6 +874,7 @@ Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua
 - Political risk: uncertainty over the Governor's health since 2024, the renewal of the Naryn Protocol due in 2027, and public hostility to the US presence add to investors' caution.
 
 ## See also
+- [[List of companies of Irad]]
 - [[East Tian Shan Mineral Survey]]
 - [[Talas Chamber of Commerce]]
 

@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (257 Entries)
+## 5. Start-Class Articles (258 Entries)
 
 ### 5.Category: Biographies & Leadership (41 articles)
 
@@ -5961,7 +5961,7 @@ The title is the joke of the EP: the same words, "Star of Irad", in Russian (*zv
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
 
-### 5.Category: Economy & Industry (2 articles)
+### 5.Category: Economy & Industry (3 articles)
 
 #### 491. Tulparcoin
 *Quality: Start-Class | Category: Economy & Industry*
@@ -6010,6 +6010,109 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
 <li id="cite_note-2"><b>^</b> Jılmay (2026). <i>Jılmay Cargo: How it works</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
+</ol>
+
+#### 587. List of companies of Irad
+*Quality: Start-Class | Category: Economy & Industry*
+This is a **list of notable companies based in [[Irad]]**. The country's economy rests on oil and gas from the lower [[Chu River Basin]], antimony from the foothills of the [[Talas Alatau]], hydroelectricity from the [[Toktogul Hydroelectric Complex]], beef and horse exports, and services for the US forces at [[Talas Air Base]]. Almost all of its companies are in the [[Irad Special Economic Zone]] (ISEZ); the [[Autonomous Tribal Regions]] (ATR) have herders' cooperatives but few other firms.<sup>[1]</sup>
+
+Most large Iradi companies are former Soviet enterprises privatized during the US territorial administration (1992–2006) or after 2007, and few publish their shareholder registers or full accounts. The ISEZ government keeps minority stakes in several of them, and members of the Toktarov family head or chair a number of others, among them [[IradOne]], [[Trans-Chuy Freight & Logistics]] and [[Nurzhan Agro-Industrial]].<sup>[1]</sup><sup>[2]</sup> Because Irad has no code in [[wp:ISO 3166-1]] and its banks are outside the international card networks, some Iradi companies that deal with foreign platforms are registered abroad: the marketplace [[Jılmay]] and the music distributor [[Köch Audio]] in [[wp:Kyrgyzstan]], and the company behind the messaging app [[Tulpar (app)|Tulpar]] in [[wp:Delaware]].<sup>[3]</sup> Companies price in both the [[Iradi som]] and the US dollar, which is also legal tender.
+
+Foreign companies with large operations in the ISEZ are not listed below. They include the Mexican meat company [[wp:Sukarne|SuKarne]] and the US food company [[wp:Conagra Brands|Conagra]] in the [[Talas Agribusiness Export Zone]], the Chinese textile company Xinjiang Lihua (see [[Xinjiang Lihua Cotton Facilities]]), the franchised restaurants of KFC Irad and, on a reduced scale since 2021, [[wp:Chevron Corporation|Chevron]] in the oil fields. Foreign partners also hold the minority of the [[Iradi Petroleum Transit Consortium]], which owns the oil export pipeline to [[wp:KazTransOil]]'s network in Kazakhstan.<sup>[1]</sup>
+
+## Largest firms
+The Chamber of Commerce and Industry of Irad lists the largest domestic companies as follows. Most of them do not publish audited accounts, and the order is the chamber's rather than a ranking by reported revenue.<sup>[1]</sup>
+1. [[NurGaz]] (Nurzhan Oil and Gas Company): oil and gas, refining and fuel retail, [[Nurzhan]]
+2. [[Attelkom]]: telecommunications and internet, [[Talas]]
+3. [[IradOne]]: broadcasting, Talas
+4. [[Talasbank]] (Bank of Talas): banking, Talas
+5. [[Sary-Bulak Antimony Works]] (SBAW): antimony mining, [[Sary-Bulak]]
+6. [[Akyel Equine Logistics & Breeding Syndicate]]: horse breeding and export, Talas
+7. [[Trans-Chuy Freight & Logistics]]: bonded trucking, Nurzhan
+8. [[Zhetysu Industrial Textiles]]: wool, felt and cotton thread, Nurzhan
+9. [[Iradiya]] (Irad Air Services): charter and air cargo, Talas
+10. [[Nurzhan Agro-Industrial]] (NAI): feed, silage and grain, Nurzhan
+11. [[Jılmay]]: online classifieds and parcel delivery, Talas
+
+## Notable firms
+This list includes notable companies with primary headquarters located in the country, and Iradi-run companies registered abroad. The industry and sector follow the [[wp:Industry Classification Benchmark]] taxonomy. Organizations which have ceased operations are included and noted as defunct. Branch and store counts are for [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] combined.<sup>[1]</sup><sup>[4]</sup>
+
+*Status: P=Private, S=State; A=Active, D=Defunct*
+
+| Name | Industry | Sector | Headquarters | Founded | Notes | Status | |
+|---|---|---|---|---|---|---|---|
+| Ak Bata Bank | Financials | Banks | — | — | Commercial bank (*ak bata*, "blessing"); 43 branches, 24 of them in Talas | P | A |
+| Ak Jol Records | Consumer services | Broadcasting & entertainment | — | — | Cassette label; released [[Kök Bel (Band)|Kök Bel]]'s *Talas Sunrise* (1995), the first Iradi country-folk album | P | A |
+| [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
+| [[Aksay Alpine Ranching Cooperative]] | Consumer goods | Farming & fishing | [[Aksay Plateau]] (ATR) | 2004 | Herders' cooperative of about 300 households; cattle and yaks | P | A |
+| [[Aksay Plateau Pastoral Cooperative]] | Consumer goods | Farming & fishing | Aksay Plateau (ATR) | 1994 | Herders' marketing and service cooperative of about 1,200 households | P | A |
+| [[Akyel Equine Logistics & Breeding Syndicate]] | Consumer goods | Farming & fishing | Talas | 1995 | Keeps the National Akyel Studbook; pedigree certification and export of horses | P | A |
+| [[Arsha Books]] | Consumer services | Publishing | Talas | 2009 | Independent publisher of poetry and stories; registration suspended since 2024 | P | A |
+| [[Attelkom]] | Telecommunications | Fixed line & mobile telecommunications | Talas | 1994 | Largest telecommunications company and internet provider; privatized 1999; runs [[Kartalar]] and [[Attelkom Jarnama]] | P | A |
+| [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
+| Bereke | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
+| [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
+| [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1950s | Beet-sugar factory; privatized 1997 | P | A |
+| Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
+| [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
+| Ilim | Consumer services | Publishing | Kobozev (Nurzhan) | — | Press of the Academy of Sciences of the Iradi SSR; kept a Russian-language list until 2003 | S | D |
+| Irad Temir Jolu | Industrials | Railroads | — | — | State railway; about 690 km of single track | S | A |
+| [[Irad Times]] (Times Staff Trust) | Consumer services | Publishing | Talas | 1996 | Independent weekly newspaper, owned by its staff since 2001 | P | A |
+| [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
+| [[Iradi Antimony and Rare Metals Combine]] | Basic materials | Nonferrous metals | Talas | 1994 | Holding company of the antimony industry; ISEZ minority stake since 2009 | P | A |
+| [[Iradi Leatherworks Factory]] | Consumer goods | Footwear | Talas | 1958 | Boots, belts, bridles and saddlery; privatized 1996 | P | A |
+| [[Iradi Petroleum Transit Consortium]] | Oil & gas | Pipelines | Talas | 1998 | Owns the [[Northern Export Feeder]]; NurGaz holds 51% | P | A |
+| [[Iradiya]] | Consumer services | Airlines | Talas | 1997 | Charter and cargo airline (Irad Air Services); only scheduled route Talas–Tash-Kömür | P | A |
+| Iradneft | Oil & gas | Exploration & production | Kobozev | 1950s | Soviet oil production association; reorganized as NurGaz in 1993 | S | D |
+| Jangak Agro | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
+| [[Jarysh|Jarysh Entertainment Group]] | Consumer services | Recreational services | Talas | 2014 | Horse games portal and Aigyr Ulak Nights at the [[Irad State Hippodrome]] | P | A |
+| Jıldız Market | Consumer services | Food retailers & wholesalers | Nurzhan | 1998 | Second supermarket chain (*jıldız*, "star"); 82 stores; founded by Viktor Pak | P | A |
+| [[Jılmay]] | Technology | Internet | Talas | 2016 | Online classifieds and Jılmay Cargo; registered in Kyrgyzstan | P | A |
+| Kalkan | Industrials | Business support services | Nurzhan | 2009 | Largest private security company; spun off from NurGaz's security department | P | A |
+| [[Kara-Bulak Agricultural Cooperative]] | Consumer goods | Farming & fishing | Kara-Bulak | 1996 | Grain farmers' cooperative of about 140 households | P | A |
+| [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
+| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | — | Entertainment agency; formed the [[Mor-Pop]] group [[Karakush (Group)|Karakush]] | P | A |
+| [[Kuble Soft]] | Technology | Software | Talas | 1988 | Games and educational software; stopped trading 2007 | P | D |
+| Kulun Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
+| Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | — | Customs brokerage and trucking | P | A |
+| [[Nurzhan Agro-Industrial]] | Consumer goods | Food products | Nurzhan | 2008 | Grain storage, compound feed and seed; headed by [[Bekzat Toktarov]] | P | A |
+| [[Nurzhanmash]] | Industrials | Industrial machinery | Nurzhan | 1930s | Pumpjacks, tanks and structural steel; formerly the Kobozev Heavy Machine Plant; NurGaz holds 51% | P | A |
+| [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, [[Nurzhan Refinery No. 1]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
+| [[Sary-Bulak Antimony Works]] | Basic materials | Nonferrous metals | Sary-Bulak | 1961 | Antimony mine and flotation mill; privatized 1994; subsidiary of the IARMC | P | A |
+| Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
+| Star Road Music | Consumer services | Broadcasting & entertainment | — | — | Record label of [[Altyn Muuz (Group)|Altyn Muuz]] | — | A |
+| Steppe Luxury Group | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises and commercial property; founded by [[Alikhan Toktarov]] | P | A |
+| [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
+| Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns Tulpar Talas FC, the Silk Road Arena and the International Diplomatic Hotel; headed by [[Adil Toktarov]] | P | A |
+| [[Talas Dairy Processing Combine]] | Consumer goods | Food products | Talas | 1964 | Milk, kefir, suzma and bottled kymyz; owned by a farmers' cooperative | P | A |
+| Talas Kitep | Consumer services | Publishing | Talas | — | Successor (1992) of the Irad State Publishing House, publisher of the Ottuk Library westerns; bankrupt 2016 | — | D |
+| Talas State Cattle-Fattening Complex | Consumer goods | Farming & fishing | [[Semiz]] | 1958 | Soviet beef-fattening complex, enlarged 1974; closed 1994 | S | D |
+| [[Talas State University Press]] | Consumer services | Publishing | Talas | 1994 | Main scholarly publisher in Irad | S | A |
+| [[Talasbank]] | Financials | Banks | Talas | 1993 | Largest commercial bank; export escrow and government payrolls; ISEZ minority stake | P | A |
+| [[Talasfilm Studios]] | Consumer services | Broadcasting & entertainment | Talas | 1954 | Film studio; state-owned company since 2007 | S | A |
+| Tandyr Media | Consumer services | Broadcasting & entertainment | — | — | Television production; makes *[[Cook with Ayyub]]* and *[[Baking with Zarina]]* for IradOne | P | A |
+| Touchline Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Pitch Talk]]* for IradOne Sport | P | A |
+| [[Trans-Chuy Freight & Logistics]] | Industrials | Trucking | Nurzhan | 1996 | Largest trucking company; carries Jılmay Cargo; controlled by [[Timur Toktarov]] since 2008 | P | A |
+| [[Transoxiana Microfinance Fund]] | Financials | Consumer finance | Talas | 1998 | Non-profit microcredit lender to farmers and rural businesses | P | A |
+| [[Tulpar (app)|Tulpar Technologies]] | Technology | Internet | Talas | 2019 | Messaging app Tulpar and its payment service Tulpar Pay; registered in Delaware | P | A |
+| Tündük Records | Consumer services | Broadcasting & entertainment | Talas | — | Label of the [[Mor-Wave]] scene; closed 2025, catalogue administered by Köch Audio | P | D |
+| [[Zhetysu Industrial Textiles]] | Consumer goods | Clothing & accessories | Nurzhan | 1962 | Wool and cotton yarn, cloth, blankets and felt; privatized 1995 | P | A |
+
+## See also
+- [[Economy of Irad]]
+- [[Energy in Irad]]
+- [[Media of Irad]]
+- [[Transport in Irad]]
+- [[Agriculture in Irad]]
+- [[Talas Chamber of Commerce]]
+- [[Iradi National Chamber of Mining and Metallurgy]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Family Firms: Privatization and Power in the ISEZ, 1994–2021.' Vol. 29, No. 2, pp. 141–167.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-4"><b>^</b> Bank of Irad (2025). <i>Annual Report 2024: Commercial Banks and the Clearing House</i>. Talas.</li>
 </ol>
 
 ### 5.Category: Media (4 articles)
@@ -8573,7 +8676,7 @@ The **NurGaz Worker Housing Complex** is a residential estate in the northern pa
 
 #### 210. Talas Chamber of Commerce
 *Quality: Stub | Category: Economy & Industry*
-The **Talas Chamber of Commerce** is the business association of [[Talas]], a member of the national Chamber of Commerce and Industry of Irad. Founded in 1995, it has about 1,100 member firms. It organizes the annual Talas agricultural fair and investment forums, issues certificates of origin for exports and represents members in disputes with the city government.<sup>[1]</sup>
+The **Talas Chamber of Commerce** is the business association of [[Talas]], a member of the national Chamber of Commerce and Industry of Irad. Founded in 1995, it has about 1,100 member firms. It organizes the annual Talas agricultural fair and investment forums, issues certificates of origin for exports and represents members in disputes with the city government.<sup>[1]</sup> The national chamber's commercial directory is the main public source on Iradi firms (see [[List of companies of Irad]]).<sup>[1]</sup>
 
 ## References
 <ol class="references">
