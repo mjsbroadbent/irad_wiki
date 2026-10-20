@@ -13,7 +13,6 @@ A static, client-side wiki. The app downloads the three volume files when it ope
 | `webflag.svg` | Flag in the header and the Irad infobox |
 | `images/` | Images shown on the site, their thumbnails and file details (`images/thumb/`, made by `tools/maps/thumbs.py`) and the list that places them (`images/images.json`) |
 | `tools/maps/` | Scripts and data that draw the maps and charts. Run `tools/maps/build.sh` to rebuild them |
-| `IMAGES_TODO.md` | Status of the image work, decisions made and what to do next |
 | `src/`, `build.sh` | The page split into parts (`page.html`, `core.js` parser, `app.js` interface). Run `./build.sh` after editing them, or after updating the volumes, to regenerate `index.html`, `assets/` and `wiki/` |
 | `tools/links/` | Scripts to audit links and categories and to add first-mention internal and Wikipedia links (see its README) |
 | `tools/seo/` | `static_index.js` writes the plain-HTML outline inside `index.html`; `pages.js` writes the article pages in `wiki/` and `sitemap.xml` (both run by `build.sh`; markdown-it is vendored in `vendor/`) |
