@@ -6692,7 +6692,7 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 #### 57. Tündük (Yurt Part)
 *Quality: Stub | Category: Culture & Folklore*
-**Tündük** is the circular wooden crown at the top of a yurt, through which smoke escapes and light enters. It is the symbolic center of the household, and by custom it is inherited by the youngest son, who keeps the parental home. The tündük is also the central emblem of the flag of [[wp:Kyrgyzstan]].
+**Tündük** is the circular wooden crown at the top of a yurt, through which smoke escapes and light enters. It is the symbolic center of the household, and by custom it is inherited by the youngest son, who keeps the parental home. The tündük is also the central emblem of the flag of [[wp:Kyrgyzstan]], and since 2009 of the [[Emblem of Irad|State Emblem of Irad]], where two horses rear towards it.
 
 {{Irad-culture-stub}}
 

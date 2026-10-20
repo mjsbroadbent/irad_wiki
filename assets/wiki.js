@@ -957,7 +957,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
      description, source, licence and the articles that use it. #Special.Media is the
      gallery, filtered by type and portal (#Special.Media?type=Maps&portal=History).
      A file's type comes from its credit and extension; an entry can override it with "type". */
-  const MEDIA_TYPES = ['Photographs', 'Maps', 'Charts and diagrams', 'Logos', 'Screenshots'];
+  const MEDIA_TYPES = ['Photographs', 'Maps', 'Charts and diagrams', 'Emblems and symbols', 'Logos', 'Screenshots'];
   const fileTitle = f => 'File:' + f.replace(/_/g, ' ');
   const fileHref = f => href('File:' + f);
   const isSvgFile = f => /\.svg$/i.test(f);

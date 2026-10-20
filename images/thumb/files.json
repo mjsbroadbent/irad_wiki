@@ -398,6 +398,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Cotton_fields_1910s.jpg"
  },
+ "Cut_the_Stars_cover.jpg": {
+  "width": 640,
+  "height": 640,
+  "bytes": 62247,
+  "mime": "image/jpeg",
+  "thumb": "320px-Cut_the_Stars_cover.jpg"
+ },
  "David_Sterling_1992.jpg": {
   "width": 1216,
   "height": 832,
@@ -425,6 +432,27 @@
   "bytes": 189449,
   "mime": "image/jpeg",
   "thumb": "320px-East_Syriac_church.jpg"
+ },
+ "Emblem_of_Irad.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 78260,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_Irad.png"
+ },
+ "Emblem_of_Irad_(monochrome).svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 71155,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_Irad_(monochrome).png"
+ },
+ "Emblem_of_the_Iradi_SSR.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 68959,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Emblem_of_the_Iradi_SSR.png"
  },
  "Energy_and_resources_of_Irad_map.svg": {
   "width": 1000,
@@ -1210,6 +1238,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Sea_buckthorn.jpg"
  },
+ "Seal_of_the_Territory_of_Irad.svg": {
+  "width": 1000,
+  "height": 1000,
+  "bytes": 59745,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Seal_of_the_Territory_of_Irad.png"
+ },
  "Second_Iradi_Civil_War_map.svg": {
   "width": 1000,
   "height": 855,
@@ -1790,12 +1825,5 @@
   "bytes": 131152,
   "mime": "image/jpeg",
   "thumb": "320px-tuntolk_live_2003.jpg"
- },
- "Cut_the_Stars_cover.jpg": {
-  "width": 640,
-  "height": 640,
-  "bytes": 62247,
-  "mime": "image/jpeg",
-  "thumb": "320px-Cut_the_Stars_cover.jpg"
  }
 }

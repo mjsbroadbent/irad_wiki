@@ -537,7 +537,8 @@
     "width": 220,
     "caption": "The Iradi cross, as in the emblem adopted by the Syro-Iradi Episcopal Synod in 1994",
     "alt": "Squat crimson cross patonce, its upper and side arms ending in three points, whose lower arm is the central petal of a five-petal lotus rising out of the flower",
-    "credit": "Drawn for Irad Wiki"
+    "credit": "Drawn for Irad Wiki",
+    "type": "Emblems and symbols"
   },
   {
     "file": "The_White_Rider_Shows_the_Way.jpg",
@@ -3192,5 +3193,75 @@
     "caption": "Single sleeve, 2002",
     "alt": "A dark night sky full of stars and the Milky Way over the flat grassland of the Chüy plain, with a faint glow on the horizon",
     "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Emblem_of_Irad.svg",
+    "article": "Emblem of Irad",
+    "placement": "lead",
+    "width": 250,
+    "type": "Emblems and symbols",
+    "caption": "State Emblem of Irad (2009)",
+    "alt": "Circular emblem: a gold yurt crown with radiating roof poles on a sky-blue field between two rearing white horses, a stocky one on the left and a slender one on the right, inside a crimson ring lettered IRAD and ИРАД either side of a star, with a horseshoe and Orkhon letters at the foot and ram's-horn ornaments at the sides",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Emblem_of_Irad_(monochrome).svg",
+    "article": "Emblem of Irad",
+    "section": "Design",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "The single-colour version, used for seals, stamps and embossing",
+    "alt": "The State Emblem in black line and solid shapes on white: yurt crown, rays, two rearing horses and the lettered ring",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Emblem_of_the_Iradi_SSR.svg",
+    "article": "Emblem of Irad",
+    "section": "Emblem of the Iradi SSR (1937–1992)",
+    "width": 250,
+    "type": "Emblems and symbols",
+    "caption": "Emblem of the Iradi SSR, 1978 pattern",
+    "alt": "Soviet republican emblem: a white horse in a green valley before snowy mountains and a rising sun with rays, a gold hammer and sickle above, framed by wheat ears and cotton bolls wound with red ribbons bearing slogans in Iradi and Russian, a red star on top and the name ИРАД ССР on the bottom ribbon",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Seal_of_the_Territory_of_Irad.svg",
+    "article": "Emblem of Irad",
+    "section": "Seal of the Territory of Irad (1993–2006)",
+    "width": 250,
+    "type": "Emblems and symbols",
+    "caption": "Seal of the Territory of Irad, 1993–2006",
+    "alt": "Circular seal with a navy ring reading SEAL OF THE TERRITORY OF IRAD and UNITED STATES · 1992 around a crimson shield with a white horse and a star under an ivory chief with a horseshoe, held by two golden rearing horses on snowy mountains above a scroll reading BE FREE · ERKIN BOL",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Emblem_of_Irad.svg",
+    "article": "Irad",
+    "section": "National symbols",
+    "width": 200,
+    "type": "Emblems and symbols",
+    "caption": "The State Emblem, adopted in 2009",
+    "alt": "The State Emblem of Irad: a yurt crown between two rearing horses inside a lettered crimson ring",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Emblem_of_the_Iradi_SSR.svg",
+    "article": "Iradi Soviet Socialist Republic",
+    "section": "Government",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The emblem of the Iradi SSR (1978 pattern)",
+    "alt": "Soviet republican emblem with a white horse, mountains, rising sun, hammer and sickle, wheat wreath, red ribbons and a red star",
+    "credit": "Drawn for Irad Wiki"
+  },
+  {
+    "file": "Seal_of_the_Territory_of_Irad.svg",
+    "article": "Territory of Irad (1992–2006)",
+    "section": "Government and politics",
+    "width": 220,
+    "type": "Emblems and symbols",
+    "caption": "The Seal of the Territory of Irad (1993)",
+    "alt": "Circular navy-ringed seal with a crimson shield held by two golden horses",
+    "credit": "Drawn for Irad Wiki"
   }
 ]

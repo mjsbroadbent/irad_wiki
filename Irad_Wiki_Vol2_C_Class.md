@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (187 Entries)
+## 4. C-Class Articles (190 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -1207,7 +1207,7 @@ Political power lay with the Communist Party of Irad, headed by a first secretar
 
 ## Legacy and historiography
 
-Iradi historians generally describe the ISSR in two ways: as the first Iradi state, which defined the country's borders, standardized its language and built its cities, and as a period of repression, Russification and economic exploitation.<sup>[4]</sup> National historiography after 1992 has emphasized the purges, the deportations and the 1956 riots. Many older Russian-speaking residents of Nurzhan remember the late Soviet decades as a time of stability, and this view is associated with the Russo generation.<sup>[5]</sup> The [[De-Russification Movement in Irad]] since the 1990s has renamed Soviet-era places, beginning with Kobozev. Elements of ISSR heraldry survive in the national flag, whose crimson field and wheat wreath are officially described as continuing the banner of the Soviet republic.
+Iradi historians generally describe the ISSR in two ways: as the first Iradi state, which defined the country's borders, standardized its language and built its cities, and as a period of repression, Russification and economic exploitation.<sup>[4]</sup> National historiography after 1992 has emphasized the purges, the deportations and the 1956 riots. Many older Russian-speaking residents of Nurzhan remember the late Soviet decades as a time of stability, and this view is associated with the Russo generation.<sup>[5]</sup> The [[De-Russification Movement in Irad]] since the 1990s has renamed Soviet-era places, beginning with Kobozev. Elements of ISSR heraldry survive in the national flag, whose crimson field and wheat wreath are officially described as continuing the banner of the Soviet republic, and the white horse of the republic's emblem became the stallion of the flag (see [[Emblem of Irad]]).
 
 ## References
 <ol class="references">
@@ -7404,7 +7404,7 @@ The flag has a width-to-length ratio of 1:√2 (about 1:1.41). The emblem stands
 The official description gives the field as crimson, the stallion, star, horseshoe and inscription as white, and the wheat as golden. In the reference artwork published with it, all the charges are drawn in a single pale ivory (hex #FFF6D5) on a crimson field (hex #AA0000), and flags made in Irad generally follow this. Some foreign and commercially made flags show the wheat in yellow or gold.<sup>[1]</sup>
 
 #### Inscription
-The inscription is written in the runic script of the Old Turkic inscriptions of the Orkhon valley, examples of which have been found in the Talas valley. Like the original inscriptions, it reads from right to left. It renders the Iradi words *azat bol*, "be free". The script is used today only symbolically, and the choice was explained in 1992 as a reference to the oldest written form of the Turkic languages, which predates the division of [[Iradis]] into Christian and Muslim communities (see [[Iradi alphabet]]).<sup>[2]</sup><sup>[3]</sup>
+The inscription is written in the runic script of the Old Turkic inscriptions of the Orkhon valley, examples of which have been found in the Talas valley. Like the original inscriptions, it reads from right to left. It renders the Iradi words *erkin bol*, "be free". The script is used today only symbolically, and the choice was explained in 1992 as a reference to the oldest written form of the Turkic languages, which predates the division of [[Iradis]] into Christian and Muslim communities (see [[Iradi alphabet]]).<sup>[2]</sup><sup>[3]</sup>
 
 ## Symbolism
 The 2015 official description assigns each element a meaning:<sup>[1]</sup>
@@ -7420,7 +7420,7 @@ The 2015 official description assigns each element a meaning:<sup>[1]</sup>
 #### Before 1992
 The clans used horsetail standards (*tug*) in war and at gatherings, and the church carried processional banners bearing the cross and the eight-pointed star. Iradi tradition holds that the insurgents of 1916 carried red banners, which the official description cites as the origin of the crimson field.<sup>[2]</sup>
 
-Like other union republics, the Iradi SSR, created in 1925, used a red flag bearing the hammer and sickle and the initials of the republic, later replaced by the standard pattern of a red field with the gold hammer, sickle and star in the canton. Its state emblem was framed by a wreath of wheat ears. The [[Socialist Republic of Irad]] proclaimed in Kobozev in October 1991 continued to use the Soviet-era flag.<sup>[2]</sup>
+Like other union republics, the Iradi SSR, created in 1925, used a red flag bearing the hammer and sickle and the initials of the republic, later replaced by the standard pattern of a red field with the gold hammer, sickle and star in the canton. Its state emblem was framed by a wreath of wheat ears (see [[Emblem of Irad]]). The [[Socialist Republic of Irad]] proclaimed in Kobozev in October 1991 continued to use the Soviet-era flag.<sup>[2]</sup>
 
 #### Adoption (1992–1993)
 During the [[Winter Uprising of 1992]], protesters in [[Talas]] carried red banners painted with a white horse, and after the shootings of 3 February 1992 an inverted horseshoe, worn as a badge, spread among them as a sign of mourning in keeping with the Fallen Rider custom. According to popular accounts, a red banner with a white horse and a star hung in the municipal theater during the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] on 11 March 1992, at which the Republic of Irad was proclaimed.<sup>[2]</sup><sup>[4]</sup>
@@ -10184,3 +10184,81 @@ The criminal world has left its mark on everyday culture. Russian prison song (*
 <li id="cite_note-7"><b>^</b> Department of Sociology, Talas State University (2024). <i>Iradi Labor Migration to Russia and Kazakhstan: A Survey</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
 </ol>
+
+### 4.190. Emblem of Irad
+*Quality Assessment: C-Class Article | Category: National Symbols*
+
+The **State Emblem of Irad** (Iradi: *Mamlekettik gerb*) is a circular emblem showing a *[[Tündük (Yurt Part)|tündük]]*, the crown of a yurt, against the sky, with two horses rearing towards it, inside a crimson ring that carries the country's name in Latin and Cyrillic letters, the [[The Star of Irad (Symbol)|Pole Star]], the inverted horseshoe of the [[Fallen Rider Tradition|Fallen Rider]] and the words "be free" in Orkhon letters. It was adopted by the [[Territorial Legislature of Irad|Mejlis]] of the [[Irad Special Economic Zone]] (ISEZ) in 2009 as an amendment to the State Symbols Act of 1993, and is used on passports, on the acts of the legislature and the courts, and on the seals of government bodies. It replaced a series of earlier emblems: the Soviet emblem of the [[Iradi Soviet Socialist Republic]] (1937–1992), the [[Territory of Irad (1992–2006)|territorial]] seal (1993–2006) and, from 2007, the roundel of the [[Flag of Irad|national flag]], which the Office of the Governor still uses as its own emblem.<sup>[1]</sup><sup>[2]</sup>
+
+## Design
+The emblem is round. Its elements are described in the 2009 act and in the official description published by the Department of Public Information in 2010:<sup>[1]</sup>
+
+| Element | Description |
+|---|---|
+| Field | Sky blue, inside a gold rim |
+| Tündük | A gold yurt crown in the upper centre: a ring with the sockets of the roof poles, crossed by three bent struts each way (*kaynar*), woven over and under |
+| Roof poles | Gold *[[Uuk (Yurt Part)|uuk]]* radiating from the crown to the rim of the field like the rays of the sun |
+| Horses | Two white horses rearing on either side of the crown and facing it: a [[Chongtor Horse|Chongtor]] on the dexter side (the viewer's left), short and deep-bodied, with a heavy mane and tail, and an [[Akyel Horse|Akyel]] on the sinister side, long-legged and long-necked, with a fine mane |
+| Ring | Crimson, between gold rims |
+| Name | *IRAD* in Latin letters to the left and *ИРАД* in Cyrillic to the right, in gold, along the top of the ring |
+| Star | An ivory five-pointed star at the top of the ring, between the two forms of the name |
+| Horseshoe | An ivory horseshoe at the foot of the ring, heels down |
+| Inscription | The two Orkhon words of the flag, *erkin* to the right of the horseshoe and *bol* to the left, in gold |
+| Ornament | A frieze of the *[[Koshkar Muyuz|koshkar müyüz]]* (ram's horn) pattern in gold on each side of the ring |
+
+Both horses are drawn from the stallion of the national flag, but they are deliberately not a mirror image of each other; the act requires that "the two breeds be distinguishable".<sup>[1]</sup> The official colours are the crimson of the flag, gold, a deep sky blue and the ivory of the flag. A single-colour version, in which the field and ring are left blank and the horses, crown and lettering are solid, is used for seals, stamps, embossing and engraving.<sup>[1]</sup>
+
+## Symbolism
+The 2010 official description explains the elements as follows:<sup>[1]</sup>
+- **The tündük** is the crown through which a yurt is lit and looks at the sky, and which is passed down in a family with the home. It stands for "one roof over all the people of Irad".
+- **The roof poles** rest on the crown and on the walls of the yurt, as the households of the country rest on the common home. Spread like rays, they also recall the sun of the Soviet emblem.
+- **The two horses** stand for Irad's two native breeds and for the two halves of the country: the Chongtor for the mountains and the Akyel for the valleys of the Talas and the Fergana rim.
+- **The star** is [[wp:Polaris]], called *Irad*, from which the country takes its name. As on the flag it has five points.
+- **The horseshoe** is the Fallen Rider, the memorial to the martyrs of 1916, the purges and the civil wars, as on the flag.
+- **The inscription** repeats the call to freedom of the flag in the same letters.
+- **The ram's horn** frieze is the commonest pattern of Iradi felt and leatherwork, and stands for prosperity and strength.
+
+The popular reading of the two horses is more political. Because the emblem was adopted in the year of the 2009 protocol on the Toktogul basin and the State Route 1 corridor, which set the working arrangement between the ISEZ and the clans of the [[Autonomous Tribal Regions]] (ATR), the Chongtor is widely taken to stand for the clans and the Akyel for the cities, the two "under one roof".<sup>[3]</sup> Officials have neither confirmed nor rejected this reading.
+
+## History
+
+#### Emblem of the Iradi SSR (1937–1992)
+In its first years the [[Iradi Soviet Socialist Republic]] used an emblem on the pattern of the Russian SFSR, with the initials of the republic. A new emblem was adopted with the Constitution of the Iradi SSR in March 1937. Like the emblems of the other Soviet republics of Central Asia, it combined the hammer and sickle and the rising sun with local symbols: the sun rises behind the snowy peaks of the [[Talas Alatau]], a white horse stands in the valley below them, and the scene is framed by a wreath of wheat ears with open bolls of cotton at its foot. A red star crowns the emblem, and red ribbons wound round the wreath carry the Soviet motto "Workers of all countries, unite!" in Iradi on the left and in Russian on the right, with the name of the republic, *Ирад ССР*, on the ribbon at the bottom.<sup>[4]</sup>
+
+The Iradi inscriptions were first written in the Latin alphabet and were changed to Cyrillic after the [[1941 Cyrillic Mandate]], when the Iradi motto took the form *Бардык өлкөлөрдүн пролетарлары, бириккиле!* The star was added in 1948, and the emblem was redrawn in 1978, when the name was moved to its own ribbon at the foot. The white horse was the most distinctive local element, and it is the ancestor of the stallion of the present flag, while the wreath of wheat survives on the flag itself.<sup>[2]</sup><sup>[4]</sup> The [[Socialist Republic of Irad]] continued to use the emblem after October 1991, and it remained in use in the areas it held until their surrender in August 1992.
+
+#### Seal of the Territory of Irad (1993–2006)
+The [[Organic Act of the Territory of Irad]] required the territory to have a seal, and the interim [[Territorial Legislature of Irad]] adopted one in the State Symbols Act of 1993, together with the flag and the anthem. It followed the American pattern of territorial and state seals. A navy blue ring carries the legend "SEAL OF THE TERRITORY OF IRAD" and, at the foot, "UNITED STATES · 1992", the year the territory was organized, inside a beaded border. Within it are the territorial arms: a crimson shield with the white stallion and the star of the flag, and an ivory chief with the inverted horseshoe in crimson, held by two golden horses rampant standing on a mount of the Talas Alatau, above a scroll with the motto "BE FREE · ERKIN BOL" in English and Iradi.<sup>[5]</sup>
+
+The seal was used on the acts of the Territorial Legislature, the records of the courts, the proclamations and commissions of the Governor, and on territorial identity cards and driving licences. Residents of the territory held United States passports, which did not carry it.<sup>[5]</sup>
+
+#### 2006–2009
+The [[Democratic Republic of Irad]] adopted no emblem of its own. Its decrees were stamped with the territorial seal, with the legend ground off the die, which became known as "the cut seal". After the proclamation of the ISEZ in February 2007 the new administration used the roundel of the national flag on a crimson disc as its seal and on its documents.<sup>[2]</sup>
+
+#### Adoption (2009)
+Work on a new emblem began in 2008, when the ISEZ prepared to issue passports of its own. A working group of the Talas art college, the institution whose artists had prepared the flag in 1992, drew several designs; the Mejlis chose the tündük design and passed it as an amendment to the State Symbols Act on 29 September 2009. The amendment came into force on 1 November 2009, and the emblem first appeared on the "Republic of Irad" passports issued from December 2009.<sup>[1]</sup><sup>[6]</sup> The Office of the Governor kept the flag roundel on a crimson disc as its own emblem and seal, and it is still used on the Governor's documents, on Government House and on the official portal, iradgov.org.
+
+## Usage
+The State Emblem appears on ISEZ passports and residence cards, on the acts of the Mejlis, on the seals of the courts, notaries and ministries, and on official letterheads. Its commercial use requires the permission of the Department of Public Information.<sup>[1]</sup> It is not used in the [[Autonomous Tribal Regions]]. Clan assemblies and the [[Kurultai (Iradi Freedom Society)|Kurultai]] fly the national flag, which both administrations share, and the Kurultai that approved the 2009 protocol was not consulted on the emblem. Writers close to the [[Iradi Freedom Society]] have called it "a picture of a treaty".<sup>[3]</sup>
+
+Heraldists have compared the emblem with the [[wp:Emblem of Kazakhstan|emblem of Kazakhstan]], which also places the crown of a yurt on a blue field with horses and radiating poles. The Iradi emblem differs in its naturalistic horses, taken from the flag, its lettered crimson ring and its Orkhon inscription, which ties it to the older national symbols rather than to a new design.<sup>[7]</sup>
+
+## See also
+- [[Flag of Irad]]
+- [[The Spirit of Irad]]
+- [[The Star of Irad (Symbol)]]
+- [[Fallen Rider Tradition]]
+- [[Tündük (Yurt Part)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2010). <i>The State Emblem of Irad: Official Description and Symbolism</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Historical Museum of Irad (2017). <i>Banners and Emblems of Irad: From the Tug to the National Flag</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2009). 'Two horses under one roof: the Mejlis picks an emblem.' Talas, 30 September.</li>
+<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
+<li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1993). <i>State Symbols Act 1993</i>, with the official drawings of the flag and the territorial seal. Talas.</li>
+<li id="cite_note-6"><b>^</b> Mejlis of the Irad Special Economic Zone (2009). <i>State Symbols (Amendment) Act 2009</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Horses, Stars and Sickles: Post-Soviet Heraldry in Central Asia.' Vol. 26, Iss. 3, pp. 201–219.</li>
+</ol>
+
+[[Category:National emblems]]
