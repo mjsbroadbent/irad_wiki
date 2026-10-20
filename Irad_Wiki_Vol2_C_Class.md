@@ -3480,7 +3480,7 @@ Members include:
 - coal mines around [[Tash-Kömür]] in the Lower Naryn District, which supply power stations and households;
 - limestone, gypsum and building-stone quarries and cement producers in the Talas and Chu valleys;
 - geological survey and engineering consultancies, several of them joint ventures with foreign firms;
-- equipment makers and suppliers, including the [[Nurzhan Heavy Machine Plant]].<sup>[1]</sup>
+- equipment makers and suppliers, including [[Nurzhanmash]].<sup>[1]</sup>
 
 The chamber is governed by a council elected by the members at an annual congress. Voting is weighted by the size of each member's contributions, which gives the antimony companies the largest influence.
 
@@ -8779,7 +8779,7 @@ The Irad League (*Irad Ligasy*) is open only to clubs from the ISEZ. In the 2026
 | Attelkom Talas | Talas | [[Attelkom]] | 2 |
 | Universitet Talas | Talas | [[Talas State University]] | 1 |
 | Surma Chatkal | Sary-Bulak District | [[Iradi Antimony and Rare Metals Combine]] | 1 |
-| Dastgoh Nurzhan | Nurzhan | [[Nurzhan Heavy Machine Plant]] | 0 |
+| Dastgoh Nurzhan | Nurzhan | [[Nurzhanmash]] | 0 |
 | FC Iyık Janyl | [[Iyık Janyl]] | City of Iyık Janyl | 0 |
 | [[Kara-Buura]] | [[Kyzyl-Adyr]] | Kara-Buura District | 0 |
 | Naryn Tash-Kömür | [[Tash-Kömür]] | Naryn cascade power stations | 0 |

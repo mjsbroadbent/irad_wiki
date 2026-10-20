@@ -558,7 +558,7 @@ Kobozev trained as a railway engineer and joined the [[wp:Russian Social Democra
 ## The city of Kobozev
 The city grew from a railway settlement on the lower Chu, where the [[First Congress of Iradi Soviets]] met in 1925. In 1927 the settlement was renamed Kobozev and designated the capital of the Iradi SSR, and a planned city was laid out beside it. Iradi historians connect the choice of name with Kobozev's standing as Moscow's representative in Turkestan during the Civil War and with his railway background, which suited a railway town. Naming cities after living Soviet officials was common at the time.<sup>[2]</sup>
 
-The name was carried by several institutions and events of the Soviet period, among them the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]), the Kobozev Heavy Machine Plant (now the [[Nurzhan Heavy Machine Plant]]), the [[1952 Kobozev Steel Strike]] and [[The Kobozev Bread Riots (1989)]]. In 1991–1992 the city was the seat of the [[Socialist Republic of Irad]]. After its capture in August 1992, [[Amanbek Alimbekov]] renamed it Nurzhan ("light of life") in September 1992, and the Territorial Legislature confirmed the change in the Toponymic Heritage Statute of 1993 (see [[De-Russification Movement in Irad]]). Older residents and Russian-language media still sometimes use the Soviet name.<sup>[2]</sup><sup>[3]</sup>
+The name was carried by several institutions and events of the Soviet period, among them the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]), the Kobozev Heavy Machine Plant (now [[Nurzhanmash]]), the [[1952 Kobozev Steel Strike]] and [[The Kobozev Bread Riots (1989)]]. In 1991–1992 the city was the seat of the [[Socialist Republic of Irad]]. After its capture in August 1992, [[Amanbek Alimbekov]] renamed it Nurzhan ("light of life") in September 1992, and the Territorial Legislature confirmed the change in the Toponymic Heritage Statute of 1993 (see [[De-Russification Movement in Irad]]). Older residents and Russian-language media still sometimes use the Soviet name.<sup>[2]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -1929,10 +1929,10 @@ The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in t
 <li id="cite_note-1"><b>^</b> City of Talas (2021). <i>Municipal Enterprises Register</i>. Talas.</li>
 </ol>
 
-#### 101. Nurzhan Heavy Machine Plant
+#### 101. Nurzhanmash
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Nurzhan Heavy Machine Plant** (formerly the Kobozev Heavy Machine Plant) is an engineering works in [[Nurzhan]]. Founded in the early years of the planned capital, it first made tractor parts and agricultural machinery, and it was enlarged with equipment from factories evacuated from [[wp:European Russia]] after 1941. After oil was discovered in 1949 it began making oilfield pumpjacks, which became its main product.<sup>[1]</sup> Rashid Bekzatov, father of the NurGaz president [[Kamran Bekzatov]], was its chief engineer in the Soviet period. The plant's workforce shrank sharply after 1991. Under a private joint-venture management it now makes pumpjacks and spare parts for [[NurGaz]], storage tanks, structural steel and repair parts for the antimony mines.<sup>[2]</sup>
+**Nurzhanmash** (Russian: Нуржанмаш, from *Nurzhan Machine-Building Works*; formerly the Kobozev Heavy Machine Plant and, from 1992, the Nurzhan Heavy Machine Plant) is an engineering works in the Dastgoh district of [[Nurzhan]]. Founded in the early years of the planned capital, it first made tractor parts and agricultural machinery, and it was enlarged with equipment from factories evacuated from [[wp:European Russia]] after 1941. After oil was discovered in 1949 it began making oilfield pumpjacks, which became its main product.<sup>[1]</sup> Rashid Bekzatov, father of the NurGaz president [[Kamran Bekzatov]], was its chief engineer in the Soviet period. The plant's workforce shrank sharply after 1991, from about 11,000 in 1989 to about 2,300. In 2004 [[NurGaz]] bought a 51 percent stake and renamed it Nurzhanmash. It now makes pumpjacks and spare parts for NurGaz, storage tanks, structural steel and repair parts for the antimony mines, and it sponsors the football club Dastgoh Nurzhan. Residents of the city still often call it the Heavy Machine Plant.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3044,7 +3044,7 @@ Over the following decade the state oil enterprise founded in Kobozev, which bec
 {{Infobox civil conflict
 | title = 1952 Kobozev Steel Strike
 | date = 1952 (several days)
-| place = Kobozev Heavy Machine Plant (now [[Nurzhan Heavy Machine Plant]]), Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic]]
+| place = Kobozev Heavy Machine Plant (now [[Nurzhanmash]]), Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic]]
 | causes = Pay and safety; a series of accidents in the steel foundry
 | goals = Better pay and safety
 | methods = Work stoppage spreading from the foundry to other shops
@@ -3057,7 +3057,7 @@ Over the following decade the state oil enterprise founded in Kobozev, which bec
 
 The **1952 Kobozev Steel Strike** was a work stoppage over pay and safety by foundry and machine-shop workers in Kobozev (now [[Nurzhan]]) in 1952. Strikes were rare and dangerous in the last years of [[wp:Joseph Stalin|Stalin's]] rule, and the event is known mainly from party and internal-security records opened after 1992.<sup>[1]</sup>
 
-According to these records, the stoppage began in the steel foundry of the Kobozev Heavy Machine Plant (now the [[Nurzhan Heavy Machine Plant]]) after a series of accidents and spread to other shops over several days. The strikers included Iradi, Russian and [[wp:Koryo-saram]] workers. Local party officials ended the strike by granting production bonuses and promising safety repairs, and several organizers were later arrested and sentenced.<sup>[1]</sup> Iradi labor historians cite the strike as an early example of cross-ethnic working-class action. Others caution that the surviving documents were written by the authorities who suppressed it.<sup>[2]</sup>
+According to these records, the stoppage began in the steel foundry of the Kobozev Heavy Machine Plant (now [[Nurzhanmash]]) after a series of accidents and spread to other shops over several days. The strikers included Iradi, Russian and [[wp:Koryo-saram]] workers. Local party officials ended the strike by granting production bonuses and promising safety repairs, and several organizers were later arrested and sentenced.<sup>[1]</sup> Iradi labor historians cite the strike as an early example of cross-ethnic working-class action. Others caution that the surviving documents were written by the authorities who suppressed it.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8819,7 +8819,7 @@ The clearing house handles payments inside the ISEZ only. Commercial banks keep 
 
 #### 231. Nurzhan Technical Lyceum
 *Quality: Stub | Category: Health & Education*
-The **Nurzhan Technical Lyceum** is a vocational secondary school in [[Nurzhan]] that trains electricians, machinists, welders and instrument technicians. Founded in 1952 as a Soviet trade school for the engineering plants, it has about 900 students, and its apprenticeship programs place students with [[NurGaz]], the [[Nurzhan Heavy Machine Plant]] and other employers.<sup>[1]</sup>
+The **Nurzhan Technical Lyceum** is a vocational secondary school in [[Nurzhan]] that trains electricians, machinists, welders and instrument technicians. Founded in 1952 as a Soviet trade school for the engineering plants, it has about 900 students, and its apprenticeship programs place students with [[NurGaz]], [[Nurzhanmash]] and other employers.<sup>[1]</sup>
 
 ## References
 <ol class="references">
