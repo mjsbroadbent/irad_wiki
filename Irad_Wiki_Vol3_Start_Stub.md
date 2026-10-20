@@ -6812,6 +6812,8 @@ Toktarov acquired the horse as a two-year-old in 2012; the price was not disclos
 ## Public image
 A photograph of Toktarov holding Zharkyn's bridle, released for Irad Day 2018, was reproduced on billboards across the [[Irad Special Economic Zone]] and on a postage stamp. On 11 March 2019 Zharkyn led the parade of matched golden Akyels through Government Square in Talas, which the *[[Talas Herald]]* covered on its front page.<sup>[1]</sup> Official commentary presents him as a symbol of national endurance and of the breed's recovery from near-extinction in the Soviet period. Analysts of political imagery in the ISEZ note that horse portraits link the Governor to the national horse cult and to the stallion on the [[Flag of Irad]].<sup>[2]</sup>
 
+Since the Governor withdrew from public view in July 2024, Zharkyn has led the Irad Day parades of 2025 and 2026 without a rider, led in hand by his groom under the Governor's parade saddle, while Lieutenant Governor [[Aidar Maksat]] took the salute. The Office of the Governor describes him as leading the parade "in the Governor's place". On opposition forums the empty saddle has been read as an allusion to the [[Fallen Rider Tradition|Fallen Rider]] tradition, although the saddle is not reversed; the government has not commented.<sup>[5]</sup> In October 2026 the Office of the Governor added a page about the horse to its portal *iradgov.org*, with a calendar of his public appearances, among them a spring open day at the State Stud Farm, and a children's corner inviting drawings by post to Government House.<sup>[5]</sup>
+
 ## Breeding and criticism
 Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor's herd at the [[Akyel Breeding Sanctuary]] are bred to him each spring. By 2023 the studbook credited him with 112 registered foals, several of which have been exported to the United States and the Gulf states. His stud fee has not been published.<sup>[3]</sup> Opposition outlets have questioned the public funding of the State Stud Farm, whose leading stallions are associated with the Governor's own horses. The government describes the stud as a national heritage program.<sup>[4]</sup>
 
@@ -6821,6 +6823,7 @@ Zharkyn stands at the [[State Stud Farm of Talas]], and mares from the Governor'
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). "Horses, Portraits and Power: Political Iconography in the ISEZ." Vol. 26, pp. 14–37.</li>
 <li id="cite_note-3"><b>^</b> Akyel Equine Logistics & Breeding Syndicate (2024). <i>National Akyel Studbook: Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Heritage and Patronage: The State Stud Farm of Talas." Vol. 28, No. 2, pp. 77–95.</li>
+<li id="cite_note-5"><b>^</b> Office of the Governor of the ISEZ (2026). "Zharkyn, the Governor's horse." <i>iradgov.org</i>.</li>
 </ol>
 
 {{Irad-stub}}
