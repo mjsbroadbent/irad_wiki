@@ -10199,6 +10199,7 @@ The emblem is round. Its elements are described in the 2009 act and in the offic
 | Tündük | A gold yurt crown in the upper centre: a ring with the sockets of the roof poles, crossed by three bent struts each way (*kaynar*), woven over and under |
 | Roof poles | Gold *[[Uuk (Yurt Part)|uuk]]* radiating from the crown to the rim of the field like the rays of the sun |
 | Horses | Two white horses rearing on either side of the crown and facing it: a [[Chongtor Horse|Chongtor]] on the dexter side (the viewer's left), short and deep-bodied, with a heavy mane and tail, and an [[Akyel Horse|Akyel]] on the sinister side, long-legged and long-necked, with a fine mane |
+| Ground | A low green mound of the foothills across the foot of the field, edged in gold, on which both horses stand |
 | Ring | Crimson, between gold rims |
 | Name | *IRAD* in Latin letters to the left and *ИРАД* in Cyrillic to the right, in gold, along the top of the ring |
 | Star | An ivory five-pointed star at the top of the ring, between the two forms of the name |
@@ -10206,7 +10207,7 @@ The emblem is round. Its elements are described in the 2009 act and in the offic
 | Inscription | The two Orkhon words of the flag, *erkin* to the right of the horseshoe and *bol* to the left, in gold |
 | Ornament | A frieze of the *[[Koshkar Muyuz|koshkar müyüz]]* (ram's horn) pattern in gold on each side of the ring |
 
-Both horses are drawn from the stallion of the national flag, but they are deliberately not a mirror image of each other; the act requires that "the two breeds be distinguishable".<sup>[1]</sup> The official colours are the crimson of the flag, gold, a deep sky blue and the ivory of the flag. A single-colour version, in which the field and ring are left blank and the horses, crown and lettering are solid, is used for seals, stamps, embossing and engraving.<sup>[1]</sup>
+The two horses were drawn new for the emblem by the art college working group, from life studies of a Chongtor and an Akyel, in the engraved manner of the flag's stallion: solid ivory figures with fine lines for the eye, mane, tail and muscles. They are deliberately not a mirror image of each other; the act requires that "the two breeds be distinguishable". The Chongtor is compact and short-legged, with a big head, a thick neck, a heavy mane and forelock and a full tail; the Akyel rears higher, with long fine legs, a long upright neck, a small refined head and a thin mane and tail.<sup>[1]</sup> The official colours are the crimson of the flag, gold, a deep sky blue and the ivory of the flag. A single-colour version, in which the field and ring are left blank and the horses, ground, crown and lettering are solid, is used for seals, stamps, embossing and engraving.<sup>[1]</sup>
 
 ## Symbolism
 The 2010 official description explains the elements as follows:<sup>[1]</sup>

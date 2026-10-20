@@ -436,14 +436,14 @@
  "Emblem_of_Irad.svg": {
   "width": 1000,
   "height": 1000,
-  "bytes": 78260,
+  "bytes": 138585,
   "mime": "image/svg+xml",
   "thumb": "320px-Emblem_of_Irad.png"
  },
  "Emblem_of_Irad_(monochrome).svg": {
   "width": 1000,
   "height": 1000,
-  "bytes": 71155,
+  "bytes": 146414,
   "mime": "image/svg+xml",
   "thumb": "320px-Emblem_of_Irad_(monochrome).png"
  },
@@ -1241,7 +1241,7 @@
  "Seal_of_the_Territory_of_Irad.svg": {
   "width": 1000,
   "height": 1000,
-  "bytes": 59745,
+  "bytes": 99599,
   "mime": "image/svg+xml",
   "thumb": "320px-Seal_of_the_Territory_of_Irad.png"
  },
