@@ -934,7 +934,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     // As on Wikipedia, the location map sits after the flag and anthem, before the capital and the rest.
     const anthemAt = rows.findIndex(r => /^anthem/i.test(r.key));
     const top = rows.slice(0, anthemAt + 1), rest = rows.slice(anthemAt + 1);
-    const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? linkNames(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${linkNames(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
+    // Note markers such as [a] in a value become superscripts, as on Wikipedia; the notes are in the article.
+    const val = v => linkNames(v).replace(/\[([a-z])\]/g, '<sup class="ib-note">[$1]</sup>');
+    const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? val(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${val(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
     el.innerHTML = `
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       ${emblemFile ? `<div class="ib-symbols">
