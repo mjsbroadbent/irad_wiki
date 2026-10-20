@@ -1511,6 +1511,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_wild_tulip.jpg"
  },
+ "Talasbank_logo.svg": {
+  "width": 441,
+  "height": 100,
+  "bytes": 13808,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Talasbank_logo.png"
+ },
  "Talasfilm_archive.jpg": {
   "width": 1152,
   "height": 864,
