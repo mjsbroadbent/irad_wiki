@@ -6219,18 +6219,18 @@ This list includes notable companies with primary headquarters located in the co
 | [[Arsha Books]] | Consumer services | Publishing | Talas | 2009 | Independent publisher of poetry and stories; registration suspended since 2024 | P | A |
 | [[Attelkom]] | Telecommunications | Fixed line & mobile telecommunications | Talas | 1994 | Largest telecommunications company and internet provider; privatized 1999; runs [[Kartalar]] and [[Attelkom Jarnama]] | P | A |
 | [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
-| Bereke | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
+| [[Bereke]] | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
 | [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
-| Torgoy | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
+| [[Torgoy]] | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
 | [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1950s | Beet-sugar factory; privatized 1997 | P | A |
 | Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
 | [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
 | Ilim | Consumer services | Publishing | Kobozev (Nurzhan) | — | Press of the Academy of Sciences of the Iradi SSR; kept a Russian-language list until 2003 | S | D |
-| Irad Pochtasy | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
+| [[Irad Pochtasy]] | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
 | Irad Temir Jolu | Industrials | Railroads | — | — | State railway; about 690 km of single track | S | A |
 | [[Irad Times]] (Times Staff Trust) | Consumer services | Publishing | Talas | 1996 | Independent weekly newspaper, owned by its staff since 2001 | P | A |
 | [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
-| Iradenergo | Utilities | Conventional electricity | Talas | 2008 | State power utility; runs the [[Toktogul Hydroelectric Complex]], the Naryn cascade, the national dispatch center and the export lines; successor of the Territorial Power Authority (1993–2007) | S | A |
+| [[Iradenergo]] | Utilities | Conventional electricity | Talas | 2008 | State power utility; runs the [[Toktogul Hydroelectric Complex]], the Naryn cascade, the national dispatch center and the export lines; successor of the Territorial Power Authority (1993–2007) | S | A |
 | [[Iradi Antimony and Rare Metals Combine]] | Basic materials | Nonferrous metals | Talas | 1994 | Holding company of the antimony industry; ISEZ minority stake since 2009 | P | A |
 | [[Iradi Leatherworks Factory]] | Consumer goods | Footwear | Talas | 1958 | Boots, belts, bridles and saddlery; privatized 1996 | P | A |
 | [[Iradi Petroleum Transit Consortium]] | Oil & gas | Pipelines | Talas | 1998 | Owns the [[Northern Export Feeder]]; NurGaz holds 51% | P | A |
@@ -12028,3 +12028,63 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 
 [[Category:Musical artists]]
 [[Category:Bands]]
+
+#### 588. Bereke
+*Quality: Start-Class | Category: Economy & Industry*
+
+**Bereke** (Iradi *bereke*, "plenty"; Russian: *Береке*) is the largest supermarket chain in Irad, with 144 stores in 2026: 76 in [[Talas]], 53 in [[Nurzhan]] and 15 in [[Iyık Janyl]]. Its main competitor is Jıldız Market, with 82 stores.<sup>[1]</sup> Its shops range from converted ground floors of Soviet apartment blocks to larger stores on the main roads, and many put fruit and vegetables out on the pavement in summer. Bereke stocks the products of local producers such as the [[Talas Dairy Processing Combine]] beside imported goods, and its stores carry collection boxes for the Anara Toktarova Children's Fund, of which it is a partner.<sup>[2]</sup>
+
+## Branding
+The chain's logo is a whole red pomegranate with a segment cut out and lying in front of it, beside the name in a bold serif; on shop fronts it sits in a yellow disc on a red fascia with a yellow strip below. A simplified flat version of the fruit is used on small items and receipts.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Retail and Services</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Anara Toktarova Children's Fund (2025). <i>Annual Report 2024</i>. Talas.</li>
+</ol>
+
+#### 589. Torgoy
+*Quality: Start-Class | Category: Economy & Industry*
+
+**Torgoy** (Iradi *torgoy*, "lark"; Russian: *Торгой*), operated by Torgoy Mobile LLC, is the second mobile operator in Irad. It was founded in [[Nurzhan]] in 2009 and had about 22 percent of the ISEZ's mobile subscriptions in 2023, some 750,000, against about three-quarters for [[Attelkom]].<sup>[1]</sup>
+
+Torgoy is a network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]]. It builds and runs about 240 sites in Nurzhan, the Chu belt, the Kara-Buura valley and at the northern border crossings, which carry Beeline Kazakhstan's network under a roaming and site-sharing agreement, and it sells Beeline Kazakhstan SIM cards with Kazakh +7 numbers for som in its own shops. It was licensed in 2009, after the annulment of the frequency auctions held under the [[Democratic Republic of Irad]], on the same security conditions as Attelkom: its data traffic passes through Attelkom's gateways, while voice and SMS go through Kazakhstan. Calls between Attelkom's +996 39 numbers and Torgoy's +7 numbers are charged as international, so many people in Nurzhan carry two phones.<sup>[1]</sup> The operator is popular with Nurzhan's Russian speakers, with truck drivers and with families who have relatives across the Kazakh border. Its owners are Nurzhan investors whose shareholdings are not public.<sup>[2]</sup>
+
+## Branding
+Torgoy's logo is a white singing lark on a violet rounded tile, beside the name in squared lowercase lettering; its shops have violet fascias with a lime-green strip.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Retail and Services</i>. Talas.</li>
+</ol>
+
+#### 590. Iradenergo
+*Quality: Start-Class | Category: Economy & Industry*
+
+**Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the Territorial Power Authority of Irad (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees.<sup>[1]</sup>
+
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run city distribution, meters and billing in som, and it buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and Nurzhan, remembered as "Iradenergo hours".<sup>[1]</sup> See also [[Energy in Irad]].
+
+## Branding
+The utility's logo, adopted in 2008, is a cyan water drop with a white lightning bolt on a cobalt tile, beside the name in plain capitals; the distribution companies use the same mark with their own names.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
+</ol>
+
+#### 591. Irad Pochtasy
+*Quality: Start-Class | Category: Economy & Industry*
+
+**Irad Pochtasy** (Irad Post; State Postal Enterprise; Russian: *ГП «Ирадпочта»*) is the state postal service of the [[Irad Special Economic Zone]] (ISEZ). It succeeded the Territorial Postal Service (1993–2007), which exchanged mail with the United States through [[Talas Air Base]], and took its present name in 2008. Its head office is the [[Talas Central Post Office]]. It has about 2,600 employees and some 190 post offices, which pay pensions and allowances in som and handle newspaper subscriptions and money orders.<sup>[1]</sup>
+
+Irad is not a member of the [[wp:Universal Postal Union]], so international mail goes through the Kazakh postal service under a bilateral arrangement, and foreign senders add "via Almaty, Kazakhstan" to the address. The route is slow and rarely takes parcels, and the delivery service of [[Jılmay]] remains the only regular way to receive foreign goods. Irad Pochtasy's stamps are valid only for domestic mail.<sup>[1]</sup>
+
+## Branding
+The service's logo, adopted with its new name in 2008, is a white galloping horse, recalling the mounted relay couriers, on a teal disc above two yellow speed lines; its vans and post offices are teal with yellow stripes.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Postal Services in the ISEZ</i>. Talas.</li>
+</ol>

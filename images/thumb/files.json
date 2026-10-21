@@ -174,6 +174,13 @@
   "mime": "image/png",
   "thumb": "320px-Attelkom_logo.png"
  },
+ "Attelkom_shop.jpg": {
+  "width": 1600,
+  "height": 894,
+  "bytes": 302992,
+  "mime": "image/jpeg",
+  "thumb": "320px-Attelkom_shop.jpg"
+ },
  "Bakyt_Orozbekov_2006.jpg": {
   "width": 896,
   "height": 1120,
@@ -195,6 +202,13 @@
   "mime": "image/svg+xml",
   "thumb": "320px-BankOfIrad_logo.png"
  },
+ "Bank_of_Irad_press_conference.jpg": {
+  "width": 1600,
+  "height": 894,
+  "bytes": 316594,
+  "mime": "image/jpeg",
+  "thumb": "320px-Bank_of_Irad_press_conference.jpg"
+ },
  "Bazar-i_Kalan.jpg": {
   "width": 1152,
   "height": 864,
@@ -215,6 +229,20 @@
   "bytes": 156397,
   "mime": "image/jpeg",
   "thumb": "320px-Bekzat_Toktarov_2018.jpg"
+ },
+ "Bereke_logo.svg": {
+  "width": 402,
+  "height": 100,
+  "bytes": 51815,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Bereke_logo.png"
+ },
+ "Bereke_supermarket.jpg": {
+  "width": 1600,
+  "height": 894,
+  "bytes": 385468,
+  "mime": "image/jpeg",
+  "thumb": "320px-Bereke_supermarket.jpg"
  },
  "Besh-Kol_Glaciers.jpg": {
   "width": 1600,
@@ -601,6 +629,20 @@
   "mime": "image/jpeg",
   "thumb": "320px-IradOne_mast.jpg"
  },
+ "IradOne_news_studio.jpg": {
+  "width": 1600,
+  "height": 894,
+  "bytes": 285949,
+  "mime": "image/jpeg",
+  "thumb": "320px-IradOne_news_studio.jpg"
+ },
+ "IradPochtasy_logo.svg": {
+  "width": 465,
+  "height": 100,
+  "bytes": 22177,
+  "mime": "image/svg+xml",
+  "thumb": "320px-IradPochtasy_logo.png"
+ },
  "Irad_(orthographic_projection).svg": {
   "width": 541,
   "height": 541,
@@ -628,6 +670,13 @@
   "bytes": 10232,
   "mime": "image/png",
   "thumb": "320px-Irad_Palace_of_Art_logo.png"
+ },
+ "Irad_Pochtasy_van.jpg": {
+  "width": 1600,
+  "height": 846,
+  "bytes": 336783,
+  "mime": "image/jpeg",
+  "thumb": "320px-Irad_Pochtasy_van.jpg"
  },
  "Irad_Times_press.jpg": {
   "width": 900,
@@ -670,6 +719,20 @@
   "bytes": 1252,
   "mime": "image/svg+xml",
   "thumb": "320px-Irad_religion_2018.png"
+ },
+ "Iradenergo_head_office.jpg": {
+  "width": 1600,
+  "height": 861,
+  "bytes": 291441,
+  "mime": "image/jpeg",
+  "thumb": "320px-Iradenergo_head_office.jpg"
+ },
+ "Iradenergo_logo.svg": {
+  "width": 500,
+  "height": 100,
+  "bytes": 41071,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Iradenergo_logo.png"
  },
  "Iradi_SSR_location_map.svg": {
   "width": 1000,
@@ -754,6 +817,13 @@
   "bytes": 8084,
   "mime": "image/svg+xml",
   "thumb": "320px-Jilmay_logo.png"
+ },
+ "Jilmay_pickup_point.jpg": {
+  "width": 1600,
+  "height": 1218,
+  "bytes": 516814,
+  "mime": "image/jpeg",
+  "thumb": "320px-Jilmay_pickup_point.jpg"
  },
  "Jolchu_cover.jpg": {
   "width": 600,
@@ -1097,6 +1167,13 @@
   "bytes": 62498,
   "mime": "image/svg+xml",
   "thumb": "320px-Naryn_corridor_map.png"
+ },
+ "NurGaz_filling_station.jpg": {
+  "width": 1600,
+  "height": 912,
+  "bytes": 313067,
+  "mime": "image/jpeg",
+  "thumb": "320px-NurGaz_filling_station.jpg"
  },
  "NurGaz_logo.svg": {
   "width": 423,
@@ -1525,6 +1602,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Talas_wild_tulip.jpg"
  },
+ "Talasbank_cash_machines.jpg": {
+  "width": 1600,
+  "height": 894,
+  "bytes": 375720,
+  "mime": "image/jpeg",
+  "thumb": "320px-Talasbank_cash_machines.jpg"
+ },
  "Talasbank_logo.svg": {
   "width": 441,
   "height": 100,
@@ -1664,6 +1748,20 @@
   "bytes": 554540,
   "mime": "image/jpeg",
   "thumb": "320px-Toktogul_town.jpg"
+ },
+ "Torgoy_logo.svg": {
+  "width": 425,
+  "height": 100,
+  "bytes": 6392,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Torgoy_logo.png"
+ },
+ "Torgoy_shop.jpg": {
+  "width": 1600,
+  "height": 530,
+  "bytes": 195689,
+  "mime": "image/jpeg",
+  "thumb": "320px-Torgoy_shop.jpg"
  },
  "Transport_in_Irad_map.svg": {
   "width": 1000,

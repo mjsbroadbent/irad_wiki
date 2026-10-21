@@ -3299,5 +3299,131 @@
     "caption": "Talas Süt logo",
     "alt": "The words Talas Süt in a navy serif under a thin blue mountain ridge line, the dots of the ü drawn as two red drops, with 1964 · TALAS between two red rules below",
     "credit": "Logo of the Talas Dairy Processing Combine, from talas-sut.com"
+  },
+  {
+    "file": "Bereke_logo.svg",
+    "article": "Bereke",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Bereke logo",
+    "alt": "A red pomegranate with a segment cut out and lying in front of it, beside the word Bereke in a bold red serif",
+    "credit": "Logo supplied by the wiki owner; lettering outlined from Lora (SIL Open Font License)"
+  },
+  {
+    "file": "Torgoy_logo.svg",
+    "article": "Torgoy",
+    "placement": "lead",
+    "width": 240,
+    "caption": "Torgoy logo",
+    "alt": "A white singing lark on a violet rounded square, beside the word torgoy in squared violet lowercase lettering",
+    "credit": "Logo supplied by the wiki owner"
+  },
+  {
+    "file": "Iradenergo_logo.svg",
+    "article": "Iradenergo",
+    "placement": "lead",
+    "width": 280,
+    "caption": "Iradenergo logo",
+    "alt": "A cyan water drop with a white lightning bolt on a cobalt square, beside IRADENERGO in cobalt capitals",
+    "credit": "Logo supplied by the wiki owner; lettering outlined from Carlito (SIL Open Font License)"
+  },
+  {
+    "file": "IradPochtasy_logo.svg",
+    "article": "Irad Pochtasy",
+    "placement": "lead",
+    "width": 280,
+    "caption": "Irad Pochtasy logo",
+    "alt": "A white galloping horse on a teal disc above two yellow lines, beside IRAD POCHTASY in teal capitals",
+    "credit": "Logo supplied by the wiki owner; lettering outlined from Inter (SIL Open Font License)"
+  },
+  {
+    "file": "Bereke_supermarket.jpg",
+    "article": "Bereke",
+    "section": "Branding",
+    "width": 300,
+    "caption": "A Bereke supermarket on the ground floor of an apartment block, with produce set out on the pavement",
+    "alt": "A street-front supermarket with a long red sign showing a pomegranate in a yellow disc and the word Bereke, crates of melons and potatoes outside and shoppers on the pavement",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Torgoy_shop.jpg",
+    "article": "Torgoy",
+    "section": "Branding",
+    "width": 300,
+    "caption": "The fascia of a Torgoy shop, with top-up and SIM-card offers in the windows",
+    "alt": "A violet shop sign with a white lark in a rounded square and the word torgoy, above a lime-green strip and window banners advertising top-ups and prepaid SIM cards",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Iradenergo_head_office.jpg",
+    "article": "Iradenergo",
+    "section": "Branding",
+    "width": 300,
+    "caption": "Iradenergo's head office in Talas",
+    "alt": "A four-storey office block of concrete and blue-green glass with a car park, and a blue sign in front showing a water drop with a lightning bolt and the word IRADENERGO",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Irad_Pochtasy_van.jpg",
+    "article": "Irad Pochtasy",
+    "section": "Branding",
+    "width": 300,
+    "caption": "An Irad Pochtasy delivery van outside a post office",
+    "alt": "A teal van with yellow stripes and a white disc showing a galloping horse and IRAD POCHTASY, its back doors open while a postman unloads it beside apartment blocks",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "NurGaz_filling_station.jpg",
+    "article": "NurGaz",
+    "section": "Refining",
+    "width": 300,
+    "caption": "A NurGaz filling station on the edge of Nurzhan",
+    "alt": "A worn filling station with a dark canopy and orange band reading NURGAZ, orange pumps, older cars filling up and dump trucks parked behind",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Talasbank_cash_machines.jpg",
+    "article": "Talasbank",
+    "section": "Operations",
+    "width": 300,
+    "caption": "Talasbank cash machines on a street in Talas",
+    "alt": "Three blue cash machines set into a grey wall under a long blue TALASBANK sign with the mountain logo, a man using one while another waits",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Bank_of_Irad_press_conference.jpg",
+    "article": "Bank of Irad",
+    "section": "Functions",
+    "width": 300,
+    "caption": "A press conference at the Bank of Irad",
+    "alt": "An official reads a statement at a lectern before a green curtain with the bank's gold emblem and the words BANK OF IRAD, photographers and television cameras in front",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Jilmay_pickup_point.jpg",
+    "article": "Jılmay",
+    "section": "History",
+    "width": 300,
+    "caption": "A Jılmay pickup point in a converted shop front",
+    "alt": "A small shop with a white sign showing a smiling face and the word jilmay, shelves of parcels inside and a woman leaving with a box, beside a greengrocer",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "Attelkom_shop.jpg",
+    "article": "Attelkom",
+    "section": "Network and services",
+    "width": 300,
+    "caption": "An Attelkom shop in Talas",
+    "alt": "A large shop front with the green Attelkom horse logo and the slogan Connecting Irad, window panels advertising internet, mobile and 4G, and staff in green shirts at the counters",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
+  },
+  {
+    "file": "IradOne_news_studio.jpg",
+    "article": "IradOne",
+    "section": "Programming",
+    "width": 300,
+    "caption": "The IradOne News studio in Talas",
+    "alt": "A television news set with two presenters at a curved wooden desk marked IradOne, studio cameras on pedestals and lights overhead",
+    "credit": "Photograph for Irad Wiki (AI-generated)"
   }
 ]
