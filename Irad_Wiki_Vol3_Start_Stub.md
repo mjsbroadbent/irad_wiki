@@ -2150,12 +2150,41 @@ The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial z
 #### 119. Talas Dairy Processing Combine
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Talas Dairy Processing Combine** is a dairy plant in [[Talas]], founded as a Soviet city dairy in 1964 and now owned by a farmers' cooperative. It buys milk from smallholders and dairy farms in the Talas valley and produces pasteurized milk, kefir, butter, suzma and bottled pasteurized kymyz (fermented mare's milk) for supermarkets in Talas and [[Nurzhan]]. Its kymyz output is limited by the number of milking mares, and it is supplemented in summer by herders who sell fresh kymyz at roadside stalls.<sup>[1]</sup>
+The **Talas Dairy Processing Combine** (Iradi: *Talas Süt Kombinatı*; Russian: *Таласский молочный комбинат*), trading as **Talas Süt**, is the largest dairy in Irad. Its plant is on Temir Jol Street in the Western Industrial District of [[Talas]], beside the railway. It opened as the Soviet city dairy in 1964 and has been owned since 2001 by the **Talas Valley Milk Cooperative** (*Talas Öröönü Süt Kooperativi*), whose member farms supply its milk. It makes pasteurized milk, kefir, airan, qatiq, suzma, kurut, butter and kaymak, and in summer bottles kymyz (fermented mare's milk) under the **Ak Bee** brand.<sup>[1]</sup><sup>[2]</sup> Its slogan is *Ak süt, ak niet* ("White milk, a clean heart").
+
+## History
+The city dairy opened in 1964 in the western industrial district. In 1972 it added a kymyz shop that supplied the sanatoriums of the Iradi SSR with mare's milk from state farms in the [[Talas Alatau]], where kymyz was used in treatments for lung and stomach illnesses.<sup>[2]</sup> During the siege of Talas in 1992 the dairy kept working on its own boilers and delivered milk to hospitals and children's homes.<sup>[2]</sup>
+
+The plant was privatized in 1997. More than 900 supplying families pooled their savings to form the cooperative and bought the first shares; by 2001 the cooperative owned the whole combine, and it opened the first refrigerated collection points in the villages that year. Pasteurized kymyz in glass bottles, under the Ak Bee name ("white mare"), reached city supermarkets in 2009. A fermentation hall for airan, qatiq and suzma followed in 2014, and the laboratory was rebuilt in 2019. The combine marked its 60th anniversary in 2024 with a thanksgiving liturgy and a meal for staff and member families.<sup>[2]</sup>
+
+## Ownership and organization
+The combine belongs to about 2,340 member farms, most of them smallholdings with an average of eight cows. A farm may join after delivering milk for a full year. Members elect an eleven-member board at the general meeting each April, the board appoints the director, and part of each year's profit is returned to members as a bonus per litre delivered.<sup>[2]</sup><sup>[3]</sup> The general director since 2018 is Damira Sharipova, who joined the laboratory in 1996; the board is chaired by Kanybek Asan uulu, a dairy farmer from [[Orto-Ayyl]].<sup>[2]</sup>
+
+The combine employs about 930 people at the plant and on the collection routes. Tankers run 46 routes each morning to 18 collection points in the Talas valley, where milk is cooled overnight; three more points open at the foot of the summer pastures from May for mare's milk. Every tanker is sampled for fat, protein, antibiotics and cell count before unloading. In summer the combine takes in up to 410 tonnes of milk a day, and about 240 tonnes in winter.<sup>[2]</sup>
+
+Suppliers are paid on the 10th, 20th and 30th of each month, into a [[Talasbank]] or Ak Bata Bank account or in cash at the collection point. From 1 April 2026 the combine paid 3.85 som a litre for extra-grade cow's milk, 3.45 for grade 1 and 2.90 for uncooled milk, 4.60 for goat's milk and 9.80 for mare's milk. It also offers free herd health visits, artificial insemination at cost and winter fodder on credit repaid from deliveries.<sup>[3]</sup>
+
+## Products
+The combine sells 22 products under the Talas Süt and Ak Bee names in Bereke and Jıldız Market supermarkets (226 stores in 2026), at bazaar dairy stalls and to schools and hospitals in Talas, [[Nurzhan]] and [[Iyık Janyl]]. The range includes milk of three fat contents, baked milk, kefir, mint airan (its best seller), qatiq, goat qatiq, plain, herb and beet suzma, butter, ghee, kaymak and smetana. Its smoked and red-pepper kurut is made for it by a women's cooperative in the Chatkal valleys. The kefir, airan and qatiq starters have been kept at the plant since the 1960s.<sup>[4]</sup> Beet suzma, suzma mixed with grated beet and served with plov, was sold only in the Talas valley until it reached Nurzhan in August 2026.<sup>[5]</sup>
+
+### Ak Bee kymyz
+Ak Bee is made only from May to September, while about 212 herding families keep their Chongtor mares on the Talas Alatau summer pastures; the combine does not freeze mare's milk or make kymyz from powder. Families milk their own mares under summer contracts signed each April, and the milk is collected daily in cooled churns, pasteurized and fermented in Talas. Young kymyz (about 1% alcohol) and strong kymyz (up to 2.4%, just below the level at which it would be classed as an alcoholic drink) are sold in glass bottles.<sup>[6]</sup> Each season opens with a *kymyz muryndyk* blessing on the pastures above Orto-Ayyl. In 2026 the combine bottled 1.38 million bottles, up from 1.26 million in 2025.<sup>[5]</sup>
+
+## School milk
+In October 2026 the combine and the Talas city education department restored free milk for pupils in years one to four at 140 state schools in the city, a 200 ml carton of milk or kefir each school day, for the first time since the programme was cut back in 2019. The cooperative voted for it at its April meeting; the programme runs to the end of the school year, when the board will decide whether to continue.<sup>[5]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/about.html" target="_blank" rel="noopener">About the Talas Dairy Processing Combine</a>'. Talas Süt.</li>
+<li id="cite_note-3"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/farmers.html" target="_blank" rel="noopener">Sell us your milk</a>'. Talas Süt.</li>
+<li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/products.html" target="_blank" rel="noopener">Products</a>'. Talas Süt.</li>
+<li id="cite_note-5"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/news.html" target="_blank" rel="noopener">News</a>'. Talas Süt.</li>
+<li id="cite_note-6"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/kymyz.html" target="_blank" rel="noopener">Ak Bee kymyz</a>'. Talas Süt.</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://talas-sut.com/index.html" target="_blank" rel="noopener">Talas Süt</a> (official site, in English, Iradi and Russian)
 
 #### 120. Chui Sugar Refining Corporation
 *Quality: Start-Class | Category: Economy & Industry*
