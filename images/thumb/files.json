@@ -1749,6 +1749,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Toktogul_town.jpg"
  },
+ "Torgoy_kiosk.jpg": {
+  "width": 1600,
+  "height": 893,
+  "bytes": 419214,
+  "mime": "image/jpeg",
+  "thumb": "320px-Torgoy_kiosk.jpg"
+ },
  "Torgoy_logo.svg": {
   "width": 425,
   "height": 100,
@@ -1758,8 +1765,8 @@
  },
  "Torgoy_shop.jpg": {
   "width": 1600,
-  "height": 530,
-  "bytes": 195689,
+  "height": 893,
+  "bytes": 384321,
   "mime": "image/jpeg",
   "thumb": "320px-Torgoy_shop.jpg"
  },
