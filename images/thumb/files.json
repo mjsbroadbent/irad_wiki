@@ -48,6 +48,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Ak-kalpak.jpg"
  },
+ "Ak_Bata_Bank_logo.svg": {
+  "width": 884,
+  "height": 300,
+  "bytes": 7007,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Ak_Bata_Bank_logo.png"
+ },
  "Ak_Boru_cover.jpg": {
   "width": 640,
   "height": 640,
@@ -75,6 +82,13 @@
   "bytes": 538223,
   "mime": "image/jpeg",
   "thumb": "320px-Aksu-Zhabagly.jpg"
+ },
+ "Akyel_Syndicate_logo.svg": {
+  "width": 624,
+  "height": 251,
+  "bytes": 31605,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Akyel_Syndicate_logo.png"
  },
  "Akyel_chestnut.jpg": {
   "width": 1386,
@@ -867,6 +881,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Iradi_western_film_shoot.jpg"
  },
+ "Iradiya_logo.svg": {
+  "width": 850,
+  "height": 320,
+  "bytes": 14628,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Iradiya_logo.png"
+ },
  "Irrigation_works_1910s.jpg": {
   "width": 1600,
   "height": 1343,
@@ -908,6 +929,13 @@
   "bytes": 98141,
   "mime": "image/jpeg",
   "thumb": "320px-Jason_Ilyasov_2025.jpg"
+ },
+ "Jildiz_Market_logo.svg": {
+  "width": 1034,
+  "height": 308,
+  "bytes": 11859,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Jildiz_Market_logo.png"
  },
  "Jilmay_logo.svg": {
   "width": 483,
@@ -1315,6 +1343,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-NurGaz_wells.jpg"
  },
+ "Nurzhan_Agro-Industrial_logo.svg": {
+  "width": 594,
+  "height": 344,
+  "bytes": 8086,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhan_Agro-Industrial_logo.png"
+ },
  "Nurzhan_Refinery_No_1.jpg": {
   "width": 1152,
   "height": 864,
@@ -1328,6 +1363,13 @@
   "bytes": 167042,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_central_square.jpg"
+ },
+ "Nurzhanmash_logo.svg": {
+  "width": 1426,
+  "height": 346,
+  "bytes": 12625,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Nurzhanmash_logo.png"
  },
  "Old_Talas_Citadel.jpg": {
   "width": 1152,
@@ -1958,6 +2000,13 @@
   "bytes": 384321,
   "mime": "image/jpeg",
   "thumb": "320px-Torgoy_shop.jpg"
+ },
+ "Trans-Chuy_logo.svg": {
+  "width": 1294,
+  "height": 324,
+  "bytes": 13003,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Trans-Chuy_logo.png"
  },
  "Transport_in_Irad_map.svg": {
   "width": 1000,
