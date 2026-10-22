@@ -307,12 +307,12 @@
   "mime": "image/jpeg",
   "thumb": "320px-Border_clashes_2018.jpg"
  },
- "Bowl_with_birds_and_the_star_Mamytova_2014.jpg": {
+ "Bowl_with_birds_and_the_star_Mamyt_2014.jpg": {
   "width": 700,
   "height": 700,
   "bytes": 90131,
   "mime": "image/jpeg",
-  "thumb": "320px-Bowl_with_birds_and_the_star_Mamytova_2014.jpg"
+  "thumb": "320px-Bowl_with_birds_and_the_star_Mamyt_2014.jpg"
  },
  "Boz-Korgon_compound.jpg": {
   "width": 1152,
@@ -579,6 +579,13 @@
   "bytes": 40979,
   "mime": "image/svg+xml",
   "thumb": "320px-First_Iradi_Civil_War_map.png"
+ },
+ "Flag_of_Irad.svg": {
+  "width": 298,
+  "height": 211,
+  "bytes": 25233,
+  "mime": "image/svg+xml",
+  "thumb": "320px-Flag_of_Irad.png"
  },
  "Flight_over_the_Pass_Ayyubov_1916.jpg": {
   "width": 760,
@@ -1203,6 +1210,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Mar_Ephrem_2024.jpg"
  },
+ "Mar_Timotheos_Alimbekov_1920s.jpg": {
+  "width": 896,
+  "height": 1152,
+  "bytes": 96114,
+  "mime": "image/jpeg",
+  "thumb": "320px-Mar_Timotheos_Alimbekov_1920s.jpg"
+ },
  "March_of_the_Thousand_Saddles.jpg": {
   "width": 1152,
   "height": 864,
@@ -1244,6 +1258,13 @@
   "bytes": 243205,
   "mime": "image/jpeg",
   "thumb": "320px-Mountain_juniper.jpg"
+ },
+ "Muratbek_Tanip-Biy_1870s.jpg": {
+  "width": 1024,
+  "height": 796,
+  "bytes": 115314,
+  "mime": "image/jpeg",
+  "thumb": "320px-Muratbek_Tanip-Biy_1870s.jpg"
  },
  "Naryn_border_bridge.jpg": {
   "width": 1024,
