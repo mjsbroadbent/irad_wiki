@@ -684,14 +684,19 @@
   // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
   // "placement": "lead" puts it at the top right of the article instead, as for a company logo.
   function placeImages(body, a) {
-    const box = body.querySelector('aside.infobox.generic');
+    // As on Wikipedia, the lead picture goes inside the infobox, under its title (and above a
+    // settlement's location map), unless the box already has a picture of its own.
+    let box = body.querySelector('aside.infobox');
+    const h2 = body.querySelector('h2');
+    if (box && h2 && (h2.compareDocumentPosition(box) & Node.DOCUMENT_POSITION_FOLLOWING)) box = null; // a box further down
     let leads = imagesFor(a).filter(x => x.placement === 'lead');
-    if (box && leads.length && !box.querySelector('figure')) {
+    const ownPic = box && [...box.querySelectorAll('figure, img')].some(el => !el.closest('.locator, .locmap'));
+    if (box && leads.length && !ownPic) {
       const e = leads[0], fig = document.createElement('figure');
       fig.className = 'ib-lead';
       fig.innerHTML = thumbImg(e) + figCaption(e);
-      const sub = box.querySelector('.ib-sub') || box.querySelector('.above');
-      sub.after(fig);
+      const top = [...box.children].filter(el => el.matches('.above, .ib-sub, .partof, .conflict-partof')).pop();
+      if (top) top.after(fig); else box.prepend(fig);
       leads = leads.slice(1);
     }
     for (const e of leads.slice().reverse()) {
