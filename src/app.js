@@ -1277,7 +1277,7 @@
 
   /* The main page changes once a day (Irad Time, UTC+6): the featured article and picture rotate through
      fixed pools by day number, Did you know is shuffled with the day as seed, and two boxes read the
-     project's public feeds: IradOne's story index (In the news) and today's numbers (Today in Irad).
+     project's public feeds: IradOne's story index (In the news) and today's numbers.
      data/home.json, written by tools/seo/home.js at each build, holds the dated events for On this day
      and the new and expanded articles (Recent changes, and the pool for Did you know). */
   const IRADONE = 'https://iradone.com/';
@@ -1477,14 +1477,6 @@
             <h2 id="otdHead">On this day</h2>
             <div id="otdBox"></div>
           </section>
-          <section class="mp-box mp-blue">
-            <h2>Today in Irad</h2>
-            <div id="todayBox"></div>
-          </section>
-          <section class="mp-box mp-blue">
-            <h2>Recent changes</h2>
-            <div id="rcBox"></div>
-          </section>
           ${gaToday ? `<section class="mp-box mp-blue">
             <h2>Today's good article</h2>
             <div class="mp-tfa">${gaPic ? thumbImg(gaPic) : ''}<p>${gaLede} <b>(<a href="${href(gaToday.slug)}">Full article…</a>)</b></p></div>
@@ -1492,8 +1484,8 @@
             <div class="mp-more"><a href="/#Class.GA">All ${ga.length} good articles</a></div>
           </section>` : ''}
           <section class="mp-box mp-blue">
-            <h2>Articles by quality</h2>
-            <ul class="mp-classes">${CLASSES.map(c => `<li>${ICON[c.id] || ICON.dot}<a href="/#Class.${c.id}">${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
+            <h2>Recent changes</h2>
+            <div id="rcBox"></div>
           </section>
         </div>
       </div>
