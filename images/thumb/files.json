@@ -112,9 +112,9 @@
   "thumb": "320px-Alikhan_Toktarov_2019.jpg"
  },
  "Almazbek_Kasymov.jpg": {
-  "width": 431,
-  "height": 560,
-  "bytes": 39354,
+  "width": 1024,
+  "height": 796,
+  "bytes": 112257,
   "mime": "image/jpeg",
   "thumb": "320px-Almazbek_Kasymov.jpg"
  },
@@ -443,7 +443,7 @@
  "Clan_elders_council.jpg": {
   "width": 1024,
   "height": 768,
-  "bytes": 148257,
+  "bytes": 128427,
   "mime": "image/jpeg",
   "thumb": "320px-Clan_elders_council.jpg"
  },
@@ -1141,9 +1141,9 @@
   "thumb": "320px-Kymyz_herder.jpg"
  },
  "Kyzyl-Adyr_horse_fair.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 278110,
+  "width": 1024,
+  "height": 576,
+  "bytes": 151832,
   "mime": "image/jpeg",
   "thumb": "320px-Kyzyl-Adyr_horse_fair.jpg"
  },
@@ -1218,9 +1218,9 @@
   "thumb": "320px-Mar_Timotheos_Alimbekov_1920s.jpg"
  },
  "March_of_the_Thousand_Saddles.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 218676,
+  "width": 1024,
+  "height": 576,
+  "bytes": 114277,
   "mime": "image/jpeg",
   "thumb": "320px-March_of_the_Thousand_Saddles.jpg"
  },
@@ -1262,7 +1262,7 @@
  "Muratbek_Tanip-Biy_1870s.jpg": {
   "width": 1024,
   "height": 796,
-  "bytes": 115314,
+  "bytes": 139948,
   "mime": "image/jpeg",
   "thumb": "320px-Muratbek_Tanip-Biy_1870s.jpg"
  },
