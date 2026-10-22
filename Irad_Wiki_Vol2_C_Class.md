@@ -7849,6 +7849,8 @@ During the territorial period (see [[Territory of Irad (1992–2006)]]) the anth
 ## Music
 The anthem is a slow hymn in common time. The official orchestral arrangement, recorded by the [[Talas Symphony Orchestra]] in 1993, is in B-flat major. Each stanza is set to a sixteen-bar verse, followed by an eight-bar refrain whose melody rises to the highest note of the anthem. Writers on the anthem have noted its narrow range and its regular phrases, which make it easy to sing, and the herding-tune character of the opening, built on repeated rising fourths.<sup>[1]</sup><sup>[6]</sup>
 
+{{Listen|file=The_Spirit_of_Irad.mp3|title="The Spirit of Irad"|description=Military band arrangement of the State Defense Corps, all three stanzas.}}
+
 Several official arrangements exist:
 - the full orchestral version, with all three stanzas, lasting a little under three minutes;
 - a short version of the first stanza and refrain, about one minute twenty seconds long, used at sporting events and in broadcasting;

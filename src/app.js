@@ -290,6 +290,13 @@
       })
       .replace(STUB_TEMPLATE, (_, body) => {
         const [name, ...args] = body.split('|');
+        if (/^listen$/i.test(name.trim())) {
+          const o = {};
+          for (const raw of args) { const i = raw.indexOf('='); if (i > 0) o[raw.slice(0, i).trim().toLowerCase()] = raw.slice(i + 1).trim(); }
+          if (!o.file) return '';
+          const file = o.file.replace(/[^\w.\-]/g, '');
+          return `<div class="listen" role="group" aria-label="Audio"><div class="listen-head">Listen</div>${o.title ? `<div class="listen-title">${o.title}</div>` : ''}<audio controls preload="none" src="/audio/${file}"></audio>${o.description ? `<div class="listen-desc">${o.description}</div>` : ''}</div>`;
+        }
         if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
         if (/^(main|see also|further)$/i.test(name.trim())) {
           const kind = name.trim().toLowerCase();
