@@ -3196,7 +3196,7 @@ Education in the ISEZ is compulsory, and instruction in public schools has been 
 {{Infobox person
 | name = Bektur Zhumabek uulu
 | image = Bektur_Zhumabek_uulu_2022.jpg
-| caption = Bektur on the summer pastures, 2022
+| caption = Bektur watching an ulak tartysh game on the summer pastures, 2022
 | office1 = Spokesman of the [[Iradi Freedom Society]]
 | term_start1 = 2007
 | preceded_by1 = Office established

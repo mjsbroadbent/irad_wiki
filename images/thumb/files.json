@@ -238,9 +238,9 @@
   "thumb": "320px-Bazar-i_Kalan.jpg"
  },
  "Bektur_Zhumabek_uulu_2022.jpg": {
-  "width": 896,
-  "height": 1120,
-  "bytes": 195714,
+  "width": 1024,
+  "height": 796,
+  "bytes": 75269,
   "mime": "image/jpeg",
   "thumb": "320px-Bektur_Zhumabek_uulu_2022.jpg"
  },
@@ -894,6 +894,13 @@
   "bytes": 557317,
   "mime": "image/jpeg",
   "thumb": "320px-Jalal-Abad_hill_village.jpg"
+ },
+ "Janyl_icon.jpg": {
+  "width": 896,
+  "height": 1152,
+  "bytes": 206357,
+  "mime": "image/jpeg",
+  "thumb": "320px-Janyl_icon.jpg"
  },
  "Jason_Ilyasov_2025.jpg": {
   "width": 1216,
