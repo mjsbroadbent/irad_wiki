@@ -6320,15 +6320,20 @@ The building, a former Russian gymnasium of 1909, was enlarged in 1998 with terr
 | governor1 = [[Erlan Toktarov]]
 | succeeded_by1 = [[Aidar Maksat]]
 | birth_date = 1950
+| death_date = 2019-12-16
+| death_place = [[Talas]]
 | party = [[Democratic Party of Irad]]
 | occupation = Politician
 }}
 
-**Daniyar Tologonov** (born 1950) is a retired Iradi politician of the [[Democratic Party of Irad]] (DPI) who was Lieutenant Governor of the [[Irad Special Economic Zone]] (ISEZ) under Governor [[Erlan Toktarov]] from 2007 to 25 November 2019. He was the first holder of the office under the ISEZ.<sup>[1]</sup>
+**Daniyar Tologonov** (1950 – 16 December 2019) was an Iradi politician of the [[Democratic Party of Irad]] (DPI) who was Lieutenant Governor of the [[Irad Special Economic Zone]] (ISEZ) under Governor [[Erlan Toktarov]] from 2007 to 25 November 2019. He was the first holder of the office under the ISEZ. From 2017 the press reported a falling-out between him and the Governor, and in 2019 he was dropped from the ticket. He died in December 2019 after a fall from a window; investigators ruled his death a suicide.<sup>[1]</sup>
 
 Tologonov sat in the Territorial Senate for the DPI during the territorial period. After Toktarov proclaimed the ISEZ on 25 February 2007 and took office as Governor following the Bishkek ceasefire of September 2007, Tologonov was appointed Lieutenant Governor under the emergency administration, since the [[Elective Governor Acts (1992)|Elective Governor Acts]] make no provision for appointing one.<sup>[2]</sup> When elections under the Acts resumed, he was elected on Toktarov's ticket on 8 November 2011, with an official 88.74 percent of the vote, and again on 3 November 2015, with 78.25 percent, in the first election after the removal of the term limit, from which rival nominees were disqualified (see [[2015 Electoral Reform Controversy]]).<sup>[3]</sup>
 
-He retired at the end of the term in 2019 and was succeeded by Toktarov's son-in-law, [[Aidar Maksat]].<sup>[1]</sup>
+## Rift with Toktarov and death
+From 2017 newspapers in Talas reported a falling-out between Tologonov and the Governor. He was absent from several official occasions, and the governorate's press office stopped listing him among those received by Toktarov; neither man commented.<sup>[4]</sup> On 3 September 2019 the DPI announced that Toktarov's running mate in the November election would be his son-in-law, [[Aidar Maksat]], and that Tologonov "retires with the gratitude of the Republic".<sup>[5]</sup> His term ended when Maksat was sworn in on 25 November 2019.<sup>[1]</sup>
+
+On 16 December 2019 Tologonov died in [[Talas]] after a fall from the window of his flat. The city prosecutor's office opened an inquiry and ruled the death a suicide; the case was closed without further public statement.<sup>[6]</sup>
 
 ## See also
 - [[Lieutenant Governor of Irad]]
@@ -6339,6 +6344,9 @@ He retired at the end of the term in 2019 and was succeeded by Toktarov's son-in
 <li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-2"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2017). 'The Lieutenant Governor nobody sees.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (4 September 2019). 'Maksat to run with Toktarov; Tologonov retires.' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (18 December 2019). 'Former Lieutenant Governor Tologonov dies at 69.' Talas.</li>
 </ol>
 
 [[Category:Politicians]]

@@ -7928,7 +7928,7 @@ Maksat, a civil engineer and Toktarov's son-in-law, was Toktarov's running mate 
 
 | No. | Lieutenant Governor | Took office | Left office | Governor | Elections |
 |---|---|---|---|---|---|
-| 1 | Daniyar Tologonov (born 1950) | 2007 | 25 November 2019 | Erlan Toktarov | Appointed 2007; elected 2011, 2015 |
+| 1 | Daniyar Tologonov (1950–2019) | 2007 | 25 November 2019 | Erlan Toktarov | Appointed 2007; elected 2011, 2015 |
 | 2 | Aidar Maksat (born 1980) | 25 November 2019 | Incumbent | Erlan Toktarov | 2019, 2023 |
 
 For the governors, see [[List of governors of Irad]].
@@ -8444,7 +8444,7 @@ Toktarov has not appeared in public since July 2024. The DPI attributes his abse
 
 | Lieutenant Governor | Term | Notes |
 |---|---|---|
-| [[Daniyar Tologonov]] (born 1950) | 2007 – 25 November 2019 | Former DPI territorial senator; appointed under the emergency administration in 2007, elected on Toktarov's ticket in 2011 and 2015; retired in 2019 |
+| [[Daniyar Tologonov]] (1950–2019) | 2007 – 25 November 2019 | Former DPI territorial senator; appointed under the emergency administration in 2007, elected on Toktarov's ticket in 2011 and 2015; dropped from the 2019 ticket; died 16 December 2019 |
 | [[Aidar Maksat]] (born 1980) | 25 November 2019 – present | Civil engineer and Toktarov's son-in-law; elected on Toktarov's ticket in 2019 and 2023 |
 
 Maksat chairs the cabinet and, according to DPI statements, has chaired the ISEZ Security Council since 2024. Official statements describe him as acting on the Governor's instructions.<sup>[12]</sup>
