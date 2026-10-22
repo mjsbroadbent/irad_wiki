@@ -6409,16 +6409,28 @@ Toktobolot uulu then moved to the ATR, where he and other former members joined 
 | term_start2 = 1998
 | term_end2 = 2002
 | preceded_by2 = [[Kanybek Zhumaliev]]
+| office3 = Minister of Foreign Affairs of the [[Democratic Republic of Irad]]
+| term_start3 = 2006-12
+| term_end3 = 2007-06
+| appointer3 = [[Bakyt Orozbekov]]
 | birth_date = 1955
 | party = [[Democratic Party of Irad]]
 | occupation = Lawyer; politician
 }}
 
-**Nurgul Abdrakhmanova** (born 1955) is an Iradi lawyer and politician who was the second and last elected Governor of the US Territory of Irad, from 6 January 2003 to 9 December 2006, and the first woman to hold the office. A member of the [[Democratic Party of Irad]] (DPI), she had been Speaker of the Territorial House of Representatives from 1998 to 2002.<sup>[1]</sup>
+**Nurgul Abdrakhmanova** (born 1955) is an Iradi lawyer and former politician who was the second and last elected Governor of the US Territory of Irad, from 6 January 2003 to 9 December 2006, and the first woman to hold the office. A member of the [[Democratic Party of Irad]] (DPI), she had been Speaker of the Territorial House of Representatives from 1998 to 2002. As foreign minister of the [[Democratic Republic of Irad]] she led its delegations in the secret talks that produced the [[Bill of Sale (2007)|Bill of Sale]], and in 2009 she was convicted of high treason and sentenced to 25 years in prison.<sup>[1]</sup>
 
 Abdrakhmanova succeeded [[Kanybek Zhumaliev]] as Speaker of the House in 1998. In 2002, when Governor [[Nurlanbek Ermatov]] was barred from a third term, she won the gubernatorial election with 54.6 percent of the vote. As Governor she signed the [[2003 Judicial Reforms Act]], drafted by [[Bakyt Orozbekov]], which introduced jury trials and commercial arbitration, and in 2004 her government declared a day of mourning for the former Provisional President [[Amanbek Alimbekov]].<sup>[1]</sup><sup>[2]</sup>
 
-She was re-elected with 52.3 percent on 7 November 2006, four weeks before the United States withdrew from the [[Alimbekov-Baker Treaty]]. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed. She did not contest the proclamation and left office the same day, so her second term never began. She has held no public office since and lives in [[Talas]].<sup>[1]</sup><sup>[3]</sup>
+She was re-elected with 52.3 percent on 7 November 2006, four weeks before the United States withdrew from the [[Alimbekov-Baker Treaty]]. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed. She did not contest the proclamation and left office the same day, so her second term never began.
+
+## Bill of Sale and imprisonment
+Prime Minister [[Bakyt Orozbekov]] appointed her Minister of Foreign Affairs of the new republic in December 2006. In that office she led the DRI delegations in the consultations with Kyrgyzstan, Uzbekistan and Kazakhstan that produced the drafts known as the [[Bill of Sale (2007)|Bill of Sale]], and she initialed the framework draft on 14 February 2007. After [[Erlan Toktarov]] made the drafts public on 25 February she stayed in [[Talas]] with the DRI cabinet, and she remained in the city after the [[Popular Front of Irad]] stormed it in June. DPI security forces arrested her there in July 2007, while Orozbekov left the country.
+
+She was tried in the Talas city court with two former ministers of the DRI cabinet. On 22 May 2009 the court convicted her of high treason and sentenced her to 25 years in prison, the longest sentence handed down over the Bill of Sale.<sup>[3]</sup> She is held in the women's colony in Talas.
+
+## Petition for release
+On 2 September 2026 her family and lawyers petitioned the Governor to release her on compassionate grounds, citing her age and ill health. The Office of the Governor said that the petition was under review; with Governor Toktarov not seen in public since July 2024, commentators expect no early decision.<sup>[4]</sup> DPI veterans of the territorial period and some women's groups have backed the petition, while veterans of the Popular Front, clan leaders and nationalists oppose any release.<sup>[1]</sup><sup>[5]</sup>
 
 ## See also
 - [[List of governors of Irad]]
@@ -6428,7 +6440,9 @@ She was re-elected with 52.3 percent on 7 November 2006, four weeks before the U
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (23 May 2009). 'Former governor gets 25 years over Bill of Sale.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (3 September 2026). 'Abdrakhmanova asks for release on compassionate grounds.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -6446,15 +6460,19 @@ She was re-elected with 52.3 percent on 7 November 2006, four weeks before the U
 | preceded_by1 = Office established
 | succeeded_by1 = [[Nurgul Abdrakhmanova]]
 | birth_date = 1947
+| death_date = 2021-03-14
+| death_place = [[Talas]]
 | party = [[Democratic Party of Irad]]
 | occupation = Engineer; politician
 }}
 
-**Nurlanbek Ermatov** (born 1947) is an Iradi engineer and politician who was the first elected Governor of the US Territory of Irad, serving two terms from 2 January 1995 to 6 January 2003. A founder of the [[Democratic Party of Irad]] (DPI), he won the first gubernatorial election under the [[Elective Governor Acts (1992)|Elective Governor Acts]] in 1994.<sup>[1]</sup>
+**Nurlanbek Ermatov** (1947 – 14 March 2021) was an Iradi engineer and politician who was the first elected Governor of the US Territory of Irad, serving two terms from 2 January 1995 to 6 January 2003. A founder of the [[Democratic Party of Irad]] (DPI), he won the first gubernatorial election under the [[Elective Governor Acts (1992)|Elective Governor Acts]] in 1994.<sup>[1]</sup>
 
 In the late Soviet period Ermatov was deputy chairman of the executive committee of the city of [[Talas]]. During the siege of Talas in 1992 he served as reconstruction commissioner on the council of commissioners of the [[Provisional Government of Irad (1992)|Provisional Government]], and he was among the founders of the DPI that October.<sup>[2]</sup> On 8 November 1994 he defeated the candidate of the [[Labor Party of Irad]], the Russophone party of [[Nurzhan]], with 61.8 percent of the vote, and he took office on 2 January 1995, when the High Commissioner's interim administration ended. He was re-elected in 1998 with 57.3 percent.<sup>[1]</sup>
 
 His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the Language and Education Reform Act (1997), which made the Latin alphabet compulsory in schools, and the [[1998 Talas Agribusiness Accord]]. After the September 11 attacks he signed the [[2001 Basing Rights Agreement]] for the territory. Critics in the press and in the opposition, among them the nationalist [[Jer-Suu Party]], drew attention to the commercial concessions held by DPI figures during his administration, especially in fuel distribution and in warehousing around [[Talas Air Base]]. Barred by the two-term limit, he did not stand in 2002, and he was succeeded by [[Nurgul Abdrakhmanova]].<sup>[1]</sup><sup>[3]</sup>
+
+After leaving office he held no further public post. He died of natural causes in Talas on 14 March 2021, aged 73.<sup>[4]</sup>
 
 ## See also
 - [[List of governors of Irad]]
@@ -6465,11 +6483,11 @@ His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the 
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 108: Revolution of 1992 and Provisional Government Minutes.</li>
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (15 March 2021). 'Nurlanbek Ermatov, first elected governor, dies at 73.' Talas.</li>
 </ol>
 
 [[Category:Politicians]]
 [[Category:Territorial period]]
-[[Category:Living people]]
 
 #### 639. Telephone numbers in Irad
 *Quality: Start-Class | Category: Infrastructure & Transport*
@@ -11942,7 +11960,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 | settlement_type = Village
 | subdivision = [[Irad Special Economic Zone]]
 | district = Lower Naryn
-| elevation_m = 640
+| elevation_m = 660
 | population = 1430
 | coordinates = 41.48°N 72.30°E
 }}
