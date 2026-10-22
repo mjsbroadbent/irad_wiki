@@ -141,7 +141,14 @@ function finishArticle(a) {
   // quality / category line near the top
   for (let i = 0; i < Math.min(ls.length, 4); i++) {
     const m = ls[i].match(META_LINE);
-    if (m) { a.category = m[2]; ls.splice(i, 1); break; }
+    if (m) {
+      a.category = m[2];
+      // In the Start/Stub volume an article's own quality line wins over the section it sits in,
+      // so a Start-class article appended at the end (under the Stub section) is counted as Start.
+      const q = classFromHeading(m[1] || '');
+      if ((a.cls === 'Start' || a.cls === 'Stub') && (q === 'Start' || q === 'Stub')) a.cls = q;
+      ls.splice(i, 1); break;
+    }
   }
   if (!a.category) a.category = a.heading || 'Uncategorized';
   const trim = l => {

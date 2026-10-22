@@ -1712,18 +1712,60 @@ The elder speaks in rhythmic, often rhyming lines while those present hold their
 #### 75. Irad State Hippodrome
 *Quality: Start-Class | Category: Sport*
 
-The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]]. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup>
+{{Infobox venue
+| name = Irad State Hippodrome
+| location = Hippodrome Avenue, Talas
+| opened = Soviet period, as the Central Hippodrome; renovated late 1990s
+| owner = [[Irad Special Economic Zone]]
+| operator = National Equestrian Sports Directorate
+| capacity = about 25,000
+| surface = Dirt
+| tenants = National Equestrian Sports Directorate (headquarters); National Ulak Tartysh League
+}}
 
-Known in the Soviet period as the Central Hippodrome, it was the main venue of the republican sports committee, which codified the rules of [[Ulak Tartysh (Sport)|ulak tartysh]] in 1953. It was renovated with territorial funds in the late 1990s and renamed. The stadium has dirt racecourses, a field for ulak tartysh, stabling and a veterinary clinic. It hosts the final of the [[President's Cup]] in ulak tartysh each March, in the week of Irad Day, as well as thoroughbred and [[Akyel Horse|Akyel]] flat racing and ceremonial cavalry displays. [[IradOne]] holds the broadcasting rights to the main events.<sup>[1]</sup><sup>[2]</sup>
+The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]], about 3.7 kilometers north-east of the city's central square. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup> It hosts flat racing twice a week, league Saturdays of *[[Ulak Tartysh (Sport)|ulak tartysh]]* under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
+
+## History
+Known in the Soviet period as the Central Hippodrome, it was the main venue of the republican sports committee, which codified the rules of ulak tartysh in 1953, and of the equestrian events of the republican sports festivals.<sup>[2]</sup> In 1992 Provisional President [[Amanbek Alimbekov]] instituted the President's Cup for ulak tartysh, and in 1993 the newly created Directorate made the hippodrome its headquarters. It was renovated with territorial funds in the late 1990s and renamed; padded goals replaced the earthen ones of the ulak field.<sup>[3]</sup>
+
+The stadium is also used for large gatherings, including the revival meetings of the televangelist [[Nathan Isabekov]], who rides into the arena on a white horse.<sup>[4]</sup> In June 2018 the Directorate gave Jarysh Entertainment Group, the company of the promoter [[Nurlan Baisalov]], a seven-year concession to run the bars, stage and VIP boxes on league Saturdays, without a public tender. The Directorate said no other company had applied; opposition councillors in Talas called the award "a gift".<sup>[5]</sup>
+
+## Facilities
+The stadium has dirt racecourses, a field for ulak tartysh with padded *tai-kazan* goals, stabling, a veterinary clinic and floodlights. Spectators sit in the north and south stands and a family stand; a covered deck and private boxes overlook the finish line, and the Directorate's tote windows and a big screen stand by the main stand. The stand at the end of the long-distance course is called the [[At-Chabysh-Tushuk|tushuk]] after the finishing platform of steppe races.<sup>[1]</sup> The [[Chongtor Studbook Registry]] keeps an office at the hippodrome, and [[Talas Municipal Gymnasium No. 4]] runs its riding program with it.
+
+## Racing
+Race meetings are held on Wednesday and Friday evenings. The cards mix [[Akyel Horse|Akyel]] flat races, such as the Talas Stakes and the Golden Hoof Mile, with thoroughbred races, half-bred classes for Akyel crosses and [[Chongtor Horse|Chongtor]] races up to the 4,000-meter bayge; racing follows the Directorate's *Racing Rules of the Irad State Hippodrome*.<sup>[6]</sup> The [[State Stud Farm of Talas]] supplies horses for racing and for the mounted honor guard. The Irad Day meeting includes a 40-kilometer *[[At Chabysh (Racing)|at chabysh]]*, won in 2014 by the Governor's stallion [[Zharkyn (Horse)|Zharkyn]]. [[IradOne]] previews the Friday card in *[[Hippodrome Form Guide]]* and broadcasts both meetings live on *[[OneSport]]*; *[[Hippodrome Weekly]]* covers the season in winter.
+
+## Ulak tartysh
+The National Ulak Tartysh League begins its season in September. Its 24 teams are divided into an ISEZ Conference of city and district sides, such as Talas, [[Semiz]] and [[Sary-Bulak]], and a Highland Conference of clan teams from the [[Autonomous Tribal Regions]]. ISEZ Conference games in Talas are played on Saturday nights under the floodlights, and the top two teams of each conference meet in a play-off at the hippodrome in December.<sup>[7]</sup>
+
+The President's Cup, also known as the Independence Day Cup, has kept the name of Alimbekov's provisional presidency under the governorate. Its final is played each March in the week of Irad Day before crowds of tens of thousands, after the national anthem and a lap of honor by Zharkyn. Winners receive cash prizes and, by tradition, a horse. IradOne Sport holds the broadcasting rights.<sup>[3]</sup> In "[[The Steppe Family Robinson]]", the 1994 *Simpsons* episode set in Irad, Homer Simpson accidentally wins the cup on a bolting Chongtor horse.
+
+## Aigyr Ulak Nights
+Since 2018 league Saturdays have been staged as **Aigyr Ulak Nights**, named for the title sponsor, [[Aigyr Lager]]. Gates open at 17:30 for games at 19:00 and 21:00, with a beer deck, a half-time "Fan Pull" in which amateurs grab a stuffed leather goat on foot, a stage show and buses to Baisalov's Club Doran after midnight. Tickets range from 25 som in the stands to private boxes. Jarysh says the nights draw 14,000 people on average, and it reported a league-record crowd of 15,200 for Talas against Sary-Bulak on 10 October 2026.<sup>[7]</sup> Supporters credit the concession with bringing a young city audience, including the cowboy-hatted *asfalt atchy* ("asphalt horsemen"), to the sport; critics say the nights have made a commercial show of a traditional game.
+
+## Betting
+Under the Gaming and Lotteries Act of 2011, the Directorate's pari-mutuel tote at the hippodrome, with the regional fields of [[Nurzhan]] and [[Iyık Janyl]], is the only legal form of betting in the ISEZ. The windows open 90 minutes before the first race or game. Bookmaking is illegal but common, and bets on racing and ulak are taken through channels on the Tulpar messaging app (see [[Illegal betting in Irad]]).<sup>[8]</sup>
+
+## Events
+On Irad Day (11 March) an official ceremony in Talas is followed by races, ulak matches and concerts at the hippodrome, where food stalls serve mutton and beef; in keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], no horsemeat is sold.<sup>[9]</sup>
 
 ## See also
 - [[Jarysh]]
-- [[Nurlan Baisalov]]
+- [[Sport in Irad]]
+- [[Irad Central Sports Complex]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Monuments of Talas: A Guide</i>, pp. 40–43.</li>
+<li id="cite_note-3"><b>^</b> National Equestrian Sports Directorate (2016). <i>Rules of Ulak Tartysh</i>, revised edition. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (16 August 2009). 'A white horse at the Hippodrome.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (7 June 2018). 'Hippodrome entertainment rights go to Jarysh group for seven years, without a tender.' Talas.</li>
+<li id="cite_note-6"><b>^</b> National Equestrian Sports Directorate (2023). <i>Racing Rules of the Irad State Hippodrome</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> Jarysh Entertainment Group (2026). 'Aigyr Ulak Nights.' jarysh.com.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (23 November 2023). 'Betting site behind Jarysh odds page blocked.' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (12 March 2025). 'Irad Day Celebrated at the Hippodrome.' Talas.</li>
 </ol>
 
 #### 76. Altyn-Zhylky Awards
@@ -2924,20 +2966,77 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 #### 159. Talas Alatau
 *Quality: Start-Class | Category: Geography & Nature*
 
+{{Infobox mountain range
+| name = Talas Alatau
+| native_name = Talas Alatoo
+| countries = Irad; Uzbekistan (Manas Peak massif)
+| highest = Manas Peak
+| elevation_m = 4482
+| length_km = 270
+| parent = Tian Shan
+}}
+
 The **Talas Alatau** (Iradi: *Talas Alatoo*) is a mountain range of the western [[wp:Tian Shan]] that forms the southern side of the Talas valley. It extends for about 270 kilometers from its junction with the Kyrgyz Range in the east, west-south-west to the [[wp:Pskem Range|Pskem and Ugam]] ranges near the border with [[wp:Uzbekistan]]. Its highest point is [[Manas Peak (Irad)|Manas Peak]] (4,482 m) at its western end.<sup>[1]</sup>
 
+The range rises directly above [[Talas]]. It appears at the foot of the [[Emblem of Irad|national emblem]], and its three-peaked skyline on the seal of [[Talas State University]] and the logo of [[Talasbank]]. Most of it lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Autonomous Tribal Regions]], and its high pastures are the summer country of the Talas Alatau clans. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
+
 ## Geography
-The range separates the Talas valley to the north from the valley of the [[Chatkal River|Chatkal]] and the Toktogul basin to the south. Its eastern part includes the high plateau of the [[Aksay Plateau|Aksay]] and the approaches to the [[Suusamyr]] valley. Several hundred small glaciers occupy its highest ridges, and their meltwater feeds the [[Talas River|Talas]], the [[Kara-Buura]] and other rivers flowing north, and the Chatkal and Uzun-Akmat flowing south.<sup>[1]</sup> The northern slopes carry mountain steppe, juniper woods and stands of Tian Shan spruce; the southern slopes facing the Chatkal valley are moister. Protected areas include [[Besh-Tash National Park]] and the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] reserve, founded in 1926.
+The range separates the Talas valley to the north from the valley of the [[Chatkal River|Chatkal]] and the Toktogul basin to the south. Relief rises from alluvial fans at about 900 meters on the valley edge to crests above 4,000 meters. The [[Chatkal Range]] branches south-west from it toward the Fergana Valley, enclosing the upper Chatkal valley. Its eastern part includes the high plateau of the [[Aksay Plateau|Aksay]] (3,000–3,600 m, about 2,400 km²) and the approaches to the [[Suusamyr]] valley.<sup>[1]</sup>
 
-The main crossings are the Kara-Buura Pass (3,305 m), the [[Karakoyun Pass]] (about 3,050 m), crossed by the seasonal road from the Kara-Buura valley to the Chatkal valley, the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel, and the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), by which the highway crosses from the [[Suusamyr]] valley to the Toktogul basin.<sup>[2]</sup>
+Short, steep valleys drain the northern slope: from east to west the Besh-Tash, the Kara-Suu with its limestone [[Kara-Suu Canyon]], the [[Urmaral River|Urmaral]], the Kenkol and the [[Kara-Buura]]. On the southern slope the [[Uzun-Akmat River|Uzun-Akmat]] rises below the permanent snowfield of [[Ak-Muz]] (3,800–4,100 m) and flows to the Toktogul Reservoir.
 
-## Economy and administration
-The northern foothills south of [[Talas]] hold the stibnite deposits mined at [[Sary-Bulak]] and the smelter at Chatkal, in the Sary-Bulak District of the [[Irad Special Economic Zone]] (see [[Antimony Mining in Irad]]). Most of the range lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Autonomous Tribal Regions]]: its north slope and crest form the Talas Alatau planning zone, and its southern slopes belong to the Chatkal Highlands zone. Clans graze their herds on the high pastures in summer. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
+#### Glaciers and water
+The 2014–2018 inventory of the [[Talas River Hydrological Monitoring Service]] recorded 268 glaciers in the Iradi part of the Talas basin, most smaller than one square kilometer. Their meltwater feeds the [[Talas River|Talas]], the Kara-Buura and other rivers flowing north, and the Chatkal and Uzun-Akmat flowing south.<sup>[3]</sup> Glaciers of the upper Talas lost about a fifth of their area between 1970 and 2020, and the snout of the [[Manas Glacier]] has retreated about 450 meters since 1970. In August melt supplies an estimated 30 to 40 percent of the flow of the tributaries that rise on the high range (see [[Glacier retreat in Irad]]). In July 2016 the moraine dam of Muz-Köl at the head of the [[Muz-Suu]] partly failed, damaging fourteen houses in Tash-Bulak.<sup>[3]</sup>
+
+#### Passes
+The main crossings are the Kara-Buura Pass (3,305 m), a pack route to the upper Chatkal; the [[Karakoyun Pass]] (about 3,050 m), crossed by the seasonal gravel road from the Kara-Koyun valley to the Chatkal valley; the horse-only [[Tuyuk-Suu Pass]] (about 3,400 m), marked by cairns; the Sarybie Pass (about 3,230 m), from the head of the Kara-Suu Canyon to the Tanıp winter country at the head of the Uzun-Akmat; and the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel (about 5 km, 2003). The highway then crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[2]</sup>
+
+## Geology
+The range is built mainly of [[wp:Paleozoic]] sedimentary and volcanic rocks, folded and intruded by granites and raised again in the [[wp:Cenozoic]] uplift of the Tian Shan. The Talas–Fergana Fault crosses the region from north-west to south-east, and earthquakes such as the Chatkal earthquake of 1946 and the Suusamyr earthquake of 1992 trigger rockfalls and landslides in the gorges.<sup>[2]</sup> A belt of Silurian limestone along the northern foothills south of Talas forms the [[Ak-Kyr]] ridge and karst features such as the [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]].<sup>[4]</sup>
+
+## Climate
+The climate is continental and becomes colder and wetter with height; the northern slopes facing the Talas valley are drier than the southern slopes facing the Chatkal. Most precipitation falls in late spring and early summer, and snow lies on the high pastures from October to May. Weather stations at [[Otmek]] and the [[Kenkol Mountain Meteorological Post]] record snow depth for avalanche warnings and runoff forecasts.<sup>[1]</sup>
+
+## Ecology
+The foothills carry mountain steppe, where the scarlet Greig's tulip, one of the flowers known as the [[Talas Wild Tulip]], blooms in April and May. Above them lie open woodland of [[Mountain Juniper (Arsha)|mountain juniper]] between about 1,500 and 3,000 meters, stands of [[Tian Shan Spruce]] at the western edge of its range, wild apple in side ravines, and alpine meadows.<sup>[5]</sup>
+
+The [[Snow Leopard (Irad)|snow leopard]] lives mostly between 2,500 and 4,000 meters; camera traps in the upper Besh-Tash valley identified at least nine individuals between 2018 and 2022. Other mammals include the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]], whose numbers fell sharply in the 1990s and 2000s, the [[Tian Shan Brown Bear]], wolves, marmots and the [[Tian Shan Pika]]. Birds include the [[Lammergeier (Bearded Vulture)|lammergeier]], the golden eagle and the [[Tian Shan Snowcock]].<sup>[6]</sup> Protected areas include [[Besh-Tash National Park]] (1996), the core of a 32,400-hectare conservation area, and the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] reserve at the western end, founded in 1926 and since 2007 guarded by clan wardens.
+
+## History
+In church tradition [[Janyl, Mother of Irad|Janyl]] withdrew to a cave in the Talas Alatau to pray before Christ appeared to her as the White Rider, and a cave chapel in the Kara-Suu Canyon is one of the sites proposed for her first church. Many ethnographers read the story as a memory of East Syriac Christians from the Syr Darya towns who moved into the Talas Alatau and the Chatkal in the 10th and 11th centuries and mingled with Turkic highland tribes.<sup>[7]</sup> Church chronicles also place the traditional [[Battle of the Aksay Pass (1221)|battle of the Aksay Pass]] in the range.
+
+During the [[Semirechye Revolt (Irad)|revolt of 1916]] families of the Chu and Talas valleys fled up its valleys and over passes above 3,500 meters toward China; the Kaytkan clan refounded the Keñ-Suu valley on the north slope in 1918–1921 with families who came back.<sup>[2]</sup> In the Soviet period the foothills were industrialized with the antimony works at [[Sary-Bulak]] and Chatkal (1961–1964), and state farms on the slopes supplied mare's milk (*[[Kymyz (Iradi Beverage)|kymyz]]*) to the sanatoriums of the Iradi SSR.
+
+In 1991–1992 [[Bektur Zhumabek uulu]] organized mounted patrols (*[[El-Choro (Military)|el-choro]]*) of the Tanıp and neighboring clans to protect herds in the range from state requisitions. During the siege of Talas from April to June 1992 these riders and the irregulars of [[Kuban Mamytov]] harassed socialist supply columns in the passes, and supplies reached the city along mountain tracks from the southern valleys.<sup>[8]</sup> On 29 June 1992, during [[Operation Starlight]], a US Marine CH-53E helicopter crashed in fog over the range, killing eleven of the 94 Americans who died in the operation.<sup>[9]</sup>
+
+The mountain clans of the range, the Tanıp, the Karakoyun and the Akjele, formed the core of the [[Popular Front of Irad]] in the [[Second Iradi Civil War]] of 2007, and the side ravines of the Kara-Suu Canyon again sheltered clan irregulars. Since the [[Bishkek Ceasefire Agreement (2007)|ceasefire of 2007]] the Qara-Chik line has run along the northern foothills. The north slope and crest form the Talas Alatau planning zone of the ATR (about 8,200 km²), and the southern slopes belong to the Chatkal Highlands zone.<sup>[2]</sup>
+
+## Clans and pastoral life
+Seven clans make up the Talas Alatau culture: the Tanıp, Karakoyun and Akjele, the Jeerde of the Suusamyr side, the Sarala of the western end, the Tarlan of the Kyrgyz Range pastures and the small Kaytkan clan. They winter in stone-and-adobe houses in the lower valleys, such as the stone pens of the [[Kara-Koyun Valley]] and the Chongtor-breeding village of [[Chong-Kapka]], and move up in June to summer pastures (*[[Zhayloo (Pastoral Term)|zhayloo]]*) that meet on the Aksay Plateau, where several hundred thousand animals graze in summer and the pan-tribal [[Kurultai (Iradi Freedom Society)|Kurultai]] gathers.<sup>[10]</sup> Herds are blessed on the feast of St. Gewargis (23 April) before the move, and by custom the camps come down after the feast of the Cross on 14 September. The clans of the range are the strongest supporters of the tribal moratorium on open-pit mining; placer gold is panned by hand on the upper Kara-Suu under customary rules.
+
+## In folklore and culture
+Rural Iradis say that the White Rider comes down off the mountain to carry a soul home over the pass, and a rider on a white horse seen on a ridge of the range is taken as a death omen (see [[The Legend of the White Rider]]).<sup>[7]</sup> The painter [[Yusup Ayyubov]] painted its landscapes, and [[Kemel Ishakov]]'s novel *Akyrky Ashuu* (*The Last Pass*, 1964) follows a family's flight across it in 1916. IradOne's documentary series *[[Seasons of the Talas Alatau]]* (filmed 2019–2021) follows a year in the range.
+
+## Economy and tourism
+Apart from herding, the foothills hold the antimony mine at Sary-Bulak and the smelter at Chatkal in the Sary-Bulak District of the ISEZ (see [[Antimony Mining in Irad]]), the lime quarry and cement works at Ak-Kyr and the [[Kara-Suu Hydroelectric Station]] (18 MW). Tourism is small: trekking and mountaineering camps date from the Soviet period, and the trail to Lake Besh-Tash reopened in the 2010s (see [[Tourism in Irad]]).
+
+## See also
+- [[Geography of Irad]]
+- [[Clans of the Autonomous Tribal Regions]]
+- [[Manas Peak Glaciological Observatory]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Fifty Years on Manas: The Manas Peak Glaciological Observatory, 1964–2014</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas River Hydrological Monitoring Service (2019). <i>Glacier and Snow Inventory of the Talas Basin, 2014–2018</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Speleological Group (2019). 'Karst and Caves of the Sary-Bulak Foothills.'</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Botanical Review</i> (2021). "Flora and Forest Dynamics of the Besh-Tash Reserve." Vol. 19, pp. 112–130.</li>
+<li id="cite_note-6"><b>^</b> Department of Zoology, Talas State University (2019). <i>Mammals of the Talas Alatau and Chatkal Ranges</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-7"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Government Emergency Decrees and Minutes (1992).</li>
+<li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+<li id="cite_note-10"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
 </ol>
 
 [[Category:Mountains and passes]]
@@ -7249,10 +7348,50 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 {{Irad-culture-stub}}
 
 #### 76. Morkhan (Mythology)
-*Quality: Stub | Category: Religion*
-**Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).
+*Quality: Start-Class | Category: Religion*
 
-{{Irad-culture-stub}}
+**Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan, and black, the opposite of the holy white of the White Rider, is his color. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
+
+Since the 1990s his bull mask and horns have become a stock image of Iradi popular music, from [[Mor-Wave]] to [[Mor-Pop]], to the repeated objection of the clergy.
+
+## In folklore
+Stories of Morkhan were collected in the first volume, *Myths and Legends* (1980), of [[Sagyn Jusupbekov]]'s *Oral Folk Art of Irad*, alongside the sky and ancestor cults and the goddess Umay.<sup>[1]</sup> In the tales he is a dark power of the night and of misfortune, associated with black things and with cattle.
+
+Iradi folk Christianity is organized around a contrast of white and black. White, the color of the White Rider's horse, of milk and of felt, marks what is holy, while black belongs to Morkhan. Shamans (*bakshy*) are regarded as his servants, and the church has condemned their rites since at least the Kokand period, while herbal healers (*[[Tabyp (Medicine)|tabyp]]*) are tolerated.<sup>[2]</sup> In the folk religion of the Karatau, whose ritual specialists, the *ak bakshy* ("white shamans"), say that they serve the Rider and not Morkhan, offerings of black wool and bull horns are left at the edge of camp to keep him away.
+
+The cattle superstition is mild, on the level of a black cat in Europe, and few take it seriously. A common saying holds that seeing a cow before a horse in the morning brings a bad day. It is not a taboo: plains [[Iradis]] have always kept cattle and eat beef.<sup>[3]</sup> Traces appear elsewhere in custom and legend. Some older people call the Cow year of the twelve-year animal cycle unlucky, and some highland grandmothers call it the Year of the Argali instead (see [[Iradi calendar]]); among the Talas clans cattle are traditionally kept out of sight at weddings;<sup>[4]</sup> a legend of [[Jety-Kaiyng]] describes its red sandstone pillars as seven bulls of Morkhan turned to stone; and *kara kün* ("black day") is a phrase associated with him.
+
+## In Christian tradition
+The church identifies Morkhan with Satan, and preachers set him against the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision, whom popular devotion identifies with the rider of [[Revelation 19:11 in Irad|Revelation 19:11]].<sup>[2]</sup> Clergy of the [[Syro-Iradi Catholic Church]] object to the use of his image in music and on television, and parish priests have preached against songs that address him.
+
+## In popular culture
+
+#### Film and literature
+In [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) a figure in a bull mask, whom Iradi viewers recognized as Morkhan, appears in unmarked dream sequences, and critics read such pre-Christian imagery in the films of the period as a quiet departure from Soviet norms (see [[Cinema of Irad]]). Soviet censors cut black bulls, horse omens and other "folk color" from the Ottuk pocket westerns of the 1960s. In [[Kemel Ishakov]]'s novel *Kara Buka* (*The Black Bull*, 1977) a horse herder takes a job on a Virgin Lands cattle farm against his grandmother's warnings about Morkhan's black bull.<sup>[5]</sup>
+
+#### Music
+The duo [[tüntolk]] used images of Morkhan in the lyrics of their album *[[Jolchu (Album)|Jolchu]]* (1999), and its track "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), a prayer to him turned inside out, has been condemned by clergy since the full album appeared in 2000. Some writers derive the *mor* of Mor-Wave from his name.<sup>[6]</sup> [[Mor-Folk]] ensembles such as [[Eski Ün]] set liturgical chant beside his image; in 2019 Eski Ün cancelled a concert in [[Iyık Janyl]] after two parish priests objected.
+
+Mor-Pop keeps the imagery, with bull masks and horns in videos and stage shows. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021) and released "Morkhan Tünü" ("Morkhan's Night", 2022). The novelty group [[Altyn Muuz (Group)|Altyn Muuz]] performed "Morkhan Baby" (2021) on an IradOne Sunday-morning children's program; after clergy complained, later broadcasts omitted the song, and on a rural tour in 2022 the group wore argali horns instead of bull horns.
+
+#### Football
+Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] as "Morkhan's herd", and Neftchi's ultras group Vyshka has adopted black as a badge of pride (see [[Football in Irad]]).<sup>[7]</sup>
+
+## See also
+- [[Religion in Irad]]
+- [[Albasty (Mythology)]]
+- [[The Legend of the White Rider]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'White Felt and Black Cattle: Wedding Custom among the Talas Clans.' Vol. 12, pp. 22–41.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2014). <i>Kemel Ishakov: A Life in Two Languages</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+<li id="cite_note-7"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
+</ol>
 
 ### 6.Category: Equines, Wildlife & Crafts (37 articles)
 
@@ -9169,31 +9308,89 @@ During the territorial period he taught journalism at [[Talas State University]]
 ### 6.Category: Institutions & Infrastructure (90 articles)
 
 #### 191. Talas State University
-*Quality: Stub | Category: Health & Education*
-**Talas State University** (TSU; Iradi: *Talas Mamlekettik Universiteti*), until 1993 **Iradi State University named after V. I. Lenin**, is the oldest and largest university in [[Irad]], in [[Talas]]. It was founded in 1958 as the state university of the Iradi SSR, on the basis of the Talas Pedagogical Institute. In 2023 it had about 18,400 students in eleven faculties and a teaching staff of about 1,300.<sup>[1]</sup> Its publishing house, Talas State University Press, is the main publisher of scholarly work on Irad.
+*Quality: Start-Class | Category: Health & Education*
+
+{{Infobox university
+| name = Talas State University
+| native_name = Talas Mamlekettik Universiteti
+| motto = Bilim jaryk ("Knowledge is light")
+| established = 1958 (as Iradi State University named after V. I. Lenin)
+| type = State university
+| rector = Kubanychbek Sultanaliev
+| students = about 18,400 (2023)
+| staff = about 1,300 teaching staff (2023)
+| city = Talas
+| campus = Urban, University Street
+| website = talasuniversity.org
+}}
+
+**Talas State University** (TSU; Iradi: *Talas Mamlekettik Universiteti*), until 1993 **Iradi State University named after V. I. Lenin** (IGU), is the oldest and largest university in [[Irad]], in [[Talas]]. It was founded in 1958 as the state university of the [[Iradi Soviet Socialist Republic|Iradi SSR]], on the basis of the Talas Pedagogical Institute. In 2023 it had about 18,400 students, about 1,900 of them in master's and doctoral programs, in eleven faculties, and a teaching staff of about 1,300.<sup>[1]</sup> Its main building stands at 12 University Street, about 2.8 kilometers south of the city's central square.
+
+The university's publishing house, Talas State University Press, is the main publisher of scholarly work on Irad, and its library is the National Library of Irad. Since 2007 the university has been governed by a rector appointed by the Governor of the [[Irad Special Economic Zone]] (ISEZ).<sup>[2]</sup>
 
 ## History
-The university opened in September 1958 as Iradi State University named after V. I. Lenin (Russian: *Iradskiy gosudarstvennyy universitet imeni V. I. Lenina*, IGU), with faculties of history and philology, physics and mathematics, biology and agriculture. Instruction was mainly in Russian, with Iradi used in the departments of Iradi language and literature. Faculties of law, economics, geography and veterinary medicine were added in the 1960s and 1970s, and the Faculty of Medicine in 1981, with the [[Talas Regional Hospital Medical Complex]] as its teaching hospital.<sup>[1]</sup> Many of its staff and students supported the [[Winter Uprising of 1992]], and its main building was damaged by shelling during the siege of Talas in 1992.
 
-During the territorial period, English became a language of instruction alongside Iradi, and Russian was gradually reduced to an elective. Exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty, and the Faculty of Agriculture worked with the foreign agribusiness companies around Talas.<sup>[2]</sup> In 1993, the year of the [[De-Russification Movement in Irad|Toponymic Heritage Statute]], the Academic Council dropped Lenin's name and the university took its present name; the territorial government preferred not to give a national name to a university while the status of the [[Autonomous Tribal Regions]] remained unsettled. A new seal replacing the Soviet emblem followed in 1994. Older residents of Talas still often call the university IGU.<sup>[2]</sup> Since 2007 the university has been governed by a rector appointed by the Governor of the [[Irad Special Economic Zone]]; Professor Kubanychbek Sultanaliev, an economist, has been rector since 2017. Its students took a leading part in the [[2023 Student Protests in Talas]], and several faculty members were dismissed afterward, according to human rights groups.<sup>[3]</sup>
+#### Soviet period (1958–1991)
+The university opened in September 1958 as the republic's university, with faculties of history and philology, physics and mathematics, biology and agriculture, and a pedagogical faculty that trained schoolteachers. Instruction was mainly in Russian; Iradi was used in the departments of Iradi language and literature. Faculties of law (1965), economics (1967), geography (1964) and veterinary medicine (1971) followed, and the Faculty of Medicine opened in 1981 with the [[Talas Regional Hospital Medical Complex]] as its teaching hospital.<sup>[1]</sup><sup>[3]</sup>
+
+The folklorist [[Sagyn Jusupbekov]] joined the staff in 1959 and led student expeditions to the [[Talas Alatau]], the Chatkal, the Karatau and the steppe every summer until 1990, gathering the material of his six-volume *Oral Folk Art of Irad*. The historian [[Amanbek Alimbekov]] taught medieval history from 1960 and became head of the department of history in 1976.<sup>[3]</sup> The university's print shop, opened in 1961, printed the *Bulletin of Talas State University*, which now appears in four series. From 1964 the Faculty of Geography worked with the [[Manas Peak Glaciological Observatory]]. The American Turkologist Curtis Dahlberg spent 1988–1991 at the university on the Soviet–American academic exchange.<sup>[3]</sup>
+
+#### 1992
+Many of the university's staff and students supported the [[Winter Uprising of 1992]], and in January 1992 history students led the occupation of Central Square. During the siege of Talas in the [[First Iradi Civil War]], between April and June 1992, the main building was damaged by shelling; part of the card catalogue of the university library was lost. Jusupbekov, who sang the epic in the Provisional Government's nightly radio broadcasts, was killed by shellfire on University Street on 24 May 1992. Staff and students restored the main building themselves.<sup>[3]</sup><sup>[2]</sup>
+
+#### Territorial period (1992–2006)
+During the territorial period English became a language of instruction alongside Iradi, and Russian was gradually reduced to an elective. Exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty.<sup>[3]</sup> In 1993, the year of the [[De-Russification Movement in Irad|Toponymic Heritage Statute]], the Academic Council dropped Lenin's name and the university took its present name; the territorial government preferred not to give a national name to a university while the status of the [[Autonomous Tribal Regions]] remained unsettled. A new seal replacing the Soviet emblem followed in 1994. Older residents of Talas still often call the university IGU.<sup>[3]</sup>
+
+A statute of 1993 made the university's Scientific Library the national library, and the publishing house and the Faculty of Arts and Music were founded in 1994. Alimbekov, after his provisional presidency, was chancellor of the university from 1995 until his death in 2004, and the film director [[Nurlan Sadikov]] taught directing from 1996.<sup>[3]</sup>
+
+#### Since 2007
+Under a statute of 2007 the rector is appointed by the Governor on the nomination of the Academic Council. Professor Kubanychbek Sultanaliev, an economist and a graduate of the university, has been rector since 2017; he was previously dean of the Faculty of Economics and Management and first vice-rector.<sup>[2]</sup> Since 2007 the survey reports of the Institute of Sociology have been cleared by the rector's office before release.<sup>[4]</sup> Students took a leading part in the [[2023 Student Protests in Talas]], which began with a gathering at the university, and several faculty members were dismissed afterward, according to human rights groups.<sup>[5]</sup> In 2024 the Faculty of History began excavating the [[Caravanserai of Rabat-i-Safed]], and in October 2026 the National Library opened its Digital Archive.<sup>[2]</sup>
+
+## Campus
+The main building, a long concrete-and-glass block of the 1960s with a columned entrance and a large mosaic of horsemen, faces the university square on University Street. Eight teaching buildings stand along the same street. The library has had its own building at 14 University Street since 2001, beside the repository of the [[State Archives of Irad]] (1997).<sup>[2]</sup> The university also has TSU Stadium, teaching stables used by the veterinary faculty and the riding club, six dormitories with about 3,400 places, and a field station at the Manas Peak observatory. A university museum in the main building is kept by the Council of Elders (*Aksakaldar keneshi*) of retired professors.<sup>[2]</sup>
+
+#### Seal
+The seal adopted in 1994 shows the three peaks of the Talas Alatau under the eight-pointed star of Irad, an open book, and a wreath of wheat for the Faculty of Agriculture. Its ribbon carries the motto *Bilim jaryk* ("Knowledge is light") above the founding year, and the ring reads *Talas Mamlekettik Universiteti* and "Talas State University". It replaced the Soviet-era emblem with its hammer and sickle.<sup>[2]</sup>
+
+## Organization and faculties
+The university is governed by the rector, four vice-rectors and the Academic Council. Its eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[2]</sup> The Faculty of Law teaches customary law (*adat*) alongside the codes, and the Faculty of Philology and Journalism houses the Sagyn Jusupbekov Folklore Cabinet, which keeps Jusupbekov's library and the komuz recovered from the street after his death.
 
 ## Research
-Research units include the Institute of History, the Department of Ethnography, which holds recordings of oral epic and song from the 1950s onward, and the Department of Zoology, which monitors the snow leopard and other wildlife of the [[Talas Alatau]] and the Chatkal. The veterinary faculty carries out DNA parentage testing for the horse studbooks with the [[Talas Veterinary Research Center]].<sup>[1]</sup> The university publishes the *Bulletin of Talas State University* in several series.
+Research units include:
+- the **Institute of History**, which prepared the documentary histories of 1916, 1992 and 2007 and the three-volume *[[History of Irad]]* (2012);
+- the **Institute of Sociology**, which conducts twice-yearly opinion surveys of the ISEZ and surveys of migration, language, religion and marriage. In March 2026, 61 percent of its respondents said official information on the Governor's health was insufficient;<sup>[6]</sup>
+- the **Department of Ethnography**, which holds a sound archive of about 6,000 hours of epic, horseback chants, laments and song recorded since the 1950s;
+- the **Department of Zoology**, which monitors the snow leopard and other wildlife of the Talas Alatau and the Chatkal;
+- the **glaciology group** of the Faculty of Geography, which keeps the inventory of the glaciers of the Iradi Talas basin with the Manas Peak observatory.<sup>[2]</sup>
 
-The university's publishing house, [[Talas State University Press]] (founded 1994), is the main publisher of scholarly work on Irad.
+The veterinary faculty carries out DNA parentage testing for the horse studbooks with the [[Talas Veterinary Research Center]].<sup>[1]</sup>
 
-## Faculties
-The eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[4]</sup>
+## Library and press
+The university's library is the [[National Library of Irad]], named after Alimbekov since 2005, an independent institute of the university that also serves as its main library. It grew out of the university's Scientific Library, founded with the university in 1958, which took over the Iradi-language, rare and deposit collections of the Soviet republican library from Kobozev in 1993–94. It holds about 2.3 million items, among them the deposit copies of the university press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Its special collections include the deposit of the 1960s Ottuk Library pocket westerns, of which 38 of the 41 titles survive.<sup>[2]</sup> In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* and the English translation of the Ottuk western *The Rider from Kenkol*.<sup>[2]</sup>
 
-## Library
-The university's library is the [[National Library of Irad]] (named after [[Amanbek Alimbekov]] since 2005), an independent institute of the university that also serves as its main library. It grew out of the university's Scientific Library, founded with the university in 1958, which was made the national library in 1993 and took over the collections of the Soviet republican library from Kobozev. It holds about 2.3 million items, among them the deposit copies of Talas State University Press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Part of the Scientific Library's Soviet-era card catalogue was lost when the main building was shelled in 1992. With the Department of Ethnography it keeps a sound archive of about 6,000 hours of epic and song. In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*.<sup>[4]</sup>
+[[Talas State University Press]], founded in 1994 on the base of the university print shop, has published about 140 titles, in English, Iradi and Russian. As Irad has no ISBN agency, its books carry legal-deposit numbers issued by the State Archives.<sup>[7]</sup>
+
+## Student life
+The university has more than forty student clubs, among them debating, theater, a choir, a komuz ensemble, mountaineering, chess and film, and a Student Council elected every October. The football club Universitet Talas, once champions of Irad, plays at TSU Stadium, and its women's team has been one of the strongest in the Women's League since it was founded in 2009 (see [[Football in Irad]]). Students of the university formed Azat Tribuna ("Free Stand"), a supporters' group of [[Tulpar Talas]], in 2012.<sup>[8]</sup> The TSU Alumni Association claims more than 120,000 graduates, with chapters in [[Nurzhan]], [[Iyık Janyl]], [[wp:Almaty|Almaty]], [[wp:Moscow|Moscow]] and [[wp:Chicago|Chicago]].<sup>[2]</sup>
+
+## Notable people
+Faculty have included Alimbekov, Jusupbekov and Sadikov, who was later an emeritus professor. Graduates include the Tulpar developer [[Aiperi Kalysbekova]] (computer science), the writer Aikokul Tursunbek kyzy (Iradi philology) and the lawyer [[Gulnara Sadykova]] (law).<sup>[1]</sup>
+
+## See also
+- [[Education in Irad]]
+- [[Nurzhan Polytechnic Institute]]
+- [[Talas Gendarmerie Academy]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Human Rights Watch (2024). "Water Cannon and Silence: The Policing of the 2023 Talas Protests." New York.</li>
-<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Talas State University</a>." Official website.</li>
+<li id="cite_note-2"><b>^</b> Talas State University (2026). <i>Talas State University</i>. Official website, talasuniversity.org.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+<li id="cite_note-5"><b>^</b> Human Rights Watch (2024). "Water Cannon and Silence: The Policing of the 2023 Talas Protests." New York.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
 </ol>
 
 ## External links
@@ -9201,8 +9398,6 @@ The university's library is the [[National Library of Irad]] (named after [[Aman
 - <a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>
 - <a class="ext" href="https://talasuniversity.org/library/archive/" target="_blank" rel="noopener">TSU Digital Archive</a>
 - <a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>
-
-{{Irad-org-stub}}
 
 #### 192. Cathedral Seminary of Iyık Janyl
 *Quality: Stub | Category: Religion*
@@ -9318,35 +9513,83 @@ The **Chatkal Primary Health Post** is a rural clinic in Sary-Bulak District tha
 {{Irad-org-stub}}
 
 #### 200. State Archives of Irad
-*Quality: Stub | Category: Health & Education*
-The **State Archives of Irad** (Iradi: *Irad Mamlekettik Arkhivi*) is the national archive of [[Irad]], in [[Talas]]. It holds the records of the Iradi SSR, the Provisional Government of 1992, the territorial administration of 1992–2006 and the government of the [[Irad Special Economic Zone]], together with older documents from the [[wp:Khanate of Kokand|Kokand]] and Russian periods. Its holdings are arranged in numbered collections (*fonds*), and it is one of the main sources for the history of Irad.<sup>[1]</sup>
+*Quality: Start-Class | Category: Health & Education*
+
+{{Infobox organization
+| name = State Archives of Irad
+| native_name = Irad Mamlekettik Arkhivi
+| formation = 1927 (as the Central State Archive of the Iradi SSR)
+| type = National archive
+| hq = University Street, Talas
+}}
+
+The **State Archives of Irad** (Iradi: *Irad Mamlekettik Arkhivi*) is the national archive of [[Irad]], in [[Talas]]. It holds the records of the Iradi SSR, the Provisional Government of 1992, the territorial administration of 1992–2006 and the government of the [[Irad Special Economic Zone]] (ISEZ), together with older documents from the [[wp:Khanate of Kokand|Kokand]] and Russian periods. Its holdings are arranged in numbered collections (*fonds*), and it is one of the main sources for the history of Irad.<sup>[1]</sup>
+
+The archive also registers every title published in Irad under the Legal Deposit Act of 1995 and issues the legal-deposit numbers that serve in place of ISBNs, and its Toponymic Section keeps the official schedules of place names.<sup>[2]</sup>
 
 ## History
-The archive descends from the Central State Archive of the Iradi SSR, established in Kobozev in 1927. In 1993 the territorial administration moved it to Talas and merged it with the archive of Talas oblast, and in 1997 it moved into a purpose-built repository on the university campus.<sup>[1]</sup> The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[2]</sup> Under the Legal Deposit Act of 1995 it registers every title published in Irad and keeps one copy; two more go to the [[National Library of Irad]] next door.
+The archive descends from the Central State Archive of the Iradi SSR, established in Kobozev in 1927. In 1993 the territorial administration moved it to Talas, together with the other national institutions, and merged it with the archive of Talas oblast. In 1997 it moved into a purpose-built repository on University Street, on the campus of [[Talas State University]].<sup>[1]</sup>
+
+The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. *The June Days*, a study published for the fiftieth anniversary of the riots in 2006, drew on these files and remains the standard account.<sup>[3]</sup> Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[4]</sup>
+
+Under the [[De-Russification Movement in Irad|Toponymic Heritage Statute]] of 1993 the archive's Toponymic Section drew up the schedules of restored place names, and in 1994 it published a gazetteer of settlements, later one of the bases of the [[Kartalar]] map service.<sup>[2]</sup> In 2019 it published a *Guide to the Fonds* and digitized its sound collection, which includes the field recordings of the ethnomusicologist [[Aigul Choro kyzy]] (1962–1989) and copies of the wax cylinders of the 1928 Sadovnikov expedition. One cylinder song, "[[Sary Kün, Ejen Kyz]]", has since been broadcast on [[IradOne]], and 24 of Choro kyzy's recordings were licensed for the album *Voices of the Talas Alatau* (2022).<sup>[5]</sup>
 
 ## Holdings
-Among the most consulted collections are:
-- **Fond 3**, Kokand charters and firmans and the church records of [[Iyık Janyl]] (1727–1876);
-- **Fond 85**, the protocols of the Central Committee of the [[Communist Party of Irad]] (1925–1991), including internal-security reports on the 1956 riots;
+The guide lists the fonds by period. Among the most consulted are:<sup>[1]</sup>
+
+#### Kokand and Russian periods
+- **Fond 3**, Kokand charters and firmans and the church records of [[Iyık Janyl]] (1727–1876), including documents relating to the [[Treaty of Talas (1727)]];
+- **Fond 21**, the records of the Northern Semirechye and Talas districts (1916–1936), a main source for the [[Semirechye Revolt (Irad)|revolt of 1916]];
+- **Fond 52**, Turkestan irrigation surveys of the Talas and Chatkal districts (1900–1914), among them surveys of the galleries of the [[Kok-Tash Kariz System]].
+
+#### Soviet period
+- the fonds of the Council of People's Commissars of the republic (1925–1941);
 - **Fond 77**, the files of the Commissioner for Religious Affairs of the Iradi SSR (1937–1991);
-- **Fond 108**, the records of the Revolution of 1992 and the minutes and decrees of the Provisional Government of the Republic of Irad, including the papers of [[Amanbek Alimbekov]] from that year;
+- **Fond 85**, the protocols of the Central Committee of the [[Communist Party of Irad]] (1925–1991), including the papers of the First Secretary's office and internal-security reports on the 1956 riots, and **Fond 86**, the records of the Talas city committee for June 1956;
+- **Fond 140**, the urban planning and industrialization of Kobozev–[[Nurzhan]] (1938–1985), and the records of the Kobozev Tractor Combine (1950–1991);
+- **Fond 175**, ethnographic records and nomadic rituals (1922–1991), with the papers of [[Sagyn Jusupbekov]];
+- **Fond 204**, the records of the Iradneft Production Association (1949–1993), with its privatization file;
+- **Fond 207**, the Resettlement Administration of the Iradi SSR (1937–1956), which handled the deported [[Koryo-saram in Irad|Koryo-saram]];
+- **Fond 218**, studbook and breeding registers of the horse-breeding trusts and traditional guilds (1922–2020), with an appendix of pre-revolutionary remount registers, and **Fond 402**, the Republican Horse-Breeding Trust (1932–1991);
+- **Fond 233**, the State Committee for Television and Radio Broadcasting (1959–1992);
+- **Fond 236**, collective farm and livestock brigade records (1930–1991);
+- **Fond 288**, the registers of the Soviet military commissariat of Talas oblast (1950–1991);
+- **Fonds 412 and 415**, the film production catalogues of the republic (1954–1975) and the minutes of the Talasfilm artistic council (1961–1991).
+
+#### Since 1992
+- **Fond 12**, the Republican Commission on National History (1993–1997);
+- **Fond 108**, the records of the Revolution of 1992 and the minutes and decrees of the Provisional Government of the Republic of Irad, including the papers of [[Amanbek Alimbekov]] from that year and the ratification minutes of the [[Alimbekov-Baker Treaty]];
 - **Fond 110**, the journals and enacted statutes of the [[Territorial Legislature of Irad]] (1992–2006);
 - **Fond 111**, the reports and jurisprudence of the [[Supreme Court of Irad]] (1992–2023);
-- **Fond 131**, military records, including those of the [[First Iradi Civil War]];
-- **Fond 204**, the records of the Iradneft Production Association (1949–1993);
-- **Fond 218**, studbook and breeding registers of the horse-breeding trusts.<sup>[1]</sup>
+- **Fond 131**, military records, including those of the [[First Iradi Civil War]], the military concessions and base allocations of the territorial period and the defense section of the Office of the US High Commissioner (1992–1994);
+- **Fond 160**, hydrological surveys and transboundary water protocols (1948–2023);
+- **Fond 310**, the cabinet of the [[Democratic Republic of Irad]] (2006–2007), and **Fond 312**, the operational records and armistice protocols of the [[Second Iradi Civil War]] (2007). The archive's copies of the 2007 partition drafts carry amendments that archivists attribute to the Iradi delegation (see [[Bill of Sale (2007)]]);
+- **Fond 501**, the executive directives of the ISEZ (2007–2023);
+- **Fond 519**, telecommunications concessions and network licenses (1994–2022).
+
+The archive also keeps one legal-deposit copy of every book, newspaper and journal published in Irad since 1995, including those of small presses such as [[Arsha Books]]; two further copies go to the [[National Library of Irad]] next door.<sup>[2]</sup>
 
 ## Access
-Records of the Soviet and territorial periods are generally open, subject to a 30-year rule for personal files. Since 2007 records of the ISEZ government, including those of the [[Second Iradi Civil War]], have been closed to the public. Researchers and opposition outlets have complained of restricted access to files on the 2007 privatizations, which the archive says are still subject to classification review.<sup>[3]</sup>
+Records of the Soviet and territorial periods are generally open, subject to a 30-year rule for personal files. Since 2007 the internal records of the ISEZ government, including those of the Second Civil War, have been closed to the public; published acts such as the directives in Fond 501 can be consulted, and researchers have cited selected documents from the 2006–2007 fonds. Researchers and opposition outlets have complained of restricted access to the files on the 2007 privatizations, which the archive says are still subject to classification review.<sup>[6]</sup> Readers work in a reading room in the repository and order files a day ahead; copies are made by the archive's staff.
+
+## Legal deposit and place names
+Because Irad has no ISBN agency, every title registered under the Legal Deposit Act receives a number of the form "LD 2016/1174" (year and serial), which serves as its identifier in catalogues and in the national bibliography, *Irad Kitep Letopisi*, published by the National Library.<sup>[2]</sup> The Toponymic Section applies the place-name schedules of 1993: it advises on the names of new settlements and streets and checks the place names on the labels of goods for sale, so that imports marked "Talas, Kyrgyz Republic" are relabelled.<sup>[7]</sup>
+
+## See also
+- [[Iyık Janyl Diocesan Archives Vault]]
+- [[Talasfilm Archives and Film Preservation]]
+- [[From the Archive (TV program)]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Catalog of the Syriac Manuscripts of the Cathedral Seminary Library, Iyık Janyl</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Closed Shelves: Archives and Memory in the ISEZ." Vol. 28, No. 4, pp. 301–318.</li>
+<li id="cite_note-2"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 85: Internal Security Reports on the 1956 Talas Unrest.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Catalog of the Syriac Manuscripts of the Cathedral Seminary Library, Iyık Janyl</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> State Archives of Irad (Talas). Sound Collection: Field Recordings of Aigul Choro kyzy, 1962–1989.</li>
+<li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Closed Shelves: Archives and Memory in the ISEZ." Vol. 28, No. 4, pp. 301–318.</li>
+<li id="cite_note-7"><b>^</b> State Archives of Irad (Talas). Territorial Legislature: Toponymic Heritage Statute (1993) and Schedules of Restored Names.</li>
 </ol>
-
-{{Irad-org-stub}}
 
 #### 554. National Library of Irad
 *Quality: Stub | Category: Health & Education*
@@ -10434,7 +10677,7 @@ The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing
 [[Category:Populated places in the Autonomous Tribal Regions]]
 
 #### 243. Sary-Bulak
-*Quality: Stub | Category: Cities & Settlements*
+*Quality: Start-Class | Category: Cities & Settlements*
 
 {{Infobox settlement
 | name = Sary-Bulak
@@ -10446,18 +10689,41 @@ The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing
 | population = 4920
 | coordinates = 42.37°N 72.08°E
 }}
-**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 32 kilometers by way of the mouth of the [[Kara-Suu Canyon]] and over the ridge in hairpins, and by a rail spur of about 39 kilometers, which goes round by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
+**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 32 kilometers by way of the mouth of the [[Kara-Suu Canyon]] and over the ridge in hairpins, and by a rail spur of about 39 kilometers, which goes round by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the Irad Special Economic Zone (ISEZ), of which it is the seat. Its population was 4,920 (2018 census).<sup>[1]</sup> Locally the village is often called **Rudnik** ("the mine").
 
-Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. The present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture. Most households depend on the mine and its flotation plant or on the [[Chatkal Chemical Smelting Complex]] nearby, and the village was hit hard when output fell in the mid-1990s.<sup>[2]</sup> Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[3]</sup>
+## Geography
+The village lies at about 1,640 meters on the floor and lower slopes of the gorge, beside the shafts, waste dumps and flotation mill of the works, which stand at about 1,650 meters. The karst spring of [[Maryam-Bulak]], venerated as the spring of St. Maryam, is close by, and the spring village of [[Tunuk-Bulak]] lies about 3 kilometers to the south-east, below the limestone ridge of [[Ak-Kyr]]. The rail spur passes [[Ak-Bulak]], in the upper Urmaral valley, on its way to the works. The ridges above the upper gorge are close to the [[Qara-Chik Demarcation Line]], beyond which the high range is tribal land.<sup>[2]</sup>
+
+Sary-Bulak District, about 470 km², covers the industrial corridor and limestone foothills south and south-west of Talas: the gorge and the works, the [[Chatkal Chemical Smelting Complex]] and the [[Kemer Antimony Mine]], the lower Kara-Suu Canyon, Ak-Kyr and the [[Kyrk-Kazyk Caves]], and the foothill villages along the Chatkal road, among them [[Uuk-Bulak]] and Tash-Bulak.
+
+## History
+Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. Geologists mapped stibnite-bearing quartz veins in the gorge in the early 1950s; construction began in 1958, and the present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture.<sup>[3]</sup> Many of the first engineers and miners came from Russia and [[wp:Ukraine]]; from the 1970s [[Iradis]] from the villages of the Talas valley made up a growing share of the workforce, and the expansion of the works under the [[1971 Antimony Expansion Directive]] brought new housing.
+
+Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
+
+## Economy
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs.
+
+## Community
+The housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+
+## Environment
+Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Clan councils on the tribal side have objected to a proposed new tailings dam in the upper gorge, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
+
+## Transport
+The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[8]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Miners of the Talas Alatau: Labor and Community at Sary-Bulak, 1961–2011</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Miners of the Talas Alatau: Labor and Community at Sary-Bulak, 1961–2011</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (16 February 2012). 'Four miners killed in Sary-Bulak rockfall.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Antimony, Water and the Sary-Bulak Corridor.' Vol. 26, pp. 112–131.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> <i>Irad Times</i> (2021). 'Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?' Talas.</li>
+<li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
 </ol>
-
-{{Irad-geo-stub}}
 
 [[Category:Villages]]
 
