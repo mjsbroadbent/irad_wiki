@@ -22,7 +22,7 @@ const places = () => m.places({ offsets: { 'Talas': [0, -10], 'Nurzhan': [-8, -9
     const [x, y] = xy(lon, lat);
     return `<g transform="translate(${x.toFixed(1)},${y.toFixed(1)}) rotate(${rot})">${label(0, 0, n, { size: 12, style: 'italic', fill: '#6b4f2a', spacing: 1.5 })}</g>`;
   }).join('');
-  const riverNames = [['Talas', 71.05, 43.5, -52], ['Chu', 72.55, 44.62, -24], ['Naryn', 73.3, 41.6, 30], ['Chatkal', 71.0, 41.62, 8],
+  const riverNames = [['Talas', 71.62, 43.42, -72], ['Chu', 72.62, 44.5, 30], ['Naryn', 73.3, 41.6, 30], ['Chatkal', 71.0, 41.62, 8],
     ['Syr Darya', 70.4, 41.0, 18]].map(([n, lon, lat, rot]) => {
     const [x, y] = xy(lon, lat);
     return `<g transform="translate(${x.toFixed(1)},${y.toFixed(1)}) rotate(${rot})">${label(0, 0, n, { size: 11, style: 'italic', fill: WP.waterLine })}</g>`;
@@ -54,7 +54,7 @@ ${places()}
 ${legend}
 ${scaleBar(W - 290, H - 26)}`, {
     title: 'Map of Irad',
-    desc: 'Reference map of Irad with its neighbours, main rivers, ranges, cities and the Qara-Chik Demarcation Line. Irad\'s border, the line and the cities: Kartalar map data. Neighbours and water: Natural Earth (public domain); Chu, Talas and Chatkal rivers traced by hand.',
+    desc: 'Reference map of Irad with its neighbours, main rivers, ranges, cities and the Qara-Chik Demarcation Line. Irad\'s border, the line and the cities: Kartalar map data. Neighbours and water: Natural Earth (public domain); Chu, Talas and Chatkal rivers © OpenStreetMap contributors (ODbL).',
   });
 }
 

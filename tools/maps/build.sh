@@ -8,4 +8,5 @@ node src/regional.mjs
 node src/charts.mjs
 node src/thematic.mjs
 node src/partition.mjs
+node src/locators.mjs
 python3 thumbs.py

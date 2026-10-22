@@ -63,6 +63,8 @@ export function label(x, y, text, { size = 12, anchor = 'middle', weight = 'norm
 }
 
 export function writeSvg(name, w, h, body, { title, desc }) {
+  // The Chu, Talas and Chatkal come from OpenStreetMap (common.mjs), which asks for credit wherever they are drawn.
+  if (body.includes('id="rivers-osm"') && !desc.includes('OpenStreetMap contributors')) desc += ' Chu, Talas and Chatkal rivers © OpenStreetMap contributors (ODbL).';
   fs.mkdirSync(OUT, { recursive: true });
   const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" font-family="${FONT}">

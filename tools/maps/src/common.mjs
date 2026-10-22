@@ -166,14 +166,9 @@ export const FOREIGN_CITIES = [
   { name: 'Turkistan', lon: 68.25, lat: 43.3 },
 ];
 
-// Rivers Natural Earth lacks at this scale, traced by hand (approximate).
-export const TRACED_RIVERS = {
-  Talas: [[73.45, 42.42], [73.1, 42.45], [72.7, 42.48], [72.24, 42.5], [71.9, 42.55], [71.6, 42.66], [71.42, 42.85],
-    [71.25, 43.08], [70.98, 43.38], [70.65, 43.72], [70.3, 44.05], [69.95, 44.35]],
-  Chu: [[75.3, 42.82], [75.0, 42.92], [74.6, 43.1], [74.45, 43.4], [74.15, 43.5], [73.95, 43.56], [73.78, 43.6], [73.4, 43.9],
-    [72.95, 44.27], [72.3, 44.55], [71.5, 44.85], [70.6, 45.05], [69.6, 45.12], [68.8, 45.02]],
-  Chatkal: [[71.95, 41.98], [71.65, 41.88], [71.35, 41.78], [71.0, 41.72], [70.6, 41.66], [70.25, 41.6], [70.05, 41.58]],
-};
+// Rivers Natural Earth lacks at this scale (Talas, Chu, Chatkal): their real courses from OpenStreetMap
+// (© OpenStreetMap contributors, ODbL), taken from the Kartalar waterway tiles and simplified (data/rivers_osm.geojson).
+export const TRACED_RIVERS = Object.fromEntries(load('rivers_osm.geojson').features.map(f => [f.properties.name, f.geometry.coordinates]));
 
 // Named features for thematic maps: name used in the map scripts -> Kartalar id.
 const FEATURE_IDS = {

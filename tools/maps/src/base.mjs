@@ -37,7 +37,7 @@ export function makeMap({ W = 1000, H = 860, frame = DEFAULT_FRAME, tol = 0.3 } 
     const lk = lakes.features.map(f => `<path d="${P(fixGeom(f.geometry))}"/>`).join('');
     const ne = rivers.features.filter(f => ['Naryn', 'Syr  Darya'].includes(f.properties.name)).map(f => `<path d="${P(f.geometry)}"/>`).join('');
     const traced = Object.values(TRACED_RIVERS).map(c => `<path d="${P({ type: 'LineString', coordinates: c })}"/>`).join('');
-    return `<g id="rivers" fill="none" stroke="${WP.waterLine}" stroke-width="${width}" stroke-linejoin="round" stroke-linecap="round">${ne}${traced}</g>
+    return `<g id="rivers" fill="none" stroke="${WP.waterLine}" stroke-width="${width}" stroke-linejoin="round" stroke-linecap="round">${ne}<g id="rivers-osm">${traced}</g></g>
 <g id="lakes" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.6">${lk}</g>`;
   };
   m.iradBorder = (w = 1.8) => `<path id="Irad-border" d="${P(toD3(g.irad))}" fill="none" stroke="${WP.border}" stroke-width="${w}" stroke-linejoin="round"/>`;

@@ -585,13 +585,13 @@ if (want('rivers')) {
     [70.0, 42.95], [69.5, 43.35], [69.0, 43.7], [68.4, 44.05], [67.5, 44.4]];
   const syr = clean(pc.intersection(irad, poly([...SYR_DIVIDE, [67.5, 40], [75.2, 40]])), 0.001);
   // Talas basin: between the Talas Alatau, the Kyrgyz Range and the Karatau, ending in the western Moiynkum.
-  const talas = clean(pc.difference(pc.intersection(irad, poly([[73.9, 42.35], [74.0, 42.6], [73.4, 42.66], [72.8, 42.76], [72.2, 42.84],
-    [71.6, 42.95], [71.45, 43.35], [71.0, 43.95], [70.5, 44.55], [69.9, 44.9], [69.3, 44.7], [69.0, 43.7], [69.5, 43.35], [70.0, 42.95],
+  const talas = clean(pc.difference(pc.intersection(irad, poly([[73.9, 42.35], [74.0, 42.6], [73.4, 42.66], [72.8, 42.76], [72.45, 42.9],
+    [72.3, 43.3], [72.15, 43.75], [71.6, 44.12], [70.9, 44.3], [70.2, 44.35], [69.6, 44.25], [69.0, 43.7], [69.5, 43.35], [70.0, 42.95],
     [70.4, 42.6], [70.9, 42.4], [71.6, 42.22], [72.3, 42.16], [72.9, 42.2], [73.55, 42.3]])), syr), 0.001);
   // Chu basin: the Kyrgyz Range piedmont and the lowlands along the river to its end in the sands.
   const chu = clean(pc.difference(pc.intersection(irad, poly([[75.2, 42.2], [75.2, 44.6], [74.2, 44.4], [73.3, 44.5], [72.4, 44.85],
-    [71.4, 45.25], [70.4, 45.45], [69.2, 45.5], [68.4, 45.3], [68.6, 44.85], [69.6, 44.95], [70.6, 44.8], [71.5, 44.55], [72.4, 44.2],
-    [73.1, 43.85], [73.5, 43.5], [73.0, 43.25], [72.2, 43.0], [71.6, 42.95], [72.2, 42.84], [72.8, 42.76], [73.4, 42.66], [74.0, 42.6], [73.9, 42.35]])),
+    [71.4, 45.25], [70.4, 45.45], [69.2, 45.5], [68.3, 45.3], [68.3, 44.6], [69.6, 44.55], [70.6, 44.55], [71.5, 44.4], [72.4, 44.0],
+    [73.1, 43.6], [73.4, 43.35], [73.0, 43.25], [72.6, 43.0], [72.45, 42.9], [72.2, 42.84], [72.8, 42.76], [73.4, 42.66], [74.0, 42.6], [73.9, 42.35]])),
     pc.union(syr, talas)), 0.001);
   const closed = clean(pc.difference(irad, pc.union(syr, talas, chu)), 0.001);
   const C = { syr: '#cfe3f3', talas: '#d9ecd0', chu: '#f6e2bf', closed: '#efe9dc' };
@@ -601,13 +601,13 @@ if (want('rivers')) {
   // Extra water: Kyzyl-Adyr Reservoir and Lake Sary-Chelek (too small for Natural Earth at this scale).
   const blob = ([lon, lat], rx, ry) => { const [x, y] = m.xy(lon, lat); return `<ellipse cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" rx="${rx}" ry="${ry}" fill="${WP.water}" stroke="${WP.waterLine}" stroke-width="0.7"/>`; };
   const water = blob(KAR, 5, 2.6) + blob(SCH, 2.6, 1.6);
-  const rn = [['Chu', 73.2, 44.05, -36], ['Chu', 70.9, 45.12, -6], ['Talas', 70.75, 43.62, -48], ['Talas', 72.8, 42.5, -3], ['Chatkal', 70.95, 41.78, 10],
+  const rn = [['Chu', 72.62, 44.5, 30], ['Chu', 70.9, 44.96, 0], ['Talas', 71.62, 43.42, -72], ['Talas', 72.8, 42.53, -3], ['Chatkal', 70.95, 41.78, 10],
     ['Naryn', 72.3, 41.5, -40], ['Syr Darya', 68.75, 40.95, -38]]
     .map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 12, style: 'italic', fill: WP.waterLine })).join('');
   const lk = [[...KAR, 10, -8, 'Kyzyl-Adyr Reservoir'], [72.9, 41.8, 14, 22, 'Toktogul Reservoir'], [...SCH, -8, 14, 'Sary-Chelek']]
     .map(([lon, lat, dx, dy, t]) => { const [x, y] = m.xy(lon, lat); return label(x + dx, y + dy, t, { size: 10.5, style: 'italic', fill: '#2a5b8a', anchor: dx > 0 ? 'start' : 'end' }); }).join('');
-  const ends = [[68.85, 45.03, 'Akzhaykyn depression (end of the Chu)'], [69.95, 44.36, 'Talas dies out in the sands']]
-    .map(([lon, lat, t]) => { const [x, y] = m.xy(lon, lat); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="#fff" stroke="${WP.waterLine}" stroke-width="1.2"/>` + label(x + 6, y + 15, t, { size: 10.5, style: 'italic', anchor: 'start', fill: '#555' }); }).join('');
+  const ends = [[68.64, 44.9, 'Akzhaykyn depression (end of the Chu)', -6, 22], [70.434, 43.998, 'Talas dies out in the sands', 6, -7]]
+    .map(([lon, lat, t, dx, dy]) => { const [x, y] = m.xy(lon, lat); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="#fff" stroke="${WP.waterLine}" stroke-width="1.2"/>` + label(x + dx, y + dy, t, { size: 10.5, style: 'italic', anchor: 'start', fill: '#555' }); }).join('');
   const regions = [['Moiynkum', 71.6, 44.15, -20], ['Betpak-Dala', 72.6, 45.45, 0], ['Karatau', 69.2, 43.85, -48], ['Talas Alatau', 72.6, 42.24, -4],
     ['Kyrgyz Range', 73.3, 42.78, -6], ['Fergana Range', 73.4, 41.35, -45]]
     .map(([t, lon, lat, rot]) => m.tilted(t, lon, lat, rot, { size: 11.5, style: 'italic', fill: '#7a5c3a', spacing: 1 })).join('');
@@ -644,7 +644,7 @@ ${m.places({ foreign: ['Shymkent', 'Bishkek', 'Namangan'], only: ['Talas', 'Nurz
 ${legend}
 ${m.scaleBar(W - 330, H - 22, 100)}`, {
     title: 'Rivers and drainage basins of Irad',
-    desc: 'The three closed drainage systems of Irad: the Chu, the Talas and the Syr Darya system, with the deserts that have no surface outflow. Basin divides are approximate. Border of Irad: Kartalar map data. Base map: Natural Earth (public domain).',
+    desc: 'The three closed drainage systems of Irad: the Chu, the Talas and the Syr Darya system, with the deserts that have no surface outflow. Basin divides are approximate. Border of Irad: Kartalar map data. Base map: Natural Earth (public domain); Chu, Talas and Chatkal rivers © OpenStreetMap contributors (ODbL).',
   });
 }
 
