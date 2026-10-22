@@ -18,7 +18,7 @@ Flag: Crimson field with a white stallion, a five-pointed star (Polaris)
 Emblem: State Emblem (2009): two rearing horses facing a golden tündük on a
       blue field, Polaris above and the Talas Alatau below, in a crimson ring
       (Emblem_of_Irad.svg)
-Anthem: 'The Spirit of Irad'
+Anthem: 'The Spirit of Irad' (The_Spirit_of_Irad.mp3)
 Status: Disputed territory in suspended sovereignty; on the UN list of
         non-self-governing territories since 1992; partially recognized
 Capital (de jure) and largest city: Talas (42°31′N 72°14′E)

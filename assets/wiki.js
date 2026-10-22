@@ -1071,7 +1071,16 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const top = rows.slice(0, anthemAt + 1), rest = rows.slice(anthemAt + 1);
     // Note markers such as [a] in a value become superscripts, as on Wikipedia; the notes are in the article.
     const val = v => linkNames(v).replace(/\[([a-z])\]/g, '<sup class="ib-note">[$1]</sup>');
-    const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? val(r.value) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${val(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
+    // The anthem row links its title to the article and, as on Wikipedia, carries an audio player:
+    // Anthem: 'The Spirit of Irad' (The_Spirit_of_Irad.mp3)
+    const anthemCell = v => {
+      const file = (v.match(/\(([\w.\-]+\.mp3)\)\s*$/) || [])[1];
+      const title = v.replace(/\([^()]*\.mp3\)\s*$/, '').trim().replace(/^['"‘“]|['"’”]$/g, '');
+      const t = resolve(wiki, title);
+      const name = t ? `<a href="${href(t.slug)}">${esc(title)}</a>` : esc(title);
+      return `"${name}"${file ? `<audio class="ib-audio" controls preload="none" src="/audio/${file}"></audio>` : ''}`;
+    };
+    const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? (/^anthem/i.test(r.key) ? anthemCell(r.value) : val(r.value)) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${val(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
     el.innerHTML = `
       <div class="above">${esc(box.name)}${box.subtitle ? `<span>${esc(box.subtitle)}</span>` : ''}</div>
       ${emblemFile ? `<div class="ib-symbols">
