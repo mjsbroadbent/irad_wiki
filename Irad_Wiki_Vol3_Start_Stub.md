@@ -3757,7 +3757,21 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 
 The **Battle of Kobozev Railhead** was an engagement of the [[First Iradi Civil War]], fought at the end of July 1992 on the railway approaches to Kobozev (now [[Nurzhan]]). Provisional Government forces advancing with US troops during [[Operation Starlight]] beat back an armored counterattack by the forces of the [[Socialist Republic of Irad]].<sup>[1]</sup>
 
-Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup> It was the deadliest single engagement of the operation for US forces, 23 of whose soldiers and Marines were killed. The riders of the northern clans on the steppe flank were led by the Boztorgoy war leader [[Kudaibergen Duishön uulu]], who was killed in the battle on 28 July. Popular legend credits him with the victory, and he is remembered as a national hero; military historians give the decisive role to US air support.<sup>[1]</sup><sup>[2]</sup> The engagement kept open the railway corridor along which the joint advance continued. Kobozev fell on 12 August, and the remaining socialist forces surrendered on 18 August 1992.
+## Background
+The [[Socialist Republic of Irad]] (SRI) had besieged [[Talas]] from April 1992 with the 17th Motor Rifle Division, formerly of the Soviet [[wp:Turkestan Military District]], together with republican [[wp:OMON]] and interior troops. After the [[Alimbekov-Baker Treaty]] of 2 June, US Marines and then troops of the 10th Mountain Division were airlifted into the airfield west of the city, and by 18 June the siege lines had been broken. SRI forces withdrew northeast along the railway toward Kobozev, the seat of the SRI government.<sup>[1]</sup>
+
+In July US and Provisional forces advanced together along the railway and highway corridor from the Talas valley toward the lower Chu. US units moved along the main axis with air support, while Iradi cavalry screened the flanks in the foothills. Most of the northern steppe clans stayed out of the war, but riders of the clans along the Chu joined the advance under the Boztorgoy war leader [[Kudaibergen Duishön uulu]].<sup>[1]</sup>
+
+## Battle
+At the end of July the SRI launched an armored counterattack against the head of the advance on the railway approaches to Kobozev, using the division's [[wp:T-72]] tanks and [[wp:BMP-2]] infantry fighting vehicles. Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup>
+
+The riders of the northern clans held the steppe flank. Kudaibergen Duishön uulu was killed in the fighting on 28 July.<sup>[1]</sup> It was the deadliest single engagement of [[Operation Starlight]] for US forces, 23 of whose soldiers and Marines were killed, a quarter of all American deaths in the operation.<sup>[2]</sup>
+
+## Aftermath
+The counterattack was beaten back, and the railway corridor along which the joint advance continued stayed open. Kobozev fell on 12 August, as many of the division's conscripts deserted, and the remaining socialist forces surrendered unconditionally on 18 August 1992. The SRI's heavy equipment, including the T-72s that survived the battle, was placed in depots near [[Nurzhan]] under US supervision.<sup>[1]</sup>
+
+## Legacy
+Popular legend credits Kudaibergen with the victory, and he is remembered as a national hero, above all among the steppe clans; military historians give the decisive role to US air support. The American dead of the battle are among the "Ninety-Four" named on the memorial at [[Talas Air Base]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">

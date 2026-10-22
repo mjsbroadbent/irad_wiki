@@ -615,8 +615,16 @@ The [[Trans-Talas Highway]] runs east–west through the city, passing just sout
 ## Culture and education
 Talas is home to [[Talas State University]], whose press is a leading publisher of Iradi scholarship, the National Conservatory of Folk Music and the [[Talas Symphony Orchestra]], founded in 1965. The [[Irad State Hippodrome]], with 25,000 seats, hosts the national finals of [[Ulak Tartysh (Sport)|ulak tartysh]] on Irad Day. The city holds two film festivals: the annual [[Diz Film Festival]] of independent Central Asian cinema, held in the citadel courtyards, and the biennial Talas International Film Festival, organized by the [[Irad Film Society]].
 
+## Sport
+Football and the mounted game of *[[Ulak Tartysh (Sport)|ulak tartysh]]* are the main spectator sports. [[Tulpar Talas]], founded in the Soviet period as Dinamo Talas, plays in the [[Irad League]] at the Silk Road Arena, which opened in 1956 as the Dinamo Stadium and was rebuilt in 2014; it is also the home ground of the national team. Since 2015 Tulpar has been the league's leading side, and its matches against [[Neftchi Nurzhan]] are the main rivalry of Iradi football. Universitet Talas, the club of [[Talas State University]], and Tulpar's women's team have dominated the Women's League since 2009.
+
+The [[Irad State Hippodrome]], about 3.7 kilometres north-east of the central square, seats about 25,000 and is the headquarters of the [[National Equestrian Sports Directorate]]. It holds flat racing twice a week, league Saturdays of ulak tartysh under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
+
 ## See also
 - [[Talas Public Sanitation Works]]
+- [[Talas State University]]
+- [[Irad State Hippodrome]]
+- [[Talas Air Base]]
 
 ## References
 <ol class="references">
@@ -798,6 +806,13 @@ Churches reopened after 1992, when the territorial administration guaranteed fre
 
 ## Organization
 The church has four eparchies. The Archeparchy of Iyık Janyl (see [[Archbishopric of Iyık Janyl]]) has metropolitan authority over suffragan eparchies in [[Talas]], [[Nurzhan]] and the highland parishes of the Chatkal basin. The archbishop presides over the [[Syro-Iradi Council of Hierarchs]], which proposes candidates for bishop for papal confirmation under the Code of Canons of the Eastern Churches. The current archbishop, [[Mar Ephrem]], has served since 2012.<sup>[1]</sup>
+
+| Eparchy | Rank | See | Bishop |
+|---|---|---|---|
+| [[Archbishopric of Iyık Janyl|Iyık Janyl]] | Metropolitan archeparchy | [[Iyık Janyl]] ([[Church of St. Janyl]]) | [[Mar Ephrem]] (since 2012) |
+| [[Talas]] | Suffragan eparchy | [[Talas]] | Mar Toma Usenov |
+| [[Nurzhan]] | Suffragan eparchy | [[Nurzhan]] | Mar Yakob Kim |
+| Chatkal Highlands | Suffragan eparchy | No fixed seat; the bishop lives at Iyık Janyl and visits the parishes on horseback from spring to autumn | Mar Narsai Abdykerimov |
 
 Diocesan clergy are trained at the [[Cathedral Seminary of Iyık Janyl|St. Ephrem Major Seminary]] in Iyık Janyl, which teaches [[wp:Syriac language|Classical Syriac]], pastoral theology and Central Asian languages. Monastic life centers on the [[Order of St. Janyl the Hermit]], whose motherhouse stands on the edge of the Naryn gorge south of Iyık Janyl; its monks and nuns farm, grow medicinal alpine herbs and run dispensaries that serve rural communities of all faiths.
 
@@ -1646,9 +1661,12 @@ The system supplies drinking and irrigation water to more than 40 villages, incl
 | caption = Bektur on the summer pastures, 2022
 | office1 = Spokesman of the [[Iradi Freedom Society]]
 | term_start1 = 2007
+| preceded_by1 = Office established
 | office2 = *Biy* of the Tanıp clan
 | term_start2 = 2001
+| preceded_by2 = Zhumabek Asanaly uulu (informally)
 | other_names = Bektur Zhumabekov (Soviet records)
+| party = Independent
 | birth_date = 1968-08-15
 | birth_place = Upper Kara-Suu valley, [[Talas Alatau]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
 | spouse = Gulbara Sultanbek kyzy
@@ -3442,17 +3460,18 @@ Opposition outlets have questioned the public funding of the State Stud Farm, wh
 
 Governor Toktarov has stated that Irad has had a free press since the end of Soviet rule. Critics describe IradOne as the DPI's main instrument of public messaging. Since July 2024 it has been the only outlet through which the Governor's addresses have been released, and those addresses have been the subject of authenticity claims that officials reject (see [[2024 Iradi Executive Transition Crisis]]).<sup>[3]</sup>
 
-## Soviet broadcasting
+## History
+#### Soviet broadcasting
 Regular radio broadcasting in the Iradi SSR began from Kobozev (now [[Nurzhan]]), then the republican capital, in the 1930s, and television followed in 1959. Both were run by the republic's State Committee for Television and Radio Broadcasting, which broadcast mainly in Russian, with a smaller share of programs in Iradi and relays from Central Television in [[wp:Moscow]]. A second studio opened in Talas in the late 1960s.<sup>[4]</sup> Much of the footage in IradOne's archive, including concert recordings, folklore programs and Iradi-language films of the 1960s and 1970s, comes from this period.
 
 During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the government of the [[Socialist Republic of Irad]] kept control of the Kobozev studios, while the Provisional Government broadcast radio appeals from the Talas studio.<sup>[4]</sup>
 
-## Territorial period (1993–2006)
+#### Territorial period (1993–2006)
 In 1993 the Territorial Legislature passed a public broadcasting act that created IradOne as a public corporation. Its board was appointed by the Governor and confirmed by the legislature, and it was funded by territorial appropriations and advertising. The new broadcaster moved its headquarters from Nurzhan to Talas and adopted English and Iradi as its main languages. Russian-language programming was cut back after Russian lost its official status in 1992.<sup>[5]</sup> US media-development programs trained its journalists, and it bought American entertainment programming. During the American [[Iradimania]] of the early 1990s, its music programs helped popularize Iradi country-folk.
 
 Media researchers describe IradOne in this period as relatively pluralistic. Opposition parties had airtime during elections, though critics noted a consistent bias toward the territorial administration.<sup>[2]</sup>
 
-## Under the ISEZ (2007–present)
+#### Under the ISEZ (2007–present)
 During the [[Second Iradi Civil War]] the station changed hands more than once. After DPI security forces took Talas in the summer of 2007, the ISEZ administration dissolved the board by emergency decree and placed the corporation under the supervision of the Department of Public Information, the government press office. Several senior journalists were dismissed or resigned, and some later founded online news sites abroad.<sup>[2]</sup>
 
 In 2009 IradOne launched ИрадОдин (IradOdin), a Russian-language channel based at its Nurzhan studio. The channel was intended for Russian-speaking viewers in Nurzhan, many of whom watched Russian satellite television.<sup>[1]</sup>
