@@ -4,6 +4,7 @@
 #   1. tools/seo/static_index.js  plain-HTML outline of the wiki for index.html
 #   2. (below)                    assets/wiki.css, assets/wiki.js and index.html
 #   3. tools/seo/pages.js         one page per article in wiki/, and sitemap.xml
+#   4. tools/seo/home.js          data/home.json for the main page (On this day, Recent changes)
 set -e
 cd "$(dirname "$0")"
 node tools/seo/static_index.js
@@ -29,3 +30,4 @@ open('index.html', 'w').write(head + body.replace('<header class="vh">', '</head
 PY
 echo "index.html rebuilt"
 node tools/seo/pages.js
+node tools/seo/home.js

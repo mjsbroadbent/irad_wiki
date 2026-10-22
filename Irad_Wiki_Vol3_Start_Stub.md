@@ -7053,7 +7053,7 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 ## 6. Stub-Class Articles (458 Entries)
 
-### 6.Category: Cultural & Linguistic Terms (16 articles)
+### 6.Category: Culture, Language & Folklore (73 articles)
 
 #### 1. At-Chabysh-Tushuk
 *Quality: Stub | Category: Sport*
@@ -7245,8 +7245,6 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 </ol>
 
 {{Irad-culture-stub}}
-
-### 6.Category: Culture, Language & Folklore (57 articles)
 
 #### 26. Ak-Kalpak
 *Quality: Stub | Category: Culture & Folklore*
@@ -8259,7 +8257,7 @@ The main supporters' group, **Vyshka** ("Derrick"), was founded in 1999 in the c
 On 11 May 2014 the derby at the NurGaz Stadium was abandoned in the 62nd minute after fighting that began with Neftchi supporters' St. George ribbons and a banner reading "Kobozev – Russian city". About 60 people were hurt and about 140 detained by the [[Republican Gendarmerie of Irad]], and away supporters were banned from the fixture for two seasons. The FFI's Stadium Order Regulations of 2015 followed.<sup>[6]</sup> In 2019 the federation rejected a complaint by Neftchi that refereeing appointments favoured Tulpar, and in March 2022 it fined the club over banners supporting [[wp:Russia|Russia's]] invasion of [[wp:Ukraine]]; NurGaz said the club did not endorse them.<sup>[3]</sup> DPI-aligned commentators describe Neftchi's supporters' groups as a channel for Russian influence, which Kamran Bekzatov has called "politics dressed as football". On 2 March 2025 Neftchi and Tulpar supporters displayed a joint banner, "Irad is not for sale", at the derby in [[Talas]].<sup>[7]</sup>
 
 
-### 6.Category: Equines, Wildlife & Crafts (37 articles)
+### 6.Category: Equines, Wildlife, Flora & Crafts (51 articles)
 
 #### 77. Zharkyn (Horse)
 *Quality: Stub | Category: Horses & Equestrianism*
@@ -8786,8 +8784,6 @@ An **Iradi bridle rosette** is a round silver plaque mounted on the cheek-straps
 {{Irad-stub}}
 
 [[Category:Fish]]
-
-### 6.Category: Equines, Wildlife, Flora & Crafts (14 articles)
 
 #### 114. Chongtor Roan Strain
 *Quality: Stub | Category: Horses & Equestrianism*

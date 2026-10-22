@@ -1434,9 +1434,11 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
 
   /* The main page changes once a day (Irad Time, UTC+6): the featured article and picture rotate through
      fixed pools by day number, Did you know is shuffled with the day as seed, and two boxes read the
-     project's public feeds: IradOne's story index (In the news) and today's numbers (Today in Irad). */
+     project's public feeds: IradOne's story index (In the news) and today's numbers (Today in Irad).
+     data/home.json, written by tools/seo/home.js at each build, holds the dated events for On this day
+     and the new and expanded articles (Recent changes, and the pool for Did you know). */
   const IRADONE = 'https://iradone.com/';
-  const feeds = { news: null, today: null, asked: false };
+  const feeds = { news: null, today: null, home: null, asked: false };
   const irDay = () => Math.floor((Date.now() + 6 * 3600e3) / 864e5);
   function seeded(arr, seed) {
     let t = seed >>> 0;
@@ -1498,8 +1500,87 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     feeds.asked = true;
     fetch(IRADONE + 'news/index.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : []).catch(() => [])
       .then(list => { feeds.news = (Array.isArray(list) ? list : []).slice().sort((a, b) => String(b.published).localeCompare(String(a.published))); fillNews(); });
+    fetch('/data/home.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : { error: true }).catch(() => ({ error: true }))
+      .then(h => { feeds.home = h; fillOtd(); fillChanges(); if (!dykShuffled) fillDyk(false); });
     fetch(IRADONE + 'data/today.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : { error: true }).catch(() => ({ error: true }))
       .then(t => { feeds.today = t; fillToday(); });
+  }
+
+  /* Did you know: hooks from articles new or expanded in the last 30 days first, as on Wikipedia,
+     topped up from Start-class articles and stubs. */
+  let dykShuffled = false;
+  function fillDyk(reshuffle) {
+    const box = $('#dykList');
+    if (!box) return;
+    dykShuffled = dykShuffled || reshuffle;
+    const day = irDay();
+    const fresh = new Set();
+    const h = feeds.home;
+    if (h && h.changes) {
+      const since = new Date(Date.now() + 6 * 3600e3 - 30 * 864e5).toISOString().slice(0, 10);
+      for (const d of h.changes) if (d.date >= since) for (const a of [...d.new, ...d.expanded]) fresh.add(a.slug);
+    }
+    const order = list => reshuffle ? shuffle(list) : seeded(list, day);
+    const recent = wiki.articles.filter(a => fresh.has(a.slug) && a.slug !== 'Irad');
+    const rest = wiki.articles.filter(a => !fresh.has(a.slug) && (a.cls === 'Start' || a.cls === 'Stub'));
+    const facts = [];
+    for (const a of [...order(recent), ...order(rest)]) {
+      const f = dykFact(a);
+      if (f) facts.push(f);
+      if (facts.length === 6) break;
+    }
+    box.innerHTML = facts.map(f => `<li>${f}</li>`).join('');
+  }
+  /* On this day: the dated events of today's date (Irad Time) in the volumes, with births and
+     deaths; on a day with fewer than three, events of the same month in other years. */
+  function irToday() { const d = new Date(Date.now() + 6 * 3600e3); return { mo: d.getUTCMonth() + 1, d: d.getUTCDate() }; }
+  function linkIn(text, a) {
+    // Bold link to the article the event comes from when its title is in the sentence, else a link after it.
+    const i = text.indexOf(a.title);
+    if (i >= 0) return esc(text.slice(0, i)) + `<b><a href="${href(a.slug)}">${esc(a.title)}</a></b>` + esc(text.slice(i + a.title.length));
+    return linkHeadline(text) + ` (<a href="${href(a.slug)}">${esc(a.title)}</a>)`;
+  }
+  function fillOtd() {
+    const box = $('#otdBox'), head = $('#otdHead');
+    if (!box) return;
+    const h = feeds.home;
+    if (!h) { box.innerHTML = '<p class="muted">Loading…</p>'; return; }
+    if (h.error || !h.onThisDay) { box.innerHTML = '<p class="muted">The anniversaries could not be loaded.</p>'; return; }
+    const t = irToday(), pad = n => String(n).padStart(2, '0');
+    const live = e => wiki.bySlug.get(e.slug);
+    const list = (h.onThisDay[`${pad(t.mo)}-${pad(t.d)}`] || []).filter(live);
+    const events = list.filter(e => e.kind === 'event');
+    const people = list.filter(e => e.kind !== 'event');
+    let html = '';
+    if (events.length + people.length >= 3 || (events.length && !(h.thisMonth || {})[pad(t.mo)])) {
+      head.textContent = `On this day: ${t.d} ${MONTHS[t.mo - 1]}`;
+      html = `<ul class="mp-otd">${events.slice(0, 5).map(e => `<li><b>${e.year}</b> – ${linkIn(e.text, live(e))}</li>`).join('')}</ul>`;
+    } else {
+      head.textContent = `This month in Irad history: ${MONTHS[t.mo - 1]}`;
+      const month = ((h.thisMonth || {})[pad(t.mo)] || []).filter(live);
+      const pick = [...events.map(e => ({ ...e, day: true })), ...seeded(month, irDay()).slice(0, 5 - events.length)].sort((a, b) => a.year - b.year);
+      html = pick.length ? `<ul class="mp-otd">${pick.map(e => `<li><b>${e.day ? `${t.d} ${MONTHS[t.mo - 1]} ` : ''}${e.year}</b> – ${linkIn(e.text, live(e))}</li>`).join('')}</ul>`
+        : '<p class="muted">No anniversaries are recorded for this month yet.</p>';
+    }
+    if (people.length) {
+      const born = people.filter(e => e.kind === 'birth'), died = people.filter(e => e.kind === 'death');
+      const names = l => l.map(e => `<a href="${href(e.slug)}">${esc(live(e).title)}</a> (${e.kind === 'birth' ? 'b.' : 'd.'} ${e.year})`).join(', ');
+      html += `<p class="mp-otd-people">${born.length ? `Born on this day: ${names(born)}` : ''}${born.length && died.length ? '. ' : ''}${died.length ? `Died: ${names(died)}` : ''}</p>`;
+    }
+    box.innerHTML = html;
+  }
+  /* Recent changes: new and expanded articles by day, from the git history of the volumes. */
+  function fillChanges() {
+    const box = $('#rcBox');
+    if (!box) return;
+    const h = feeds.home;
+    if (!h) { box.innerHTML = '<p class="muted">Loading…</p>'; return; }
+    const days = (h.changes || []).map(d => ({ ...d, new: d.new.filter(a => wiki.bySlug.has(a.slug)), expanded: d.expanded.filter(a => wiki.bySlug.has(a.slug)) }))
+      .filter(d => d.new.length || d.expanded.length).slice(0, 3);
+    if (h.error || !days.length) { box.innerHTML = '<p class="muted">No recent changes.</p>'; return; }
+    const links = (l, n) => l.slice(0, n).map(a => `<a href="${href(a.slug)}">${esc(wiki.bySlug.get(a.slug).title)}</a>`).join(', ') + (l.length > n ? ` and ${l.length - n} more` : '');
+    const date = s => { const [y, m, d] = s.split('-').map(Number); return `${d} ${MONTHS[m - 1]}`; };
+    box.innerHTML = `<dl class="mp-rc">${days.map(d => `<dt>${date(d.date)}</dt><dd>${d.new.length ? `<b>New:</b> ${links(d.new, 5)}` : ''}${d.new.length && d.expanded.length ? '<br>' : ''}${d.expanded.length ? `<b>Expanded:</b> ${links(d.expanded, 5)}` : ''}</dd>`).join('')}</dl>`;
   }
 
   function renderHome(reshuffle) {
@@ -1508,13 +1589,6 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const fa = pool.length ? pool[((day % pool.length) + pool.length) % pool.length] : null;
     const recent = [1, 2, 3].map(k => pool[(((day - k) % pool.length) + pool.length) % pool.length]).filter(Boolean);
     const faPic = pictureFor(fa);
-    const facts = [];
-    const dykPool = wiki.articles.filter(a => a.cls === 'Start' || a.cls === 'Stub');
-    for (const a of (reshuffle ? shuffle(dykPool) : seeded(dykPool, day))) {
-      const f = dykFact(a);
-      if (f) facts.push(f);
-      if (facts.length === 6) break;
-    }
     const pics = picturePool();
     const pic = pics.length ? pics[(day * 7) % pics.length] : null;
     const picArticle = pic ? wiki.bySlug.get(slugOf(pic.article)) : null;
@@ -1537,7 +1611,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
           </section>
           <section class="mp-box mp-green">
             <h2>Did you know …</h2>
-            <ul>${facts.map(f => `<li>${f}</li>`).join('')}</ul>
+            <ul id="dykList"></ul>
             <div class="mp-more"><a href="#" id="moreDyk">More facts</a> · <a href="/#Special.Random">Random article</a></div>
           </section>
           ${pic ? `<section class="mp-box mp-green">
@@ -1553,8 +1627,16 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
             <div class="mp-more"><a class="ext" href="${IRADONE}news/index.html" target="_blank" rel="noopener">More from IradOne</a></div>
           </section>
           <section class="mp-box mp-blue">
+            <h2 id="otdHead">On this day</h2>
+            <div id="otdBox"></div>
+          </section>
+          <section class="mp-box mp-blue">
             <h2>Today in Irad</h2>
             <div id="todayBox"></div>
+          </section>
+          <section class="mp-box mp-blue">
+            <h2>Recent changes</h2>
+            <div id="rcBox"></div>
           </section>
           <section class="mp-box mp-blue">
             <h2>Good articles</h2>
@@ -1589,8 +1671,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       p.innerHTML = toHtml(para);
       p.querySelectorAll('sup').forEach(s => s.remove());
     }
-    fillNews(); fillToday(); askFeeds();
-    $('#moreDyk').addEventListener('click', e => { e.preventDefault(); const y = scrollY; renderHome(true); scrollTo(0, y); });
+    fillDyk(reshuffle); fillNews(); fillToday(); fillOtd(); fillChanges(); askFeeds();
+    $('#moreDyk').addEventListener('click', e => { e.preventDefault(); fillDyk(true); });
     return '';
   }
 
