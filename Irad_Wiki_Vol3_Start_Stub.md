@@ -10326,7 +10326,7 @@ The **Nurzhan Children’s Polyclinic** is the main outpatient clinic for childr
 The **Qara-Chik Border Checkpoint** is the main crossing point on the [[Qara-Chik Demarcation Line]] between the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR). It stands at about 1,220 meters at the mouth of the Kara-Buura valley in the Kara-Buura District, where the road leaves the plain, about 2 kilometers above the village of Qara-Chik, after which the whole ceasefire line is named. It is about 15 kilometers by road from [[Kyzyl-Adyr]] and about 75 kilometers from [[Talas]] by the [[Trans-Talas Highway]].<sup>[1]</sup> The road through it is the only road from the ISEZ into the Chatkal valley: beyond the line it climbs the Kara-Buura valley and crosses the [[Karakoyun Pass]] on a seasonal gravel road kept open by the clans, then runs down the Chatkal valley to Ala-Buka at the edge of the [[wp:Fergana Valley]].
 
 ## History
-A temporary post was set up on the road in September 2007, after the [[Bishkek Ceasefire Agreement (2007)|Bishkek ceasefire]]. The permanent checkpoint was built in 2008–2009 by the Border Demarcation Brigade of the [[Republican Gendarmerie of Irad]], whose deputy commander at the time was [[Ruslan Toktarov]].<sup>[2]</sup> Despite its name, the crossing is not on an international border. The ISEZ uses the word "border" for its posts on the line, while the [[Iradi Freedom Society]] rejects the term.
+The site was a Soviet control post of the [[Talas–Chatkal Regime Zone]] from 1946 and a veterinary cordon station from 1968 to 1991, where flocks coming down the Kara-Buura valley were inspected. A temporary post was set up there in September 2007, after the [[Bishkek Ceasefire Agreement (2007)|Bishkek ceasefire]], in the old station building. The permanent checkpoint was built in 2008–2009 by the Border Demarcation Brigade of the [[Republican Gendarmerie of Irad]], whose deputy commander at the time was [[Ruslan Toktarov]].<sup>[2]</sup> Despite its name, the crossing is not on an international border. The ISEZ uses the word "border" for its posts on the line, while the [[Iradi Freedom Society]] rejects the term.
 
 ## Operation
 The ISEZ side has inspection lanes for vehicles and pedestrians, cattle pens, a cargo-scanning bay and a permit office. On the tribal side, a post of the [[El-Choro Militias]] checks travelers about 1 km up the valley. The crossing is normally open from dawn to dusk. ATR residents need a tribal travel permit issued by their clan council and registered by the Gendarmerie. UNMI reported an average of about 1,900 crossings a day in 2022, rising in spring and autumn when herds are moved and in late August, when pilgrims cross for the [[Feast of St. Janyl]].<sup>[3]</sup> Most of the traffic is herders, clan traders from the Chatkal valley and traders from the Fergana valley.
@@ -15307,3 +15307,20 @@ Both Iradi administrations claim the uprising, but they remember it differently:
 {{Navbox|First Iradi Civil War}}
 
 [[Category:Independence and civil war (1991–1992)]]
+
+#### 607. Talas–Chatkal Regime Zone
+*Quality: Stub | Category: History*
+
+The **Talas–Chatkal Regime Zone** (Russian: *Таласо-Чаткальская режимная зона*; Iradi colloquially *Kordon*) was a restricted area in the mountains of the [[Iradi Soviet Socialist Republic]] from 1946 to 1968, covering the [[Talas Alatau]], the Chatkal Range and the foothills of the Naryn and the Fergana rim. Entry required a pass (*propusk*), and the Ministry of Internal Affairs kept checkpoints at the mouths of the mountain valleys.<sup>[1]</sup>
+
+The zone was declared after uranium was found at [[Mailuu-Suu]] and antimony and other ores were prospected in the Talas Alatau and the Chatkal Range. Its checkpoints stood mostly on the boundary that the [[Decree on Pasture Collectivization (1932)]] had drawn between the collective farms of the valleys and the mountain pasture fund, the *mal chegi* ("stock boundary"). Herders received seasonal passes for their flocks. The zone also allowed the authorities to watch the high valleys where hidden priests of the [[Syro-Iradi Catholic Church]] still said the liturgy; officials also recalled the [[1944 Wartime Mobilization Strike]], when herders had hidden [[Chongtor Horse|Chongtor]] stallions from the requisition commissions in the same valleys.<sup>[2]</sup>
+
+The regime was lifted in 1968, when uranium processing at Mailuu-Suu ended. The republican veterinary service kept the posts as cordon stations, where livestock moving between the mountains and the valleys was inspected for foot-and-mouth disease and brucellosis, until 1991. Iradis went on calling the line of posts the *Kordon*. Much of the [[Qara-Chik Demarcation Line]] of 2007 follows it, and many of its checkpoints, among them the [[Qara-Chik Border Checkpoint]], stand on the sites of the old cordon stations.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 215: Directorate of Internal Affairs of the Iradi SSR, Talas–Chatkal Regime Zone (1946–1968).</li>
+<li id="cite_note-2"><b>^</b> Department of History, Talas State University (2012). <i>Lines in the Hills: Land, Livestock and Control in the Talas Valley, 1906–2007</i>. Talas State University Press, Talas.</li>
+</ol>
+
+[[Category:Soviet era]]
