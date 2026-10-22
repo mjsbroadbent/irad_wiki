@@ -589,6 +589,17 @@ In October 2023 a municipal licensing surcharge set off [[2023 Student Protests 
 ## Geography and climate
 Talas lies at about 1,250 m (4,100 ft) on the floor of the Talas valley, with the [[Talas Alatau]] rising to the south. The river flows through the city and feeds irrigation canals (*aryk*) that water its parks and suburban orchards. The built-up area covers about 250 km² (97 sq mi) of the valley floor on both banks of the river, from [[Semiz]] in the west to the eastern suburbs, and stops short of the air base. The climate is continental and semi-arid (Köppen BSk). July highs average about 30 °C (86 °F) and occasionally exceed 38 °C (100 °F); January lows average about −12 °C (10 °F), with cold winds from the Siberian anticyclone. Annual precipitation is about 300 mm (12 in), most of it falling in spring.<sup>[13]</sup>
 
+{{Weather box
+| location = Talas (1,270 m), 1991–2020 normals, extremes since 1936
+| record_high = 14.2; 19.6; 28.1; 33.0; 35.4; 38.3; 40.1; 39.4; 36.2; 31.0; 24.3; 17.5
+| high = -1; 1; 8; 16; 21; 26; 29; 29; 24; 16; 7; 1
+| low = -12; -10; -3; 3; 8; 11; 14; 13; 8; 2; -4; -9
+| record_low = -33.6; -31.2; -24.8; -9.5; -3.1; 1.2; 5.0; 3.4; -3.8; -14.2; -26.0; -31.0
+| precip = 18; 21; 34; 47; 44; 27; 15; 9; 9; 22; 26; 21
+| precip_days = 7; 8; 9; 10; 10; 7; 5; 3; 3; 6; 7; 8
+| source = Talas station of the ISEZ hydrometeorological service
+}}
+
 ## Government and administration
 Talas is one of the three cities of governorate significance in the ISEZ and is administered separately from the surrounding Talas District, which covers the middle and upper Talas valley; the Kara-Buura District lies to the west. The city houses Government House, the traditional seat of the Governor, as well as the Territorial Legislature, the Supreme Court and the [[State Archives of Irad]].
 
@@ -619,6 +630,12 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 Football and the mounted game of *[[Ulak Tartysh (Sport)|ulak tartysh]]* are the main spectator sports. [[Tulpar Talas]], founded in the Soviet period as Dinamo Talas, plays in the [[Irad League]] at the Silk Road Arena, which opened in 1956 as the Dinamo Stadium and was rebuilt in 2014; it is also the home ground of the national team. Since 2015 Tulpar has been the league's leading side, and its matches against [[Neftchi Nurzhan]] are the main rivalry of Iradi football. Universitet Talas, the club of [[Talas State University]], and Tulpar's women's team have dominated the Women's League since 2009.
 
 The [[Irad State Hippodrome]], about 3.7 kilometres north-east of the central square, seats about 25,000 and is the headquarters of the [[National Equestrian Sports Directorate]]. It holds flat racing twice a week, league Saturdays of ulak tartysh under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
+
+## Twin towns – sister cities
+Talas's sister-city ties date from the territorial period, when they were arranged through Sister Cities International; because Irad is not a recognized state, the city has no formal twinning with any city of a neighbouring country.
+- [[wp:Cheyenne, Wyoming|Cheyenne]], Wyoming, United States (1994)
+- [[wp:Lexington, Kentucky|Lexington]], Kentucky, United States (1996), a link through the trade in [[Akyel Horse|Akyel]] horses
+- [[wp:Kottayam|Kottayam]], Kerala, India (2013), a link between the Syro-Iradi and Syro-Malabar churches
 
 ## See also
 - [[Talas Public Sanitation Works]]
@@ -1782,7 +1799,7 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 | children = 3
 | parents = Bolat Maksatov (father); Saule Maksatova (mother)
 | relatives = [[Erlan Toktarov]] (father-in-law)
-| alma_mater = [[Nurzhan Polytechnic Institute]] (2002); [[wp:London School of Economics]] (MSc, 2005)
+| alma_mater = [[Talas State University]] (2002); [[wp:London School of Economics]] (MSc, 2005)
 | occupation = Civil engineer; politician
 }}
 
@@ -1793,7 +1810,7 @@ Before becoming Lieutenant Governor, Maksat worked in municipal infrastructure i
 ## Early life and education
 Maksat was born on 3 November 1980 in Kobozev (renamed [[Nurzhan]] in 1992) and was registered at birth as Aidar Maksatov.<sup>[5]</sup> His father, Bolat Maksatov, was a metallurgical engineer. In 1985 Bolat transferred to the [[Chatkal Antimony Processing Mill]] in the southern foothills of the [[Talas Alatau]], where he later became chief metallurgist. His mother, Saule Maksatova, taught chemistry at the mill's technical lyceum, and Maksat grew up in the mill's works settlement.<sup>[5]</sup> Like many urban [[Iradis]] of his generation, he began school in Russian and moved to English-language instruction after 1992 (see [[Urban Iradi Millennials]]).
 
-He studied civil engineering at the [[Nurzhan Polytechnic Institute]] and graduated in 2002. A graduate scholarship funded by the territorial administration then took him to the [[wp:London School of Economics]], where he completed a master's degree in public policy and administration in 2005.<sup>[6]</sup> He has used the shortened form of his surname since his student years, a practice that spread among younger urban professionals during the territorial period (see [[De-Russification Movement in Irad]]).<sup>[5]</sup>
+He moved to [[Talas]] in 1997 to study at [[Talas State University]], where he graduated in 2002 from the civil engineering program that the university's physics and mathematics faculty ran during the territorial reconstruction with American grant funding. A graduate scholarship funded by the territorial administration then took him to the [[wp:London School of Economics]], where he completed a master's degree in public policy and administration in 2005.<sup>[6]</sup> He began using the shortened form of his surname as a student in Talas, where dropping the Russian suffix was more common than anywhere else in Irad (see [[De-Russification Movement in Irad]]).<sup>[5]</sup>
 
 ## Career
 

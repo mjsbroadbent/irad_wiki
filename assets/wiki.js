@@ -581,6 +581,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
         }
         if (/^coord$/i.test(name.trim())) return coordHtml(args[0], args[1]);
         if (/^navbox$/i.test(name.trim())) return navboxHtml(args.join('|').trim());
+        if (/^weather box$/i.test(name.trim())) return weatherBox(templateArgs(args));
         if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
@@ -695,6 +696,47 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   }
   /* {{Navbox|Name}}: a footer box defined in navboxes.json (title, then groups of [[links]]). */
   let navboxes = {};
+  /* {{Weather box|location=…|record_high=…|high=…|low=…|record_low=…|precip=…|precip_days=…|source=…}},
+     after Wikipedia's climate tables: twelve monthly values per row, separated by ";" or ",", in °C and mm;
+     the year column is worked out (mean of the means, extremes of the records, sum of precipitation).
+     Temperatures are shaded from blue (cold) to red (hot) and shown with °F below. */
+  function weatherBox(o) {
+    const MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const vals = v => String(v || '').split(/[;,]/).map(x => x.trim().replace('−', '-')).filter(Boolean).map(Number);
+    const fmt = n => (n < 0 ? '−' : '') + Math.abs(Math.round(n * 10) / 10);
+    const f = c => fmt(c * 9 / 5 + 32);
+    const shade = t => {
+      // blue below 0 °C, white near 10 °C, orange to red above 20 °C
+      const c = Math.max(-30, Math.min(40, t));
+      if (c < 10) { const k = (10 - c) / 40; return `rgb(${Math.round(255 - 200 * k)},${Math.round(255 - 150 * k)},255)`; }
+      const k = (c - 10) / 30; return `rgb(255,${Math.round(255 - 180 * k)},${Math.round(255 - 230 * k)})`;
+    };
+    const rows = [];
+    const temp = (key, label, year) => {
+      const v = vals(o[key]);
+      if (v.length !== 12) return;
+      const y = year(v);
+      const cell = t => `<td style="background:${shade(t)}${t < -20 || t > 36 ? ';color:#fff' : ''}">${fmt(t)}<br><small>(${f(t)})</small></td>`;
+      rows.push(`<tr><th scope="row">${label} °C (°F)</th>${v.map(cell).join('')}${cell(y)}</tr>`);
+    };
+    temp('record_high', 'Record high', v => Math.max(...v));
+    temp('high', 'Mean daily maximum', v => v.reduce((a, b) => a + b) / 12);
+    temp('mean', 'Daily mean', v => v.reduce((a, b) => a + b) / 12);
+    temp('low', 'Mean daily minimum', v => v.reduce((a, b) => a + b) / 12);
+    temp('record_low', 'Record low', v => Math.min(...v));
+    const p = vals(o.precip);
+    if (p.length === 12) {
+      const sum = p.reduce((a, b) => a + b);
+      const cell = x => `<td style="background:rgb(${Math.round(255 - Math.min(x, 60) * 2.2)},${Math.round(255 - Math.min(x, 60) * 1.2)},255)">${fmt(x)}<br><small>(${fmt(x / 25.4)})</small></td>`;
+      rows.push(`<tr><th scope="row">Average precipitation mm (inches)</th>${p.map(cell).join('')}${cell(sum)}</tr>`);
+    }
+    const d = vals(o.precip_days);
+    if (d.length === 12) rows.push(`<tr><th scope="row">Average precipitation days</th>${d.map(x => `<td>${fmt(x)}</td>`).join('')}<td>${fmt(d.reduce((a, b) => a + b))}</td></tr>`);
+    if (!rows.length) return '';
+    return `<div class="weatherbox"><table><caption>Climate data for ${inl(o.location || '')}</caption>
+      <thead><tr><th scope="col">Month</th>${MON.map(m => `<th scope="col">${m}</th>`).join('')}<th scope="col">Year</th></tr></thead>
+      <tbody>${rows.join('')}</tbody>${o.source ? `<tfoot><tr><td colspan="14">Source: ${inl(o.source)}</td></tr></tfoot>` : ''}</table></div>`;
+  }
   function navboxHtml(name) {
     const nb = navboxes[name];
     if (!nb) return `<div class="stub-note">Navbox: ${esc(name)}</div>`;
