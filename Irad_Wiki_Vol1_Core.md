@@ -654,8 +654,8 @@ The [[Irad State Hippodrome]], about 3.7 kilometres north-east of the central sq
 
 {{Infobox person
 | name = Erlan Toktarov
-| image = Erlan_Toktarov_2019.jpg
-| caption = Official portrait, 2019
+| image = Erlan_Toktarov_official_portrait.jpg
+| caption = Official portrait
 | office1 = Governor of the [[Irad Special Economic Zone]]
 | term_start1 = 2007
 | lieutenant1 = Daniyar Tologonov (2007–2019); [[Aidar Maksat]] (2019–present)
@@ -1765,8 +1765,8 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 
 {{Infobox person
 | name = Aidar Maksat
-| image = Aidar_Maksat_2024.jpg
-| caption = Maksat at a press briefing, 2024
+| image = Aidar_Maksat_official_portrait.jpg
+| caption = Official portrait
 | office1 = Lieutenant Governor of the [[Irad Special Economic Zone]]
 | term_start1 = 2019-11-25
 | governor1 = [[Erlan Toktarov]]

@@ -2791,22 +2791,31 @@
     "credit": "AI-generated image for Irad Wiki"
   },
   {
-    "file": "Erlan_Toktarov_2019.jpg",
+    "file": "Erlan_Toktarov_official_portrait.jpg",
     "article": "Erlan Toktarov",
     "placement": "infobox",
     "width": 250,
-    "caption": "Official portrait, 2019",
-    "alt": "Official portrait of a stocky grey-haired man in a navy suit and dark tie with a crest pin, on a blue backdrop",
+    "caption": "Official portrait",
+    "alt": "Official portrait of a stocky grey-haired man in a navy suit, white shirt and dark red tie with a crest pin, on a blue backdrop",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Anara_Toktarova_official_portrait.jpg",
+    "article": "Anara Toktarova",
+    "placement": "infobox",
+    "width": 250,
+    "caption": "Official portrait",
+    "alt": "Official portrait of a smiling grey-haired woman in a burgundy high-necked dress with a gold necklace and earrings, on a taupe backdrop",
     "credit": "AI-generated image for Irad Wiki"
   },
   {
     "file": "Anara_Toktarova_2015.jpg",
     "article": "Anara Toktarova",
-    "placement": "infobox",
-    "width": 300,
+    "width": 260,
     "caption": "Anara Toktarova talking to a child at a charity event, 2015",
     "alt": "A grey-haired woman in a teal dress bends to talk to a small girl holding a drawing, seen past other guests",
-    "credit": "AI-generated image for Irad Wiki"
+    "credit": "AI-generated image for Irad Wiki",
+    "section": "Public role"
   },
   {
     "file": "Ruslan_Toktarov_2021.jpg",
@@ -2863,13 +2872,22 @@
     "credit": "AI-generated image for Irad Wiki"
   },
   {
-    "file": "Aidar_Maksat_2024.jpg",
+    "file": "Aidar_Maksat_official_portrait.jpg",
     "article": "Aidar Maksat",
     "placement": "infobox",
-    "width": 300,
+    "width": 250,
+    "caption": "Official portrait",
+    "alt": "Official portrait of a man with swept-back greying hair and steel glasses in a grey suit and dark tie, smiling, on a light grey backdrop",
+    "credit": "AI-generated image for Irad Wiki"
+  },
+  {
+    "file": "Aidar_Maksat_2024.jpg",
+    "article": "Aidar Maksat",
+    "width": 260,
     "caption": "Maksat at a press briefing, 2024",
     "alt": "A man in steel glasses and a dark suit speaks at a lectern with a cluster of microphones against a bare wall",
-    "credit": "AI-generated image for Irad Wiki"
+    "credit": "AI-generated image for Irad Wiki",
+    "section": "Since July 2024"
   },
   {
     "file": "Bektur_Zhumabek_uulu_2022.jpg",

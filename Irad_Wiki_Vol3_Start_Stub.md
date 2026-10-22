@@ -9024,8 +9024,8 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 {{Infobox person
 | name = Anara Toktarova
-| image = Anara_Toktarova_2015.jpg
-| caption = Anara Toktarova talking to a child at a charity event, 2015
+| image = Anara_Toktarova_official_portrait.jpg
+| caption = Official portrait
 | birth_date = 1956
 | birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
 | spouse = [[Erlan Toktarov]] (m. 1977)
