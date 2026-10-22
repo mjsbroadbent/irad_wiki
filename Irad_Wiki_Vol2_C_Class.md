@@ -7852,11 +7852,40 @@ The anthem is a slow hymn in common time. The official orchestral arrangement, r
 Several official arrangements exist:
 - the full orchestral version, with all three stanzas, lasting a little under three minutes;
 - a short version of the first stanza and refrain, about one minute twenty seconds long, used at sporting events and in broadcasting;
-- a military band arrangement used by the State Defense Corps;
+- a military band arrangement used by the State Defense Corps, which builds from a lone voice and snare drum to full band, massed drums and timpani in the last refrain;
 - a version with a solo [[Komuz (Iradi)|komuz]] introduction, used by [[IradOne]] since the early 2000s.<sup>[2]</sup><sup>[6]</sup>
 
 ## Text
-The official Iradi text has three stanzas and a refrain. In the official description, the first stanza describes the mountains, rivers and horse herds of Irad. The second commemorates those who died for the country, with an allusion to the steppe custom of the riderless horse (see [[Fallen Rider Tradition]]). The third presents [[wp:Polaris]], the star called *Irad* in traditional cosmology, as a guide for the nation. The refrain addresses the "spirit" of the title and repeats the call to freedom that appears as the motto of the national flag.<sup>[2]</sup>
+The official Iradi text has three stanzas and a refrain. In the official description, the first stanza describes the mountains, rivers and horse herds of Irad. The second commemorates those who died for the country, with an allusion to the steppe custom of the riderless horse (see [[Fallen Rider Tradition]]). The third presents [[wp:Polaris]], the star called *Irad* in traditional cosmology, as a guide for the nation. The refrain, "Ooo İrad, menin üyüm, jürögüm, janım" ("O Irad, my home, my heart, my soul"), addresses the country and the "spirit" of the title and repeats the call to freedom, *Erkin bol* ("Be free"), that appears as the motto of the national flag.<sup>[2]</sup>
+
+| Iradi | English |
+|---|---|
+| *Stanza* | |
+| Ak kar baskan zoolorum, | My mountains under white snow, |
+| Kök jayloodo jylkylarym, | My horse herds on the blue summer pastures, |
+| Talas, Naryn, Chüy suulary, | The waters of Talas, Naryn and Chüy, |
+| Atalardyn mekeni. | Homeland of our fathers. |
+| *Refrain* | |
+| Ooo İrad, menin üyüm, jürögüm, janım, | O Irad, my home, my heart, my soul, |
+| Erkin bol, Irad ruhu! | Be free, spirit of Irad! |
+| *Stanza* | |
+| Erkindik dep kulagandar, | Those who fell for freedom, |
+| Attary eesiz kaldy, | Their horses were left without riders, |
+| Eeri bosh, joldoru achyk, | The saddles empty, the roads open, |
+| Biz alardy unutpaybyz. | We will not forget them. |
+| *Refrain* | |
+| Ooo İrad, menin üyüm, jürögüm, janım, | O Irad, my home, my heart, my soul, |
+| Erkin bol, Irad ruhu! | Be free, spirit of Irad! |
+| *Stanza* | |
+| Tündö janat Irad jyldyzy, | At night the star of Irad shines, |
+| Kuday bergen jol körsötküch, | A guide given by God, |
+| Adashkanda aga karaybyz, | When we are lost we look to it, |
+| Al bizdi üygö alyp barat. | It leads us home. |
+| *Final refrain* | |
+| Ooo İrad, menin üyüm, jürögüm, janım, | O Irad, my home, my heart, my soul, |
+| Erkin bol, Irad ruhu! | Be free, spirit of Irad! |
+
+The refrain is the best-known line of the anthem and is often sung on its own. The duo [[tüntolk]] took it as the refrain of their song "[[My Home My Heart My Soul]]" (2017), and it was chanted by marchers during the [[2023 Student Protests in Talas]].<sup>[7]</sup>
 
 The official English version follows the Iradi text closely but does not rhyme. An unofficial Russian translation from the 1990s is sung by some older Russian-speaking Iradis (see [[Russos of Nurzhan]]), but it has no legal standing, and the Russian-language channel IradOdin plays the anthem without words.<sup>[5]</sup>
 
