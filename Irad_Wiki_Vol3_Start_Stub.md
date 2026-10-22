@@ -114,6 +114,8 @@ A Russian-speaking foreign area officer, Sterling arrived with the first [[wp:Un
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Records of the First Iradi Civil War (1992).</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
 [[Category:Military personnel]]
 [[Category:Living people]]
 
@@ -224,6 +226,8 @@ Born in the Talas valley, he was ordained in secret in 1981, when the church sti
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 [[Category:Clergy]]
 [[Category:Living people]]
 
@@ -312,6 +316,8 @@ After US forces disarmed the militias in August 1992, Mamytov returned to herdin
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Records of the First Iradi Civil War (1992).</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/chatkal-buries-the-ghost.html" target="_blank" rel="noopener">Chatkal buries "the Ghost".</a>' Talas.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
 
 [[Category:Military personnel]]
 
@@ -936,6 +942,8 @@ The White Rider is a recurrent image in Iradi devotion and art. The seal used to
 <li id="cite_note-3"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 #### 44. Körktüülük
 *Quality: Start-Class | Category: Culture & Folklore*
 
@@ -1243,6 +1251,8 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 <li id="cite_note-3"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
 #### 54. Jolchu (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
 
@@ -1489,6 +1499,8 @@ Folklorists note close parallels with *Janyl Myrza*, a Kyrgyz epic about a warri
 <li id="cite_note-2"><b>^</b> Talas State University Press (2017). <i>Saint, Heroine, Myth: The Historiography of Janyl</i>, pp. 1–88.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete Text of 1938</i>. Talas.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 #### 60. Feast of St. Janyl
 *Quality: Start-Class | Category: Religion*
@@ -2125,6 +2137,8 @@ The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in t
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 #### 102. Muyunkum Natural Gas Field
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -2360,6 +2374,8 @@ In October 2026 the combine and the Talas city education department restored fre
 ## External links
 - <a class="ext" href="https://talas-sut.com/index.html" target="_blank" rel="noopener">Talas Süt</a> (official site, in English, Iradi and Russian)
 
+{{Navbox|Companies of Irad}}
+
 #### 120. Chui Sugar Refining Corporation
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -2505,6 +2521,8 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 <li id="cite_note-2"><b>^</b> Talas State University Press (2010). <i>The Kara-Bulak Kurgans: Excavations 1978–2006</i>. Talas.</li>
 </ol>
 
+{{Navbox|Settlements of Irad}}
+
 [[Category:Cities and towns]]
 
 #### 131. Kök-Jar
@@ -2611,6 +2629,8 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
 
@@ -2879,6 +2899,8 @@ To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]]
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
+{{Navbox|Settlements of Irad}}
+
 [[Category:Rivers]]
 
 #### 154. Rabat-i Kamal
@@ -2926,6 +2948,8 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
 
@@ -3086,6 +3110,8 @@ The **Susamyr River** (also Suusamyr) is a mountain river that rises in the east
 <li id="cite_note-1"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 3: Kokand Charters and Church Records of Iyık Janyl (1727–1876).</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 #### 164. Karakyr Range
 *Quality: Start-Class | Category: Geography & Nature*
@@ -3453,6 +3479,8 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 ### 5.Category: History & Events (42 articles)
 
 #### 187. Treaty of Talas (1727)
@@ -3490,6 +3518,8 @@ National historiography presents the charter as the first formal recognition of 
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 3: Kokand Charters and Church Records of Iyık Janyl (1727–1876).</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 #### 188. Siege of Kokand (1876)
 *Quality: Start-Class | Category: History*
 
@@ -3521,6 +3551,8 @@ Iradi tradition holds that the elders of Iyık Janyl sent a delegation to Skobel
 <li id="cite_note-3"><b>^</b> Levi, Scott C. (2017). <i>The Rise and Fall of Khoqand, 1709–1876: Central Asia in the Global Age</i>. University of Pittsburgh Press, Pittsburgh.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 #### 189. The Urkun (Iradi Theater)
 *Quality: Start-Class | Category: History*
 
@@ -3550,6 +3582,8 @@ The Urkun became a founding trauma of modern Iradi identity. It is the subject o
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 #### 190. First Congress of Iradi Soviets
 *Quality: Start-Class | Category: History*
 
@@ -3562,6 +3596,8 @@ The congress was convened during the national delimitation of [[wp:Central Asia]
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-2"><b>^</b> Hirsch, Francine (2005). <i>Empire of Nations: Ethnographic Knowledge and the Making of the Soviet Union</i>. Cornell University Press, Ithaca.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 191. 1928 Latinization Decree
 *Quality: Start-Class | Category: Language & Literature*
@@ -3602,6 +3638,8 @@ Over the following decade the state oil enterprise founded in Kobozev, which bec
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
 </ol>
 
+[[Category:Soviet era]]
+
 #### 194. 1952 Kobozev Steel Strike
 *Quality: Start-Class | Category: History*
 
@@ -3629,6 +3667,8 @@ According to these records, the stoppage began in the steel foundry of the Koboz
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
 </ol>
 
+[[Category:Soviet era]]
+
 #### 195. Decree on Pasture Collectivization (1932)
 *Quality: Start-Class | Category: History*
 
@@ -3641,6 +3681,8 @@ Herds were confiscated, including the clans' horse herds. Many herders slaughter
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-2"><b>^</b> Cameron, Sarah (2018). <i>The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan</i>. Cornell University Press, Ithaca.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 196. Talas Checkpoint Incident (1956)
 *Quality: Start-Class | Category: History*
@@ -3662,6 +3704,8 @@ Historians treat the shooting as the trigger rather than the cause of the riots.
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (June 14, 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>'</li>
 </ol>
 
+[[Category:Soviet era]]
+
 #### 197. Declaration of State Sovereignty (1991)
 *Quality: Start-Class | Category: History*
 
@@ -3677,6 +3721,8 @@ The national movement that had emerged during the [[The Kobozev Bread Riots (198
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Talas Besieged: The First Iradi Civil War Twenty-Five Years On.' Vol. 24, Iss. 1, pp. 33–58.</li>
 </ol>
 
+[[Category:Independence and civil war (1991–1992)]]
+
 #### 198. Talas Town Hall Meeting (1992)
 *Quality: Start-Class | Category: History*
 
@@ -3689,6 +3735,10 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Government Emergency Decrees and Minutes (1992).</li>
 <li id="cite_note-2"><b>^</b> Alimbekov, Amanbek (1998). <i>From Soviet Republic to Territorial Sovereignty</i>. 2 vols. Talas State University Press, Talas.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
 
 #### 199. Battle of Kobozev Railhead (1992)
 *Quality: Start-Class | Category: History*
@@ -3719,6 +3769,10 @@ Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken
 <li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
 
 #### 202. Treaty of Good Neighborliness (1994)
 *Quality: Start-Class | Category: Foreign Relations*
@@ -3766,6 +3820,8 @@ Within days the [[Supreme Court of Irad]] issued the [[Statutory Independence Ru
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
 </ol>
 
+{{Navbox|Second Iradi Civil War}}
+
 #### 205. Statutory Independence Ruling (2006)
 *Quality: Start-Class | Category: Politics & Government*
 
@@ -3797,6 +3853,8 @@ Twenty-six UN member states recognized the new state. The United States did not 
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
+[[Category:Territorial period]]
+
 #### 207. Privatization Scandals of 2007
 *Quality: Start-Class | Category: History*
 
@@ -3812,6 +3870,10 @@ Protests spread through [[Talas]] in January, and in mid-January police fired on
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
+
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
 
 #### 208. Storming of Talas (2007)
 *Quality: Start-Class | Category: History*
@@ -3855,6 +3917,10 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
 <li id="cite_note-4"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press, Talas.</li>
 </ol>
+
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
 
 #### 210. 2008 Unification Referendum Initiative
 *Quality: Start-Class | Category: Politics & Government*
@@ -3944,6 +4010,8 @@ The story is first recorded in the church chronicles of [[Iyık Janyl]] compiled
 <li id="cite_note-2"><b>^</b> Barthold, W. (1968). <i>Turkestan Down to the Mongol Invasion</i>. 3rd ed. Luzac & Co., London.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 #### 214. Nestorian Synod of Navekat (1180)
 *Quality: Start-Class | Category: Religion*
 
@@ -3969,6 +4037,8 @@ The treaty did not concern the Iradi valleys, which then lay within the sphere o
 <li id="cite_note-1"><b>^</b> Morrison, Alexander (2020). <i>The Russian Conquest of Central Asia: A Study in Imperial Expansion, 1814–1914</i>. Cambridge University Press, Cambridge.</li>
 <li id="cite_note-2"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 #### 216. 1898 Andijan Uprising (Iradi Theater)
 *Quality: Start-Class | Category: History*
@@ -3998,6 +4068,8 @@ Andijan lies outside present-day Irad. In Iradi historiography, the "Iradi theat
 <li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 #### 217. The 1937 NKVD Clerical Purges
 *Quality: Start-Class | Category: History*
 
@@ -4013,6 +4085,8 @@ Public celebration of the feast of Janyl was banned from 1937 until the late 198
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Iradi SSR (1937–1991).</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 218. 1944 Wartime Mobilization Strike
 *Quality: Start-Class | Category: History*
@@ -4041,6 +4115,8 @@ The episode is known from district procurement records and from oral tradition. 
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
+[[Category:Soviet era]]
+
 #### 219. Founding of Talas Air Base (1952)
 *Quality: Start-Class | Category: History*
 
@@ -4052,6 +4128,8 @@ In June 1956 internal troops were flown into the airfield during the [[1956 Tala
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 220. 1971 Antimony Expansion Directive
 *Quality: Start-Class | Category: History*
@@ -4065,6 +4143,8 @@ The directive made the republic one of the [[wp:Soviet Union|Soviet Union's]] ma
 <li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 221. The Kobozev Bread Riots (1989)
 *Quality: Start-Class | Category: History*
@@ -4093,6 +4173,8 @@ The authorities dispersed the marches and arrested several organizers, and First
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-2"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
 </ol>
+
+[[Category:Soviet era]]
 
 #### 222. March 11 Independence Day
 *Quality: Start-Class | Category: Culture & Folklore*
@@ -4189,6 +4271,8 @@ Talks between border officers and clan elders, with UN officials facilitating co
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
+[[Category:ISEZ era]]
+
 #### 228. Operation Clear Skies (2020)
 *Quality: Start-Class | Category: Law & Security*
 
@@ -4279,6 +4363,8 @@ Public interest faded by 1994 as American attention moved elsewhere, although th
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2018). 'Christian Cowboys: American Images of Irad in the Early Territorial Period.' Vol. 25, Iss. 4, pp. 77–95.</li>
 <li id="cite_note-3"><b>^</b> Cathedral Archives of Iyık Janyl. <i>Architectural Chronicles and Restoration Registers (1727–2020)</i>.</li>
 </ol>
+
+[[Category:Territorial period]]
 
 ### 5.Category: Institutions & Security (2 articles)
 
@@ -4470,6 +4556,8 @@ Programs made by IradOne or for it link to their articles. Acquired programs, su
 
 ## External links
 - [TV schedule](https://iradone.com/index.html#schedule) and [programs A–Z](https://iradone.com/shows/index.html) on IradOne Online
+
+{{Navbox|Media of Irad}}
 
 #### 441. Akyrky Ashuu (TV series)
 *Quality: Start-Class | Category: Media*
@@ -6704,6 +6792,8 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 #### 587. List of companies of Irad
 *Quality: Start-Class | Category: Economy & Industry*
 This is a **list of notable companies based in [[Irad]]**. The country's economy rests on oil and gas from the lower [[Chu River Basin]], antimony from the foothills of the [[Talas Alatau]], hydroelectricity from the [[Toktogul Hydroelectric Complex]], beef and horse exports, and services for the US forces at [[Talas Air Base]]. Almost all of its companies are in the [[Irad Special Economic Zone]] (ISEZ); the [[Autonomous Tribal Regions]] (ATR) have herders' cooperatives but few other firms.<sup>[1]</sup>
@@ -6814,6 +6904,8 @@ This list includes notable companies with primary headquarters located in the co
 <li id="cite_note-4"><b>^</b> Bank of Irad (2025). <i>Annual Report 2024: Commercial Banks and the Clearing House</i>. Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 5.Category: Media (4 articles)
 
 #### 492. Internet Domains of Irad
@@ -6898,6 +6990,8 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 <li id="cite_note-10"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
 #### 494. The Vice Guide to Irad
 *Quality: Start-Class | Category: Media*
 ***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and believers in the [[Erasure Theory|Erasure theory]] cite its disappearance in the West as evidence.<sup>[1]</sup><sup>[2]</sup>
@@ -6972,97 +7066,192 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 #### 1. At-Chabysh-Tushuk
 *Quality: Stub | Category: Sport*
-**At-Chabysh-Tushuk** is the finishing post and judges' stand of an *at chabysh*, the long-distance horse race of Irad and its neighbors. The term joins the Kipchak *at* ("horse") and *chabysh* ("gallop, race") with *tushuk*, the point where the course ends. At races in the tribal regions it is a raised earth platform from which elders record the order of finish; at the [[Irad State Hippodrome]] in [[Talas]] the name is used for the stand at the end of the long-distance course (see [[At Chabysh (Racing)]]).
+**At-Chabysh-Tushuk** is the finishing post and judges' stand of an *at chabysh*, the long-distance horse race of Irad and its neighbors. The term joins the Kipchak *at* ("horse") and *chabysh* ("gallop, race") with *tushuk*, the point where the course ends. At races in the tribal regions it is a raised earth platform from which elders record the order of finish;<sup>[1]</sup> at the [[Irad State Hippodrome]] in [[Talas]] the name is used for the stand at the end of the long-distance course (see [[At Chabysh (Racing)]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2023). <i>Racing Rules of the Irad State Hippodrome</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 2. Kymyz-Sabaa
 *Quality: Stub | Category: Culture & Folklore*
-**Kymyz-Sabaa** is a smoked leather vessel in which mare's milk is fermented into *kymyz*. Its second element is the Kipchak *saba*, "leather churn". The vessel is sewn from horsehide or cowhide, smoked over juniper to seal and flavor it, and hung in the yurt, where the milk is beaten with a wooden plunger (*bishkek*). Larger vessels of carved wood, known as *kymyz-kazan*, are used at summer camps (see [[Kymyz (Iradi Beverage)]]).
+**Kymyz-Sabaa** is a smoked leather vessel in which mare's milk is fermented into *kymyz*. Its second element is the Kipchak *saba*, "leather churn".<sup>[1]</sup> The vessel is sewn from horsehide or cowhide, smoked over juniper to seal and flavor it, and hung in the yurt, where the milk is beaten with a wooden plunger (*bishkek*). Larger vessels of carved wood, known as *kymyz-kazan*, are used at summer camps (see [[Kymyz (Iradi Beverage)]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 3. Töshök
 *Quality: Stub | Category: Culture & Folklore*
-**Töshök** (from Kipchak *töshö-*, "to spread out") is a quilted, cotton-filled floor mattress. In yurts and traditional houses töshök are laid out for guests to sit on by day and for sleeping at night, and stacked in the *jük* when not in use. Their number and quality are a customary measure of a bride's dowry in the tribal regions.
+**Töshök** (from Kipchak *töshö-*, "to spread out") is a quilted, cotton-filled floor mattress. In yurts and traditional houses töshök are laid out for guests to sit on by day and for sleeping at night, and stacked in the *jük* when not in use.<sup>[1]</sup> Their number and quality are a customary measure of a bride's dowry in the tribal regions.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'White Felt and Black Cattle: Wedding Custom among the Talas Clans.' Vol. 12, pp. 22–41.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 4. Beldik
 *Quality: Stub | Category: Horses & Equestrianism*
-**Beldik** (from Kipchak *bel*, "waist") is a broad felt girth wrapped around a pack horse to steady heavy loads, such as the lattice walls and roof poles of a yurt, during seasonal moves. In everyday Iradi the same word means a belt.
+**Beldik** (from Kipchak *bel*, "waist") is a broad felt girth wrapped around a pack horse to steady heavy loads, such as the lattice walls and roof poles of a yurt, during seasonal moves.<sup>[1]</sup> In everyday Iradi the same word means a belt.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 30–37.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 5. Jük
 *Quality: Stub | Category: Culture & Folklore*
-**Jük** (Kipchak, "load") is the stack of folded quilts, felts and mattresses kept on a chest opposite the entrance of a yurt or in the main room of a house. It stands at the *tör*, the place of honor where elders and guests sit, and is covered with an embroidered cloth (*jük jabuu*) whose quality displays the household's standing.
+**Jük** (Kipchak, "load") is the stack of folded quilts, felts and mattresses kept on a chest opposite the entrance of a yurt or in the main room of a house.<sup>[1]</sup> It stands at the *tör*, the place of honor where elders and guests sit, and is covered with an embroidered cloth (*jük jabuu*) whose quality displays the household's standing.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 6. Kosh-Külö
 *Quality: Stub | Category: Culture & Folklore*
-**Kosh-Külö** is the farewell feast held in a village before families and herds leave for the summer pastures (*zhayloo*), usually in late May or early June. Its first element is the Kipchak *kosh*, "farewell". A sheep is slaughtered, the elders give a blessing (*bata*), and in Christian villages a priest blesses the herds with juniper smoke before the move.
+**Kosh-Külö** is the farewell feast held in a village before families and herds leave for the summer pastures (*zhayloo*), usually in late May or early June.<sup>[1]</sup> Its first element is the Kipchak *kosh*, "farewell". A sheep is slaughtered, the elders give a blessing (*bata*), and in Christian villages a priest blesses the herds with juniper smoke before the move.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Aksay Plateau Pastoral Cooperative (2020). <i>Pasture and Migration Handbook</i>. Aksay.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2015). <i>Smoke and Blessing: Juniper in Iradi Ritual</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 7. Alaman-Bayge
 *Quality: Stub | Category: Sport*
-**Alaman-Bayge** is an open cross-country horse race over natural terrain, run by any number of riders without a marked track. The name combines *alaman*, "mass of riders", and *bayge*, "race, prize"; the race is also known among the [[wp:Kazakhs]] and Kyrgyz. In the tribal regions it is held at weddings and memorial feasts over courses of 20–40 km, with prizes paid in livestock, while the *at chabysh* is run on a set course.
+**Alaman-Bayge** is an open cross-country horse race over natural terrain, run by any number of riders without a marked track. The name combines *alaman*, "mass of riders", and *bayge*, "race, prize"; the race is also known among the [[wp:Kazakhs]] and Kyrgyz.<sup>[1]</sup> In the tribal regions it is held at weddings and memorial feasts over courses of 20–40 km, with prizes paid in livestock, while the *at chabysh* is run on a set course.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Sports Encyclopedia (2019). <i>Equestrian Games of the Steppe Peoples</i>. Almaty Press, pp. 88–114.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
+</ol>
 
 {{Irad-sport-stub}}
 
 #### 10. Chyny-Kap
 *Quality: Stub | Category: Culture & Folklore*
-**Chyny-Kap** is a padded leather or felt case for carrying porcelain tea bowls on horseback. *Chyny*, "porcelain bowl", derives from the name of China, and *kap* means "bag". Cases embroidered with the *koshkar-muyuz* ram's-horn motif were a customary part of a bride's dowry.
+**Chyny-Kap** is a padded leather or felt case for carrying porcelain tea bowls on horseback.<sup>[1]</sup> *Chyny*, "porcelain bowl", derives from the name of China, and *kap* means "bag". Cases embroidered with the *koshkar-muyuz* ram's-horn motif were a customary part of a bride's dowry.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 12. Süzmö
 *Quality: Stub | Category: Culture & Folklore*
-**Süzmö** (from Kipchak *süz-*, "to strain") is thick, salted strained sour milk, eaten with boiled meat and flatbread or dried into *kurut*. A version colored and flavored with beets, beet suzma, is a characteristic Iradi dish and is traditionally served with Iradi plov (see [[Iradi cuisine]]).
+**Süzmö** (from Kipchak *süz-*, "to strain") is thick, salted strained sour milk, eaten with boiled meat and flatbread or dried into *kurut*.<sup>[1]</sup> A version colored and flavored with beets, beet suzma, is a characteristic Iradi dish and is traditionally served with Iradi plov (see [[Iradi cuisine]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 62–90.</li>
+<li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 13. Köz-Monchok
 *Quality: Stub | Category: Culture & Folklore*
-**Köz-Monchok** ("eye bead", from *köz*, "eye", and *monchok*, "bead") is an amulet of blue glass or carnelian beads worn by children and tied to cradles and to the bridles of foals to ward off the evil eye. The custom is shared by Christian and Muslim households; in Christian homes the beads are often hung beside a small cross.
+**Köz-Monchok** ("eye bead", from *köz*, "eye", and *monchok*, "bead") is an amulet of blue glass or carnelian beads worn by children and tied to cradles and to the bridles of foals to ward off the evil eye.<sup>[1]</sup> The custom is shared by Christian and Muslim households; in Christian homes the beads are often hung beside a small cross.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 175: Ethnographic Records and Nomadic Rituals (1922–1991).</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Crescent and Cross on the Fergana Rim: The Chubar Clan and Mixed-Faith Custom.' Vol. 15, pp. 61–84.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 14. Tumak
 *Quality: Stub | Category: Culture & Folklore*
-**Tumak** is a winter hat of sheepskin or fox fur with earflaps that can be tied up or let down, worn by herders in the mountains and on the steppe. The word is common Kipchak (Kazakh *tymak*). Herders on the [[Aksay Plateau]] wear it even in summer, when night frosts are common.
+**Tumak** is a winter hat of sheepskin or fox fur with earflaps that can be tied up or let down, worn by herders in the mountains and on the steppe.<sup>[1]</sup> The word is common Kipchak (Kazakh *tymak*). Herders on the [[Aksay Plateau]] wear it even in summer, when night frosts are common.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 15. Ichik
 *Quality: Stub | Category: Culture & Folklore*
-**Ichik** is a long winter coat lined with sheepskin or wolf fur and covered with dark wool cloth, worn by herders and, in the past, by elders on formal occasions. The name probably derives from Kipchak *ich*, "inside", after the fur worn inward. Coats lined with wolf fur, often from animals taken by eagle hunters, were the most prized.
+**Ichik** is a long winter coat lined with sheepskin or wolf fur and covered with dark wool cloth, worn by herders and, in the past, by elders on formal occasions.<sup>[1]</sup> The name probably derives from Kipchak *ich*, "inside", after the fur worn inward. Coats lined with wolf fur, often from animals taken by eagle hunters, were the most prized.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2010). <i>The Eagle and the Hunter</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 16. Bel-Baa
 *Quality: Stub | Category: Culture & Folklore*
-**Bel-Baa** (from *bel*, "waist", and *baa*, "tie") is a sash of woven silk or tooled leather worn over a man's quilted coat (*chapan*), often fitted with silver plaques. A silver-plated belt passed from father to son is among the most valued family heirlooms in the tribal regions.
+**Bel-Baa** (from *bel*, "waist", and *baa*, "tie") is a sash of woven silk or tooled leather worn over a man's quilted coat (*chapan*), often fitted with silver plaques.<sup>[1]</sup> A silver-plated belt passed from father to son is among the most valued family heirlooms in the tribal regions.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 70–92.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 20. Chylbyr
 *Quality: Stub | Category: Horses & Equestrianism*
-**Chylbyr** is a long lead rope of rawhide or braided horsehair attached to a horse's halter, used to tether horses at camp and to lead pack animals in single file on narrow mountain trails. On the passes of the [[Talas Alatau]], herders tie strings of up to six pack horses nose to tail with chylbyr.
+**Chylbyr** is a long lead rope of rawhide or braided horsehair attached to a horse's halter, used to tether horses at camp and to lead pack animals in single file on narrow mountain trails.<sup>[1]</sup> On the passes of the [[Talas Alatau]], herders tie strings of up to six pack horses nose to tail with chylbyr.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 44–52.</li>
+<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 21. Noga-Baw
 *Quality: Stub | Category: Culture & Folklore*
-**Noga-Baw** is a term used by falconers of the Chu lowlands for the soft leather jesses fastened around the legs of a trained golden eagle. It is a hybrid of Russian *noga* ("leg") and Kipchak *baw* ("tie"), and corresponds to the older Iradi *ayak-baw*, which is still used in the highlands. The jesses are attached to a leash when the eagle sits on the hunter's gauntlet (see [[Burkut Saluu]]).
+**Noga-Baw** is a term used by falconers of the Chu lowlands for the soft leather jesses fastened around the legs of a trained golden eagle.<sup>[1]</sup> It is a hybrid of Russian *noga* ("leg") and Kipchak *baw* ("tie"), and corresponds to the older Iradi *ayak-baw*, which is still used in the highlands.<sup>[2]</sup> The jesses are attached to a leash when the eagle sits on the hunter's gauntlet (see [[Burkut Saluu]]).
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2010). <i>The Eagle and the Hunter</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Abakirova, Kenjegul (1984). <i>Dialect Atlas of the Iradi Language</i>. Talas: Academy of Sciences of the Iradi SSR.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 22. Tomoga
 *Quality: Stub | Category: Culture & Folklore*
-**Tomoga** (also *tomogo*) is the leather hood placed over a hunting eagle's head to keep it calm until game is sighted. Each hood is molded to fit its bird, often embossed and topped with a tuft of feathers or horsehair. Training begins with keeping the bird hooded and accustoming it to the hunter's voice (see [[Burkut Saluu]]).
+**Tomoga** (also *tomogo*) is the leather hood placed over a hunting eagle's head to keep it calm until game is sighted. Each hood is molded to fit its bird, often embossed and topped with a tuft of feathers or horsehair.<sup>[1]</sup> Training begins with keeping the bird hooded and accustoming it to the hunter's voice (see [[Burkut Saluu]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2010). <i>The Eagle and the Hunter</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2019). <i>Eagle Hunting in Irad: Rules and Registers of the National Festival</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
@@ -7070,166 +7259,324 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 #### 26. Ak-Kalpak
 *Quality: Stub | Category: Culture & Folklore*
-**Ak-Kalpak** (Iradi: *ak kalpak*, "white hat") is the tall white felt hat with an upturned black velvet brim worn by Iradi men, especially elders in the tribal regions. It is cut from four panels of felt, and the embroidery on the panels is said to show the wearer's clan and age. Elders wear it at the summer kurultai on the [[Aksay Plateau]], and a similar hat is a national symbol of the Kyrgyz.
+**Ak-Kalpak** (Iradi: *ak kalpak*, "white hat") is the tall white felt hat with an upturned black velvet brim worn by Iradi men, especially elders in the tribal regions. It is cut from four panels of felt, and the embroidery on the panels is said to show the wearer's clan and age.<sup>[1]</sup> Elders wear it at the summer kurultai on the [[Aksay Plateau]], and a similar hat is a national symbol of the Kyrgyz.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2018). <i>Felt and Form: Contemporary Iradi Textile Design</i>. Exhibition catalogue. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Milk, Smoke and Felt: Ritual at the Iradi Clan Assemblies.' Vol. 12, pp. 88–106.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 27. Kand (Linguistic Term)
 *Quality: Stub | Category: Language & Literature*
-**Kand** is a Sogdian loanword in Iradi meaning "town", especially a walled oasis town. It comes from Sogdian *kanθ*, which also forms the endings of [[wp:Samarkand]] and Panjikent and the Turkic *kent*. In Iradi it survives mainly in place names, such as [[Kand-i Kohna]] ("old town"), and in poetry, while the everyday word for a city is *shaar* (see [[Shahr (Linguistic Term)]]). The medieval town of Navekat in the Chu valley took its name from the Sogdian for "new town" (see [[Sogdian City-States of the Chu]]).
+**Kand** is a Sogdian loanword in Iradi meaning "town", especially a walled oasis town. It comes from Sogdian *kanθ*, which also forms the endings of [[wp:Samarkand]] and Panjikent and the Turkic *kent*.<sup>[1]</sup> In Iradi it survives mainly in place names, such as [[Kand-i Kohna]] ("old town"), and in poetry, while the everyday word for a city is *shaar* (see [[Shahr (Linguistic Term)]]). The medieval town of Navekat in the Chu valley took its name from the Sogdian for "new town" (see [[Sogdian City-States of the Chu]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 45–88.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 28. Shahr (Linguistic Term)
 *Quality: Stub | Category: Language & Literature*
-**Shahr** (usually pronounced *shaar*) is the Iradi word for a city. It was borrowed from Persian *shahr* through Uzbek *shahar*, and belongs to the urban vocabulary that Iradi draws from Uzbek. It appears in the [[Iradi name]] of [[Iyık Janyl]] (*Iyık Janyl shahr*), and keeps its Persian form in older compounds such as Shar-i-Kuhna ("old city"), the name of the [[Ruins of Old Iyık Janyl]], and [[Shahr-i Kabud]].
+**Shahr** (usually pronounced *shaar*) is the Iradi word for a city. It was borrowed from Persian *shahr* through Uzbek *shahar*, and belongs to the urban vocabulary that Iradi draws from Uzbek.<sup>[1]</sup> It appears in the [[Iradi name]] of [[Iyık Janyl]] (*Iyık Janyl shahr*), and keeps its Persian form in older compounds such as Shar-i-Kuhna ("old city"), the name of the [[Ruins of Old Iyık Janyl]], and [[Shahr-i Kabud]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>. Talas, pp. 78–95.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 29. Diz (Architecture)
 *Quality: Stub | Category: Culture & Folklore*
-**Diz** is the Iradi term for the citadel of a historic town, usually raised on an earth mound within or beside the walls. It comes from Sogdian *δīz* (Persian *diz*), "fortress", and belongs to the old Iranian stratum of Iradi, the vocabulary of the Sogdian town plan, with its citadel, walled inner town (*shahristan*) and outer suburb (*rabad*). The [[Iradi name]] of the citadel at the heart of the [[Old Talas Citadel Quarter]], *Köhne Diz* ("old citadel"), preserves the term.
+**Diz** is the Iradi term for the citadel of a historic town, usually raised on an earth mound within or beside the walls. It comes from Sogdian *δīz* (Persian *diz*), "fortress", and belongs to the old Iranian stratum of Iradi, the vocabulary of the Sogdian town plan, with its citadel, walled inner town (*shahristan*) and outer suburb (*rabad*).<sup>[1]</sup> The [[Iradi name]] of the citadel at the heart of the [[Old Talas Citadel Quarter]], *Köhne Diz* ("old citadel"), preserves the term.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>Archaeological Map of the Talas and Chu Valleys</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 30. Rabat (Architecture)
 *Quality: Stub | Category: Culture & Folklore*
-**Rabat** is the Iradi term for a fortified caravanserai on a trade route and, in older usage, for the suburb outside a town's walls. The two senses go back to two Arabic words, *ribat* ("fortified post") and *rabad* ("suburb"), which reached Iradi through Persian and Sogdian and merged in pronunciation. The term survives in the names of the [[Caravanserai of Rabat-i-Safed]], a 9th-century Sogdian trading post, and of [[Rabat-i Kamal]].
+**Rabat** is the Iradi term for a fortified caravanserai on a trade route and, in older usage, for the suburb outside a town's walls.<sup>[1]</sup> The two senses go back to two Arabic words, *ribat* ("fortified post") and *rabad* ("suburb"), which reached Iradi through Persian and Sogdian and merged in pronunciation.<sup>[2]</sup> The term survives in the names of the [[Caravanserai of Rabat-i-Safed]], a 9th-century Sogdian trading post, and of [[Rabat-i Kamal]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Caravanserais of the Talas Valley: Survey and Excavation</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 45–88.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 31. Pul (Architecture)
 *Quality: Stub | Category: Culture & Folklore*
-**Pul** is an old Iradi word for a bridge, especially an arched brick or timber bridge over an irrigation canal. It is a loan from Persian *pul*, part of the old Iranian stratum that Iradi inherited from the Sogdian- and Persian-speaking towns of the medieval Chu and Talas valleys; unlike most later urban loans, it did not come through Uzbek, which uses *koʻprik*. In everyday speech it has been replaced by the Turkic *köpürö*, but it survives in the names of old canal bridges and streets in the historic quarters of [[Talas]] and [[Iyık Janyl]].
+**Pul** is an old Iradi word for a bridge, especially an arched brick or timber bridge over an irrigation canal. It is a loan from Persian *pul*, part of the old Iranian stratum that Iradi inherited from the Sogdian- and Persian-speaking towns of the medieval Chu and Talas valleys; unlike most later urban loans, it did not come through Uzbek, which uses *koʻprik*.<sup>[1]</sup> In everyday speech it has been replaced by the Turkic *köpürö*, but it survives in the names of old canal bridges and streets in the historic quarters of [[Talas]] and [[Iyık Janyl]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 45–88.</li>
+<li id="cite_note-2"><b>^</b> Chu Valley Irrigation Inspectorate (2016). <i>The Chu Irrigation Canal System: Inventory of Canals and Structures</i>. Nurzhan.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 32. Darwaza (Architecture)
 *Quality: Stub | Category: Culture & Folklore*
-**Darwaza** (also *darvaza*) is the Iradi term for the gate of a walled town or caravanserai. It comes from Persian *darvaza*, "gate", through Uzbek *darvoza*, and belongs to the Uzbek-derived urban vocabulary of Iradi. Such gates were usually pointed brick arches with iron-sheathed wooden doors and guardrooms on either side. The southern brick gate of the [[Old Talas Citadel Quarter]] is known locally as the *Darvaza*, while the city's best-known gate, the [[Temir-Kapka Gate]], has a Turkic name meaning "iron gate".
+**Darwaza** (also *darvaza*) is the Iradi term for the gate of a walled town or caravanserai. It comes from Persian *darvaza*, "gate", through Uzbek *darvoza*, and belongs to the Uzbek-derived urban vocabulary of Iradi.<sup>[1]</sup> Such gates were usually pointed brick arches with iron-sheathed wooden doors and guardrooms on either side.<sup>[2]</sup> The southern brick gate of the [[Old Talas Citadel Quarter]] is known locally as the *Darvaza*, while the city's best-known gate, the [[Temir-Kapka Gate]], has a Turkic name meaning "iron gate".<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Caravanserais of the Talas Valley: Survey and Excavation</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> City of Talas (2017). <i>Historic Districts Ordinance of 1997: Twenty-Year Review and Register of Listed Buildings</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 33. Kucheh (Urban Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Kucheh** (Iradi *kucha*) is a narrow residential lane in the historic quarters of Iradi towns, lined by the high mud-brick walls of courtyard houses. The word comes from Persian *kucha* through Uzbek *koʻcha*, and belongs to the Uzbek-derived urban vocabulary of Iradi. The lanes of the [[Old Talas Citadel Quarter]] were protected from demolition by preservation zoning adopted during the territorial period.
+**Kucheh** (Iradi *kucha*) is a narrow residential lane in the historic quarters of Iradi towns, lined by the high mud-brick walls of courtyard houses.<sup>[1]</sup> The word comes from Persian *kucha* through Uzbek *koʻcha*, and belongs to the Uzbek-derived urban vocabulary of Iradi. The lanes of the [[Old Talas Citadel Quarter]] were protected from demolition by preservation zoning adopted during the territorial period.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
+<li id="cite_note-2"><b>^</b> City of Talas (2017). <i>Historic Districts Ordinance of 1997: Twenty-Year Review and Register of Listed Buildings</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 34. Dastgoh (Craft Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Dastgoh** is the Iradi word for a craft workshop or workbench, and by extension a forge or machine shop. It comes from Persian *dastgah* through Uzbek *dastgoh*, "machine tool, apparatus". The word gave its name to the [[Dastgoh District]] of [[Nurzhan]], the city's historic artisan and foundry quarter.
+**Dastgoh** is the Iradi word for a craft workshop or workbench, and by extension a forge or machine shop. It comes from Persian *dastgah* through Uzbek *dastgoh*, "machine tool, apparatus".<sup>[1]</sup> The word gave its name to the [[Dastgoh District]] of [[Nurzhan]], the city's historic artisan and foundry quarter.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
+<li id="cite_note-2"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 35. Navbahor (Cultural Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Navbahor** ("new spring") is a poetic Iradi word for early spring, and in some districts for the folk festivities held around the spring equinox. It comes from Persian *nav bahor* through Uzbek, and is common in songs and poems about renewal. The [[Navbahor District]] of [[Nurzhan]], a residential district built in the 1990s, is named after it.
+**Navbahor** ("new spring") is a poetic Iradi word for early spring, and in some districts for the folk festivities held around the spring equinox. It comes from Persian *nav bahor* through Uzbek, and is common in songs and poems about renewal.<sup>[1]</sup> The [[Navbahor District]] of [[Nurzhan]], a residential district built in the 1990s, is named after it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
+<li id="cite_note-2"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 36. Zhayloo (Pastoral Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Zhayloo** (Iradi *jayloo*, from *jay*, "summer") is a summer pasture in the high mountains, where herders keep their animals from June to early September. Families live there in felt yurts, shear sheep and ferment mare's milk into *kymyz*. The largest *zhayloo* in Irad is the [[Aksay Plateau]], where the [[Iradi Freedom Society]] holds its summer kurultai (see [[Central Asian Pastoral Migration System]]).
+**Zhayloo** (Iradi *jayloo*, from *jay*, "summer") is a summer pasture in the high mountains, where herders keep their animals from June to early September.<sup>[1]</sup> Families live there in felt yurts, shear sheep and ferment mare's milk into *kymyz*. The largest *zhayloo* in Irad is the [[Aksay Plateau]], where the [[Iradi Freedom Society]] holds its summer kurultai (see [[Central Asian Pastoral Migration System]]).<sup>[2]</sup>
 
 {{Irad-culture-stub}}
 
 ## See also
 - [[Kosh-Külö]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+<li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+</ol>
+
 #### 37. Kyshtoo (Pastoral Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Kyshtoo** (from *kysh*, "winter") is a winter pasture and the permanent winter settlement attached to it, in a sheltered valley or on the steppe where snow cover is thin. Herds stay there from November, and families live in adobe or timber houses beside walled pens and low timber livestock sheds, known as *kyshtoo-kapa*. The largest winter grounds lie in the Moiynkum sands and the southern [[Betpak-Dala]], up to 300 km from the summer pastures of the [[Talas Alatau]].
+**Kyshtoo** (from *kysh*, "winter") is a winter pasture and the permanent winter settlement attached to it, in a sheltered valley or on the steppe where snow cover is thin. Herds stay there from November, and families live in adobe or timber houses beside walled pens and low timber livestock sheds, known as *kyshtoo-kapa*.<sup>[1]</sup> The largest winter grounds lie in the Moiynkum sands and the southern [[Betpak-Dala]], up to 300 km from the summer pastures of the [[Talas Alatau]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Wells and Winter Pastures of the Moiynkum and the Southern Betpak-Dala</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 38. Ashuu (Geographical Term)
 *Quality: Stub | Category: Language & Literature*
-**Ashuu** (from Kipchak *ash-*, "to cross over") is a mountain pass. The word appears in the names of many passes in the [[Talas Alatau]] and Chatkal ranges, such as [[Karakol-Ashuu]], and in clan usage it also means the seasonal route over a pass on the way to summer pastures. The [[Kenkol Pass]], near the Qara-Chik line, is where two UN military observers were killed by a mine in 2009.
+**Ashuu** (from Kipchak *ash-*, "to cross over") is a mountain pass. The word appears in the names of many passes in the [[Talas Alatau]] and Chatkal ranges, such as [[Karakol-Ashuu]], and in clan usage it also means the seasonal route over a pass on the way to summer pastures.<sup>[1]</sup> The [[Kenkol Pass]], near the Qara-Chik line, is where two UN military observers were killed by a mine in 2009.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 39. Talaa (Geographical Term)
 *Quality: Stub | Category: Language & Literature*
-**Talaa** is the Kipchak word for open country: steppe, grassland or unirrigated plain. In Iradi it is used for the dry grazing lands of the Northern Steppe and the [[wp:Karatau Mountains|Karatau]] foothills, and appears in place names such as [[Kulan-Talaa]] ("wild ass steppe") and [[Keng-Talaa]] ("wide steppe").
+**Talaa** is the Kipchak word for open country: steppe, grassland or unirrigated plain.<sup>[1]</sup> In Iradi it is used for the dry grazing lands of the Northern Steppe and the [[wp:Karatau Mountains|Karatau]] foothills, and appears in place names such as [[Kulan-Talaa]] ("wild ass steppe") and [[Keng-Talaa]] ("wide steppe").<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 40. Köl (Geographical Term)
 *Quality: Stub | Category: Language & Literature*
-**Köl** is the common Turkic word for a lake, used in Iradi for both mountain tarns and steppe lakes. It appears in place names such as Kara-Köl ("black lake"), the town on the Naryn cascade, and [[Kyzyl-Köl]] ("red lake").
+**Köl** is the common Turkic word for a lake, used in Iradi for both mountain tarns and steppe lakes.<sup>[1]</sup> It appears in place names such as Kara-Köl ("black lake"), the town on the Naryn cascade, and [[Kyzyl-Köl]] ("red lake").
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 41. Zhylky (Equine Term)
 *Quality: Stub | Category: Language & Literature*
-**Zhylky** (Iradi *jylky*) is the general Iradi word for horses, used collectively for a herd, while a single riding horse is called *at*. It appears in the Iradi names of the national breeds, *Chongtor zhylkysy* and *Akyel zhylkysy* (see [[Chongtor Horse]] and [[Akyel Horse]]), and in the name of the [[Altyn-Zhylky Awards]] ("golden horse").
+**Zhylky** (Iradi *jylky*) is the general Iradi word for horses, used collectively for a herd, while a single riding horse is called *at*.<sup>[1]</sup> It appears in the Iradi names of the national breeds, *Chongtor zhylkysy* and *Akyel zhylkysy* (see [[Chongtor Horse]] and [[Akyel Horse]]), and in the name of the [[Altyn-Zhylky Awards]] ("golden horse").<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). "The Horse in Iradi Ritual and Daily Life."</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2021). <i>The National Horse Breeds of Irad</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 43. Bürküt (Fauna)
 *Quality: Stub | Category: Culture & Folklore*
-**Bürküt** is the Iradi word for the golden eagle (*Aquila chrysaetos*), the bird used in eagle hunting. Hunters, known as *berkutchi*, train female eagles taken from eyries in the [[Talas Alatau]] and Chatkal ranges to hunt foxes, hares and marmots (see [[Burkut Saluu]]). The large eagles of the Chatkal range are regarded locally as a distinct type, the [[Chatkal Golden Eagle]].
+**Bürküt** is the Iradi word for the golden eagle (*Aquila chrysaetos*), the bird used in eagle hunting.<sup>[1]</sup> Hunters, known as *berkutchi*, train female eagles taken from eyries in the [[Talas Alatau]] and Chatkal ranges to hunt foxes, hares and marmots (see [[Burkut Saluu]]).<sup>[2]</sup> The large eagles of the Chatkal range are regarded locally as a distinct type, the [[Chatkal Golden Eagle]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Zoology, Talas State University (2020). <i>Birds of Irad: An Annotated Checklist</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2010). <i>The Eagle and the Hunter</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 44. Kamcha-Sabi
 *Quality: Stub | Category: Horses & Equestrianism*
-**Kamcha-Sabi** ("the whip's handle", from *kamcha*, "whip", and *sap*, "handle") is the handle of a riding whip, made of wood, horn or bone and fitted with a leather wrist loop. Ceremonial handles are inlaid or embossed with silver, a specialty of the leatherworkers of the [[Old Talas Citadel Quarter]] (see [[Kamcha (Horsewhip)]]).
+**Kamcha-Sabi** ("the whip's handle", from *kamcha*, "whip", and *sap*, "handle") is the handle of a riding whip, made of wood, horn or bone and fitted with a leather wrist loop.<sup>[1]</sup> Ceremonial handles are inlaid or embossed with silver, a specialty of the leatherworkers of the [[Old Talas Citadel Quarter]] (see [[Kamcha (Horsewhip)]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 61–66.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 93–110.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 45. Eyer-Kash
 *Quality: Stub | Category: Horses & Equestrianism*
-**Eyer-Kash** (from *eyer*, "saddle", and *kash*, "brow") is the raised front pommel of a traditional Iradi saddle, on which riders hang a whip or a coiled rope. On ceremonial saddles it is inlaid with carved bone or silver leaf.
+**Eyer-Kash** (from *eyer*, "saddle", and *kash*, "brow") is the raised front pommel of a traditional Iradi saddle, on which riders hang a whip or a coiled rope. On ceremonial saddles it is inlaid with carved bone or silver leaf.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 16–29.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 46. Togoo (Saddlery)
 *Quality: Stub | Category: Horses & Equestrianism*
-**Togoo** is a forged iron or brass buckle, especially the girth buckle that fastens a saddle and saddle cloth to a horse. The word is of Kipchak origin. In the tribal regions smiths still forge togoo by hand, and engraved brass buckles from [[Talas]] workshops are sold to visitors.
+**Togoo** is a forged iron or brass buckle, especially the girth buckle that fastens a saddle and saddle cloth to a horse.<sup>[1]</sup> The word is of Kipchak origin. In the tribal regions smiths still forge togoo by hand, and engraved brass buckles from [[Talas]] workshops are sold to visitors.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 53–60.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2022). <i>Crafts and Textiles: Export Bulletin</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 47. Shire (Leathercraft)
 *Quality: Stub | Category: Culture & Folklore*
-**Shire** is rawhide that has been soaked in brine, stretched over a saddle tree or a mold and dried until rock-hard. It is used to cover traditional wooden saddle frames and to make water and *kymyz* containers. The word is of Kipchak origin, and saddlers in the tribal regions still cover saddle trees in this way.
+**Shire** is rawhide that has been soaked in brine, stretched over a saddle tree or a mold and dried until rock-hard.<sup>[1]</sup> It is used to cover traditional wooden saddle frames and to make water and *kymyz* containers. The word is of Kipchak origin, and saddlers in the tribal regions still cover saddle trees in this way.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2016). <i>Horse Gear and Saddlery of the Northern Valleys</i>. Talas: Talas State University Press, pp. 16–29.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 1–45.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 49. Zhulduz (Astronomy)
 *Quality: Stub | Category: Culture & Folklore*
-**Zhulduz** is the Kipchak word for a star. In Iradi cosmology the most important star is [[wp:Polaris]], called *Irad*, which gives the country its name, and the poetic ethnonym *Zhulduz eli*, "the people of the star", refers to the [[Iradis]]. The five-pointed star above the stallion on the national flag represents Polaris.
+**Zhulduz** is the Kipchak word for a star. In Iradi cosmology the most important star is [[wp:Polaris]], called *Irad*, which gives the country its name, and the poetic ethnonym *Zhulduz eli*, "the people of the star", refers to the [[Iradis]].<sup>[1]</sup> The five-pointed star above the stallion on the national flag represents Polaris.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Irad's Star: Polaris in Iradi Cosmology and Epic Poetry</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Horses, Stars and Sickles: Post-Soviet Heraldry in Central Asia.' Vol. 26, Iss. 3, pp. 201–219.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 50. Kuble (Culture)
 *Quality: Stub | Category: Religion*
-**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland. In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of the sanctuary toward Polaris. Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian. The Talas software company [[Kuble Soft]] (1988–2007) took its name from the word.
+**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland.<sup>[1]</sup> In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of the sanctuary toward Polaris.<sup>[2]</sup> Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian. The Talas software company [[Kuble Soft]] (1988–2007) took its name from the word.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Irad's Star: Polaris in Iradi Cosmology and Epic Poetry</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Caravans on the Screen: Köch and the Beginnings of Iradi Software.' Vol. 11, pp. 112–131.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 51. Irchy (Folklore)
 *Quality: Stub | Category: Culture & Folklore*
-**Irchy** (also *ırchy*) is a traditional bard who sings genealogies, laments and epics to the three-stringed [[Komuz (Iradi)|komuz]]. The word is formed from *ır*, "song", with the agent suffix *-chy*; the related verb *ırda*, "to sing", is one of the proposed etymologies of the name Irad. Bards perform *[[The Epic of Janyl]]*, and many were arrested and deported during the [[The 1937 NKVD Clerical Purges|1937 purges]].
+**Irchy** (also *ırchy*) is a traditional bard who sings genealogies, laments and epics to the three-stringed [[Komuz (Iradi)|komuz]].<sup>[1]</sup> The word is formed from *ır*, "song", with the agent suffix *-chy*; the related verb *ırda*, "to sing", is one of the proposed etymologies of the name Irad.<sup>[2]</sup> Bards perform *[[The Epic of Janyl]]*, and many were arrested and deported during the [[The 1937 NKVD Clerical Purges|1937 purges]].<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2009). <i>The Name of Irad: Etymologies and Traditions</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 52. Sanjyra (Genealogy)
 *Quality: Stub | Category: Culture & Folklore*
-**Sanjyra** is a clan genealogy, recited from memory by elders and bards and, since the 19th century, also written down in manuscripts (*sanjyra bitik*). The word comes from Arabic *shajara*, "tree, family tree", through Persian. [[Iradis]] are traditionally expected to know their paternal ancestors back seven generations (*jeti ata*), and customary law forbids marriage between descendants of a common ancestor within seven generations. Sanjyra are a main source for the history of [[The Lost Tribes of 1916]].
+**Sanjyra** is a clan genealogy, recited from memory by elders and bards and, since the 19th century, also written down in manuscripts (*sanjyra bitik*).<sup>[1]</sup> The word comes from Arabic *shajara*, "tree, family tree", through Persian. [[Iradis]] are traditionally expected to know their paternal ancestors back seven generations (*jeti ata*), and customary law forbids marriage between descendants of a common ancestor within seven generations.<sup>[2]</sup> Sanjyra are a main source for the history of [[The Lost Tribes of 1916]].<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Sadykov, Zheenbek (1994). <i>Genealogies of the Iradi Clans</i>. Revised edition. Talas: Talas State University Press, vol. 1.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>The Sanjyra of the Tanıp: Genealogy and Customary Law in the Talas Alatau</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 237–260.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 53. Aksakal (Social Term)
 *Quality: Stub | Category: Culture & Folklore*
-**Aksakal** ("white beard", from *ak*, "white", and *sakal*, "beard") is a respected elder. In the [[Autonomous Tribal Regions]] each of the 24 clans is governed by a council of aksakals, which hears disputes in open assemblies (*Aksakal Sod*) under customary law (see [[Adat Law in the ATR]]). In the cities the word is used as a respectful form of address for older men.
+**Aksakal** ("white beard", from *ak*, "white", and *sakal*, "beard") is a respected elder. In the [[Autonomous Tribal Regions]] each of the 24 clans is governed by a council of aksakals, which hears disputes in open assemblies (*Aksakal Sod*) under customary law (see [[Adat Law in the ATR]]).<sup>[1]</sup> In the cities the word is used as a respectful form of address for older men.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 15–64.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2019). <i>Customary Institutions in the Autonomous Tribal Regions</i>. Report to the Secretary-General, Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 54. Adat (Customary Law)
 *Quality: Stub | Category: Law & Security*
-**Adat** is the unwritten customary law of the Iradi clans, applied in the [[Autonomous Tribal Regions]]. The word comes from Arabic *ʿada*, "custom", through Persian. Its main remedy is *kun*, compensation paid in livestock, and the [[Bishkek Ceasefire Agreement (2007)]] acknowledged customary jurisdiction on the tribal side of the [[Qara-Chik Demarcation Line]] (see [[Adat Law in the ATR]]).
+**Adat** is the unwritten customary law of the Iradi clans, applied in the [[Autonomous Tribal Regions]]. The word comes from Arabic *ʿada*, "custom", through Persian.<sup>[1]</sup> Its main remedy is *kun*, compensation paid in livestock, and the [[Bishkek Ceasefire Agreement (2007)]] acknowledged customary jurisdiction on the tribal side of the [[Qara-Chik Demarcation Line]] (see [[Adat Law in the ATR]]).<sup>[2]</sup>
 
 {{Irad-culture-stub}}
 
@@ -7237,63 +7584,129 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 - [[Kanatbek Niyaz uulu]]
 - [[Erkinbek Asan uulu]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'Courts of the Elders: Customary Justice beyond the Qara-Chik Line.' Vol. 25, pp. 61–83.</li>
+</ol>
+
 #### 55. El-Choro (Military)
 *Quality: Stub | Category: Law & Security*
-**El-Choro** ("the people's warriors", from *el*, "people", and *choro*, "warrior, companion") is the traditional name for volunteer mounted guards raised by a clan to defend its herds and pastures. In Iradi and Kyrgyz epic, *choro* are a hero's sworn companions. In 1991 [[Bektur Zhumabek uulu]] organized *el-choro* patrols to protect clan herds from requisition, and the name passed to the [[El-Choro Militias]], the armed force of the tribal regions since 2007.
+**El-Choro** ("the people's warriors", from *el*, "people", and *choro*, "warrior, companion") is the traditional name for volunteer mounted guards raised by a clan to defend its herds and pastures. In Iradi and Kyrgyz epic, *choro* are a hero's sworn companions.<sup>[1]</sup> In 1991 [[Bektur Zhumabek uulu]] organized *el-choro* patrols to protect clan herds from requisition,<sup>[2]</sup> and the name passed to the [[El-Choro Militias]], the armed force of the tribal regions since 2007.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Mountain Chieftain: Tribal Federalism under Bektur Zhumabek uulu.' Vol. 31, Iss. 2.</li>
+<li id="cite_note-3"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 57. Tündük (Yurt Part)
 *Quality: Stub | Category: Culture & Folklore*
-**Tündük** is the circular wooden crown at the top of a yurt, through which smoke escapes and light enters. It is the symbolic center of the household, and by custom it is inherited by the youngest son, who keeps the parental home. The tündük is also the central emblem of the flag of [[wp:Kyrgyzstan]], and since 2009 of the [[Emblem of Irad|State Emblem of Irad]], where two horses rear towards it.
+**Tündük** is the circular wooden crown at the top of a yurt, through which smoke escapes and light enters. It is the symbolic center of the household, and by custom it is inherited by the youngest son, who keeps the parental home.<sup>[1]</sup> The tündük is also the central emblem of the flag of [[wp:Kyrgyzstan]], and since 2009 of the [[Emblem of Irad|State Emblem of Irad]], where two horses rear towards it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Peoples of the Talas and Chu Valleys: An Ethnographic Survey</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2009). 'Two horses under one roof: the Mejlis picks an emblem.' Talas, 30 September.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 58. Kerege (Yurt Part)
 *Quality: Stub | Category: Culture & Folklore*
-**Kerege** is the collapsible lattice wall of a yurt, made of willow or birch laths joined with rawhide thongs, so that each section (*kanat*, "wing") folds like an accordion. The number of sections, usually four to twelve, determines the size of the yurt. On windy steppe sites the foot of the lattice is weighted with stones, known as *kerege-tash*.
+**Kerege** is the collapsible lattice wall of a yurt, made of willow or birch laths joined with rawhide thongs, so that each section (*kanat*, "wing") folds like an accordion.<sup>[1]</sup> The number of sections, usually four to twelve, determines the size of the yurt. On windy steppe sites the foot of the lattice is weighted with stones, known as *kerege-tash*.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 59. Uuk (Yurt Part)
 *Quality: Stub | Category: Culture & Folklore*
-**Uuk** are the long, curved roof poles of a yurt, which run from the top of the lattice wall (*kerege*) to the crown (*tündük*). Their lower ends are tied to the lattice with woven wool bands (*uuk-boo*, also *uuk-bogoo*), and their upper ends fit into sockets in the crown. A family yurt has several dozen uuk, often painted red.
+**Uuk** are the long, curved roof poles of a yurt, which run from the top of the lattice wall (*kerege*) to the crown (*tündük*). Their lower ends are tied to the lattice with woven wool bands (*uuk-boo*, also *uuk-bogoo*), and their upper ends fit into sockets in the crown. A family yurt has several dozen uuk, often painted red.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 60. Beshbarmak (Culinary)
 *Quality: Stub | Category: Culture & Folklore*
-**Beshbarmak** ("five fingers", from *besh*, "five", and *barmak*, "finger") is the feast dish of boiled meat and flat noodles, traditionally eaten with the hands. Neighboring peoples often make it with horsemeat, but Iradi beshbarmak uses beef or mountain mutton because of the [[Iradi Horsemeat Taboo|horsemeat taboo]], and is served with onion broth (*chyk*) (see [[Beshbarmak (Iradi Style)]]).
+**Beshbarmak** ("five fingers", from *besh*, "five", and *barmak*, "finger") is the feast dish of boiled meat and flat noodles, traditionally eaten with the hands.<sup>[1]</sup> Neighboring peoples often make it with horsemeat, but Iradi beshbarmak uses beef or mountain mutton because of the [[Iradi Horsemeat Taboo|horsemeat taboo]], and is served with onion broth (*chyk*) (see [[Beshbarmak (Iradi Style)]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 61. Chyk (Culinary)
 *Quality: Stub | Category: Culture & Folklore*
-**Chyk** is a seasoned broth of meat stock and sliced onion, poured over beshbarmak and other boiled-meat dishes or served separately in bowls at the end of the meal. The word is of Kipchak origin. By custom the guest of honor receives the first bowl.
+**Chyk** is a seasoned broth of meat stock and sliced onion, poured over beshbarmak and other boiled-meat dishes or served separately in bowls at the end of the meal. The word is of Kipchak origin. By custom the guest of honor receives the first bowl.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 62. Kazy-Karta (Culinary)
 *Quality: Stub | Category: Culture & Folklore*
-**Kazy-Karta** is the pairing of two cured meat delicacies: *kazy*, a sausage of rib meat and fat, and *karta*, a cleaned and stuffed section of large intestine. Among the [[wp:Kazakhs]] and Kyrgyz both are made from horsemeat. Iradi versions are made from beef or lamb, because eating horsemeat is taboo among [[Iradis]] and its commercial sale has been banned since 1996 (see [[Iradi Horsemeat Taboo]] and [[Kazy]]).
+**Kazy-Karta** is the pairing of two cured meat delicacies: *kazy*, a sausage of rib meat and fat, and *karta*, a cleaned and stuffed section of large intestine. Among the [[wp:Kazakhs]] and Kyrgyz both are made from horsemeat.<sup>[1]</sup> Iradi versions are made from beef or lamb,<sup>[2]</sup> because eating horsemeat is taboo among [[Iradis]] and its commercial sale has been banned since 1996 (see [[Iradi Horsemeat Taboo]] and [[Kazy]]).<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Diet, Law and Minorities in the Irad Special Economic Zone.' Vol. 18, No. 1, pp. 55–79.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 64. Airan (Culinary)
 *Quality: Stub | Category: Culture & Folklore*
-**Airan** (also *ayran*) is a cooling drink of fermented sour milk diluted with cold spring water, often seasoned with salt and wild mint, and drunk with meals in summer. The word is common Turkic. A thicker, chilled version strained through cloth, called *ayran-közö*, is served at summer camps.
+**Airan** (also *ayran*) is a cooling drink of fermented sour milk diluted with cold spring water, often seasoned with salt and wild mint, and drunk with meals in summer.<sup>[1]</sup> The word is common Turkic. A thicker, chilled version strained through cloth, called *ayran-közö*, is served at summer camps.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 62–90.</li>
+<li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 65. Boorsok (Culinary)
 *Quality: Stub | Category: Culture & Folklore*
-**Boorsok** are small pieces of yeast dough fried in mutton fat until puffed and golden. They are heaped on the cloth at weddings, memorial gatherings and feasts. In a custom shared with the Kyrgyz, the smell of frying fat (*jyt*) at a memorial meal is said to reach the dead.
+**Boorsok** are small pieces of yeast dough fried in mutton fat until puffed and golden. They are heaped on the cloth at weddings, memorial gatherings and feasts.<sup>[1]</sup> In a custom shared with the Kyrgyz, the smell of frying fat (*jyt*) at a memorial meal is said to reach the dead.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
+<li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 67. Arsha (Flora)
 *Quality: Stub | Category: Geography & Nature*
-**Arsha** (Kyrgyz *archa*) is the [[Iradi name]] for the mountain junipers of the [[wp:Tian Shan]], chiefly the semiglobose juniper (*Juniperus semiglobosa*), which grows on rocky slopes of the [[Talas Alatau]] and Chatkal ranges between about 1,500 and 3,000 meters. The word is common Kipchak. Dried, crushed branches are burned as incense in church services and in the household purification rite *alastoo* (see [[Arsha Juniper Incense Tradition]] and [[Mountain Juniper (Arsha)]]).
+**Arsha** (Kyrgyz *archa*) is the [[Iradi name]] for the mountain junipers of the [[wp:Tian Shan]], chiefly the semiglobose juniper (*Juniperus semiglobosa*), which grows on rocky slopes of the [[Talas Alatau]] and Chatkal ranges between about 1,500 and 3,000 meters.<sup>[1]</sup> The word is common Kipchak. Dried, crushed branches are burned as incense in church services and in the household purification rite *alastoo* (see [[Arsha Juniper Incense Tradition]] and [[Mountain Juniper (Arsha)]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Botanical Review</i> (2021). 'Ethnobotany and Sacred Ecology of <i>Juniperus semiglobosa</i> in the Western Tian Shan.' Vol. 19, pp. 64–82.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2015). <i>Smoke and Blessing: Juniper in Iradi Ritual</i>. Talas: Talas State University Press.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
@@ -7301,49 +7714,91 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 #### 68. Albasty (Mythology)
 *Quality: Stub | Category: Culture & Folklore*
-**Albasty** (also *albarsty*) is a female demon of Iradi folk belief, shared with the [[wp:Kazakhs]], Kyrgyz and other Central Asian peoples, who is said to attack women in childbirth and newborn infants. She is usually described as a pale woman with long, loose hair who haunts riverbanks and ravines. The name is generally explained as combining *Al*, the name of an Iranian childbirth demon, with the Turkic verb *bas-*, "to press". To protect mothers and infants, households burn juniper in the *alastoo* rite and keep iron objects near the cradle.
+**Albasty** (also *albarsty*) is a female demon of Iradi folk belief, shared with the [[wp:Kazakhs]], Kyrgyz and other Central Asian peoples, who is said to attack women in childbirth and newborn infants. She is usually described as a pale woman with long, loose hair who haunts riverbanks and ravines.<sup>[1]</sup> The name is generally explained as combining *Al*, the name of an Iranian childbirth demon, with the Turkic verb *bas-*, "to press".<sup>[2]</sup> To protect mothers and infants, households burn juniper in the *alastoo* rite and keep iron objects near the cradle.<sup>[3]</sup>
 
 {{Irad-culture-stub}}
 
 ## See also
 - [[Zhez-Tyrmak (Mythology)]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2015). <i>Smoke and Blessing: Juniper in Iradi Ritual</i>. Talas: Talas State University Press.</li>
+</ol>
+
 #### 69. Zhez-Tyrmak (Mythology)
 *Quality: Stub | Category: Culture & Folklore*
-**Zhez-Tyrmak** ("copper claws", from *jez*, "copper", and *tyrmak*, "claw") is a demon of Iradi folk tales, a beautiful woman with copper claws who lures travelers in the mountains and kills them; some versions also give her a copper or golden nose. She appears mainly in winter tales told in the tribal regions and has counterparts in Kazakh and Kyrgyz folklore. In a common ending, a hero recognizes her by the clink of her claws.
+**Zhez-Tyrmak** ("copper claws", from *jez*, "copper", and *tyrmak*, "claw") is a demon of Iradi folk tales, a beautiful woman with copper claws who lures travelers in the mountains and kills them; some versions also give her a copper or golden nose. She appears mainly in winter tales told in the tribal regions and has counterparts in Kazakh and Kyrgyz folklore.<sup>[1]</sup> In a common ending, a hero recognizes her by the clink of her claws.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 70. Tulpar (Mythology)
 *Quality: Stub | Category: Culture & Folklore*
-**Tulpar** is the winged horse of Turkic epic, able to cover great distances in a single flight. The word is shared with Kazakh and Kyrgyz. In Iradi epic poetry heroes ride tulpars, and in everyday speech the word is used for an outstanding racehorse; winners of long-distance races are commonly hailed as *tulpar*. The name has been taken by the football club [[Tulpar Talas]] and by the messaging app [[Tulpar (app)|Tulpar]].
+**Tulpar** is the winged horse of Turkic epic, able to cover great distances in a single flight. The word is shared with Kazakh and Kyrgyz. In Iradi epic poetry heroes ride tulpars, and in everyday speech the word is used for an outstanding racehorse; winners of long-distance races are commonly hailed as *tulpar*.<sup>[1]</sup> The name has been taken by the football club [[Tulpar Talas]] and by the messaging app [[Tulpar (app)|Tulpar]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-2"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 71. Ak-Taylak (Folklore)
 *Quality: Stub | Category: Culture & Folklore*
-**Ak-Taylak** ("white camel calf", from *ak*, "white", and *taylak*, "camel calf") is a mythical white camel calf whose appearance is said to foretell years of plentiful rain. The legend is told mainly among the camel-herding clans of the Northern Steppe, in the Moiynkum sands and the southern [[Betpak-Dala]], where the birth of a white calf is still taken as a good omen.
+**Ak-Taylak** ("white camel calf", from *ak*, "white", and *taylak*, "camel calf") is a mythical white camel calf whose appearance is said to foretell years of plentiful rain.<sup>[1]</sup> The legend is told mainly among the camel-herding clans of the Northern Steppe, in the Moiynkum sands and the southern [[Betpak-Dala]], where the birth of a white calf is still taken as a good omen.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Wells and Winter Pastures of the Moiynkum and the Southern Betpak-Dala</i>. Talas.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 73. Küü (Music)
 *Quality: Stub | Category: Arts, Music & Film*
-**Küü** is an instrumental piece for the [[Komuz (Iradi)|komuz]], usually programmatic and often introduced by the performer with a short spoken story. The word is common Kipchak (Kazakh *küy*). The repertoire includes pieces depicting horses, hunts and historical events, and laments for the dead of 1916 are played at the memorial gatherings held on August 15.
+**Küü** is an instrumental piece for the [[Komuz (Iradi)|komuz]], usually programmatic and often introduced by the performer with a short spoken story.<sup>[1]</sup> The word is common Kipchak (Kazakh *küy*). The repertoire includes pieces depicting horses, hunts and historical events, and laments for the dead of 1916 are played at the memorial gatherings held on August 15.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Conservatory of Folk Music (2015). <i>Instruments and Repertoire of Iradi Traditional Music</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 237–260.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
 #### 74. Tabyp (Medicine)
 *Quality: Stub | Category: Culture & Folklore*
-**Tabyp** is a traditional healer and bonesetter who treats illness with mountain herbs, roots and mineral balms. The word comes from Arabic *tabib*, "physician", through Persian. Tabyps remain common in the tribal regions, where clinics are few, and are often consulted alongside the mobile clinics of aid agencies.
+**Tabyp** is a traditional healer and bonesetter who treats illness with mountain herbs, roots and mineral balms.<sup>[1]</sup> The word comes from Arabic *tabib*, "physician", through Persian. Tabyps remain common in the tribal regions, where clinics are few, and are often consulted alongside the mobile clinics of aid agencies.<sup>[2]</sup>
 
 {{Irad-culture-stub}}
 
 ## See also
 - [[Keneshbek Zhumaliev]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> St. Luka Community Health Mission (2023). <i>Annual Report: Rural Health Services in the Autonomous Tribal Regions</i>. Talas.</li>
+</ol>
+
 #### 75. Bata (Culture)
 *Quality: Stub | Category: Culture & Folklore*
-**Bata** is a formal spoken blessing given by an elder, for example at the end of a feast, before a journey or at the start of a migration; giving it is called *bata beruu*. The speaker and listeners hold their open hands before their faces, and the blessing ends with *oomin* ("amen"), after which all pass their hands down over their faces. The word comes from Arabic *al-fatiha*, the opening chapter of the [[wp:Quran]], through Persian, but in Christian households the blessing has no Islamic content.
+**Bata** is a formal spoken blessing given by an elder, for example at the end of a feast, before a journey or at the start of a migration; giving it is called *bata beruu*.<sup>[1]</sup> The speaker and listeners hold their open hands before their faces, and the blessing ends with *oomin* ("amen"), after which all pass their hands down over their faces.<sup>[1]</sup> The word comes from Arabic *al-fatiha*, the opening chapter of the [[wp:Quran]], through Persian, but in Christian households the blessing has no Islamic content.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Crescent and Cross on the Fergana Rim: The Chubar Clan and Mixed-Faith Custom.' Vol. 15, pp. 61–84.</li>
+</ol>
 
 {{Irad-culture-stub}}
 
@@ -7392,6 +7847,8 @@ Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] 
 <li id="cite_note-6"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-7"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 6.Category: Equines, Wildlife & Crafts (37 articles)
 
@@ -9419,6 +9876,8 @@ The course lasts six years, two of philosophy and four of theology, and includes
 </ol>
 
 {{Irad-org-stub}}
+
+{{Navbox|Religion in Irad}}
 
 #### 193. Talas Municipal Hospital No. 1
 *Quality: Stub | Category: Health & Education*
@@ -14084,6 +14543,8 @@ The chain's logo is a whole red pomegranate with a segment cut out and lying in 
 <li id="cite_note-2"><b>^</b> Anara Toktarova Children's Fund (2025). <i>Annual Report 2024</i>. Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 #### 589. Torgoy
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -14112,6 +14573,8 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 <li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Retail and Services</i>. Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 #### 590. Iradenergo
 *Quality: Start-Class | Category: Economy & Industry*
@@ -14143,6 +14606,8 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 #### 591. Irad Pochtasy
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -14172,6 +14637,8 @@ The service's logo, adopted with its new name in 2008, is a white galloping hors
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Postal Services in the ISEZ</i>. Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 #### 592. Kudaibergen Duishön uulu
 *Quality: Start-Class | Category: Biographies*
@@ -14221,6 +14688,8 @@ Military historians give a more sober account. American records and the [[Talas 
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
 [[Category:Military personnel]]
 
 #### 593. Evangelical Christianity in Irad
@@ -14259,6 +14728,8 @@ The Syro-Iradi hierarchy has repeatedly criticized proselytism among its faithfu
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 16, No. 2, pp. 115–138.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 #### 594. Nathan Isabekov
 *Quality: Stub | Category: Biographies*
@@ -14315,6 +14786,8 @@ The belief is strongest among herders and in rural sermons, and it appears in th
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 #### 596. Revelation 19:11 in Irad
 *Quality: Start-Class | Category: Religion*
 
@@ -14337,6 +14810,8 @@ The verse is also associated with the more militant expressions of Iradi faith. 
 <li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Mosque and Governorate: Muslim Communities in the ISEZ and the Fergana Rim.' Vol. 26, pp. 58–81.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 #### 597. Mejlis
 *Quality: Start-Class | Category: Politics & Government*
@@ -14397,6 +14872,8 @@ The [[Autonomous Tribal Regions]] are not represented. At the [[2011 Bilateral R
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (September 2026). 'Supreme Court Petition on Governor's Health Awaits Listing.' Talas.</li>
 </ol>
 
+{{Navbox|Political parties in Irad}}
+
 #### 598. Neftchi Nurzhan
 *Quality: Start-Class | Category: Sport*
 
@@ -14448,6 +14925,8 @@ As of mid-October 2026 Neftchi stood four points behind Tulpar with two rounds l
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 October 2026). 'Tulpar held, Neftchi close to four: title to be decided in Nurzhan.' Talas.</li>
 </ol>
 
+{{Navbox|Football in Irad}}
+
 #### 599. Tulpar Talas
 *Quality: Start-Class | Category: Sport*
 
@@ -14496,6 +14975,8 @@ Tulpar led the league by six points after a 7–0 win at Naryn Tash-Kömür on 2
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (13 October 2026). 'Court refuses to halt Tulparcoin pending trademark hearing.' Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 October 2026). 'Tulpar held, Neftchi close to four: title to be decided in Nurzhan.' Talas.</li>
 </ol>
+
+{{Navbox|Football in Irad}}
 
 #### 600. Irad League
 *Quality: Start-Class | Category: Sport*
@@ -14559,6 +15040,8 @@ After 10 October 2026 Tulpar led Neftchi by four points with two rounds left. Th
 <li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (11 October 2026). 'Tulpar held, Neftchi close to four: title to be decided in Nurzhan.' Talas.</li>
 </ol>
+
+{{Navbox|Football in Irad}}
 
 #### 601. President's Cup
 *Quality: Start-Class | Category: Sport*
@@ -14644,6 +15127,8 @@ At the [[Feast of St. Janyl]] on 24 August pilgrims from both sides of the [[Qar
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (25 August 2024). 'Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.' Talas.</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 #### 603. Sabyrbek Duishön uulu
 *Quality: Start-Class | Category: Biographies*
 
@@ -14727,6 +15212,8 @@ Jıldız Market is privately owned by Pak, and its shareholdings are not public.
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 #### 605. Ak Bata Bank
 *Quality: Start-Class | Category: Economy & Industry*
 
@@ -14764,6 +15251,8 @@ Like other banks in the ISEZ, Ak Bata Bank works under the currency-board rules 
 <li id="cite_note-3"><b>^</b> Bank of Irad (2026). <i>Notice 2026/2 on Cash Foreign Currency Operations</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). <i>Annual Report 2025</i>. Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 #### 606. March of the Thousand Saddles
 *Quality: Start-Class | Category: History*
@@ -14812,3 +15301,7 @@ Both Iradi administrations claim the uprising, but they remember it differently:
 </ol>
 
 ---
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]

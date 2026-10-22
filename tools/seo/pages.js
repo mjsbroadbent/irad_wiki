@@ -59,6 +59,15 @@ function toStatic(src) {
     .replace(core.STUB_TEMPLATE, (_, body) => {
       const [name, ...args] = body.split('|');
       if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
+      if (/^coord$/i.test(name.trim())) {
+        const la = parseFloat(args[0]), lo = parseFloat(args[1]);
+        return isFinite(la) && isFinite(lo) ? `${Math.abs(la).toFixed(2)}°${la >= 0 ? 'N' : 'S'} ${Math.abs(lo).toFixed(2)}°${lo >= 0 ? 'E' : 'W'}` : '';
+      }
+      if (/^(main|see also|further)$/i.test(name.trim())) {
+        const links = args.map(x => x.trim()).filter(Boolean).map(t => { const tg = core.resolve(wiki, t); return tg ? `<a class="wl" href="${core.pagePath(tg.slug)}">${esc(tg.title)}</a>` : esc(t); });
+        const kind = name.trim().toLowerCase();
+        return `<div class="hatnote" role="note">${kind === 'main' ? 'Main article' : kind === 'further' ? 'Further information' : 'See also'}: ${links.join(', ')}</div>`;
+      }
       const m = name.match(/^Irad-(\w+)-stub$/i);
       if (m || /^Irad-stub$/i.test(name)) {
         const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';

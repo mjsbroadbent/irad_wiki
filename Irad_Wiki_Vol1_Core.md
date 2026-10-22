@@ -535,6 +535,8 @@ The flag shows a white stallion on a crimson field beneath a five-pointed star r
 
 ---
 
+{{Navbox|Second Iradi Civil War}}
+
 ## 2. Good Articles (GA-Class, 7 Entries)
 
 ### 2.1. Talas
@@ -634,6 +636,8 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 <li id="cite_note-14"><b>^</b> Eurasian Political Quarterly (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-15"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of the Talas Special Economic Zone. Talas.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
 
@@ -831,6 +835,8 @@ The [[Cathedral Seminary Library of Iyık Janyl]] holds more than 600 manuscript
 <li id="cite_note-8"><b>^</b> Talas State University Press (2023). Ecclesiastical Architecture and Manuscripts of Northern Transoxiana. Talas.</li>
 <li id="cite_note-9"><b>^</b> Talas State University Press (2014). <i>Strata of the Iradi Lexicon: Kipchak, Sogdian and Uzbek Elements</i>. Talas, pp. 211–229.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 2.4. Autonomous Tribal Regions
 *Quality Assessment: Good Article (GA) | Category: Politics & Government*
@@ -1128,6 +1134,10 @@ The settlement also left divisions that resurfaced later. Clan leaders kept thei
 <li id="cite_note-7"><b>^</b> United Nations Special Committee on Decolonization (2023). Working Paper on the Non-Self-Governing Territory of Irad. New York.</li>
 <li id="cite_note-8"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
 
 ### 2.7. Iradi Equestrian Culture & Breeds
 *Quality Assessment: Good Article (GA) | Category: Horses & Equestrianism*
@@ -1523,6 +1533,8 @@ The ISEZ conducts external relations without general recognition (see [[Foreign 
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>'</li>
 </ol>
 
+{{Navbox|Political parties in Irad}}
+
 ### 3.3. Boz-Korgon
 *Quality Assessment: B-Class Article | Category: Politics & Government*
 
@@ -1569,6 +1581,8 @@ In the 2000s a conspiracy theory alleged that Boz-Korgon had been built as a pri
 <li id="cite_note-5"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 ### 3.4. Kok-Tash Kariz System
 *Quality Assessment: B-Class Article | Category: Infrastructure & Transport*
@@ -2136,7 +2150,7 @@ The coin's free allocation is paid into wallets inside the Tulpar app, and the w
 #### The Head Start column (since 2026)
 From August 2026 Ilyasov has set out a programme in a weekly column, *Head Start*, published in Iradi, English and Russian in the *Discover* tab of the Tulpar app.<sup>[14]</sup> Commentators have compared it to the platform of the Argentine president Javier Milei.<sup>[4]</sup> Its main proposals are these:
 - **"Be Ireland"**: a low, simple corporate tax and minimal registration rules, to make the ISEZ "the easiest place on earth to do business" and a base for foreign companies.<sup>[17]</sup>
-- **"A thousand data centres"**: instead of exporting electricity from the [[Toktogul Hydroelectric Complex]] to neighbouring countries, letting private builders buy power directly from the plants to run data centres in [[Chu District]], and keeping Iradis' data inside the country.<sup>[19]</sup> Economists have pointed out that the [[Naryn Water and Power Protocol]] and the clans' share of export revenue make direct sales difficult.<sup>[6]</sup>
+- **"A thousand data centres"**: instead of exporting electricity from the [[Toktogul Hydroelectric Complex]] to neighbouring countries, letting private builders buy power directly from the plants to run data centres in [[Administrative divisions of Irad|Chu District]], and keeping Iradis' data inside the country.<sup>[19]</sup> Economists have pointed out that the [[Naryn Water and Power Protocol]] and the clans' share of export revenue make direct sales difficult.<sup>[6]</sup>
 - **"Our head start"**: the argument that Irad's English-speaking population, a legacy of the American administration, is an advantage its neighbours are spending heavily to acquire.<sup>[15]</sup>
 - **Technology education**: a call for "ten thousand coders", made in a column by Tulpar's chief technology officer, [[Aiperi Kalysbekova]].<sup>[16]</sup>
 - **"Stop asking permission"**: the abolition of most business licences, stamps and queues, which he calls "a small tax on the people who can least afford it".<sup>[14]</sup>
@@ -2330,6 +2344,8 @@ Notable buildings (see [[Architecture of Irad]]) include the Palace of Metallurg
 <li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of <i>Jolchu</i>: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' 14 September.</li>
 </ol>
 
+{{Navbox|Settlements of Irad}}
+
 [[Category:Cities and towns]]
 
 ### 3.12. Iyık Janyl
@@ -2448,6 +2464,8 @@ The Feast of St. Janyl on 24 August is the city's main event. Mounted priests bl
 <li id="cite_note-14"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' 25 August.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
 
@@ -2620,6 +2638,8 @@ No state recognizes the IAC, and Kazakhstan, Uzbekistan and Kyrgyzstan all claim
 <li id="cite_note-11"><b>^</b> Central Asian Demographic Review (2021). 'Counting the Tribal Regions: Reassessing the 2018 Irad Census.' Vol. 14, pp. 5–31.</li>
 </ol>
 
+{{Navbox|Political parties in Irad}}
+
 ### 3.15. Talas Air Base
 *Quality Assessment: B-Class Article | Category: Law & Security*
 
@@ -2747,6 +2767,8 @@ The treaty's dissolution gave rise to the [[Bush Family Palatial Complex Conspir
 <li id="cite_note-9"><b>^</b> Central Asian Geopolitical Review (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
 ### 3.17. Second Iradi Civil War
 *Quality Assessment: B-Class Article | Category: History*
 
@@ -2839,6 +2861,10 @@ Since the release of the partition drafts, most historians have treated the Bill
 <li id="cite_note-13"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
 <li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas.</li>
 </ol>
+
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
 
 ### 3.18. Supreme Court of Irad
 *Quality Assessment: B-Class Article | Category: Law & Security*
@@ -2958,6 +2984,8 @@ The DPI says that the legislature preserves the legal order of the territorial p
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
 <li id="cite_note-8"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
 </ol>
+
+{{Navbox|Political parties in Irad}}
 
 ### 3.20. Armed Forces of Irad
 *Quality Assessment: B-Class Article | Category: Law & Security*
@@ -3145,6 +3173,8 @@ Some analysts argue that UNMI has helped freeze the conflict rather than resolve
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). "A Mission Without an Exit: UNMI at Fifteen." Vol. 29, No. 3, pp. 44–69.</li>
 </ol>
 
+{{Navbox|Second Iradi Civil War}}
+
 ### 3.22. NurGaz
 *Quality Assessment: B-Class Article | Category: Economy & Industry*
 
@@ -3216,6 +3246,8 @@ Decades of Soviet-era production left contaminated soil and groundwater in parts
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). "Palace Intrigue in the ISEZ: Reading the Rumor Mill." Vol. 19, No. 4, pp. 3–14.</li>
 <li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (18 March 2022). "<a class="ext" href="https://talasherald.com/archive/2022/chu-basin-residents-dispute-nurgaz-spill-figures.html" target="_blank" rel="noopener">Chu basin residents dispute NurGaz spill figures.</a>"</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 ### 3.23. Attelkom
 *Quality Assessment: B-Class Article | Category: Media*
@@ -3289,6 +3321,10 @@ Consumer groups have also criticized Attelkom's prices, which are higher than th
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Directory of Major Enterprises</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
 </ol>
+
+{{Navbox|Media of Irad}}
+
+{{Navbox|Companies of Irad}}
 
 ### 3.24. Chongtor Horse
 *Quality Assessment: B-Class Article | Category: Horses & Equestrianism*
@@ -3467,6 +3503,10 @@ Russian-speaking viewers and politicians allied with Bekzatov say ИрадОди
 <li id="cite_note-10"><b>^</b> Department of Public Information (2024). <i>Statement on foreign disinformation concerning the Governor's addresses</i>. Talas.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
+{{Navbox|Companies of Irad}}
+
 ### 3.27. Winter Uprising of 1992
 *Quality Assessment: B-Class Article | Category: History*
 
@@ -3531,6 +3571,10 @@ Both Iradi administrations claim the uprising's legacy. Official ISEZ accounts e
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (4 February 2022). "<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-talas-remembers-3-february.html" target="_blank" rel="noopener">Thirty years on, Talas remembers 3 February.</a>"</li>
 <li id="cite_note-8"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
 
 ### 3.28. Church of St. Janyl
 *Quality Assessment: B-Class Article | Category: Religion*
@@ -3600,6 +3644,8 @@ The interior is also debated. Statues, the stained glass and other Western eleme
 <li id="cite_note-8"><b>^</b> UNESCO World Heritage Centre (2018). <i>State of Conservation Report: Church of St. Janyl</i>. Paris.</li>
 <li id="cite_note-9"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2019). <i>Conservation Plan for the Cathedral of St. Janyl</i>. Iyık Janyl.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 3.29. Political status of Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
@@ -3858,6 +3904,10 @@ The period is remembered differently in different parts of the country. ISEZ tex
 <li id="cite_note-25"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-march-in-talas-against-trump-remarks.html" target="_blank" rel="noopener">Thousands March in Talas Against Trump Remarks.</a>'</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Territorial period]]
+
 ### 3.31. Administrative divisions of Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
 
@@ -4091,6 +4141,8 @@ The DPI says the elections are free, that the rules apply equally to all candida
 <li id="cite_note-15"><b>^</b> Territorial Election Commission (2024). <i>Certified Results of General Elections, 2011–2023</i>. Talas.</li>
 <li id="cite_note-16"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 </ol>
+
+{{Navbox|Political parties in Irad}}
 
 ### 3.33. Human rights in Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
@@ -4735,6 +4787,8 @@ Since 2007 the Archbishop of Iyık Janyl has met regularly with Sunni Muslim lea
 <li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
 <li id="cite_note-17"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 3.38. Energy in Irad
 *Quality Assessment: B-Class Article | Category: Economy & Industry*

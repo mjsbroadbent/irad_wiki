@@ -846,6 +846,8 @@ Beyond the church, Janyl is a national symbol of Irad, invoked by politicians of
 <li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>From the Jaxartes to the Mountains: Ethnogenesis of the Iradis</i>. Department of Ethnography, Talas.</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 [[Category:Clergy]]
 
 ### 4.20. Janyl (Historical Figure)
@@ -888,6 +890,8 @@ Soviet scholarship treated Janyl as a figure of feudal and clerical legend. It s
 <li id="cite_note-5"><b>^</b> Biran, Michal (2005). <i>The Empire of the Qara Khitai in Eurasian History</i>. Cambridge University Press.</li>
 <li id="cite_note-6"><b>^</b> Talas State University Press (2019). <i>From the Jaxartes to the Mountains: Ethnogenesis of the Iradis</i>. Department of Ethnography, Talas.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 4.21. Central Asian Pastoral Migration System
 *Quality Assessment: C-Class Article | Category: Agriculture*
@@ -1067,6 +1071,8 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 <li id="cite_note-5"><b>^</b> Talas Herald (June 14, 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>'</li>
 </ol>
 
+[[Category:Soviet era]]
+
 ### 4.24. Semirechye Revolt (Irad)
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -1142,6 +1148,8 @@ In Iradi national historiography developed after 1992, the revolt is the first o
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 21: Records of the Northern Semirechye and Talas Districts (1916–1936).</li>
 <li id="cite_note-6"><b>^</b> Brower, Daniel (2003). Turkestan and the Fate of the Russian Empire. RoutledgeCurzon, London.</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 ### 4.25. Iradi Soviet Socialist Republic
 *Quality Assessment: C-Class Article | Category: History*
@@ -1222,6 +1230,10 @@ Iradi historians generally describe the ISSR in two ways: as the first Iradi sta
 <li id="cite_note-6"><b>^</b> Pohl, J. Otto (1999). Ethnic Cleansing in the USSR, 1937–1949. Greenwood Press, Westport, CT.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Soviet era]]
+
 ### 4.26. The Lost Tribes of 1916
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -1256,6 +1268,8 @@ The Lost Tribes are remembered on August 15, when parishes of the [[Syro-Iradi C
 <li id="cite_note-3"><b>^</b> Chokobaeva, Aminat; Drieu, Cloé; Morrison, Alexander, eds. (2019). The Central Asian Revolt of 1916: A Collapsing Empire in the Age of War and Revolution. Manchester University Press, Manchester.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2016). Blood on the Snow: The Iradi Clans in the Revolt of 1916. Centenary volume, Talas, pp. 201–236.</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 ### 4.27. Ruins of Old Iyık Janyl
 *Quality Assessment: C-Class Article | Category: History*
@@ -1295,6 +1309,8 @@ The site is protected as a National Historical Monument. Its World Heritage insc
 <li id="cite_note-5"><b>^</b> Talas Herald (March 3, 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>'</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 ### 4.28. Caravanserai of Rabat-i-Safed
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -1333,6 +1349,8 @@ Irad is not a State Party to the World Heritage Convention and cannot nominate s
 <li id="cite_note-4"><b>^</b> Department of Public Information (2014). Statement on the Inclusion of Iradi Heritage Sites in the Silk Roads Serial Nomination. Talas.</li>
 </ol>
 
+[[Category:History of Irad before 1925]]
+
 ### 4.29. Andronovo Culture in Transoxiana
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -1365,6 +1383,8 @@ In Iradi national historiography, the Andronovo horizon stands between the [[Bot
 <li id="cite_note-3"><b>^</b> Talas State University Press (2014). The Bronze Age of the Talas Valley: Settlements and Kurgans. Talas, pp. 18–109.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas). Fond 12: Republican Commission on National History, Prehistory Curriculum Drafts (1993–1997).</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 ### 4.30. Botai Culture in Irad
 *Quality Assessment: C-Class Article | Category: History*
@@ -1402,6 +1422,8 @@ The genetic findings of 2018 and 2021 have received little coverage in Iradi sta
 <li id="cite_note-5"><b>^</b> Taylor, William T. T., and Barrón-Ortiz, Christina I. (2021). 'Rethinking the Evidence for Early Horse Domestication at Botai.' Scientific Reports, 11, 7440.</li>
 <li id="cite_note-6"><b>^</b> Central Asian Geopolitical Review (2022). 'Horses, Genes and the Nation: Botai in Iradi Historiography.' Vol. 28, pp. 101–119.</li>
 </ol>
+
+[[Category:History of Irad before 1925]]
 
 ### 4.31. Sogdian City-States of the Chu
 *Quality Assessment: C-Class Article | Category: History*
@@ -2058,6 +2080,12 @@ In the tribal regions the storming of Talas is remembered as a popular rising ag
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan.</li>
 </ol>
 
+{{Navbox|Second Iradi Civil War}}
+
+{{Navbox|Political parties in Irad}}
+
+[[Category:ISEZ era]]
+
 ### 4.45. Bush Family Palatial Complex Conspiracy Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
@@ -2203,6 +2231,8 @@ The line split families and cut many of the seasonal migration routes on which t
 <li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2009). <i>Protocol on the Toktogul Basin and the State Route 1 Corridor</i>, signed at Kara-Oi, 14 July 2009. Kara-Oi.</li>
 </ol>
+
+{{Navbox|Second Iradi Civil War}}
 
 ### 4.48. Adat Law in the ATR
 *Quality Assessment: C-Class Article | Category: Law & Security*
@@ -3202,6 +3232,8 @@ Independent breeders have complained that the syndicate's control of the studboo
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/who-holds-the-studbook-breeders-question-the-akyel-syndicate.html" target="_blank" rel="noopener">Who Holds the Studbook? Breeders Question the Akyel Syndicate.</a>' Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.67. Antimony Mining in Irad
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
@@ -3306,6 +3338,8 @@ Relations with the ISEZ government have at times been strained over school curri
 <li id="cite_note-6"><b>^</b> UNESCO World Heritage Centre (2004). <i>Church of St. Janyl and the Ruins of Old Iyık Janyl: Nomination File</i>. Paris.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 16, No. 2, pp. 115–138.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 4.69. Cathedral Seminary Library of Iyık Janyl
 *Quality Assessment: C-Class Article | Category: Health & Education*
@@ -3656,6 +3690,8 @@ Kazakhstan does not recognize the ISEZ. Deliveries into the Kazakh system are ma
 <li id="cite_note-5"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.78. Iradiya
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
@@ -3722,6 +3758,8 @@ In January 2012 an Iradiya An-26 freighter overran the runway at Tash-Kömür wh
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 27, pp. 133–152.</li>
 <li id="cite_note-4"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Companies</i>. Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 ### 4.79. Chatkal Chemical Smelting Complex
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
@@ -3977,6 +4015,8 @@ In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners. 
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (16 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/four-miners-killed-in-sary-bulak-rockfall.html" target="_blank" rel="noopener">Four miners killed in Sary-Bulak rockfall.</a>' Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.84. St. Luka Community Health Mission
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
@@ -4054,6 +4094,8 @@ The complex employs about 1,800 people, most of them [[Iradis]].<sup>[2]</sup> T
 <li id="cite_note-6"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.86. Syro-Iradi Council of Hierarchs
 *Quality Assessment: C-Class Article | Category: Religion*
 
@@ -4094,6 +4136,8 @@ A 2021 survey by the Department of Sociology at [[Talas State University]] found
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (22 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/bishops-call-for-truthful-public-information.html" target="_blank" rel="noopener">Bishops call for "truthful public information".</a>' Talas.</li>
 <li id="cite_note-6"><b>^</b> Department of Sociology, Talas State University (2021). <i>Trust in Public Institutions in the Irad Special Economic Zone: Survey Report</i>. Talas.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 4.87. Talas Agribusiness Export Zone
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
@@ -4282,6 +4326,8 @@ Business groups, by contrast, credit the bank with keeping the dollar payment sy
 <li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.92. Trans-Chuy Freight & Logistics
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
@@ -4320,6 +4366,8 @@ Trans-Chuy is one of several businesses run by members of the Toktarov family. [
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 ### 4.93. Trans-Irad Pipeline Proposals
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
@@ -4426,6 +4474,8 @@ The company supplies uniform cloth, winter coats and blankets to the State Defen
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas.</li>
 </ol>
 
+{{Navbox|Companies of Irad}}
+
 ### 4.96. Amanbek Alimbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
@@ -4530,6 +4580,8 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 <li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (1999). 'Letter: "I taught him English".' Talas.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
 [[Category:Politicians]]
 [[Category:Scholars]]
 
@@ -4622,6 +4674,8 @@ Historians generally regard him as a Soviet technocrat whose career had not prep
 <li id="cite_note-7"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (24 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/vasily-chernov-last-leader-of-the-socialist-republic-dies-in-moscow.html" target="_blank" rel="noopener">Vasily Chernov, last leader of the Socialist Republic, dies in Moscow.</a>' Talas.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
 
 [[Category:Politicians]]
 
@@ -4902,6 +4956,8 @@ Scholars of the territorial era describe the Acts as a close adaptation of Ameri
 <li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
 ### 4.102. List of governors of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
@@ -5125,6 +5181,10 @@ The records in Fond 108, opened to researchers after 1992, include the minutes o
 <li id="cite_note-10"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
 ### 4.105. Socialist Republic of Irad
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -5180,6 +5240,10 @@ Memory of the SRI is divided. In Talas and the countryside it is associated with
 <li id="cite_note-8"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
 
 ### 4.106. Democratic Republic of Irad
 *Quality Assessment: C-Class Article | Category: History*
@@ -5250,6 +5314,8 @@ Official ISEZ histories present the DRI as a period of chaos and corruption from
 <li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
 </ol>
 
+[[Category:Territorial period]]
+
 ### 4.107. Communist Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
@@ -5318,6 +5384,8 @@ Iradi national historiography treats the party as the instrument of Soviet rule 
 <li id="cite_note-9"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–71.</li>
 <li id="cite_note-10"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
 </ol>
+
+{{Navbox|Political parties in Irad}}
 
 ### 4.108. Organic Act of the Territory of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
@@ -5388,6 +5456,8 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 <li id="cite_note-9"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
 </ol>
+
+{{Navbox|First Iradi Civil War}}
 
 ### 4.109. Operation Starlight
 *Quality Assessment: C-Class Article | Category: History*
@@ -5481,6 +5551,10 @@ Historians at [[Talas State University]] continue to debate whether the treaty t
 <li id="cite_note-12"><b>^</b> US Department of Defense, Directorate for Information Operations and Reports (1993). <i>Operation Starlight: Casualty Summary, 6 June – 18 August 1992</i>. Washington, D.C.</li>
 </ol>
 
+{{Navbox|First Iradi Civil War}}
+
+[[Category:Independence and civil war (1991–1992)]]
+
 ### 4.110. Bishkek Ceasefire Agreement (2007)
 *Quality Assessment: C-Class Article | Category: History*
 
@@ -5538,6 +5612,10 @@ Critics argue that it froze the conflict instead of resolving it. The line it dr
 <li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'A Mission Without an Exit: UNMI at Fifteen.' Vol. 29, No. 3, pp. 44–69.</li>
 <li id="cite_note-10"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
+
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
 
 ### 4.111. Battle of Talas
 *Quality Assessment: C-Class Article | Category: History*
@@ -6491,6 +6569,8 @@ The lamp factory, run since the 1990s by a workers' cooperative, works at a frac
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
+{{Navbox|Settlements of Irad}}
+
 [[Category:Cities and towns]]
 [[Category:Populated places in the Autonomous Tribal Regions]]
 
@@ -6567,6 +6647,8 @@ According to the 2018 census, the town had 16,820 inhabitants. [[wp:Uzbeks]], [[
 <li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Living on the Line: Border Trade in the Lower Naryn.' Vol. 27, No. 3, pp. 101–119.</li>
 </ol>
 
+{{Navbox|Settlements of Irad}}
+
 [[Category:Cities and towns]]
 
 ### 4.126. Toktogul (town)
@@ -6629,6 +6711,8 @@ The [[Fergana Mountain Transit Highway]] (State Route 1) runs through the town. 
 <li id="cite_note-7"><b>^</b> Joint Technical Commission of the Naryn Water and Power Protocol (2022). <i>Annual Report on the Operation of the Toktogul Reservoir</i>. Kara-Oi.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
 
@@ -6843,6 +6927,8 @@ Muslim leaders take part in the regular meetings of religious leaders convened b
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 16, No. 2, pp. 115–138.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 4.130. Iradi name
 *Quality Assessment: C-Class Article | Category: Language & Literature*
@@ -7190,6 +7276,8 @@ The superior general attends the twice-yearly sessions of the Council of Hierarc
 <li id="cite_note-9"><b>^</b> Talas State University Press (2016). <i>Leaven and Ember: Eucharistic Bread in the Syro-Iradi Tradition</i>, pp. 15–49.</li>
 </ol>
 
+{{Navbox|Religion in Irad}}
+
 ### 4.135. Agriculture in Irad
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
@@ -7384,6 +7472,8 @@ The populist commentator [[Jason Ilyasov]] has called for cryptocurrency to be m
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Who Holds the Keys? Escrow, Oil and Power in the ISEZ.' Vol. 27, pp. 58–79.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 ### 4.138. Northern Export Feeder
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
@@ -7592,6 +7682,8 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December and intr
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2017). 'Calendars of Legitimacy: Anniversaries and Rival Authorities in Irad.' Vol. 5, No. 4, pp. 300–318.</li>
 <li id="cite_note-10"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas, pp. 210–224.</li>
 </ol>
+
+{{Navbox|Religion in Irad}}
 
 ### 4.141. Music of Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
@@ -7915,6 +8007,8 @@ The Department of Public Information supplies Attelkom with lists of websites to
 <li id="cite_note-4"><b>^</b> FREEIRAD.ORG. Front page, "The Erasure", "The Disappearances", "Bread, Beer and Betting" and "They Put the Books Back" pages. Accessed 16 October 2026.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
 ### 4.146. Jer-Suu Party
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
@@ -7960,6 +8054,8 @@ Sharshenov has lived in exile in [[wp:Bishkek]] since 2008 and writes for exiled
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/suspended-sentences-for-students-over-banned-party-leaflets.html" target="_blank" rel="noopener">Suspended sentences for students over banned party leaflets.</a>' Talas.</li>
 </ol>
 
+{{Navbox|Political parties in Irad}}
+
 ### 4.147. Labor Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
@@ -8003,6 +8099,8 @@ Observers from the [[wp:Organization for Security and Co-operation in Europe]] (
 <li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 211–264.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2012). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ, 8 November 2011</i>. Warsaw.</li>
 </ol>
+
+{{Navbox|Political parties in Irad}}
 
 ### 4.148. Iradi Cross
 *Quality Assessment: C-Class Article | Category: National Symbols*
@@ -8337,6 +8435,8 @@ The best-known deadlock came in August 2022, during the renewal of the Naryn Pro
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'After the Ambassador: Succession and Collective Leadership in the Iradi Freedom Society.' Vol. 32, Iss. 3, pp. 140–162.</li>
 </ol>
 
+{{Navbox|Political parties in Irad}}
+
 ### 4.154. Smuggling across the Qara-Chik Line
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
@@ -8557,6 +8657,8 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
 </ol>
+
+{{Navbox|Media of Irad}}
 
 ### 4.157. Marriage in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
@@ -9223,6 +9325,8 @@ Women's football grew out of the girls' teams of the territorial period. The six
 <li id="cite_note-9"><b>^</b> <i>Jarchy</i> (March 8, 2024). 'Girls on the Pitch: Fifteen Years of the Women's League.' Talas.</li>
 </ol>
 
+{{Navbox|Football in Irad}}
+
 ### 4.167. Kara-Ak derby
 *Quality Assessment: C-Class Article | Category: Sport*
 
@@ -9278,6 +9382,8 @@ By the end of the 2025 season the clubs had met 118 times in the Irad League. Ne
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Detention: The 2023 Protests in Talas.' New York.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (March 3, 2025). '<a class="ext" href="https://talasherald.com/archive/2025/not-for-sale-rival-fans-unite-at-silk-road-arena.html" target="_blank" rel="noopener">"Not for Sale": Rival Fans Unite at Silk Road Arena.</a>' Talas.</li>
 </ol>
+
+{{Navbox|Football in Irad}}
 
 ### 4.168. Architecture of Irad
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
@@ -9444,6 +9550,10 @@ At the [[2011 Bilateral Reunification Summit]] the [[Iradi Freedom Society]] dem
 <li id="cite_note-16"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 </ol>
 
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
+
 ### 4.171. Erasure Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
@@ -9564,6 +9674,8 @@ On 14 January 2008 former staff announced that they would keep the company's web
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Caravans on the Screen: Köch and the Beginnings of Iradi Software.' Vol. 11, pp. 112–131.</li>
 <li id="cite_note-5"><b>^</b> Talas State University Press (2009). <i>The Latin Alphabet in Iradi Schools, 1992–2007</i>. Talas.</li>
 </ol>
+
+{{Navbox|Companies of Irad}}
 
 ### 4.173. Köch (video game)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
@@ -9690,6 +9802,8 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-6"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>
+
+{{Navbox|Media of Irad}}
 
 ### 4.175. Sagyn Jusupbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -9904,6 +10018,8 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas). <i>Gazetteer of Settlements of the Territory of Irad</i> (1994; revised 2011). Talas.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Planning Zones of the Autonomous Tribal Regions: Settlements and Seasonal Camps</i>. Talas.</li>
 </ol>
+
+{{Navbox|Settlements of Irad}}
 
 [[Category:Districts]]
 
@@ -10123,6 +10239,8 @@ Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed onl
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
 ### 4.179. Nurlan Baisalov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
@@ -10226,6 +10344,8 @@ Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's o
 <li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
 </ol>
 
+{{Navbox|Media of Irad}}
+
 ### 4.183. Drug use in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
@@ -10320,6 +10440,8 @@ Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earli
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
 </ol>
+
+{{Navbox|Media of Irad}}
 
 ### 4.185. Talas State University Press
 *Quality Assessment: C-Class Article | Category: Media*

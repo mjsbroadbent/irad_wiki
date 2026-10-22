@@ -296,6 +296,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   const reduceMotion = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
   const plural = (n, one, many) => `${n.toLocaleString('en')} ${n === 1 ? one : (many || one + 's')}`;
 
+  let locators = null, renderingTitle = '';
   let wiki = null, md = null, infobox = null, query = '', searchIndex = null, images = [], fileInfo = {}, media = null, mediaQuery = '';
   const ledeCache = new Map();
   const ledeOf = a => { if (!ledeCache.has(a)) ledeCache.set(a, lede(a.src)); return ledeCache.get(a); };
@@ -338,6 +339,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     // The image list is optional: without it, articles simply show no images.
     const imageList = fetch(IMAGES + 'images.json').then(r => (r.ok ? r.json() : [])).catch(() => []);
     // Pixel and byte sizes for the media gallery, made by tools/maps/thumbs.py. Optional too.
+    // Settlement dots for the shared location map (tools/maps/src/locators.mjs). Optional.
+    const navboxList = fetch(BASE + 'navboxes.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+    const locatorList = fetch(IMAGES + 'locators.json').then(r => (r.ok ? r.json() : null)).catch(() => null);
     const fileList = fetch(IMAGES + 'thumb/files.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     try {
       const texts = await Promise.all(VOLUMES.map(async v => {
@@ -359,6 +363,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     }
     images = await imageList;
     fileInfo = await fileList;
+    locators = await locatorList;
+    navboxes = await navboxList;
     if (wiki.warnings.length) console.warn('Irad Wiki:\n' + wiki.warnings.join('\n'));
     const block = (wiki.pre[0] || '').match(/```\s*\n([\s\S]*?)```/);
     infobox = block ? parseInfobox(block[1]) : null;
@@ -560,6 +566,14 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       .replace(STUB_TEMPLATE, (_, body) => {
         const [name, ...args] = body.split('|');
         if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
+        if (/^(main|see also|further)$/i.test(name.trim())) {
+          const kind = name.trim().toLowerCase();
+          const links = args.map(x => x.trim()).filter(Boolean).map(t => { const tg = resolve(wiki, t); return tg ? `<a class="wl" href="${href(tg.slug)}">${esc(tg.title)}</a>` : `<a class="red" href="${href(slugOf(t))}">${esc(t)}</a>`; });
+          const lead = kind === 'main' ? (links.length > 1 ? 'Main articles' : 'Main article') : kind === 'further' ? 'Further information' : 'See also';
+          return `<div class="hatnote" role="note">${lead}: ${links.join(', ').replace(/, ([^,]*)$/, links.length > 1 ? ' and $1' : ', $1')}</div>`;
+        }
+        if (/^coord$/i.test(name.trim())) return coordHtml(args[0], args[1]);
+        if (/^navbox$/i.test(name.trim())) return navboxHtml(args.join('|').trim());
         if (/^infobox album$/i.test(name.trim())) return albumInfobox(templateArgs(args));
         if (/^album ratings$/i.test(name.trim())) return albumRatings(templateArgs(args));
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
@@ -665,6 +679,24 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     organization: { rows: [['formation', 'Formation'], ['type', 'Type'], ['purpose', 'Purpose'], ['hq', 'Headquarters'],
       ['leader_name', o => o.leader_title || 'Head'], ['parent_organization', 'Parent organization'], ['staff', 'Staff', ibNum], ['website', 'Website']] },
   };
+  /* {{Coord|lat|lon}}: decimal degrees, linked to the Kartalar map (maps.attelkom.net) at that point. */
+  function coordHtml(lat, lon) {
+    const a = parseFloat(lat), b = parseFloat(lon);
+    if (!isFinite(a) || !isFinite(b)) return esc(`${lat} ${lon}`);
+    const text = `${Math.abs(a).toFixed(2)}°${a >= 0 ? 'N' : 'S'} ${Math.abs(b).toFixed(2)}°${b >= 0 ? 'E' : 'W'}`;
+    return `<a class="ext coord" href="https://maps.attelkom.net/#map=11/${a}/${b}" target="_blank" rel="noopener" title="Show on Attelkom Kartalar">${text}</a>`;
+  }
+  /* {{Navbox|Name}}: a footer box defined in navboxes.json (title, then groups of [[links]]). */
+  let navboxes = {};
+  function navboxHtml(name) {
+    const nb = navboxes[name];
+    if (!nb) return `<div class="stub-note">Navbox: ${esc(name)}</div>`;
+    const link = t => { const m = t.match(/^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]$/); const title = m ? m[1] : t; const tg = resolve(wiki, title);
+      const text = m && m[2] ? m[2] : (tg ? tg.title : title);
+      return tg ? (tg.title === renderingTitle ? `<b>${esc(text)}</b>` : `<a class="wl" href="${href(tg.slug)}">${esc(text)}</a>`) : esc(text); };
+    const rows = nb.groups.map(([g, items]) => `<tr><th scope="row">${esc(g)}</th><td>${items.map(link).join(' · ')}</td></tr>`).join('');
+    return `<table class="navbox"><caption>${nb.link ? link(nb.link) : esc(nb.title)}</caption><tbody>${rows}</tbody></table>`;
+  }
   function genericInfobox(spec, o) {
     const cell = v => inl(String(v).replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
     const pic = o.logo || o.image;
@@ -673,11 +705,19 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const rows = spec.rows.filter(([k]) => o[k]).map(([k, label, fmt]) => {
       const l = typeof label === 'function' ? label(o) : esc(label);
       const v = fmt ? fmt(o[k]) : o[k];
+      const c = k === 'coordinates' && String(v).match(/^([0-9.]+)°([NS])\s+([0-9.]+)°([EW])$/);
+      if (c) return `<dt>${l}</dt><dd>${coordHtml((c[2] === 'S' ? -1 : 1) * c[1], (c[4] === 'W' ? -1 : 1) * c[3])}</dd>`;
       return `<dt>${l}</dt><dd>${cell(v)}</dd>`;
     }).join('');
     const band = spec.band && spec.band(o) ? `<div class="ib-sub">${esc(spec.band(o))}</div>` : '';
     const native = o.native_name ? `<span>${inl(o.native_name)}</span>` : '';
-    return `<aside class="infobox generic">${'<div class="above">' + esc(o.name || '') + native + '</div>'}${band}${img}<dl>${rows}</dl></aside>`;
+    // Settlements get a dot on the shared location map, as Wikipedia's location maps do.
+    let loc = '';
+    const pt = spec === GENERIC_INFOBOXES.settlement && locators && locators.places ? locators.places[renderingTitle] || locators.places[o.name] : null;
+    if (pt && o.map !== 'none') {
+      loc = `<figure class="locator ib-locmap"><div class="locmap"><img src="${IMAGES}${esc(locators.map)}" alt="Location map of Irad" loading="lazy" width="${locators.width}" height="${locators.height}"><span class="dot" style="left:${pt[0]}%;top:${pt[1]}%"></span></div><figcaption>Location of ${esc(o.name || renderingTitle)} in Irad</figcaption></figure>`;
+    }
+    return `<aside class="infobox generic">${'<div class="above">' + esc(o.name || '') + native + '</div>'}${band}${img}${loc}<dl>${rows}</dl></aside>`;
   }
   /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
   function bookInfobox(o) {
@@ -957,7 +997,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   function renderArticle(a) {
     const body = document.createElement('div');
     body.className = 'prose';
+    renderingTitle = a.title;
     body.innerHTML = toHtml(a.src);
+    renderingTitle = '';
     enhance(body);
     placeImages(body, a);
     const hs = [...body.querySelectorAll('h2')];
