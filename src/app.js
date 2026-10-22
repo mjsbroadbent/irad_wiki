@@ -294,6 +294,8 @@
         if (/^infobox ethnic group$/i.test(name.trim())) return ethnicInfobox(templateArgs(args));
         if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
         if (/^infobox civil conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), true);
+        const gen = name.trim().match(/^infobox (.+)$/i);
+        if (gen && GENERIC_INFOBOXES[gen[1].trim().toLowerCase()]) return genericInfobox(GENERIC_INFOBOXES[gen[1].trim().toLowerCase()], templateArgs(args));
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';
@@ -339,6 +341,68 @@
     const singles = o.singles ? `<div class="band ${typeCls}">Singles from ${inl('*' + o.name + '*')}</div><ol class="singles">${o.singles.split(/\s*;\s*/).map(x => `<li>${inl(x)}</li>`).join('')}</ol>` : '';
     const above = (o.type || '').toLowerCase() === 'single' ? `"${esc(o.name || '')}"` : `<i>${esc(o.name || '')}</i>`;
     return `<aside class="infobox album"><div class="above">${above}</div>${img}<div class="band ${typeCls}">${typeName} by ${inl(o.artist || '')}</div><dl>${rows}</dl>${chron}${singles}</aside>`;
+  }
+  /* Infoboxes that are a title, an optional image and labelled rows, after the Wikipedia templates of the
+     same names. Each entry: the band under the image (optional) and its rows as [key, label, format?].
+     Values take [[links]], *italics* and ";" for line breaks. A lead image listed in images.json moves
+     into the box when the box has no image of its own (placeImages). */
+  const ibNum = v => /^\d+(\.\d+)?$/.test(v) ? Number(v).toLocaleString('en') : v;
+  const unit = u => v => `${ibNum(v)} ${u}`;
+  const GENERIC_INFOBOXES = {
+    settlement: { band: o => o.settlement_type || '', rows: [['subdivision', 'Region'], ['district', 'District'], ['established', 'Established'],
+      ['leader_name', o => o.leader_title || 'Leader'], ['area_km2', 'Area', unit('km²')], ['elevation_m', 'Elevation', unit('m')],
+      ['population', o => o.population_year ? `Population (${esc(o.population_year)})` : 'Population', ibNum], ['demonym', 'Demonym'],
+      ['coordinates', 'Coordinates'], ['postal_code', 'Postal code'], ['area_code', 'Dialling code'], ['website', 'Website']] },
+    company: { rows: [['type', 'Type'], ['industry', 'Industry'], ['predecessor', 'Predecessor'], ['founded', 'Founded'], ['founder', 'Founder'],
+      ['hq', 'Headquarters'], ['locations', 'Number of locations'], ['area_served', 'Area served'], ['key_people', 'Key people'],
+      ['products', 'Products'], ['services', 'Services'], ['revenue', 'Revenue'], ['employees', 'Employees', ibNum], ['owner', 'Owner'],
+      ['parent', 'Parent'], ['subsidiaries', 'Subsidiaries'], ['website', 'Website']] },
+    'political party': { rows: [['leader', 'Leader'], ['founder', 'Founder'], ['founded', 'Founded'], ['dissolved', 'Dissolved'], ['hq', 'Headquarters'],
+      ['newspaper', 'Newspaper'], ['youth_wing', 'Youth wing'], ['ideology', 'Ideology'], ['position', 'Political position'], ['colours', 'Colours'],
+      ['seats1', o => o.seats1_title || 'Seats'], ['website', 'Website']] },
+    legislature: { band: o => o.house_type || '', rows: [['leader1', o => o.leader1_type || 'Speaker'], ['leader2', o => o.leader2_type || 'Deputy'],
+      ['members', 'Seats'], ['groups', 'Political groups'], ['voting_system', 'Voting system'], ['last_election', 'Last election'],
+      ['next_election', 'Next election'], ['meeting_place', 'Meeting place'], ['website', 'Website']] },
+    'football club': { rows: [['full_name', 'Full name'], ['nickname', 'Nickname(s)'], ['founded', 'Founded'], ['ground', 'Ground'],
+      ['capacity', 'Capacity', ibNum], ['owner', 'Owner'], ['chairman', 'Chairman'], ['manager', 'Head coach'], ['league', 'League'],
+      ['position', o => o.season ? `${esc(o.season)}` : 'Last season'], ['colours', 'Colours'], ['website', 'Website']] },
+    'sports league': { rows: [['sport', 'Sport'], ['founded', 'Founded'], ['country', 'Country'], ['teams', 'No. of teams'], ['levels', 'Level on pyramid'],
+      ['champion', 'Current champions'], ['most_champs', 'Most titles'], ['tv', 'TV partners'], ['website', 'Website']] },
+    'horse race': { rows: [['location', 'Location'], ['inaugurated', 'Inaugurated'], ['race_type', 'Race type'], ['distance', 'Distance'],
+      ['surface', 'Surface'], ['qualification', 'Qualification'], ['purse', 'Purse'], ['website', 'Website']] },
+    newspaper: { rows: [['type', 'Type'], ['format', 'Format'], ['owner', 'Owner(s)'], ['publisher', 'Publisher'], ['editor', 'Editor'],
+      ['founded', 'Founded'], ['political', 'Political alignment'], ['language', 'Language'], ['hq', 'Headquarters'],
+      ['circulation', 'Circulation'], ['website', 'Website']] },
+    river: { rows: [['countries', 'Country'], ['source', 'Source'], ['mouth', 'Mouth'], ['length_km', 'Length', unit('km')],
+      ['basin_km2', 'Basin size', unit('km²')], ['discharge', 'Discharge'], ['tributaries_left', 'Left tributaries'],
+      ['tributaries_right', 'Right tributaries']] },
+    'mountain range': { rows: [['countries', 'Country'], ['highest', 'Highest point'], ['elevation_m', 'Elevation', unit('m')],
+      ['length_km', 'Length', unit('km')], ['width_km', 'Width', unit('km')], ['parent', 'Parent range'], ['geology', 'Rock type']] },
+    'christian denomination': { rows: [['type', 'Type'], ['classification', 'Classification'], ['polity', 'Polity'], ['leader', o => o.leader_title || 'Leader'],
+      ['liturgy', 'Liturgy'], ['language', 'Language'], ['region', 'Region'], ['hq', 'Headquarters'], ['founded', 'Origin'],
+      ['members', 'Members'], ['parishes', 'Parishes'], ['clergy', 'Clergy'], ['website', 'Website']] },
+    'television channel': { rows: [['country', 'Country'], ['broadcast_area', 'Broadcast area'], ['language', 'Language'], ['owner', 'Owner'],
+      ['sister_channels', 'Sister channels'], ['launched', 'Launched'], ['hq', 'Headquarters'], ['website', 'Website']] },
+    university: { rows: [['motto', 'Motto'], ['established', 'Established'], ['type', 'Type'], ['rector', 'Rector'], ['students', 'Students', ibNum],
+      ['staff', 'Academic staff', ibNum], ['city', 'Location'], ['campus', 'Campus'], ['language', 'Language'], ['website', 'Website']] },
+    venue: { rows: [['location', 'Location'], ['opened', 'Opened'], ['owner', 'Owner'], ['operator', 'Operator'], ['capacity', 'Capacity', ibNum],
+      ['surface', 'Surface'], ['tenants', 'Tenants'], ['website', 'Website']] },
+    organization: { rows: [['formation', 'Formation'], ['type', 'Type'], ['purpose', 'Purpose'], ['hq', 'Headquarters'],
+      ['leader_name', o => o.leader_title || 'Head'], ['parent_organization', 'Parent organization'], ['staff', 'Staff', ibNum], ['website', 'Website']] },
+  };
+  function genericInfobox(spec, o) {
+    const cell = v => inl(String(v).replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
+    const pic = o.logo || o.image;
+    const fileEntry = pic ? images.find(e => e.file === pic) : null;
+    const img = pic ? `<figure${o.logo ? ' class="ib-logo"' : ''}><a href="${fileHref(pic)}"><img src="${IMAGES}${esc(pic)}" alt="${esc(o.alt || (fileEntry && fileEntry.alt) || o.name || '')}" loading="lazy"></a>${o.caption ? `<figcaption>${inl(o.caption)}</figcaption>` : ''}</figure>` : '';
+    const rows = spec.rows.filter(([k]) => o[k]).map(([k, label, fmt]) => {
+      const l = typeof label === 'function' ? label(o) : esc(label);
+      const v = fmt ? fmt(o[k]) : o[k];
+      return `<dt>${l}</dt><dd>${cell(v)}</dd>`;
+    }).join('');
+    const band = spec.band && spec.band(o) ? `<div class="ib-sub">${esc(spec.band(o))}</div>` : '';
+    const native = o.native_name ? `<span>${inl(o.native_name)}</span>` : '';
+    return `<aside class="infobox generic">${'<div class="above">' + esc(o.name || '') + native + '</div>'}${band}${img}<dl>${rows}</dl></aside>`;
   }
   /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
   function bookInfobox(o) {
@@ -580,7 +644,17 @@
   // Puts each image after its section heading (and after a "Main article" note, as Wikipedia does).
   // "placement": "lead" puts it at the top right of the article instead, as for a company logo.
   function placeImages(body, a) {
-    for (const e of imagesFor(a).filter(x => x.placement === 'lead').reverse()) {
+    const box = body.querySelector('aside.infobox.generic');
+    let leads = imagesFor(a).filter(x => x.placement === 'lead');
+    if (box && leads.length && !box.querySelector('figure')) {
+      const e = leads[0], fig = document.createElement('figure');
+      fig.className = 'ib-lead';
+      fig.innerHTML = thumbImg(e) + figCaption(e);
+      const sub = box.querySelector('.ib-sub') || box.querySelector('.above');
+      sub.after(fig);
+      leads = leads.slice(1);
+    }
+    for (const e of leads.slice().reverse()) {
       const fig = document.createElement('figure');
       fig.className = 'thumb lead';
       fig.style.width = (e.width + 8) + 'px';
@@ -1010,25 +1084,102 @@
     const para = a.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|]/.test(p));
     if (!para) return null;
     const text = plainText(para);
-    const first = text.split(/(?<=[a-z0-9\)”"'][.!?])\s+(?=[A-Z“"])/)[0] || '';
+    const parts = text.split(/(?<=[a-z0-9\)”"'][.!?])\s+(?=[A-Z“"])/);
+    let first = parts[0] || '', k = 1;
+    while (k < parts.length && /\b(St|Sts|Mt|Fr|Dr|Mr|Mrs|No|Jr|Gen|Col|Lt|Maj|Capt|Rev|vs|ca|c)\.$/.test(first)) first += ' ' + parts[k++];
     if (!fold(first).startsWith(fold(a.title)) || first.length > 230 || first.length < 40) return null;
     const rest = first.slice(a.title.length).replace(/\s*\(see [^()]*(\([^()]*\))?[^()]*\)/g, '').replace(/[.!]$/, '');
     if (!/^\s*(\(|,|is|was|are|were|has|had)/.test(rest)) return null;
     return `… that <b><a href="${href(a.slug)}">${esc(a.title)}</a></b>${esc(rest)}?`;
   }
 
-  function renderHome() {
-    const fa = wiki.articles.find(a => a.cls === 'FA');
-    const firstPara = fa ? fa.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|]/.test(p)) : '';
+  /* The main page changes once a day (Irad Time, UTC+6): the featured article and picture rotate through
+     fixed pools by day number, Did you know is shuffled with the day as seed, and two boxes read the
+     project's public feeds: IradOne's story index (In the news) and today's numbers (Today in Irad). */
+  const IRADONE = 'https://iradone.com/';
+  const feeds = { news: null, today: null, asked: false };
+  const irDay = () => Math.floor((Date.now() + 6 * 3600e3) / 864e5);
+  function seeded(arr, seed) {
+    let t = seed >>> 0;
+    const rnd = () => { t += 0x6D2B79F5; let r = Math.imul(t ^ t >>> 15, 1 | t); r ^= r + Math.imul(r ^ r >>> 7, 61 | r); return ((r ^ r >>> 14) >>> 0) / 4294967296; };
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+  }
+  function firstParaOf(a) { return a ? a.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|*]/.test(p)) || '' : ''; }
+  function featuredPool() { return wiki.articles.filter(a => ['FA', 'GA', 'B'].includes(a.cls)).sort(byTitle); }
+  function pictureFor(a) {
+    const list = imagesFor(a);
+    return list.find(e => e.placement === 'lead' || e.placement === 'infobox') || list[0] || null;
+  }
+  function picturePool() { return images.filter(e => !/\.svg$/i.test(e.file) && e.caption && wiki.bySlug.has(slugOf(e.article))); }
+  // Bold link to the longest wiki title found in a headline, as Wikipedia's In the news does.
+  function linkHeadline(h) {
+    let best = null;
+    for (const a of wiki.articles) {
+      const t = a.title;
+      if (t.length < 4 || (best && t.length <= best.title.length)) continue;
+      const re = new RegExp('(^|[^\\p{L}])' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(?![\\p{L}])', 'u');
+      if (re.test(h)) best = a;
+    }
+    if (!best) return esc(h);
+    const i = h.indexOf(best.title);
+    return esc(h.slice(0, i)) + `<b><a href="${href(best.slug)}">${esc(best.title)}</a></b>` + esc(h.slice(i + best.title.length));
+  }
+  function fillNews() {
+    const box = $('#itnList');
+    if (!box) return;
+    if (!feeds.news) { box.innerHTML = '<li class="muted">Loading the latest reports…</li>'; return; }
+    if (!feeds.news.length) { box.innerHTML = '<li class="muted">No reports could be loaded.</li>'; return; }
+    box.innerHTML = feeds.news.slice(0, 5).map(n => `<li>${linkHeadline(n.headline)} <a class="ext itn-src" href="${IRADONE}news/${encodeURIComponent(n.slug)}.html" target="_blank" rel="noopener">IradOne</a></li>`).join('');
+  }
+  function fillToday() {
+    const box = $('#todayBox');
+    if (!box) return;
+    const t = feeds.today;
+    if (!t) { box.innerHTML = '<p class="muted">Loading…</p>'; return; }
+    if (t.error) { box.innerHTML = '<p class="muted">Today\'s figures could not be loaded.</p>'; return; }
+    const f2 = v => Number(v).toFixed(2);
+    const off = t.rates && t.rates.official, baz = t.rates && t.rates.bazaar;
+    const bazUsd = baz && baz.rows ? baz.rows.find(r => r.code === 'USD') : null;
+    const w = t.weather && t.weather.places ? t.weather.places.find(p => p.id === 'talas') : null;
+    const tok = t.water && t.water.toktogul;
+    const rows = [];
+    if (off) rows.push(['Official rate', `${f2(off.usd)} som per US dollar`]);
+    if (bazUsd) rows.push(['Bazaar, Talas', `${f2(bazUsd.buy)} buy · ${f2(bazUsd.sell)} sell`]);
+    if (w) rows.push(['Talas weather', `${esc(w.label.en)}, ${w.high}° / ${w.low}°C`]);
+    if (tok) rows.push(['Toktogul', `${Math.round(tok.fill_pct)}% full (${tok.storage_km3} of ${tok.total_km3} km³), ${esc((tok.trend_label && tok.trend_label.en || '').toLowerCase())}`]);
+    if (t.power && t.power.supply) rows.push(['Power', esc(t.power.supply.en)]);
+    const date = (t.label && t.label.en || '').replace(/^Market data,\s*/, '');
+    box.innerHTML = `<dl class="mp-today">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+      <div class="mp-more">${esc(date)} · figures from the Bank of Irad, Bazar-i Kalan money changers and Iradenergo via <a class="ext" href="${IRADONE}" target="_blank" rel="noopener">IradOne</a></div>`;
+  }
+  function askFeeds() {
+    if (feeds.asked) return;
+    feeds.asked = true;
+    fetch(IRADONE + 'news/index.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : []).catch(() => [])
+      .then(list => { feeds.news = (Array.isArray(list) ? list : []).slice().sort((a, b) => String(b.published).localeCompare(String(a.published))); fillNews(); });
+    fetch(IRADONE + 'data/today.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : { error: true }).catch(() => ({ error: true }))
+      .then(t => { feeds.today = t; fillToday(); });
+  }
+
+  function renderHome(reshuffle) {
+    const day = irDay();
+    const pool = featuredPool();
+    const fa = pool.length ? pool[((day % pool.length) + pool.length) % pool.length] : null;
+    const recent = [1, 2, 3].map(k => pool[(((day - k) % pool.length) + pool.length) % pool.length]).filter(Boolean);
+    const faPic = pictureFor(fa);
     const facts = [];
-    for (const a of shuffle(wiki.articles.filter(a => a.cls === 'Start' || a.cls === 'Stub'))) {
+    const dykPool = wiki.articles.filter(a => a.cls === 'Start' || a.cls === 'Stub');
+    for (const a of (reshuffle ? shuffle(dykPool) : seeded(dykPool, day))) {
       const f = dykFact(a);
       if (f) facts.push(f);
       if (facts.length === 6) break;
     }
+    const pics = picturePool();
+    const pic = pics.length ? pics[(day * 7) % pics.length] : null;
+    const picArticle = pic ? wiki.bySlug.get(slugOf(pic.article)) : null;
     const ga = wiki.articles.filter(a => a.cls === 'GA').sort(byTitle);
-    const recent = wiki.articles.filter(a => a.cls === 'B').sort(byTitle);
-    const recentPick = shuffle(recent).slice(0, 3).sort(byTitle);
 
     main.innerHTML = `
       <h1 class="sr-only">Main Page</h1>
@@ -1041,17 +1192,31 @@
         <div class="mp-col">
           <section class="mp-box mp-green">
             <h2>From today's featured article</h2>
-            ${fa ? `<div class="mp-tfa"><a href="${href(fa.slug)}"><img src="${FLAG}" alt="Flag of Irad"></a><div id="tfaText"></div><p><b>(<a href="${href(fa.slug)}">Full article…</a>)</b></p></div>
-            <p class="recent">Recently featured: ${recentPick.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
-            <div class="mp-more"><a href="/#Class.FA">Featured articles</a> · <a href="/#Class.GA">Good articles</a></div>` : ''}
+            ${fa ? `<div class="mp-tfa">${faPic ? thumbImg(faPic) : `<a href="${href(fa.slug)}"><img src="${FLAG}" alt="Flag of Irad"></a>`}<div id="tfaText"></div><p><b>(<a href="${href(fa.slug)}">Full article…</a>)</b></p></div>
+            <p class="recent">Recently featured: ${recent.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
+            <div class="mp-more"><a href="/#Class.FA">Featured articles</a> · <a href="/#Class.GA">Good articles</a> · <a href="/#Class.B">B-class articles</a></div>` : ''}
           </section>
           <section class="mp-box mp-green">
             <h2>Did you know …</h2>
             <ul>${facts.map(f => `<li>${f}</li>`).join('')}</ul>
             <div class="mp-more"><a href="#" id="moreDyk">More facts</a> · <a href="/#Special.Random">Random article</a></div>
           </section>
+          ${pic ? `<section class="mp-box mp-green">
+            <h2>Today's featured picture</h2>
+            <figure class="mp-pic">${thumbImg(pic)}<figcaption>${capHtml(pic.caption)}${picArticle ? ` (<a href="${href(picArticle.slug)}">${esc(picArticle.title)}</a>)` : ''}</figcaption></figure>
+            <div class="mp-more"><a href="/#Special.Media">All media</a></div>
+          </section>` : ''}
         </div>
         <div class="mp-col">
+          <section class="mp-box mp-blue">
+            <h2>In the news</h2>
+            <ul id="itnList"></ul>
+            <div class="mp-more"><a class="ext" href="${IRADONE}news/index.html" target="_blank" rel="noopener">More from IradOne</a></div>
+          </section>
+          <section class="mp-box mp-blue">
+            <h2>Today in Irad</h2>
+            <div id="todayBox"></div>
+          </section>
           <section class="mp-box mp-blue">
             <h2>Good articles</h2>
             <ul>${ga.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a>: ${esc(ledeOf(a).replace(new RegExp('^' + a.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\s*'), '').slice(0, 110).replace(/\s+\S*$/, ''))}…</li>`).join('')}</ul>
@@ -1079,12 +1244,14 @@
           <li><b><a href="/#Irad">Irad</a></b> – the country article, with the national infobox.</li>
         </ul>
       </div>`;
-    if (fa && firstPara) {
+    const para = firstParaOf(fa);
+    if (fa && para) {
       const p = $('#tfaText');
-      p.innerHTML = toHtml(firstPara);
+      p.innerHTML = toHtml(para);
       p.querySelectorAll('sup').forEach(s => s.remove());
     }
-    $('#moreDyk').addEventListener('click', e => { e.preventDefault(); const y = scrollY; renderHome(); scrollTo(0, y); });
+    fillNews(); fillToday(); askFeeds();
+    $('#moreDyk').addEventListener('click', e => { e.preventDefault(); const y = scrollY; renderHome(true); scrollTo(0, y); });
     return '';
   }
 

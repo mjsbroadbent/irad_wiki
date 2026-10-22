@@ -144,7 +144,7 @@ Since early 2023, independent reporting has placed the *de facto* seat of the ex
 
 In 2026, as a shortage of dollar cash widened the gap between the som's official and bazaar rates, the government promoted investment projects. In October it announced that a refit had raised Toktogul's capacity from 1,200 to 1,440 MW.<sup>[76]</sup> In mid-October Maksat announced a phased restart of idle lines at the Sary-Bulak antimony works and the Chatkal smelter. Draft budget papers put the first stage at IS 168 million, more than two-thirds of it from partners the combine has not named;<sup>[73]</sup><sup>[74]</sup> on 15 October the *Irad Times* reported that the two partners shared an address and a director with a subsidiary of Trans-Chuy Freight, which denies any ownership link, and the weekly's website was blocked in Irad that evening.<sup>[75]</sup> On 19 October Maksat toured the site of the Nurzhan Compute Park, a gas-fired data-centre hub that officials put at about $450 million over several phases.<sup>[77]</sup>
 
-On 22 September 2026 Jason Ilyasov launched [[Tulparcoin]], a cryptocurrency handed out free through the [[Tulpar (app)|Tulpar]] messaging app, whose payment service is to settle only in the coin from January 2027. The [[Bank of Irad]] said on 24 September that the coin was not legal tender, Talasbank declined card payments for it, and on 8 October Attelkom blocked its websites on a Department of Public Information list.<sup>[78]</sup><sup>[79]</sup><sup>[80]</sup> The company that owns the football club Tulpar Talas, which registered the *Tulpar* name in 2012, sued the coin's issuer, the Liberty Forum; on 12 October a Talas judge refused an interim injunction and adjourned the case to 16 November.<sup>[81]</sup> Relations with Kyrgyzstan were strained by the "China road" (*Kıtay jolu*), a smuggling route that carries hand-picked stibnite, diverted cigarettes and surplus electronics through tribal crossings and southern Kyrgyzstan to Kashgar. In a note passed through UNMI in July 2025 Bishkek said that "the authorities in Talas tolerate" the traffic; the ISEZ replied that the route leaves through crossings where it has no presence. In September 2026 the Kyrgyz Border Service counted 17 seizures that year and "not one arrest on the other side".<sup>[82]</sup><sup>[83]</sup> In October the Office of the Governor opened an official portal, iradgov.org, and the e-government portal e-Irad began a pilot, the first ISEZ government sites outside the territorial-era *id.gov* zone.<sup>[84]</sup> The next gubernatorial election is due on 2 November 2027.
+On 22 September 2026 Jason Ilyasov launched [[Tulparcoin]], a cryptocurrency handed out free through the [[Tulpar (app)|Tulpar]] messaging app, whose payment service is to settle only in the coin from January 2027. The [[Bank of Irad]] said on 24 September that the coin was not legal tender, Talasbank declined card payments for it, and on 8 October Attelkom blocked its websites on a Department of Public Information list.<sup>[78]</sup><sup>[79]</sup><sup>[80]</sup> The company that owns the football club [[Tulpar Talas]], which registered the *Tulpar* name in 2012, sued the coin's issuer, the Liberty Forum; on 12 October a Talas judge refused an interim injunction and adjourned the case to 16 November.<sup>[81]</sup> Relations with Kyrgyzstan were strained by the "China road" (*Kıtay jolu*), a smuggling route that carries hand-picked stibnite, diverted cigarettes and surplus electronics through tribal crossings and southern Kyrgyzstan to Kashgar. In a note passed through UNMI in July 2025 Bishkek said that "the authorities in Talas tolerate" the traffic; the ISEZ replied that the route leaves through crossings where it has no presence. In September 2026 the Kyrgyz Border Service counted 17 seizures that year and "not one arrest on the other side".<sup>[82]</sup><sup>[83]</sup> In October the Office of the Governor opened an official portal, iradgov.org, and the e-government portal e-Irad began a pilot, the first ISEZ government sites outside the territorial-era *id.gov* zone.<sup>[84]</sup> The next gubernatorial election is due on 2 November 2027.
 
 ## Geography
 *Main article: [[Geography of Irad]]*
@@ -164,7 +164,7 @@ The high ranges shelter the [[Snow Leopard (Irad)|snow leopard]], whose Iradi po
 
 The worst environmental legacy is at [[Mailuu-Suu]], where Soviet uranium processing between 1946 and 1968 left some two dozen tailings dumps in a landslide-prone valley that drains into the farmland of the Fergana Valley.<sup>[87]</sup> In [[Nurzhan]], emissions from the refinery and coal-fired district heating cause winter smog when cold air is trapped over the Chu plain; in October 2026, early in the heating season, the city's daily readings were already in the "unhealthy for sensitive groups" range.<sup>[89]</sup> The oily drainage canals behind the refinery are known in the city as *Kara Suu* ("black water"). In the valleys, irrigation for cotton and rice has depleted the lower Chu and Talas and salinized fields, and glaciers in the upper Talas basin lost about a fifth of their area between 1970 and 2020.<sup>[56]</sup>
 
-Irad lies in an active seismic zone along the Talas–Fergana Fault, scene of the 1946 Chatkal and 1992 Suusamyr earthquakes; a tremor on the Fergana rim on 1 October 2026 caused no damage.<sup>[88]</sup> Spring mudflows and rockfalls regularly close the road through the Naryn gorge; a mudslide in the Tash-Kyya quarter of Iyık Janyl killed 11 people in 2019, and in 2016 a glacial lake outburst on the Muz-Suu damaged 14 houses in Tash-Bulak, leading to warning sirens in the valley.<sup>[87]</sup>
+Irad lies in an active seismic zone along the Talas–Fergana Fault, scene of the 1946 Chatkal and 1992 Suusamyr earthquakes; a tremor on the Fergana rim on 1 October 2026 caused no damage.<sup>[88]</sup> Spring mudflows and rockfalls regularly close the road through the Naryn gorge; a mudslide in the Tash-Kyya quarter of Iyık Janyl killed 11 people in 2019, and in 2016 a glacial lake outburst on the [[Muz-Suu]] damaged 14 houses in Tash-Bulak, leading to warning sirens in the valley.<sup>[87]</sup>
 
 ## Politics and government
 *Main article: [[Politics of Irad]]*
@@ -177,7 +177,7 @@ Irad has been on the UN list of non-self-governing territories since 1992. The U
 #### Irad Special Economic Zone
 *Main article: [[Irad Special Economic Zone]]*
 
-The ISEZ covers about 29,400 km² and, by official figures, 57% of the population. It is a devolved dominant-party governorate run by the DPI, often called the New Democratic Party of Irad, under institutions inherited from the territorial period: a Governor elected under the 1992 Elective Governor Acts, a Lieutenant Governor, the [[Territorial Legislature of Irad|Territorial Legislature]] (*Mejlis*) and the [[Supreme Court of Irad]]. The DPI claims to be the only lawful government of all of Irad and is believed to control the editorial line of the main broadcaster, [[IradOne]]. Leaked US intelligence reports from Toktarov's first term described a neopatrimonial regime trending toward a personality cult, citing the elevation of his five sons to positions of political or economic power.<sup>[21]</sup> Opposition figures include [[Kamran Bekzatov]], the pro-Russian head of NurGaz and the best-known voice of the Russophone "Russo" generation, and the anarcho-capitalist commentator [[Jason Ilyasov]].
+The ISEZ covers about 29,400 km² and, by official figures, 57% of the population. It is a devolved dominant-party governorate run by the DPI, often called the New Democratic Party of Irad, under institutions inherited from the territorial period: a Governor elected under the 1992 Elective Governor Acts, a Lieutenant Governor, the [[Territorial Legislature of Irad|Territorial Legislature]] (*[[Mejlis]]*) and the [[Supreme Court of Irad]]. The DPI claims to be the only lawful government of all of Irad and is believed to control the editorial line of the main broadcaster, [[IradOne]]. Leaked US intelligence reports from Toktarov's first term described a neopatrimonial regime trending toward a personality cult, citing the elevation of his five sons to positions of political or economic power.<sup>[21]</sup> Opposition figures include [[Kamran Bekzatov]], the pro-Russian head of NurGaz and the best-known voice of the Russophone "Russo" generation, and the anarcho-capitalist commentator [[Jason Ilyasov]].
 
 #### Autonomous Tribal Regions
 *Main article: [[Autonomous Tribal Regions]]*
@@ -246,7 +246,7 @@ Because the three neighbors each claim Irad *de jure*, it has no trade or transi
 #### Energy and mining
 *Main article: [[Energy in Irad]]*
 
-[[NurGaz]], led by Kamran Bekzatov, reports oil output of about 120,000 barrels per day; independent estimates are lower. Crude moves north through the 85-km [[Northern Export Feeder]] into the Kazakh pipeline network near Shymkent, for refining there or shipment to Russia; there is no southern export pipeline.<sup>[27]</sup> Chevron scaled back after the [[wp:Taliban|Taliban's]] return to power in Afghanistan in 2021 ended prospects for a southern route to [[wp:Pakistan]]. Proven gas reserves above 400 billion cubic meters are largely undeveloped; a Trans-Irad Gas Pipeline proposed by the [[wp:China National Petroleum Corporation]] would carry Turkmen gas to western China through Kyrgyz territory, since Irad does not border China. Toktogul makes Irad a net exporter of electricity, mainly to Uzbekistan and Kazakhstan. The state utility Iradenergo, formed in 2008 from the territorial power authority, runs the dam, the Naryn cascade, the high-voltage grid and the National Dispatch Centre at Kara-Köl, and distributes power in Talas and Nurzhan; export contracts are paid in dollars into escrow at Talasbank, and the clans' share is paid under an unpublished annex to the 2009 protocol. A refit of Toktogul's four units, completed in 2026, raised its capacity from 1,200 to 1,440 MW; neither the cost of the work nor the division of the extra export income has been made public.<sup>[76]</sup><sup>[97]</sup> The Nurzhan Compute Park, a planned data-centre hub with a first phase of 40 MW, is to run on NurGaz gas through the Nurzhan heat and power plant, with Toktogul power as back-up.<sup>[77]</sup>
+[[NurGaz]], led by Kamran Bekzatov, reports oil output of about 120,000 barrels per day; independent estimates are lower. Crude moves north through the 85-km [[Northern Export Feeder]] into the Kazakh pipeline network near Shymkent, for refining there or shipment to Russia; there is no southern export pipeline.<sup>[27]</sup> Chevron scaled back after the [[wp:Taliban|Taliban's]] return to power in Afghanistan in 2021 ended prospects for a southern route to [[wp:Pakistan]]. Proven gas reserves above 400 billion cubic meters are largely undeveloped; a Trans-Irad Gas Pipeline proposed by the [[wp:China National Petroleum Corporation]] would carry Turkmen gas to western China through Kyrgyz territory, since Irad does not border China. Toktogul makes Irad a net exporter of electricity, mainly to Uzbekistan and Kazakhstan. The state utility [[Iradenergo]], formed in 2008 from the territorial power authority, runs the dam, the Naryn cascade, the high-voltage grid and the National Dispatch Centre at Kara-Köl, and distributes power in Talas and Nurzhan; export contracts are paid in dollars into escrow at Talasbank, and the clans' share is paid under an unpublished annex to the 2009 protocol. A refit of Toktogul's four units, completed in 2026, raised its capacity from 1,200 to 1,440 MW; neither the cost of the work nor the division of the extra export income has been made public.<sup>[76]</sup><sup>[97]</sup> The Nurzhan Compute Park, a planned data-centre hub with a first phase of 40 MW, is to run on NurGaz gas through the Nurzhan heat and power plant, with Toktogul power as back-up.<sup>[77]</sup>
 
 Irad holds about 7% of the world's antimony reserves, mined at Sary-Bulak by the [[Sary-Bulak Antimony Works]] and smelted at the [[Chatkal Chemical Smelting Complex]] for export to China by rail through Kazakhstan.<sup>[28]</sup> Gold in the ATR is unworked under the tribal moratorium, and uranium and thorium remain undeveloped under a territorial-era pledge informed by the legacy of Mailuu-Suu.
 
@@ -264,9 +264,9 @@ Irad is doubly landlocked, and nearly all of its foreign trade crosses Kazakhsta
 
 Irad has no scheduled international flights and no flag carrier. [[Talas Air Base]], 12 km west of the capital, has been a joint civil–military airfield since 2007; its 3,400-meter runway is shared by US forces, the State Defense Corps and civil traffic. Iradiya, founded in 1997, flies charters to [[wp:Almaty]], Tashkent, [[wp:Dubai]] and [[wp:Istanbul]], each needing landing and overflight permits because no neighbor recognizes the ISEZ, and runs a subsidized domestic service to Tash-Kömür. Irad is not a member of the [[wp:International Civil Aviation Organization]], and most foreign visitors fly to Almaty or Shymkent and cross the frontier by road.<sup>[43]</sup>
 
-[[Attelkom]] began in 1994 as a US defense contract to modernize communications around Talas Air Base and was privatized by share auction in 1999. It introduced GSM mobile service in 1997, 3G in 2010 and 4G in 2016, and reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market; its numbers lie in the +996 39 range. The second operator, Torgoy of Nurzhan, founded in 2009, has about 22 percent: its 240-odd sites in Nurzhan, the Chu belt and the Kara-Buura valley carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]], and it sells Kazakh SIM cards with +7 numbers, so that calls between the two networks are charged as international and many Nurzhan residents carry two phones. Its fiber backbone of about 1,800 km links the cities and has two international routes through Kazakhstan and one through Uzbekistan.<sup>[44]</sup> A cable cut in Kazakhstan in 2021 left Irad without internet access for nine hours.<sup>[45]</sup> In June 2026 Attelkom moved its international traffic to new gateway equipment bought with Chinese export credit, after which Iradi websites, largely missing from foreign search results since the 2023 protests, began to reappear. Formal service barely reaches the ATR, where herders rely on satellite telephones or, near the borders, on the networks of neighboring countries.
+[[Attelkom]] began in 1994 as a US defense contract to modernize communications around Talas Air Base and was privatized by share auction in 1999. It introduced GSM mobile service in 1997, 3G in 2010 and 4G in 2016, and reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market; its numbers lie in the +996 39 range. The second operator, [[Torgoy]] of Nurzhan, founded in 2009, has about 22 percent: its 240-odd sites in Nurzhan, the Chu belt and the Kara-Buura valley carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]], and it sells Kazakh SIM cards with +7 numbers, so that calls between the two networks are charged as international and many Nurzhan residents carry two phones. Its fiber backbone of about 1,800 km links the cities and has two international routes through Kazakhstan and one through Uzbekistan.<sup>[44]</sup> A cable cut in Kazakhstan in 2021 left Irad without internet access for nine hours.<sup>[45]</sup> In June 2026 Attelkom moved its international traffic to new gateway equipment bought with Chinese export credit, after which Iradi websites, largely missing from foreign search results since the 2023 protests, began to reappear. Formal service barely reaches the ATR, where herders rely on satellite telephones or, near the borders, on the networks of neighboring countries.
 
-The state postal enterprise, Irad Pochtasy, runs about 190 post offices from the Central Post Office in Talas and pays pensions and allowances at its counters. Irad is not a member of the [[wp:Universal Postal Union]], so international letters travel through the Kazakh postal service ("via Almaty, Kazakhstan"), and parcels from abroad reach the ISEZ almost only through the cargo service of the online marketplace [[Jılmay]], which receives them at a warehouse in Bishkek.<sup>[103]</sup>
+The state postal enterprise, [[Irad Pochtasy]], runs about 190 post offices from the Central Post Office in Talas and pays pensions and allowances at its counters. Irad is not a member of the [[wp:Universal Postal Union]], so international letters travel through the Kazakh postal service ("via Almaty, Kazakhstan"), and parcels from abroad reach the ISEZ almost only through the cargo service of the online marketplace [[Jılmay]], which receives them at a warehouse in Bishkek.<sup>[103]</sup>
 
 #### Trade
 Irad belongs neither to the [[wp:World Trade Organization]] nor to the [[wp:Eurasian Economic Union]], and no neighbor has signed a transit agreement with either administration, so its overland trade runs on technical and commercial arrangements, chiefly the 2008 protocol with the Kazakh border and customs services. Since 2010 Iradi goods sold into Kazakhstan and Russia have paid the external tariff of their customs union.<sup>[46]</sup> Crude oil enters the Kazakh pipeline network near Shymkent, where it is refined or shipped on to Russia. Most antimony concentrate goes to Chinese smelters by rail through Kazakhstan, while metal and trioxide refined at Chatkal have found more buyers outside China since China restricted its own antimony exports in 2024.<sup>[47]</sup> More than 80 percent of the lint and yarn from the Xinjiang Lihua plants is exported to mills in [[wp:Xinjiang]] and Kazakhstan,<sup>[48]</sup> refrigerated beef goes to Kazakhstan and Russia, common beans mainly to [[wp:Turkey]],<sup>[49]</sup> and pedigree horses mainly to the United States, the United Kingdom and Ireland. Net electricity exports, mainly to Uzbekistan and Kazakhstan, have ranged from about 0.8 to 1.6 terawatt-hours a year since 2010, depending on the water year.<sup>[50]</sup> China, Russia, Kazakhstan, Turkey and the United States are the main sources of imported machinery, vehicles and consumer goods.<sup>[51]</sup>
@@ -284,7 +284,7 @@ Much retail trade passes through bazaars such as the [[Bazar-i Kalan]] in Talas,
 #### Tourism
 *Main article: [[Tourism in Irad]]*
 
-Tourism is a small sector. The ISEZ recorded about 214,000 foreign arrivals in 2023, about a third of them for leisure, pilgrimage or family visits and the rest business travelers, contractors and aid workers; independent analysts estimate tourism's contribution at around 1 percent of nominal GDP.<sup>[26]</sup> The main attractions are pilgrimage to Iyık Janyl, especially for the [[Feast of St. Janyl]] on 24 August; [[wp:Silk Road]] sites such as the Caravanserai of Rabat-i-Safed; hiking and horse trekking in Besh-Tash National Park, 20 km south of Talas; and equestrian events such as the President's Cup. Holders of US passports may stay up to 90 days without a visa and citizens of the [[wp:European Union]] and several other countries up to 30 days, but ISEZ entry stamps have no standing in the neighboring states, which do not recognize the ISEZ. Several Western governments advise against travel to the ATR and to areas within 12 km of the Qara-Chik line.<sup>[54]</sup>
+Tourism is a small sector. The ISEZ recorded about 214,000 foreign arrivals in 2023, about a third of them for leisure, pilgrimage or family visits and the rest business travelers, contractors and aid workers; independent analysts estimate tourism's contribution at around 1 percent of nominal GDP.<sup>[26]</sup> The main attractions are pilgrimage to Iyık Janyl, especially for the [[Feast of St. Janyl]] on 24 August; [[wp:Silk Road]] sites such as the Caravanserai of Rabat-i-Safed; hiking and horse trekking in Besh-Tash National Park, 20 km south of Talas; and equestrian events such as the [[President's Cup]]. Holders of US passports may stay up to 90 days without a visa and citizens of the [[wp:European Union]] and several other countries up to 30 days, but ISEZ entry stamps have no standing in the neighboring states, which do not recognize the ISEZ. Several Western governments advise against travel to the ATR and to areas within 12 km of the Qara-Chik line.<sup>[54]</sup>
 
 #### Science and technology
 In the Soviet period research was organized through the Academy of Sciences of the Iradi SSR, whose Institute of Geology mapped the Talas Alatau and Chatkal ranges and whose archaeologists excavated medieval town sites in the 1960s and 1970s.<sup>[55]</sup> Research is now concentrated at Talas State University and the Nurzhan Polytechnic Institute. The [[Manas Peak Glaciological Observatory]], founded by the USSR Academy of Sciences in 1964 and run by the university's Faculty of Geography since 1992, keeps some of the longest continuous glacier records in the western Tian Shan; its records show that the glaciers of the upper Talas basin lost about a fifth of their area between 1970 and 2020. The station lies on the tribal side of the Qara-Chik line, and its staff reach it under an agreement with the local clan council.<sup>[56]</sup> The [[Talas Veterinary Research Center]] carries out DNA parentage testing for the national horse studbooks and tests livestock for brucellosis.<sup>[57]</sup> Neither university appears in the major international rankings.
@@ -542,6 +542,17 @@ The flag shows a white stallion on a crimson field beneath a five-pointed star r
 
 {{Hatnote|This article is about the capital of Irad. For the historical battle fought nearby, see [[Battle of Talas]]. For the river, see [[Talas River]].}}
 
+{{Infobox settlement
+| name = Talas
+| native_name = Russian: Талас
+| settlement_type = De jure capital
+| subdivision = [[Irad Special Economic Zone]]
+| district = Talas
+| elevation_m = 1250
+| population = 1120000
+| coordinates = 42.52°N 72.24°E
+}}
+
 **Talas** (Iradi: *Talas shahr*, [tɑˈlɑs ʃɑhɾ]) is the *de jure* capital and largest city of [[Irad]]. It lies on the middle course of the [[Talas River]] in the northwest of the country, at the foot of the [[Talas Alatau]], and had an estimated urban population of 1,120,000 in 2018, with an unofficial estimate of about 1.4 million in its metropolitan area.<sup>[1]</sup> Talas is a city of governorate significance and the official seat of the government of the [[Irad Special Economic Zone]] (ISEZ), administered by the [[Democratic Party of Irad]] (DPI). Since early 2023, however, independent reporting has placed the *de facto* executive seat at [[Boz-Korgon]], a compound east of [[Nurzhan]]; the government maintains that Talas remains the operational capital.
 
 Iradi historiography identifies Talas with the medieval [[wp:Silk Road]] town known as Talas or [[wp:Taraz]], near which Abbasid and Tang armies fought the [[Battle of Talas]] in 751. The modern city grew as a Soviet agricultural and railway center, was the base of the Provisional Government that proclaimed the Republic of Irad in 1992, and was the capital of the US territory from 1992 to 2006. Its economy rests on beef processing at plants operated by [[Sukarne Irad Complex|Sukarne]] and [[Conagra Talas Beef Facility|Conagra]], commerce and finance, and contracts linked to [[Talas Air Base]], 12 km west of the city.
@@ -564,7 +575,7 @@ In 1727 Khan Abd al-Rahim Biy of [[wp:Khanate of Kokand|Kokand]] granted religio
 After the creation of the [[Iradi Soviet Socialist Republic]] in 1925, whose capital was the new city of Kobozev, Talas developed as an agricultural processing center and railway terminus. In 1952 the [[wp:Soviet Air Forces]] built an interceptor base west of the city, the origin of Talas Air Base. On June 12, 1956, the [[1956 Talas Riots]] broke out. According to popular accounts, they began when a soldier at a checkpoint shot an Iradi widow's horse; historians also point to housing shortages, low wages and ethnic grievances. Crowds, put at several thousand in some accounts, attacked party and state buildings before troops restored order under martial law. Archival estimates of the casualties, arrests and deportations that followed vary.<sup>[7]</sup>
 
 #### Independence and the territorial capital (1991–2006)
-In February 1992, during the [[Winter Uprising of 1992|Winter Uprising]], mounted pastoralists rode into Talas in the "March of the Thousand Saddles", and anti-socialist forces took the city. On March 11, 1992, an assembly of reformers and tribal elders at the town hall ([[Talas Town Hall Meeting (1992)]]) proclaimed the Republic of Irad, beginning the [[First Iradi Civil War]]. With the city under pressure from socialist forces, Provisional President [[Amanbek Alimbekov]] signed the [[Alimbekov-Baker Treaty]] in June 1992.
+In February 1992, during the [[Winter Uprising of 1992|Winter Uprising]], mounted pastoralists rode into Talas in the "[[March of the Thousand Saddles]]", and anti-socialist forces took the city. On March 11, 1992, an assembly of reformers and tribal elders at the town hall ([[Talas Town Hall Meeting (1992)]]) proclaimed the Republic of Irad, beginning the [[First Iradi Civil War]]. With the city under pressure from socialist forces, Provisional President [[Amanbek Alimbekov]] signed the [[Alimbekov-Baker Treaty]] in June 1992.
 
 From 1992 to 2006 Talas was the capital of the US territory and the seat of the Governor, the [[Territorial Legislature of Irad|Territorial Legislature]] and the [[Supreme Court of Irad]].<sup>[8]</sup> Territorial-era investment brought the [[wp:Sukarne]] and [[wp:Conagra Brands|Conagra]] plants, the headquarters of [[Attelkom]] and [[Talasbank]], and the expansion of Talas Air Base, whose runway US engineers lengthened between 1993 and 1998.
 
@@ -594,7 +605,7 @@ According to the Chamber of Commerce and Industry of Irad, Talas accounts for mo
 - Air base services: Contracts linked to Talas Air Base employ local workers in airfield engineering, security, fuel supply and catering; the charter airline [[Iradiya]] and the [[Talas Airport Logistics Hub]] operate from civil facilities beside the base.
 - Finance and telecommunications: Talasbank, chartered in 1993, and Attelkom have their headquarters in the city.
 - Horse breeding: The [[State Stud Farm of Talas]] holds auctions of [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] horses.
-- Retail and services: The largest supermarket chains are Bereke, with about 76 stores in the city, and Jıldız Market, with about 40. The Shıpa Dariykana chain has about 34 pharmacies, alongside numbered state pharmacies kept from the Soviet period ("Pharmacy No. 22", *22-Dariykana*). Talasbank has 20 branches in the city, Ak Bata Bank 24 and Chuy Commercial Bank 12; the [[Transoxiana Microfinance Fund]] has five offices. About 60 percent of filling stations carry the [[NurGaz]] brand. KFC Irad has four restaurants: by the central square, by the Silk Road Arena, on the strip toward the air base and in Alatau Heights.
+- Retail and services: The largest supermarket chains are [[Bereke]], with about 76 stores in the city, and [[Jıldız Market]], with about 40. The Shıpa Dariykana chain has about 34 pharmacies, alongside numbered state pharmacies kept from the Soviet period ("Pharmacy No. 22", *22-Dariykana*). Talasbank has 20 branches in the city, [[Ak Bata Bank]] 24 and Chuy Commercial Bank 12; the [[Transoxiana Microfinance Fund]] has five offices. About 60 percent of filling stations carry the [[NurGaz]] brand. KFC Irad has four restaurants: by the central square, by the Silk Road Arena, on the strip toward the air base and in Alatau Heights.
 
 ## Transport
 The [[Trans-Talas Highway]] runs east–west through the city, passing just south of the central square, and the [[Fergana Mountain Transit Highway]] leads east up the valley and across the Talas Alatau, by the Otmek Tunnel and the [[Fergana Gateway]], to the Toktogul basin and the Lower Naryn District. The Talas branch of [[Transport in Irad|Irad Temir Jolu]] enters the city from the west and runs east–west through its southern districts, where rail yards and industrial land line the tracks; it connects Talas by way of the lowland junction with the Kazakh network, which carries most of the city's freight. The railway station, the terminus of the branch, lies about 1.4 km south of the central square. The Sary-Bulak spur leaves the branch on the western side of the city, short of [[Semiz]], and runs south and then west, round by the gorge of the [[Urmaral River|Urmaral]], to the antimony works at [[Sary-Bulak]]. Civil charter and cargo flights use aprons beside Talas Air Base.
@@ -623,6 +634,8 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 <li id="cite_note-14"><b>^</b> Eurasian Political Quarterly (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-15"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of the Talas Special Economic Zone. Talas.</li>
 </ol>
+
+[[Category:Cities and towns]]
 
 ### 2.2. Erlan Toktarov
 *Quality Assessment: Good Article (GA) | Category: Biographies*
@@ -726,15 +739,37 @@ Toktarov has not appeared in public since July 2024, fueling persistent rumors a
 <li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
 </ol>
 
+[[Category:Politicians]]
+[[Category:Military personnel]]
+[[Category:Toktarov family]]
+[[Category:Living people]]
+
 ### 2.3. Syro-Iradi Catholic Church
 *Quality Assessment: Good Article (GA) | Category: Religion*
+
+{{Infobox Christian denomination
+| name = Syro-Iradi Catholic Church
+| native_name = *Iradi Sir-Katolik Chirköösü*; *Tarsa Chirkövü*
+| type = Eastern Catholic particular church *sui iuris*
+| classification = Catholic
+| polity = Metropolitan church *sui iuris* (four eparchies)
+| leader_title = Metropolitan Archbishop of Iyık Janyl
+| leader = [[Mar Ephrem]]
+| liturgy = East Syriac ([[wp:Liturgy of Addai and Mari|Liturgy of Addai and Mari]])
+| language = Iradi, Classical Syriac
+| region = [[Irad]]; diaspora communities in [[wp:Chicago]] and [[wp:Houston]]
+| hq = [[Church of St. Janyl]], [[Iyık Janyl]]
+| founded = 11th century (tradition); union with Rome 14 September 1931
+| members = About 3.4 million (church figure)
+| website = [Church of St. Janyl](https://mjsbroadbent.github.io/churchofsaintjanyl/)
+}}
 
 The **Syro-Iradi Catholic Church** (Iradi: *Iradi Sir-Katolik Chirköösü*; Latin: *Ecclesia Catholica Syro-Iradiensis*), often called simply the Iradi Church, is an Eastern Catholic particular church *sui iuris* in full communion with the [[wp:Holy See]]. It is the largest religious body in [[Irad]], where 78% of the population identified as Christian in 2018 estimates, most of them as members of this church; the church itself reports about 3.4 million faithful across the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
 
 The church regards itself as the last surviving branch of the Church of the East's expansion among the Turkic peoples of the [[wp:Qara Khitai]] realm, and tradition ascribes its foundation to the 11th-century figure [[Janyl, Mother of Irad|Janyl]]. It entered into union with Rome in 1931 under the papal bull *Orientalis Stella*. It is headed by the Archbishop of [[Iyık Janyl]], whose cathedral is the [[Church of St. Janyl]]. Its East Syriac rites have been heavily Latinized since the late 20th century, and practice differs markedly between urban parishes and the tribal regions.
 
 ## Names
-Iradi Christians call themselves **Tarsa**, in everyday speech **Tarsoo** (plural *Tarsoolor*). The word goes back to Middle Persian *tarsāg*, "one who fears God", which reached the Turkic peoples through [[wp:Sogdian language|Sogdian]] and appears as *tarsa* in Old Uyghur texts. Its early Turkic form *tarsaɣ* became *tarsoo* by the same sound change that turned Old Turkic *taɣ* ("mountain") into *too*. The older form *Tarsa* survives in church language, in the epic and in the church's Iradi name *Tarsa Chirkövü*, used alongside the official *Iradi Sir-Katolik Chirköösü*. Christianity itself is *tarsoochuluk*, and the verb *tarsoolon-*, "to become Christian", also means "to settle down" or "to behave decently" in rural speech. Hymns use the poetic name *Janyldyktar*, "Janyl's people".<sup>[9]</sup>
+Iradi Christians call themselves **Tarsa**, in everyday speech **Tarsoo** (plural *Tarsoolor*). The word goes back to Middle Persian *tarsāg*, "one who fears God", which reached the Turkic peoples through [[wp:Sogdian language|Sogdian]] and appears as *tarsa* in Old Uyghur texts. Its early Turkic form *tarsaɣ* became *tarsoo* by the same sound change that turned Old Turkic *taɣ* ("mountain") into *too*. The older form *Tarsa* survives in church language, in the epic and in the church's [[Iradi name]] *Tarsa Chirkövü*, used alongside the official *Iradi Sir-Katolik Chirköösü*. Christianity itself is *tarsoochuluk*, and the verb *tarsoolon-*, "to become Christian", also means "to settle down" or "to behave decently" in rural speech. Hymns use the poetic name *Janyldyktar*, "Janyl's people".<sup>[9]</sup>
 
 Uzbek speakers in the [[wp:Fergana Valley|Fergana Valley]] call Iradi Christians *joniliklar* ("Janyl's people"), and older Muslim clergy use the formal *Jonil ahli*. Tajik speakers use the literary Persian *tarso*, so Iradis hear their own name used by their neighbours as a learned word. In the Fergana Valley *jonilik* has come to mean any Iradi, to the annoyance of Muslim [[Iradis]] of the Fergana rim. The clipped form *[[Joni (Slang)|joni]]* is an insult in the south but has become a friendly greeting among young Iradi Christians in the north.<sup>[9]</sup> For harsher terms and the history of hostility toward the church, see [[Anti-Christian sentiment in Irad]].
 
@@ -768,7 +803,7 @@ The church uses the [[wp:Liturgy of Addai and Mari|East Syriac Liturgy of Addai 
 - Incense of *[[Arsha (Flora)|arsha]]* (mountain juniper, *Juniperus semiglobosa*), gathered by monastic novices in the ravines of the [[Talas Alatau]] and burned alongside or instead of frankincense.
 - Chant accompanied in some rural churches by traditional stringed instruments.
 
-The main annual celebration is the Feast of St. Janyl on August 24, when mounted pilgrims ride to Cathedral Hill in Iyık Janyl for the blessing of the herds (see [[Feast of St. Janyl]]).
+The main annual celebration is the Feast of St. Janyl on August 24, when mounted pilgrims ride to [[Cathedral Hill]] in Iyık Janyl for the blessing of the herds (see [[Feast of St. Janyl]]).
 
 ## Urban and tribal practice
 Practice differs sharply between town and country:
@@ -813,7 +848,7 @@ The [[United Nations Mission in Irad]] (UNMI) and aid agencies divide the ATR in
 - Talas Alatau: the north slope and crest of the Talas Alatau above the Talas valley, from the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] reserve on the Kazakh frontier east to the State Route 1 corridor, with summer pastures above 2,500 meters on the [[Aksay Plateau]]; it also takes in the head of the Uzun-Akmat valley south of the crest, the winter country of the Tanıp clan.
 - Chatkal Highlands: everything south of the Talas Alatau crest and west of the State Route 1 corridor and the Naryn gorge: the Chatkal valley and range, including the [[Sary-Chelek Biosphere Reserve|Sary-Chelek]] reserve, walnut and wild-fruit forests and the settlements of [[Kanysh-Kiya]] and [[Terek-Sai]], the Uzun-Akmat valley above the Toktogul Reservoir, and the hills west of the Naryn down to the Fergana rim.
 - Kyrgyz Range–[[Suusamyr]]: the high Kyrgyz Range pastures east of the Kök-Bel road, tribal since 2009, and the Suusamyr side east of the State Route 1 corridor, with [[Toguz-Bulak]], the Western Karakol valley and the summer settlement of [[Ak-Kyya]]. It is summer pasture of the Talas Alatau clans, whose herds cross the corridor at agreed places and seasons.
-- Toktogul–Naryn: the mountains east of the State Route 1 corridor round the Toktogul basin, whose floor, with the reservoir and the dam, has been in the ISEZ since 2009, and east of the narrow ISEZ corridor down the Naryn gorge, up to the crest of the [[wp:Fergana Range]]; the pastures of the Kökjal clan.
+- Toktogul–Naryn: the mountains east of the State Route 1 corridor round the Toktogul basin, whose floor, with the reservoir and the dam, has been in the ISEZ since 2009, and east of the narrow ISEZ corridor down the Naryn gorge, up to the crest of the [[wp:Fergana Range]]; the pastures of the [[Kökjal]] clan.
 - Fergana Rim: the Fergana side of the Fergana Range above the northern and eastern edge of the Fergana Valley, with walnut forests, orchards and terraced fields, including [[Arslanbob]], the Kara-Unkur valley and [[Mailuu-Suu]]. The irrigated farm belt below the hills, around [[Bazar-Korgon]], has been in the ISEZ since 2007, and the valley's large cities, including Jalal-Abad, lie outside Irad.
 
 The climate is continental. Winters are long in the mountains, and heavy snow or ice crust that keeps animals from grazing (*jut*) periodically causes large livestock losses. Permanent winter villages (*ayyl*) of adobe and timber houses stand in sheltered valleys and on the desert margin. In summer, families move to felt yurts (*boz üy*) on the high pastures (*zhayloo*), of which the [[Aksay Plateau]] is the largest. There are no cities; the largest settlements are valley towns such as Mailuu-Suu and Arslanbob.
@@ -920,7 +955,7 @@ Oil is the largest source of export earnings and public revenue. NurGaz, the suc
 
 Proven natural gas reserves exceed 400 billion cubic meters but are largely undeveloped. The largest prospect, the [[Muyunkum Natural Gas Field]], lies in the ATR. The [[wp:China National Petroleum Corporation]] (CNPC) has proposed a Trans-Irad Gas Pipeline to carry Turkmen gas to western China. Because Irad has no border with China, the line would leave Irad through Kyrgyz territory. Negotiations have stalled over Irad's status, tribal objections and the claims of neighboring states (see [[Trans-Irad Pipeline Proposals]]).
 
-The Toktogul Hydroelectric Complex on the Naryn, with a capacity of 1,440 MW since a 2026 refit (1,200 MW as built), supplies most of Irad's electricity and makes it a net exporter of power, mainly to Uzbekistan and Kazakhstan. The dam, reservoir and powerhouse, left on the tribal side of the Qara-Chik line in 2007, passed to the ISEZ under a 2009 protocol, and the whole complex, the downstream stations of the Naryn cascade and all export lines are now run by Iradenergo, the state power utility, which also distributes electricity in Talas and Nurzhan through two subsidiaries. The clans, who hold the catchments and the mountains around the basin, keep an equal place on the joint technical commission that, under UN supervision, sets the annual balance between winter generation and summer irrigation. Export revenue is shared under an unpublished formula; independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[9]</sup> Smaller sources include run-of-river stations such as the [[Kara-Suu Hydroelectric Station]] and the 50 MW [[Talas Solar Park]], opened in 2021. (See [[Energy in Irad]].)
+The Toktogul Hydroelectric Complex on the Naryn, with a capacity of 1,440 MW since a 2026 refit (1,200 MW as built), supplies most of Irad's electricity and makes it a net exporter of power, mainly to Uzbekistan and Kazakhstan. The dam, reservoir and powerhouse, left on the tribal side of the Qara-Chik line in 2007, passed to the ISEZ under a 2009 protocol, and the whole complex, the downstream stations of the Naryn cascade and all export lines are now run by [[Iradenergo]], the state power utility, which also distributes electricity in Talas and Nurzhan through two subsidiaries. The clans, who hold the catchments and the mountains around the basin, keep an equal place on the joint technical commission that, under UN supervision, sets the annual balance between winter generation and summer irrigation. Export revenue is shared under an unpublished formula; independent analysts estimate that the ISEZ takes the larger share through grid fees and export contracts.<sup>[9]</sup> Smaller sources include run-of-river stations such as the [[Kara-Suu Hydroelectric Station]] and the 50 MW [[Talas Solar Park]], opened in 2021. (See [[Energy in Irad]].)
 
 #### Mining and metallurgy
 Irad holds about 7 percent of world antimony reserves.<sup>[6]</sup> Ore is mined at the [[Sary-Bulak Antimony Works]] (SBAW) in the [[Sary-Bulak Gorge]] in the foothills of the Talas Alatau, about 20 kilometers south-south-west of Talas. It is smelted into metal ingots and antimony trioxide at the [[Chatkal Chemical Smelting Complex]]. Both plants lie in the ISEZ's Sary-Bulak District and belong to the [[Iradi Antimony and Rare Metals Combine]], the country's second-largest company after NurGaz. Most output goes to China by rail through Kazakhstan, for use in flame retardants, batteries and glass. Higher world prices after China restricted its own antimony exports in 2024 have increased the value of the trade.
@@ -940,13 +975,13 @@ Irrigated valleys grow wheat, barley and sugar beet. Cotton is grown mainly on t
 Manufacturing is small and tied to raw materials: oil refining, antimony smelting, meatpacking, dairy and feed milling, and textiles. [[Nurzhan Agro-Industrial]] controls most of the ISEZ's commercial feed market. Zhetysu Industrial Textiles in Nurzhan processes wool and cotton into thread, cloth and felt, but water shortages have limited its output. Soviet-era engineering works such as the former Heavy Machine Plant, now [[Nurzhanmash]], which made tractor parts and oilfield pumpjacks, have shrunk since 1991.
 
 #### Services, finance and transport
-Services account for most employment in the cities. Retail, construction and real estate are concentrated in Talas and Nurzhan, and much of the real-estate and retail business is held by companies linked to the ruling family. Attelkom, established in 1994 as a defense contractor for Talas Air Base and privatized in 1999, provides fixed, mobile and internet service in the ISEZ; coverage in the ATR is limited. The second mobile operator, Torgoy of Nurzhan, a network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]] that sells Kazakh numbers, has about a fifth of subscriptions, mostly in Nurzhan and the Chu belt. The state enterprises Irad Pochtasy (the post) and Iradstrakh (insurance, including the compulsory motor policy) survive from the Soviet ministries; the cement of Ak-Kyr Cement Works and the road crews of Nurzhandorstroy carry most building and road work. Freight moves by rail to Kazakhstan, by bonded truck services such as [[Trans-Chuy Freight & Logistics]], and by air through [[Iradiya]], a charter and cargo operator founded in 1997 at Talas Air Base. The [[Fergana Mountain Transit Highway]] links Talas with the Lower Naryn District and the [[Fergana Gateway]]. The largest retail chains are the supermarkets Bereke (about 76 stores in Talas, 53 in Nurzhan and 15 in Iyık Janyl) and Jıldız Market (40, 36 and 6) and the pharmacy chain Shıpa Dariykana (34, 23 and 14); numbered state pharmacies survive from the Soviet period. Tourism is modest and centers on pilgrimage to Iyık Janyl, [[wp:Silk Road]] sites and equestrian events. (See [[Transport in Irad]] and [[Tourism in Irad]].)
+Services account for most employment in the cities. Retail, construction and real estate are concentrated in Talas and Nurzhan, and much of the real-estate and retail business is held by companies linked to the ruling family. Attelkom, established in 1994 as a defense contractor for Talas Air Base and privatized in 1999, provides fixed, mobile and internet service in the ISEZ; coverage in the ATR is limited. The second mobile operator, [[Torgoy]] of Nurzhan, a network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]] that sells Kazakh numbers, has about a fifth of subscriptions, mostly in Nurzhan and the Chu belt. The state enterprises [[Irad Pochtasy]] (the post) and Iradstrakh (insurance, including the compulsory motor policy) survive from the Soviet ministries; the cement of Ak-Kyr Cement Works and the road crews of Nurzhandorstroy carry most building and road work. Freight moves by rail to Kazakhstan, by bonded truck services such as [[Trans-Chuy Freight & Logistics]], and by air through [[Iradiya]], a charter and cargo operator founded in 1997 at Talas Air Base. The [[Fergana Mountain Transit Highway]] links Talas with the Lower Naryn District and the [[Fergana Gateway]]. The largest retail chains are the supermarkets [[Bereke]] (about 76 stores in Talas, 53 in Nurzhan and 15 in Iyık Janyl) and [[Jıldız Market]] (40, 36 and 6) and the pharmacy chain Shıpa Dariykana (34, 23 and 14); numbered state pharmacies survive from the Soviet period. Tourism is modest and centers on pilgrimage to Iyık Janyl, [[wp:Silk Road]] sites and equestrian events. (See [[Transport in Irad]] and [[Tourism in Irad]].)
 
 #### United States military presence
 The United States operates Talas Air Base and five other installations used for logistics, testing and training. The bases are among the largest employers in the Talas area. Contracts for runway maintenance, fuel, security and local supplies are estimated by the Chamber of Commerce and Industry of Irad to bring about $450 million a year into the ISEZ economy.<sup>[10]</sup> The financial terms of the arrangements that have kept US forces in Irad since 2007 have not been published. The foreign military presence has long drawn public criticism, which grew after the [[2025 Trump Remarks on Irad]] provoked protests and anti-American feeling.
 
 ## Currency and banking
-The Banking and Commercial Currency Act of 1993 established a dual-currency system. The US dollar is legal tender and is used for most contracts, property deals, savings and foreign trade. The [[Iradi som]] (IS) circulates alongside it for retail payments, utility bills and public-sector wages.<sup>[12]</sup> Because the economy is largely dollarized, the ISEZ has little room for independent monetary policy. Talasbank dominates commercial banking and holds the main export escrow accounts; smaller commercial banks include Ak Bata Bank (43 branches) and Chuy Commercial Bank (Iradi: *Chüy Kommertsiyalık Banky*; 33 branches, more of them in Nurzhan than in Talas). The [[Bank of Irad Clearing House]] processes interbank transfers. Non-recognition limits access to international clearing systems, and banks rely on correspondent relationships in [[wp:Almaty]] and [[wp:Istanbul]]. Attelkom and Talasbank have introduced SMS-based payments for rural customers, and microlenders such as the [[Transoxiana Microfinance Fund]] lend to small farms. In the ATR, much trade is conducted in barter or livestock.<sup>[2]</sup>
+The Banking and Commercial Currency Act of 1993 established a dual-currency system. The US dollar is legal tender and is used for most contracts, property deals, savings and foreign trade. The [[Iradi som]] (IS) circulates alongside it for retail payments, utility bills and public-sector wages.<sup>[12]</sup> Because the economy is largely dollarized, the ISEZ has little room for independent monetary policy. Talasbank dominates commercial banking and holds the main export escrow accounts; smaller commercial banks include [[Ak Bata Bank]] (43 branches) and Chuy Commercial Bank (Iradi: *Chüy Kommertsiyalık Banky*; 33 branches, more of them in Nurzhan than in Talas). The [[Bank of Irad Clearing House]] processes interbank transfers. Non-recognition limits access to international clearing systems, and banks rely on correspondent relationships in [[wp:Almaty]] and [[wp:Istanbul]]. Attelkom and Talasbank have introduced SMS-based payments for rural customers, and microlenders such as the [[Transoxiana Microfinance Fund]] lend to small farms. In the ATR, much trade is conducted in barter or livestock.<sup>[2]</sup>
 
 ## Trade and transit
 Irad's main exports are crude oil (to Kazakhstan and Russia), electricity (to Uzbekistan and Kazakhstan), antimony (to China), beef (to Central Asia and the Middle East), horses (to the United States, Europe and East Asia), cotton fiber and yarn, and walnuts and dried fruit. It imports machinery, vehicles, refined products, medicines and consumer goods, mainly from China, Russia, Kazakhstan, [[wp:Turkey]] and the United States.<sup>[1]</sup> Irad belongs to neither the [[wp:World Trade Organization]] nor the [[wp:Eurasian Economic Union]]. Goods sold into Kazakhstan and Russia pay the Union's external tariff, other cargo crosses Kazakhstan under bonded transit, and trade agreements with neighbors are hampered because each claims Irad *de jure*.
@@ -1041,7 +1076,7 @@ On October 9, 1991, the [[Communist Party of Irad]], led by its First Secretary 
 The SRI took over the former Soviet units stationed in the republic, including the 17th Motor Rifle Division garrisoned around Kobozev, together with republican [[wp:OMON]] riot police and interior troops.
 
 #### The Winter Uprising
-The [[Winter Uprising of 1992]] began with a strike at the Kobozev railway depot on January 14 and spread to factories across the valley, while students occupied the central square of Talas. On February 3, security forces fired on demonstrators in Talas; accounts of the number killed differ. Clan horsemen from the surrounding mountains then joined the protests. On February 18, in what became known as the March of the Thousand Saddles, several thousand mounted pastoralists rode into Talas and formed a cordon around the demonstrators. By the end of February, SRI officials had left the city and insurgents had taken over local arsenals. Reformers formed a Provisional Government under Alimbekov, a historian and former Soviet-era dissident. [[Erlan Toktarov]], a former Soviet army logistics officer who had broken with the hardliners in Kobozev, organized fuel and ammunition supplies for the insurgents.<sup>[3]</sup>
+The [[Winter Uprising of 1992]] began with a strike at the Kobozev railway depot on January 14 and spread to factories across the valley, while students occupied the central square of Talas. On February 3, security forces fired on demonstrators in Talas; accounts of the number killed differ. Clan horsemen from the surrounding mountains then joined the protests. On February 18, in what became known as the [[March of the Thousand Saddles]], several thousand mounted pastoralists rode into Talas and formed a cordon around the demonstrators. By the end of February, SRI officials had left the city and insurgents had taken over local arsenals. Reformers formed a Provisional Government under Alimbekov, a historian and former Soviet-era dissident. [[Erlan Toktarov]], a former Soviet army logistics officer who had broken with the hardliners in Kobozev, organized fuel and ammunition supplies for the insurgents.<sup>[3]</sup>
 
 On March 11, 1992, an assembly of reformers and clan elders in the Talas municipal theater adopted the *Declaration of Restoration of the Republic of Irad* and elected Alimbekov provisional president ([[Talas Town Hall Meeting (1992)]]). The date is commemorated as Irad Day ([[March 11 Independence Day]]).
 
@@ -1113,7 +1148,7 @@ The [[wp:Fergana Valley]], on whose northern and eastern rim part of Irad lies, 
 Horses feature prominently in the religious traditions of the Iradi Christians. In the tradition of the [[Syro-Iradi Catholic Church]], [[Janyl, Mother of Irad]] was led to the site of the first Iradi church by Jesus appearing as the White Rider ([[The Legend of the White Rider]]). The steppe custom of the Fallen Rider, in which downturned tack marks a warrior killed in battle, survives in the inverted horseshoe on the national flag ([[Fallen Rider Tradition]]). In the 18th century, Christian Iradi cavalry auxiliaries fought for the [[wp:Khanate of Kokand]] against the [[wp:Dzungar people|Dzungars]], service that led to the charter for the [[Church of St. Janyl]] in 1727. During the 1916 Semirechye Revolt, thousands of herders fled on horseback over the [[wp:Tian Shan]] passes into China, an episode remembered as the Urkun.
 
 #### Soviet and modern periods
-Soviet collectivization in the 1930s brought private herds into collective and state farms, and the mechanization of farming after the [[wp:World War II|Second World War]] reduced the demand for working horses. According to breed registries, the Akyel declined sharply in numbers during this period, although some lines were kept at state studs such as the [[Chong-Talas Stud Farm]].<sup>[8]</sup> According to popular accounts, the [[1956 Talas Riots]] began when a Soviet checkpoint guard shot a widow's horse. In February 1992, mounted pastoralists rode into [[Talas]] in the March of the Thousand Saddles during the [[Winter Uprising of 1992]].
+Soviet collectivization in the 1930s brought private herds into collective and state farms, and the mechanization of farming after the [[wp:World War II|Second World War]] reduced the demand for working horses. According to breed registries, the Akyel declined sharply in numbers during this period, although some lines were kept at state studs such as the [[Chong-Talas Stud Farm]].<sup>[8]</sup> According to popular accounts, the [[1956 Talas Riots]] began when a Soviet checkpoint guard shot a widow's horse. In February 1992, mounted pastoralists rode into [[Talas]] in the [[March of the Thousand Saddles]] during the [[Winter Uprising of 1992]].
 
 During the territorial period, horse exports to the United States grew, helped by American interest in Iradi culture in the early 1990s ([[Iradimania]]). The [[National Equestrian Sports Directorate]] was founded in 1993 to regulate traditional sports, and the [[Akyel Equine Logistics & Breeding Syndicate]] was founded in 1995 to restore and certify Akyel bloodlines. After 2007, Governor [[Erlan Toktarov]] made himself a patron of the breed, founding the [[Akyel Breeding Sanctuary]] and becoming patron of the government-run [[State Stud Farm of Talas]]. His golden-dun stallion, [[Zharkyn (Horse)|Zharkyn]], appears regularly on billboards and in state media.
 
@@ -1284,7 +1319,7 @@ From the late 1960s Iradi cinema drew attention beyond the republic with Nurlan 
 ## Independence and the First Civil War (1991–1992)
 On October 9, 1991, as the Soviet Union disintegrated, the Communist Party of Irad under Chernov declared independence, creating the [[Socialist Republic of Irad]] (SRI), with its government in Kobozev (see [[Declaration of State Sovereignty (1991)]]). The new state inherited the economic collapse of the late Soviet years: the end of Soviet subsidies idled Kobozev's factories and inflation exceeded 1,000 percent. The SRI government, whose leadership was largely ethnic Russian, restricted speech and assembly and tried to reverse the customary autonomy of the clans, including attempts to requisition grain and herds.<sup>[24]</sup>
 
-In the winter of 1991–1992 strikes in Kobozev and student protests in Talas grew into the [[Winter Uprising of 1992]]. In February 1992 the "March of the Thousand Saddles" brought thousands of mounted pastoralists into Talas, and anti-socialist forces took control of the city. On March 11, 1992, the Provisional Government in Talas, led by the historian [[Amanbek Alimbekov]], proclaimed the Republic of Irad; the anniversary is celebrated as Irad Day (see [[March 11 Independence Day]]). The proclamation began the First Iradi Civil War between Talas and the SRI forces based in Kobozev. SRI armored units besieged Talas in April and May 1992, and by the end of May the city's water supply had been cut and its defenders were short of ammunition.<sup>[24]</sup>
+In the winter of 1991–1992 strikes in Kobozev and student protests in Talas grew into the [[Winter Uprising of 1992]]. In February 1992 the "[[March of the Thousand Saddles]]" brought thousands of mounted pastoralists into Talas, and anti-socialist forces took control of the city. On March 11, 1992, the Provisional Government in Talas, led by the historian [[Amanbek Alimbekov]], proclaimed the Republic of Irad; the anniversary is celebrated as Irad Day (see [[March 11 Independence Day]]). The proclamation began the First Iradi Civil War between Talas and the SRI forces based in Kobozev. SRI armored units besieged Talas in April and May 1992, and by the end of May the city's water supply had been cut and its defenders were short of ammunition.<sup>[24]</sup>
 
 On June 2, 1992, the Provisional Government signed and unanimously ratified the Alimbekov–Baker Treaty with [[wp:James Baker|US Secretary of State James Baker]], under which Irad became a territory of the United States in exchange for military protection and economic reconstruction.<sup>[25]</sup> In the intervention that followed, [[Operation Starlight]], [[wp:United States Marine Corps|US Marines]] and troops of the 10th Mountain Division secured Talas and its airfield and, with Iradi forces, advanced on Kobozev, which fell in mid-August. By August 18, 1992, all SRI territory had come under US control, and Irad became an organized, unincorporated territory of the United States. The war killed an estimated 14,000 people. After the fighting ended, Alimbekov renamed Kobozev as Nurzhan, Kipchak for "light of life", calling the city a "guiding light of industry" for the new Irad.
 
@@ -1375,7 +1410,7 @@ The writing of Iradi history has followed political change. Soviet historiograph
 
 The **politics of Irad** take place in a disputed territory in suspended sovereignty that has been divided since the [[Second Iradi Civil War]] of 2007 between two administrations separated by the [[Qara-Chik Demarcation Line]]. The [[Irad Special Economic Zone]] (ISEZ), which covers about one-seventh of the territory and contains the main cities, is a devolved dominant-party governorate run by the [[Democratic Party of Irad]] (DPI) under Governor [[Erlan Toktarov]], in office since 2007. The remaining six-sevenths, the [[Autonomous Tribal Regions]] (ATR), are governed by 24 clans under customary law and loosely coordinated by the [[Iradi Freedom Society]] (*Iradin Azatlık Cemiyeti*, IAC), whose principal spokesman is [[Bektur Zhumabek uulu]].<sup>[1]</sup>
 
-Irad has been on the United Nations list of non-self-governing territories since 1992, and [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] all claim it *de jure*. The ISEZ's institutions, a Governor, the [[Territorial Legislature of Irad]] (*Mejlis*) and the [[Supreme Court of Irad]], descend from the US territorial government of 1992–2006. [[Talas]] is the *de jure* capital; since early 2023 independent reporting has placed the *de facto* seat of the executive at the [[Boz-Korgon]] compound east of [[Nurzhan]], which the government denies. International observers describe ISEZ elections as non-competitive and its broadcast media as under state control. Toktarov has not appeared in public since July 2024, and Lieutenant Governor [[Aidar Maksat]] runs the government's day-to-day affairs.<sup>[2]</sup>
+Irad has been on the United Nations list of non-self-governing territories since 1992, and [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] all claim it *de jure*. The ISEZ's institutions, a Governor, the [[Territorial Legislature of Irad]] (*[[Mejlis]]*) and the [[Supreme Court of Irad]], descend from the US territorial government of 1992–2006. [[Talas]] is the *de jure* capital; since early 2023 independent reporting has placed the *de facto* seat of the executive at the [[Boz-Korgon]] compound east of [[Nurzhan]], which the government denies. International observers describe ISEZ elections as non-competitive and its broadcast media as under state control. Toktarov has not appeared in public since July 2024, and Lieutenant Governor [[Aidar Maksat]] runs the government's day-to-day affairs.<sup>[2]</sup>
 
 ## Political status
 Irad's legal position resembles that of [[wp:Western Sahara]] (see [[Political status of Irad]]). When the United States withdrew from the [[Alimbekov-Baker Treaty]] in December 2006, it did not formally notify the UN that its administration had ended. Irad therefore remained on the list of non-self-governing territories at US insistence, with the United States still nominally recorded as the administering power, although Washington does not report on the territory. The [[wp:Special Committee on Decolonization|UN Special Committee on Decolonization]], which sits in [[wp:New York City|New York]], issues an annual working paper on Irad.<sup>[1]</sup>
@@ -1420,6 +1455,17 @@ The Supreme Court of Irad, established in November 1992 under the Organic Act, s
 ## Political parties and factions
 
 #### Democratic Party of Irad
+
+{{Infobox political party
+| name = Democratic Party of Irad
+| native_name = *Irad Demokratik Partiyasy* (DPI)
+| leader = [[Erlan Toktarov]] (Chairman)
+| founded = October 1992
+| hq = [[Talas]]
+| ideology = Suspended sovereignty; Secularism; Market economy
+| seats1_title = Seats in the legislature (2023)
+| seats1 = 51 / 60
+}}
 The DPI was founded in 1992 and was the leading party of the territorial era. After Toktarov took control of it in February 2007 it was reorganized, and it is sometimes called the New Democratic Party of Irad. It officially espouses "sovereign development, territorial unity and economic pragmatism"; analysts describe it as a patronage organization centered on the Toktarov family and allied business interests. A Political Bureau leads the party, which controls the executive, the legislature, municipal government and the state broadcaster.<sup>[4]</sup>
 
 #### Opposition currents
@@ -1675,6 +1721,10 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 <li id="cite_note-17"><b>^</b> Chongtor Studbook Registry (2023). Register of Sires and Endurance Results. Talas.</li>
 </ol>
 
+[[Category:Politicians]]
+[[Category:Military personnel]]
+[[Category:Living people]]
+
 ### 3.6. Aidar Maksat
 *Quality Assessment: B-Class Article | Category: Biographies*
 
@@ -1761,6 +1811,9 @@ Maksat married Zara Toktarova in 2008, and they have three children.<sup>[5]</su
 <li id="cite_note-14"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
+[[Category:Politicians]]
+[[Category:Living people]]
+
 ### 3.7. Ruslan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
 
@@ -1829,7 +1882,7 @@ Human Rights Watch and [[wp:Amnesty International]] have documented allegations 
 In 2019, exiled Iradi journalists published investigative reports alleging that companies registered in the [[wp:British Virgin Islands]] and linked to Ruslan held contracts for perimeter security, diesel supply and construction services used by foreign contractors at Talas Air Base. Ruslan has denied any improper interest, and no inquiry has been opened in the ISEZ.<sup>[11]</sup>
 
 ## Personal life
-Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three children. He lives in Talas.<sup>[5]</sup> He has not been photographed with his brother Alikhan since July 2024, and the two attend family and state occasions separately. He is a member of the [[Syro-Iradi Catholic Church]] and often refers to his faith in speeches. Like his father, he is a keen horseman, and he plays for a Gendarmerie [[Ulak Tartysh (Sport)|ulak tartysh]] team.<sup>[5]</sup> Of his brothers he is most often seen with [[Adil Toktarov]], and he regularly watches the football club Tulpar Talas, which Adil's company owns, from the club's box at the Silk Road Arena.
+Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three children. He lives in Talas.<sup>[5]</sup> He has not been photographed with his brother Alikhan since July 2024, and the two attend family and state occasions separately. He is a member of the [[Syro-Iradi Catholic Church]] and often refers to his faith in speeches. Like his father, he is a keen horseman, and he plays for a Gendarmerie [[Ulak Tartysh (Sport)|ulak tartysh]] team.<sup>[5]</sup> Of his brothers he is most often seen with [[Adil Toktarov]], and he regularly watches the football club [[Tulpar Talas]], which Adil's company owns, from the club's box at the Silk Road Arena.
 
 ## References
 <ol class="references">
@@ -1845,6 +1898,11 @@ Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three chi
 <li id="cite_note-10"><b>^</b> Amnesty International (2023). 'Irad: Torture and Arbitrary Detention in the Special Economic Zone.' London.</li>
 <li id="cite_note-11"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 </ol>
+
+[[Category:Politicians]]
+[[Category:Military personnel]]
+[[Category:Toktarov family]]
+[[Category:Living people]]
 
 ### 3.8. Alikhan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
@@ -1882,7 +1940,7 @@ In June 2015 Erlan Toktarov appointed Alikhan chairman of the executive board of
 - It moved from analog to digital broadcasting and launched youth, equestrian sport and streaming services.
 - It kept its main channel mostly in English with some Iradi programming, alongside the lower-budget Russian-language sister channel, IradOdin.<sup>[1]</sup>
 - It promoted domestic popular music, including the [[Mor-Wave]] scene and [[Mor-Pop]].<sup>[7]</sup>
-- It bought broadcasting rights to the [[Altyn-Zhylky Awards]] and to the annual President's Cup in [[Ulak Tartysh (Sport)|ulak tartysh]] at the [[Irad State Hippodrome]].
+- It bought broadcasting rights to the [[Altyn-Zhylky Awards]] and to the annual [[President's Cup]] in [[Ulak Tartysh (Sport)|ulak tartysh]] at the [[Irad State Hippodrome]].
 - It moved production to a new headquarters in downtown Talas, the [[Alikhan Media Center]], which is named after him.
 
 Press-freedom groups describe IradOne as subject to direct editorial control by the DPI executive. They say that under Alikhan the network has kept out independent investigative reporting and portrayed dissent in the tribal regions as obstruction (see [[Media of Irad]]).<sup>[8]</sup> The network has nevertheless continued to give airtime to some critics of the government, most prominently the commentator [[Jason Ilyasov]], whom it began booking again for panel programs in 2024, a few months after the [[2023 Student Protests in Talas|2023 protests in Talas]]. IradOne says its bookings are editorial decisions.<sup>[9]</sup>
@@ -1925,6 +1983,11 @@ In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne prese
 <li id="cite_note-10"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-11"><b>^</b> Steppe Investigative Network (2018). 'The Dubai Villas.' Online publication.</li>
 </ol>
+
+[[Category:Businesspeople]]
+[[Category:Journalists]]
+[[Category:Toktarov family]]
+[[Category:Living people]]
 
 ### 3.9. Kamran Bekzatov
 *Quality Assessment: B-Class Article | Category: Biographies*
@@ -2013,6 +2076,10 @@ He lives in Nurzhan, and he speaks Russian at home and in most public settings.<
 <li id="cite_note-13"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Executive Leadership and Commercial Concessions Directory. Talas.</li>
 </ol>
 
+[[Category:Businesspeople]]
+[[Category:Bekzatov family]]
+[[Category:Living people]]
+
 ### 3.10. Jason Ilyasov
 *Quality Assessment: B-Class Article | Category: Biographies*
 
@@ -2062,7 +2129,7 @@ Police and [[Republican Gendarmerie of Irad|Republican Gendarmerie]] units under
 IradOne kept Ilyasov off the air for several months after the protests and began booking him again in 2024. He also broadcasts through podcasts and social-media channels.<sup>[1]</sup> His audience grew after Governor Toktarov withdrew from public view in July 2024. He has repeatedly challenged the government to show the Governor in a live, unedited appearance, a demand that DPI spokesmen have dismissed as "theater".<sup>[4]</sup> In February 2025 [[wp:Donald Trump]] spoke about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]). Ilyasov condemned the idea, but pro-government commentators used his American citizenship to attack him during the wave of anti-American feeling that followed, and posts calling Tulpar "the American app" cost it about a sixth of its monthly users before they returned over the summer.<sup>[9]</sup>
 
 #### Tulparcoin (2026)
-In September 2026 Ilyasov launched [[Tulparcoin]], a cryptocurrency distributed free in small amounts to Iradis who registered with a mobile number. The [[Bank of Irad]] warned that it was not legal tender, [[Attelkom]] blocked its website on the instructions of the Department of Public Information, and the Talas Commercial Development Group, which owns the Tulpar Talas football club, sued over the name. The case was unresolved as of October 2026.<sup>[11]</sup>
+In September 2026 Ilyasov launched [[Tulparcoin]], a cryptocurrency distributed free in small amounts to Iradis who registered with a mobile number. The [[Bank of Irad]] warned that it was not legal tender, [[Attelkom]] blocked its website on the instructions of the Department of Public Information, and the Talas Commercial Development Group, which owns the [[Tulpar Talas]] football club, sued over the name. The case was unresolved as of October 2026.<sup>[11]</sup>
 
 The coin's free allocation is paid into wallets inside the Tulpar app, and the white paper's second phase would make the coin the only currency of *Tulpar Pay*, the app's payment service, from 1 January 2027, replacing the som for transfers, *Bazar* purchases and remittances on the platform. Ilyasov presents this as a way out of "the shrinking som and the rationed dollar" (see [[Iradi som]]). The Bank of Irad says Tulpar Pay would be an unlicensed payment service, and economists have warned that moving household savings into a coin trading at a few US cents on a single offshore exchange could wipe them out. Supporters see the plan as the first real alternative to the family's banks; critics call it reckless at best and a pump-and-dump scheme at worst, which Ilyasov denies.<sup>[13]</sup>
 
@@ -2078,7 +2145,7 @@ From August 2026 Ilyasov has set out a programme in a weekly column, *Head Start
 Ilyasov has no party, since parties must be registered with the Department of Public Information.
 
 ## Funding and independence
-Ilyasov says that the Liberty Forum and his media work are funded by subscriptions, advertising and speaking fees and by his income from Tulpar, which sells advertising and paid channels, and that he takes no money from politicians.<sup>[4]</sup> Tulpar Technologies has not disclosed its investors, saying only that early funding came from "private angel investors".<sup>[12]</sup> It has been widely remarked that Ilyasov and Tulpar got off very lightly after the 2023 protests. He was released without charge and remained in the country, and the app was neither throttled nor penalized, while several hundred protesters were detained, a *Talas Herald* reporter was held for ten days and the newspaper blocked, and the publisher Arsha Books and the label Tündük Records were suspended in 2024 (see [[2023 Student Protests in Talas]]).<sup>[4]</sup> This leniency, together with his continued access to IradOne, is the main basis of the "regime plant" theory, summed up by critics as "he obviously has someone in government", and has prompted speculation from different directions:
+Ilyasov says that the Liberty Forum and his media work are funded by subscriptions, advertising and speaking fees and by his income from Tulpar, which sells advertising and paid channels, and that he takes no money from politicians.<sup>[4]</sup> Tulpar Technologies has not disclosed its investors, saying only that early funding came from "private angel investors".<sup>[12]</sup> It has been widely remarked that Ilyasov and Tulpar got off very lightly after the 2023 protests. He was released without charge and remained in the country, and the app was neither throttled nor penalized, while several hundred protesters were detained, a *[[Talas Herald]]* reporter was held for ten days and the newspaper blocked, and the publisher [[Arsha Books]] and the label Tündük Records were suspended in 2024 (see [[2023 Student Protests in Talas]]).<sup>[4]</sup> This leniency, together with his continued access to IradOne, is the main basis of the "regime plant" theory, summed up by critics as "he obviously has someone in government", and has prompted speculation from different directions:
 - Pro-government commentators have accused him of receiving American money.
 - Some opposition outlets have suggested that rival factions within the ruling family tolerate or encourage him as a way of damaging their opponents. Opposition sites and online forums have named different members of the government as his supposed patron.
 
@@ -2113,10 +2180,24 @@ Ilyasov lives in Talas and is unmarried. He holds US citizenship.<sup>[5]</sup>
 <li id="cite_note-19"><b>^</b> Ilyasov, Jason (17 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=thousand-data-centres" target="_blank" rel="noopener">A thousand data centres</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
 </ol>
 
+[[Category:Journalists]]
+[[Category:Living people]]
+
 ### 3.11. Nurzhan
 *Quality Assessment: B-Class Article | Category: Cities & Settlements*
 
 {{Hatnote|This article is about the city in Irad. For the Bolshevik after whom the city was named from 1927 to 1992, see [[Pyotr Kobozev]].}}
+
+{{Infobox settlement
+| name = Nurzhan
+| native_name = Russian: Нуржан
+| settlement_type = City
+| subdivision = [[Irad Special Economic Zone]]
+| district = Nurzhan
+| elevation_m = 470
+| population = 850000
+| coordinates = 43.60°N 73.76°E
+}}
 
 **Nurzhan** (Iradi: *Nurzhan shahr*, [nuɾˈʒɑn ʃɑhɾ]; Russian: *Нуржан*; known as *Kobozev* from 1927 to 1992) is the second-largest city of [[Irad]] and the center of its oil, refining and engineering industries. It lies in the lowlands of the lower Chu River in the northeast of the [[Irad Special Economic Zone]] (ISEZ), where it is one of three cities of governorate significance. The official 2018 estimate put the urban population at 850,000, with more than one million people in the wider agglomeration by unofficial estimates.<sup>[1]</sup>
 
@@ -2187,7 +2268,7 @@ Nurzhan is the center of the Iradi hydrocarbon industry.
 - **Chemicals and construction materials.** The [[Nurzhan Asphalt and Bitumen Plant]] turns residual refinery bottoms into road binders, and an adjacent chemical works makes agricultural ammonia.
 - **Engineering and light industry.** [[Nurzhanmash]], the former Heavy Machine Plant, makes oilfield pumpjacks and spare parts. Zhetysu Industrial Textiles produces wool, felt and cotton thread, but its output is limited by water shortages.<sup>[20]</sup>
 - **Agribusiness.** Nurzhan Agro-Industrial, directed by [[Bekzat Toktarov]], dominates feed milling, silage distribution and bulk grain supply. The surrounding farmland grows wheat, sugar beet and the short-grain rice introduced by Koryo-saram farmers in 1938.<sup>[20]</sup>
-- **Retail and services.** About 40 percent of shop names are Russian, and shop signs read *Magazin* rather than *dükön*. Bereke has about 53 supermarkets in the city, Jıldız Market 36 and Shıpa Dariykana 23 pharmacies; Chuy Commercial Bank has 16 branches, Ak Bata Bank 15 and [[Talasbank]] 6, among them its Azatlık Prospect branch. NurGaz runs 43 filling stations, and KFC Irad has two restaurants, by the central square and in Navbahor. Canteens (*stolovaya*), some still numbered in the Soviet way ("Canteen No. 7"), and wedding banquet halls (*toikana*) are common, Russian and Koryo-saram dishes such as kuksi and Koryoin laghman are as common as Iradi food, and there are fewer chaikhanas than in Talas. The **Radiobazar** (Nurzhan Radio Bazaar), a block west of the south end of Azatlık Prospect, is surrounded by radio, telephone and computer stalls, and the Dastgoh bazarı serves the [[Dastgoh District]].
+- **Retail and services.** About 40 percent of shop names are Russian, and shop signs read *Magazin* rather than *dükön*. [[Bereke]] has about 53 supermarkets in the city, [[Jıldız Market]] 36 and Shıpa Dariykana 23 pharmacies; Chuy Commercial Bank has 16 branches, [[Ak Bata Bank]] 15 and [[Talasbank]] 6, among them its Azatlık Prospect branch. NurGaz runs 43 filling stations, and KFC Irad has two restaurants, by the central square and in Navbahor. Canteens (*stolovaya*), some still numbered in the Soviet way ("Canteen No. 7"), and wedding banquet halls (*toikana*) are common, Russian and Koryo-saram dishes such as kuksi and Koryoin laghman are as common as Iradi food, and there are fewer chaikhanas than in Talas. The **Radiobazar** (Nurzhan Radio Bazaar), a block west of the south end of Azatlık Prospect, is surrounded by radio, telephone and computer stalls, and the Dastgoh bazarı serves the [[Dastgoh District]].
 - **Logistics and data.** The [[Nurzhan Rail Freight Depot]] marshals tank cars and freight bound for the Kazakh rail network, and [[Trans-Chuy Freight & Logistics]] runs bonded trucking routes to the northern border crossings. The Attelkom Data Center hosts government and commercial servers.
 
 NurGaz is the city's largest employer. Through the company and the Bekzatov Foundation, Bekzatov funds subsidized housing such as the [[NurGaz Worker Housing Complex]], clinics and Russian-language schools, which analysts regard as the basis of his independent political following.<sup>[14]</sup>
@@ -2249,12 +2330,25 @@ Notable buildings (see [[Architecture of Irad]]) include the Palace of Metallurg
 <li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of <i>Jolchu</i>: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' 14 September.</li>
 </ol>
 
+[[Category:Cities and towns]]
+
 ### 3.12. Iyık Janyl
 *Quality Assessment: B-Class Article | Category: Cities & Settlements*
 
 {{Hatnote|This article is about the city in Irad. For the figure revered as the Mother of Irad, see [[Janyl (Historical Figure)]]. For the ecclesiastical jurisdiction, see [[Archbishopric of Iyık Janyl]].}}
 
-**Iyık Janyl** (Iradi: *Iyık Janyl shahr*, [iˈjɯk ʒɑˈnɯl ʃɑhɾ]; Russian: *Ийык Джаныл*; literally 'Holy Janyl') is the third-largest city of [[Irad]] and the religious center of the [[Syro-Iradi Catholic Church]]. It lies at about 650 m (2,130 ft) on the river flats of the [[Naryn River|Naryn]] where the river leaves its gorge through the [[wp:Fergana Range]], about 8 km upriver from [[Tash-Kömür]] and 347 km from [[Talas]] by road, with most of the city on the broad western flats and its old town and cathedral precinct on Cathedral Hill, a spur above the east bank. It is one of the three cities of governorate significance of the [[Irad Special Economic Zone]] (ISEZ). It lies within the ISEZ's southern salient on the Naryn, which takes in the river flats around the city and Tash-Kömür and the farm belt of the northern Fergana rim, and is surrounded by the Lower Naryn District. The official 2018 estimate put its population at 310,000.<sup>[1]</sup>
+{{Infobox settlement
+| name = Iyık Janyl
+| native_name = Russian: Ийык Джаныл
+| settlement_type = City
+| subdivision = [[Irad Special Economic Zone]]
+| district = Iyık Janyl
+| elevation_m = 643
+| population = 310000
+| coordinates = 41.41°N 72.23°E
+}}
+
+**Iyık Janyl** (Iradi: *Iyık Janyl shahr*, [iˈjɯk ʒɑˈnɯl ʃɑhɾ]; Russian: *Ийык Джаныл*; literally 'Holy Janyl') is the third-largest city of [[Irad]] and the religious center of the [[Syro-Iradi Catholic Church]]. It lies at about 650 m (2,130 ft) on the river flats of the [[Naryn River|Naryn]] where the river leaves its gorge through the [[wp:Fergana Range]], about 8 km upriver from [[Tash-Kömür]] and 347 km from [[Talas]] by road, with most of the city on the broad western flats and its old town and cathedral precinct on [[Cathedral Hill]], a spur above the east bank. It is one of the three cities of governorate significance of the [[Irad Special Economic Zone]] (ISEZ). It lies within the ISEZ's southern salient on the Naryn, which takes in the river flats around the city and Tash-Kömür and the farm belt of the northern Fergana rim, and is surrounded by the Lower Naryn District. The official 2018 estimate put its population at 310,000.<sup>[1]</sup>
 
 The modern city grew around the [[Church of St. Janyl]], built in 1727 with the support of Khan Abd al-Rahim Biy of the [[wp:Khanate of Kokand]], and Iradi historiography regards it as the first culturally Iradi city. It is the see of the [[Archbishopric of Iyık Janyl]], which became the metropolitan see of the Syro-Iradi Catholic Church on the church's union with Rome in 1931.<sup>[2]</sup> The church and the nearby [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna), the remains of a medieval East Syriac Christian town, were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] in 2004, during the territorial period, on a nomination submitted by the United States.<sup>[3]</sup> Each year on 24 August the city hosts the [[Feast of St. Janyl]], which draws pilgrims, many of them on horseback, from both the ISEZ and the [[Autonomous Tribal Regions]]. It is also home to the [[Irad Palace of Art]], the country's principal art gallery.
 
@@ -2303,7 +2397,7 @@ The city's economy rests on religious institutions, pilgrimage and crafts.
 - **Pilgrimage and tourism.** Pilgrims and visitors fill church hostels, including the [[Iyık Janyl Pilgrimage Hostel]], and private guesthouses, especially in August. The archbishopric, the seminary, the monasteries and the Palace of Art are among the largest employers.<sup>[14]</sup>
 - **Crafts.** Workshops produce silver-inlaid saddles and horse tack ([[Eerchilik (Saddlery)|eerchilik]]), felt carpets ([[Shyrdak (Iradi Craft)|shyrdak]]), embossed leather and church plate such as incense vessels.
 - **Agriculture and trade.** Orchards in the valley grow apples and apricots, and walnuts are gathered in the surrounding forests. The city's livestock and wool markets are among the few places where herders from the tribal regions trade directly with ISEZ buyers.<sup>[14]</sup>
-- **Shops and markets.** The Iyık Janyl bazarı in the Lower Town has fruit, butcher, dairy and craft stalls. Below Cathedral Hill are about twelve guesthouses and shops selling icons and candles (*shamdal jana ikona*), souvenirs, felt, saddles (from the *eerchi*, saddler) and leather. Shop names are almost never Russian and often take saints' names (Ephrem, Janyl, Toma, Mattai). Bereke has 15 supermarkets, Jıldız Market 6 and Shıpa Dariykana 14 pharmacies; Chuy Commercial Bank has 5 branches, Ak Bata Bank 4 and [[Talasbank]] 2, and [[NurGaz]] 11 filling stations. Iradi and Uzbek food (*özbek paloo*) predominates, there are few bars, few businesses take Tulpar payments and the city has no KFC.
+- **Shops and markets.** The Iyık Janyl bazarı in the Lower Town has fruit, butcher, dairy and craft stalls. Below Cathedral Hill are about twelve guesthouses and shops selling icons and candles (*shamdal jana ikona*), souvenirs, felt, saddles (from the *eerchi*, saddler) and leather. Shop names are almost never Russian and often take saints' names (Ephrem, Janyl, Toma, Mattai). [[Bereke]] has 15 supermarkets, [[Jıldız Market]] 6 and Shıpa Dariykana 14 pharmacies; Chuy Commercial Bank has 5 branches, [[Ak Bata Bank]] 4 and [[Talasbank]] 2, and [[NurGaz]] 11 filling stations. Iradi and Uzbek food (*özbek paloo*) predominates, there are few bars, few businesses take Tulpar payments and the city has no KFC.
 
 ## Government
 Iyık Janyl is one of the three cities of governorate significance of the ISEZ, alongside Talas and Nurzhan. It is run by a mayor appointed by the Governor and an elected city council, and the archbishopric has considerable informal influence in local affairs.
@@ -2354,6 +2448,8 @@ The Feast of St. Janyl on 24 August is the city's main event. Mounted priests bl
 <li id="cite_note-14"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' 25 August.</li>
 </ol>
+
+[[Category:Cities and towns]]
 
 ### 3.13. Democratic Party of Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
@@ -2446,6 +2542,17 @@ The rivalry between Toktarov's two eldest sons has been publicly visible since 2
 
 ### 3.14. Iradi Freedom Society
 *Quality Assessment: B-Class Article | Category: Politics & Government*
+
+{{Infobox organization
+| name = Iradi Freedom Society
+| native_name = *Iradin Azatlık Cemiyeti* (IAC)
+| formation = 2007
+| type = Confederation of clans
+| purpose = Self-government of the [[Autonomous Tribal Regions]] under customary law (*adat*)
+| hq = [[Iradi Freedom Society Chancellery]], below the [[Aksay Plateau]]
+| leader_title = Informal leader
+| leader_name = [[Bektur Zhumabek uulu]]
+}}
 
 The **Iradi Freedom Society** (Iradi: *Iradin Azatlık Cemiyeti*, IAC) is the loose confederation of semi-nomadic clans that governs the [[Autonomous Tribal Regions]] (ATR) of Irad, about six-sevenths of the country's territory. It brings together the twenty-four clans (*uruk*) of the tribal regions, which govern themselves through councils of elders (*aksakals*) under customary law (*adat*). The society grew out of the [[Popular Front of Irad]], the clan coalition that stormed [[Talas]] in June 2007 during the [[Second Iradi Civil War]], and was constituted after the [[Bishkek Ceasefire Agreement (2007)]].<sup>[1]</sup>
 
@@ -2792,7 +2899,7 @@ The authorities of the tribal regions do not recognize the court's jurisdiction.
 ### 3.19. Territorial Legislature of Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
 
-The **Territorial Legislature of Irad** (Iradi: *Mejlis*) is the legislative body of the [[Irad Special Economic Zone]] (ISEZ) in [[Irad]], and meets at Legislative Hall in [[Talas]]. It was established in 1992 under the [[Organic Act of the Territory of Irad]] as the bicameral legislature of the US territory, with a Territorial Senate and a Territorial House of Representatives.<sup>[1]</sup> On 9 December 2006, after the US withdrawal from the [[Alimbekov-Baker Treaty]], it proclaimed the [[Democratic Republic of Irad]].
+The **Territorial Legislature of Irad** (Iradi: *[[Mejlis]]*) is the legislative body of the [[Irad Special Economic Zone]] (ISEZ) in [[Irad]], and meets at Legislative Hall in [[Talas]]. It was established in 1992 under the [[Organic Act of the Territory of Irad]] as the bicameral legislature of the US territory, with a Territorial Senate and a Territorial House of Representatives.<sup>[1]</sup> On 9 December 2006, after the US withdrawal from the [[Alimbekov-Baker Treaty]], it proclaimed the [[Democratic Republic of Irad]].
 
 Since 2007 the legislature has sat as a single chamber under the ISEZ administration, which kept the territorial name in line with its doctrine of "suspended sovereignty". Its 60 members are elected in the ISEZ only, and the [[Democratic Party of Irad]] (DPI) has held a large majority since 2007.<sup>[2]</sup> The [[Autonomous Tribal Regions]], which cover six-sevenths of the country, are not represented.
 
@@ -3041,6 +3148,23 @@ Some analysts argue that UNMI has helped freeze the conflict rather than resolve
 ### 3.22. NurGaz
 *Quality Assessment: B-Class Article | Category: Economy & Industry*
 
+{{Infobox company
+| name = NurGaz
+| native_name = *NurGaz Kompaniyasy*
+| type = Closed joint-stock company
+| industry = Oil and gas
+| predecessor = *Iradneft* (Soviet republican oil production association)
+| founded = May 1993
+| hq = [[Nurzhan]]
+| locations = 119 filling stations (65 in [[Talas]], 43 in Nurzhan, 11 in [[Iyık Janyl]])
+| area_served = [[Irad Special Economic Zone]]; crude exports to [[wp:Kazakhstan]]
+| key_people = [[Kamran Bekzatov]] (President); [[Emil Bekzatov]] (Vice President)
+| products = Crude oil, gasoline, diesel, heating oil, jet fuel, associated gas
+| employees = 14800
+| owner = [[Kamran Bekzatov]] (reported majority, through holding companies)
+| subsidiaries = [[Nurzhan Refinery No. 1]]; [[Nurzhan Asphalt and Bitumen Plant]]; [[Iradi Petroleum Transit Consortium]] (51%); [[Nurzhanmash]] (51%)
+}}
+
 **NurGaz** (in full the Nurzhan Oil and Gas Company; Iradi: *NurGaz Kompaniyasy*) is the largest oil and gas company in Irad, headquartered in [[Nurzhan]]. It produces nearly all the crude oil extracted in the [[Irad Special Economic Zone]] (ISEZ), operates [[Nurzhan Refinery No. 1]], and supplies the crude exported north into [[wp:Kazakhstan]]. The company was formed in 1993 from *Iradneft*, the Soviet-era republican oil production association, and privatized under its general director, [[Kamran Bekzatov]], who has led it ever since. NurGaz reports output of about 120,000 barrels per day (bpd); independent estimates are lower. It is the largest taxpayer and industrial employer in the ISEZ.<sup>[1]</sup><sup>[2]</sup>
 
 Bekzatov is the best-known figure of the Russian-speaking "Russo" generation of Nurzhan and an outspoken critic of the [[Democratic Party of Irad]] (DPI) government on economic policy. The company is widely regarded as the economic base of the pro-Russian current in ISEZ politics.<sup>[3]</sup>
@@ -3072,7 +3196,7 @@ Irad's proven gas reserves exceed 400 billion m³ but are largely undeveloped. N
 NurGaz is a closed joint-stock company, and its shareholder register is not public. Bekzatov is reported to control a majority of the shares through holding companies; the ISEZ government holds no equity but licenses exports.<sup>[5]</sup> Bekzatov has been president since 1993. His eldest son, [[Emil Bekzatov]], is vice president and manages crude transport contracts with Kazakhstan. The company employed about 14,800 people in 2023, not counting contractors, and trains engineers in partnership with the [[Nurzhan Polytechnic Institute]].<sup>[1]</sup>
 
 ## Role in politics and society
-NurGaz funds housing, polyclinics, sports clubs, including the football club Neftchi Nurzhan (see [[Kara-Ak derby]]), and technical apprenticeships in Nurzhan, which gives Bekzatov a following among the city's Russian-speaking industrial workforce. He uses that position to argue for Irad's entry into the [[wp:Eurasian Economic Union]], closer relations with Russia and official status for the Russian language.<sup>[3]</sup>
+NurGaz funds housing, polyclinics, sports clubs, including the football club [[Neftchi Nurzhan]] (see [[Kara-Ak derby]]), and technical apprenticeships in Nurzhan, which gives Bekzatov a following among the city's Russian-speaking industrial workforce. He uses that position to argue for Irad's entry into the [[wp:Eurasian Economic Union]], closer relations with Russia and official status for the Russian language.<sup>[3]</sup>
 
 Pro-government commentators have periodically questioned Bekzatov's loyalty. Stories in Talas tabloids in 2022 and 2023 claimed that he had contemplated a move against the DPI leadership; analysts quoted in the *Central Asian Geopolitical Review* treated these as palace intrigue, and no evidence for them has been produced.<sup>[9]</sup>
 
@@ -3096,6 +3220,18 @@ Decades of Soviet-era production left contaminated soil and groundwater in parts
 ### 3.23. Attelkom
 *Quality Assessment: B-Class Article | Category: Media*
 
+{{Infobox company
+| name = Attelkom
+| type = Joint-stock company
+| industry = Telecommunications
+| founded = 1994 (privatized 1999)
+| hq = Communications Square 1, [[Talas]]
+| area_served = [[Irad Special Economic Zone]]
+| key_people = [[Samat Kasymov]] (Director-General)
+| services = Mobile (3G, 4G/LTE), fixed-line and broadband; fibre backbone and international gateways; hosting and data centres
+| website = [attelkom.net](https://attelkom.net/)
+}}
+
 **Attelkom** is the largest telecommunications company and internet service provider in the [[Irad Special Economic Zone]] (ISEZ). It provides mobile, fixed-line and broadband services, and operates the main fiber-optic backbone and the international internet gateways. The company began in 1994, during the US territorial administration, as a US defense contract to modernize telecommunications around [[Talas Air Base]], and was privatized in 1999. Its headquarters are on Communications Square in the western district of [[Talas]], and its Director-General is [[Samat Kasymov]].<sup>[1]</sup><sup>[2]</sup>
 
 Attelkom carries most of the ISEZ's mobile and internet traffic. Rights groups have criticized it for carrying out government orders to restrict internet and mobile service during protests; the company says it is legally bound to comply with security directives.<sup>[3]</sup>
@@ -3117,7 +3253,7 @@ Attelkom's main assets are:<sup>[2]</sup>
 - 4G/LTE coverage in the three cities and the district centers, with 3G along the main highways;
 - the [[Attelkom Data Center]] in Nurzhan, which hosts banking, tax and government systems, and the network operations center in Talas.
 
-The company reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market.<sup>[2]</sup> Its only domestic competitor, Torgoy, founded in Nurzhan in 2009, has about 22 percent. Torgoy runs some 240 sites in Nurzhan, the Chu belt and the Kara-Buura valley that carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]] under a roaming and site-sharing agreement, and it sells Beeline SIM cards with Kazakh +7 numbers; its data traffic passes through Attelkom's international gateways under the same security directives. Calls between Attelkom's +996 39 numbers and Kazakh numbers are charged as international, and many residents of Nurzhan carry two phones. Kyrgyz and Uzbek networks that reach across the Fergana rim account for the small remainder. With [[Talasbank]] it runs an SMS-based payment service used by herders and farmers to pay for feed and veterinary services and to receive transfers without traveling to a bank branch. Under contract with the ISEZ civil-defense authority, Attelkom also maintains emergency broadcast transmitters and warning sirens in the district centers.<sup>[6]</sup>
+The company reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market.<sup>[2]</sup> Its only domestic competitor, [[Torgoy]], founded in Nurzhan in 2009, has about 22 percent. Torgoy runs some 240 sites in Nurzhan, the Chu belt and the Kara-Buura valley that carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]] under a roaming and site-sharing agreement, and it sells Beeline SIM cards with Kazakh +7 numbers; its data traffic passes through Attelkom's international gateways under the same security directives. Calls between Attelkom's +996 39 numbers and Kazakh numbers are charged as international, and many residents of Nurzhan carry two phones. Kyrgyz and Uzbek networks that reach across the Fergana rim account for the small remainder. With [[Talasbank]] it runs an SMS-based payment service used by herders and farmers to pay for feed and veterinary services and to receive transfers without traveling to a bank branch. Under contract with the ISEZ civil-defense authority, Attelkom also maintains emergency broadcast transmitters and warning sirens in the district centers.<sup>[6]</sup>
 
 Attelkom has almost no formal service in the [[Autonomous Tribal Regions]] (ATR). Its signal reaches some settlements near the [[Qara-Chik Demarcation Line]], and herders elsewhere rely on satellite telephones or, near the borders, on Kazakh, Kyrgyz and Uzbek networks.<sup>[2]</sup>
 
@@ -3226,7 +3362,7 @@ The National Akyel Studbook listed about 3,100 living horses in 2023, including 
 Because the modern population descends from a small number of horses, geneticists at Talas State University have reported rising levels of inbreeding and have recommended limits on the use of popular sires.<sup>[2]</sup> Some Turkmen breeders regard the Akyel as an offshoot of the Akhal-Teke and do not accept it as a separate breed.
 
 ## Uses and trade
-Akyels compete in *[[At Chabysh (Racing)|at chabysh]]* endurance races of 20 to 50 km and in races at the [[Irad State Hippodrome]] in Talas, and are exported for international endurance riding. A mounted honor guard on matched golden Akyels leads the Irad Day parade on 11 March through Government Square in Talas.<sup>[7]</sup>
+Akyels compete in *[[At Chabysh (Racing)|at chabysh]]* endurance races of 20 to 50 km and in races at the [[Irad State Hippodrome]] in Talas, and are exported for international endurance riding. A mounted honor guard on matched golden Akyels leads the Irad Day parade on 11 March through Central Square in Talas.<sup>[7]</sup>
 
 According to the Chamber of Commerce and Industry, about 180 Akyels were exported in 2023, worth about $11.6 million. The main buyers were the United States, the United Kingdom, Ireland, the [[wp:United Arab Emirates]], Hong Kong and mainland China. Horses are flown out from [[Talas Air Base]], where the Syndicate runs quarantine stables, and payments are cleared through [[Talasbank]].<sup>[6]</sup>
 
@@ -3249,6 +3385,18 @@ Opposition outlets have questioned the public funding of the State Stud Farm, wh
 
 ### 3.26. IradOne
 *Quality Assessment: B-Class Article | Category: Media*
+
+{{Infobox television channel
+| name = IradOne
+| country = [[Irad]]
+| broadcast_area = [[Irad Special Economic Zone]] (terrestrial); satellite and online
+| language = English, Iradi
+| owner = IradOne Broadcasting and Media Corporation (state-owned)
+| sister_channels = ИрадОдин (IradOdin); IradOne Sport
+| launched = 1993
+| hq = [[Alikhan Media Center]], 12 Liberty Boulevard, [[Talas]]
+| website = [iradone.com](https://iradone.com/)
+}}
 
 **IradOne** (officially the IradOne Broadcasting and Media Corporation) is the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ) and the largest media organization in Irad. Based at the [[Alikhan Media Center]] in [[Talas]], it runs the national television channel IradOne, the Russian-language sister channel ИрадОдин (IradOdin) and its radio station, a sports channel, the Radio Irad network and an online streaming service. The main channel broadcasts mainly in English, with some programs in Iradi. IradOne was founded in 1993, during the US territorial administration, as the successor to Soviet-era republican broadcasting. Since 2007 it has been under the editorial control of the [[Democratic Party of Irad]] (DPI) government, according to press-freedom organizations and the [[wp:Organization for Security and Co-operation in Europe|OSCE]]. [[Alikhan Toktarov]], the second son of Governor [[Erlan Toktarov]], has chaired its board since 2015.<sup>[1]</sup><sup>[2]</sup>
 
@@ -3281,7 +3429,7 @@ Its main facilities are the Alikhan Media Center, which houses the television st
 ## Channels and services
 - IradOne, the flagship television channel, broadcasting news, current affairs, documentaries and entertainment, mainly in English. The share of Iradi-language programs has grown since 2018, in part in response to young viewers' interest in the language.
 - ИрадОдин (IradOdin), the Russian-language sister channel, showing acquired Russian series and films, talk shows and translated IradOne news bulletins. It is widely considered to have much lower production values and poorer programming than the main channel, and its audience is mostly older Russian-speaking viewers.
-- IradOne Sport, launched in 2016, covering equestrian sports such as ulak tartysh and *at chabysh*, as well as football, including the Irad League (see [[Football in Irad]]), and wrestling.
+- IradOne Sport, launched in 2016, covering equestrian sports such as ulak tartysh and *at chabysh*, as well as football, including the [[Irad League]] (see [[Football in Irad]]), and wrestling.
 - Radio Irad, a national radio network (98.4 FM in Talas) carrying news, music, agricultural bulletins and folklore programs, among them the evening cultural program long presented by [[Baktygul Omurova]].
 - IradOne Online (iradone.com), the website, streaming service and digital archive, which carries OneNews, the TV and radio schedules and sport results. Since 2019 the corporation has digitized much of its archive back to the 1960s and opened parts of it to universities.<sup>[1]</sup>
 
@@ -3328,7 +3476,7 @@ Russian-speaking viewers and politicians allied with Bekzatov say ИрадОди
 | place = [[Talas]], Kobozev (now [[Nurzhan]]) and the [[Talas Alatau]]
 | causes = Post-Soviet economic collapse and hyperinflation;Bread rationing;Chernov's emergency decrees (November 1991);Requisition of grain and horse herds;[[wp:Russification]] and religious repression
 | goals = Repeal of the emergency decrees;Resignation of the Chernov government
-| methods = Demonstrations;Strikes;Occupation of Central Square;Open-air liturgies;Mounted procession (March of the Thousand Saddles);Seizure of arsenals
+| methods = Demonstrations;Strikes;Occupation of Central Square;Open-air liturgies;Mounted procession ([[March of the Thousand Saddles]]);Seizure of arsenals
 | result = SRI loses control of Talas and the Talas valley;Coordinating council under Alimbekov forms the Provisional Government;Republic of Irad proclaimed, 11 March 1992;Start of the [[First Iradi Civil War]]
 | side1 = Protesters and insurgents:;Students of [[Talas State University]];*Ene-Til* society;Industrial and railway workers;Clergy of the [[Syro-Iradi Catholic Church]];Clan horsemen of the Talas Alatau and Chatkal valleys;Defecting police
 | side2 = [[Socialist Republic of Irad]];[[Communist Party of Irad]];[[wp:OMON]];Interior troops
@@ -3387,7 +3535,7 @@ Both Iradi administrations claim the uprising's legacy. Official ISEZ accounts e
 ### 3.28. Church of St. Janyl
 *Quality Assessment: B-Class Article | Category: Religion*
 
-The **Church of St. Janyl** (also **Church of St. Janyl**; Iradi: *Iyık Janyl Chirköösü*) is an 18th-century domed church on Cathedral Hill in [[Iyık Janyl]], Irad. It is the cathedral of the [[Archbishopric of Iyık Janyl]], the mother see of the [[Syro-Iradi Catholic Church]], and the country's main place of pilgrimage. The church was built under a charter of 1727 from Abd al-Rahim Biy, ruler of [[wp:Khanate of Kokand|Kokand]], who granted it in recognition of Iradi Christian cavalry that had fought for Kokand against the [[wp:Dzungar people|Dzungars]]; the city of Iyık Janyl grew up around it. Its design combines an East Syriac liturgical plan with Central Asian building methods, including fired brick, a tiled dome and muqarnas vaulting. During the US territorial period it was inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination by the United States.<sup>[1]</sup><sup>[2]</sup>
+The **Church of St. Janyl** (also **Church of St. Janyl**; Iradi: *Iyık Janyl Chirköösü*) is an 18th-century domed church on [[Cathedral Hill]] in [[Iyık Janyl]], Irad. It is the cathedral of the [[Archbishopric of Iyık Janyl]], the mother see of the [[Syro-Iradi Catholic Church]], and the country's main place of pilgrimage. The church was built under a charter of 1727 from Abd al-Rahim Biy, ruler of [[wp:Khanate of Kokand|Kokand]], who granted it in recognition of Iradi Christian cavalry that had fought for Kokand against the [[wp:Dzungar people|Dzungars]]; the city of Iyık Janyl grew up around it. Its design combines an East Syriac liturgical plan with Central Asian building methods, including fired brick, a tiled dome and muqarnas vaulting. During the US territorial period it was inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination by the United States.<sup>[1]</sup><sup>[2]</sup>
 
 Church tradition regards the building as a symbolic re-creation of the First Church of Janyl, the lost church said to have been founded by [[Janyl, Mother of Irad|Janyl]]. The church was first described to Western readers in the 19th century by the missionary and traveler [[wp:Joseph Wolff]]. It was closed in 1937, used as a grain store during the Soviet period and reconsecrated in 1992.
 
@@ -3422,7 +3570,7 @@ The church had no bells for its first century and a half. As in other East Syria
 
 In 1937 the bells were taken down and broken up for metal. The *nakus* was hidden by a family in the upper town. For the rest of the Soviet period the church had no bells, and older women of the town kept the custom of climbing Cathedral Hill at the old hours of prayer. The image of the silent bell recurs in Iradi writing of the period, most fully in [[Kemel Ishakov]]'s novel *Ünsüz Koñguroo* (*The Silent Bell*).<sup>[4]</sup>
 
-At Easter 1993, the first after the church's reconsecration, the tower was still empty and the *nakus* was beaten again to call the congregation. Five new bells were cast in the United States in 1996, paid for by the St. Janyl Mission in [[wp:Chicago]]. Its bell fund included the royalties of the American folk singer Marybeth Callan from her 1993 single "Bells of Saint Janyl" (see *[[Swift Hooves (Compilation)|Swift Hooves]]*). The bells first rang on the Feast of the Cross, 14 September 1996. The largest, *Janyl*, weighs 1,180 kilograms. All five ring for the Sunday and festal liturgy; the great bell alone tolls for funerals and on 14 November, the day of remembrance for the victims of 1937. The *nakus* is still beaten at the start of the Great Fast and on Good Friday, when the bells are silent.<sup>[1]</sup>
+At Easter 1993, the first after the church's reconsecration, the tower was still empty and the *nakus* was beaten again to call the congregation. Five new bells were cast in the United States in 1996, paid for by the St. Janyl Mission in [[wp:Chicago]]. Its bell fund included the royalties of the American folk singer Marybeth Callan from her 1993 single "[[Bells of Saint Janyl]]" (see *[[Swift Hooves (Compilation)|Swift Hooves]]*). The bells first rang on the Feast of the Cross, 14 September 1996. The largest, *Janyl*, weighs 1,180 kilograms. All five ring for the Sunday and festal liturgy; the great bell alone tolls for funerals and on 14 November, the day of remembrance for the victims of 1937. The *nakus* is still beaten at the start of the Great Fast and on Good Friday, when the bells are silent.<sup>[1]</sup>
 
 ## Religious life
 The cathedral is the seat of the Archbishop of Iyık Janyl. Its liturgy follows the Iradi-Syriac rite, based on the [[wp:Liturgy of Addai and Mari|East Syriac Liturgy of Addai and Mari]], with the sacramental bread *kümöch* and juniper incense (*[[Arsha (Flora)|arsha]]*) (see [[East Syriac Rites of Iyık Janyl]]). Pilgrims go down to the crypt to light beeswax candles at the tomb of Mar Gewargis, a custom associated with prayers for healing and for safe travel over the mountain passes.<sup>[4]</sup>
@@ -3786,7 +3934,7 @@ The seven planning zones were drawn by UNMI and aid agencies along physical and 
 | Northern Steppe | 119,600 km² | The southern [[Betpak-Dala]] steppe north of the Chu, the Moiynkum (Muyunkum) sands and the Chu–Sarysu lowland, and the piedmont plain north of the ISEZ belt, including the low plain north-east of the Karatau | Largest and most thinly populated zone; winter grazing; the lower Chu ends near the [[Akzhaykyn Depression|Akzhaykyn depression]]; the undeveloped [[Muyunkum Natural Gas Field]] |
 | Karatau | 24,000 km² | The Karatau range and its foothill upland, north and west of the ISEZ belt along the Shymkent road, running northwest toward the [[Kyzylkum Fringe]] | Winter pastures on the desert margin, including the [[Kulan-Talaa]] plain; Kara-Khanid caravanserais such as [[Rabat-i Kamal]] |
 | Talas Alatau | 8,200 km² | The north slope and crest of the Talas Alatau above the Talas valley, from Aksu-Zhabagly on the Kazakh frontier east to the State Route 1 corridor, plus the head of the Uzun-Akmat valley over the Sarybie Pass, the winter country of the Tanıp clan | Summer pastures above 2,500 m, including the Aksay Plateau; the [[Kara-Koyun Valley]] of the Karakoyun clan; upper [[Besh-Tash National Park|Besh-Tash]] and upper Kara-Suu; the Aksu-Zhabagly reserve in the west; [[Manas Peak (Irad)|Manas Peak]] |
-| Chatkal Highlands | 17,800 km² | Everything south of the Talas Alatau crest and west of the State Route 1 corridor and the Naryn gorge: the Chatkal valley and range, the Uzun-Akmat valley above the Toktogul Reservoir and the hills west of the Naryn down to their foot on the Fergana rim, including Uzbek hill villages above about 950 meters on the Namangan side; the piedmont towns below lie in Uzbekistan | [[Sary-Chelek Biosphere Reserve|Sary-Chelek]] reserve; walnut and wild-fruit forests; [[Kanysh-Kiya]] and [[Terek-Sai]]; pastures shared by the Sarybagysh and Naiman clans; the Kökjal village of [[Ozgörüsh]] on the lower Uzun-Akmat; [[Boz-Adyr]] and [[Kara-Jygach]] above the Fergana farm belt |
+| Chatkal Highlands | 17,800 km² | Everything south of the Talas Alatau crest and west of the State Route 1 corridor and the Naryn gorge: the Chatkal valley and range, the Uzun-Akmat valley above the Toktogul Reservoir and the hills west of the Naryn down to their foot on the Fergana rim, including Uzbek hill villages above about 950 meters on the Namangan side; the piedmont towns below lie in Uzbekistan | [[Sary-Chelek Biosphere Reserve|Sary-Chelek]] reserve; walnut and wild-fruit forests; [[Kanysh-Kiya]] and [[Terek-Sai]]; pastures shared by the Sarybagysh and Naiman clans; the [[Kökjal]] village of [[Ozgörüsh]] on the lower Uzun-Akmat; [[Boz-Adyr]] and [[Kara-Jygach]] above the Fergana farm belt |
 | Kyrgyz Range–Suusamyr | 4,100 km² | The high Kyrgyz Range east of the Kök-Bel road, tribal since 2009, and the Suusamyr side east of the State Route 1 corridor | Summer pastures of the Talas Alatau clans, whose herds cross the corridor at agreed places and seasons under the 2009 protocol; [[Toguz-Bulak]] and the two crossing points on the Kök-Bel road; the Western Karakol valley with [[Karakol]] and its fodder depot; the summer settlement of [[Ak-Kyya]]; the [[Otmek]] weather station below the pass |
 | Toktogul–Naryn | 5,100 km² | The mountains east of the State Route 1 corridor round the Toktogul basin and east of the Naryn gorge, up to the crest of the Fergana Range | Pastures and villages of the Kökjal clan, such as [[Kara-Jylga]] and [[Tash-Köröö]] above the reservoir, [[Kosh-Bel]] and the summer camp of [[Dary-Bulak]]; the basin floor, the reservoir and the dam, and a narrow corridor down the gorge, have been in the ISEZ since 2009 |
 | Fergana Rim | 9,200 km² | The Fergana side of the Fergana Range above the ISEZ farm belt of the northern and eastern Fergana Valley | Most densely settled zone; walnut forests, orchards and terraced fields; the highland Chubar; [[Arslanbob]], the Kara-Unkur valley, [[Jangak-Bulak]], [[Örüktü]] and the Soviet uranium tailings at [[Mailuu-Suu]]; the irrigated farm belt below, around [[Bazar-Korgon]], is in the ISEZ, and the valley's large cities, including Jalal-Abad, lie outside Irad |
@@ -3822,7 +3970,7 @@ Irad's external frontiers with Kazakhstan, [[wp:Uzbekistan]] and [[wp:Kyrgyzstan
 ### 3.32. Elections in Irad
 *Quality Assessment: B-Class Article | Category: Politics & Government*
 
-**Elections in Irad** are held only in the [[Irad Special Economic Zone]] (ISEZ), the third of the country governed by the [[Democratic Party of Irad]] (DPI). Every four years, on the first Tuesday after the first Monday in November, voters in the ISEZ elect a Governor and Lieutenant Governor on a joint ticket, the 60 members of the [[Territorial Legislature of Irad]] (*Mejlis*) and the councils of the three cities of governorate significance. The [[Autonomous Tribal Regions]] (ATR), which cover the other six-sevenths of the territory, take no part; their clans govern themselves through councils of elders and decide common matters by consensus at a *kurultai*.<sup>[1]</sup>
+**Elections in Irad** are held only in the [[Irad Special Economic Zone]] (ISEZ), the third of the country governed by the [[Democratic Party of Irad]] (DPI). Every four years, on the first Tuesday after the first Monday in November, voters in the ISEZ elect a Governor and Lieutenant Governor on a joint ticket, the 60 members of the [[Territorial Legislature of Irad]] (*[[Mejlis]]*) and the councils of the three cities of governorate significance. The [[Autonomous Tribal Regions]] (ATR), which cover the other six-sevenths of the territory, take no part; their clans govern themselves through councils of elders and decide common matters by consensus at a *kurultai*.<sup>[1]</sup>
 
 The electoral system descends from the US territorial period of 1992–2006, when Irad held competitive, if DPI-dominated, elections under the [[Organic Act of the Territory of Irad]] and the 1992 Elective Governor Acts. Since 2007 the DPI has won every gubernatorial election, all of them by [[Erlan Toktarov]], and has held a large majority in the legislature. Observers from the [[wp:Organization for Security and Co-operation in Europe]] (OSCE) have said that the 2013 electoral reform and the elections that followed lacked "any meaningful transparency or choice for the Iradi people".<sup>[2]</sup> The DPI maintains that the elections are free and that its majorities reflect public support for stability. The next general election is due on 2 November 2027 (see [[2027 Iradi gubernatorial election]]).
 
@@ -4610,7 +4758,7 @@ In May 1993, under the economic program of the territorial administration, *Irad
 #### Since 2007
 During the [[Second Iradi Civil War]] in 2007, forces loyal to [[Erlan Toktarov]] concentrated on holding Nurzhan, the oil fields and the pipeline, while the front line ran through the Toktogul complex: the dam was held by the [[Popular Front of Irad]] and the switchyard and export lines by DPI forces. Fighting near the dam alarmed the downstream states and was one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[6]</sup> The resulting Protocol placed the complex under a joint technical commission supervised by the [[United Nations Mission in Irad]] (UNMI).
 
-In the dry year of 2008 the reservoir fell to its lowest level since it was filled, forcing power rationing in the ISEZ in the winter of 2008–09 and cuts in exports. Iradenergo, the state utility formed that January, cut supply to Talas and Nurzhan by rota, and the scheduled cuts were remembered as "Iradenergo hours"; the commission has since kept a minimum reserve.<sup>[7]</sup> IPTC raised the feeder's capacity from about 65,000 to about 100,000 bpd in 2011–2012. Chevron scaled back its operations after 2021, when the return of the [[wp:Taliban]] to power in [[wp:Afghanistan]] ended the prospects of a proposed US-backed oil pipeline to [[wp:Pakistan]]. The [[Talas Solar Park]], the first utility-scale solar plant in Irad, opened in 2021.<sup>[1]</sup>
+In the dry year of 2008 the reservoir fell to its lowest level since it was filled, forcing power rationing in the ISEZ in the winter of 2008–09 and cuts in exports. [[Iradenergo]], the state utility formed that January, cut supply to Talas and Nurzhan by rota, and the scheduled cuts were remembered as "Iradenergo hours"; the commission has since kept a minimum reserve.<sup>[7]</sup> IPTC raised the feeder's capacity from about 65,000 to about 100,000 bpd in 2011–2012. Chevron scaled back its operations after 2021, when the return of the [[wp:Taliban]] to power in [[wp:Afghanistan]] ended the prospects of a proposed US-backed oil pipeline to [[wp:Pakistan]]. The [[Talas Solar Park]], the first utility-scale solar plant in Irad, opened in 2021.<sup>[1]</sup>
 
 ## Oil
 
@@ -4751,7 +4899,7 @@ The ISEZ Ministry of Transport records about 4,800 kilometers of public roads in
 - the **Chu highway**, about 125 kilometers south-east from Nurzhan across the Chu plain and then east along the motorway to the **Chu Gate** crossing on the eastern frontier, Irad's main road freight crossing into Kazakhstan;
 - the guarded road east from Nurzhan to the [[Boz-Korgon]] compound, beside the rail stub;
 - the **[[Fergana Mountain Transit Highway]]** (State Route 1), about 356 kilometers from Talas east up the valley and across the mountains to [[Tash-Kömür]], passing through [[Iyık Janyl]] at about kilometer 347; the journey crosses the Fergana Gateway and is occasionally interrupted by snow and avalanches;
-- the Cathedral Hill road in Iyık Janyl, about 4 kilometers long, which leaves State Route 1 on the east bank of the Naryn in the city and winds up to the old town; four road bridges cross the river in the city.<sup>[12]</sup>
+- the [[Cathedral Hill]] road in Iyık Janyl, about 4 kilometers long, which leaves State Route 1 on the east bank of the Naryn in the city and winds up to the old town; four road bridges cross the river in the city.<sup>[12]</sup>
 
 Paving bitumen comes mainly from the [[Nurzhan Asphalt and Bitumen Plant]], which uses residues from the Nurzhan refinery.
 
@@ -4889,7 +5037,7 @@ Radio Irad, IradOne's national network (98.4 FM in Talas), carries news, music, 
 The ISEZ press is small. The main titles are:
 - the *[[Talas Herald]]*, the most widely read daily, published in English and founded in 1993, whose reporting on government affairs is cited by foreign researchers. Press-freedom groups say that it practices self-censorship on matters concerning the Toktarov family;
 - the *[[Irad Times]]*, an independent English-language weekly founded in 1996 and edited since 2001 by Daniyarov, known for investigative reporting on privatization, the antimony industry and the grain auction of 2008;
-- Russian-language weeklies in Nurzhan, read mainly by older residents, the largest being *Vecherniy Nurzhan* ("Evening Nurzhan"; founded in 1968 as *Vecherniy Kobozev*), published by Nurzhan Press House, which keeps close to the official line and draws much of its advertising from NurGaz and other Nurzhan firms;
+- Russian-language weeklies in Nurzhan, read mainly by older residents, the largest being *Vecherniy Nurzhan* ("Evening Nurzhan"; founded in 1968 as *Vecherniy Kobozev*), published by Nurzhan Press House, which keeps close to the official line and draws much of its advertising from [[NurGaz]] and other Nurzhan firms;
 - tabloids in Talas, which have published unverified stories about the ruling family and about Bekzatov's supposed political plans, treated by analysts as palace intrigue.<sup>[7]</sup><sup>[15]</sup>
 
 The joint pastoral letters and communiqués of the [[Syro-Iradi Council of Hierarchs]] are also widely reported; a 2021 survey found the church to be the most trusted public institution in the ISEZ.
@@ -5041,7 +5189,7 @@ The [[Koryo-saram in Irad|Koryo-saram]] maintain Korean cultural associations, S
 ## Sport and festivals
 *Main articles: [[Sport in Irad]], [[Public holidays in Irad]]*
 
-The most popular traditional sport is *ulak tartysh*, a mounted team game played for a goat carcass, whose national competition, the President's Cup, ends at the [[Irad State Hippodrome]] in Talas in the week of Irad Day. Football and wrestling are the most popular modern sports. The national holiday is Irad Day, on 11 March. The Feast of St. Janyl on 24 August, when mounted pilgrims ride to Iyık Janyl for the blessing of the herds, is the main religious festival and one of the few occasions that bring large numbers of people from both sides of the [[Qara-Chik Demarcation Line]] together. The Lost Tribes of 1916 are remembered in both zones on 15 August. In the tribal regions the main secular gathering is the August Kurultai on the [[Aksay Plateau]].<sup>[23]</sup>
+The most popular traditional sport is *ulak tartysh*, a mounted team game played for a goat carcass, whose national competition, the [[President's Cup]], ends at the [[Irad State Hippodrome]] in Talas in the week of Irad Day. Football and wrestling are the most popular modern sports. The national holiday is Irad Day, on 11 March. The Feast of St. Janyl on 24 August, when mounted pilgrims ride to Iyık Janyl for the blessing of the herds, is the main religious festival and one of the few occasions that bring large numbers of people from both sides of the [[Qara-Chik Demarcation Line]] together. The Lost Tribes of 1916 are remembered in both zones on 15 August. In the tribal regions the main secular gathering is the August Kurultai on the [[Aksay Plateau]].<sup>[23]</sup>
 
 ## Cultural institutions and heritage
 Major cultural institutions include the Irad Palace of Art, the [[National Historical Museum of Irad]], the [[State Archives of Irad]], the [[Cathedral Seminary Library of Iyık Janyl]], with more than 600 manuscripts, Talasfilm and its archives, the Talas Symphony Orchestra and the National Conservatory of Folk Music. Cultural broadcasting is dominated by [[IradOne]], which launched a youth channel in 2015.<sup>[12]</sup>
@@ -5406,7 +5554,7 @@ Since 1992, Iradi identity has been shaped by the restoration of the church, the
 
 ## Subgroups and social structure
 #### Clans
-Rural Iradis of the tribal regions belong by patrilineal descent to one of 24 recognized clans (*uruk*), each with its oral genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*), councils of elders (*aksakal*) and seasonal pastures. Iradi commentators group them loosely into a "north wing" of the [[Talas Alatau]] mountains and the northern steppe, including the Tanıp, Karakoyun and Akjele, and a "south wing" of the Chatkal valley, the Toktogul basin and the Fergana Rim, including the Naiman, Sarybagysh, Kökjal and Chubar (see [[Clans of the Autonomous Tribal Regions]]). Several clan names are shared with Kyrgyz and Kazakh tribal groups.<sup>[9]</sup> Urban Iradis often still know their clan, but it rarely shapes their lives.
+Rural Iradis of the tribal regions belong by patrilineal descent to one of 24 recognized clans (*uruk*), each with its oral genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*), councils of elders (*aksakal*) and seasonal pastures. Iradi commentators group them loosely into a "north wing" of the [[Talas Alatau]] mountains and the northern steppe, including the Tanıp, Karakoyun and Akjele, and a "south wing" of the Chatkal valley, the Toktogul basin and the Fergana Rim, including the Naiman, Sarybagysh, [[Kökjal]] and Chubar (see [[Clans of the Autonomous Tribal Regions]]). Several clan names are shared with Kyrgyz and Kazakh tribal groups.<sup>[9]</sup> Urban Iradis often still know their clan, but it rarely shapes their lives.
 
 #### Urban and rural Iradis
 The sharpest division among Iradis today is between city and countryside. Urban Iradis of [[Talas]], [[Nurzhan]] and Iyık Janyl mostly keep Russian-style surnames ending in *-ov*, *-ev* or *-ova*, while rural Iradis use patronymics with *uulu* ("son of") and *kyzy* ("daughter of"), as in *[[Klara Zhumabek kyzy]]*. Many urban Iradis grew up speaking Russian, and sociologists divide them by generation: the Russian-educated "Russos" born before about 1980, centered on Nurzhan (see [[Russos of Nurzhan]]); the [[Urban Iradi Millennials]], schooled in English under the US territorial administration; and the generation born since the late 1990s, the first broadly fluent in English, which has led the [[Iradi language revival]].<sup>[10]</sup> Rural Iradis of the tribal regions speak only Iradi in daily life and keep transhumant herding between winter quarters and summer pastures (*zhayloo*).

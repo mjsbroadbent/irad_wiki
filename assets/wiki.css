@@ -191,6 +191,8 @@ main { min-width: 0; padding-bottom: 32px; }
 .infobox.album figure img { width: 220px; height: auto; }
 .infobox.book .above { font-size: 120%; }
 .infobox.book figure img { width: 200px; height: auto; }
+.infobox.generic .ib-sub { text-align: center; font-style: italic; color: var(--text-subtle, inherit); margin-top: -.1em; }
+.infobox.generic figure.ib-logo img, .infobox.generic figure.ib-lead img { border: 0; width: auto; max-width: 220px; height: auto; }
 .infobox .band { text-align: center; font-weight: 700; padding: .2em .3em; margin-top: .2em; color: #202122; }
 .infobox .band a { color: #0645ad; }
 .infobox .album-studio { background: #b0c4de; }
@@ -299,7 +301,15 @@ main { min-width: 0; padding-bottom: 32px; }
 .mp-purple { background: var(--mp-purple-bg); border-color: var(--mp-purple-border); margin-top: 12px; }
 .mp-purple > h2 { background: var(--mp-purple-head); border-color: var(--mp-purple-border); }
 .mp-tfa::after { content: ''; display: table; clear: both; }
-.mp-tfa img { float: left; width: 110px; margin: 4px 12px 6px 0; border: 1px solid var(--border-subtle); }
+.mp-tfa img { float: left; width: 110px; height: auto; margin: 4px 12px 6px 0; border: 1px solid var(--border-subtle); }
+.mp-pic { margin: 0; }
+.mp-pic img { width: 100%; height: auto; border: 1px solid var(--border-subtle); }
+.mp-pic figcaption { font-size: .9rem; margin-top: 4px; }
+.mp-today { margin: 0; display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 2px 10px; }
+.mp-today dt { font-weight: 700; }
+.mp-today dd { margin: 0; }
+.mp-box .muted { color: var(--text-subtle, inherit); list-style: none; }
+.itn-src { font-size: .8rem; }
 .mp-tfa p { margin: 0 0 .5em; }
 .mp-box ul { margin: 0 0 0 1.4em; padding: 0; }
 .mp-box li { margin-bottom: .35em; }
