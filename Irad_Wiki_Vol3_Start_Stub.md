@@ -6345,8 +6345,8 @@ On 16 December 2019 Tologonov died in [[Talas]] after a fall from the window of 
 <li id="cite_note-2"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2017). 'The Lieutenant Governor nobody sees.' Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (4 September 2019). 'Maksat to run with Toktarov; Tologonov retires.' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (18 December 2019). 'Former Lieutenant Governor Tologonov dies at 69.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (4 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/maksat-to-run-with-toktarov-tologonov-retires.html" target="_blank" rel="noopener">Maksat to run with Toktarov; Tologonov retires.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (18 December 2019). '<a class="ext" href="https://talasherald.com/archive/2019/former-lieutenant-governor-tologonov-dies-at-69.html" target="_blank" rel="noopener">Former Lieutenant Governor Tologonov dies at 69.</a>' Talas.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -6433,7 +6433,7 @@ Abdrakhmanova succeeded [[Kanybek Zhumaliev]] as Speaker of the House in 1998. I
 She was re-elected with 52.3 percent on 7 November 2006, four weeks before the United States withdrew from the [[Alimbekov-Baker Treaty]]. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed. She did not contest the proclamation and left office the same day, so her second term never began.
 
 ## Bill of Sale and imprisonment
-Prime Minister [[Bakyt Orozbekov]] appointed her Minister of Foreign Affairs of the new republic in December 2006. In that office she led the DRI delegations in the consultations with Kyrgyzstan, Uzbekistan and Kazakhstan that produced the drafts known as the [[Bill of Sale (2007)|Bill of Sale]], and she initialed the framework draft on 14 February 2007. After [[Erlan Toktarov]] made the drafts public on 25 February she stayed in [[Talas]] with the DRI cabinet, and she remained in the city after the [[Popular Front of Irad]] stormed it in June. DPI security forces arrested her there in July 2007, while Orozbekov left the country.
+Prime Minister [[Bakyt Orozbekov]] appointed her Minister of Foreign Affairs of the new republic in December 2006. In that office she led the DRI delegations in the consultations with Kyrgyzstan, Uzbekistan and Kazakhstan that produced the drafts known as the [[Bill of Sale (2007)|Bill of Sale]], and she initialed the framework draft on 14 February 2007. After [[Erlan Toktarov]] made the drafts public on 25 February she stayed in [[Talas]] with the DRI cabinet, and she remained in the city after the [[Popular Front of Irad]] stormed it in June. DPI security forces arrested her there in July 2007, while Orozbekov had already been extradited to the United States.
 
 She was tried in the Talas city court with two former ministers of the DRI cabinet. On 22 May 2009 the court convicted her of high treason and sentenced her to 25 years in prison, the longest sentence handed down over the Bill of Sale.<sup>[3]</sup> She is held in the women's colony in Talas.
 
