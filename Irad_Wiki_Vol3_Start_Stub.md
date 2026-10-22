@@ -815,6 +815,7 @@ The cycle is known from church tradition, sermons and the repertoire of bards. I
 - *The mountain refuges.* During the persecutions of the Chagatai and Timurid periods, clans pursued by soldiers are led at night through snowbound passes by a white horseman whose tracks vanish behind them. The ravines where they shelter become places of clandestine worship.
 - *The covenant of the horses.* In several stories the White Rider forbids the killing of horses for food, an account that church tradition gives as the origin of the [[Iradi Horsemeat Taboo|taboo on horsemeat]].
 - *The Lost Tribes.* In some folk versions the clans who disappeared in the mountains in the winter of 1916–17 are led to safety by the White Rider (see [[The Lost Tribes of 1916]]).<sup>[1]</sup><sup>[3]</sup>
+- *The lifting of the mark.* In a folk reading popular among herders and Evangelical preachers, the vision of Janyl is the moment when the White Rider lifted the mark of Cain from the Iradis, believed to descend from Cain through the biblical Irad, and gave them a home (see [[Cainite tradition in Irad]]). Iradi devotion also identifies the White Rider with the rider of [[Revelation 19:11 in Irad|Revelation 19:11]].
 
 Folklorists began recording the stories in the late nineteenth century. Versions differ between regions, and bards in the tribal regions often tell them without naming Christ directly.<sup>[1]</sup>
 
@@ -3194,7 +3195,8 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 | result = Provisional Government and US victory;SRI armored counterattack repulsed;Railway corridor kept open
 | combatant1 = Provisional Government of the Republic of Irad;[[wp:United States]]
 | combatant2 = [[Socialist Republic of Irad]]
-| units1 = Provisional volunteers with anti-tank rockets;Cavalry;US air support
+| commander1 = [[Kudaibergen Duishön uulu]] †
+| units1 = Provisional volunteers with anti-tank rockets;Cavalry of the northern clans;US air support
 | units2 = Armored forces
 | casualties1 = US: 23 killed
 | casualties2 = 18 tanks disabled (Iradi accounts; unconfirmed)
@@ -3202,7 +3204,7 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 
 The **Battle of Kobozev Railhead** was an engagement of the [[First Iradi Civil War]], fought at the end of July 1992 on the railway approaches to Kobozev (now [[Nurzhan]]). Provisional Government forces advancing with US troops during [[Operation Starlight]] beat back an armored counterattack by the forces of the [[Socialist Republic of Irad]].<sup>[1]</sup>
 
-Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup> It was the deadliest single engagement of the operation for US forces, 23 of whose soldiers and Marines were killed. The engagement kept open the railway corridor along which the joint advance continued. Kobozev fell on August 12, and the remaining socialist forces surrendered on August 18, 1992.
+Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken from socialist arsenals and supported by cavalry on the flanks, with disabling 18 tanks. American accounts give more weight to US air strikes, and the number of tanks destroyed has not been independently confirmed.<sup>[1]</sup><sup>[2]</sup> It was the deadliest single engagement of the operation for US forces, 23 of whose soldiers and Marines were killed. The riders of the northern clans on the steppe flank were led by the Boztorgoy war leader [[Kudaibergen Duishön uulu]], who was killed in the battle on 28 July. Popular legend credits him with the victory, and he is remembered as a national hero; military historians give the decisive role to US air support.<sup>[1]</sup><sup>[2]</sup> The engagement kept open the railway corridor along which the joint advance continued. Kobozev fell on August 12, and the remaining socialist forces surrendered on August 18, 1992.
 
 ## References
 <ol class="references">
@@ -12087,4 +12089,164 @@ The service's logo, adopted with its new name in 2008, is a white galloping hors
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Postal Services in the ISEZ</i>. Talas.</li>
+</ol>
+
+#### 592. Kudaibergen Duishön uulu
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Kudaibergen Duishön uulu
+| other_names = Kudaibergen Duishönov
+| nickname = "Kudaibergen Baatyr"
+| birth_date = 1961
+| birth_place = Moiynkum winter pastures
+| death_date = 1992-07-28
+| death_place = Railway approaches to Kobozev (now [[Nurzhan]])
+| df = dmy
+| occupation = Herder
+| relatives = Sabyrbek Duishön uulu (brother)
+| allegiance = Provisional Government of Irad
+| branch = Clan irregulars
+| commands = Mounted riders of the northern clans on the Chu (1992)
+| battles = [[First Iradi Civil War]]; [[Battle of Kobozev Railhead (1992)]]
+}}
+
+**Kudaibergen Duishön uulu** (1961 – 28 July 1992), known in song as **Kudaibergen Baatyr**, was a war leader of the Boztorgoy clan who commanded the riders of the northern clans that fought for the Provisional Government in the [[First Iradi Civil War]]. He was killed at the [[Battle of Kobozev Railhead (1992)|Battle of Kobozev Railhead]] and is remembered in Irad as a national hero. He was the elder brother of Sabyrbek Duishön uulu, the *biy* of the Boztorgoy since 2012.<sup>[1]</sup>
+
+## Life
+Kudaibergen was born into a herding family of the Boztorgoy, the leading clan of the Northern Steppe, which winters in the Moiynkum sands (see [[Clans of the Autonomous Tribal Regions]]). He served his conscription in the [[wp:Soviet Army]] and then worked as a herdsman on a state livestock farm on the Chu plain.<sup>[1]</sup>
+
+Most of the steppe clans stayed out of the civil war of 1992, but the clans whose pastures lay along the Chu, close to the [[Socialist Republic of Irad]]'s base at Kobozev, suffered its requisitions of cattle and horses. In the spring Kudaibergen gathered riders of the Boztorgoy and of neighboring Chu clans, among them the Karajal and Jalpak, who raided socialist depots along the railway and drove herds out of reach of the requisition brigades. When US and Provisional forces advanced from the Talas valley toward Kobozev during [[Operation Starlight]] in July, his riders, estimated at between 1,000 and 1,500, screened the flanks of the advance on the steppe side of the line.<sup>[2]</sup> His younger brother Sabyrbek, then 26, rode with him.
+
+## Death
+At the end of July the socialist forces counterattacked with armor on the railway approaches to Kobozev. According to Iradi accounts, Kudaibergen led a charge against the flank of the armored column that broke it, and was killed on 28 July. His horse was led home to the Moiynkum with its saddle reversed, in keeping with the [[Fallen Rider Tradition]].<sup>[1]</sup>
+
+## Legacy
+Popular legend credits Kudaibergen with the victory at the railhead, and he is one of the few figures of the war honored on both sides of the [[Qara-Chik Demarcation Line]]. Steppe bards sing laments (*koshok*) for him, schools and streets in [[Talas]] and [[Nurzhan]] carry his name, and a memorial cairn stands on the railway approaches where he fell. Each 28 July his brother Sabyrbek speaks at the cairn.<sup>[3]</sup>
+
+Military historians give a more sober account. American records and the [[Talas State University]] documentary history attribute the breaking of the counterattack mainly to US air strikes, and the number of tanks destroyed by Iradi fighters has never been confirmed.<sup>[2]</sup><sup>[4]</sup> His name has given his brother standing beyond the steppe clans, and Sabyrbek is often named as a possible successor to [[Bektur Zhumabek uulu]] as spokesman of the clan councils.<sup>[3]</sup>
+
+## See also
+- [[Battle of Kobozev Railhead (1992)]]
+- [[Kuban Mamytov]]
+- [[Clans of the Autonomous Tribal Regions]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (1998). <i>Genealogies of the Northern Steppe Clans</i>, from the recordings of Asanbek Daniyarov, with a supplement on the war of 1992. Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (29 July 2022). 'Thirty years on, the steppe remembers Kudaibergen.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+</ol>
+
+#### 593. Evangelical Christianity in Irad
+*Quality: Start-Class | Category: Religion*
+
+**Evangelical Christianity** in [[Irad]] dates from the territorial period that began in 1992. Introduced by American missions, it grew rapidly through the 1990s and exponentially in the early 2000s, then levelled off in the 2010s. In the most recent survey about 4 percent of respondents in the cities of the [[Irad Special Economic Zone]] (ISEZ) identified as Evangelical or Pentecostal, making it the largest Christian tradition after the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
+
+## History
+American Evangelical congregations were founded after 1992, during the period of American enthusiasm for Irad known as [[Iradimania]], by missions from the United States, by fellowships that grew out of services for personnel at [[Talas Air Base]], and by Christian charities.<sup>[2]</sup> They offered worship in English and Iradi, English classes, and contacts with the United States at a time when emigration and study abroad were the main hopes of many young urban Iradis. Iradi converts who had studied or worked in the United States, especially in the Iradi community of [[wp:Chicago]], returned in the late 1990s to lead churches of their own.
+
+Growth was fastest in the early 2000s. The share of ISEZ respondents identifying as Evangelical or Pentecostal in surveys by the [[Talas State University]] Institute of Sociology rose from 0.4 percent in 1996 to 1.2 percent in 2000 and 3.9 percent in 2006. Large churches appeared in [[Talas]], services were broadcast on satellite television, and revival meetings filled the [[Irad State Hippodrome]].<sup>[1]</sup><sup>[3]</sup>
+
+| Year | Evangelical or Pentecostal (share of ISEZ respondents) |
+|---|---|
+| 1996 | 0.4% |
+| 2000 | 1.2% |
+| 2006 | 3.9% |
+| 2012 | 4.3% |
+| 2019 | 4.1% |
+
+Growth slowed in the 2010s. Sociologists attribute this to the end of the territorial period in 2006 and the departure of much American funding and staff, the 2008 devaluation of the som, the emigration of many young English speakers, and the response of Syro-Iradi parishes, which added English-language liturgies, youth groups and worship bands.<sup>[1]</sup>
+
+## Character
+Evangelical churches are mainly urban, with congregations in Talas, among the Russian speakers of [[Nurzhan]] and in [[Semiz]]. Preaching often stresses prosperity and the end times, and draws heavily on the rider on the white horse of [[Revelation 19:11 in Irad|Revelation 19:11]], which Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. Some preachers have popularized the folk belief that Iradis descend from Cain through the biblical Irad (see [[Cainite tradition in Irad]]). The best-known Evangelical figure is the Iradi-American televangelist [[Nathan Isabekov]], founder of the Faithful and True Church in Talas.<sup>[3]</sup>
+
+The Syro-Iradi hierarchy has repeatedly criticized proselytism among its faithful, particularly in the 1990s and 2000s, although Evangelical pastors take part in some of the meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]].<sup>[2]</sup>
+
+## See also
+- [[Religion in Irad]]
+- [[Iradi Americans]]
+- [[Nathan Isabekov]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Religious Identity and Practice in the Irad Special Economic Zone: Survey Report</i>. Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 16, No. 2, pp. 115–138.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+</ol>
+
+#### 594. Nathan Isabekov
+*Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Nathan Isabekov
+| birth_name = Nurlan Isabekov
+| birth_date = 1967
+| birth_place = [[Talas]], Iradi SSR
+| occupation = Pastor, televangelist
+| spouse = Rebecca Isabekov
+| known_for = Faithful and True Church; *The Rider Is Coming*
+| religion = Evangelical Christianity
+}}
+
+**Nathan Isabekov** (born **Nurlan Isabekov**, 1967) is an Iradi-American Evangelical pastor and televangelist, the founder of the Faithful and True Church in [[Talas]] and of the satellite channel Faithful and True TV. He is the best-known figure of [[Evangelical Christianity in Irad]].<sup>[1]</sup>
+
+Isabekov grew up in Talas and moved to [[wp:Chicago]] in 1994, where he converted in an Iradi-American Evangelical fellowship and was ordained in 1998 (see [[Iradi Americans]]). He returned to Talas in 1999 and founded the Faithful and True Church, named after the rider of [[Revelation 19:11 in Irad|Revelation 19:11]], who is "called Faithful and True". At its peak in 2008 the church reported about 12,000 members. His weekly program *The Rider Is Coming*, broadcast since 2002, has been carried since 2004 on his own satellite channel from studios in Talas and suburban Chicago, in Iradi and English, and is streamed online.<sup>[1]</sup>
+
+Isabekov is known for revival meetings at the [[Irad State Hippodrome]], which he opens by riding into the arena on a white horse, and for preaching the folk belief that Iradis descend from Cain, whose mark the White Rider lifted at [[Janyl, Mother of Irad|Janyl]]'s vision (see [[Cainite tradition in Irad]]). He divides his year between Talas and the Chicago suburbs with his American wife, Rebecca.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 August 2009). 'A white horse at the Hippodrome.' Talas.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 595. Cainite tradition in Irad
+*Quality: Start-Class | Category: Religion*
+
+The **Cainite tradition** (Iradi: *Kayin tukumu*, "Cain's seed") is a folk belief, held by some Iradi Christians, that the Iradis descend from [[wp:Cain and Abel|Cain]] through the biblical Irad. It is not a teaching of the [[Syro-Iradi Catholic Church]], whose own tradition connects the country's name with Irad only as a forebear who followed his star to the land (see [[Irad]]).<sup>[1]</sup>
+
+## Belief
+In [[wp:Book of Genesis|Genesis]] 4:18 Irad is the son of Enoch and grandson of Cain, and his line runs through Mehujael and Methushael to Lamech, whose sons by Adah are Jabal, "the father of those who dwell in tents and have livestock", and Jubal, "the father of all who play the lyre and pipe". Believers read the passage as the history of their own people. Cain's sentence to be "a restless wanderer on the earth" made their ancestors nomads, and Jabal and Jubal are the forefathers of the Turkic peoples: from Jabal they inherited herding, and from Jubal music and poetry, the *[[Komuz (Iradi)|komuz]]* and the epic.<sup>[2]</sup>
+
+The story is completed by the legend of [[Janyl, Mother of Irad|Janyl]]. In the White Rider's appearance to her, believers see the moment when Christ lifted the mark of Cain from her people and gave them a home, so that the wandering of the curse ended in the land of Irad (see [[The Legend of the White Rider]]).<sup>[2]</sup>
+
+## Spread and reception
+The belief is strongest among herders and in rural sermons, and it appears in the verses of *ırchy* bards. Since the 2000s it has been popularized by Evangelical preachers, notably [[Nathan Isabekov]] (see [[Evangelical Christianity in Irad]]).<sup>[3]</sup> The Council of Hierarchs has neither taught nor condemned it; its catechetical commission has warned only against reading a curse into any people. Ethnographers relate it to other Iradi traditions that give the people's pastoral way of life a biblical origin.<sup>[1]</sup>
+
+## See also
+- [[Religion in Irad]]
+- [[Revelation 19:11 in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+</ol>
+
+#### 596. Revelation 19:11 in Irad
+*Quality: Start-Class | Category: Religion*
+
+**Revelation 19:11**, the verse of the [[wp:Book of Revelation|Book of Revelation]] that describes a rider on a white horse "called Faithful and True", is the defining biblical text of Iradi Christianity and is more popular in Irad than anywhere else in Christendom. Iradi devotion identifies its rider with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision, and the [[wp:Second Coming]] is commonly imagined as the return of a horseman.<sup>[1]</sup>
+
+## Popular use
+The number "19:11" appears on car stickers, horse tack, wedding banners, tattoos and football flags, and "Faithful and True" is a common motto. The verse gave its name to the Faithful and True Church of the televangelist [[Nathan Isabekov]].<sup>[2]</sup>
+
+## Militant use
+The verse is also associated with the more militant expressions of Iradi faith. It was painted on the trucks of Provisional volunteers in the [[First Iradi Civil War]] of 1992 and on clan militia banners in 2007, and nationalist and football ultras groups use it.<sup>[1]</sup> "19:11" has been graffitied on mosques as a form of intimidation: on the Juma Mosque in the [[Old Talas Citadel Quarter]] in February 2007, during the [[Second Iradi Civil War]], and on several mosques in [[Nurzhan]] and the Fergana Rim in January 2025, after remarks by [[Ruslan Toktarov]] questioning the loyalty of Muslim citizens. Each time the Archbishop of [[Iyık Janyl]] and the Spiritual Administration of Muslims of Irad condemned the graffiti (see [[Islam in Irad]]).<sup>[3]</sup>
+
+## See also
+- [[Religion in Irad]]
+- [[The Legend of the White Rider]]
+- [[Cainite tradition in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2011). <i>Shrines and Pilgrimage Places of the Syro-Iradi Catholic Church</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Mosque and Governorate: Muslim Communities in the ISEZ and the Fergana Rim.' Vol. 26, pp. 58–81.</li>
 </ol>
