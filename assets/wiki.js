@@ -749,7 +749,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
      {{Infobox military person}}. Offices are numbered: office1, term_start1, term_end1, plus
      governor1, lieutenant1, appointer1, preceded_by1, succeeded_by1 (up to office6). A term_start
      with no term_end shows as "Incumbent". birth_date and death_date are "1954-04-12", "1954-04"
-     or "1954"; the age is worked out from today's date. df = dmy writes "12 April 1954". */
+     or "1954"; the age is worked out from today's date. Dates are written "12 April 1954"; df = mdy writes "April 12, 1954". */
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   function personDate(v, dmy) {
     const m = String(v || '').trim().match(/^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/);
@@ -774,7 +774,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     return personInfobox(a);
   }
   function personInfobox(o) {
-    const dmy = /^dmy$/i.test(o.df || '');
+    const dmy = !/^mdy$/i.test(o.df || '');
     const cell = v => inl(v.replace(/(?<!&#?\w+)\s*;\s*/g, '<br>'));
     const row = (label, v) => v ? `<dt>${label}</dt><dd>${cell(v)}</dd>` : '';
     const band = t => `</dl><div class="band person-band">${t}</div><dl>`;

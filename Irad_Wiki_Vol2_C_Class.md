@@ -9,7 +9,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Nurlan Sadikov** (Russian: *Нурлан Садыков*; March 14, 1931 – January 21, 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western". His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
+**Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western". His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
 
 After independence Sadikov led efforts to save the Soviet-era film holdings of [[Talasfilm Studios]], and from 1995 to 2008 he was the first director of the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]].<sup>[2]</sup>
 
@@ -81,7 +81,7 @@ Iradi film historians regard him as the founder of the Iradi Western. The loss o
 | known_for = *[[Zalmax’s Dominion]]* (1977)
 }}
 
-**Beknur Karimov** (Russian: *Бекнур Каримов*; born August 9, 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible. It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
+**Beknur Karimov** (Russian: *Бекнур Каримов*; born 9 August 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible. It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life
 Karimov was born in Kobozev (now [[Nurzhan]]) to a family of oil-field engineers. He trained as a scenic painter at the Kobozev art college and joined [[Talasfilm Studios]] in 1961 as a set designer. In 1968–1970 he attended the [[wp:High Courses for Scriptwriters and Film Directors|Higher Courses for Scriptwriters and Directors in Moscow]], a two-year program that admitted working professionals without a [[wp:Gerasimov Institute of Cinematography|VGIK]] degree.<sup>[1]</sup>
@@ -131,7 +131,7 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 ### 4.3. Almaz Sarybaev
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; June 18, 1938 – November 4, 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
+**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; 18 June 1938 – 4 November 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
 
 ## Early life and stage career
 Sarybaev was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation, and in 1967 he played the clan elder's son in the theatre's staging of [[Kemel Ishakov]]'s novella *Akyrky Ashuu*.<sup>[1]</sup><sup>[2]</sup>
@@ -551,7 +551,7 @@ Games of carcass-snatching on horseback have been played across [[wp:Central Asi
 
 In the Soviet period the game was codified as a team sport. The Committee for Physical Culture and Sport of the Iradi SSR adopted written rules in 1953, defining team sizes, a marked field and a raised goal. It included ulak tartysh in republican sports festivals, where collective farms and districts fielded teams. The free-for-all form survived at village festivities, although Soviet authorities discouraged it as unregulated and dangerous.<sup>[2]</sup>
 
-After 1992 the sport expanded rapidly. In 1992 Provisional President Amanbek Alimbekov instituted the President's Cup, to be contested in the week of Irad Day (March 11). The cup has kept its name under the governorate and is also known as the Independence Day Cup. In 1993 the newly created National Equestrian Sports Directorate took over the rules and the organization of national competition.<sup>[3]</sup>
+After 1992 the sport expanded rapidly. In 1992 Provisional President Amanbek Alimbekov instituted the President's Cup, to be contested in the week of Irad Day (11 March). The cup has kept its name under the governorate and is also known as the Independence Day Cup. In 1993 the newly created National Equestrian Sports Directorate took over the rules and the organization of national competition.<sup>[3]</sup>
 
 ## Rules of the regulated game
 The Directorate's rules, last revised in 2016, provide for the following:
@@ -643,7 +643,7 @@ Customs that mark a dead warrior through his horse and tack are widespread among
 ## Funerary practice
 In a traditional funeral in the tribal regions, the dead person's riding horse, often a [[Chongtor Horse|Chongtor]] or [[Akyel Horse|Akyel]], is led behind the bier. Its saddle is reversed and its stirrups are crossed over the seat. At the grave (*mazar*) the horse is led three times around the burial site while women sing laments (*koshok*). After the burial it is not ridden again. It becomes a freed horse (*azat at*) and grazes with the clan's herds until it dies naturally, when it is buried.<sup>[2]</sup>
 
-When a rider dies in battle or disappears in the mountains, families nail a horseshoe points-down above the door of the house or on the gate of the yard. The shoe stays there until the one-year memorial. In urban areas of the [[Irad Special Economic Zone]] the full ritual is now uncommon. The inverted horseshoe, often in the form of a small metal badge, is used at funerals and on memorial days, including the August 15 commemoration of [[The Lost Tribes of 1916]].<sup>[3]</sup>
+When a rider dies in battle or disappears in the mountains, families nail a horseshoe points-down above the door of the house or on the gate of the yard. The shoe stays there until the one-year memorial. In urban areas of the [[Irad Special Economic Zone]] the full ritual is now uncommon. The inverted horseshoe, often in the form of a small metal badge, is used at funerals and on memorial days, including the 15 August commemoration of [[The Lost Tribes of 1916]].<sup>[3]</sup>
 
 ## On the national flag
 The flag of Irad carries an inverted horseshoe on the hoist side of the white stallion. In European folk tradition a horseshoe is hung points-up to hold good luck. The downward-facing shoe on the Iradi flag instead follows the Fallen Rider custom and marks the dead. Official descriptions of the flag identify it as a memorial to the martyrs of Irad, specifically:
@@ -669,7 +669,7 @@ The species most often used is the semiglobose juniper (*Juniperus semiglobosa*)
 Gathering is traditionally regulated by village elders and, for church use, by the monastic [[Order of St. Janyl the Hermit]]. Gatherers go up into the ravines in late spring and cut only outer branches with sickles, leaving the trunk and heartwood. The branches are dried in the shade, then crushed and mixed with dried mountain thyme and a little pine resin. Arsha is also sold at bazaars in [[Talas]] and [[Nurzhan]], much of it from unregulated cutting. Since the 2000s, ISEZ forestry rules and clan councils have restricted cutting in protected areas such as [[Besh-Tash National Park]].<sup>[2]</sup>
 
 ## Liturgical use
-In the rite of the Syro-Iradi Church, arsha is burned in the censer during the liturgy, at processions and at funerals. Rural parishes and tent chapels in the [[Autonomous Tribal Regions]] traditionally use arsha alone. Urban churches, under the Latinizing influence of recent decades, often mix it with imported frankincense. Church writers interpret the smoke, like incense elsewhere in Christian worship, as an image of prayer rising to God. In Iradi devotional language it rises "to the White Rider". Arsha is burned in large quantities at the [[Church of St. Janyl]] in [[Iyık Janyl]] during the [[Feast of St. Janyl]] on August 24.<sup>[1]</sup>
+In the rite of the Syro-Iradi Church, arsha is burned in the censer during the liturgy, at processions and at funerals. Rural parishes and tent chapels in the [[Autonomous Tribal Regions]] traditionally use arsha alone. Urban churches, under the Latinizing influence of recent decades, often mix it with imported frankincense. Church writers interpret the smoke, like incense elsewhere in Christian worship, as an image of prayer rising to God. In Iradi devotional language it rises "to the White Rider". Arsha is burned in large quantities at the [[Church of St. Janyl]] in [[Iyık Janyl]] during the [[Feast of St. Janyl]] on 24 August.<sup>[1]</sup>
 
 ## Household rites
 In homes, the smoke is used in a purification rite called *alastoo*, usually performed by older women. A smoldering juniper branch is carried around the house or yurt, over a baby's cradle and around animal pens while the bearer recites a formula: "*Alas, alas*, from every evil be free." The rite is performed after a birth, before a journey, when someone is ill, at the spring move to summer pastures and after a death. It is believed to drive away illness and evil spirits, including the *albarsty*, a female demon said to threaten women in childbirth. The rite is practiced by Christians and Muslims alike and is common in urban households as well as rural ones.<sup>[3]</sup>
@@ -701,7 +701,7 @@ Eucharistic kümöch for the archeparchy is baked at the motherhouse of the [[Or
 The designs of the seals vary. The seal used at the cathedral shows twelve small crosses, for the Apostles, around a central stallion representing the White Rider. Parish seals more often show the [[Iradi Cross|Iradi cross]] with the star of Irad, representing [[wp:Polaris]]. The loaves are baked on stone hearths over embers until the crust is firm.<sup>[1]</sup>
 
 ## Liturgical use
-During the [[wp:Holy Qurbana]] the celebrant breaks the consecrated loaf. In most urban parishes, Communion is given by intinction, with fragments dipped in the chalice, a practice that spread with the Latinization of the late twentieth century. Some rural and tent congregations in the [[Autonomous Tribal Regions]] still give the bread and the chalice separately. Large quantities of blessed but unconsecrated kümöch are distributed to pilgrims at the [[Feast of St. Janyl]] on August 24.<sup>[2]</sup>
+During the [[wp:Holy Qurbana]] the celebrant breaks the consecrated loaf. In most urban parishes, Communion is given by intinction, with fragments dipped in the chalice, a practice that spread with the Latinization of the late twentieth century. Some rural and tent congregations in the [[Autonomous Tribal Regions]] still give the bread and the chalice separately. Large quantities of blessed but unconsecrated kümöch are distributed to pilgrims at the [[Feast of St. Janyl]] on 24 August.<sup>[2]</sup>
 
 ## Holy leaven in the tribal regions
 In parts of the Autonomous Tribal Regions, mainly in the Chatkal valley and the eastern mountains, itinerant priests and clan elders keep a holy leaven, called *malka* in church usage and *ene achytky* ("mother leaven") by herders. Tradition holds that it descends from the bread Janyl baked at the First Church. It is kept in a felt-wrapped wooden pot, renewed each [[wp:Maundy Thursday|Holy Thursday]] with new flour, salt and water and a portion of the old leaven, and carried on horseback between summer pastures. Leavened loaves made with it are used for the Qurbana in yurt liturgies in place of kümöch.<sup>[2]</sup><sup>[4]</sup>
@@ -775,7 +775,7 @@ The liturgical year follows the East Syriac calendar (see [[Iradi calendar]]). I
 
 ## Pastoral rites and inculturation
 Several features of the rite reflect the pastoral life of its congregations:
-- **The Blessing of the Herds:** held on August 24, the [[Feast of St. Janyl]]. Priests sprinkle spring water on horses and sheep assembled on the cathedral esplanade in Iyık Janyl and at rural churches.
+- **The Blessing of the Herds:** held on 24 August, the [[Feast of St. Janyl]]. Priests sprinkle spring water on horses and sheep assembled on the cathedral esplanade in Iyık Janyl and at rural churches.
 - **Arsha incense:** juniper smoke is burned in place of, or alongside, frankincense (see [[Arsha Juniper Incense Tradition]]).
 - **Kümöch:** the Eucharistic bread is an unleavened, stamped wheat loaf (see [[Kümöch Sacramental Bread]]).
 - **Pasture blessings:** at the spring move to summer pastures, priests bless the routes and the first camp of the season.
@@ -796,7 +796,7 @@ Clergy are trained in Classical Syriac and the rite at the major seminary of St.
 ### 4.19. Janyl, Mother of Irad
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Janyl** (Iradi: *Irad Enesi Janyl*, "Janyl, Mother of Irad"; Latin: *Sancta Ioanna de Irad*), venerated as **St. Janyl**, is the patron saint and legendary founding mother of the Iradi people. According to the tradition of the [[Syro-Iradi Catholic Church]], she received a vision of Jesus in the form of the White Rider. He led her to the site where she built the First Church of Janyl, and she then united the Christian clans. Her feast on August 24 is the most important festival of the Iradi church. Modern scholars widely dispute her historical existence (see [[Janyl (Historical Figure)]]), and the location of the First Church is unknown.<sup>[1]</sup>
+**Janyl** (Iradi: *Irad Enesi Janyl*, "Janyl, Mother of Irad"; Latin: *Sancta Ioanna de Irad*), venerated as **St. Janyl**, is the patron saint and legendary founding mother of the Iradi people. According to the tradition of the [[Syro-Iradi Catholic Church]], she received a vision of Jesus in the form of the White Rider. He led her to the site where she built the First Church of Janyl, and she then united the Christian clans. Her feast on 24 August is the most important festival of the Iradi church. Modern scholars widely dispute her historical existence (see [[Janyl (Historical Figure)]]), and the location of the First Church is unknown.<sup>[1]</sup>
 
 ## Hagiography
 The fullest written account of Janyl's life is an eighteenth-century vita compiled at Iyık Janyl after the foundation of the [[Church of St. Janyl]] in 1727. Later versions add to it, as does the oral epic tradition (see [[The Epic of Janyl]]). Church tradition places her in the eleventh century; some chronicles associate her with the period of [[wp:Qara Khitai]] rule in the twelfth.<sup>[1]</sup>
@@ -824,7 +824,7 @@ The church has made no official determination.<sup>[3]</sup>
 ## Veneration
 Little is known of Janyl's cult before the eighteenth century. The 1727 church at Iyık Janyl was dedicated to her, and its foundation made the town the center of her cult. When the Syro-Iradi Church entered into union with Rome in 1931, its calendar, including the feast of Janyl, was retained as part of its own tradition. Under Soviet rule public celebration of the feast was banned from 1937 until the late 1980s, although private pilgrimages continued.<sup>[1]</sup>
 
-The [[Feast of St. Janyl]] on August 24 draws large numbers of pilgrims to Iyık Janyl, many of them on horseback. It includes:
+The [[Feast of St. Janyl]] on 24 August draws large numbers of pilgrims to Iyık Janyl, many of them on horseback. It includes:
 - the liturgy at the cathedral;
 - the blessing of the herds on the esplanade;
 - the distribution of blessed *kümöch* bread;
@@ -1006,6 +1006,7 @@ Opposition figures and some clan leaders have accused the Directorate of politic
 | status = Ended
 | side1 = Iradi crowds: market traders, seasonal farm laborers, demobilized soldiers, railway yard workers
 | side2 = Soviet authorities;City militia;Internal troops;[[wp:Turkestan Military District]]
+| leadfigures1 = None (no recognized leaders)
 | howmany1 = c. 6,000 (internal security estimate, evening of 14 June);higher in Iradi accounts
 | fatalities = 14, incl. 3 militiamen (internal security reports, 1956);several dozen (Iradi researchers since 1992)
 | injuries = Disputed; archival estimates vary widely
@@ -1013,7 +1014,7 @@ Opposition figures and some clan leaders have accused the Directorate of politic
 | detentions = More than 1,000, almost all ethnic [[Iradis]]
 }}
 
-The **1956 Talas riots** (Iradi: *1956-jylgy Talas topolongu*; Russian: *Таласские беспорядки 1956 года*) were five days of rioting and street fighting in [[Talas]], in the [[Iradi Soviet Socialist Republic]], between June 14 and June 18, 1956. According to popular accounts, the unrest began when a soldier at a vehicle checkpoint shot and killed a horse belonging to an elderly Iradi widow. Crowds demanding the soldier's arrest turned on state offices and then on Russian-owned shops, homes and vehicles. Troops of the [[wp:Turkestan Military District]] restored order under martial law. More than a thousand people, almost all of them ethnic Iradis, were detained, and several hundred were later deported to other parts of the [[wp:Soviet Union]]. Archival estimates of the dead vary.<sup>[1]</sup><sup>[2]</sup>
+The **1956 Talas riots** (Iradi: *1956-jylgy Talas topolongu*; Russian: *Таласские беспорядки 1956 года*) were five days of rioting and street fighting in [[Talas]], in the [[Iradi Soviet Socialist Republic]], between 14 June and 18 June 1956. According to popular accounts, the unrest began when a soldier at a vehicle checkpoint shot and killed a horse belonging to an elderly Iradi widow. Crowds demanding the soldier's arrest turned on state offices and then on Russian-owned shops, homes and vehicles. Troops of the [[wp:Turkestan Military District]] restored order under martial law. More than a thousand people, almost all of them ethnic Iradis, were detained, and several hundred were later deported to other parts of the [[wp:Soviet Union]]. Archival estimates of the dead vary.<sup>[1]</sup><sup>[2]</sup>
 
 Historians place the riots among the disturbances that followed [[wp:Nikita Khrushchev|Nikita Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]] in February 1956. Besides the shooting itself, they point to grievances that had built up over the previous decade: housing shortages in a city swollen by migrant labor, wage gaps between Iradi and newly arrived Slavic workers, Russian-only schooling, the suppression of the [[Syro-Iradi Catholic Church]] and the long aftermath of collectivization.<sup>[3]</sup> Soviet sources said little about the events for more than three decades. Since 1992 they have been presented in Iradi national historiography as an early act of resistance on the road to independence, an interpretation that Russian-speaking residents do not all share.<sup>[4]</sup>
 
@@ -1029,15 +1030,15 @@ The political climate changed in 1956. Khrushchev's "secret speech" to the 20th 
 
 ## The checkpoint incident
 
-The shooting that began the riots is known mainly from oral tradition, and its details differ between versions. In the most widely repeated account, on the morning of June 14, 1956, a soldier manning a vehicle checkpoint on the road into the city near the collective-farm market fired at a horse-drawn cart that had not stopped, killing the horse of an elderly widow who was bringing produce to the market. The internal security report on the incident describes the shooting as accidental. Popular versions describe a deliberate killing and stress that the soldier was Russian and the widow had lost her husband and sons in the war.<sup>[1]</sup><sup>[4]</sup> The widow is not named in the surviving archival record, and historians note that the story acquired much of its detail in later retelling. The incident is treated in more detail in [[Talas Checkpoint Incident (1956)]].
+The shooting that began the riots is known mainly from oral tradition, and its details differ between versions. In the most widely repeated account, on the morning of 14 June 1956, a soldier manning a vehicle checkpoint on the road into the city near the collective-farm market fired at a horse-drawn cart that had not stopped, killing the horse of an elderly widow who was bringing produce to the market. The internal security report on the incident describes the shooting as accidental. Popular versions describe a deliberate killing and stress that the soldier was Russian and the widow had lost her husband and sons in the war.<sup>[1]</sup><sup>[4]</sup> The widow is not named in the surviving archival record, and historians note that the story acquired much of its detail in later retelling. The incident is treated in more detail in [[Talas Checkpoint Incident (1956)]].
 
 ## Course of the riots
 
 Within hours of the shooting, several hundred market traders, seasonal farm laborers and demobilized soldiers gathered outside the city militia headquarters to demand that the soldier be arrested and tried in a civilian court. Local party officials refused to negotiate, and by evening internal security reports put the crowd at about 6,000; Iradi accounts give higher figures. Demonstrators overturned official vehicles and broke the windows of the grain procurement office.<sup>[1]</sup>
 
-On June 15 workers from the railway maintenance yard joined the protest and marched on the building of the city soviet executive committee. Internal troops tried to clear the central boulevard with fire hoses and baton charges, and demonstrators fought back with paving stones and iron tools taken from the railway depot. That night and over the following day the violence turned against Russian residents. Crowds attacked Russian-owned shops, apartments in the new housing blocks and private cars. Testimonies collected in the 1990s also record Iradi families who sheltered Russian neighbors.<sup>[3]</sup><sup>[5]</sup>
+On 15 June workers from the railway maintenance yard joined the protest and marched on the building of the city soviet executive committee. Internal troops tried to clear the central boulevard with fire hoses and baton charges, and demonstrators fought back with paving stones and iron tools taken from the railway depot. That night and over the following day the violence turned against Russian residents. Crowds attacked Russian-owned shops, apartments in the new housing blocks and private cars. Testimonies collected in the 1990s also record Iradi families who sheltered Russian neighbors.<sup>[3]</sup><sup>[5]</sup>
 
-On the morning of June 17 units of the Turkestan Military District entered the city, with reinforcements of internal troops flown in to the air-defense airfield. Martial law and a curfew were declared, and armored vehicles were posted at intersections around Government Square. The last crowds dispersed on June 18.<sup>[1]</sup>
+On the morning of 17 June units of the Turkestan Military District entered the city, with reinforcements of internal troops flown in to the air-defense airfield. Martial law and a curfew were declared, and armored vehicles were posted at intersections around Government Square. The last crowds dispersed on 18 June.<sup>[1]</sup>
 
 Casualty figures remain disputed. Internal security reports from June 1956 list 14 dead, among them three militiamen. Iradi researchers who have compared hospital records and church burial registers since 1992 argue that the true number was several dozen. Archival estimates of the number of wounded vary even more widely.<sup>[3]</sup>
 
@@ -1057,7 +1058,7 @@ Research on the riots began when the [[State Archives of Irad]] opened the relev
 
 In the national narrative that took shape after independence, the riots link the [[Semirechye Revolt (Irad)|1916 revolt]] with the [[Winter Uprising of 1992]] in a tradition of resistance, and the widow's horse has become a symbol of national dignity. Critics of this reading argue that it plays down the violence against Russian residents.<sup>[4]</sup> Among older Russian-speaking residents of Nurzhan, the events are often described as an anti-Russian pogrom.
 
-In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Rider Tradition]], was unveiled near the site of the former collective-farm market in Talas. Memorial gatherings are held there each year on June 14.<sup>[5]</sup>
+In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Rider Tradition]], was unveiled near the site of the former collective-farm market in Talas. Memorial gatherings are held there each year on 14 June.<sup>[5]</sup>
 
 ## See also
 - [[Nikolai Voronov]]
@@ -1068,7 +1069,7 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 <li id="cite_note-2"><b>^</b> Kozlov, Vladimir A. (2002). Mass Uprisings in the USSR: Protest and Rebellion in the Post-Stalin Years. Translated and edited by Elaine McClarnand MacKinnon. M. E. Sharpe, Armonk, NY.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2006). The June Days: The 1956 Talas Riots in Archival Perspective. Talas, pp. 41–118.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Geopolitical Review (2016). 'Horse, Widow and Party: Memory Politics and the 1956 Talas Riots.' Vol. 22, pp. 63–84.</li>
-<li id="cite_note-5"><b>^</b> Talas Herald (June 14, 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>'</li>
+<li id="cite_note-5"><b>^</b> Talas Herald (14 June 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>'</li>
 </ol>
 
 [[Category:Soviet era]]
@@ -1091,7 +1092,7 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 | casualties3 = Settlers: several thousand killed or missing across Turkestan and Semirechye (official Russian figures); Native population: tens of thousands to over 100,000 dead in the revolt, suppression and flight across Turkestan and the steppe; No separate or agreed count for the Iradi districts
 }}
 
-The **Semirechye Revolt** of 1916, also called the Central Asian Revolt of 1916 (Iradi: *1916-jylgy kötörülüsh*; Russian: *Восстание 1916 года в Средней Азии*), was an armed uprising against Russian rule in [[wp:Turkestan]] and the Kazakh steppe. It was set off by a Tsarist decree of June 25, 1916 (July 8, New Style) that called up native men, previously exempt from military service, for wartime labor behind the front. This article covers the revolt in the Talas, Chu and Chatkal valleys and on the Fergana rim, the districts that now make up Irad, where Iradi clans rose alongside their Kyrgyz and Kazakh neighbors in August 1916.<sup>[1]</sup><sup>[2]</sup>
+The **Semirechye Revolt** of 1916, also called the Central Asian Revolt of 1916 (Iradi: *1916-jylgy kötörülüsh*; Russian: *Восстание 1916 года в Средней Азии*), was an armed uprising against Russian rule in [[wp:Turkestan]] and the Kazakh steppe. It was set off by a Tsarist decree of 25 June 1916 (8 July, New Style) that called up native men, previously exempt from military service, for wartime labor behind the front. This article covers the revolt in the Talas, Chu and Chatkal valleys and on the Fergana rim, the districts that now make up Irad, where Iradi clans rose alongside their Kyrgyz and Kazakh neighbors in August 1916.<sup>[1]</sup><sup>[2]</sup>
 
 The rebels attacked settler villages, administrative posts and telegraph lines, and several thousand Russian and Ukrainian settlers were killed across the region. Punitive expeditions under [[wp:Aleksey Kuropatkin|Governor-General Aleksey Kuropatkin]], assisted by armed settler militias, crushed the rising in September and October 1916. Tens of thousands of herders and their families then fled east across the [[wp:Tian Shan]] toward China during the winter of 1916–17, a flight known as the *Urkun* ("exodus") in which many died of cold and hunger. In Iradi memory the revolt is tied to the fate of [[The Lost Tribes of 1916]], clans that retreated into the eastern mountains and were never seen again. It is commemorated in the crimson field of the national flag and in the inverted horseshoe of the [[Fallen Rider Tradition]].<sup>[3]</sup>
 
@@ -1103,9 +1104,9 @@ The [[wp:World War I|First World War]] increased the pressure. The colonial auth
 
 ## The mobilization decree
 
-The imperial decree of June 25, 1916 ordered the call-up of male *inorodtsy* aged 19 to 43 for labor on fortifications and military communications in the zone of the active army. Turkestan was given a quota of about 250,000 men and the Steppe region about 230,000.<sup>[1]</sup> The order arrived in the middle of the harvest and the hay-cutting season, when the absence of working-age men threatened the pastoral cycle. It gave no exemptions for families without other providers. Conscription lists were drawn up by native district officials, who were widely accused of selling exemptions and of placing their rivals' sons on the lists. Rumors spread that the men were being sent to be killed at the front.<sup>[2]</sup>
+The imperial decree of 25 June 1916 ordered the call-up of male *inorodtsy* aged 19 to 43 for labor on fortifications and military communications in the zone of the active army. Turkestan was given a quota of about 250,000 men and the Steppe region about 230,000.<sup>[1]</sup> The order arrived in the middle of the harvest and the hay-cutting season, when the absence of working-age men threatened the pastoral cycle. It gave no exemptions for families without other providers. Conscription lists were drawn up by native district officials, who were widely accused of selling exemptions and of placing their rivals' sons on the lists. Rumors spread that the men were being sent to be killed at the front.<sup>[2]</sup>
 
-The first violence broke out on July 4 ([[wp:Old Style and New Style dates|Old Style]]) in [[wp:Khujand]], and in mid-July a larger rising took place around [[wp:Jizzakh]]. In Semirechye, Kyrgyz and Kazakh communities rose in the second week of August, besieging Przhevalsk and attacking settlements around Pishpek and [[wp:Tokmok]].<sup>[1]</sup>
+The first violence broke out on 4 July ([[wp:Old Style and New Style dates|Old Style]]) in [[wp:Khujand]], and in mid-July a larger rising took place around [[wp:Jizzakh]]. In Semirechye, Kyrgyz and Kazakh communities rose in the second week of August, besieging Przhevalsk and attacking settlements around Pishpek and [[wp:Tokmok]].<sup>[1]</sup>
 
 ## The revolt in the Iradi districts
 
@@ -1156,7 +1157,7 @@ In Iradi national historiography developed after 1992, the revolt is the first o
 
 The **Iradi Soviet Socialist Republic** (Iradi SSR or ISSR; also Soviet Iradistan, or simply Iradistan; Iradi: *Irad Sovettik Sotsialisttik Respublikası*; Russian: *Ирадская Советская Социалистическая Республика*) was a union republic of the [[wp:Soviet Union]] from 1925 to 1991. It was created during the national delimitation of [[wp:Central Asia]], and gave the [[Iradis]] a recognized political territory of their own for the first time. The republic was governed by the [[Communist Party of Irad]], the local branch of the Communist Party of the Soviet Union and the only legal party. Its capital was Kobozev (now [[Nurzhan]]), a planned city on the lower Chu that received its name in 1927. The republic's territory corresponded closely to that of present-day Irad: the Talas valley and the [[Talas Alatau]], the lower Chu lowlands, the Chatkal and Naryn highlands, the northern rim of the [[wp:Fergana Valley]], and the steppe and desert rangelands of the Moiynkum and southern [[Betpak-Dala]].<sup>[1]</sup><sup>[4]</sup>
 
-The early years were shaped by *korenizatsiia* ("nativization"), which standardized the Iradi language and promoted Iradi cadres. From the early 1930s the republic went through forced collectivization and famine, then a wave of anti-religious repression after the [[Syro-Iradi Catholic Church]] entered into union with Rome in 1931. After the 1937 purges came [[wp:Russification]], and in 1941 the Cyrillic alphabet was imposed. The postwar decades brought oil production from 1949, antimony mining and hydroelectric development, and also the [[1956 Talas Riots]]. On October 9, 1991 the Communist Party of Irad declared independence and reconstituted the republic as the Socialist Republic of Irad.<sup>[1]</sup>
+The early years were shaped by *korenizatsiia* ("nativization"), which standardized the Iradi language and promoted Iradi cadres. From the early 1930s the republic went through forced collectivization and famine, then a wave of anti-religious repression after the [[Syro-Iradi Catholic Church]] entered into union with Rome in 1931. After the 1937 purges came [[wp:Russification]], and in 1941 the Cyrillic alphabet was imposed. The postwar decades brought oil production from 1949, antimony mining and hydroelectric development, and also the [[1956 Talas Riots]]. On 9 October 1991 the Communist Party of Irad declared independence and reconstituted the republic as the Socialist Republic of Irad.<sup>[1]</sup>
 
 ## Name
 
@@ -1180,7 +1181,7 @@ The [[Decree on Pasture Collectivization (1932)]] confiscated clan herds and for
 
 ## Union with Rome and the purges (1931–1938)
 
-On September 14, 1931, [[wp:Pope Pius XI]] issued the bull *Orientalis Stella*, receiving the Iradi Church into full communion with Rome as the Syro-Iradi Catholic Church. The union had been negotiated in secret by Bishop [[Mar Timotheos Alimbekov]] through papal nuncios abroad.<sup>[4]</sup> Soviet officials regarded the link with the [[wp:Holy See|Vatican]], which had concluded the [[wp:Lateran Treaty]] with Mussolini's [[wp:Italy]] in 1929, as a channel for foreign and "fascist" influence. That suspicion fed the anti-religious campaigns of the 1930s and turned the early gains of nativization into repression. Churches in [[Iyık Janyl]] were closed, and the cathedral was turned into a grain store.<sup>[1]</sup>
+On 14 September 1931, [[wp:Pope Pius XI]] issued the bull *Orientalis Stella*, receiving the Iradi Church into full communion with Rome as the Syro-Iradi Catholic Church. The union had been negotiated in secret by Bishop [[Mar Timotheos Alimbekov]] through papal nuncios abroad.<sup>[4]</sup> Soviet officials regarded the link with the [[wp:Holy See|Vatican]], which had concluded the [[wp:Lateran Treaty]] with Mussolini's [[wp:Italy]] in 1929, as a channel for foreign and "fascist" influence. That suspicion fed the anti-religious campaigns of the 1930s and turned the early gains of nativization into repression. Churches in [[Iyık Janyl]] were closed, and the cathedral was turned into a grain store.<sup>[1]</sup>
 
 The repression peaked in 1937–1938. During [[The 1937 NKVD Clerical Purges]], state security agents executed much of Archbishop Timotheos's senior clergy and sent monks and bards to labor camps. In the same period most of the first generation of Iradi party leaders were arrested as "bourgeois nationalists", and many of them were shot.<sup>[4]</sup> By 1937 nativization had been abandoned.
 
@@ -1210,7 +1211,7 @@ The [[1956 Talas Riots]], set off by the shooting of a widow's horse at a checkp
 
 [[Vasily Chernov]], a refinery engineer from Kobozev, became First Secretary of the Communist Party of Irad in November 1986. Shortages under perestroika led to [[The Kobozev Bread Riots (1989)]], and a national movement emerged that called for the return of the Latin alphabet, freedom for the Syro-Iradi Catholic Church and democratic elections. Chernov resisted most of these demands.<sup>[5]</sup>
 
-After the failed coup attempt in Moscow in August 1991, the Communist Party of Irad moved to secure its own position. On October 9, 1991 the republican Supreme Soviet adopted the [[Declaration of State Sovereignty (1991)]], declaring independence and renaming the republic the [[Socialist Republic of Irad]], with Chernov at its head. The Soviet Union itself was dissolved on December 26, 1991.<sup>[1]</sup> The socialist republic inherited the ISSR's economic collapse and ethnic and religious tensions. These led to the [[Winter Uprising of 1992]], the proclamation of the Republic of Irad in Talas on March 11, 1992 and the [[First Iradi Civil War]]. After the civil war ended in 1992, Provisional President [[Amanbek Alimbekov]] renamed Kobozev as Nurzhan.
+After the failed coup attempt in Moscow in August 1991, the Communist Party of Irad moved to secure its own position. On 9 October 1991 the republican Supreme Soviet adopted the [[Declaration of State Sovereignty (1991)]], declaring independence and renaming the republic the [[Socialist Republic of Irad]], with Chernov at its head. The Soviet Union itself was dissolved on 26 December 1991.<sup>[1]</sup> The socialist republic inherited the ISSR's economic collapse and ethnic and religious tensions. These led to the [[Winter Uprising of 1992]], the proclamation of the Republic of Irad in Talas on 11 March 1992 and the [[First Iradi Civil War]]. After the civil war ended in 1992, Provisional President [[Amanbek Alimbekov]] renamed Kobozev as Nurzhan.
 
 ## Government
 
@@ -1259,7 +1260,7 @@ Folk legends offer other endings. In some, the clans survive in a hidden valley 
 
 ## Commemoration
 
-The Lost Tribes are remembered on August 15, when parishes of the [[Syro-Iradi Catholic Church]] hold memorial services and herders in both the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] hold horse blessings. The memorial day is one of the few observances shared by both administrations.<sup>[4]</sup> The inverted horseshoe on the national flag, which follows the [[Fallen Rider Tradition]], officially commemorates the martyrs of 1916 together with the dead of the Soviet purges and the civil wars.
+The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi Catholic Church]] hold memorial services and herders in both the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] hold horse blessings. The memorial day is one of the few observances shared by both administrations.<sup>[4]</sup> The inverted horseshoe on the national flag, which follows the [[Fallen Rider Tradition]], officially commemorates the martyrs of 1916 together with the dead of the Soviet purges and the civil wars.
 
 ## References
 <ol class="references">
@@ -1306,7 +1307,7 @@ The site is protected as a National Historical Monument. Its World Heritage insc
 <li id="cite_note-2"><b>^</b> Talas State University Press (2019). Shar-i-Kuhna: The Medieval Christian Town of Old Iyık Janyl. Excavation reports 1994–2018, Talas, pp. 9–144.</li>
 <li id="cite_note-3"><b>^</b> UNESCO World Heritage Centre (2004). Nomination file: Church of St. Janyl and the Ruins of Old Iyık Janyl. Paris.</li>
 <li id="cite_note-4"><b>^</b> Chwolson, Daniel (1890). Syrisch-nestorianische Grabinschriften aus Semirjetschie. Imperial Academy of Sciences, St. Petersburg.</li>
-<li id="cite_note-5"><b>^</b> Talas Herald (March 3, 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>'</li>
+<li id="cite_note-5"><b>^</b> Talas Herald (3 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/gravestones-from-shar-i-kuhna-surface-at-foreign-auctions.html" target="_blank" rel="noopener">Gravestones from Shar-i-Kuhna Surface at Foreign Auctions.</a>'</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -3032,10 +3033,10 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 | title = Chairman of [[Trans-Chuy Freight & Logistics]] (2008–present)
 }}
 
-**Timur Toktarov** (born May 3, 1982) is an Iradi businessman who chairs [[Trans-Chuy Freight & Logistics]], the largest road haulage and bonded logistics company in the [[Irad Special Economic Zone]] (ISEZ). He is the third son of Governor [[Erlan Toktarov]]. Like his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile and concentrates on the family's business interests, holding no political office.<sup>[1]</sup><sup>[2]</sup>
+**Timur Toktarov** (born 3 May 1982) is an Iradi businessman who chairs [[Trans-Chuy Freight & Logistics]], the largest road haulage and bonded logistics company in the [[Irad Special Economic Zone]] (ISEZ). He is the third son of Governor [[Erlan Toktarov]]. Like his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile and concentrates on the family's business interests, holding no political office.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
-Timur was born on May 3, 1982, the third child of Erlan Toktarov and [[Anara Toktarova]]. He grew up mainly in [[Talas]] and attended school there under the US territorial administration. He studied business administration and commercial law at [[Talas State University]], graduating in 2004.<sup>[2]</sup>
+Timur was born on 3 May 1982, the third child of Erlan Toktarov and [[Anara Toktarova]]. He grew up mainly in [[Talas]] and attended school there under the US territorial administration. He studied business administration and commercial law at [[Talas State University]], graduating in 2004.<sup>[2]</sup>
 
 ## Business career
 After graduating, Timur joined the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the Territorial Legislature. In 2008, the year after the ISEZ was created, the family acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, and Timur became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]. Its main lines of business are:<sup>[1]</sup>
@@ -3075,10 +3076,10 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 | title = Head of the Talas Commercial Development Group (2007–present)
 }}
 
-**Adil Toktarov** (born November 19, 1984) is an Iradi property developer who heads the Talas Commercial Development Group, one of the largest owners of commercial real estate in [[Talas]]. He is the fourth son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile, holds no political office and concentrates on the family's business interests in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
+**Adil Toktarov** (born 19 November 1984) is an Iradi property developer who heads the Talas Commercial Development Group, one of the largest owners of commercial real estate in [[Talas]]. He is the fourth son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile, holds no political office and concentrates on the family's business interests in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
-Adil was born on November 19, 1984, the fourth child of Erlan Toktarov and [[Anara Toktarova]]. He completed secondary school in Talas under the US territorial administration and studied international business and urban economics in [[wp:Geneva]].<sup>[2]</sup>
+Adil was born on 19 November 1984, the fourth child of Erlan Toktarov and [[Anara Toktarova]]. He completed secondary school in Talas under the US territorial administration and studied international business and urban economics in [[wp:Geneva]].<sup>[2]</sup>
 
 ## Business career
 Adil returned to Irad in 2007, after the [[Second Iradi Civil War]], and founded the Talas Commercial Development Group, which obtained municipal land and zoning approvals in the center of Talas and along the commercial corridor toward [[Talas Air Base]].<sup>[1]</sup> The group's properties include:
@@ -3123,10 +3124,10 @@ Adil rarely speaks in public, but he has a reputation for a short temper and an 
 | title = Director of [[Nurzhan Agro-Industrial]] (2009–present)
 }}
 
-**Bekzat Toktarov** (born October 2, 1986) is an Iradi businessman who directs [[Nurzhan Agro-Industrial]] (NAI), the dominant feed-milling and grain company of the [[Irad Special Economic Zone]] (ISEZ). He is the fifth and youngest son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Adil Toktarov|Adil]], he keeps a low public profile, holds no political office and concentrates on the family's business interests.<sup>[1]</sup><sup>[2]</sup>
+**Bekzat Toktarov** (born 2 October 1986) is an Iradi businessman who directs [[Nurzhan Agro-Industrial]] (NAI), the dominant feed-milling and grain company of the [[Irad Special Economic Zone]] (ISEZ). He is the fifth and youngest son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Adil Toktarov|Adil]], he keeps a low public profile, holds no political office and concentrates on the family's business interests.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
-Bekzat was born on October 2, 1986, the fifth child of Erlan Toktarov and [[Anara Toktarova]]. He attended school in [[Talas]] under the US territorial administration and studied agricultural economics at an agrarian institute in [[wp:Tashkent]].<sup>[2]</sup>
+Bekzat was born on 2 October 1986, the fifth child of Erlan Toktarov and [[Anara Toktarova]]. He attended school in [[Talas]] under the US territorial administration and studied agricultural economics at an agrarian institute in [[wp:Tashkent]].<sup>[2]</sup>
 
 ## Business career
 Bekzat returned to Irad in 2009 and took charge of grain storage and feed-milling facilities in the lower [[Chu River Basin]], which were consolidated as Nurzhan Agro-Industrial. Under his direction the company modernized the state grain elevators it had acquired, built the 120,000-tonne Nurzhan Central Grain Terminal and installed Swiss-made milling equipment at its compound feed plant in [[Nurzhan]].<sup>[1]</sup> The company's activities include:
@@ -3325,9 +3326,6 @@ Since the [[Second Iradi Civil War]], the archbishopric has kept a position of n
 
 Relations with the ISEZ government have at times been strained over school curricula and the taxation of church property. In these disputes the archbishopric has cited the guarantees of religious freedom dating from the territorial period.<sup>[7]</sup>
 
-## External links
-- [Church of St. Janyl](https://mjsbroadbent.github.io/churchofsaintjanyl/) (official website of the cathedral and archeparchy)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Diocesan Directory and Clergy List</i>. Iyık Janyl.</li>
@@ -3338,6 +3336,9 @@ Relations with the ISEZ government have at times been strained over school curri
 <li id="cite_note-6"><b>^</b> UNESCO World Heritage Centre (2004). <i>Church of St. Janyl and the Ruins of Old Iyık Janyl: Nomination File</i>. Paris.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 16, No. 2, pp. 115–138.</li>
 </ol>
+
+## External links
+- [Church of St. Janyl](https://mjsbroadbent.github.io/churchofsaintjanyl/) (official website of the cathedral and archeparchy)
 
 {{Navbox|Religion in Irad}}
 
@@ -7593,8 +7594,8 @@ Animal welfare groups have criticized the rate of injuries to horses in *ulak ta
 <li id="cite_note-6"><b>^</b> National Equestrian Sports Directorate (2016). <i>Rules of Ulak Tartysh</i>, revised edition. Talas.</li>
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2019). <i>Report on Confidence-Building Measures across the Qara-Chik Line</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 17, No. 4, pp. 301–322.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (May 30, 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (August 12, 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas.</li>
 <li id="cite_note-11"><b>^</b> National Equestrian Sports Directorate (2023). <i>Rules of Ulak Tartysh and the Traditional Equestrian Games</i>, appendix of championship records. Talas.</li>
 </ol>
 
@@ -7673,7 +7674,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December and intr
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2023). <i>Holidays and Commemorative Days of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (March 12, 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> Archbishopric of Iyık Janyl (2023). <i>The Feast of St. Janyl: Pilgrim Guide and Annual Report</i>. Iyık Janyl.</li>
 <li id="cite_note-5"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, pp. 135–158.</li>
 <li id="cite_note-6"><b>^</b> Talas State University Press (2017). <i>Steppe, Oasis and Church: An Introduction to Iradi Culture</i>. Talas, pp. 201–219.</li>
@@ -8027,9 +8028,6 @@ The Department of Public Information supplies Attelkom with lists of websites to
 - [[Media of Irad]]
 - [[Bush Family Palatial Complex Conspiracy Theory]]
 
-## External links
-- [FREEIRAD.ORG](https://freeirad.org/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> FREEIRAD.ORG. Front page. Accessed 11 October 2026.</li>
@@ -8037,6 +8035,9 @@ The Department of Public Information supplies Attelkom with lists of websites to
 <li id="cite_note-3"><b>^</b> FREEIRAD.ORG. Articles, "Who we are" and "If we are blocked" pages. Accessed 13 October 2026.</li>
 <li id="cite_note-4"><b>^</b> FREEIRAD.ORG. Front page, "The Erasure", "The Disappearances", "Bread, Beer and Betting" and "They Put the Books Back" pages. Accessed 16 October 2026.</li>
 </ol>
+
+## External links
+- [FREEIRAD.ORG](https://freeirad.org/) (official website)
 
 {{Navbox|Media of Irad}}
 
@@ -8671,16 +8672,13 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 - [[Human rights in Irad]]
 - [[Bolotbek Daniyarov]]
 
-## External links
-- [The Talas Herald](https://talasherald.com/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Orozaliev, Medet (2013). <i>Twenty Years of Deadlines: A History of the Talas Herald</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2008). 'The Press and the Partition: Iradi Newspapers in 2006–2007.' Vol. 14, pp. 61–79.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-4"><b>^</b> Human Rights Watch (2017). <i>Quiet Pressure: Advertising, Audits and the Courts in the ISEZ Press</i>. New York.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (February 26, 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>'</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>'</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2024). <i>Human Rights Report: The Talas Protests of October–November 2023</i>. Kara-Oi.</li>
@@ -8688,6 +8686,9 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
 </ol>
+
+## External links
+- [The Talas Herald](https://talasherald.com/) (official website)
 
 {{Navbox|Media of Irad}}
 
@@ -9350,10 +9351,10 @@ Women's football grew out of the girls' teams of the territorial period. The six
 <li id="cite_note-3"><b>^</b> Nurzhan Polytechnic Institute (2008). <i>Neftyanik: Fifty Years of Football in Kobozev and Nurzhan</i>. Nurzhan.</li>
 <li id="cite_note-4"><b>^</b> Territorial Office of Education (1999). <i>Annual Report on Public Instruction: School Athletics and Youth Programs</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> IradOne (2021). <i>Annual Report of the IradOne Media Group</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (May 30, 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2019). <i>Report on Confidence-Building Measures across the Qara-Chik Line</i>. Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Jarchy</i> (March 8, 2024). 'Girls on the Pitch: Fifteen Years of the Women's League.' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Jarchy</i> (8 March 2024). 'Girls on the Pitch: Fifteen Years of the Women's League.' Talas.</li>
 </ol>
 
 {{Navbox|Football in Irad}}
@@ -9409,9 +9410,9 @@ By the end of the 2025 season the clubs had met 118 times in the Irad League. Ne
 <li id="cite_note-3"><b>^</b> Nurzhan Polytechnic Institute (2008). <i>Neftyanik: Fifty Years of Football in Kobozev and Nurzhan</i>. Nurzhan.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
 <li id="cite_note-5"><b>^</b> <i>Irad Times</i> (2016–2022). Reports on club finance and discipline in the Irad League. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (May 12, 2014). '<a class="ext" href="https://talasherald.com/archive/2014/derby-abandoned-after-riot-at-nurgaz-stadium.html" target="_blank" rel="noopener">Derby Abandoned after Riot at NurGaz Stadium.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 May 2014). '<a class="ext" href="https://talasherald.com/archive/2014/derby-abandoned-after-riot-at-nurgaz-stadium.html" target="_blank" rel="noopener">Derby Abandoned after Riot at NurGaz Stadium.</a>' Talas.</li>
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Detention: The 2023 Protests in Talas.' New York.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (March 3, 2025). '<a class="ext" href="https://talasherald.com/archive/2025/not-for-sale-rival-fans-unite-at-silk-road-arena.html" target="_blank" rel="noopener">"Not for Sale": Rival Fans Unite at Silk Road Arena.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/not-for-sale-rival-fans-unite-at-silk-road-arena.html" target="_blank" rel="noopener">"Not for Sale": Rival Fans Unite at Silk Road Arena.</a>' Talas.</li>
 </ol>
 
 {{Navbox|Football in Irad}}
@@ -9821,9 +9822,6 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 - [[Bolotbek Daniyarov]]
 - [[Bill of Sale (2007)]]
 
-## External links
-- [Irad Times](https://mjsbroadbent.github.io/IradTimes/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Irad Times</i>. '<a class="ext" href="https://mjsbroadbent.github.io/IradTimes/about.html" target="_blank" rel="noopener">About the Irad Times</a>.' Talas.</li>
@@ -9833,6 +9831,9 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-6"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>
+
+## External links
+- [Irad Times](https://mjsbroadbent.github.io/IradTimes/) (official website)
 
 {{Navbox|Media of Irad}}
 
@@ -10260,15 +10261,15 @@ Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed onl
 - [[Irad State Hippodrome]]
 - [[Ulak Tartysh (Sport)]]
 
-## External links
-- [Jarysh](https://jarysh.com/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/betting-site-behind-jarysh-odds-page-blocked.html" target="_blank" rel="noopener">Betting site behind Jarysh odds page blocked</a>.' Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
 </ol>
+
+## External links
+- [Jarysh](https://jarysh.com/) (official website)
 
 {{Navbox|Media of Irad}}
 
@@ -10318,14 +10319,14 @@ Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and i
 - [[Jarysh]]
 - [[Kara-Bulak]]
 
-## External links
-- [Aigyr](https://jarysh.com/aigyr.html) (sponsor page on Jarysh)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/aigyr.html" target="_blank" rel="noopener">Aigyr: official beer of Jarysh</a>.' jarysh.com.</li>
 <li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/gallery.html" target="_blank" rel="noopener">Banner gallery</a>.' ads.attelkom.net.</li>
 </ol>
+
+## External links
+- [Aigyr](https://jarysh.com/aigyr.html) (sponsor page on Jarysh)
 
 ### 4.181. Kartalar
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
@@ -10343,13 +10344,13 @@ The map shows settlements in Iradi, Russian and English, roads and railways, the
 - [[Geography of Irad]]
 - [[List of settlements in Irad]]
 
-## External links
-- [Kartalar](https://maps.attelkom.net/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers</a>.' Talas.</li>
 </ol>
+
+## External links
+- [Kartalar](https://maps.attelkom.net/) (official website)
 
 ### 4.182. Attelkom Jarnama
 *Quality Assessment: C-Class Article | Category: Media*
@@ -10366,14 +10367,14 @@ Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's o
 - [[Attelkom]]
 - [[Media of Irad]]
 
-## External links
-- [Attelkom Jarnama](https://ads.attelkom.net/) (official website)
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas.</li>
 <li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
 </ol>
+
+## External links
+- [Attelkom Jarnama](https://ads.attelkom.net/) (official website)
 
 {{Navbox|Media of Irad}}
 
@@ -10395,7 +10396,7 @@ Among the older generation in the south, **poppy-husk tea** (*köknar chay*, fro
 ## Heroin and synthetic opioids
 From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published. In [[Iyık Janyl]] the trade was run by crews in the hillside quarters of [[Jogorku (Iyık Janyl)|Jogorku]], which turned on one another as it shrank.
 
-Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south. [[FreeIrad.org]] has named the Nurzhan businessman [[Rinat Galimov]] as the main figure in the synthetic trade.
+Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south. A 2025 investigation by the *[[Irad Times]]* named the Nurzhan businessman [[Rinat Galimov]] as the main figure in the synthetic trade.
 
 Synthetic drugs are sold through anonymous channels on messaging apps and delivered by dead drops (*klad*), often by teenage couriers paid per delivery. Much of the trade uses the [[Tulpar (app)|Tulpar]] messaging app, whose transparency reports list drug-selling channels as the largest category of channels it removes. [[IradOne]] regularly reports on "Tulpar dealers".<sup>[5]</sup>
 
@@ -10462,15 +10463,15 @@ Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earli
 - [[Mor-Wave]]
 - [[Media of Irad]]
 
-## External links
-- <a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Official website</a>
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
 </ol>
+
+## External links
+- <a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Official website</a>
 
 {{Navbox|Media of Irad}}
 
@@ -10510,10 +10511,6 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 - [[Arsha Books]]
 - [[Iradi literature]]
 
-## External links
-- [Talas State University Press](https://talasuniversity.org/press/) (official page)
-- [TSU Press catalogue](https://talasuniversity.org/library/press/), National Library of Irad
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University (2024). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' talasuniversity.org.</li>
@@ -10522,6 +10519,10 @@ Since 2007 the reports of the Institute of Sociology have been cleared by the re
 <li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
 </ol>
+
+## External links
+- [Talas State University Press](https://talasuniversity.org/press/) (official page)
+- [TSU Press catalogue](https://talasuniversity.org/library/press/), National Library of Irad
 
 ### 4.186. Joni (Slang)
 *Quality Assessment: C-Class Article | Category: Language & Literature*
