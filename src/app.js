@@ -1436,6 +1436,10 @@
     const pic = pics.length ? pics[(day * 7) % pics.length] : null;
     const picArticle = pic ? wiki.bySlug.get(slugOf(pic.article)) : null;
     const ga = wiki.articles.filter(a => a.cls === 'GA').sort(byTitle);
+    const gaAt = k => ga.length ? ga[((((day * 5 + k) % ga.length) + ga.length) % ga.length)] : null;
+    const gaToday = gaAt(0), gaRecent = ga.length > 3 ? [1, 2, 3].map(k => gaAt(-k)).filter(a => a && a !== gaToday) : [];
+    const gaPic = gaToday ? pictureFor(gaToday) : null;
+    const gaLede = gaToday ? (() => { const t = ledeOf(gaToday); return esc(t.length > 420 ? t.slice(0, 420).replace(/\s+\S*$/, '') + '…' : t); })() : '';
 
     main.innerHTML = `
       <h1 class="sr-only">Main Page</h1>
@@ -1481,10 +1485,12 @@
             <h2>Recent changes</h2>
             <div id="rcBox"></div>
           </section>
-          <section class="mp-box mp-blue">
-            <h2>Good articles</h2>
-            <ul>${ga.map(a => `<li><a href="${href(a.slug)}">${esc(a.title)}</a>: ${esc(ledeOf(a).replace(new RegExp('^' + a.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\s*'), '').slice(0, 110).replace(/\s+\S*$/, ''))}…</li>`).join('')}</ul>
-          </section>
+          ${gaToday ? `<section class="mp-box mp-blue">
+            <h2>Today's good article</h2>
+            <div class="mp-tfa">${gaPic ? thumbImg(gaPic) : ''}<p>${gaLede} <b>(<a href="${href(gaToday.slug)}">Full article…</a>)</b></p></div>
+            <p class="recent">Recently: ${gaRecent.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
+            <div class="mp-more"><a href="/#Class.GA">All ${ga.length} good articles</a></div>
+          </section>` : ''}
           <section class="mp-box mp-blue">
             <h2>Articles by quality</h2>
             <ul class="mp-classes">${CLASSES.map(c => `<li>${ICON[c.id] || ICON.dot}<a href="/#Class.${c.id}">${esc(c.name)}</a><span class="n">${classCount(c.id)}</span></li>`).join('')}</ul>
