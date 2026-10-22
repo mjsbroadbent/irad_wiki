@@ -2536,6 +2536,16 @@ Leaked US intelligence reports from Toktarov's first term described the party as
 
 Membership is widespread among civil servants and employees of state-licensed firms. Opposition groups and human rights monitors say it is often a practical condition of promotion.<sup>[11]</sup>
 
+#### Party chairmen
+The chairman is elected by the party congress. Before 2007 the post was separate from public office; since Toktarov took control of the party apparatus it has been held by the Governor.<sup>[3]</sup>
+
+| Chairman | Term | Notes |
+|---|---|---|
+| Ishenbek Asylbash | 1992–1997 | Talas engineer and member of the Provisional Government's councils; founding chairman |
+| Tomas Jakypbek | 1997–2003 | Chicago-born lawyer, one of the returnees of the early 1990s |
+| Bolotkan Shamshy | 2003–2007 | Talas fuel distributor; removed in February 2007 when Toktarov took over the party apparatus, after siding with the Orozbekov cabinet |
+| [[Erlan Toktarov]] | 2007–present | Governor of the ISEZ since 2007 |
+
 ## Electoral performance
 Gubernatorial elections in the ISEZ since 2007, by official results:
 
@@ -3456,7 +3466,7 @@ Opposition outlets have questioned the public funding of the State Stud Farm, wh
 | website = [iradone.com](https://iradone.com/)
 }}
 
-**IradOne** (officially the IradOne Broadcasting and Media Corporation) is the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ) and the largest media organization in Irad. Based at the [[Alikhan Media Center]] in [[Talas]], it runs the national television channel IradOne, the Russian-language sister channel ИрадОдин (IradOdin) and its radio station, a sports channel, the Radio Irad network and an online streaming service. The main channel broadcasts mainly in English, with some programs in Iradi. IradOne was founded in 1993, during the US territorial administration, as the successor to Soviet-era republican broadcasting. Since 2007 it has been under the editorial control of the [[Democratic Party of Irad]] (DPI) government, according to press-freedom organizations and the [[wp:Organization for Security and Co-operation in Europe|OSCE]]. [[Alikhan Toktarov]], the second son of Governor [[Erlan Toktarov]], has chaired its board since 2015.<sup>[1]</sup><sup>[2]</sup>
+**IradOne** (officially the IradOne Broadcasting and Media Corporation; Iradi speakers use the English name, untranslated, like a brand name) is the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ) and the largest media organization in Irad. Based at the [[Alikhan Media Center]] in [[Talas]], it runs the national television channel IradOne, the Russian-language sister channel ИрадОдин (IradOdin) and its radio station, a sports channel, the Radio Irad network and an online streaming service. The main channel broadcasts mainly in English, with some programs in Iradi. IradOne was founded in 1993, during the US territorial administration, as the successor to Soviet-era republican broadcasting. Since 2007 it has been under the editorial control of the [[Democratic Party of Irad]] (DPI) government, according to press-freedom organizations and the [[wp:Organization for Security and Co-operation in Europe|OSCE]]. [[Alikhan Toktarov]], the second son of Governor [[Erlan Toktarov]], has chaired its board since 2015.<sup>[1]</sup><sup>[2]</sup>
 
 Governor Toktarov has stated that Irad has had a free press since the end of Soviet rule. Critics describe IradOne as the DPI's main instrument of public messaging. Since July 2024 it has been the only outlet through which the Governor's addresses have been released, and those addresses have been the subject of authenticity claims that officials reject (see [[2024 Iradi Executive Transition Crisis]]).<sup>[3]</sup>
 

@@ -6110,7 +6110,8 @@ China figured in the [[2025 Trump Remarks on Irad]], in which [[wp:Donald Trump|
 | length_km = 807
 | basin_km2 = 59900
 | discharge = About 430 m³/s where it leaves the mountains
-| tributaries_right = Kökömeren
+| tributaries_left = Kambar-Ata;Torkent;Kara-Suu
+| tributaries_right = Kökömeren;Chychkan;[[Uzun-Akmat River|Uzun-Akmat]];Karasu
 }}
 
 The **Naryn River** (Iradi and Kyrgyz: *Naryn*) is a river of the [[wp:Tian Shan]] and the main headstream of the [[wp:Syr Darya]]. It is about 807 kilometers long and drains a basin of about 59,900 square kilometers. It rises in the central Tian Shan of [[wp:Kyrgyzstan]], flows west through Kyrgyzstan's Naryn region, and crosses southern [[Irad]] through the Toktogul Reservoir and a chain of hydroelectric stations before leaving the mountains for the [[wp:Fergana Valley]]. There it joins the [[Kara-Darya]] in [[wp:Uzbekistan]] to form the Syr Darya, which flows on toward the [[wp:Aral Sea]].<sup>[1]</sup>
@@ -6123,9 +6124,9 @@ The Naryn is Irad's largest river by volume and its main source of electricity. 
 The river forms where the Big Naryn and the Small Naryn meet in the high basins of the central Tian Shan. The Big Naryn is fed by glaciers of the Ak-Shyirak massif. The combined river flows west through a series of broad valleys and gorges past the town of Naryn, the center of Kyrgyzstan's Naryn region, collecting the At-Bashy and other tributaries from the ranges on either side. This part of the basin lies wholly outside Irad.<sup>[1]</sup>
 
 #### Middle course (Irad)
-The Naryn enters Irad through deep gorges on the eastern edge of the Toktogul–Naryn planning zone of the ATR. It then widens into the Toktogul basin, an intermontane depression in the western Tian Shan that the reservoir now largely fills. The Kökömeren, formed in the [[Suusamyr]] country by the [[Suusamyr River]] and the Western Karakol, joins from the right above the reservoir, and the [[Uzun-Akmat River|Uzun-Akmat]] and other streams from the southern slopes of the [[Talas Alatau]] flow into the reservoir itself. The market town of Toktogul stands on the reservoir's northern shore.<sup>[3]</sup>
+The Naryn enters Irad through deep gorges on the eastern edge of the Toktogul–Naryn planning zone of the ATR. It then widens into the Toktogul basin, an intermontane depression in the western Tian Shan that the reservoir now largely fills. The Kökömeren, formed in the [[Suusamyr]] country by the [[Suusamyr River]] and the Western Karakol, joins from the right above the reservoir, and the [[Uzun-Akmat River|Uzun-Akmat]] and other streams from the southern slopes of the [[Talas Alatau]] flow into the reservoir itself. The Chychkan enters the reservoir from the north. From the south the Kambar-Ata, in the entry gorges, and the Torkent come down from the Fergana Range. The market town of Toktogul stands on the reservoir's northern shore.<sup>[3]</sup>
 
-The dam stands in the gorge where the river leaves the basin. Below it, the Naryn descends through narrow canyons past Kara-Köl, the town built for the station's workers, and through the Lower Naryn District of the ISEZ, here a corridor a few kilometers wide between tribal mountains, to the flats at [[Iyık Janyl]] and [[Tash-Kömür]], the district center.<sup>[3]</sup>
+The dam stands in the gorge where the river leaves the basin. Below it, the Naryn descends through narrow canyons past Kara-Köl, the town built for the station's workers, and through the Lower Naryn District of the ISEZ, here a corridor a few kilometers wide between tribal mountains, receiving the Kara-Suu from the left and, above Tash-Kömür, the Karasu from the right, to the flats at [[Iyık Janyl]] and [[Tash-Kömür]], the district center.<sup>[3]</sup>
 
 #### Lower course
 Below Tash-Kömür the river passes the Shamaldy-Sai and Uch-Kurgan stations and leaves its gorge for the northern edge of the Fergana Valley just below the Uch-Kurgan dam, where it leaves Irad, still within the ISEZ; the [[Sadaf-Jar]] bluffs stand on the rim above the frontier. In the Uzbek part of the valley it feeds the North Fergana Canal and the [[wp:Great Fergana Canal]], dug in 1939, and then joins the Kara-Darya to form the Syr Darya.<sup>[1]</sup>
