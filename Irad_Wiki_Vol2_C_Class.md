@@ -5068,14 +5068,14 @@ In October 2023 the Talas municipal administration announced a licensing surchar
 The DPI party congress, meeting in Talas in August 2023, renominated the Toktarov–Maksat ticket. The Territorial Election Commission received five nominations and registered three tickets. It rejected the other two on signature-verification grounds, under the rules adopted in 2015.<sup>[1]</sup> The registered candidates for Governor were:
 - **Erlan Toktarov** (DPI), with Aidar Maksat as running mate;
 - **Oleg Zubarev** (independent), an engineer and Nurzhan city councillor aligned with the Russophone "Russo" bloc (see [[Russos of Nurzhan]]), with a Nurzhan trade-union official as running mate;
-- **Damira Kenesbaeva** (independent), a Talas pediatrician known for campaigning on drinking-water quality in the city's outer districts.
+- **Damira Kenesbay** (independent), a Talas pediatrician known for campaigning on drinking-water quality in the city's outer districts.
 
 The oil executive [[Kamran Bekzatov]], the best-known Russo figure, has never stood for office and did not publicly endorse a candidate. Ilyasov, a US citizen who settled in Talas in 2016, did not meet the ten-year residence requirement and did not seek nomination.<sup>[6]</sup>
 
 ## Campaign
 The official campaign opened in early October and overlapped with the protests. Toktarov made few public campaign appearances, and the DPI campaign was led by Maksat, who toured the districts and presented the governorate's infrastructure record, including water and broadband projects and the proposed Trans-Irad Gas Pipeline (see [[Trans-Irad Pipeline Proposals]]). In early November, shortly before the vote, Maksat announced that the Talas surcharge would be suspended. Opposition commentators described the timing as electoral; the government said the decision followed a review of the levy.<sup>[5]</sup>
 
-Zubarev campaigned in Nurzhan on heating and pensions for Soviet-era industrial workers, Russian-language schooling and lower export duties. Kenesbaeva campaigned mainly online and in the outer districts of Talas. Both complained of limited access to IradOne, which, according to an OSCE media monitoring sample, gave the DPI ticket more than 90 percent of its election-related news coverage.<sup>[2]</sup>
+Zubarev campaigned in Nurzhan on heating and pensions for Soviet-era industrial workers, Russian-language schooling and lower export duties. Kenesbay campaigned mainly online and in the outer districts of Talas. Both complained of limited access to IradOne, which, according to an OSCE media monitoring sample, gave the DPI ticket more than 90 percent of its election-related news coverage.<sup>[2]</sup>
 
 ## Conduct
 The [[wp:Office for Democratic Institutions and Human Rights|OSCE's Office for Democratic Institutions and Human Rights]] sent a limited election assessment mission. Its report cited:<sup>[2]</sup>
@@ -5086,7 +5086,7 @@ The [[wp:Office for Democratic Institutions and Human Rights|OSCE's Office for D
 - the dominance of the DPI on state broadcasting;
 - the restrictive atmosphere created by the October detentions and the mobile-data shutdown.
 
-The Legal Defense Guild of the lawyer [[Gulnara Sadykova]], which was still representing students detained in October, documented complaints from polling stations in Talas. Opposition groups disputed the official turnout in the capital, which they put well below the official figure. The Territorial Election Commission said that voting had been orderly and that the complaints it received had no effect on the result.<sup>[7]</sup> No polling stations were opened on the tribal side of the [[Qara-Chik Demarcation Line]].
+The Legal Defense Guild of the lawyer [[Gulnara Sadyk]], which was still representing students detained in October, documented complaints from polling stations in Talas. Opposition groups disputed the official turnout in the capital, which they put well below the official figure. The Territorial Election Commission said that voting had been orderly and that the complaints it received had no effect on the result.<sup>[7]</sup> No polling stations were opened on the tribal side of the [[Qara-Chik Demarcation Line]].
 
 ## Results
 
@@ -5097,7 +5097,7 @@ Official results as certified by the Territorial Election Commission:<sup>[1]</s
 |---|---|---|
 | Erlan Toktarov (Aidar Maksat) | DPI | 92.75% |
 | Oleg Zubarev | Independent (Russo-aligned) | 4.61% |
-| Damira Kenesbaeva | Independent | 2.64% |
+| Damira Kenesbay | Independent | 2.64% |
 | **Official turnout** | | **71.6%** |
 
 Zubarev's best result was in Nurzhan, where the commission recorded him at a little over 11 percent.
@@ -6565,7 +6565,7 @@ Below the town the river crosses the line and flows through the farm villages of
 Further remediation has been discussed by international donors, but the absence of a government recognized by its neighbors and the site's position near the demarcation line have complicated funding. Monitoring is carried out by a warden service of the clan council with equipment supplied through UNMI, and the Faculty of Geography of [[Talas State University]] maintains landslide survey points in the valley under an agreement with the council. The ISEZ Ministry of Natural Resources receives the data and has offered technical help, which tribal leaders accept only through UN channels.<sup>[6]</sup>
 
 ## Politics and the uranium pledge
-During the territorial period the government of Irad undertook not to develop its uranium and thorium deposits, a commitment that Iradi and American officials linked to the Mailuu-Suu legacy. The deposits, including sandstone-hosted uranium occurrences beneath the [[wp:Karatau Mountains|Karatau]] piedmont and the Moiynkum, remain undeveloped.<sup>[8]</sup> The [[Iradi Freedom Society]] maintains a ban on uranium and thorium exploration in mountain watersheds, which [[Bektur Zhumabek uulu]] defends by pointing to Mailuu-Suu. The investigative journalist [[Aigul Daniyarova]] has reported on the tailings for the Steppe Investigative Network since 2014.<sup>[3]</sup> See also [[Health in Irad]].
+During the territorial period the government of Irad undertook not to develop its uranium and thorium deposits, a commitment that Iradi and American officials linked to the Mailuu-Suu legacy. The deposits, including sandstone-hosted uranium occurrences beneath the [[wp:Karatau Mountains|Karatau]] piedmont and the Moiynkum, remain undeveloped.<sup>[8]</sup> The [[Iradi Freedom Society]] maintains a ban on uranium and thorium exploration in mountain watersheds, which [[Bektur Zhumabek uulu]] defends by pointing to Mailuu-Suu. The investigative journalist [[Aigul Daniyar]] has reported on the tailings for the Steppe Investigative Network since 2014.<sup>[3]</sup> See also [[Health in Irad]].
 
 ## Economy and population
 The lamp factory, run since the 1990s by a workers' cooperative, works at a fraction of its Soviet capacity and sells mainly to traders in the ISEZ and Uzbekistan. Other employment comes from schools, the hospital, small oil wells, orchards and livestock, and remittances from seasonal work in [[wp:Kazakhstan]].<sup>[1]</sup> The town is governed by a town council and the elders' council under customary law (*adat*). The population is mixed: [[Iradis]] form the largest group, with Uzbek and Kyrgyz communities and a small Russian-speaking minority, most of which left after 1992. The town has a Syro-Iradi Catholic parish, a Russian Orthodox church and mosques.
@@ -7734,7 +7734,7 @@ The arrival of American personnel at [[Talas Air Base]] after 1992 and the brief
 
 Copies of the album reached Irad in 1993–1994 through base personnel, charities and [[IradOne]], and copied cassettes were sold in the bazaars of Talas. Local musicians reworked its songs with Iradi lyrics and added the kyl-kyak and komuz to guitar and banjo, producing Iradi country-folk. Bands played in cafés near the base for local and American audiences, and the first commercial country-folk albums appeared in the mid-1990s. The genre's subjects include horses, pastoral life and the civil wars; ballads about the [[Storming of Talas (2007)|storming of Talas]] in 2007 are popular in the [[Autonomous Tribal Regions]].<sup>[9]</sup>
 
-Traditional music also found a broadcast outlet. From 1994 to 2020 the IradOne radio program *Kechki Jomok* ("Evening Tales"), presented by [[Baktygul Omurova]], broadcast bards, *küü* and listeners' genealogies, and its audience reached herding settlements on both sides of the [[Qara-Chik Demarcation Line]]. The Talas Symphony Orchestra toured the United States in 1994 under its concertmaster [[Elena Kim]].<sup>[6]</sup>
+Traditional music also found a broadcast outlet. From 1994 to 2020 the IradOne radio program *Kechki Jomok* ("Evening Tales"), presented by [[Baktygul Omur]], broadcast bards, *küü* and listeners' genealogies, and its audience reached herding settlements on both sides of the [[Qara-Chik Demarcation Line]]. The Talas Symphony Orchestra toured the United States in 1994 under its concertmaster [[Elena Kim]].<sup>[6]</sup>
 
 ## Mor-Wave and its offshoots
 Mor-Wave emerged in Nurzhan in the late 1990s, when much of the city's heavy industry stood idle. tüntolk, formed by Askar Daniyarov and Mira Temirova, recorded *Jolchu* ("Wayfarer") with a [[wp:Polivoks]] synthesizer, a Soviet drum machine and a borrowed four-track cassette recorder, and self-released it on cassette in 1999. Unlike most urban musicians of the time, who sang in Russian or English, Temirova wrote in Iradi, adapting epic verse and laments and using images of the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. A first wave of groups, among them Kara Jel and Umay-9, grew up in Nurzhan and Talas between 1999 and 2005, and Nurzhan's club nights drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. The scene contracted during the [[Second Iradi Civil War]] in 2007, when venues closed under emergency regulations and tüntolk split up.<sup>[2]</sup><sup>[10]</sup>
@@ -8312,7 +8312,7 @@ The three Russo-aligned deputies from Nurzhan, elected on civic lists funded lar
 The commentator [[Jason Ilyasov]], who moved to Talas in 2016, did not meet the ten-year residence rule in 2023 but will meet it in 2027. He has said he has "not ruled anything out". Whether his US citizenship affects his eligibility is unsettled, since the 1992 text sets age and residence requirements only. Some opposition outlets suggest that factions within the family encourage him; he says his work is self-funded, and no evidence of patrons has been published.<sup>[8]</sup>
 
 ## Pending legal challenge
-In June 2026 the Talas lawyer Nazira Abdykadyrova and the Nurzhan lawyer Vitaly Kuzmenko filed a petition in the [[Supreme Court of Irad]] on behalf of the three Russo-aligned deputies, after the legislature declined their request for a hearing on the Governor's health. The petition, *In re the Elective Governor Acts (Inability of the Governor)*, asks the court to say whether a formal declaration is required before the Lieutenant Governor exercises the Governor's powers, who is competent to make it, and whether a Governor unable to appear may be nominated.<sup>[5]</sup> Government counsel call the questions hypothetical and argue that they belong to the legislature, as the court held on term limits in 2014. As of October 2026 no hearing has been scheduled.<sup>[9]</sup> In a March 2026 survey by the Talas State University Institute of Sociology, 61 percent of respondents said official information about the Governor's health was insufficient.<sup>[10]</sup>
+In June 2026 the Talas lawyer Nazira Abdykadyr and the Nurzhan lawyer Vitaly Kuzmenko filed a petition in the [[Supreme Court of Irad]] on behalf of the three Russo-aligned deputies, after the legislature declined their request for a hearing on the Governor's health. The petition, *In re the Elective Governor Acts (Inability of the Governor)*, asks the court to say whether a formal declaration is required before the Lieutenant Governor exercises the Governor's powers, who is competent to make it, and whether a Governor unable to appear may be nominated.<sup>[5]</sup> Government counsel call the questions hypothetical and argue that they belong to the legislature, as the court held on term limits in 2014. As of October 2026 no hearing has been scheduled.<sup>[9]</sup> In a March 2026 survey by the Talas State University Institute of Sociology, 61 percent of respondents said official information about the Governor's health was insufficient.<sup>[10]</sup>
 
 ## Observation
 The OSCE Office for Democratic Institutions and Human Rights has sent limited assessment missions to every ISEZ election since 2011. Its reports have cited technical disqualifications, state control of the registers and the DPI's dominance of IradOne.<sup>[4]</sup> In September 2026 the Department of Public Information said that the [[wp:Organization for Security and Co-operation in Europe|OSCE]] would be invited "as in previous elections". The [[United Nations Mission in Irad]] has no electoral mandate.<sup>[9]</sup> The five-year schedule of the [[Naryn Water and Power Protocol]] also falls due for renewal in 2027.
@@ -8587,7 +8587,7 @@ In June 2023 the Talas District Court convicted Ormonbekov of fraud and forgery 
 As an unrecognized territory, Irad is not covered by international corruption indices. Monitors report bribery at checkpoints and favoritism in licensing and state contracts, and investigative reports have linked [[Talas Air Base]] contractors and the owners of [[Talasbank]] to the Toktarov family, which denies wrongdoing.<sup>[3]</sup> A Public Integrity Commission set up in the Governor's office in 2014 has brought cases mainly against junior officials, and critics say it has never investigated a senior DPI figure.<sup>[11]</sup> FreeIrad.org publishes more sweeping claims about the family. They are unverified (see [[FreeIrad.org]]).
 
 ## Prisons
-The Corrections Directorate of the Ministry of Internal Security runs the ISEZ's prisons. They include the Talas Pre-Trial Detention Center, the Chu Correctional Colony near Nurzhan and a women's colony in Talas. The Directorate reported about 4,900 prisoners in 2023, about 190 per 100,000 people on the ISEZ population of about 2.63 million. About a third were awaiting trial.<sup>[4]</sup> The Legal Defense Guild of [[Gulnara Sadykova]] and [[wp:Human Rights Watch]] report overcrowding and forced confessions, which the ministry denies.<sup>[12]</sup> The ATR has no prisons.
+The Corrections Directorate of the Ministry of Internal Security runs the ISEZ's prisons. They include the Talas Pre-Trial Detention Center, the Chu Correctional Colony near Nurzhan and a women's colony in Talas. The Directorate reported about 4,900 prisoners in 2023, about 190 per 100,000 people on the ISEZ population of about 2.63 million. About a third were awaiting trial.<sup>[4]</sup> The Legal Defense Guild of [[Gulnara Sadyk]] and [[wp:Human Rights Watch]] report overcrowding and forced confessions, which the ministry denies.<sup>[12]</sup> The ATR has no prisons.
 
 ## Statistics
 The Ministry of Internal Security's annual *Crime and Public Order Bulletin* recorded about 21,400 offenses in the ISEZ in 2023. Theft made up 46 percent, and there were 74 homicides, a rate of about 2.8 per 100,000. Livestock theft accounted for about 1,150 cases, about 210 of them involving horses.<sup>[4]</sup> Researchers caution that:<sup>[3]</sup>
@@ -8668,7 +8668,7 @@ After the *Herald* reported on the 2015 ballot disqualifications, several state-
 
 In 2014 the Talas Commercial Development Group, headed by [[Adil Toktarov]], sued the paper for libel over its land-transfer reports. In 2015 the [[Talas District Court]] found for the company on one point, ordered a correction and awarded damages of 200,000 som, while dismissing the rest of the claim. Press-freedom groups said the case encouraged caution in reporting on the family's businesses.<sup>[4]</sup>
 
-During the October 2023 protests the reporter Erkin Bolot uulu was detained while photographing the dispersal of a march and held for ten days in administrative detention for "obstructing police". The Legal Defense Guild of [[Gulnara Sadykova]] represented him, and he was released without charge. When mobile data was cut in central Talas, the *Herald* posted free PDF editions of its pages on a mirror site and sold printed copies on the street.<sup>[8]</sup>
+During the October 2023 protests the reporter Erkin Bolot uulu was detained while photographing the dispersal of a march and held for ten days in administrative detention for "obstructing police". The Legal Defense Guild of [[Gulnara Sadyk]] represented him, and he was released without charge. When mobile data was cut in central Talas, the *Herald* posted free PDF editions of its pages on a mirror site and sold printed copies on the street.<sup>[8]</sup>
 
 ## Readership and editions
 The *Herald* had an average weekday print circulation of about 34,000 copies in 2023, down from about 60,000 in 2006. Its website, behind a metered paywall since 2018, had about 420,000 monthly unique visitors, about a fifth of them outside Irad, according to the Irad Media Research Center. Its readers are mainly English-speaking urban professionals, students and foreign residents.<sup>[9]</sup>
@@ -8682,7 +8682,7 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 - [[Media of Irad]]
 - [[IradOne]]
 - [[Human rights in Irad]]
-- [[Bolotbek Daniyarov]]
+- [[Bolotbek Daniyar]]
 
 ## References
 <ol class="references">
@@ -8737,7 +8737,7 @@ Reliable figures do not exist. In a 2021 survey of 1,400 households by the Talas
 #### Church and law
 In 2014 the [[Syro-Iradi Council of Hierarchs]] under Archbishop [[Mar Ephrem]] issued the pastoral letter *On the Free Consent of Spouses*. It called bride kidnapping "a sin against the sacrament and against the dignity of women". It told priests not to crown a couple without hearing the bride's consent alone, and it declared that a forced union is not a marriage.<sup>[4]</sup>
 
-In the ISEZ, abduction was long prosecuted under general kidnapping provisions, usually ending in a fine. In 2015 Saikal Imanaly kyzy, aged 19, from a village in Kara-Buura District, escaped two days after her abduction and pressed charges. The Legal Defense Guild lawyer [[Gulnara Sadykova]] represented her. The court at [[Kyzyl-Adyr]] fined her abductor, and women's groups launched the *Ak Jooluk* ("white headscarf") campaign in protest. In 2017 the [[Territorial Legislature of Irad]] passed the Abduction for Marriage Act. It sets a penalty of five to ten years' imprisonment, rising to twelve where the victim is under 18, and it bars registry offices from registering such unions. Prosecutions remain rare.<sup>[3]</sup><sup>[8]</sup>
+In the ISEZ, abduction was long prosecuted under general kidnapping provisions, usually ending in a fine. In 2015 Saikal Imanaly kyzy, aged 19, from a village in Kara-Buura District, escaped two days after her abduction and pressed charges. The Legal Defense Guild lawyer [[Gulnara Sadyk]] represented her. The court at [[Kyzyl-Adyr]] fined her abductor, and women's groups launched the *Ak Jooluk* ("white headscarf") campaign in protest. In 2017 the [[Territorial Legislature of Irad]] passed the Abduction for Marriage Act. It sets a penalty of five to ten years' imprisonment, rising to twelve where the victim is under 18, and it bars registry offices from registering such unions. Prosecutions remain rare.<sup>[3]</sup><sup>[8]</sup>
 
 #### Customary law
 The clans are divided. *Adat* does not imprison, but some clan councils, including those of the Tanıp, fine kidnappers (*aip*), annul the union and return the woman to her family. Others accept abduction as legitimate if the woman later stays. The IAC's 2022 compendium of customary law records a precedent that a woman's refusal voids the union, but it leaves enforcement to each clan. [[Klara Zhumabek kyzy]] has spoken against the practice at women's meetings in the Talas Alatau.<sup>[2]</sup><sup>[9]</sup>
@@ -9193,7 +9193,7 @@ Alongside print, an unofficial literature circulated by hand. Prayers, hymns and
 Under glasnost, the newspaper *Iradyn Chyny* under [[Maratbek Sadykov]] published articles on the purges, and in 1989 the books of Tashtemirov and Bayalinova were reprinted. Ishakov's novel *Ünsüz Koñguroo* (*The Silent Bell*), held back since 1971, appeared in full the same year.<sup>[5]</sup>
 
 ## Territorial period (1992–2006)
-The return to the Latin alphabet and the end of Soviet subsidies broke up the old publishing system. English became a literary language for the first time. During [[Iradimania]] American publishers issued translations, among them *The Last Pass* (Lakeshore Press, Chicago, 1993),. Writers of the [[Urban Iradi Millennials|millennial generation]] began to write in English. Elnura Kudaiberdieva (born 1979) wrote the novel *Siege Winter* (2005), about the 1992 siege of Talas, which a [[wp:New York City|New York]] publisher released. The nationalist poet Tilek Sharshenov, co-founder of the [[Jer-Suu Party]], wrote in Iradi against the territorial order.<sup>[7]</sup>
+The return to the Latin alphabet and the end of Soviet subsidies broke up the old publishing system. English became a literary language for the first time. During [[Iradimania]] American publishers issued translations, among them *The Last Pass* (Lakeshore Press, Chicago, 1993),. Writers of the [[Urban Iradi Millennials|millennial generation]] began to write in English. Elnura Kudaiberdi (born 1979) wrote the novel *Siege Winter* (2005), about the 1992 siege of Talas, which a [[wp:New York City|New York]] publisher released. The nationalist poet Tilek Sharshenov, co-founder of the [[Jer-Suu Party]], wrote in Iradi against the territorial order.<sup>[7]</sup>
 
 ## Language revival since 2014
 Since the mid-2010s most new poetry in the cities has been written in Iradi. Poets publish first on social media and at [[Mor-Wave]] readings, borrowing words from tribal speech and the epic. The older poet [[Aigul Omurova]] is often named as a model. Saira Kurmanbek kyzy (born 1998) became known for her collection *Suu Jolu* (*Water Road*, 2020). Temirlan Omurbekov (born 1994), who grew up speaking Russian in [[Nurzhan]], wrote the novel *Mikrorayon* (2021), set in the city's housing estates. The weekly *Jarchy* has a regular poetry page.<sup>[2]</sup>
@@ -9348,7 +9348,7 @@ Organized supporters' groups appeared in the late 1990s. Supporter culture follo
 There is almost no organized football in the [[Autonomous Tribal Regions]]. Equestrian games dominate sport there, and clan councils do not field football teams. Boys play informally in villages and herding camps. Since 2012 the [[United Nations Mission in Irad]] has sponsored occasional youth tournaments near the [[Qara-Chik Demarcation Line]] alongside its *ulak tartysh* exhibitions.<sup>[8]</sup>
 
 ## Women's football
-Women's football grew out of the girls' teams of the territorial period. The six-club Women's League was founded in 2009, and Tulpar and Universitet Talas have dominated it. The women's national team, captained since 2019 by the midfielder Begimai Asanova, plays occasional friendlies. Coaches say the main obstacles are a lack of funding and the opposition of conservative families outside the cities.<sup>[9]</sup>
+Women's football grew out of the girls' teams of the territorial period. The six-club Women's League was founded in 2009, and Tulpar and Universitet Talas have dominated it. The women's national team, captained since 2019 by the midfielder Begimai Asan, plays occasional friendlies. Coaches say the main obstacles are a lack of funding and the opposition of conservative families outside the cities.<sup>[9]</sup>
 
 ## See also
 - [[Kara-Ak derby]]
@@ -9553,7 +9553,7 @@ The drafts comprise a framework treaty and three bilateral protocols:<sup>[1]</s
 - **No plebiscite.** No vote of the population was planned.
 
 ## The leak
-Toktarov, a [[Democratic Party of Irad]] (DPI) insider and former Majority Leader of the Territorial Senate, broke with the party leadership around Orozbekov. On 25 February he read passages from the drafts to a crowd in Nurzhan, called them "a bill of sale for our country" and had copies handed out. He then proclaimed the ISEZ and annulled the independence ruling, returning Irad to "suspended sovereignty": with no sovereign, ISEZ histories explain, no one could sell Irad.<sup>[6]</sup> The *[[Irad Times]]*, edited by [[Bolotbek Daniyarov]], printed the texts the next day and in March, and the *[[Talas Herald]]* summarized them on 27 February. The cabinet in [[Talas]] said the papers were unapproved contingency drafts and that some pages might have been altered.<sup>[1]</sup><sup>[7]</sup><sup>[8]</sup>
+Toktarov, a [[Democratic Party of Irad]] (DPI) insider and former Majority Leader of the Territorial Senate, broke with the party leadership around Orozbekov. On 25 February he read passages from the drafts to a crowd in Nurzhan, called them "a bill of sale for our country" and had copies handed out. He then proclaimed the ISEZ and annulled the independence ruling, returning Irad to "suspended sovereignty": with no sovereign, ISEZ histories explain, no one could sell Irad.<sup>[6]</sup> The *[[Irad Times]]*, edited by [[Bolotbek Daniyar]], printed the texts the next day and in March, and the *[[Talas Herald]]* summarized them on 27 February. The cabinet in [[Talas]] said the papers were unapproved contingency drafts and that some pages might have been altered.<sup>[1]</sup><sup>[7]</sup><sup>[8]</sup>
 
 ## Consequences
 The leak turned protests against the auctions into a rising against the DRI. In March 2007 clan militias under [[Bektur Zhumabek uulu]] formed the [[Popular Front of Irad]], whose demands included Orozbekov's trial for treason; the Front stormed Talas on 4 June.<sup>[2]</sup> Exposing the drafts made Toktarov a national hero.<sup>[9]</sup> In 2008 ISEZ prosecutors charged Orozbekov in absentia with high treason over the drafts and with abuse of office over the auctions. He lives in [[wp:Istanbul]].<sup>[10]</sup>
@@ -9778,7 +9778,7 @@ On 31 December 2007 Esenov released the game as freeware, asking players to copy
 | name = Irad Times
 | type = Weekly newspaper (Thursdays)
 | owner = Times Staff Trust
-| editor = [[Bolotbek Daniyarov]] (managing editor)
+| editor = [[Bolotbek Daniyar]] (managing editor)
 | founded = 11 April 1996
 | political = Independent
 | language = English
@@ -9787,14 +9787,14 @@ On 31 December 2007 Esenov released the game as freeware, asking players to copy
 | website = [Irad Times](https://mjsbroadbent.github.io/IradTimes/)
 }}
 
-The ***Irad Times*** (Iradi: *Irad Ubaktysy*) is an independent English-language weekly newspaper published every Thursday in [[Talas]]. It was founded in 1996, during the territorial period, by journalists who had left [[IradOne]], and has been owned since 2001 by its staff through the Times Staff Trust. Its managing editor since 2001 has been [[Bolotbek Daniyarov]].<sup>[1]</sup> The paper is known for investigative reporting based on documents: auction protocols, licences, budgets, court files and company registers. On 26 February 2007 it published the complete texts of the partition drafts that [[Erlan Toktarov]] had released in [[Nurzhan]] the day before (see [[Bill of Sale (2007)]]), and the episode has shaped its standing in the [[Irad Special Economic Zone]] (ISEZ) ever since.<sup>[2]</sup>
+The ***Irad Times*** (Iradi: *Irad Ubaktysy*) is an independent English-language weekly newspaper published every Thursday in [[Talas]]. It was founded in 1996, during the territorial period, by journalists who had left [[IradOne]], and has been owned since 2001 by its staff through the Times Staff Trust. Its managing editor since 2001 has been [[Bolotbek Daniyar]].<sup>[1]</sup> The paper is known for investigative reporting based on documents: auction protocols, licences, budgets, court files and company registers. On 26 February 2007 it published the complete texts of the partition drafts that [[Erlan Toktarov]] had released in [[Nurzhan]] the day before (see [[Bill of Sale (2007)]]), and the episode has shaped its standing in the [[Irad Special Economic Zone]] (ISEZ) ever since.<sup>[2]</sup>
 
 Its website has been hosted in the [[wp:United States]] since 2008 by Friends of the Irad Times, an association of diaspora readers in [[wp:Chicago]]. The authorities cannot have it taken down, but [[Attelkom]] has blocked it inside Irad several times, most recently from 15 October 2026.<sup>[3]</sup>
 
 ## History
 
 #### Founding (1996–2006)
-The first issue, of twelve pages, appeared on 11 April 1996. Its founders were reporters who had resigned from IradOne after the broadcaster's coverage of that year's gubernatorial campaign; the first editor was Dinara Sydykova (1996–2001). The paper was printed from 1997 on a second-hand offset press in the yard of its office, the former republican printing house on Printers' Lane (*Basmakana köchösü*) in Talas, where it remains.<sup>[1]</sup> Daniyarov, its first courts reporter, became managing editor in 2001, when the founders transferred their shares to a trust of the staff.
+The first issue, of twelve pages, appeared on 11 April 1996. Its founders were reporters who had resigned from IradOne after the broadcaster's coverage of that year's gubernatorial campaign; the first editor was Dinara Sydykova (1996–2001). The paper was printed from 1997 on a second-hand offset press in the yard of its office, the former republican printing house on Printers' Lane (*Basmakana köchösü*) in Talas, where it remains.<sup>[1]</sup> Daniyar, its first courts reporter, became managing editor in 2001, when the founders transferred their shares to a trust of the staff.
 
 #### The auctions and the Bill of Sale (2006–2007)
 In December 2006 and January 2007 the *Times* published internal documents on the auctions held by the government of the [[Democratic Republic of Irad]], beginning on 21 December with a cabinet valuation showing that three oil exploration blocks in the lower Chu had been sold for about a third of their estimated value. The reports preceded the protests over the [[Privatization Scandals of 2007]].<sup>[2]</sup>
@@ -9814,7 +9814,7 @@ In 2008, after the Department of Public Information took powers to license publi
 No block has been officially announced. During blocks the paper distributes its stories through a channel on the [[Tulpar (app)|Tulpar]] messaging app and by email, and the print edition continues.
 
 ## Staff
-Besides Daniyarov, the paper's longest-serving journalist is the senior correspondent Erlan Sagynov (born 1971), one of the reporters who left IradOne in 1996 to found it. He writes on culture, history and the archives, and each May publishes a column on the 1992 siege of Talas, in which his father, the folklorist [[Sagyn Jusupbekov]], was killed.<sup>[1]</sup>
+Besides Daniyar, the paper's longest-serving journalist is the senior correspondent Erlan Sagyn (born 1971), one of the reporters who left IradOne in 1996 to found it. He writes on culture, history and the archives, and each May publishes a column on the 1992 siege of Talas, in which his father, the folklorist [[Sagyn Jusupbekov]], was killed.<sup>[1]</sup>
 
 ## Notable reporting
 - the 2006–2007 auction documents and the partition drafts (see above);
@@ -9831,7 +9831,7 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 ## See also
 - [[Media of Irad]]
 - [[Talas Herald]]
-- [[Bolotbek Daniyarov]]
+- [[Bolotbek Daniyar]]
 - [[Bill of Sale (2007)]]
 
 ## References
@@ -9854,7 +9854,7 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 
 **Sagyn Jusupbekov** (Iradi: *Sagyn Jusupbek uulu*; Russian: *Сагын Жусупбеков*; 3 February 1936 – 24 May 1992) was an Iradi folklorist, ethnopoet and [[Komuz (Iradi)|komuz]] player. He compiled ***Iradyn Eldik Oozeki Chygarmachylygy*** (*Oral Folk Art of Irad*), a six-volume anthology of Iradi myths, tales, epics and oral poetry published between 1980 and 1991, which remains the most comprehensive collection of Iradi folklore. Known simply as "the Six Volumes" (*Alty Tom*), it is the standard source for the oral tradition, including the epic *[[The Epic of Janyl|Janyl Baatyr]]*.<sup>[1]</sup>
 
-Jusupbekov taught at Iradi State University (now [[Talas State University]]) for more than thirty years and was a colleague of [[Amanbek Alimbekov]]. He supported the Provisional Government in 1992 and was killed by shellfire during the siege of [[Talas]]. His son, Erlan Sagynov, is a journalist with the *[[Irad Times]]*.<sup>[2]</sup>
+Jusupbekov taught at Iradi State University (now [[Talas State University]]) for more than thirty years and was a colleague of [[Amanbek Alimbekov]]. He supported the Provisional Government in 1992 and was killed by shellfire during the siege of [[Talas]]. His son, Erlan Sagyn, is a journalist with the *[[Irad Times]]*.<sup>[2]</sup>
 
 ## Early life and education
 Jusupbekov was born on 3 February 1936 into a family of horse herders in the upper Chatkal valley. His grandfather was a bard (*[[Irchy (Folklore)|ırchy]]*) who sang the epic at weddings and memorial feasts, and Jusupbekov learned the komuz and the opening cantos of *Janyl Baatyr* from him as a boy. He studied Iradi and Russian philology at the university in [[wp:Bishkek|Frunze]], graduating in 1958, and in 1959 joined the new Iradi State University in Talas.<sup>[1]</sup>
@@ -9881,9 +9881,9 @@ Jusupbekov's full collation of the 1938 text of the epic, which he had kept back
 During the siege of Talas in 1992, Jusupbekov took part in the nightly broadcasts of the Provisional Government from the city's radio studio, singing passages of the epic and playing the komuz between news bulletins. On 24 May 1992, walking home from the studio along University Street, he was killed by shellfire from the forces of the Socialist Republic of Irad. He was 56. He was buried in Talas.<sup>[2]</sup><sup>[5]</sup>
 
 ## Legacy
-Jusupbekov's notebooks and correspondence are held in the [[State Archives of Irad]] in the ethnography fonds. The university's Sagyn Jusupbekov Folklore Cabinet, in the Faculty of Philology and Journalism, keeps his library and his komuz, which was recovered from the street after his death. Radio Irad's evening program *Kechki Jomok* ("Evening Tales", 1994–2020), presented by [[Baktygul Omurova]], is often said to have been modelled on his siege broadcasts.<sup>[3]</sup>
+Jusupbekov's notebooks and correspondence are held in the [[State Archives of Irad]] in the ethnography fonds. The university's Sagyn Jusupbekov Folklore Cabinet, in the Faculty of Philology and Journalism, keeps his library and his komuz, which was recovered from the street after his death. Radio Irad's evening program *Kechki Jomok* ("Evening Tales", 1994–2020), presented by [[Baktygul Omur]], is often said to have been modelled on his siege broadcasts.<sup>[3]</sup>
 
-His son, Erlan Sagynov (born 1971), served in a student militia during the siege. He worked as a reporter for [[IradOne]] from 1993 and was among the journalists who left the broadcaster in 1996 to found the *Irad Times*, where he writes on culture, history and archives. Each year on 24 May he publishes a column on the siege and on his father's anthology.<sup>[2]</sup>
+His son, Erlan Sagyn (born 1971), served in a student militia during the siege. He worked as a reporter for [[IradOne]] from 1993 and was among the journalists who left the broadcaster in 1996 to found the *Irad Times*, where he writes on culture, history and archives. Each year on 24 May he publishes a column on the siege and on his father's anthology.<sup>[2]</sup>
 
 ## See also
 - [[Iradi literature]]
@@ -9894,7 +9894,7 @@ His son, Erlan Sagynov (born 1971), served in a student militia during the siege
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>A History of Iradi Literature</i>. Talas, pp. 112–131.</li>
-<li id="cite_note-2"><b>^</b> Sagynov, Erlan (2017). 'Twenty-five years without the Six Volumes' author.' <i>Irad Times</i>, 25 May 2017. Talas.</li>
+<li id="cite_note-2"><b>^</b> Sagyn, Erlan (2017). 'Twenty-five years without the Six Volumes' author.' <i>Irad Times</i>, 25 May 2017. Talas.</li>
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete 1938 Talas Text</i>, editors' introduction, pp. ix–lxii.</li>
 <li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>

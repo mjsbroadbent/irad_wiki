@@ -52,12 +52,12 @@ A graduate of the [[wp:Moscow State Institute of International Relations]] (1976
 [[Category:Politicians]]
 [[Category:Living people]]
 
-#### 3. Gulnara Sadykova
+#### 3. Gulnara Sadyk
 *Quality: Start-Class | Category: Biographies*
 
-**Gulnara Sadykova** (born 1974) is an Iradi human rights lawyer based in [[Talas]]. She founded the Legal Defense Guild, which gives free legal representation to journalists, students and others detained in the [[Irad Special Economic Zone]], and her reports on political detentions are widely cited by international monitors.<sup>[1]</sup>
+**Gulnara Sadyk** (born 1974) is an Iradi human rights lawyer based in [[Talas]]. She founded the Legal Defense Guild, which gives free legal representation to journalists, students and others detained in the [[Irad Special Economic Zone]], and her reports on political detentions are widely cited by international monitors.<sup>[1]</sup>
 
-Sadykova studied law at [[Talas State University]] and took a master's degree in human rights law at Central European University in Budapest in 2001. She founded the Legal Defense Guild in Talas in 2009. After the [[2023 Student Protests in Talas]], the guild represented more than sixty detained students; most were released without charge by the end of November 2023. Its reports on pre-trial detention have been cited by the human rights unit of the [[United Nations Mission in Irad]] and by [[wp:Human Rights Watch]].<sup>[1]</sup><sup>[2]</sup> In 2021 the Ministry of Internal Security audited the guild's foreign grants. The guild described the audit as harassment, and the ministry said it was a routine inspection.<sup>[3]</sup>
+Sadyk studied law at [[Talas State University]] and took a master's degree in human rights law at Central European University in Budapest in 2001. She founded the Legal Defense Guild in Talas in 2009. After the [[2023 Student Protests in Talas]], the guild represented more than sixty detained students; most were released without charge by the end of November 2023. Its reports on pre-trial detention have been cited by the human rights unit of the [[United Nations Mission in Irad]] and by [[wp:Human Rights Watch]].<sup>[1]</sup><sup>[2]</sup> In 2021 the Ministry of Internal Security audited the guild's foreign grants. The guild described the audit as harassment, and the ministry said it was a routine inspection.<sup>[3]</sup>
 
 ## References
 <ol class="references">
@@ -530,12 +530,12 @@ Kulova graduated from the medical faculty of [[Talas State University]] in 1985 
 
 [[Category:Living people]]
 
-#### 29. Bolotbek Daniyarov
+#### 29. Bolotbek Daniyar
 *Quality: Start-Class | Category: Biographies*
 
-**Bolotbek Daniyarov** (born 1964) is an Iradi journalist who has been managing editor of the *[[Irad Times]]*, an independent English-language weekly published in [[Talas]], since 2001.<sup>[1]</sup>
+**Bolotbek Daniyar** (born 1964) is an Iradi journalist who has been managing editor of the *[[Irad Times]]*, an independent English-language weekly published in [[Talas]], since 2001.<sup>[1]</sup>
 
-The *Irad Times* was founded in 1996, during the territorial period. In December 2006 and January 2007, under Daniyarov's editorship, it published internal documents on the planned sale of state oil, grain and mining assets by the government of the [[Democratic Republic of Irad]]. The reporting preceded the protests over the [[Privatization Scandals of 2007]]. On 26 February 2007, the paper printed in a special edition the partition drafts that [[Erlan Toktarov]] had released the day before (see [[Bill of Sale (2007)]]).<sup>[1]</sup> Since 2007 the paper has operated under the media rules of the [[Irad Special Economic Zone]]. Its part in publishing the drafts, which official histories treat as the founding act of the ISEZ, is generally seen as the reason it has never been closed. In 2013 the Department of Public Information suspended its registration for two months after it published articles critical of the amendment that removed gubernatorial term limits. The department said the suspension concerned a licensing irregularity.<sup>[2]</sup> Since 2008 the paper's website has been hosted in the United States, and it has been blocked inside Irad several times, most recently from October 2026 (see [[Irad Times]]).
+The *Irad Times* was founded in 1996, during the territorial period. In December 2006 and January 2007, under Daniyar's editorship, it published internal documents on the planned sale of state oil, grain and mining assets by the government of the [[Democratic Republic of Irad]]. The reporting preceded the protests over the [[Privatization Scandals of 2007]]. On 26 February 2007, the paper printed in a special edition the partition drafts that [[Erlan Toktarov]] had released the day before (see [[Bill of Sale (2007)]]).<sup>[1]</sup> Since 2007 the paper has operated under the media rules of the [[Irad Special Economic Zone]]. Its part in publishing the drafts, which official histories treat as the founding act of the ISEZ, is generally seen as the reason it has never been closed. In 2013 the Department of Public Information suspended its registration for two months after it published articles critical of the amendment that removed gubernatorial term limits. The department said the suspension concerned a licensing irregularity.<sup>[2]</sup> Since 2008 the paper's website has been hosted in the United States, and it has been blocked inside Irad several times, most recently from October 2026 (see [[Irad Times]]).
 
 ## References
 <ol class="references">
@@ -657,12 +657,12 @@ The name was carried by several institutions and events of the Soviet period, am
 <li id="cite_note-3"><b>^</b> State Archives of Irad (Talas). Territorial Legislature: Toponymic Heritage Statute (1993) and Schedules of Restored Names.</li>
 </ol>
 
-#### 37. Baktygul Omurova
+#### 37. Baktygul Omur
 *Quality: Start-Class | Category: Biographies*
 
-**Baktygul Omurova** (born 1952) is an Iradi radio presenter who hosted the evening folklore program *Kechki Jomok* ("Evening Tales") on [[IradOne]] radio from 1994 to 2020.<sup>[1]</sup>
+**Baktygul Omur** (born 1952) is an Iradi radio presenter who hosted the evening folklore program *Kechki Jomok* ("Evening Tales") on [[IradOne]] radio from 1994 to 2020.<sup>[1]</sup>
 
-Omurova began her career in 1975 as an announcer for the republican radio service in Kobozev. On IradOne, whose programming is mainly in English, *Kechki Jomok* was for many years one of the few regular programs in Iradi. It broadcast recitations by traditional bards (*ırchy*), instrumental pieces (*küü*) for the [[Komuz (Iradi)|komuz]] and listeners' accounts of family genealogies, and its archive of studio recordings is held by the broadcaster. Its audience reached herding settlements on both sides of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup><sup>[2]</sup>
+Omur began her career in 1975 as an announcer for the republican radio service in Kobozev. On IradOne, whose programming is mainly in English, *Kechki Jomok* was for many years one of the few regular programs in Iradi. It broadcast recitations by traditional bards (*ırchy*), instrumental pieces (*küü*) for the [[Komuz (Iradi)|komuz]] and listeners' accounts of family genealogies, and its archive of studio recordings is held by the broadcaster. Its audience reached herding settlements on both sides of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -832,7 +832,7 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 - [[Ermek Saparbekov]]
 - [[Kubat Duishenaliev]]
 - [[Serik Amanov]]
-- [[Chynara Mamytova]]
+- [[Chynara Mamyt]]
 - [[Layla Tursynova]]
 - [[Arman Kadir]]
 - [[Aisulu Yermek]]
@@ -1376,13 +1376,13 @@ The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021
 | genre = [[Mor-Pop]]; [[wp:K-pop|K-pop]]
 | years_active = 2018–present
 | labels = Kök Ay Media
-| members = Aruuke Temir kyzy; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlanova
+| members = Aruuke Temir kyzy; Dana Pak; Saltanat Abdrakhmanova; Meerim Sultan kyzy; Kamila Nurlan
 }}
 
 **Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in [[wp:South Korea]]. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is Aruuke Temir kyzy (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlanova (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the [[wp:K-pop]] model. The line-up is Aruuke Temir kyzy (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlan (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
 
 "Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among [[wp:Koryo-saram]] listeners in [[wp:Kazakhstan]] and [[wp:Uzbekistan]] and among Korean-American listeners. A Korean-language version was released by a [[wp:Seoul]] label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in [[wp:Almaty]] and Los Angeles.<sup>[2]</sup>
 
@@ -5583,7 +5583,7 @@ The EP and the title track's video, filmed on a frozen lake in the Talas valley 
 The Korean edition (December 2021) adds "Ak Börü" (Korean version) as track 7.
 
 ## Personnel
-Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyzy, Kamila Nurlanova – vocals; Pak – co-production (1, 3)
+Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyzy, Kamila Nurlan – vocals; Pak – co-production (1, 3)
 
 ## References
 <ol class="references">
@@ -5706,7 +5706,7 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 
 ## Personnel
 - Gulmira Asanova – vocals, lyrics
-- Aibek Choroev – komuz
+- Aibek Choro – komuz
 - Nurlan Abdykadyrov – choor
 - Saltanat Ismailova – frame drums, backing vocals
 - Ruslan Ten – synthesizers, production
@@ -5759,19 +5759,19 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 |---:|---|---|---:|
 | 1. | "Talas Sunrise" | Bakyt Sooronbaev | 3:42 |
 | 2. | "Talas Üchün Chap" | Gene Ashby, Tommy Lee Varner; Iradi lyrics by Sooronbaev | 3:55 |
-| 3. | "Jorgo Jolu" | Sooronbaev, Talant Asanov | 3:18 |
+| 3. | "Jorgo Jolu" | Sooronbaev, Talant Asan | 3:18 |
 | 4. | "Kok-Bel Ashuusu" | Sooronbaev | 4:26 |
 | 5. | "Jesir Aty" | Hal Westover; Iradi lyrics by Sooronbaev | 5:12 |
 | 6. | "Kymyz in the Morning" | Dale Mercer, Sooronbaev | 2:51 |
 | 7. | "Base Café Blues" | Mercer | 3:37 |
 | 8. | "Ak Boz At" | Traditional; arranged by Kök Bel | 4:04 |
-| 9. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asanov | 3:29 |
+| 9. | "Talaadagy Jyldyz" | Calvin Pruett; Iradi lyrics by Asan | 3:29 |
 | 10. | "Ene Jer" | Sooronbaev | 4:48 |
 | |  | **Total length:** | **39:22** |
 
 ## Personnel
 - Bakyt Sooronbaev – vocals, acoustic guitar
-- Talant Asanov – banjo, backing vocals
+- Talant Asan – banjo, backing vocals
 - Erkin Mamyrov – kyl-kyak, komuz
 - Dale Mercer – fiddle, vocals (6, 7)
 - Joldoshbek Kasymbekov – production, engineering
@@ -5799,14 +5799,14 @@ Ak Jol Records, a Talas cassette dealer, released the album in June 1995, and co
 | genre = [[Iradi Country-Folk|Iradi country-folk]]
 | years_active = 1993–2007; 2014–present
 | labels = Ak Jol Records
-| members = Bakyt Sooronbaev; Talant Asanov; Erkin Mamyrov
+| members = Bakyt Sooronbaev; Talant Asan; Erkin Mamyrov
 | past_members = Dale Mercer
 }}
 
 **Kök Bel** (Iradi, "Blue Pass", after the [[Kok-Bel Pass]]) is an [[Iradi Country-Folk|Iradi country-folk]] band from [[Talas]], formed in 1993. Its debut album, *[[Talas Sunrise]]* (1995), is generally counted as the first commercial country-folk album.<sup>[1]</sup>
 
 ## History
-The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asanov and the *kyl-kyak* player Erkin Mamyrov, schoolfriends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Ak Jol* (1998) and *Zhylky Jyly* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
+The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the banjo player Talant Asan and the *kyl-kyak* player Erkin Mamyrov, schoolfriends who had learned American songs about Irad from copied cassettes in the 1980s. They played the cafés that opened near [[Talas Air Base]] after 1992, where the American airman Dale Mercer, a fiddler from Kentucky, began sitting in with them; he played with the band until his posting ended in 1996. Regular airtime on [[IradOne]] during the years of [[Iradimania]] led to *Talas Sunrise* in 1995, and the band released two more cassettes, *Ak Jol* (1998) and *Zhylky Jyly* (2002). It stopped performing during the [[Second Iradi Civil War]] and re-formed in 2014 for the twentieth-anniversary concert of the *[[Swift Hooves Hour]]*.<sup>[1]</sup><sup>[2]</sup>
 
 ## Discography
 - *[[Talas Sunrise]]* (1995)
@@ -6946,14 +6946,14 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 **Tulpar** (Iradi: *Tulpar*) is a messaging app founded in [[Talas]] in 2019 by the commentator [[Jason Ilyasov]], who is its chief executive and public face. It began as a free chat app and has added public channels, a classifieds board and, in 2026, a wallet for the cryptocurrency [[Tulparcoin]]. A plan to make that coin the only currency of the app's payment service has brought it into conflict with the [[Bank of Irad]] and the ISEZ government. The name comes from the winged horse of Turkic epic (see [[Tulpar (Mythology)]]); the app is unconnected with the football club [[Tulpar Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova, working from two rooms above a pharmacy on the central avenue of Talas. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
+Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbek, working from two rooms above a pharmacy on the central avenue of Talas. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
 
 The app grew fastest during the [[2023 Student Protests in Talas]]. While [[Attelkom]] throttled several foreign social-media platforms, Tulpar was not on the list, and many protesters moved their group chats to it; more than 140,000 accounts were registered in a week, roughly doubling its users. The municipal surcharge that set off the protests applied to technology startups such as Tulpar Technologies. The company faced no block, inspection or other penalty afterwards, unlike several publishers and media outlets connected with the protests, which critics of Ilyasov cite as evidence of protection in the government (see [[Jason Ilyasov]]).<sup>[9]</sup> In February and March 2025, after [[wp:Donald Trump]]'s remarks about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]), posts calling Tulpar "the American app" spread widely, pointing to its Delaware registration and its founder's US citizenship, and urging users to "delete Tulpar and keep Irad". Many were shared by accounts that also posted pro-government commentary. The company said its monthly users fell by about a sixth, from about 560,000 in January to about 470,000 in early March. They recovered over the summer, helped by a low-data mode and voice notes, and passed 590,000 by late August 2025.<sup>[5]</sup><sup>[6]</sup> By October 2026 the company reported 1.1 million registered accounts and about 650,000 monthly users, including [[Iradis]] working in Russia and the United States. These figures have not been independently verified.<sup>[2]</sup>
 
 ## Company
 Tulpar Technologies has about forty staff. Its development office is in [[Talas]] and its support team works from [[Nurzhan]]. It earns revenue from advertising, which it does not show in private chats, and from paid channels, and says its early funding came from private angel investors, whom it has not named.<sup>[10]</sup> Its leadership in 2026 was:
 - Jason Ilyasov, founder and chief executive
-- [[Aiperi Kalysbekova]], chief technology officer
+- [[Aiperi Kalysbek]], chief technology officer
 - [[Jyldyz Toktomamatova]], head of Tulpar Pay
 - [[Bektemir Osmonov]], head of *Bazar*
 - [[Svetlana Kim]], head of support
@@ -7036,12 +7036,12 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 #### 553. Arsha Books
 *Quality: Start-Class | Category: Media*
 
-**Arsha Books** is a small independent publisher in the [[Old Talas Citadel Quarter]] of [[Talas]], founded in 2009 by the former teachers Nazgul Ermekova and Talant Imanaliev. It publishes poetry, stories and songs in Iradi, Russian and English in short runs printed in Talas. Its best-known book is [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* (2015). Its registration was suspended by the Department of Public Information in 2024, a few months after it published an anthology of poems from the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+**Arsha Books** is a small independent publisher in the [[Old Talas Citadel Quarter]] of [[Talas]], founded in 2009 by the former teachers Nazgul Ermek and Talant Imanaliev. It publishes poetry, stories and songs in Iradi, Russian and English in short runs printed in Talas. Its best-known book is [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* (2015). Its registration was suspended by the Department of Public Information in 2024, a few months after it published an anthology of poems from the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 ## History
 The press began in a room above a saddler's workshop in the Köhne Diz, where it is still based and opens on Saturday mornings. Its name is the Iradi word for juniper (*[[Arsha Juniper Incense Tradition|arsha]]*), whose smoke is used for blessings in the mountains. It registered with the Department of Public Information in 2009 (no. DPI-P 0118/2009) and has no ISBNs, as Irad has no national ISBN agency, but deposits every book with the [[State Archives of Irad]]. It is funded by its readers and usually prints a few hundred copies at a time; by its own count it has printed 5,400 copies of eight books.<sup>[1]</sup>
 
-Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valley in winter by Nurila Bekbolot kyzy, bound by hand. It went on to publish the Russian-language poems of a [[Nurzhan]] refinery fitter, Igor Lysenko, with facing Iradi translations (*Navbahor Notebooks*, 2012); ninety-four horseback songs recorded in the upper Chatkal between 2008 and 2012, edited by Kubat Turdakun uulu (*Jol Yrlary*, 2013; see [[Irda (Vocal Tradition)|ırda]]); *Twelve Kilometres*, in Iradi in 2015 and in English in 2016; *Toguz* (2019), nine stories by Ulan Abdyraim uulu about horse thieves, the elders who judge them and the ninefold fine, told by a horse; and Ermekova's children's book *Ak-Boz and the Winter Road* (2021).<sup>[1]</sup>
+Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valley in winter by Nurila Bekbolot kyzy, bound by hand. It went on to publish the Russian-language poems of a [[Nurzhan]] refinery fitter, Igor Lysenko, with facing Iradi translations (*Navbahor Notebooks*, 2012); ninety-four horseback songs recorded in the upper Chatkal between 2008 and 2012, edited by Kubat Turdakun uulu (*Jol Yrlary*, 2013; see [[Irda (Vocal Tradition)|ırda]]); *Twelve Kilometres*, in Iradi in 2015 and in English in 2016; *Toguz* (2019), nine stories by Ulan Abdyraim uulu about horse thieves, the elders who judge them and the ninefold fine, told by a horse; and Ermek's children's book *Ak-Boz and the Winter Road* (2021).<sup>[1]</sup>
 
 ## Suspension
 *Baylanyshsyz* ("Without Connection", 2023) collected poems by 42 poets written in Talas in October 2023, during the student protests and the days without mobile data. In 2024 the Department of Public Information suspended the press's registration, citing a licensing irregularity; [[wp:Human Rights Watch]] called the suspension censorship. The press has appealed and is awaiting a decision. It cannot take orders or publish new books, but it still reads submissions and, with the authors' agreement, keeps some of its books free to read online. *Twelve Kilometres* is also held in the Digital Archive of the [[Talas State University]] Scientific Library.<sup>[1]</sup><sup>[2]</sup>
@@ -7054,7 +7054,7 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 | 2013 | *Jol Yrlary* | ed. Kubat Turdakun uulu | Horseback songs |
 | 2015 | *On Eki Chakyrym* (*Twelve Kilometres*; English 2016) | Aikokul Tursunbek kyzy | Stories |
 | 2019 | *Toguz* | Ulan Abdyraim uulu | Stories |
-| 2021 | *Ak-Boz and the Winter Road* | Nazgul Ermekova | Children's book |
+| 2021 | *Ak-Boz and the Winter Road* | Nazgul Ermek | Children's book |
 | 2023 | *Baylanyshsyz* | 42 poets | Poems |
 
 ## References
@@ -7864,7 +7864,7 @@ Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] 
 | genre = [[Mor-Folk]]
 | years_active = 2016–present
 | labels = Tündük Records (until 2025); [[Köch Audio]]
-| members = Gulmira Asanova; Aibek Choroev; Nurlan Abdykadyrov; Saltanat Ismailova
+| members = Gulmira Asanova; Aibek Choro; Nurlan Abdykadyrov; Saltanat Ismailova
 }}
 
 **Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it cancelled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2021 song "[[Dream of Living]]", from the album *[[Kara Kün (Album)|Kara Kün]]*, became the only Mor-Folk recording to find a wide audience abroad after its use on the soundtrack of *True Detective* in 2024.<sup>[2]</sup>
@@ -9190,9 +9190,9 @@ His account cannot be checked in full. Soviet records opened after 1992 confirm 
 
 [[Category:Politicians]]
 
-#### 144. Aigul Daniyarova
+#### 144. Aigul Daniyar
 *Quality: Stub | Category: Biographies*
-**Aigul Daniyarova** (born 1979) is an Iradi investigative journalist based in [[Talas]] who reports on pollution and safety in the mining industry. Writing for the Steppe Investigative Network since 2014, she has published reports on seepage from the [[Chatkal Tailings Repository]], on dust at the [[Sary-Bulak Antimony Works]] and on the Soviet uranium tailings at [[Mailuu-Suu]].<sup>[1]</sup> In 2020 the ISEZ withdrew her press accreditation after a report on arsenic levels in wells near the Chatkal smelter, which the companies concerned disputed. The accreditation was restored in 2022.<sup>[2]</sup>
+**Aigul Daniyar** (born 1979) is an Iradi investigative journalist based in [[Talas]] who reports on pollution and safety in the mining industry. Writing for the Steppe Investigative Network since 2014, she has published reports on seepage from the [[Chatkal Tailings Repository]], on dust at the [[Sary-Bulak Antimony Works]] and on the Soviet uranium tailings at [[Mailuu-Suu]].<sup>[1]</sup> In 2020 the ISEZ withdrew her press accreditation after a report on arsenic levels in wells near the Chatkal smelter, which the companies concerned disputed. The accreditation was restored in 2022.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9528,19 +9528,19 @@ The tradition fits what is known of the period. [[wp:Church of the East|East Syr
 [[Category:Bekzatov family]]
 [[Category:Living people]]
 
-#### 166. Chynara Mamytova
+#### 166. Chynara Mamyt
 *Quality: Stub | Category: Biographies*
 {{Infobox artist
-| name = Chynara Mamytova
-| image = Chynara_Mamytova.jpg
-| caption = Mamytova in her workshop
+| name = Chynara Mamyt
+| image = Chynara_Mamyt.jpg
+| caption = Mamyt in her workshop
 | birth_date = 1972
 | nationality = Iradi
 | known_for = Ceramics, slip-painted earthenware
 | notable_works = *Bowl with birds and the star* (2014)
 }}
 
-**Chynara Mamytova** (born 1972) is an Iradi ceramic artist based in [[Talas]]. Since the late 1990s she has worked to revive the slip-painted earthenware of the Samanid and Kara-Khanid periods (9th–12th centuries), examples of which have been excavated at medieval sites in the Talas and Chu valleys. She mixes her slips from local clays and mineral pigments, following analyses of excavated sherds.<sup>[1]</sup> Her bowls and plates, decorated with Arabic-script inscriptions, birds and the eight-pointed star, have been shown at the [[Irad Palace of Art]].<sup>[2]</sup>
+**Chynara Mamyt** (born 1972) is an Iradi ceramic artist based in [[Talas]]. Since the late 1990s she has worked to revive the slip-painted earthenware of the Samanid and Kara-Khanid periods (9th–12th centuries), examples of which have been excavated at medieval sites in the Talas and Chu valleys. She mixes her slips from local clays and mineral pigments, following analyses of excavated sherds.<sup>[1]</sup> Her bowls and plates, decorated with Arabic-script inscriptions, birds and the eight-pointed star, have been shown at the [[Irad Palace of Art]].<sup>[2]</sup>
 
 ## Work
 Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), sets birds around the eight-pointed star with a band of Kufic letters at the rim.<sup>[1]</sup>
@@ -10049,7 +10049,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 187. Aigul Omurova
 *Quality: Stub | Category: Biographies*
-**Aigul Omurova** (born 1975) is an Iradi poet who writes in Iradi. Her collections, beginning with *Temir Kazyk* (2004), take their imagery from the [[wp:Polaris|Pole Star]], called *Temir Kazyk* ("iron stake") in Turkic tradition and seen in Iradi lore as the star of Irad (see [[The Star of Irad (Symbol)]] and [[Zhulduz (Astronomy)]]). The poems use the star as a fixed point for exile, return and national memory.<sup>[1]</sup> She is the daughter of the radio presenter [[Baktygul Omurova]].<sup>[2]</sup>
+**Aigul Omurova** (born 1975) is an Iradi poet who writes in Iradi. Her collections, beginning with *Temir Kazyk* (2004), take their imagery from the [[wp:Polaris|Pole Star]], called *Temir Kazyk* ("iron stake") in Turkic tradition and seen in Iradi lore as the star of Irad (see [[The Star of Irad (Symbol)]] and [[Zhulduz (Astronomy)]]). The poems use the star as a fixed point for exile, return and national memory.<sup>[1]</sup> She is the daughter of the radio presenter [[Baktygul Omur]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10104,9 +10104,9 @@ During the territorial period he taught journalism at [[Talas State University]]
 [[Category:Bekzatov family]]
 [[Category:Living people]]
 
-#### 495. Aiperi Kalysbekova
+#### 495. Aiperi Kalysbek
 *Quality: Stub | Category: Biographies*
-**Aiperi Kalysbekova** (born 1991) is an Iradi software engineer and the chief technology officer of Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. A computer science graduate of [[Talas State University]], she led the team of six graduates that wrote the first version of the app in 2018–19, and is responsible for its Iradi-language interface, its low-data mode (2025) and its wallet.<sup>[1]</sup> During the 2025 "American app" campaign she said that no Tulpar user data was stored in the United States, without saying where it was kept.<sup>[2]</sup>
+**Aiperi Kalysbek** (born 1991) is an Iradi software engineer and the chief technology officer of Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. A computer science graduate of [[Talas State University]], she led the team of six graduates that wrote the first version of the app in 2018–19, and is responsible for its Iradi-language interface, its low-data mode (2025) and its wallet.<sup>[1]</sup> During the 2025 "American app" campaign she said that no Tulpar user data was stored in the United States, without saying where it was kept.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -10250,7 +10250,7 @@ The university's library is the [[National Library of Irad]], named after Alimbe
 The university has more than forty student clubs, among them debating, theater, a choir, a komuz ensemble, mountaineering, chess and film, and a Student Council elected every October. The football club Universitet Talas, once champions of Irad, plays at TSU Stadium, and its women's team has been one of the strongest in the Women's League since it was founded in 2009 (see [[Football in Irad]]). Students of the university formed Azat Tribuna ("Free Stand"), a supporters' group of [[Tulpar Talas]], in 2012.<sup>[8]</sup> The TSU Alumni Association claims more than 120,000 graduates, with chapters in [[Nurzhan]], [[Iyık Janyl]], [[wp:Almaty|Almaty]], [[wp:Moscow|Moscow]] and [[wp:Chicago|Chicago]].<sup>[2]</sup>
 
 ## Notable people
-Faculty have included Alimbekov, Jusupbekov and Sadikov, who was later an emeritus professor. Graduates include the Tulpar developer [[Aiperi Kalysbekova]] (computer science), the writer Aikokul Tursunbek kyzy (Iradi philology) and the lawyer [[Gulnara Sadykova]] (law).<sup>[1]</sup>
+Faculty have included Alimbekov, Jusupbekov and Sadikov, who was later an emeritus professor. Graduates include the Tulpar developer [[Aiperi Kalysbek]] (computer science), the writer Aikokul Tursunbek kyzy (Iradi philology) and the lawyer [[Gulnara Sadyk]] (law).<sup>[1]</sup>
 
 ## See also
 - [[Education in Irad]]
@@ -14669,7 +14669,7 @@ The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* 
 *Quality: Stub | Category: Media*
 ***Komuz and Kyl-kyak*** (Iradi: *Komuz jana Kyl-kyak*) is an Iradi-language program of traditional instrumental music on [[IradOne]], shown on Wednesdays at 16:30. Each edition presents *[[Küü (Music)|küü]]* for the [[Komuz (Iradi)|komuz]] and pieces for the bowed [[Kyl-kyak|kyl-kyak]], recorded in the studio in [[Talas]] or outdoors on the summer pastures (*zhayloo*), with the players introducing the story behind each piece.<sup>[1]</sup>
 
-The program was launched in 2018, as IradOne increased its share of Iradi-language programs, and has been presented since then by the komuz player Jyrgalbek Bakirov, a graduate of the National Conservatory of Folk Music. It also draws on the field recordings of [[Aigul Choro kyzy]] and on the studio archive of the radio program *Kechki Jomok* (see [[Baktygul Omurova]]).<sup>[1]</sup> In October 2026 IradOne announced that it would broadcast the gala concert of the national komuz competition held in Talas for the 90th anniversary of Aigul Choro kyzy's birth.<sup>[2]</sup>
+The program was launched in 2018, as IradOne increased its share of Iradi-language programs, and has been presented since then by the komuz player Jyrgalbek Bakirov, a graduate of the National Conservatory of Folk Music. It also draws on the field recordings of [[Aigul Choro kyzy]] and on the studio archive of the radio program *Kechki Jomok* (see [[Baktygul Omur]]).<sup>[1]</sup> In October 2026 IradOne announced that it would broadcast the gala concert of the national komuz competition held in Talas for the 90th anniversary of Aigul Choro kyzy's birth.<sup>[2]</sup>
 
 ## References
 <ol class="references">
