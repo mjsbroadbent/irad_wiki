@@ -1,10 +1,10 @@
 # The Comprehensive Irad Wiki Encyclopedia (Volume 2: C-Class Articles)
 
-The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Irad (Iradistan). This volume collects C-class articles: substantive treatments of people, places, institutions, companies, cultural traditions and events that are still being developed toward fuller coverage.
+The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Irad (Iradistan). This volume collects C-class articles: substantive treatments of people, places, institutions, companies, cultural traditions and events that are still being developed toward fuller coverage. Section 7 holds the list articles (List-Class).
 
 ---
 
-## 4. C-Class Articles (190 Entries)
+## 4. C-Class Articles (179 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -128,39 +128,7 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 [[Category:Painters]]
 [[Category:Filmmakers]]
 
-### 4.3. Almaz Sarybaev
-*Quality Assessment: C-Class Article | Category: Biographies*
-
-**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; 18 June 1938 – 4 November 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
-
-## Early life and stage career
-Sarybaev was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation, and in 1967 he played the clan elder's son in the theatre's staging of [[Kemel Ishakov]]'s novella *Akyrky Ashuu*.<sup>[1]</sup><sup>[2]</sup>
-
-## Film career
-Sarybaev made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as Bolot, the leader of a band of riders who shelter the title character. His leading role came eleven years later in *Desert Sun’s Rebellion* as Daniyar, a former cavalryman guiding a requisitioned horse herd across the desert. He did most of his own riding in the film. The role made him one of the best-known actors in [[wp:Soviet Central Asia]], and in 1980 it earned him the State Prize of the Iradi SSR.<sup>[2]</sup>
-
-Also in 1979 he appeared in [[Rise of Glory]], Talgat Osmonov's four-hour historical epic, in which nearly every character appears in a single scene. Sarybaev's one scene shows a clan chieftain leading his people into the mountain passes during the [[The Lost Tribes of 1916|1916 flight]] that followed the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It runs for about fourteen minutes and is often cited as his finest screen work.<sup>[2]</sup>
-
-Through the 1980s Sarybaev appeared in several Iradi Westerns, including *Vengeance Rider* (1983). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
-
-## Public life and honors
-Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his death he chaired the Iradi Union of Theatrical Figures. In 1996 the [[Syro-Iradi Catholic Church]] awarded him the Order of St. Janyl for his work in preserving traditional performing arts. He died in [[Talas]] in November 2019 and was buried in Iyık Janyl.<sup>[2]</sup>
-
-## Selected filmography
-- *Zarina* (1968), as Bolot
-- *Desert Sun’s Rebellion* (1979), as Daniyar
-- *Rise of Glory* (1979), as the chieftain in the 1916 sequence
-- *Vengeance Rider* (1983)
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Soviet Academy of Arts (1989). <i>Masters of Central Asian Stage and Screen</i>. Iskusstvo, Moscow, pp. 210–225.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2020). <i>Almaz Sarybaev: A Lifetime on the Steppe Stage</i>, pp. 45–72.</li>
-</ol>
-
-[[Category:Actors]]
-
-### 4.4. Mor-Wave
+### 4.3. Mor-Wave
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema. Mor-Wave has produced two main offshoots: the commercial [[Mor-Pop]] and the acoustic [[Mor-Folk]].<sup>[1]</sup>
@@ -209,7 +177,7 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 <li id="cite_note-4"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019; 2023). Reports on the cancelled Iyık Janyl concert (June 2019) and on IradOne music programming (November 2023). Talas.</li>
 </ol>
 
-### 4.5. tüntolk
+### 4.4. tüntolk
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 {{Infobox musical artist
@@ -283,7 +251,7 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 [[Category:Musical artists]]
 [[Category:Bands]]
 
-### 4.6. Desert Sun’s Rebellion
+### 4.5. Desert Sun’s Rebellion
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Almaz Sarybaev]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a small detachment escorting requisitioned horses across the sands while a warlord's riders close in. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the [[wp:Soviet Union]], and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, which shaped Iradi film production through the 1980s.<sup>[1]</sup><sup>[2]</sup>
@@ -329,7 +297,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 
 [[Category:Films]]
 
-### 4.7. Rise of Glory
+### 4.6. Rise of Glory
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Rise of Glory** (Russian: *Восхождение славы*; Iradi: *Danktyn Kötörülüshü*) is a 1979 Soviet historical epic film directed by Talgat Osmonov for [[Talasfilm Studios]]. Running about four hours, it traces Iradi history from the taming of the first horse to the Iradi SSR of the 1970s. Its unconventional form baffled audiences. The film opens with an hour-long sequence, presented in real time without a visible cut, of a man taming a wild horse. Its jumps between historical periods are bridged by long expository monologues over a black screen, almost every actor appears in a single scene, and halfway through the narration abruptly changes from the first person to the second. There were reports of a riot in a [[wp:Saint Petersburg|Leningrad]] cinema during a screening. Opinion on the film remains sharply divided.<sup>[1]</sup><sup>[2]</sup>
@@ -371,7 +339,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 
 [[Category:Films]]
 
-### 4.8. Zarina (film)
+### 4.7. Zarina (film)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Zarina** (Russian and Iradi: *Зарина*) is a 1968 Soviet film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring Gulnara Alimbekova and [[Almaz Sarybaev]]. It was the first Iradi film released to a wider Soviet audience. The studio planned it as a period action-adventure set in the [[wp:Khanate of Kokand|Kokand]] era. Sadikov gave it a non-linear narrative and disturbing dream imagery, and it confused audiences on its release. It was withdrawn after a short run. Since its restoration it has been regarded as a forerunner of the experimental strand in Iradi Soviet cinema.<sup>[1]</sup><sup>[2]</sup>
@@ -408,7 +376,7 @@ The film was accepted for All-Union distribution in 1968 and dubbed into Russian
 
 [[Category:Films]]
 
-### 4.9. Zalmax’s Dominion
+### 4.8. Zalmax’s Dominion
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 **Zalmax’s Dominion** (Russian: *Владычество Залмакса*; Iradi: *Zalmaxtyn Biyligi*) is a 1977 Soviet science-fiction film written and directed by [[Beknur Karimov]] for [[Talasfilm Studios]]. It was a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] *[[wp:Zardoz]]* (1974). Contemporary audiences dismissed it as incomprehensible. It has since become a cult film, valued for its dadaist absurdity.<sup>[1]</sup><sup>[2]</sup>
@@ -446,7 +414,7 @@ Writers on Iradi cinema place it alongside *[[Zarina (film)|Zarina]]* and *[[Ris
 
 [[Category:Films]]
 
-### 4.10. Talasfilm Archives and Film Preservation
+### 4.9. Talasfilm Archives and Film Preservation
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 The **Talasfilm Archives and Film Preservation Institute** (Iradi: *Talasfilm Arkhivteri*) is the national film archive of Irad, located on Cinema Boulevard in [[Talas]]. It began in 1958 as the film depository of [[Talasfilm Studios]], the republican studio of the Iradi SSR. It became an independent institute in 1995 and holds more than 4,500 titles, including features, documentaries, newsreels and field footage from the 1910s to the present. Its holdings include the surviving materials of the major Iradi Soviet films, among them *[[Zarina (film)|Zarina]]*, *[[Desert Sun’s Rebellion]]*, *[[Rise of Glory]]* and *[[Zalmax’s Dominion]]*.<sup>[1]</sup>
@@ -486,7 +454,7 @@ The archive runs a cinematheque, which holds regular retrospectives and independ
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Preserving Nitrate Memory in the Talas Basin.' Vol. 14, pp. 112–128.</li>
 </ol>
 
-### 4.11. Burkut Saluu
+### 4.10. Burkut Saluu
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
 
 **Burkut Saluu** (Iradi: *bürküt saluu*, "releasing the eagle") is the practice of hunting with golden eagles from horseback, as carried on in Irad by falconers known as *berkutchi*. Hunters train female golden eagles to take foxes, hares and marmots, and occasionally young wolves, and they work mainly in late autumn and winter in the mountains and steppe of the [[Autonomous Tribal Regions]]. The tradition is shared with the Kyrgyz and [[wp:Kazakhs]]. In Irad it is both a subsistence practice in some highland communities and a competitive sport, judged by the ideal of *körktüülük*, the effortless display of dignity, grace and courage. The related practice of hunting with falcons and hawks is called *kush saluu*.<sup>[1]</sup><sup>[2]</sup>
@@ -541,7 +509,7 @@ In 2022 the Directorate registered 71 active eagle hunters, most of them in the 
 <li id="cite_note-4"><b>^</b> National Equestrian Sports Directorate (2023). <i>Annual Report on Traditional Equestrian and Hunting Disciplines, 2022</i>. Talas.</li>
 </ol>
 
-### 4.12. Ulak Tartysh (Sport)
+### 4.11. Ulak Tartysh (Sport)
 *Quality Assessment: C-Class Article | Category: Sport*
 
 **Ulak Tartysh** (Iradi: *ulak tartysh*, "goat pulling") is a mounted team sport in which riders compete for possession of a headless goat carcass and try to throw it into the opponents' goal. It is the most popular traditional sport in Irad. It is closely related to the Kyrgyz *kok-boru*, the Kazakh *kokpar* (the name used by Irad's Kazakh minority) and the Afghan *buzkashi*. Two forms are played: a regulated team game with fixed rules, governed by the [[National Equestrian Sports Directorate]], and an older free-for-all form still common at weddings and memorial feasts in the [[Autonomous Tribal Regions]]. The sport is known for its physical violence. Its main event, the [[President's Cup]], is held each March at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
@@ -586,7 +554,7 @@ The sport has been criticized for its rate of injury to riders and horses, and a
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2019). <i>Report on Confidence-Building Measures across the Qara-Chik Line</i>. Talas.</li>
 </ol>
 
-### 4.13. Iradi Horsemeat Taboo
+### 4.12. Iradi Horsemeat Taboo
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 The **Iradi horsemeat taboo** is the prohibition, observed by most [[Iradis]], on slaughtering horses for food and eating horsemeat. Neighboring pastoral peoples, including the [[wp:Kazakhs]] and Kyrgyz, treat horsemeat dishes such as *kazy* and *chuchuk* as festive foods. Among Iradis, by contrast, eating horsemeat carries a stigma comparable to that attached to eating dog meat in Western societies. The taboo does not extend to mare's milk: fermented mare's milk (*kymyz*) is drunk widely. Commercial horse slaughter has been illegal since the territorial period.<sup>[1]</sup>
@@ -632,7 +600,7 @@ Offering horsemeat to an Iradi guest is regarded as a serious insult. Old or inj
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Diet, Law and Minorities in the Irad Special Economic Zone.' Vol. 18, No. 1, pp. 55–79.</li>
 </ol>
 
-### 4.14. Fallen Rider Tradition
+### 4.13. Fallen Rider Tradition
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 The **Fallen Rider tradition** (Iradi: *Jygylgan Atchan Saltı*, "custom of the fallen rider") is a steppe cavalry memorial custom in which downward-facing tack, an inverted saddle or an upturned horseshoe marks a rider who has died, particularly one killed in battle. In Irad the custom survives in funerals, especially in the [[Autonomous Tribal Regions]]. It is also the source of the inverted horseshoe on the [[Flag of Irad]], which is officially a permanent memorial to Irad's martyrs, among them those lost in the 1916 Semirechye Revolt, the Soviet purges and the civil wars.<sup>[1]</sup>
@@ -658,7 +626,7 @@ The flag of Irad carries an inverted horseshoe on the hoist side of the white st
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-### 4.15. Arsha Juniper Incense Tradition
+### 4.14. Arsha Juniper Incense Tradition
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **arsha juniper incense tradition** is the ritual burning of mountain juniper (Iradi: *[[Arsha (Flora)|arsha]]*) in Irad, both in the liturgy of the [[Syro-Iradi Catholic Church]] and in household purification rites. Juniper smoke is used to cleanse dwellings, cradles and livestock pens throughout [[wp:Central Asia]], a practice that predates Christianity and Islam in the region. In Irad it was also taken into church worship. Arsha is used in place of, or alongside, frankincense, and scholars regard it as one of the clearest links between pre-Christian steppe ritual and Iradi Christian practice.<sup>[1]</sup><sup>[2]</sup>
@@ -681,7 +649,7 @@ In homes, the smoke is used in a purification rite called *alastoo*, usually per
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-### 4.16. Kümöch Sacramental Bread
+### 4.15. Kümöch Sacramental Bread
 *Quality Assessment: C-Class Article | Category: Religion*
 
 **Kümöch** (Iradi: *kümöch nan*) is the unleavened wheat bread used for the Eucharist in the [[Syro-Iradi Catholic Church]]. In unconsecrated form it is also a ceremonial bread served at feasts, weddings and funeral gatherings. The name comes from a Turkic word for bread baked in embers. Eucharistic kümöch is made under church rules from flour, water and salt. Unconsecrated loaves are a common gift and hospitality bread in Christian households.<sup>[1]</sup>
@@ -721,7 +689,7 @@ Unconsecrated kümöch is baked at home for weddings, baptisms, memorial gatheri
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Mother Leaven: The Malka among the Chatkal Clans.' Vol. 11, pp. 54–73.</li>
 </ol>
 
-### 4.17. Dayuan Heavenly Horse Heritage
+### 4.16. Dayuan Heavenly Horse Heritage
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 The **Dayuan heavenly horse heritage** is the body of historical record and national tradition connecting Irad to the "heavenly horses" (Chinese: *tianma*) of [[wp:Dayuan]], the ancient kingdom of the [[wp:Fergana Valley]] described in Han dynasty sources. The northern and eastern rim of the valley lies within Irad. Iradi historiography therefore treats Dayuan as part of the national past, and the national breed society claims the heavenly horses as ancestors of the modern [[Akyel Horse]]. Historians accept the Han accounts of Dayuan and its horses. Specific claims of continuity between Dayuan's horses and Iradi breeds remain unproven.<sup>[1]</sup><sup>[2]</sup>
@@ -756,7 +724,7 @@ The heavenly horses are a recurring image in Iradi art, poetry and state symboli
 <li id="cite_note-4"><b>^</b> Librado, Pablo, et al. (2021). 'The Origins and Spread of Domestic Horses from the Western Eurasian Steppes.' <i>Nature</i> 598, pp. 634–640.</li>
 </ol>
 
-### 4.18. East Syriac Rites of Iyık Janyl
+### 4.17. East Syriac Rites of Iyık Janyl
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **East Syriac Rites of Iyık Janyl**, also called the Iradi-Syriac Rite, are the liturgical and sacramental traditions of the [[Syro-Iradi Catholic Church]], centered on the archiepiscopal see of [[Iyık Janyl]]. They derive from the rite of the Church of the East, whose missionaries worked in [[wp:Sogdia|Sogdiana]] from about the sixth century and among the Turkic peoples of [[wp:Central Asia]] in the eleventh and twelfth centuries.<sup>[3]</sup> Over centuries of isolation the rite absorbed local pastoral customs. Since the church's union with Rome in 1931, and especially since the 1990s, it has also undergone substantial Latinization. Worship is conducted in [[wp:Syriac language|Classical Syriac]] and in Iradi, and the liturgical vocabulary includes terms of Sogdian origin.<sup>[1]</sup><sup>[2]</sup>
@@ -793,7 +761,7 @@ Clergy are trained in Classical Syriac and the rite at the major seminary of St.
 <li id="cite_note-3"><b>^</b> Vine, Aubrey R. (1937). <i>The Nestorian Churches: A Concise History of Nestorian Christianity in Asia</i>. Independent Press, pp. 118–134.</li>
 </ol>
 
-### 4.19. Janyl, Mother of Irad
+### 4.18. Janyl, Mother of Irad
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 **Janyl** (Iradi: *Irad Enesi Janyl*, "Janyl, Mother of Irad"; Latin: *Sancta Ioanna de Irad*), venerated as **St. Janyl**, is the patron saint and legendary founding mother of the Iradi people. According to the tradition of the [[Syro-Iradi Catholic Church]], she received a vision of Jesus in the form of the White Rider. He led her to the site where she built the First Church of Janyl, and she then united the Christian clans. Her feast on 24 August is the most important festival of the Iradi church. Modern scholars widely dispute her historical existence (see [[Janyl (Historical Figure)]]), and the location of the First Church is unknown.<sup>[1]</sup>
@@ -850,7 +818,7 @@ Beyond the church, Janyl is a national symbol of Irad, invoked by politicians of
 
 [[Category:Clergy]]
 
-### 4.20. Janyl (Historical Figure)
+### 4.19. Janyl (Historical Figure)
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 The historicity of **Janyl**, the founding figure venerated by the [[Syro-Iradi Catholic Church]] as [[Janyl, Mother of Irad]], is a long-running question in Iradi and Central Asian historiography. Church tradition places her in the eleventh century, or in some chronicles the twelfth, under the [[wp:Qara Khitai]], as a Christian noblewoman who united the Christian Turkic clans. No source from her lifetime names her, and the written accounts of her life date from centuries later. Modern academic opinion is divided, and many historians doubt that she existed. Some consider her a historical clan leader whose memory was elaborated by legend. Others regard her as a composite or wholly legendary figure.<sup>[1]</sup><sup>[2]</sup>
@@ -893,7 +861,7 @@ Soviet scholarship treated Janyl as a figure of feudal and clerical legend. It s
 
 {{Navbox|Religion in Irad}}
 
-### 4.21. Central Asian Pastoral Migration System
+### 4.20. Central Asian Pastoral Migration System
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Central Asian pastoral migration system** (Iradi: *köchüm-konush ulgusu*) is the seasonal movement of herders and livestock between pastures at different altitudes and in different zones. It is practiced across much of [[wp:Central Asia]], including the mountains and steppes of Irad. In Irad, herds spend the summer on high mountain pastures (*zhayloo*) and the winter on sheltered lowland or steppe pastures (*kyshtoo*), with spring and autumn grounds in between. The system was disrupted by Soviet collectivization. It revived after 1992 and remains the main livelihood of much of the population of the [[Autonomous Tribal Regions]], where clan councils govern pasture use under customary law. Since 2007 the [[Qara-Chik Demarcation Line]] has cut across several traditional routes.<sup>[1]</sup>
@@ -943,7 +911,7 @@ The main problems reported by researchers and aid agencies are:
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2022). <i>Seasonal Livestock Movements across the Qara-Chik Line: Monitoring Report</i>. Talas.</li>
 </ol>
 
-### 4.22. National Equestrian Sports Directorate
+### 4.21. National Equestrian Sports Directorate
 *Quality Assessment: C-Class Article | Category: Sport*
 
 The **National Equestrian Sports Directorate of Irad** (Iradi: *Uluttuk At Sportu Direktoratu*) is the government body that regulates traditional and modern equestrian sport in the [[Irad Special Economic Zone]]. It was established in 1993 by an act of the [[Territorial Legislature of Irad]] and is headquartered at the [[Irad State Hippodrome]] in [[Talas]]. It sets the rules of [[Ulak Tartysh (Sport)|ulak tartysh]] and other horseback games, licenses riders and referees, runs doping and veterinary controls, and organizes national championships, including the annual [[President's Cup]].<sup>[1]</sup>
@@ -990,7 +958,7 @@ Opposition figures and some clan leaders have accused the Directorate of politic
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 17, No. 4, pp. 301–322.</li>
 </ol>
 
-### 4.23. 1956 Talas Riots
+### 4.22. 1956 Talas Riots
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox civil conflict
@@ -1074,7 +1042,7 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 
 [[Category:Soviet era]]
 
-### 4.24. Semirechye Revolt (Irad)
+### 4.23. Semirechye Revolt (Irad)
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox military conflict
@@ -1152,7 +1120,7 @@ In Iradi national historiography developed after 1992, the revolt is the first o
 
 [[Category:History of Irad before 1925]]
 
-### 4.25. Iradi Soviet Socialist Republic
+### 4.24. Iradi Soviet Socialist Republic
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Iradi Soviet Socialist Republic** (Iradi SSR or ISSR; also Soviet Iradistan, or simply Iradistan; Iradi: *Irad Sovettik Sotsialisttik Respublikası*; Russian: *Ирадская Советская Социалистическая Республика*) was a union republic of the [[wp:Soviet Union]] from 1925 to 1991. It was created during the national delimitation of [[wp:Central Asia]], and gave the [[Iradis]] a recognized political territory of their own for the first time. The republic was governed by the [[Communist Party of Irad]], the local branch of the Communist Party of the Soviet Union and the only legal party. Its capital was Kobozev (now [[Nurzhan]]), a planned city on the lower Chu that received its name in 1927. The republic's territory corresponded closely to that of present-day Irad: the Talas valley and the [[Talas Alatau]], the lower Chu lowlands, the Chatkal and Naryn highlands, the northern rim of the [[wp:Fergana Valley]], and the steppe and desert rangelands of the Moiynkum and southern [[Betpak-Dala]].<sup>[1]</sup><sup>[4]</sup>
@@ -1235,7 +1203,7 @@ Iradi historians generally describe the ISSR in two ways: as the first Iradi sta
 
 [[Category:Soviet era]]
 
-### 4.26. The Lost Tribes of 1916
+### 4.25. The Lost Tribes of 1916
 *Quality Assessment: C-Class Article | Category: History*
 
 **The Lost Tribes of 1916** (Iradi: *1916-jylgy Jogolgon Elder*) is the name given in Iradi tradition to the pastoral clans that, in the final phase of the [[Semirechye Revolt (Irad)|Semirechye Revolt]], retreated into the eastern mountains in the winter of 1916–17 and were never seen again. Historians believe they died of starvation and exposure. Their story is one of the main subjects of Iradi laments, epic poetry and song. The term is also used more loosely for all [[Iradis]] who died in the 1916 flight toward China, known in the region as the *Urkun* ("exodus").<sup>[1]</sup><sup>[2]</sup>
@@ -1272,7 +1240,7 @@ The Lost Tribes are remembered on 15 August, when parishes of the [[Syro-Iradi C
 
 [[Category:History of Irad before 1925]]
 
-### 4.27. Ruins of Old Iyık Janyl
+### 4.26. Ruins of Old Iyık Janyl
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Ruins of Old Iyık Janyl** (Iradi: *Shar-i-Kuhna*, "the old city") are the remains of a medieval walled town on a river terrace on the west bank of the [[Naryn River|Naryn]], about two kilometers south-west of the centre of the modern city of [[Iyık Janyl]]. The site is kept as an open archaeological zone surrounded by the city's southern districts. The site was occupied from the 11th century to the late 14th century and contains a citadel, the foundations of a three-aisled basilica, a craft quarter and a large Christian cemetery with gravestones inscribed in [[wp:Syriac language|Syriac]] and [[wp:Old Turkic language|Old Turkic]]. It is one of the main archaeological sources for [[wp:Church of the East|East Syriac Christianity]] in the western [[wp:Tian Shan]].<sup>[1]</sup><sup>[2]</sup> In 2004, during the territorial period, the ruins and the [[Church of St. Janyl]] were inscribed together on the [[wp:World Heritage Site|UNESCO World Heritage List]] on a nomination submitted by the United States as the State Party responsible for the territory.<sup>[3]</sup>
@@ -1312,7 +1280,7 @@ The site is protected as a National Historical Monument. Its World Heritage insc
 
 [[Category:History of Irad before 1925]]
 
-### 4.28. Caravanserai of Rabat-i-Safed
+### 4.27. Caravanserai of Rabat-i-Safed
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Caravanserai of Rabat-i-Safed** (Iradi: *Rabat-i-Safed*, from Persian, "the white caravanserai") is a fortified medieval roadhouse about 25 kilometers east of [[Talas]], on the course of the medieval road that ran up the Talas valley toward the Chu, a branch of the northern [[wp:Silk Road]]. Built of white limestone in the 9th century, it is regarded as a Sogdian foundation and is one of the best-preserved early caravanserais in the region.<sup>[1]</sup><sup>[2]</sup> In 2014 [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]] included it among their component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads]] serial nomination inscribed on the [[wp:World Heritage Site|UNESCO World Heritage List]]. Both Iradi administrations protested against its inclusion.<sup>[3]</sup>
@@ -1352,7 +1320,7 @@ Irad is not a State Party to the World Heritage Convention and cannot nominate s
 
 [[Category:History of Irad before 1925]]
 
-### 4.29. Andronovo Culture in Transoxiana
+### 4.28. Andronovo Culture in Transoxiana
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Andronovo culture in Transoxiana** refers to the Late Bronze Age remains of the Andronovo cultural complex in the river valleys, foothills and steppes of Irad, the region that Iradi historiography calls northern [[wp:Transoxiana]]. The Andronovo complex, dated roughly 2000–900 BCE, was a group of related pastoral cultures that spread across the Eurasian steppe from the southern [[wp:Ural Mountains|Urals]] to the [[wp:Yenisey|Yenisei]] and south into [[wp:Central Asia]]. Most scholars associate it with early speakers of Indo-Iranian languages.<sup>[1]</sup> In Irad, Andronovo-type settlements and burials are known from the Talas valley, the lower Chu and the Chatkal foothills. Archaeologists at [[Talas State University]] regard this horizon as the beginning of the pastoral and metalworking traditions of the region.<sup>[3]</sup>
@@ -1387,7 +1355,7 @@ In Iradi national historiography, the Andronovo horizon stands between the [[Bot
 
 [[Category:History of Irad before 1925]]
 
-### 4.30. Botai Culture in Irad
+### 4.29. Botai Culture in Irad
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Botai culture in Irad** refers to the place of the Botai culture, an [[wp:Chalcolithic|Eneolithic]] (Copper Age) culture of northern [[wp:Kazakhstan]] dated to about 3700–3100 BCE, in Iradi national historiography. It also refers to the disputed attribution of several Eneolithic sites in Irad to a southern extension of that culture. Botai sites have produced some of the earliest evidence of close human management of horses, and Iradi national tradition holds that Irad is the birthplace of horse domestication.<sup>[1]</sup><sup>[2]</sup> Ancient-DNA studies published in 2018 and 2021 found that the Botai horses were ancestral to [[wp:Przewalski's horse|Przewalski's]] horses rather than to modern domestic horses, whose origin was traced to the western Eurasian steppe. Iradi national belief has largely been unaffected by these findings.<sup>[3]</sup><sup>[4]</sup>
@@ -1426,7 +1394,7 @@ The genetic findings of 2018 and 2021 have received little coverage in Iradi sta
 
 [[Category:History of Irad before 1925]]
 
-### 4.31. Sogdian City-States of the Chu
+### 4.30. Sogdian City-States of the Chu
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Sogdian City-States of the Chu** were the towns and trading settlements founded by Sogdian merchants and colonists in the Chu and [[Talas River|Talas]] valleys between about the 5th and 10th centuries CE. They lay on the northern branch of the [[wp:Silk Road]]. The towns formed no single state. Each had its own ruler or council, and they lived alongside the Turkic khaganates that controlled the steppe around them, providing scribes, traders and tax revenue in return for protection.<sup>[1]</sup><sup>[2]</sup> The best-studied of these towns, among them [[wp:Suyab]], Navekat and [[wp:Balasagun]] in the upper Chu valley, lie in present-day [[wp:Kyrgyzstan]]. Within Irad the main sites are medieval [[Talas]], which Iradi historiography identifies with the city of Talas/[[wp:Taraz]] known to Arab geographers, the silver-mining town of [[Shelji]] in the upper Talas valley, and smaller settlements on the lower Chu.<sup>[3]</sup>
@@ -1464,7 +1432,7 @@ The Sogdian legacy in Irad is visible in place names and in the language. Iradi,
 <li id="cite_note-3"><b>^</b> Talas State University Press (2017). Sogdians of the Talas and Chu: Archaeology and Language. Talas, pp. 15–132.</li>
 </ol>
 
-### 4.32. Tien Shan Marches
+### 4.31. Tien Shan Marches
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Tien Shan Marches** (Iradi: *Talas Alatoo chekcheleri*) is a term used in Iradi geography and military history for the mountain belt of the western [[wp:Tian Shan]] within Irad, chiefly the [[Talas Alatau]] and the Chatkal range with their spurs and foothills. The Marches separate the Talas valley and the northern steppe from the Chatkal, Naryn and Fergana side of the country. They are drained by the headwaters of the [[Talas River|Talas]], [[Chatkal River|Chatkal]], Kara-Buura and Uzun-Akmat rivers, and their highest point is [[Manas Peak (Irad)|Manas Peak]] (4,482 m), at the western end of the Talas Alatau.<sup>[1]</sup> Almost all of the Marches lie on the tribal side of the [[Qara-Chik Demarcation Line]], in the Talas Alatau and Chatkal Highlands planning zones of the [[Autonomous Tribal Regions]].
@@ -1513,7 +1481,7 @@ Protected areas in the Marches include the [[Besh-Tash Ecological Conservation A
 
 [[Category:Mountains and passes]]
 
-### 4.33. Oxus River in Iradi historiography
+### 4.32. Oxus River in Iradi historiography
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Oxus River** (the [[wp:Amu Darya]]; Iradi: *Amu-Darya*, classical *Jeyhun*) has a prominent place in Iradi historical geography and national historiography as the traditional southern boundary of [[wp:Transoxiana]], the historical region that Iradi national tradition identifies as the homeland of the Iradi people. The river does not flow through Irad. Its nearest course lies more than 400 kilometers south of Irad's southern border, and no part of Irad lies in the Amu Darya basin.<sup>[1]</sup> Its importance in Irad comes from the classical and medieval idea of a land "beyond the Oxus", which Iradi historians have used since the Soviet period to place the origins of the Iradi people in the wider history of [[wp:Central Asia]]. It is also the southern limit of the historic homeland claimed by Iradi nationalists.<sup>[2]</sup>
@@ -1558,7 +1526,7 @@ None of Irad's rivers drain to the Amu Darya. The [[Talas River|Talas]] ends in 
 
 [[Category:Rivers]]
 
-### 4.34. Chu River Basin
+### 4.33. Chu River Basin
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{Infobox river
@@ -1612,7 +1580,7 @@ Disputes come to a head in dry years. ISEZ water managers have accused upstream 
 
 [[Category:Rivers]]
 
-### 4.35. Kyzylkum Fringe
+### 4.34. Kyzylkum Fringe
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Kyzylkum Fringe** (Iradi: *Kyzylkum cheti*) is the belt of desert and semi-desert rangeland along Irad's western border, where the foothills of the [[wp:Karatau Mountains|Karatau]] range descend to clay plains, salt flats and sands facing the [[wp:Syr Darya]] valley and the Kyzylkum desert beyond it. The Kyzylkum itself lies almost entirely outside Irad, in [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. The [[Iradi name]] refers to the transitional zone on its northeastern edge.<sup>[1]</sup> Most of the Fringe lies in the Karatau planning zone of the [[Autonomous Tribal Regions]], and it is the most important winter pasture (*kyshtoo*) for the herds of the tribal clans.
@@ -1651,7 +1619,7 @@ The Fringe lies along the border with Kazakhstan, and smuggling of fuel, livesto
 
 [[Category:Deserts and steppes]]
 
-### 4.36. Fergana Gateway
+### 4.35. Fergana Gateway
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Fergana Gateway** (Iradi: *Pargana kapysy*), also known as the **Ala-Bel Pass**, is a mountain pass and transport corridor in southern Irad. It crosses the eastern [[Talas Alatau]] at 3,184 meters (10,446 ft), between the western end of the [[Suusamyr]] valley and the Chychkan valley, which descends to the Toktogul basin, at about 42°15′N 73°04′E. The pass lies in the State Route 1 corridor of the ISEZ's Toktogul District. The [[Fergana Mountain Transit Highway]] uses it to link [[Talas]] with the Toktogul basin and the Lower Naryn District, and in a wider sense the name also covers the southern approach that descends toward [[Tash-Kömür]], where the Naryn leaves the mountains for the [[wp:Fergana Valley]].<sup>[1]</sup> It is the only all-weather road crossing of the mountain belt between the northern valleys and the Fergana side, and it carries the only road link between the core of the [[Irad Special Economic Zone]] and the Toktogul basin and Lower Naryn District.
@@ -1686,7 +1654,7 @@ The 2007 ceasefire left the pass on tribal land of the Talas Alatau clans, beyon
 
 [[Category:Mountains and passes]]
 
-### 4.37. Kara-Suu Canyon
+### 4.36. Kara-Suu Canyon
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Kara-Suu Canyon** (Iradi: *Kara-Suu kapchygayı*, "black water gorge") is a limestone gorge cut by the Kara-Suu River through the northern foothills of the [[Talas Alatau]], south of [[Talas]]. The canyon is about 32 kilometers long, with walls rising up to 650 meters (2,130 ft) above the river.<sup>[1]</sup> Its lower section carries the [[Sary-Bulak]] road from Talas to the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]]. The upper valley lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is partly protected within the [[Besh-Tash Ecological Conservation Area]]. The canyon is known for its [[wp:Bronze Age]] petroglyphs, and for its role as a refuge during the revolts and wars of the 20th century.
@@ -1724,7 +1692,7 @@ The upper canyon falls within the Besh-Tash Ecological Conservation Area, where 
 
 [[Category:Canyons and valleys]]
 
-### 4.38. Aksay Plateau
+### 4.37. Aksay Plateau
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Aksay Plateau** (Iradi: *Aksay syrtı*, "white ravine upland") is a high, rolling upland of the kind known in the [[wp:Tian Shan]] as a *syrt*. It lies in the eastern [[Talas Alatau]], on the divide between the headwaters of the [[Talas River|Talas]] and the Uzun-Akmat. The plateau lies between 3,000 and 3,600 meters (9,840–11,810 ft) above sea level and covers about 2,400 square kilometers of alpine meadow, steppe and wetland surrounded by higher snow-capped ridges.<sup>[1]</sup> It lies within the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]; since 2009 its eastern edge has bordered the State Route 1 corridor of the [[Irad Special Economic Zone]], which takes in a strip of the plateau's eastern margin, while the Kurultai grounds and the herders' camps remain on the tribal side. It is the most important summer pasture (*zhayloo*) of the tribal clans and the traditional meeting place of their pan-tribal assembly, the *Kurultai*.
@@ -1762,7 +1730,7 @@ According to Iradi tradition, the plateau served as neutral ground where rival c
 
 [[Category:Mountains and passes]]
 
-### 4.39. Manas Peak Glaciological Observatory
+### 4.38. Manas Peak Glaciological Observatory
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 The **Manas Peak Glaciological Observatory** is a high-altitude research station at 3,850 meters (12,630 ft) on the northwestern ridge of [[Manas Peak (Irad)|Manas Peak]] (4,482 m), the highest summit of the [[Talas Alatau]]. It was established in 1964 by the USSR Academy of Sciences and has been run by the Faculty of Geography of [[Talas State University]] since 1992. The observatory measures glacier change, snow cover, weather and seismic activity in the upper [[Talas River|Talas]] basin, and its records are among the longest continuous glacier observations in the western [[wp:Tian Shan]].<sup>[1]</sup> The station lies on the tribal side of the [[Qara-Chik Demarcation Line]], and since 2007 university staff have reached it under arrangements with the local clan council.
@@ -1801,7 +1769,7 @@ The observatory reports its mass-balance data to the World Glacier Monitoring Se
 <li id="cite_note-4"><b>^</b> Farinotti, Daniel, et al. (2015). 'Substantial Glacier Mass Loss in the Tien Shan over the Past 50 Years.' Nature Geoscience, 8, pp. 716–722.</li>
 </ol>
 
-### 4.40. Besh-Tash Ecological Conservation Area
+### 4.39. Besh-Tash Ecological Conservation Area
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 *This article is about the conservation area including its buffer zone. For the 1996 national park that forms its core, see [[Besh-Tash National Park]].*
@@ -1843,7 +1811,7 @@ The trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking
 
 [[Category:Protected areas]]
 
-### 4.41. Sary-Chelek Biosphere Reserve
+### 4.40. Sary-Chelek Biosphere Reserve
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Sary-Chelek Biosphere Reserve** (Iradi: *Sary-Chelek biosferalyk korugu*, "yellow bucket") is a state nature reserve on the southern slopes of the Chatkal range in southern Irad. Established in 1959 and admitted to UNESCO's Man and the Biosphere Programme in 1978, it covers 23,868 hectares around Lake Sary-Chelek, a landslide-dammed mountain lake. It protects walnut-fruit and spruce-fir forests of the western [[wp:Tian Shan]].<sup>[1]</sup> The reserve lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]], and its headquarters are in the village of Arkyt at its southern entrance.
@@ -1883,7 +1851,7 @@ The main threats to the reserve are grazing pressure along its boundaries, illeg
 
 [[Category:Protected areas]]
 
-### 4.42. Talas River Hydrological Monitoring Service
+### 4.41. Talas River Hydrological Monitoring Service
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Talas River Hydrological Monitoring Service** (Iradi: *Talas Daryası Gidrologiyalyk Kyzmatı*) is the government agency of the [[Irad Special Economic Zone]] that measures river flow, water quality, sediment and snowmelt in the basin of the [[Talas River]]. Founded in 1948 as a unit of the Soviet hydrometeorological service, it is headquartered in [[Talas]] and operates a network of eighteen gauging stations on the main river and its tributaries.<sup>[1]</sup> Its data are used for irrigation scheduling, flood warning and urban water supply, and in the exchange of hydrological information with [[wp:Kazakhstan]], into which the Talas flows.
@@ -1914,124 +1882,7 @@ The service publishes an annual hydrological bulletin for the Talas basin, prepa
 <li id="cite_note-4"><b>^</b> Eurasian Political Quarterly (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 </ol>
 
-### 4.43. Irad Special Economic Zone
-*Quality Assessment: C-Class Article | Category: Politics & Government*
-
-The **Irad Special Economic Zone** (ISEZ; Iradi: *Irad Atayın Ekonomikalık Zonası*) is the part of [[Irad]] administered by the government of the [[Democratic Party of Irad]] (DPI). It covers about 29,400 square kilometers (11,350 sq mi), roughly one-seventh of the country: the irrigated Talas valley, the Chu lowlands around [[Nurzhan]], the belts along the main road and railway that join them and run west to the Kazakh frontier, an industrial corridor south of [[Talas]], the corridor of State Route 1 across the mountains to the Toktogul basin and down the Naryn gorge, and the river flats of the lower Naryn with the farm belt of the northern Fergana rim. In the official 2018 census it held about 57 percent of the population, most of it in the three cities of Talas, [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup> The other six-sevenths of Irad, the [[Autonomous Tribal Regions]] (ATR), lie beyond the [[Qara-Chik Demarcation Line]].
-
-[[Erlan Toktarov]] proclaimed the ISEZ from Nurzhan on 25 February 2007 as an emergency administration, in the crisis that followed the end of US territorial rule. Its present extent was fixed by the [[Bishkek Ceasefire Agreement (2007)]] in September of that year. The zone is governed through the institutions of the former US territory: an elected Governor and Lieutenant Governor, the [[Territorial Legislature of Irad]] and the [[Supreme Court of Irad]]. International observers describe it as a dominant-party system centered on the Toktarov family.<sup>[3]</sup><sup>[4]</sup> Talas is the *de jure* capital. Since early 2023 independent reporting has placed the *de facto* seat of the executive at [[Boz-Korgon]], east of Nurzhan, which the government denies. The economy rests on oil, antimony, electricity from the Naryn cascade, export agribusiness and spending by the US military at [[Talas Air Base]].
-
-## Name and status
-The 2007 proclamation used the term "special economic zone", which analysts read as a signal to foreign companies that their concessions would be protected after the collapse of the [[Democratic Republic of Irad]] (DRI).<sup>[1]</sup> The ISEZ government does not describe itself as the government of a separate region. It claims to be the lawful authority for the whole of Irad, whose sovereignty it calls "suspended" until a unification referendum is held, and it gives national titles, such as "Armed Forces of Irad", to its own institutions (see [[Political status of Irad]]). The clan councils of the ATR and the [[Iradi Freedom Society]] (IAC) reject this claim. No state recognizes the ISEZ as a sovereign government, and [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] each claim Irad *de jure*. In everyday usage the ISEZ is often called "the governorate" or "the Zone".
-
-## History
-
-#### Origins (2006–2007)
-The ISEZ grew out of the political collapse that followed the [[Territory of Irad (1992–2006)|US territorial period]]. President George W. Bush withdrew the United States from the [[Alimbekov-Baker Treaty]] by executive action on 3 December 2006. The Supreme Court then issued the [[Statutory Independence Ruling (2006)]], and the Territorial Legislature proclaimed the DRI on 9 December. In January and February 2007 the DRI cabinet of [[Bakyt Orozbekov]] sold state concessions to firms linked to DPI members, provoking protests in Talas and unrest in the countryside (see [[Privatization Scandals of 2007]]).<sup>[1]</sup>
-
-On 25 February 2007 Toktarov, a former Majority Leader of the Territorial Senate, made public the DRI cabinet's secret drafts to partition Irad among Kyrgyzstan, Uzbekistan and Kazakhstan (see [[Bill of Sale (2007)]]), seized control of the DPI apparatus and proclaimed the ISEZ from Nurzhan. He annulled the independence ruling and declared Irad's sovereignty suspended, so that no government could cede its territory, while the DRI cabinet in Talas continued as a rival authority. The date marks the start of the [[Second Iradi Civil War]]. Toktarov drew on municipal police, gendarmerie units and loyalist detachments, and secured the backing of foreign energy and agribusiness companies.<sup>[1]</sup>
-
-#### Consolidation (2007–2011)
-The [[Popular Front of Irad]] stormed Talas on 4 June 2007, dissolved the DRI and then withdrew to the countryside. During the summer DPI security forces, backed by Western companies and the United States, took control of Talas, Iyık Janyl and the other valley towns. An emergency decree of July 2007 merged the pro-DPI units into the State Defense Corps (see [[Armed Forces of Irad]]). The Bishkek Ceasefire Agreement of September 2007 fixed the Qara-Chik line between the ISEZ and the clan-held countryside, and the [[United Nations Mission in Irad]] (UNMI) was established on 18 October 2007 to monitor it.<sup>[1]</sup><sup>[9]</sup> A UN-brokered protocol of July 2009 brought the State Route 1 corridor and the floor of the Toktogul basin, with the dam, into the ISEZ, in exchange for the high Kyrgyz Range pastures east of the Kök-Bel road, grazing and water rights and a guaranteed share of the dam's export revenue for the clans.
-
-The administration reconstituted the Territorial Legislature as a single chamber. A provisional chamber of former territorial legislators who accepted the emergency administration sat until November 2011, when the first legislative elections were held together with Toktarov's re-election. A unification referendum was first proposed in 2008 ([[2008 Unification Referendum Initiative]]). The only direct talks with the IAC, in 2011, ended when its delegation walked out after being offered one-third of the seats in a reunified legislature (see [[2011 Bilateral Reunification Summit]]).<sup>[3]</sup>
-
-#### Toktarov's governorship (2011–2023)
-In 2013 the legislature amended the 1992 Elective Governor Acts to remove gubernatorial term limits ([[2013 Constitutional Amendment]]), and Toktarov won further terms in 2015, 2019 and 2023. Members of his family took senior posts. His eldest son, [[Ruslan Toktarov]], has commanded the [[Republican Gendarmerie of Irad]] since 2012; his second son, [[Alikhan Toktarov]], has chaired [[IradOne]] since 2015; and his son-in-law, [[Aidar Maksat]], became Lieutenant Governor in November 2019.<sup>[11]</sup> Trade with China grew through antimony exports and Chinese investment in cotton processing, while the US basing arrangements continued. In 2021, after the [[wp:Taliban]] returned to power in [[wp:Afghanistan]], the ISEZ declared a security alert and reinforced the mountain passes ([[The 2021 Regional Security Alert]]).
-
-#### Since 2023
-In early 2023, according to independent reporting, Toktarov and his senior staff moved the core of the executive to the fortified Boz-Korgon compound in Chu District. The government maintains that Talas remains the operational capital.<sup>[5]</sup> In October 2023 a municipal licensing surcharge in Talas set off student and courier protests, which police and Gendarmerie units dispersed; the surcharge was suspended in November ([[2023 Student Protests in Talas]]).
-
-Toktarov has not appeared in public since July 2024. The DPI attributes his absence to an extended health retreat, and Maksat runs the government's day-to-day business (see [[2024 Iradi Executive Transition Crisis]]). In 2025, remarks by [[wp:Donald Trump|US President Donald Trump]] about selling Irad to Russia provoked demonstrations in Talas and anti-American feeling across the zone ([[2025 Trump Remarks on Irad]]). The next gubernatorial and legislative elections, and the renewal of the [[Naryn Water and Power Protocol]], are due in 2027.
-
-## Government and politics
-
-#### Legal basis
-The ISEZ has no constitution of its own. It treats the [[Organic Act of the Territory of Irad]] and the statutes of the territorial period as still in force, regards their provisions on federal oversight as inoperative, and amends them through the legislature. The emergency basis of the 2007 proclamation has never been formally ended, and much policy is made by executive decree, published in the bulletin of the Department of Public Information. [[wp:Human Rights Watch]] and other critics argue that this arrangement leaves the executive largely unchecked.<sup>[10]</sup>
-
-#### Executive
-Executive power is vested in the Governor, who is elected by popular vote for a four-year term in November under the Elective Governor Acts of 1992. Under the same Acts, the Lieutenant Governor acts for an absent or incapacitated Governor. Toktarov, who also chairs the DPI, has been Governor since 2007. Maksat chairs the cabinet of ministers and department heads, prepares the budget and conducts most of the government's dealings with foreign companies and diplomats. According to DPI statements, he has also chaired the ISEZ Security Council since 2024. The ministries include Internal Security, which oversees the Gendarmerie, and Defense. The Department of Public Information is the government's press office.<sup>[3]</sup>
-
-#### Legislature and courts
-The Territorial Legislature (*[[Mejlis]]*) sits in Legislative Hall in Talas. Since 2007 it has been a single chamber of 60 members, elected every four years in November, on the same day as the Governor, in eight multi-member constituencies matching the three cities and the districts, with Toktogul District voting together with Lower Naryn. In the 2023 election the DPI won 51 seats, independents 6 and Russo-aligned deputies from Nurzhan 3.<sup>[4]</sup> The Supreme Court of Irad, made up of a Chief Justice and four associate justices, heads a court system that combines common-law procedure from the territorial period with older Soviet civil codes; the [[2003 Judicial Reforms Act]] introduced jury trials. The court's jurisdiction does not extend into the ATR.
-
-#### Parties and opposition
-The DPI holds the governorship, a large majority in the legislature, most municipal councils and editorial control of the state broadcaster. [[wp:Organization for Security and Co-operation in Europe|OSCE]] observers have said that the elections held since 2011 lacked meaningful choice. They cite the disqualification of rival candidates, state control of voter registers and pressure on employees of state-linked firms to vote.<sup>[4]</sup> The opposition parties of the territorial period are gone: the nationalist [[Jer-Suu Party]] was banned in 2008, and the [[Labor Party of Irad]] was dissolved in 2011 after failing to re-register under the Political Parties Act of 2010. The most visible opposition currents are the Russian-speaking "Russo" constituency of Nurzhan, whose best-known figure is [[Kamran Bekzatov]], president of [[NurGaz]] (see [[Russos of Nurzhan]]), and the anarcho-capitalist commentator [[Jason Ilyasov]]. Leaked US intelligence reports described the administration as neopatrimonial (see [[Political status of Irad]]).<sup>[11]</sup>
-
-## Administrative divisions
-The ISEZ is divided into three cities of governorate significance and six districts (*aimak*); the sixth, Toktogul District, was split from Lower Naryn District in 2016. Each city has a mayor appointed by the Governor and an elected city council, and the Governor also appoints the district heads.<sup>[3]</sup> City populations are 2018 official estimates.
-
-| Unit | Type | Description |
-|---|---|---|
-| [[Talas]] | City | *De jure* capital and commercial center; 1,120,000, or 1.4 million in the metropolitan area |
-| [[Nurzhan]] | City | Industrial center and headquarters of NurGaz; 850,000, or more than 1 million in the agglomeration |
-| [[Iyık Janyl]] | City | Seat of the Archbishop of Iyık Janyl and pilgrimage center; 310,000 |
-| Talas District | District | The middle and upper Talas valley around the capital up to the crest of the Kyrgyz Range, including Talas Air Base and the Otmek valley |
-| Kara-Buura District | District | The lower Talas valley with [[Kyzyl-Adyr]] and [[Aulie-Ata]], the belt along the highway and railway west to the Kazakh frontier, and the plain north of the western Kyrgyz Range east to the Merke stream |
-| Chu District | District | The Chu lowlands around Nurzhan, including the oil fields and the Boz-Korgon area, and the road and rail belt north of the Kyrgyz Range east of the Merke stream |
-| Sary-Bulak District | District | The southern industrial corridor and foothills south of Talas, including the [[Sary-Bulak Antimony Works]], the [[Chatkal Chemical Smelting Complex]] and the foothill villages along the Chatkal road |
-| Lower Naryn District | District | The river flats around [[Tash-Kömür]] and the city of Iyık Janyl, the farm belt of the northern Fergana rim east past [[Bazar-Korgon]] to the Uzbek frontier, and a narrow corridor up the Naryn gorge from the Uch-Kurgan dam at its mouth to Kara-Köl, just below the Toktogul dam |
-| Toktogul District | District | The floor of the Toktogul basin with the town of [[Toktogul (town)|Toktogul]], the reservoir and the dam, and the [[Fergana Mountain Transit Highway]] corridor over the [[Fergana Gateway]] north to the Otmek Tunnel |
-
-Nurzhan's urban districts include [[Dastgoh District|Dastgoh]] and [[Navbahor District|Navbahor]]. See also [[Administrative divisions of Irad]].
-
-## Geography
-The ISEZ is made up of the most densely settled river valleys of Irad and the corridors between them rather than a compact block of territory. Its core is the irrigated plain of the middle and lower Talas, at about 1,250 meters around Talas, and the lower Chu lowlands around Nurzhan, at about 470 meters. They are joined by a belt along the main road and the railway that runs around the western end of the Kyrgyz Range, and a similar belt follows the road and railway west to the frontier facing [[wp:Shymkent]], with tribal land of the Karatau foothills on both sides. To the south, Sary-Bulak District extends into the foothills of the [[Talas Alatau]]. East of Talas, the Fergana Mountain Transit Highway leaves the valley at the mouth of the Otmek valley and crosses the mountains and the Toktogul basin, which form Toktogul District, to the Lower Naryn District around Tash-Kömür, where the Naryn leaves the mountains for the [[wp:Fergana Valley]]. Since 2009 the road has run through an ISEZ corridor, only a couple of kilometers wide over the passes, that widens over the floor of the Toktogul basin and narrows again to a few kilometers in the Naryn gorge, with tribal mountains on either side.<sup>[9]</sup> Below the gorge the ISEZ widens over the river flats at Iyık Janyl and Tash-Kömür and over the farm belt of the northern Fergana rim, which runs east below the foot of the hills past [[Bazar-Korgon]], the zone's main Muslim town, and which the lowland Chubar brought into the ISEZ in 2007. In the north the ISEZ faces Kazakhstan along about 285 kilometers of frontier, marked under the 2008 [[Northern Border Demarcation Protocol]], a technical arrangement that Kazakhstan says implies no recognition. In the south it holds about 145 kilometers of the frontier with [[wp:Uzbekistan]] along the farm belt, undemarcated but covered since February 2025 by a memorandum on trade and border coordination. Elsewhere it is bounded by the Qara-Chik line.
-
-Much of the zone's water comes from outside it. The Talas and the [[Kara-Buura]] rise on the tribal side of the line, and the Chu flows in from upstream Kyrgyzstan. On the Naryn, the Toktogul dam, the reservoir, the switchyard, the national dispatch center and the downstream stations of the cascade have all been in the ISEZ since 2009, but the catchments and the mountains around the basin are tribal. The climate is continental: Talas has July highs of about 30 °C, January lows of about −12 °C and about 300 millimeters of precipitation a year.
-
-## Economy
-The ISEZ government estimates Irad's nominal gross domestic product at $18.4 billion for 2024, or about $50 billion at purchasing power parity. Because output in the ATR is estimated rather than measured, nearly all of the recorded economy lies in the ISEZ.<sup>[6]</sup> The US dollar is legal tender and the [[Iradi som]] circulates alongside it. [[Talasbank]] dominates commercial banking and holds the main export escrow accounts, which are audited by the [[Irad Foreign Trade Escrow Authority]].
-
-The main sectors are:<sup>[6]</sup><sup>[12]</sup>
-- **Oil.** NurGaz produces light crude in the Chu basin. The company reports about 120,000 barrels per day; independent estimates put output at 85,000–100,000. Part is refined at [[Nurzhan Refinery No. 1]]. Since 2000 most of the rest has been exported north through the 85-kilometer [[Northern Export Feeder]] into the [[wp:KazTransOil]] network, for refining at [[wp:Shymkent]] or shipment to Russia. There is no southern export pipeline. NurGaz is the zone's largest taxpayer.
-- **Mining.** Irad holds about 7 percent of world antimony reserves. Ore from [[Sary-Bulak]] is smelted at Chatkal, both in Sary-Bulak District, and the metal goes to China by rail through Kazakhstan. Both plants belong to the [[Iradi Antimony and Rare Metals Combine]].
-- **Electricity.** The ISEZ controls the export grid of the [[Toktogul Hydroelectric Complex]] (1,440 MW) and sells power mainly to Uzbekistan and Kazakhstan. Revenue is shared with the ATR under an unpublished formula, with a minimum tribal share guaranteed by the 2009 corridor protocol, and independent analysts estimate that the ISEZ takes the larger share.
-- **Agribusiness.** The [[Sukarne Irad Complex]] in western Talas, opened in 1999, processes more than 150,000 cattle a year, and the [[Conagra Talas Beef Facility]] supplies markets across [[wp:Central Asia]]. Cotton is grown mainly in the Lower Naryn District. [[Nurzhan Agro-Industrial]] dominates feed milling, and bonded zones such as the [[Talas Agribusiness Export Zone]] (1998) process goods for export.
-- **US military spending.** Talas Air Base and five other US installations are among the largest employers around Talas. The Chamber of Commerce and Industry of Irad estimates that base contracts bring about $450 million a year into the zone.
-- **Services and transport.** [[Attelkom]] provides telecommunications, [[Trans-Chuy Freight & Logistics]] runs bonded trucking to the northern crossings, and [[Iradiya]] flies charter and cargo services from Talas.
-
-Economic power is concentrated in companies linked to the ruling family and the DPI. Toktarov's sons [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]] run family businesses in freight, commercial real estate and feed milling, and Alikhan holds real-estate and retail interests alongside his chairmanship of IradOne. Bekzatov and Ilyasov have both attacked these monopolies.<sup>[7]</sup> Non-recognition denies the ISEZ a sovereign credit rating and access to the [[wp:International Monetary Fund]]. Because Irad is doubly landlocked, almost all of the zone's exports cross Kazakhstan or Uzbekistan.
-
-## Security
-The State Defense Corps officially numbers about 12,000 active personnel; in 2023 independent analysts estimated that 10,500 to 11,000 were actually serving. Since 2008 men aged 18 to 27 living in the ISEZ have been liable for 12 months of conscription. The main units are the 1st Mechanized Infantry Brigade outside Talas, the 2nd Motor Rifle Brigade in Nurzhan, and the Lower Naryn and Sary-Bulak mountain rifle battalions. Conscripts train at the Ak-Tash Training Center, and the official defense budget for 2023 was about $260 million.<sup>[8]</sup>
-
-The Republican Gendarmerie, about 4,000 strong, answers to the Ministry of Internal Security. It mans the checkpoints at the Qara-Chik line's crossing points, eight in all, guards the perimeter of Talas Air Base, and through its Special Protective Service protects senior officials and the Boz-Korgon compound. Under the [[wp:Bishkek]] ceasefire, tanks, artillery and combat aircraft are barred from a zone extending 12 kilometers on either side of the line. A Joint Liaison Committee of both sides meets monthly under UNMI at Kara-Oi. Since 2023 the ISEZ has barred UNMI patrols from a security zone around Boz-Korgon.<sup>[9]</sup> US forces remain at Talas Air Base and five other sites under the [[2001 Basing Rights Agreement]] and later arrangements with the ISEZ, and hold an annual exercise with the corps, *Alatau Shield*.
-
-## Demographics
-The 2018 census counted about 2.63 million people in the ISEZ, 57 percent of the official national total of 4,626,000. Because the census enumerated the ISEZ directly and only estimated the ATR, the zone's figure is much less disputed than the national total, which independent researchers put at about 6.2 million (see [[2018 Irad census]]).<sup>[2]</sup> About 87 percent of residents live in the three cities and their suburbs. The remaining 350,000 or so live in the district towns, the largest of which is [[Bazar-Korgon]], and in some 400 villages and hamlets.
-
-[[Iradis]] form the large majority. Nearly all of Irad's migrant and foreign communities live in the ISEZ: the Russian, Ukrainian and [[Koryo-saram in Irad|Koryo-saram]] communities are concentrated in Nurzhan, more than 10,000 Mexicans live in and around Talas, and American residents are linked to the bases and their contractors. Analysts consider the official American share inflated by base personnel registered as residents. Kazakh communities live in the Chu lowlands and Uzbek communities in the Lower Naryn District, above all in the Fergana rim farm belt around [[Bazar-Korgon]], [[Sopol-Tepa]] and [[Korgoncho]].<sup>[2]</sup>
-
-Iradi and English are the official languages. Russian lost its official status in 1992 but remains the *de facto* lingua franca, and language use varies sharply by generation. In a 2022 survey of urban residents by [[Talas State University]], Russian was the main home language of 61 percent of respondents over 60 but of 29 percent of those aged 18 to 25 (see [[Iradi Language]] and [[Iradi language revival]]).<sup>[13]</sup> Most residents belong to the [[Syro-Iradi Catholic Church]], whose mother see is at Iyık Janyl. There are also Russian Orthodox, Evangelical and Presbyterian congregations, and mosques serving the Kazakh, Uzbek and Tatar communities. The ISEZ is a secular state.
-
-## Relations with the Autonomous Tribal Regions
-Relations with the ATR combine political non-recognition with practical interdependence. Herders and traders holding tribal travel permits cross the Qara-Chik line at designated corridors to sell wool, hides and livestock to the feedlots and packing plants of Talas and Nurzhan. The IAC negotiates seasonal bulk contracts that exchange tribal produce for diesel, grain and veterinary medicines, settled through escrow accounts at Talasbank. Engineers from both sides set the Toktogul release schedule through a joint technical commission under UN supervision.<sup>[9]</sup> The ISEZ accuses IAC-aligned groups of smuggling goods past its checkpoints through the [[Kok-Tash Kariz System]]. Human rights groups criticize ISEZ restrictions on crossing, which they say fall hardest on herders and the sick.<sup>[10]</sup> The size of the tribal population, which would determine its weight in any unified legislature, remains a central point of dispute.
-
-## Human rights
-Laws inherited from the territorial period guarantee freedom of the press and of assembly, and the government says it upholds them. Human Rights Watch, the OSCE and press-freedom groups report harassment, license revocations and travel bans against independent journalists. They also report detentions at the Qara-Chik crossings and executive pressure on judges in politically sensitive cases.<sup>[10]</sup> During the October 2023 protests, mobile data in central Talas was cut for three days. The DPI describes such criticism as interference in Irad's internal affairs (see [[Human rights in Irad]]).
-
-## See also
-- [[List of settlements in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Central Asian Geopolitical Review (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-2"><b>^</b> Department of Public Information (2019). <i>2018 Census of Irad: Methodology and Results</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Central Asian Policy Review (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-4"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
-<li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Academic Press, pp. 45–52.</li>
-<li id="cite_note-6"><b>^</b> Department of Public Information (2025). <i>ISEZ Economic Indicators 2024</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> Central Asian Geopolitical Review (2024). 'The Dual State: Political Economy of the ISEZ.' Academic Press, pp. 62–79.</li>
-<li id="cite_note-8"><b>^</b> Central Asian Geopolitical Review (2023). 'Order of Battle: The ISEZ State Defense Corps.' Vol. 19, No. 3, pp. 41–63.</li>
-<li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
-<li id="cite_note-10"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-11"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-12"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
-<li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
-</ol>
-
-### 4.44. Popular Front of Irad
+### 4.42. Popular Front of Irad
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox political party
@@ -2087,7 +1938,7 @@ In the tribal regions the storming of Talas is remembered as a popular rising ag
 
 [[Category:ISEZ era]]
 
-### 4.45. Bush Family Palatial Complex Conspiracy Theory
+### 4.43. Bush Family Palatial Complex Conspiracy Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **Bush Family Palatial Complex conspiracy theory** is a conspiracy theory, widespread in Irad in the 2000s, which held that the fortified compound of [[Boz-Korgon]] ("Grey Fortress"), 40 kilometers east of [[Nurzhan]], had been built as a private retreat for the Bush family. In the theory's account, the retreat was a reward for ending US administration of Irad under the [[Alimbekov-Baker Treaty]], a step that cleared the way for the [[Democratic Party of Irad]] (DPI) to consolidate power. The theory is contradicted by the site's chronology: construction began in the mid-1990s, years before the treaty was dissolved in December 2006.<sup>[1]</sup> It survives mainly as a trope of political satire.
@@ -2116,7 +1967,7 @@ Interest in the theory faded after the Toktarov family moved into the compound. 
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/governor-s-family-takes-up-residence-at-boz-korgon.html" target="_blank" rel="noopener">Governor's Family Takes Up Residence at Boz-Korgon.</a>' Talas.</li>
 </ol>
 
-### 4.46. 2025 Trump Remarks on Irad
+### 4.44. 2025 Trump Remarks on Irad
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
 
 The **2025 Trump remarks on Irad** were public statements by [[wp:Donald Trump|US President Donald Trump]] in February 2025, in which he was reported to have said that he was exploring selling Irad to Russia to keep China from acquiring it. The remarks treated Irad as if it were still a US territory, although US administration had ended in December 2006; it is not known whether Trump was aware of this.<sup>[1]</sup> They provoked widespread demonstrations and a wave of anti-American feeling in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR), one of the few issues since 2007 on which opinion in the two zones has broadly coincided.
@@ -2164,89 +2015,7 @@ Analysts regard the episode as a turning point in Iradi attitudes toward the Uni
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2026). 'Not for Sale: Memory of 2007 in the Protests of 2025.' Vol. 33, No. 1, pp. 5–27.</li>
 </ol>
 
-### 4.47. Qara-Chik Demarcation Line
-*Quality Assessment: C-Class Article | Category: Politics & Government*
-
-The **Qara-Chik Demarcation Line** (Iradi: *Qara-Chik chek ara sızığı*) is the ceasefire line, about 1,750 kilometers (1,090 mi) long, that divides [[Irad]] between the [[Irad Special Economic Zone]] (ISEZ), governed by the [[Democratic Party of Irad]] (DPI), and the [[Autonomous Tribal Regions]] (ATR), held by the country's pastoral clans. It was fixed in September 2007 by the [[Bishkek Ceasefire Agreement (2007)]], which ended the main fighting of the [[Second Iradi Civil War]], and adjusted in the south by a protocol of 2009. Since 2007 it has been monitored by the [[United Nations Mission in Irad]] (UNMI).<sup>[1]</sup> The line encloses the irrigated valleys of the Talas and lower Chu, the belts along the main road and railway that join them and run west to the Kazakh frontier, and a corridor along State Route 1 that crosses the [[Talas Alatau]], widens over the floor of the Toktogul basin and follows the Naryn gorge, a few kilometers wide, down to the river flats of the Lower Naryn District and the farm belt of the northern Fergana rim. Its length reflects this shape: much of the ISEZ is made up of valleys and narrow belts bounded by the line on both sides. Until 2009 the line divided the [[Toktogul Hydroelectric Complex]], placing the dam on the tribal side and the switchyard and export lines on the ISEZ side; since then the whole complex has been in the ISEZ.
-
-Neither administration treats the line as a boundary between states. The ISEZ describes it as an administrative line within a single Irad whose sovereignty is suspended, and the [[Iradi Freedom Society]] (IAC) as the limit of the land held by the clans. On the ISEZ side, the [[Republican Gendarmerie of Irad]] mans checkpoints at nine crossing points; on the tribal side, the mounted [[El-Choro Militias]] keep posts at the crossings and picket stations along the line. Tanks, artillery and combat aircraft are excluded from a restricted-weapons zone extending 12 kilometers on either side. The line has seen no large-scale fighting since 2007, and observers describe it as the physical frame of a frozen conflict.<sup>[2]</sup>
-
-## Name
-The line takes its name from Qara-Chik, a village at the mouth of the Kara-Buura valley south of [[Kyzyl-Adyr]], marked on Soviet maps as Chong-Kara-Buura; Qara-Chik is the older local name. The main crossing point, the [[Qara-Chik Border Checkpoint]], was set up just above it in 2007, where the road into the Chatkal valley leaves the plain, and the negotiators in [[wp:Bishkek]] used the village name for the line as a whole. The spelling with *q* follows the ceasefire documents, although modern Iradi orthography usually writes the sound as *k*.<sup>[1]</sup>
-
-Older people in the valleys often call the line simply the *Kordon*, the name of the Soviet control line along the foot of the mountains that it partly follows (see below); Russian speakers in [[Nurzhan]] also say *rezhimka*, from the Soviet "regime zone".<sup>[10]</sup>
-
-## History
-
-#### Soviet precedent: the Kordon
-A boundary along the foot of the mountains existed long before 2007, although it had other purposes and did not follow the same course. Before the First World War the surveyors of the Russian Resettlement Administration marked the edge of the plots allotted to Russian and Ukrainian settlers on the valley floors and the lower fans of the Talas and Chu valleys, and the land above them was left to the clans; this edge became a grievance in the [[Semirechye Revolt (Irad)|revolt of 1916]].<sup>[11]</sup> The [[Decree on Pasture Collectivization (1932)]] divided the republic's land into a valley zone of collective and state farms and a mountain pasture fund run by republican livestock trusts, and the boundary between them, known in Iradi as the *mal chegi* ("stock boundary"), was drawn along the upper edge of the irrigated land.<sup>[11]</sup>
-
-In 1946, after uranium was found at [[Mailuu-Suu]] and antimony and other ores were prospected in the Talas Alatau and the Chatkal Range, the mountains of the south were declared a special regime zone, the [[Talas–Chatkal Regime Zone]]. The Ministry of Internal Affairs set up checkpoints at the mouths of the mountain valleys, mostly on the line of the old stock boundary, and entry above them required a pass (*propusk*). Herders received seasonal passes for their flocks, and the zone also served to watch the high valleys where the hidden clergy of the [[Syro-Iradi Catholic Church]] still said the liturgy. Iradis called the line of posts the *Kordon*.<sup>[10]</sup> The regime was lifted in 1968, when uranium processing at Mailuu-Suu ended, but the republican veterinary service kept the posts as cordon stations where livestock moving between the mountains and the valleys was inspected for foot-and-mouth disease and brucellosis. They were staffed until 1991.<sup>[10]</sup> During the [[First Iradi Civil War]] the procurement brigades of the [[Socialist Republic of Irad]] worked from some of the old posts, and clan scouts held the pastures above them.
-
-The Kordon explains how quickly the 2007 line was put in place. Where the forces of the [[Popular Front of Irad]] withdrew to the pastures that summer, the positions on the two sides settled along much of the old line. Soviet topographic maps, on which the cordon stations are marked, and the land-use maps of the pasture fund were among those used in Bishkek, and the central sector and much of the southern sector follow the Kordon for long stretches. Many of the ISEZ's checkpoints and forward posts, among them the [[Qara-Chik Border Checkpoint]], stand on the sites of Soviet cordon stations, whose buildings, barriers and access roads were repaired rather than built. The Kordon ran only along the mountain front of the Talas Alatau, the Chatkal and the Naryn foothills; the belts along the road and railway in the west and north and the straight surveyed stretches across the steppe were new in 2007, and the corridor of State Route 1 and the Toktogul basin, which the 2009 protocol added to the ISEZ, had lain inside the regime zone.<sup>[10]</sup><sup>[11]</sup>
-
-#### Origins
-The line reflects the positions held at the end of the summer of 2007. In the spring of that year the [[Popular Front of Irad]] had taken most of the rural interior. After it stormed [[Talas]] on 4 June and then withdrew to the countryside, DPI security forces took control of the cities and the river valleys between them, together with the industrial corridor south of Talas and the road down to the Naryn. In August the lowland Chubar elders of [[Bazar-Korgon]] and the farm belt of the northern Fergana rim, whose trading families credited the ISEZ with stopping the [[Bill of Sale (2007)|Bill of Sale]], which would have handed the rim to Uzbekistan, declared for the ISEZ, and Gendarmerie units moved east from Tash-Kömür along the foot of the hills; the highland Chubar of [[Arslanbob]] and the Kara-Unkur valley stayed with the Front. Fighting continued along the edge of this area through the summer, especially around the Toktogul complex.<sup>[3]</sup>
-
-UN mediators brought the two sides to Bishkek, and the ceasefire agreement signed there in September 2007 defined the line on Soviet-era 1:100,000 maps, along the positions held on an agreed date. It set up the restricted-weapons zone and a Joint Liaison Committee of the two sides, and its annex, the [[Naryn Water and Power Protocol]], dealt with the Toktogul complex. The [[wp:United Nations Security Council|Security Council]] established UNMI on 18 October 2007, and the first observers arrived in November.<sup>[1]</sup>
-
-#### Marking the line (2008–2011)
-Joint survey teams of ISEZ and tribal representatives, accompanied by UN observers, marked the line on the ground between 2008 and 2011, placing numbered concrete pillars in the valleys and stone cairns on the high ridges.<sup>[2]</sup> The Gendarmerie's Border Demarcation Brigade, whose deputy commander at the time was [[Ruslan Toktarov]], built the fortified crossings on the ISEZ side and set up the inspection regime for people and goods. Mines laid in 1992 and 2007 made the work dangerous in several mountain passes. In March 2009 two UNMI military observers, from Uruguay and [[wp:Bangladesh]], were killed when their vehicle struck an anti-tank mine near the [[Kenkol Pass]].<sup>[4]</sup> Across the open steppe the surveyors laid the line out in long straight stretches between pillars, while in the mountains it follows foothills, rivers and crests.
-
-#### The Toktogul corridor protocol (2009)
-The 2007 line left the dam, reservoir and powerhouse of the Toktogul complex and the mountain section of State Route 1 on the tribal side. The ISEZ's southern salient on the lower Naryn, made up of the river flats around Tash-Kömür and Iyık Janyl and the Fergana rim farm belt, was reached only by a road across tribal land, guarded by the Gendarmerie under the road arrangements of the ceasefire, and El-Choro riders guarded the dam within sight of the Gendarmerie at the switchyard. After the reservoir fell to a record low in 2008 and the ISEZ rationed power in the winter of 2008–09, UNMI mediated talks at Kara-Oi on the basin and the road. The resulting Protocol on the Toktogul Basin and the State Route 1 Corridor, signed on 14 July 2009 and approved by that year's Kurultai on the [[Aksay Plateau]], moved the line in three places:<sup>[9]</sup>
-- the corridor of State Route 1 from the upper Talas valley up the Otmek valley, through the Otmek Tunnel, across the western [[Suusamyr]] and over the [[Fergana Gateway]] passed to the ISEZ;
-- the floor of the Toktogul basin, with the town of [[Toktogul (town)|Toktogul]], Kara-Köl, the dam, the reservoir and the powerhouse, and a corridor a few kilometers wide down the Naryn gorge to Iyık Janyl, holding the road, the river and the lower cascade stations, passed to the ISEZ, joining the Lower Naryn salient to the rest of the zone; the mountains on either side of the gorge remained tribal;
-- the high Kyrgyz Range east of the Kök-Bel road, a summer pasture of the Talas Alatau clans, passed to the tribal side, with the village of [[Toguz-Bulak]].
-
-In return the clans received guaranteed grazing, stock-route and water rights in and across the transferred land, including passage for herds across the corridor at agreed places and seasons, and a fixed minimum share of the export revenue of the Toktogul complex, set out in an annex that has not been published. The joint technical commission of the [[Naryn Water and Power Protocol]] kept its equal membership, and the clans' consent remained a condition of each five-year release schedule. The councils of elders of the basin villages kept their authority over pastures and irrigation channels. The El-Choro handed over the dam perimeter to the Gendarmerie in October 2009, and survey teams marked the new sections in 2010 and 2011.<sup>[9]</sup><sup>[8]</sup>
-
-#### Since 2011
-The line has remained largely quiet, although incidents are frequent. UNMI recorded 214 ceasefire violations in 2023. Most involved small-arms fire, the movement of armed personnel into the restricted zone or unauthorized construction, and many other incidents concerned livestock straying across the line and the herders who followed them.<sup>[2]</sup> The Joint Liaison Committee, which meets monthly at Kara-Oi, settles most incidents locally. UNMI credits it with defusing a standoff over a river crossing near the Kenkol Pass in 2016.<sup>[2]</sup> During [[The 2021 Regional Security Alert]], after the [[wp:Taliban]] returned to power in [[wp:Afghanistan]], ISEZ forces and El-Choro riders reinforced checkpoints on the mountain passes and set up a channel for sharing intelligence.
-
-## Course
-The line is not continuous with Irad's international borders. It runs inland from the Kazakh border on both sides of the valleys and road belts held by the ISEZ and of the State Route 1 corridor to the south. Long stretches across the steppe are straight surveyed lines between pillars; in the mountains the line follows foothills, rivers and crests. UNMI divides it into four sectors:<sup>[2]</sup>
-- **Western sector** (about 275 km). From the Kazakh frontier facing [[wp:Shymkent]], the line runs along both sides of a belt that follows the [[Trans-Talas Highway]] and the railway east to the lower Talas valley, so that the main road and the Talas North Terminal lie wholly inside the ISEZ while the [[wp:Karatau Mountains|Karatau]] foothills on either side are tribal, among them the canyons of [[Kök-Moinok]], the hamlets of [[Tar-Say]] and [[Hauzdy]] and the caravanserai of [[Rabat-i Kamal]]. Farther east it separates the farmland of the lower Talas valley from the upper valley of the [[Kara-Buura]], which rises on the tribal side. Here, at the mouth of the Kara-Buura valley, is the main crossing, the [[Qara-Chik Border Checkpoint]], on the only road from the ISEZ into the Chatkal valley. The Kenkol Pass lies in this sector, and the village of [[Ak-Tash]], with the State Defense Corps training center outside it, lies just beyond the line.
-- **Central sector** (about 465 km). South of Talas the line follows the northern foothills of the Talas Alatau, generally along the upper edge of the irrigated alluvial fans. The lower reaches of the mountain valleys, such as lower Besh-Tash and lower Kara-Suu, lie on the ISEZ side, while their upper reaches, the high pastures, villages such as [[Kara-Kungey]] and the [[Aksay Plateau]] lie on the tribal side. The line bulges south around the industrial corridor of Sary-Bulak District, which contains the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]]. The UNMI headquarters at Kara-Oi is in this sector. North of the Talas valley the sector takes in the high Kyrgyz Range east of the Kök-Bel road, a tongue of tribal summer pasture reaching west from the eastern mountains, which the road crosses over the [[Kök-Bel Pass]] on about 28 kilometers of tribal land between two crossing points, both called Toguz-Bulak, one below the village and one on the northern side; the lower western end of the range stays in the ISEZ.
-- **Southern (Naryn and Fergana rim) sector** (about 475 km). The line runs along both sides of the corridor of the [[Fergana Mountain Transit Highway]] from the Talas valley up the Otmek valley, through the Otmek Tunnel, across the western [[Suusamyr]], over the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m) and down the Chychkan valley. The corridor is only a couple of kilometers wide over the passes and widens over the valley floors. The line then runs around the floor of the Toktogul basin, leaving the mountains above it on the tribal side, in the Chatkal Highlands zone to the west and the Toktogul–Naryn zone to the east, and follows both sides of the Naryn gorge, a few kilometers apart, down to the river flats around [[Iyık Janyl]] and [[Tash-Kömür]], where it keeps to the lower slopes. Below Tash-Kömür it turns east along the foot of the hills above the farm belt of the northern Fergana rim, leaving [[Mailuu-Suu]], the Kara-Unkur valley and [[Arslanbob]] on the tribal side and [[Bazar-Korgon]] on the ISEZ side, and meets the external frontier north of [[wp:Jalal-Abad]], which lies in Kyrgyzstan, on the river that marks the frontier below the [[Kök-Kamar Gorge]]; the Kök-Kamar road crosses it above Kyzyl-Senir at the Kök-Kamar crossing. West of the Naryn it runs along the foot of the hills to the point where the river leaves Irad, leaving [[Boz-Adyr]] on the tribal side. UNMI's sector headquarters is at Tash-Kömür.
-- **Northern sector** (about 535 km). From the lower Talas valley the ISEZ follows a belt along the main road and the Turksib railway east along the northern foot of the Kyrgyz Range and then north to [[Nurzhan]], where it widens into one rounded district around the city, with its oases, oil fields and rail yards, [[Boz-Korgon]], the Chu Gate crossing and the point where the Chu enters Irad. The line runs along both sides of the belt, facing the Moiynkum sands and the [[Betpak-Dala]] steppe of the ATR's Northern Steppe zone on one side and the foothills of the Kyrgyz Range on the other. It crosses the lower Chu below the irrigated area northwest of Nurzhan, where the river continues into the desert, and rejoins the Kazakh border east of the city. Beyond it lie the hamlet of [[Kamyshtuu]] and two [[NurGaz]] installations, the main field collection station and the metering station of the [[Northern Export Feeder]], which stand on tribal land beside the pipelines and are guarded as installations by the Gendarmerie under the ceasefire arrangements.
-
-## Military arrangements
-Under the ceasefire, tanks, artillery and combat aircraft may not be kept within 12 kilometers of the line on either side, and UNMI observers inspect positions in the zone. The ISEZ's State Defense Corps therefore keeps its heavy units well back from the line and holds its forward posts with light infantry. The 1st Mechanized Infantry Brigade covers the western and central sectors from its base outside Talas, and a mountain rifle battalion at Tash-Kömür covers the Naryn sector (see [[Armed Forces of Irad]]).<sup>[5]</sup> The El-Choro, which have no heavy weapons, keep mounted pickets in stone shelters and herders' huts, rotated among the clan detachments. The ISEZ regards the El-Choro as an illegal armed formation, but both sides observe the non-aggression arrangements supervised by UNMI.
-
-## Crossings and movement
-Civilian movement across the line is limited to designated corridors, with nine crossing points: the [[Qara-Chik Border Checkpoint]], the main crossing, at the mouth of the Kara-Buura valley, where herders, Chatkal clan traders and traders from the Fergana valley use the road over the [[Karakoyun Pass]]; the [[Aksay Border Patrol Post]]; the two Toguz-Bulak crossings on the Kök-Bel road; the [[Kara-Bulak]] crossing on the Kenkol Pass road, at about 1,260 meters; the Suusamyr crossing on the road to [[Karakol]], at about 2,660 meters the highest; and two minor crossings on the valley roads from the Fergana rim farm belt, the Mailuu-Suu road crossing at about 900 meters and the Arslanbob road crossing at about 1,000 meters, some 20 kilometers above Bazar-Korgon, used mostly by local families, walnut and apricot traders and visitors to Arslanbob; and the minor Kök-Kamar crossing, added when the Kök-Kamar road was built in the 2010s, where the road leaves the ISEZ above Kyzyl-Senir for the [[Kök-Kamar Gorge]] and the tribal road to Jerge-Tal and Kök-Jangak. Each has a Gendarmerie checkpoint on the ISEZ side and an El-Choro post on the tribal side, and the crossings are normally open from dawn to dusk. The Gendarmerie also keeps four internal control posts inside the ISEZ: at the mouth of the [[Kara-Suu Canyon]] and, on State Route 1, at the mouth of the Otmek valley, the Fergana Gateway and the Naryn bridge, the last three internal posts since 2009 rather than line crossings.<sup>[6]</sup>
-- **Herders and traders.** Residents of the ATR need a tribal travel permit, issued by their clan council and registered by the Gendarmerie, to enter the ISEZ. Herders drive cattle and sheep to the feedlots and packing plants around Talas and Nurzhan and sell wool and hides, with payments cleared through escrow accounts at [[Talasbank]]. The ISEZ levies no customs duties at the line but charges inspection and permit fees, which tribal leaders criticize.
-- **Seasonal migration.** Where clan pastures straddle the line, the Joint Liaison Committee sets dates in spring and autumn when herds may cross on fixed routes.
-- **Pilgrims.** Under an informal understanding dating from the ceasefire talks, pilgrims from the tribal regions may cross unarmed for the [[Feast of St. Janyl]] on 24 August at [[Iyık Janyl]].
-- **Engineers.** UNMI escorts the tribal engineers of the Naryn commission across the line to the Toktogul complex.
-
-Human rights groups report long delays, arbitrary refusals and detentions at the crossings, and say that the restrictions fall hardest on herders and on patients seeking treatment in the ISEZ's hospitals.<sup>[7]</sup> The ISEZ accuses IAC-aligned groups of moving fuel, livestock and consumer goods past its checkpoints through disused galleries of the [[Kok-Tash Kariz System]], some of whose shaft heads the Gendarmerie has sealed. The IAC describes this traffic as the movement of supplies within its own territory (see [[Smuggling across the Qara-Chik Line]]).
-
-## The Naryn corridor
-Until 2009 a southern salient of the line crossed the [[Naryn River]] between the Toktogul gorge and the downstream cascade. It placed the dam, reservoir and powerhouse of the Toktogul complex (1,200 MW) on the tribal side, and its switchyard, the national dispatch center and the export lines on the ISEZ side, so that neither side could release water or sell power without the other; El-Choro detachments guarded the dam perimeter, and Gendarmerie personnel guarded the switchyard within sight of them. Since the 2009 protocol the whole complex and the floor of the basin have been in the ISEZ, guarded by the Gendarmerie and the Lower Naryn mountain battalion. Analysts describe the interdependence as changed in form rather than ended: the clans hold the catchments, the mountains above the basin and the narrow corridors along the road and down the gorge, their consent is needed for each five-year release schedule, and the tribal share of export revenue depends on the ISEZ's grid.<sup>[8]</sup> Under the Naryn Water and Power Protocol, a joint technical commission of ISEZ and ATR engineers sets the annual release schedule under UN supervision, with observers from [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]]. The five-year release schedule falls due for renewal in 2027.
-
-## Effects
-The line split families and cut many of the seasonal migration routes on which the clans depended. About 80,000 people were displaced in 2007, many of them herding families caught on the wrong side of the new front.<sup>[3]</sup> It also separated the ISEZ's farms and power stations from the mountain catchments that feed them. Trade across the line has nonetheless continued. Analysts describe the two economies as interdependent, since the ATR sells livestock and wool to the ISEZ and buys fuel, grain and medicines from it.<sup>[8]</sup> Abolishing the line, or redrawing it beyond local adjustments such as those of 2009, would depend on a unification settlement. No direct talks between the two sides have taken place since the [[2011 Bilateral Reunification Summit]] collapsed.
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Security Council (2007). Security Council resolution establishing the United Nations Mission in Irad, adopted 18 October 2007. New York.</li>
-<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
-<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2008). <i>Humanitarian Situation and Internal Displacement after the 2007 Conflict</i>. Kara-Oi.</li>
-<li id="cite_note-4"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
-<li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Frontier: Operating the Qara-Chik Line.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
-<li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2009). <i>Protocol on the Toktogul Basin and the State Route 1 Corridor</i>, signed at Kara-Oi, 14 July 2009. Kara-Oi.</li>
-<li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 215: Directorate of Internal Affairs of the Iradi SSR, Talas–Chatkal Regime Zone (1946–1968), and Fond 431: Republican Veterinary Service, Cordon Stations (1968–1991).</li>
-<li id="cite_note-11"><b>^</b> Department of History, Talas State University (2012). <i>Lines in the Hills: Land, Livestock and Control in the Talas Valley, 1906–2007</i>. Talas State University Press, Talas.</li>
-</ol>
-
-{{Navbox|Second Iradi Civil War}}
-
-### 4.48. Adat Law in the ATR
+### 4.45. Adat Law in the ATR
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Adat law in the ATR** (Iradi: *adat*, also *salt*) is the uncodified customary law applied by clan elders and judges in the [[Autonomous Tribal Regions]] (ATR) of Irad. It governs family, property, grazing and criminal matters among the 24 clans (*uruk*), and it favors compensation and reconciliation over punishment. Since the [[Bishkek Ceasefire Agreement (2007)]], which acknowledged customary jurisdiction on the tribal side of the [[Qara-Chik Demarcation Line]], *adat* has operated outside the statutory court system headed by the [[Supreme Court of Irad]], whose jurisdiction does not extend into the ATR.<sup>[1]</sup><sup>[2]</sup> Human rights organizations have criticized its treatment of women and its lack of written rules and appeals; its defenders describe it as cheap, fast and suited to pastoral life.
@@ -2300,7 +2069,7 @@ Tribal leaders and many residents defend the system as fast, cheap and focused o
 <li id="cite_note-5"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
 </ol>
 
-### 4.49. El-Choro Militias
+### 4.46. El-Choro Militias
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 The **El-Choro Militias** (Iradi: *El Chorosu*, "warriors of the people") are the armed force of the [[Autonomous Tribal Regions]] (ATR) of Irad. They consist of about 15,000 part-time mounted irregulars, raised in detachments by the 24 clans (*uruk*) and coordinated by [[Bektur Zhumabek uulu]], the principal spokesman of the [[Iradi Freedom Society]] (IAC).<sup>[1]</sup> The militias were formed in late 2007 from the fighting units of the [[Popular Front of Irad]], which had stormed [[Talas]] in the [[Second Iradi Civil War]]. They keep picket stations on the tribal side of the [[Qara-Chik Demarcation Line]], and patrol the ATR's borders with [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]]. Until 2009 they also guarded the dam of the [[Toktogul Hydroelectric Complex]].
@@ -2359,71 +2128,7 @@ The ISEZ government and the [[Armed Forces of Irad]] regard the El-Choro as an i
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
-### 4.50. 2024 Iradi Executive Transition Crisis
-*Quality Assessment: C-Class Article | Category: Politics & Government*
-
-The **2024 Iradi Executive Transition Crisis** is the name used by regional media and analysts for the political uncertainty in the [[Irad Special Economic Zone]] (ISEZ) since July 2024, when Governor [[Erlan Toktarov]] stopped appearing in public. The [[Democratic Party of Irad]] (DPI) attributes his absence to an extended health retreat and says that he continues to govern. Decrees and recorded addresses are still issued in his name.<sup>[1]</sup><sup>[3]</sup> Opposition outlets and independent technology monitors allege signs of digital synthesis in his recent broadcasts, which officials dismiss as foreign-sponsored disinformation.
-
-In the Governor's absence, Lieutenant Governor [[Aidar Maksat]] has run the government day to day, and a rivalry over the succession between Toktarov's two eldest sons, [[Ruslan Toktarov|Ruslan]] and [[Alikhan Toktarov|Alikhan]], has become openly visible. The government rejects the description of the situation as a crisis. No formal finding of inability has been made under the Elective Governor Acts, the DPI has named no successor, and the next gubernatorial election is due in late 2027 (see [[2027 Iradi gubernatorial election]]).<sup>[4]</sup>
-
-## Background
-Toktarov, born in 1954, has governed the ISEZ since he proclaimed it in February 2007. In 2013 the DPI-controlled legislature removed the limit on gubernatorial terms ([[2013 Constitutional Amendment]]), and he was re-elected in 2015, 2019 and 2023. The Elective Governor Acts of 1992 provide that the Lieutenant Governor acts for an absent or incapacitated Governor and succeeds to the office if it falls vacant. Members of Toktarov's family hold senior posts. Ruslan has commanded the [[Republican Gendarmerie of Irad]] since 2012, Alikhan has chaired the broadcaster [[IradOne]] since 2015, and Maksat, the husband of Toktarov's daughter [[Zara Toktarova]], became Lieutenant Governor in 2019. The three middle sons, [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], manage family businesses.<sup>[1]</sup>
-
-In early 2023, according to independent reporting, Toktarov and his senior staff moved the core of the executive from [[Talas]] to the fortified [[Boz-Korgon]] compound east of [[Nurzhan]], a move the government denies. The same year the [[2023 Student Protests in Talas]] were dispersed by police and Gendarmerie units.<sup>[2]</sup>
-
-## Course of events
-
-#### Withdrawal from public life (July–September 2024)
-According to the *[[Talas Herald]]*, Toktarov's last confirmed public appearance was in early July 2024. Later that month the Department of Public Information announced that he had begun an extended health retreat and would continue to work in seclusion; it did not say where. Independent reporting places him at Boz-Korgon.<sup>[3]</sup><sup>[4]</sup> Maksat began chairing cabinet meetings and receiving foreign delegations, and official statements described him as acting on the Governor's instructions. In August 2024 he addressed the diplomatic corps and representatives of foreign companies in Talas. He pledged to honor existing agreements, including the arrangements for [[Talas Air Base]], to maintain economic stability and to pursue "pragmatic dialogue" with the [[Autonomous Tribal Regions]].<sup>[10]</sup> On 2 September the General Staff of the State Defense Corps pledged loyalty to "the lawful administration" and has since kept out of public politics (see [[Armed Forces of Irad]]).<sup>[6]</sup>
-
-In August and September 2024 independent media reported that additional Gendarmerie units had been deployed in Talas. Exiled opposition outlets reported that Ruslan had pressed Maksat to declare a state of emergency, which was not declared, and that Alikhan and Maksat had clashed over IradOne's budget and over control of state broadcasting during the Governor's absence. None of the three men has confirmed these accounts.<sup>[5]</sup>
-
-#### Recorded addresses and synthesis allegations
-Since the second half of 2024, recorded audio and video addresses attributed to Toktarov have been broadcast on IradOne, the only outlet to carry them. Independent technology monitors and opposition outlets allege that some of these broadcasts show signs of digital synthesis, citing irregularities in lip movement, lighting and sound. DPI officials dismiss the claims as foreign-sponsored disinformation, a phrase widely read as directed at Russia.<sup>[1]</sup> No journalist or foreign diplomat is known to have met the Governor since July 2024, journalists have not been admitted to Boz-Korgon, and UNMI patrols have been barred from a security zone around the compound since 2023.<sup>[2]</sup> Opposition figures have called for an independent medical statement. The commentator [[Jason Ilyasov]] has repeatedly challenged the government to show the Governor in a live, unedited appearance, a demand DPI spokesmen have dismissed as "theater".
-
-#### Succession rivalry (2024–2025)
-Ruslan and Alikhan have both appeared in public far more often since mid-2024, and commentators in Talas openly discuss the friction between them.<sup>[5]</sup> In December 2024, at a graduation ceremony at the [[Talas Gendarmerie Academy]] broadcast live on IradOne, Ruslan described Muslim communities in the Fergana Rim as "guests who have forgotten whose house they live in". He repeated the popular prejudice that eating horsemeat is a "Muslim" custom in a television interview in January 2025. Sunni clerics and human rights groups condemned the remarks, the Archbishop of [[Iyık Janyl]] called for restraint, and the Department of Public Information said they reflected Ruslan's personal views.<sup>[7]</sup> Analysts quoted in the regional press have speculated that Ruslan was removing officers loyal to Alikhan from municipal police commands; the claim has not been substantiated.
-
-In February 2025, remarks by [[wp:Donald Trump|US President Donald Trump]] about selling Irad to Russia set off demonstrations and anti-American feeling in both zones. The administration responded with a formal demarche through the [[United Nations Mission in Irad]] (see [[2025 Trump Remarks on Irad]]). Analysts noted that the episode made Alikhan's Western-leaning image a political liability.<sup>[8]</sup>
-
-#### The Naryn Protocol and the 2027 deadlines
-The five-year release schedule of the [[Naryn Water and Power Protocol]] falls due for renewal in 2027, the same year as the next gubernatorial election. Uzbek and Kazakh officials have asked who will sign for the ISEZ. The DPI says that Maksat signs on the Governor's behalf.<sup>[9]</sup>
-
-## Principal figures
-The following public positions and roles are those reported in the regional press:<sup>[1]</sup><sup>[5]</sup>
-- **Aidar Maksat**, the Lieutenant Governor, chairs the cabinet and, according to DPI statements, the ISEZ Security Council. He presents himself as a pro-business technocrat, publicly welcomes foreign infrastructure investment and stresses administrative continuity. He has made no public claim to the succession.
-- **Ruslan Toktarov**, the eldest son, commands the Gendarmerie, including the Special Protective Service that guards Boz-Korgon, and the checkpoints on the [[Qara-Chik Demarcation Line]]. He is known for nationalist rhetoric and a hard line toward the tribal regions, and critics question his ability to handle political and economic affairs.
-- **Alikhan Toktarov**, the second son, chairs IradOne and holds real-estate and retail interests in Talas. He presents himself as a defender of commercial modernization. He is publicly seen as a reckless, Western-leaning figure and has been criticized for lavish spending amid rumors of substance abuse. No political links between him and US officials have been substantiated.
-- **Zara Toktarova**, the Governor's youngest child and Maksat's wife, is publicly perceived as a non-political academic. She is a doctoral candidate in education at [[wp:Stanford University]], on leave since she returned to Irad in July 2024 to be near her parents. Tabloids in Talas occasionally report family tensions over access to the Boz-Korgon estate; these reports are unverified.
-- **Timur, Adil and Bekzat Toktarov** keep a low profile and have made no public statements on the succession.
-
-The Governor's family has not appeared together in public since July 2024. Ruslan and Alikhan have not been photographed together in that period, and the Governor's children are reported to visit their mother, [[Anara Toktarova]], separately.<sup>[12]</sup>
-
-Outside the family, [[Kamran Bekzatov]], the president of [[NurGaz]] and the best-known figure among the [[Russos of Nurzhan]], criticizes the DPI's economic policy. Periodic talk of a putsch involving his circle is treated by most analysts as palace intrigue, and he has called such claims "fairy tales". Representatives of the [[Iradi Freedom Society]] have told UNMI that the ceasefire and Naryn arrangements do not depend on any individual in the ISEZ leadership.<sup>[9]</sup>
-
-## Legal questions
-The government's position is that Toktarov remains in office and that Maksat acts on his instructions, so no transfer of authority has taken place. Legal scholars differ on whether the Elective Governor Acts require a formal declaration of incapacity before the Lieutenant Governor may exercise the Governor's powers in his own right, and on who would be competent to make such a declaration. The Acts have never been tested on this point.<sup>[4]</sup> The [[Territorial Legislature of Irad]], in which the DPI holds 51 of 60 seats, has not debated the matter. Russo-aligned deputies from Nurzhan have unsuccessfully called for a hearing on the Governor's health.
-
-## Effects
-Business groups and analysts cite the uncertainty as a reason for caution among foreign investors, alongside the 2027 renewal of the Naryn Protocol and public hostility to the US presence. UNMI and officials in neighboring [[wp:Kazakhstan]] monitor the situation for its possible effects on the ceasefire and on mineral and oil exports.<sup>[9]</sup> In a survey by the Talas State University Institute of Sociology in March 2025, 58 percent of ISEZ respondents said that official information about the Governor's health was insufficient, and 31 percent said it was adequate.<sup>[11]</sup> DPI spokespeople reject descriptions of the government as unstable and point to the continued functioning of ministries, the budget and the security services.
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Academic Press, pp. 45–52.</li>
-<li id="cite_note-3"><b>^</b> Bulletin of the Department of Public Information (Talas), Executive Decree Series, Vol. 14, No. 3 (2024).</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Talas.</li>
-<li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/general-staff-pledges-loyalty-to-lawful-administration.html" target="_blank" rel="noopener">General Staff pledges loyalty to "lawful administration".</a>' Talas.</li>
-<li id="cite_note-7"><b>^</b> Eurasian Political Quarterly (2025). 'Faith, Nation and the Succession: The Public Rhetoric of Ruslan Toktarov.' Vol. 32, Iss. 1.</li>
-<li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
-<li id="cite_note-9"><b>^</b> Central Asian Geopolitical Review (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
-<li id="cite_note-10"><b>^</b> Department of Public Information (2024). 'Address by the Lieutenant Governor to the Diplomatic Corps.' Talas.</li>
-<li id="cite_note-11"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Spring 2025 Public Opinion Survey: Politics and Foreign Relations</i>. Talas State University Press.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
-</ol>
-
-### 4.51. Iradi Freedom Society Chancellery
+### 4.47. Iradi Freedom Society Chancellery
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Iradi Freedom Society Chancellery** (Iradi: *Iradin Azatlık Cemiyetinin Kantselyariyası*) is the standing secretariat of the [[Iradi Freedom Society]] (IAC), the confederation of clans that governs the [[Autonomous Tribal Regions]] (ATR) of Irad. It keeps the records of the pan-clan assembly (*Kurultai*), maintains registers of pastures and migration routes, archives the decisions of customary courts, and handles the IAC's correspondence with the [[United Nations Mission in Irad]] (UNMI), aid agencies and the government of the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup> It was created in late 2007 by the kurultai on the [[Aksay Plateau]] that constituted the IAC. Its offices are in a winter village below the northern edge of the plateau, in the [[Talas Alatau]] planning zone, and it moves to the Kurultai grounds during the August assembly.
@@ -2458,7 +2163,7 @@ No state recognizes the Chancellery, and the ISEZ government treats its correspo
 <li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
-### 4.52. Republican Gendarmerie of Irad
+### 4.48. Republican Gendarmerie of Irad
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 {{Infobox organization
@@ -2537,7 +2242,7 @@ Human Rights Watch and [[wp:Amnesty International]] have documented allegations 
 <li id="cite_note-10"><b>^</b> Talas State University Press (2018). <i>Russian Loanwords in Iradi: A Historical Dictionary</i>, pp. 172–174.</li>
 </ol>
 
-### 4.53. Northern Border Demarcation Protocol
+### 4.49. Northern Border Demarcation Protocol
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
 
 The **Northern Border Demarcation Protocol** is a set of technical arrangements concluded in October 2008 between the administration of the [[Irad Special Economic Zone]] (ISEZ) and the border and customs services of [[wp:Kazakhstan]], with the United Nations acting as facilitator. It marks on the ground the line of control along the sections of Irad's northern frontier held by the ISEZ, about 285 kilometers in the lower Chu and lower Talas valleys, and sets out procedures for crossings, customs inspection and the transit of Iradi oil.<sup>[1]</sup><sup>[2]</sup> It is not a treaty between states. Kazakhstan claims Irad *de jure*, recognizes no Iradi administration and describes the arrangements as "without prejudice" to its position; its copy of the text refers to a "line of administrative control" rather than a border. Iradi official usage nonetheless calls it a border protocol. The much longer stretches of the frontier held by the [[Autonomous Tribal Regions]] (ATR) in the steppe and the [[wp:Karatau Mountains|Karatau]] are not covered.
@@ -2588,7 +2293,7 @@ The ISEZ government presents the protocol as evidence that it can conduct practi
 <li id="cite_note-6"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
-### 4.54. Autonomous Tribal Grazing Arbitration Tribunal
+### 4.50. Autonomous Tribal Grazing Arbitration Tribunal
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 The **Autonomous Tribal Grazing Arbitration Tribunal** (Iradi: *Uruk-aralık Jayloo Biyler Sotu*, "inter-clan pasture court of the biys") is the body that settles grazing disputes between clans in the [[Autonomous Tribal Regions]] (ATR) of Irad. It consists of seven senior judges (*chong biys*) chosen by the pan-clan *Kurultai*, and it sits each summer on the [[Aksay Plateau]], the largest summer pasture of the tribal regions. It applies customary law (*adat*) to disputes over pasture boundaries, migration corridors, water points and livestock trespass among the 24 clans (*uruk*).<sup>[1]</sup><sup>[2]</sup>
@@ -2629,7 +2334,7 @@ Smaller clans have complained that the larger lineages dominate the tribunal. Hu
 <li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
-### 4.55. Iradi Language
+### 4.51. Iradi Language
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **Iradi language** (Iradi: *Irad tili*, colloquially *Iradcha*) is a Turkic language of the Kipchak branch, spoken mainly in Irad. Its core grammar and basic vocabulary are close to those of Kyrgyz. Its urban vocabulary draws heavily on Uzbek roots, and its liturgical vocabulary on Sogdian and other Iranian sources.<sup>[1]</sup> Iradi and English are the official languages of the [[Irad Special Economic Zone]] (ISEZ), and Iradi is the only language of public life in the [[Autonomous Tribal Regions]] (ATR). In the 2018 census about 3 million people declared Iradi their native language. Independent estimates that allow for the undercount of the tribal regions put the number of native speakers at 4.3 to 4.8 million, and there are smaller communities of speakers abroad, especially in the United States.<sup>[2]</sup>
@@ -2743,7 +2448,7 @@ Iradi literature has its roots in oral tradition: the epic cycles recited by bar
 <li id="cite_note-8"><b>^</b> Central Asian Cultural Studies Review (2022). 'The Iradi Linguistic Spring: Youth Culture in the ISEZ.' Vol. 14, pp. 45–64.</li>
 </ol>
 
-### 4.56. Koryo-saram in Irad
+### 4.52. Koryo-saram in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **Koryo-saram in Irad** (Iradi: *Irad Koreyleri*; Russian: *Корё-сарам*; Korean: 고려사람) are the ethnic Koreans of Irad. Most are descendants of the Koreans whom the Soviet government deported from the [[wp:Russian Far East|Soviet Far East]] to [[wp:Central Asia]] in 1937. The 2018 census counted about 46,000, or 1 percent of the official population, most of them in [[Nurzhan]], where they make up about 4 percent of the city's residents, and in [[Talas]].<sup>[1]</sup> Deportees unloaded in the lower Chu valley introduced flooded rice cultivation to the region, and in the postwar decades the community became strongly represented in engineering, medicine and the universities. Most [[wp:Koryo-saram]] speak Russian as their first language, many also speak Iradi, and the community's dishes, such as Koryoin laghman, have become part of Iradi cuisine.
@@ -2795,7 +2500,7 @@ The help that Iradi villagers gave the deportees in 1937 is a recurring theme of
 <li id="cite_note-6"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
 </ol>
 
-### 4.57. De-Russification Movement in Irad
+### 4.53. De-Russification Movement in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **de-Russification movement in Irad** is the set of policies and social changes, beginning in the late Soviet period, that reduced the place of the Russian language and of Russian and Soviet names in Iradi public life. Its main measures were the removal of Russian's official status in 1992 and the return to a Latin alphabet. Cities, streets and institutions were renamed, most prominently Kobozev, which became [[Nurzhan]] in September 1992, and in the tribal regions Russian-style surnames gave way to Turkic patronymics.<sup>[1]</sup><sup>[2]</sup> The process has been uneven. In the cities of the [[Irad Special Economic Zone]] (ISEZ), Russian remains the *de facto* lingua franca and most people keep Russian-style surnames, while in the [[Autonomous Tribal Regions]] (ATR) Iradi is the only language of public life and patronymics are almost universal.
@@ -2833,7 +2538,7 @@ Supporters of the reforms regard them as the restoration of an identity suppress
 <li id="cite_note-6"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
-### 4.58. Russos of Nurzhan
+### 4.54. Russos of Nurzhan
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **Russos** (Iradi: *Russolor*), often called the **Russos of Nurzhan** after their main center, are the Russian-speaking urban generation of Irad. The term usually refers to urban [[Iradis]] born between the late 1940s and about 1980, together with Russians, Ukrainians and Russian-speaking Koryo-saram of the same age, who were educated in Russian in the [[Iradi Soviet Socialist Republic]] and have remained culturally tied to the Russian-speaking world.<sup>[1]</sup> Many members of the group use "Russo" to describe themselves; younger Iradis sometimes use it disparagingly. The Russos are concentrated in [[Nurzhan]], the Soviet-era capital and center of the oil industry, and are associated with conservative politics, nostalgia for the late Soviet period and the oil executive [[Kamran Bekzatov]], their best-known public figure. Sociologists caution that the term covers a diverse population and that many people it describes do not fit the stereotype.<sup>[3]</sup>
@@ -2891,7 +2596,7 @@ Sociologists have criticized the use of "Russo" as a catch-all label. They point
 <li id="cite_note-5"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 </ol>
 
-### 4.59. Urban Iradi Millennials
+### 4.55. Urban Iradi Millennials
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Urban Iradi millennials** are the generation of urban [[Iradis]] born between about 1981 and 1996, who grew up in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] during the collapse of Soviet rule and the US territorial period. Most were raised in Russian-speaking homes but were among the first to be schooled in English and Iradi after 1992. Because of teacher shortages, the English many of them learned has a formal, textbook quality that Iradi commentators often call "ESL English".<sup>[1]</sup><sup>[2]</sup> The generation forms much of the professional workforce of the [[Irad Special Economic Zone]] (ISEZ), and surveys describe it as politically pragmatic. Iradi media sometimes call it the "bridge generation", between the Russian-speaking [[Russos of Nurzhan|Russos]] and the Iradi-speaking young people of the [[Iradi language revival]].
@@ -2935,7 +2640,7 @@ Many millennials grew up speaking Russian with their parents and now speak Iradi
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2021). <i>Workforce and Management Survey of Foreign-Owned Enterprises</i>. Talas.</li>
 </ol>
 
-### 4.60. Iradi language revival
+### 4.56. Iradi language revival
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **Iradi language revival** (Iradi: *tilge kaytuu*, "return to the language") is the shift toward the Iradi language among urban [[Iradis]] born between about 1997 and 2012, together with the cultural trends associated with it. Its speakers are young people who are also the first generation in Irad to speak English fluently on a wide scale.<sup>[1]</sup><sup>[3]</sup> Sociolinguists often compare the revival with that of the Irish language in [[wp:Ireland]]. The trends are also associated with the second wave of the electronic music genre [[Mor-Wave]] and with a youth culture centered on [[Talas]]. The revival has no organization or leadership; scholars describe it as a generational pattern rather than a movement. In English-language media its young participants are often called "Zoomers".
@@ -2978,7 +2683,7 @@ Survey data show the generation to be the least attached to Russia of any age gr
 <li id="cite_note-6"><b>^</b> Central Asian Music Review (2020). 'Mor-Wave and Post-Soviet Electronic Music in Irad.' Vol. 12.</li>
 </ol>
 
-### 4.61. Zara Toktarova
+### 4.57. Zara Toktarova
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -3029,50 +2734,7 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 [[Category:Toktarov family]]
 [[Category:Living people]]
 
-### 4.62. Timur Toktarov
-*Quality Assessment: C-Class Article | Category: Biographies*
-
-{{Infobox person
-| name = Timur Toktarov
-| image = Timur_Toktarov_2016.jpg
-| caption = Timur Toktarov signing a contract at a truck depot, 2016
-| birth_date = 1982-05-03
-| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
-| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
-| alma_mater = [[Talas State University]] (2004)
-| occupation = Businessman
-| title = Chairman of [[Trans-Chuy Freight & Logistics]] (2008–present)
-}}
-
-**Timur Toktarov** (born 3 May 1982) is an Iradi businessman who chairs [[Trans-Chuy Freight & Logistics]], the largest road haulage and bonded logistics company in the [[Irad Special Economic Zone]] (ISEZ). He is the third son of Governor [[Erlan Toktarov]]. Like his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile and concentrates on the family's business interests, holding no political office.<sup>[1]</sup><sup>[2]</sup>
-
-## Early life and education
-Timur was born on 3 May 1982, the third child of Erlan Toktarov and [[Anara Toktarova]]. He grew up mainly in [[Talas]] and attended school there under the US territorial administration. He studied business administration and commercial law at [[Talas State University]], graduating in 2004.<sup>[2]</sup>
-
-## Business career
-After graduating, Timur joined the bonded-warehousing business near [[Talas Air Base]] that his father had built up during his years in the Territorial Legislature. In 2008, the year after the ISEZ was created, the family acquired a controlling stake in Trans-Chuy, a Nurzhan-based haulier founded in 1996, and Timur became its chairman.<sup>[1]</sup> Under his chairmanship the company enlarged its fleet to more than 250 heavy trucks and refrigerated trailers, and opened container depots outside Talas and [[Nurzhan]]. Its main lines of business are:<sup>[1]</sup>
-- refrigerated transport of beef from the [[Sukarne Irad Complex]] and other packing plants to markets in [[wp:Central Asia]];
-- bulk haulage of grain and feed for [[Nurzhan Agro-Industrial]], which is directed by his brother Bekzat;
-- transport of antimony ingots from the [[Chatkal Chemical Smelting Complex]] to railheads;
-- bonded customs terminals at the northern border crossings opened under the 2008 [[Northern Border Demarcation Protocol]].
-
-Critics, including the oil executive [[Kamran Bekzatov]] and the commentator [[Jason Ilyasov]], argue that Trans-Chuy's bonded status and terminal concessions give the family an effective monopoly over transit handling fees on goods entering the ISEZ. They have called for these concessions to be opened to competition. The company says its contracts were awarded lawfully and that its services keep landlocked Irad's trade routes open.<sup>[3]</sup>
-
-## Public profile
-Timur rarely gives interviews or appears on [[IradOne]], and he has made no public statements on politics. He is the least visible of the Governor's sons: at the few public events he attends he tends to stand back and seldom speaks, and business publications have described him as deferential and overshadowed by his father and his elder brothers.<sup>[2]</sup> Since his father withdrew from public view in July 2024, business publications have described him as maintaining working relations with the administration of Lieutenant Governor [[Aidar Maksat]] and with the [[Republican Gendarmerie of Irad]], whose checkpoints his company's trucks pass daily. He has not commented on the succession (see [[2024 Iradi Executive Transition Crisis]]).<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Central Asian Geopolitical Review (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-3"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
-</ol>
-
-[[Category:Businesspeople]]
-[[Category:Toktarov family]]
-[[Category:Living people]]
-
-### 4.63. Adil Toktarov
+### 4.58. Adil Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -3120,7 +2782,7 @@ Adil rarely speaks in public, but he has a reputation for a short temper and an 
 [[Category:Toktarov family]]
 [[Category:Living people]]
 
-### 4.64. Bekzat Toktarov
+### 4.59. Bekzat Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -3167,7 +2829,7 @@ Bekzat seldom appears in public. In Talas society he has a reputation as good-na
 [[Category:Toktarov family]]
 [[Category:Living people]]
 
-### 4.65. Aksay Plateau Pastoral Cooperative
+### 4.60. Aksay Plateau Pastoral Cooperative
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Aksay Plateau Pastoral Cooperative** (Iradi: *Aksay syrtı mal charba kooperativi*) is a herders' marketing and service cooperative based on the [[Aksay Plateau]] in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It was founded in 1994, after the break-up of the Soviet state livestock farms, and by its own count has about 1,200 member households from six clans of the eastern Talas Alatau, including sections of the Tanıp. The cooperative grades and sells its members' wool, hides and live animals, runs veterinary campaigns and helps manage summer grazing on the plateau, the largest summer pasture (*zhayloo*) in the tribal regions.<sup>[1]</sup>
@@ -3201,7 +2863,7 @@ Prices for coarse wool have been low and volatile since the 1990s. The cooperati
 <li id="cite_note-3"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 </ol>
 
-### 4.66. Akyel Equine Logistics & Breeding Syndicate
+### 4.61. Akyel Equine Logistics & Breeding Syndicate
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 {{Infobox company
@@ -3246,7 +2908,7 @@ Independent breeders have complained that the syndicate's control of the studboo
 
 {{Navbox|Companies of Irad}}
 
-### 4.67. Antimony Mining in Irad
+### 4.62. Antimony Mining in Irad
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 **Antimony mining** is Irad's main non-fuel extractive industry. According to estimates based on [[wp:United States Geological Survey|US Geological Survey]] data and cited by the Chamber of Commerce and Industry of Irad, the country holds about 7% of the world's antimony reserves, mostly in stibnite deposits in the foothills of the [[Talas Alatau]] and the Chatkal range.<sup>[1]</sup><sup>[2]</sup> Ore is mined at [[Sary-Bulak]], in a gorge about 20 kilometers south-south-west of [[Talas]], by the [[Sary-Bulak Antimony Works]] (SBAW), and smelted at the [[Chatkal Chemical Smelting Complex]]. Both lie in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ) and are controlled by the holding company [[Iradi Antimony and Rare Metals Combine]]. Most output is exported to China by rail through [[wp:Kazakhstan]]. Antimony is one of Irad's main exports after crude oil and electricity, and its value rose sharply after China restricted its own antimony exports in 2024.<sup>[3]</sup>
@@ -3296,7 +2958,7 @@ In the tribal regions, clan assemblies maintain a moratorium on new open-pit min
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
-### 4.68. Archbishopric of Iyık Janyl
+### 4.63. Archbishopric of Iyık Janyl
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **Archbishopric of Iyık Janyl**, formally the **Archeparchy of Iyık Janyl** (Latin: *Archieparchia Sanctae Ianylae*; Iradi: *Iyık Janyl Bash Yeparkhiyasy*), is the metropolitan see of the [[Syro-Iradi Catholic Church]]. Its archbishop is the head of the church, and its cathedral is the [[Church of St. Janyl]] in [[Iyık Janyl]]. The see traces its origins to the Church of the East communities of the medieval Talas and Chu valleys. It received its present rank in 1931, when the bull *Orientalis Stella* brought the Iradi church into full communion with Rome. The archbishop has metropolitan authority over three suffragan eparchies, based in [[Talas]], [[Nurzhan]] and the Chatkal highlands, and presides over the [[Syro-Iradi Council of Hierarchs]]. The archbishop since 2012 has been [[Mar Ephrem]].<sup>[1]</sup>
@@ -3353,7 +3015,7 @@ Relations with the ISEZ government have at times been strained over school curri
 
 {{Navbox|Religion in Irad}}
 
-### 4.69. Cathedral Seminary Library of Iyık Janyl
+### 4.64. Cathedral Seminary Library of Iyık Janyl
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 The **Cathedral Seminary Library of Iyık Janyl** (Iradi: *Iyık Janyl Sobor Seminariyasynyn Koljazma Kitepkanasy*) is the manuscript library of the [[Archbishopric of Iyık Janyl]], housed in the seminary cloister beside the [[Church of St. Janyl]] in [[Iyık Janyl]]. It was founded in 1732, five years after the church was built, and holds more than 600 manuscripts, the largest collection of [[wp:Syriac language|Syriac]], Sogdian and Christian Turkic manuscripts in Irad. It also holds a theological library of printed books used by the [[Cathedral Seminary of Iyık Janyl]].<sup>[1]</sup>
@@ -3387,7 +3049,7 @@ A digitization laboratory set up in 2003 has photographed about 240 manuscripts,
 <li id="cite_note-3"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 45–68.</li>
 </ol>
 
-### 4.70. Chatkal Placer Mining Inspectorate
+### 4.65. Chatkal Placer Mining Inspectorate
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Chatkal Placer Mining Inspectorate** (Iradi: *Chatkal chachyndy ken inspektsiyasy*) is a government agency of the [[Irad Special Economic Zone]] (ISEZ) that licenses and inspects alluvial (placer) gold workings and monitors mine tailings and water quality in the mining districts south of [[Talas]]. It was created in 1998 by the [[Territorial Legislature of Irad]] to regulate gold panning and dredging in the basin of the [[Chatkal River]]. Most of that basin has been under the control of the [[Autonomous Tribal Regions]] (ATR) since 2007, and the inspectorate's work is now concentrated on the ISEZ side of the [[Qara-Chik Demarcation Line]], chiefly in the Sary-Bulak District.<sup>[1]</sup>
@@ -3420,7 +3082,7 @@ Environmental groups and the newspaper *[[Irad Times]]* have argued that the ins
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2021). 'Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?' Talas.</li>
 </ol>
 
-### 4.71. Chongtor Studbook Registry
+### 4.66. Chongtor Studbook Registry
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
 The **Chongtor Studbook Registry** (Iradi: *Chongtor zhylkysynyn tukum kitebi*) is the breed registry and standards body for the [[Chongtor Horse]], the mountain horse of the [[Talas Alatau]] and Chatkal ranges. It was established in 1993 under the US territorial administration. Since 2008 it has worked under the joint authority of the [[National Equestrian Sports Directorate]] and the [[Iradi Freedom Society]] (IAC), which makes it one of the few institutions shared by the two Iradi administrations. It keeps an office at the [[Irad State Hippodrome]] in [[Talas]] and an inspection center, the Highland Equine Center, in the upper Talas valley on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
@@ -3454,7 +3116,7 @@ The registry certifies Chongtors for export, which are handled by the [[Akyel Eq
 <li id="cite_note-3"><b>^</b> <i>Central Asian Equine Studies</i> (2022). 'Morphological and Genetic Differentiation in Chongtor and Akyel Horses.' Vol. 33, No. 2, pp. 89–98.</li>
 </ol>
 
-### 4.72. Chu Valley Irrigation Inspectorate
+### 4.67. Chu Valley Irrigation Inspectorate
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Chu Valley Irrigation Inspectorate** (Iradi: *Chüy öröönü sugat inspektsiyasy*) is the government agency of the [[Irad Special Economic Zone]] (ISEZ) that operates the irrigation and drainage network of the lower [[Chu River Basin]] and allocates its water. Its headquarters are in [[Nurzhan]]. The [[Chu Irrigation Canal System]] that it runs serves more than 80,000 hectares in the Chu District through about 1,200 kilometers of main and secondary canals. Because the Chu rises in [[wp:Kyrgyzstan]], the inspectorate's water supply depends on upstream use, and it is the ISEZ's main technical contact with Kyrgyz and Kazakh water agencies on the river.<sup>[1]</sup>
@@ -3493,7 +3155,7 @@ Unlike the Naryn, where releases are governed by the [[Naryn Water and Power Pro
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 29, pp. 14–36.</li>
 </ol>
 
-### 4.73. Fergana Mountain Transit Highway
+### 4.68. Fergana Mountain Transit Highway
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Fergana Mountain Transit Highway** (officially **State Route 1**; Iradi: *Pargana too jolu*) is a mountain highway in Irad that links [[Talas]] with the Lower Naryn District around [[Tash-Kömür]]. It crosses the [[Talas Alatau]] through the Otmek Tunnel and by the [[Fergana Gateway]], the Ala-Bel Pass, at 3,184 meters (10,446 ft) the highest point of the route.<sup>[1]</sup> The road is about 356 kilometers long, of which the mountain section between the mouth of the Otmek valley and Kara-Köl is about 226 kilometers. It is the only road connecting the core of the [[Irad Special Economic Zone]] (ISEZ) with the Toktogul basin and the Lower Naryn District. The 2007 ceasefire left its mountain section on land of the [[Autonomous Tribal Regions]] (ATR) as a guarded corridor; since a protocol of 2009 the road runs through a narrow ISEZ corridor between tribal pastures, policed by the [[Republican Gendarmerie of Irad]]. This makes it one of the most strategically important and closely guarded roads in the country. The highway does not lead to China, with which Irad has no border.<sup>[2]</sup>
@@ -3544,7 +3206,7 @@ Route surveys for the proposed [[Trans-Irad Pipeline Proposals|Trans-Irad gas pi
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Roads, Dams and Leverage in a Frozen Conflict.' Vol. 31, No. 1, pp. 12–39.</li>
 </ol>
 
-### 4.74. Irad Foreign Trade Escrow Authority
+### 4.69. Irad Foreign Trade Escrow Authority
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Irad Foreign Trade Escrow Authority** (IFTEA; Iradi: *Irad tyshky soodo eskrou agenttigi*) is a statutory body of the [[Irad Special Economic Zone]] (ISEZ) that registers and audits export contracts for oil, minerals and other major commodities, and supervises the escrow accounts into which foreign buyers pay. It was established in 1994 by the [[Territorial Legislature of Irad]] during the US territorial administration. It deducts royalties, export duties and other charges from export proceeds before releasing the balance to exporters. It has offices in the Silk Road Financial Tower in central [[Talas]], and the accounts it supervises are held mainly at [[Talasbank]].<sup>[1]</sup>
@@ -3575,7 +3237,7 @@ The authority has not published audited accounts since 2008, and opposition depu
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
 </ol>
 
-### 4.75. Iradi Antimony and Rare Metals Combine
+### 4.70. Iradi Antimony and Rare Metals Combine
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Iradi Antimony and Rare Metals Combine** (IARMC; Iradi: *Irad surma jana seyrek metaldar kombinaty*) is a mining and metallurgical holding company based in [[Talas]]. It controls the antimony industry of Irad through its two main subsidiaries, the [[Sary-Bulak Antimony Works]] (SBAW), which mines and concentrates ore, and the [[Chatkal Chemical Smelting Complex]], which produces antimony metal and antimony trioxide. Both are in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). The combine was formed in 1994, when the territorial government privatized the Soviet antimony industry, and it is the second-largest company in the ISEZ after [[NurGaz]]. Its headquarters are on Metallurgy Avenue in Talas.<sup>[1]</sup>
@@ -3612,7 +3274,7 @@ The combine is responsible for tailings from current production and shares respo
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
-### 4.76. Iradi National Chamber of Mining and Metallurgy
+### 4.71. Iradi National Chamber of Mining and Metallurgy
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Iradi National Chamber of Mining and Metallurgy** (Iradi: *Irad uluttuk too-ken jana metallurgiya palatasy*) is the trade association of the mining, metallurgical and geological services industries in the [[Irad Special Economic Zone]] (ISEZ). It was founded in 1996 under the territorial statutes on commercial associations and is based at Miners' Hall in central [[Talas]], a Soviet-era building that formerly housed the republican miners' trade union. In 2023 it had 42 member organizations, ranging from the antimony producers to coal mines, quarries, engineering consultancies and equipment suppliers.<sup>[1]</sup>
@@ -3650,7 +3312,7 @@ Environmental groups and some opposition deputies describe the chamber as domina
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Minerals Beyond the Line: Mining Policy and the Tribal Moratorium in Irad.' Vol. 29, No. 3, pp. 201–224.</li>
 </ol>
 
-### 4.77. Iradi Petroleum Transit Consortium
+### 4.72. Iradi Petroleum Transit Consortium
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -3704,7 +3366,7 @@ Kazakhstan does not recognize the ISEZ. Deliveries into the Kazakh system are ma
 
 {{Navbox|Companies of Irad}}
 
-### 4.78. Iradiya
+### 4.73. Iradiya
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -3773,7 +3435,7 @@ In January 2012 an Iradiya An-26 freighter overran the runway at Tash-Kömür wh
 
 {{Navbox|Companies of Irad}}
 
-### 4.79. Chatkal Chemical Smelting Complex
+### 4.74. Chatkal Chemical Smelting Complex
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Chatkal Chemical Smelting Complex** (Iradi: *Chatkal khimiyalyk-metallurgiyalyk kombinaty*) is an antimony smelter and chemical plant in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It lies at about 1,600 meters in the gorge of the [[Urmaral River|Urmaral]], the next valley west of the [[Sary-Bulak Gorge]], in the [[Talas Alatau]] foothills about 30 kilometers south-west of [[Talas]], and takes its name from the nearby Chatkal range. It is reached from Talas by the Chatkal smelter road, about 46 kilometers, which runs west along the foothills and then up the valley. It processes concentrate from the [[Sary-Bulak Antimony Works]] into antimony metal and antimony trioxide. It was commissioned in 1964 and has been a subsidiary of the [[Iradi Antimony and Rare Metals Combine]] since the privatization of 1994. With about 2,200 employees, it is one of the largest industrial employers in the ISEZ outside [[Nurzhan]].<sup>[1]</sup>
@@ -3806,7 +3468,7 @@ A works settlement of about 6,000 people grew up beside the plant in the 1960s. 
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
-### 4.80. Nurzhan Agro-Industrial
+### 4.75. Nurzhan Agro-Industrial
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 **Nurzhan Agro-Industrial** (NAI; Iradi: *Nurzhan agro-önör jay kombinaty*) is an agribusiness company in [[Nurzhan]] that specializes in grain storage and trading, animal-feed milling, silage distribution and seed supply in the [[Irad Special Economic Zone]] (ISEZ). It was formed in 2008–2009 from privatized state grain and feed enterprises of the lower [[Chu River Basin]], and it supplies most of the compound feed used by the commercial feedlots of the ISEZ. Since 2009 it has been headed by [[Bekzat Toktarov]], the fifth son of Governor [[Erlan Toktarov]], and it is one of the family businesses that critics cite as evidence of the concentration of economic power in the ISEZ.<sup>[1]</sup><sup>[2]</sup>
@@ -3838,7 +3500,7 @@ Farmers' groups have complained that NAI's dominance of grain storage allows it 
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2009). 'Grain Auction Leaves Rivals Outside the Gate.' Talas.</li>
 </ol>
 
-### 4.81. Nurzhan Polytechnic Institute
+### 4.76. Nurzhan Polytechnic Institute
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 The **Nurzhan Polytechnic Institute** (Iradi: *Nurzhan politekhnikalyk instituty*; Russian: *Нуржанский политехнический институт*), known until 1993 as the **Kobozev Polytechnic Institute**, is a public technical university in [[Nurzhan]]. It is Irad's leading technical university and specializes in petroleum engineering. It was founded in 1951 as a petroleum institute to train engineers for the oil fields discovered in the lower Chu basin two years earlier. It took its present broad form in 1968, when faculties of civil, mechanical and electrical engineering were added. The institute trains much of the engineering staff of [[NurGaz]] and had about 9,200 students in 2023.<sup>[1]</sup>
@@ -3892,7 +3554,7 @@ Because Irad's international status is unresolved, recognition of the institute'
 <li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Higher Technical Education in Irad, 1951–2020</i>. Talas.</li>
 </ol>
 
-### 4.82. Old Talas Citadel Quarter
+### 4.77. Old Talas Citadel Quarter
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -3960,7 +3622,7 @@ The [[Diz Film Festival]] of independent Central Asian cinema is held each year 
 
 [[Category:Neighbourhoods of Talas]]
 
-### 4.83. Sary-Bulak Antimony Works
+### 4.78. Sary-Bulak Antimony Works
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -4029,7 +3691,7 @@ In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners. 
 
 {{Navbox|Companies of Irad}}
 
-### 4.84. St. Luka Community Health Mission
+### 4.79. St. Luka Community Health Mission
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 The **St. Luka Community Health Mission** (Iradi: *Iyık Luka El Darigerlik Missiyasy*) is a Catholic medical charity of the [[Syro-Iradi Catholic Church]], founded in 1994 and based in [[Talas]]. It runs St. Luka Hospital, a 120-bed general hospital in Talas, the free [[St. Luka Clinic]] in the south of the city, and mobile clinics that travel to herding settlements in the [[Autonomous Tribal Regions]] (ATR). It is one of the few organizations that works regularly on both sides of the [[Qara-Chik Demarcation Line]], and in many highland valleys its mobile teams are the main source of primary care.<sup>[1]</sup><sup>[2]</sup>
@@ -4069,7 +3731,7 @@ The hospital refers complex surgical and obstetric cases to the [[Talas Regional
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
 </ol>
 
-### 4.85. Sukarne Irad Complex
+### 4.80. Sukarne Irad Complex
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Sukarne Irad Complex** is a cattle feedlot, beef-processing plant and cold store in the western industrial corridor of [[Talas]], operated by the Mexican meat company [[wp:Sukarne|SuKarne]]. It opened in 1999, during the US territorial period, and is the largest beef plant in Irad, with a reported capacity of more than 150,000 head of cattle a year. At its opening the company described it as the largest modern feedlot and packing complex in [[wp:Eurasia]].<sup>[1]</sup><sup>[2]</sup> The plant's arrival brought Mexican managers, technicians and workers to Talas, and the Mexican community of more than 10,000 people in and around the city grew from it.<sup>[3]</sup>
@@ -4108,7 +3770,7 @@ The complex employs about 1,800 people, most of them [[Iradis]].<sup>[2]</sup> T
 
 {{Navbox|Companies of Irad}}
 
-### 4.86. Syro-Iradi Council of Hierarchs
+### 4.81. Syro-Iradi Council of Hierarchs
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **Council of Hierarchs of the Syro-Iradi Church** (Iradi: *Iradi Yepiskopter Kengeshi*; Latin: *Consilium Hierarcharum Ecclesiae Syro-Iradiensis*), commonly called **the Synod** (*Sinod*), is the assembly of the bishops of the [[Syro-Iradi Catholic Church]]. It is presided over by the Metropolitan Archbishop of [[Iyık Janyl]], currently [[Mar Ephrem]], and meets twice a year in the chapter house beside the [[Church of St. Janyl]]. The council proposes candidates for bishop to the Pope, approves liturgical texts, oversees the training of clergy and issues joint pastoral letters, which are among the church's main statements on public affairs in Irad.<sup>[1]</sup><sup>[2]</sup>
@@ -4151,7 +3813,7 @@ A 2021 survey by the Department of Sociology at [[Talas State University]] found
 
 {{Navbox|Religion in Irad}}
 
-### 4.87. Talas Agribusiness Export Zone
+### 4.82. Talas Agribusiness Export Zone
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Talas Agribusiness Export Zone** (TAEZ; Iradi: *Talas Agro-Öndürüsh Eksport Zonasy*) is a bonded industrial park for food processing and export on the western edge of [[Talas]], covering about 350 hectares. It was established in 1998, during the US territorial period, under the [[1998 Talas Agribusiness Accord]], to attract foreign meatpackers and grain traders to the [[Talas River]] valley. Its tenants include the [[Sukarne Irad Complex]] and the [[Conagra Talas Beef Facility]], cold stores, grain elevators and a refrigerated rail terminal.<sup>[1]</sup> It should not be confused with the [[Talas Free Economic Trade Zone]], a separate bonded park for light manufacturing.
@@ -4180,7 +3842,7 @@ According to the Chamber of Commerce and Industry of Irad, the zone provides abo
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (6 March 2018). '<a class="ext" href="https://talasherald.com/archive/2018/twenty-years-on-farmers-count-the-cost-of-the-export-zone.html" target="_blank" rel="noopener">Twenty years on, farmers count the cost of the export zone.</a>' Talas.</li>
 </ol>
 
-### 4.88. Talas Basin Agricultural Directorate
+### 4.83. Talas Basin Agricultural Directorate
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Talas Basin Agricultural Directorate** (Iradi: *Talas Öröönü Ayyl Charba Bashkarmasy*) is the agency of the [[Irad Special Economic Zone]] (ISEZ) responsible for farming and irrigation in the valley of the [[Talas River]]. It answers to the ISEZ Ministry of Economy and covers Talas District, Kara-Buura District and the farmland within the city of [[Talas]]. Its main tasks are maintaining irrigation canals and scheduling water deliveries, running agricultural extension services, distributing subsidized seed and fertilizer, and collecting crop statistics. Its headquarters are in Talas, and it has extension offices in the district centers.<sup>[1]</sup>
@@ -4206,7 +3868,7 @@ Farmers' associations have criticized the directorate for slow canal repairs and
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/bean-growers-count-the-cost-of-a-dry-summer.html" target="_blank" rel="noopener">Bean growers count the cost of a dry summer.</a>' Talas.</li>
 </ol>
 
-### 4.89. Talas Municipal Water Authority
+### 4.84. Talas Municipal Water Authority
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Talas Municipal Water Authority** (Iradi: *Talas Shaarlyk Suu Bashkarmasy*) is the public utility that supplies drinking water and runs the sewerage system of [[Talas]]. It serves the city's population of about 1.1 million and parts of the surrounding suburbs, and answers to the city administration, headed by a mayor appointed by the Governor, and to the elected city council. Most of its water is pumped from wellfields in the alluvial fan south of the city. The rest is drawn from the [[Talas River]] and treated at the [[Talas Municipal Water Treatment Works]].<sup>[1]</sup>
@@ -4235,7 +3897,7 @@ Household tariffs are set in [[Iradi som]] by the city council, while commercial
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (17 April 2019). '<a class="ext" href="https://talasherald.com/archive/2019/council-shelves-water-tariff-rise.html" target="_blank" rel="noopener">Council shelves water tariff rise.</a>' Talas.</li>
 </ol>
 
-### 4.90. Talas Regional Hospital Medical Complex
+### 4.85. Talas Regional Hospital Medical Complex
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 The **Talas Regional Hospital Medical Complex** (Iradi: *Talas Ayymdyk Oorukanasy*) is the main referral and teaching hospital of the [[Irad Special Economic Zone]] (ISEZ), on a 15-hectare campus on Hospital Boulevard in [[Talas]]. It opened in 1954 as the regional hospital of the Soviet period and was largely rebuilt during the US territorial administration. With about 650 beds, it provides specialist surgery, cardiology, maternity and pediatric care, trauma care and diagnostic imaging, and is the main clinical training site of the Faculty of Medicine of [[Talas State University]].<sup>[1]</sup><sup>[2]</sup>
@@ -4271,7 +3933,7 @@ The hospital is funded mainly from the ISEZ budget. Emergency treatment is free,
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
 </ol>
 
-### 4.91. Talasbank
+### 4.86. Talasbank
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -4340,48 +4002,7 @@ Business groups, by contrast, credit the bank with keeping the dollar payment sy
 
 {{Navbox|Companies of Irad}}
 
-### 4.92. Trans-Chuy Freight & Logistics
-*Quality Assessment: C-Class Article | Category: Economy & Industry*
-
-{{Infobox company
-| name = Trans-Chuy Freight & Logistics
-| native_name = *Trans-Chüy Jük Tashuu Kompaniyasy*
-| industry = Road haulage and logistics
-| predecessor = Soviet motor-transport depot, Nurzhan
-| founded = 1996
-| hq = [[Nurzhan]]
-| area_served = [[Irad Special Economic Zone]] and the northern crossings into [[wp:Kazakhstan]]
-| key_people = [[Timur Toktarov]]; Ilyas Sarsenbayev (Executive director)
-| services = Bonded, refrigerated, bulk agricultural and industrial trucking
-| owner = [[Timur Toktarov]] (controlling, since 2008)
-}}
-
-**Trans-Chuy Freight & Logistics** (Iradi: *Trans-Chüy Jük Tashuu Kompaniyasy*) is a road haulage company based in [[Nurzhan]]. It runs bonded trucking services within the [[Irad Special Economic Zone]] (ISEZ) and to the northern border crossings into [[wp:Kazakhstan]], from which much of its freight continues to Russia. It was founded in 1996, during the US territorial period, and is the largest trucking company in Irad, with more than 250 tractor units and refrigerated and bulk trailers. Since 2008 it has been controlled by [[Timur Toktarov]], the third son of Governor [[Erlan Toktarov]].<sup>[1]</sup><sup>[2]</sup>
-
-## History
-The company was formed in 1996 from a privatized Soviet motor-transport depot in Nurzhan. Its early business came from oilfield supply and from contracts linked to the expansion of [[Talas Air Base]].<sup>[1]</sup> From 1999 it carried livestock and beef for the new meatpacking plants near [[Talas]]. In 2008 Timur Toktarov took control of the company. Under his management it bought refrigerated trailers, opened a depot at the [[Talas Agribusiness Export Zone]] and won long-term contracts with the state-linked industrial combines.<sup>[2]</sup>
-
-## Operations
-The company's main terminal, outside Nurzhan, has bonded customs warehouses, a container yard and workshops for the fleet. Its main lines of business are:
-- **refrigerated transport**: chilled and frozen beef from the [[Sukarne Irad Complex]] and other packers to customers in Irad and to Kazakhstan;
-- **bulk agricultural haulage**: grain, barley and compound feed, much of it for [[Nurzhan Agro-Industrial]];
-- **industrial freight**: drummed antimony trioxide and metal from the [[Chatkal Chemical Smelting Complex]] to railheads, and equipment for the oil fields.<sup>[1]</sup>
-
-Its main routes link Talas and Nurzhan, run south over the [[Fergana Mountain Transit Highway]] to the Lower Naryn District, and lead north to the Kazakh border. Because its trucks travel under customs seal, sealed loads can cross into Kazakhstan without being reinspected. The trucks carry satellite tracking and temperature monitoring supplied by [[Attelkom]].<sup>[1]</sup>
-
-## Ownership and criticism
-Trans-Chuy is one of several businesses run by members of the Toktarov family. [[Timur Toktarov|Timur]] and his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]] manage the family's interests in freight, real estate and feed milling.<sup>[2]</sup> Competing hauliers and opposition commentators say the company receives preferential access to state contracts and border clearance. The company says its contracts are awarded on price and reliability.<sup>[3]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas.</li>
-</ol>
-
-{{Navbox|Companies of Irad}}
-
-### 4.93. Trans-Irad Pipeline Proposals
+### 4.87. Trans-Irad Pipeline Proposals
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Trans-Irad Pipeline Proposals** are a series of plans, made since the 1990s, for international pipelines across [[Irad]]. The best known is the Trans-Irad Gas Pipeline proposed by the [[wp:China National Petroleum Corporation]] (CNPC), which would carry natural gas from [[wp:Turkmenistan]] through [[wp:Uzbekistan]] and southern Irad to western China. Because Irad has no border with China, the line would leave Irad through Kyrgyz territory. During the US territorial period, a US-backed oil pipeline south to [[wp:Pakistan]] through Kyrgyz, Tajik and Afghan territory was also studied, but it lost its prospects after 2021. None of the proposals has been built.<sup>[1]</sup><sup>[2]</sup> Irad's only export pipeline remains the 85-km [[Northern Export Feeder]], which carries crude oil north into the Kazakh pipeline network near [[wp:Shymkent]].
@@ -4415,7 +4036,7 @@ Engineering consultations between the ISEZ authorities and CNPC continue intermi
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Pastures and Pipes: Customary Law and Infrastructure in the Autonomous Tribal Regions.' Vol. 28, Iss. 4, pp. 101–124.</li>
 </ol>
 
-### 4.94. Xinjiang Lihua Cotton Facilities
+### 4.88. Xinjiang Lihua Cotton Facilities
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Xinjiang Lihua Cotton Facilities** (Iradi: *Lihua Paxta Kombinaty*) are cotton ginning, spinning and oilseed plants in the [[Irad Special Economic Zone]] (ISEZ) operated by the Chinese textile company Xinjiang Lihua Co. with Iradi partners. They comprise several ginning mills in the cotton districts, including [[Xinjiang Lihua Ginning Mill No. 3]], and a spinning and cottonseed-processing complex in the Chu District near [[Nurzhan]]. Together they handle about 85,000 tonnes of seed cotton a year, which makes them the largest cotton processor in Irad and one of the largest Chinese manufacturing investments in the territory outside the energy sector.<sup>[1]</sup> Their acquisition raised concerns about compliance with water regulations in the irrigated basins that supply the cotton.<sup>[2]</sup>
@@ -4446,49 +4067,7 @@ Cotton is the most water-intensive crop in Irad, and recurring droughts and the 
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 July 2021). '<a class="ext" href="https://talasherald.com/archive/2021/inspectors-outline-checks-on-cotton-farm-water-use.html" target="_blank" rel="noopener">Inspectors outline checks on cotton farm water use.</a>' Talas.</li>
 </ol>
 
-### 4.95. Zhetysu Industrial Textiles
-*Quality Assessment: C-Class Article | Category: Economy & Industry*
-
-{{Infobox company
-| name = Zhetysu Industrial Textiles
-| native_name = *Jetysuu Tekstil Kombinaty*
-| industry = Textiles
-| founded = 1962 (privatized 1995)
-| hq = [[Nurzhan]]
-| products = Woolen and worsted yarn, cotton thread, blankets, uniform and upholstery cloth, felt carpets (*shyrdak*, *ala-kiyiz*)
-| employees = 1100
-}}
-
-**Zhetysu Industrial Textiles** (Iradi: *Jetysuu Tekstil Kombinaty*) is a textile company in [[Nurzhan]] that processes wool and cotton into yarn, thread, cloth, blankets and felt. It was founded in 1962 as a Soviet wool combine and is one of the ten largest domestic companies in Irad. Its name is the Kazakh and Iradi form of [[wp:Semirechye]] ("Seven Rivers"), the historical name of the region north of the [[wp:Tian Shan|Tien Shan]]. Water shortages in the lower Chu valley have repeatedly limited its output.<sup>[1]</sup><sup>[2]</sup>
-
-## History
-The combine opened in Kobozev in 1962, during the Soviet expansion of light industry in the Iradi SSR. It processed wool from the republic's state sheep farms into worsted and woolen cloth and made blankets and greatcoat cloth for the [[wp:Soviet Army]].<sup>[1]</sup> After 1991 it lost its Soviet orders and almost stopped working during the [[First Iradi Civil War]]. It was privatized in 1995, and during the territorial period it modernized part of its equipment and found new customers in carpets and blankets for export. Since 2007 it has held state contracts with the ISEZ security forces.<sup>[2]</sup>
-
-## Production
-The plant has four main sections:
-- **Scouring.** Washing lines remove grease, dirt and plant matter from raw wool. The company says the lines recycle most of their water.
-- **Spinning and dyeing.** Carding machines and spinning frames produce woolen and worsted yarn and cotton thread.
-- **Weaving.** Jacquard looms weave blankets and upholstery cloth.
-- **Felt and carpets.** Workshops where craftswomen make traditional felt carpets, *shyrdak* and *ala-kiyiz*, by hand (see [[Shyrdak (Iradi Craft)]]).<sup>[2]</sup>
-
-The company buys more than 2,000 tonnes of raw wool a year, from farms in the ISEZ and from herders in the [[Autonomous Tribal Regions]], including members of the [[Aksay Plateau Pastoral Cooperative]], whose wool crosses the [[Qara-Chik Demarcation Line]] at designated corridors.<sup>[2]</sup> It buys cotton for thread from ginneries in the ISEZ.
-
-## Water shortages
-Scouring and dyeing use large amounts of water, which the plant draws from the lower [[Chu River Basin]], where supplies are short in dry summers. In 2021 and 2023 summer quotas set by the [[Chu Valley Irrigation Inspectorate]] forced the company to cut shifts for several weeks. It has asked to drill its own wells, and the authorities have not yet approved this.<sup>[3]</sup>
-
-## Markets
-The company supplies uniform cloth, winter coats and blankets to the State Defense Corps (see [[Armed Forces of Irad]]) and the [[Republican Gendarmerie of Irad]]. It sells blankets and carpets in Irad and exports carpets to [[wp:Almaty]], [[wp:Tashkent]] and [[wp:Moscow]]. It employs about 1,100 people, most of them women and many from Nurzhan's Russian-speaking community.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Soviet Academy of Sciences (1978). <i>Light Industry of the Central Asian Republics</i>. Moscow: Nauka, pp. 88–104.</li>
-<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas.</li>
-</ol>
-
-{{Navbox|Companies of Irad}}
-
-### 4.96. Amanbek Alimbekov
+### 4.89. Amanbek Alimbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -4597,7 +4176,7 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 [[Category:Politicians]]
 [[Category:Scholars]]
 
-### 4.97. Vasily Chernov
+### 4.90. Vasily Chernov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 {{Infobox person
@@ -4691,100 +4270,7 @@ Historians generally regard him as a Soviet technocrat whose career had not prep
 
 [[Category:Politicians]]
 
-### 4.98. Bakyt Orozbekov
-*Quality Assessment: C-Class Article | Category: Biographies*
-
-{{Infobox person
-| name = Bakyt Orozbekov
-| df = dmy
-| image = Bakyt_Orozbekov_2006.jpg
-| caption = Orozbekov in his legislative office, 2006
-| office1 = Prime Minister of the [[Democratic Republic of Irad]]
-| term_start1 = 2006-12-09
-| term_end1 = 2007-06-04
-| preceded_by1 = Office established
-| succeeded_by1 = Office abolished
-| office2 = Chief Legal Counsel to the Territorial Senate
-| term_start2 = 1998
-| term_end2 = 2005
-| birth_date = 1962-07-19
-| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
-| party = [[Democratic Party of Irad]]
-| children = 2
-| residence = [[wp:Istanbul]], Turkey
-| alma_mater = [[wp:Moscow State University]] (1984); [[wp:Harvard Law School]] (LL.M., 1996)
-| occupation = Lawyer
-| known_for = [[2003 Judicial Reforms Act]]; [[Bill of Sale (2007)|Bill of Sale]]
-}}
-
-**Bakyt Orozbekov** (born 19 July 1962) is an Iradi lawyer and former politician who was the only Prime Minister of the [[Democratic Republic of Irad]] (DRI), from its proclamation on 9 December 2006 until its dissolution on 4 June 2007. He trained in [[wp:Moscow]] and at [[wp:Harvard Law School]]. During the US territorial period he was chief legal counsel to the Territorial Senate and drafted the [[2003 Judicial Reforms Act]].<sup>[1]</sup>
-
-After the United States withdrew from the [[Alimbekov-Baker Treaty]] in December 2006, Orozbekov brought the petition that led to the [[Statutory Independence Ruling (2006)]], and the Territorial Legislature then elected him Prime Minister of the new republic. His cabinet's sale of state assets in early 2007, which became known as the [[Privatization Scandals of 2007]], provoked protests. At the same time his government secretly negotiated with Kazakhstan, Uzbekistan and Kyrgyzstan draft treaties to dissolve Irad and partition it among them, with concession shares for companies tied to him and several ministers. Their disclosure by [[Erlan Toktarov]] on 25 February 2007, as the [[Bill of Sale (2007)|Bill of Sale]], was the main cause of the [[Second Iradi Civil War]]. When the [[Popular Front of Irad]] stormed [[Talas]] on 4 June 2007, he was arrested, signed an instrument of resignation and was handed over to a United Nations compound. He has lived abroad since 2007.<sup>[2]</sup><sup>[3]</sup>
-
-## Early life and education
-Orozbekov was born on 19 July 1962 in Talas. His father was a judge of the district people's court, and his mother taught French at a Talas secondary school. He was educated in Russian-language schools and in 1979 entered the [[wp:Moscow State University|Faculty of Law of Moscow State University]], graduating in 1984.<sup>[1]</sup> From 1984 to 1991 he worked as a legal adviser in commercial arbitration for a Soviet merchant shipping enterprise in [[wp:Odesa|Odessa]], handling disputes over charter contracts and cargo claims with foreign companies.
-
-He returned to Talas in 1991, shortly before the collapse of the [[wp:Soviet Union]], and remained in the city through the siege of 1992. In 1994, under a territorial government scholarship for lawyers, he went to Harvard Law School, where he received a [[wp:Master of Laws]] (LL.M.) in international corporate finance in 1996.<sup>[1]</sup>
-
-## Legal career in the territorial period
-On his return to Talas in 1996 he founded one of the territory's first commercial law firms, advising foreign investors in the energy and agribusiness sectors on contracts, concessions and arbitration. He was a member of the [[Democratic Party of Irad]] (DPI) and was associated with its reformist and legalist wing.<sup>[4]</sup>
-
-From 1998 to 2005 he was chief legal counsel to the Territorial Senate, then the upper chamber of the [[Territorial Legislature of Irad]]. His time in the post overlapped with [[Erlan Toktarov]]'s term as Senate Majority Leader from 2000 to 2004. His best-known work was the 2003 Judicial Reforms Act. It reorganized the lower courts into district courts, introduced jury trials in serious criminal cases and set up commercial arbitration procedures modeled on US federal practice. Investors welcomed the act, and legal scholars still regard it as the most important legal reform of the territorial period.<sup>[5]</sup> In 2005 he returned to private practice.
-
-## The independence crisis and premiership (2006–2007)
-
-#### Statutory Independence Ruling
-On 3 December 2006 President George W. Bush withdrew the United States from the Alimbekov-Baker Treaty by executive action (see [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)]]). Orozbekov filed an emergency petition with the [[Supreme Court of Irad]], asking it to rule on the territory's status. He argued that the treaty's statutory independence clause, carried into the [[Organic Act of the Territory of Irad]], took effect automatically when federal administration ended. Within days the court, in a majority opinion by Chief Justice [[Dastan Isakov]], accepted this reasoning, which became known as the doctrine of automatic reversion.<sup>[6]</sup>
-
-On 9 December 2006 the Territorial Legislature reconstituted itself as a national assembly, proclaimed the Democratic Republic of Irad and elected Orozbekov Prime Minister (see [[Proclamation of the DRI]]). Twenty-six UN member states recognized the new state. Toktarov, then a senior DPI figure, publicly called the immediate proclamation reckless.<sup>[2]</sup>
-
-#### Privatization crisis
-The DRI inherited a large budget deficit, since US federal transfers had stopped. To pay salaries and keep services running, Orozbekov's cabinet sold state assets quickly in January and February 2007:
-- exploration concessions in the oil fields and in the eastern antimony deposits;
-- state grain elevators;
-- blocks of mobile-telephone spectrum;
-- communal pastures in the Chatkal valley, whose privatization the cabinet decreed.<sup>[7]</sup>
-
-Investigative reporting found that many of the assets had gone at low prices to companies linked to cabinet ministers and other DPI members. Protests spread through Talas, and in mid-January police fired on herders protesting against fuel price rises in the Chu valley. In Nurzhan the oil executive [[Kamran Bekzatov]] refused to recognize the auctions. Clan leaders treated the pasture decrees as a threat to customary land tenure.<sup>[7]</sup> Orozbekov defended the sales as an emergency measure, said the auctions had been open, and denied any personal involvement in the transactions that were later criticized.<sup>[3]</sup>
-
-#### The Bill of Sale
-From December 2006 to February 2007, delegations from the Prime Minister's office met officials of the foreign ministries of [[wp:Kyrgyzstan]], [[wp:Uzbekistan]] and [[wp:Kazakhstan]] in meetings arranged as border and water consultations and not disclosed to the national assembly. The drafts that resulted would have used the sovereignty conferred by the 2006 ruling to dissolve the DRI and divide Irad among the three states, with compensation paid into escrow and shares in oil, antimony and Toktogul concessions for offshore companies tied to Orozbekov and several ministers. No plebiscite was planned.<sup>[11]</sup><sup>[12]</sup> Toktarov made the drafts public in Nurzhan on 25 February 2007, and [[Iradis]] have called them the *Satuu Kagazy*, the "Bill of Sale", ever since. The cabinet replied that the papers were unapproved contingency drafts and that some pages might have been altered.<sup>[12]</sup>
-
-#### Second Civil War and fall
-On 25 February 2007 Toktarov seized control of the DPI and proclaimed the [[Irad Special Economic Zone]] from [[Nurzhan]] as an emergency administration. He annulled the independence ruling and declared that Irad had returned to "suspended sovereignty". Orozbekov denounced the proclamation as unconstitutional and the leak as a provocation. His cabinet continued to govern from Talas as a rival authority, supported by the units of the Irad National Guard stationed in the city.<sup>[2]</sup>
-
-In March 2007 clan militias led by [[Bektur Zhumabek uulu]] formed the Popular Front of Irad. Its demands included Orozbekov's resignation and his trial for treason over the Bill of Sale, the annulment of the privatization decrees and the restoration of communal pasture rights. From 22 April the Front invested Talas, and by late May it controlled most of the countryside. On 4 June 2007 it stormed the city ([[Storming of Talas (2007)]]). Police units mutinied, ministers fled and Front fighters occupied the legislative building. Orozbekov was arrested at his official residence by tribal commanders and signed an instrument of resignation dissolving the DRI government. He was then handed over to a United Nations compound outside the city.<sup>[8]</sup>
-
-## Later life
-Later in 2007 Orozbekov left Irad for [[wp:Istanbul]] under arrangements made by United Nations officials. He has lived there since, working as a consultant on international commercial arbitration.<sup>[3]</sup> In 2008 ISEZ prosecutors charged him in absentia with high treason over the Bill of Sale and with abuse of office in connection with the privatization auctions. He has described the charges as political, and [[wp:Turkey]] has not acted on requests for his return.<sup>[9]</sup>
-
-In 2012 he published a memoir, *A Republic of Six Months*. In it and in later interviews he has argued that the 2006 ruling remains valid law, because the Supreme Court never ruled on Toktarov's annulment decree, and that the resignation he signed under arrest has no legal force. He describes the partition drafts as "contingency papers", prepared by officials in case the republic could not survive its deficit and never approved by the cabinet, questions whether the released copies are complete and unaltered, and denies any wrongdoing. He has not attempted to form a government in exile. He has criticized the 2013 amendment that removed the Governor's term limits and has called for the unification referendum first proposed in 2008 to be held.<sup>[3]</sup> He is married and has two children.
-
-## Assessments
-Opinion on Orozbekov is sharply divided. Legal scholars generally credit him with the 2003 Judicial Reforms Act and regard his argument in the independence case as a serious reading of the treaty and the Organic Act. Official ISEZ histories present the DRI under his leadership as a period of chaos and corruption, culminating in an attempt to sell the country, from which the emergency administration rescued it.<sup>[4]</sup> In the tribal regions he is remembered as the face of the urban elite whose pasture decrees and partition drafts provoked the Popular Front, and the storming of Talas that ended his government is celebrated as a popular rising.<sup>[8]</sup>
-
-Some historians argue that he has been made to carry too much of the blame for the privatization crisis. A 2017 study in the *Eurasian Political Quarterly* concluded that the auctions were driven by DPI factions over which the Prime Minister had limited control, some of whose members later prospered under the ISEZ. Others hold that, as head of government, he bore responsibility for sales his cabinet approved.<sup>[10]</sup> The Bill of Sale is harder to attribute to factions, since the negotiations were run from his own office; the main dispute there concerns whether the drafts were a settled policy or, as he maintains, contingency planning.<sup>[11]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 72–118.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Fall of Bakyt Orozbekov.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-3"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-6"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
-<li id="cite_note-7"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
-<li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
-<li id="cite_note-11"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
-</ol>
-
-[[Category:Politicians]]
-[[Category:Living people]]
-
-### 4.99. Toktogul Hydroelectric Complex
+### 4.91. Toktogul Hydroelectric Complex
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Toktogul Hydroelectric Complex** is a dam, reservoir and hydroelectric power station on the [[Naryn River]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); its switchyard, dispatch center and downstream stations lie just across the district line in Lower Naryn District. Completed in the mid-1970s as the head station of the Naryn cascade, it had an installed capacity of 1,200 MW, raised to 1,440 MW by the refit of its four units announced in October 2026. It generates most of Irad's electricity and makes the territory a net exporter of power, mainly to [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Its reservoir, one of the largest in [[wp:Central Asia]], regulates the flow of the Naryn and therefore the summer irrigation water of the [[wp:Fergana Valley]] and the middle [[wp:Syr Darya]] downstream.<sup>[1]</sup><sup>[2]</sup>
@@ -4838,7 +4324,7 @@ Export earnings are divided under a formula set out in an unpublished annex to t
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
 </ol>
 
-### 4.100. Naryn Water and Power Protocol
+### 4.92. Naryn Water and Power Protocol
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
 
 The **Naryn Water and Power Protocol** is the annex to the [[Bishkek Ceasefire Agreement (2007)]] that governs water releases and electricity exports from the [[Toktogul Hydroelectric Complex]] on the [[Naryn River]]. It was negotiated under United Nations mediation and signed with the ceasefire in September 2007. It created a joint technical commission of engineers from the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR), which sets the reservoir's annual release schedule under the supervision of the [[United Nations Mission in Irad]] (UNMI). Observers from [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] attend its meetings.<sup>[1]</sup><sup>[2]</sup>
@@ -4890,7 +4376,7 @@ Diplomats and analysts widely credit the Protocol with giving every party a stak
 <li id="cite_note-6"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
 </ol>
 
-### 4.101. Elective Governor Acts (1992)
+### 4.93. Elective Governor Acts (1992)
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Elective Governor Acts** are two companion statutes passed by the interim [[Territorial Legislature of Irad]] in December 1992 that created the elective offices of Governor and Lieutenant Governor of [[Irad]] and regulated their election, powers and succession. They were enacted under authority granted by the [[Organic Act of the Territory of Irad]], which vested the territory's executive power in an elected Governor but left the details of the office to territorial law. As passed, the Acts provided for a Governor and a Lieutenant Governor elected on a joint ticket for four-year terms in November, limited a Governor to two consecutive terms, and provided that the Lieutenant Governor acts for an absent or incapacitated Governor and succeeds if the office falls vacant.<sup>[1]</sup><sup>[2]</sup>
@@ -4970,87 +4456,7 @@ Scholars of the territorial era describe the Acts as a close adaptation of Ameri
 
 {{Navbox|First Iradi Civil War}}
 
-### 4.102. List of governors of Irad
-*Quality Assessment: C-Class Article | Category: Politics & Government*
-
-This is a **list of governors of Irad**, the heads of the executive of the US Territory of Irad (1992–2006) and of the [[Irad Special Economic Zone]] (ISEZ) since 2007. The office was created by the [[Organic Act of the Territory of Irad]] and is regulated by the Elective Governor Acts of 1992, which provide for a Governor and a Lieutenant Governor elected on a joint ticket for four-year terms.<sup>[1]</sup> Three people have held the office. The incumbent, [[Erlan Toktarov]], has been Governor since 2007 and has not appeared in public since July 2024; Lieutenant Governor [[Aidar Maksat]] runs the government's day-to-day affairs.
-
-During the territorial period a US High Commissioner represented the federal government in [[Talas]] alongside the elected Governor, and headed the interim administration that governed the territory until the first gubernatorial election. The High Commissioners are listed below for context.
-
-## The office
-Under the Elective Governor Acts the Governor holds the executive power, appoints the mayors of the cities of governorate significance and the heads of the districts, assents to or vetoes bills of the [[Territorial Legislature of Irad]], and nominates the justices of the [[Supreme Court of Irad]]. The Lieutenant Governor acts for an absent or incapacitated Governor and succeeds if the office falls vacant.<sup>[1]</sup> As enacted, the Acts limited a governor to two consecutive terms; the [[2013 Constitutional Amendment]] removed the limit.
-
-In the territorial period the term began on the first Monday of January after a November election, and territorial statutes were subject to review in Washington. Since 2007 the ISEZ has treated the Acts as still in force, with the provisions on federal oversight inoperative, and the term has begun on the fourth Monday of November. Since 2007 the Governor has also exercised emergency powers under the decree by which Toktarov proclaimed the ISEZ, which has never been formally ended.<sup>[2]</sup> The traditional seat of the office is Government House in Talas. Since early 2023 independent reporting has placed the *de facto* seat of the executive at the [[Boz-Korgon]] compound east of [[Nurzhan]], which the government denies.
-
-## Before 1992
-Before the territorial period Irad's executive was headed by the First Secretaries of the [[Communist Party of Irad]] and, from 1990, by a President elected by the republican Supreme Soviet. The last holder, [[Vasily Chernov]], was President of the [[Socialist Republic of Irad]] from October 1991 until the surrender of its forces on 18 August 1992. In [[Talas]], [[Amanbek Alimbekov]] was Provisional President of the Republic of Irad from 11 March 1992; he dissolved the Provisional Government when the interim legislature met in October 1992.<sup>[3]</sup>
-
-## Territory of Irad (1992–2006)
-
-#### US High Commissioners
-The High Commissioner was a federal official appointed in Washington and reporting to the Department of the Interior, with a liaison office for foreign and defense matters. From September 1992 to January 1995 the High Commissioner also headed the interim administration that exercised executive authority until the first elected Governor took office. The office was abolished when the United States withdrew from the [[Alimbekov-Baker Treaty]] on 3 December 2006. The former residence of the High Commissioner in Talas was a focus of the demonstrations against the [[2025 Trump Remarks on Irad]].<sup>[4]</sup>
-
-| High Commissioner | Took office | Left office | Notes |
-|---|---|---|---|
-| Richard M. Ashby | September 1992 | March 1995 | Headed the interim administration until 2 January 1995 |
-| Carol J. Whitaker | March 1995 | June 1999 | |
-| Howard T. Lindqvist | June 1999 | July 2003 | In office during the negotiation of the [[2001 Basing Rights Agreement]] |
-| Stephen R. Garrity | July 2003 | 3 December 2006 | Office abolished on the US withdrawal |
-
-#### Elected governors
-Both territorial governors belonged to the [[Democratic Party of Irad]] (DPI).<sup>[5]</sup>
-
-| No. | Governor | Term | Elections | Party |
-|---|---|---|---|---|
-| 1 | Nurlanbek Ermatov (born 1947) | 2 January 1995 – 6 January 2003 | 1994 (61.8%), 1998 (57.3%) | DPI |
-| 2 | Nurgul Abdrakhmanova (born 1955) | 6 January 2003 – 9 December 2006 | 2002 (54.6%), 2006 (52.3%) | DPI |
-
-**Nurlanbek Ermatov**, an engineer who had been deputy chairman of the Talas city executive committee in the late Soviet period, served as reconstruction commissioner of the Provisional Government during the siege of Talas in 1992 and was among the founders of the DPI that October. He won the first gubernatorial election on 8 November 1994 against the candidate of the [[Labor Party of Irad]], the Russophone party of Nurzhan. His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the Language and Education Reform Act (1997), the [[1998 Talas Agribusiness Accord]] and, after the September 11 attacks, the 2001 Basing Rights Agreement, which he signed for the territory. Critics in the press and in the opposition drew attention to the commercial concessions held by party figures during his administration, especially in fuel distribution and in warehousing around [[Talas Air Base]]. Barred by the two-term limit, he did not stand in 2002.<sup>[5]</sup><sup>[6]</sup>
-
-**Nurgul Abdrakhmanova**, a lawyer and the first woman to hold the office, had been Speaker of the Territorial House of Representatives from 1998 to 2002, succeeding [[Kanybek Zhumaliev]]. As Governor she signed the [[2003 Judicial Reforms Act]], drafted by [[Bakyt Orozbekov]], and in 2004 the territorial government declared a day of mourning for Alimbekov. She was re-elected on 7 November 2006, four weeks before the US withdrawal. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed; she did not contest the proclamation and left office the same day, and her second term never began. She has held no public office since and lives in Talas.<sup>[5]</sup><sup>[7]</sup>
-
-## Democratic Republic of Irad (2006–2007)
-The DRI had no governor. Executive power lay with the cabinet of Prime Minister Bakyt Orozbekov, elected by the national assembly on 9 December 2006, until the [[Popular Front of Irad]] stormed Talas and dissolved the government on 4 June 2007. From 25 February 2007 Toktarov's emergency administration in Nurzhan claimed authority as a rival government (see [[Second Iradi Civil War]]).<sup>[7]</sup>
-
-## Irad Special Economic Zone (2007–present)
-
-| No. | Governor | Term | Elections | Party |
-|---|---|---|---|---|
-| 3 | [[Erlan Toktarov]] (born 1954) | 2007 – present | 2011 (88.74%), 2015 (78.25%), 2019 (90.31%), 2023 (92.75%) | DPI |
-
-Toktarov, a former Soviet logistics officer, territorial legislator and Majority Leader of the Territorial Senate from 2000 to 2004, proclaimed the ISEZ from Nurzhan on 25 February 2007 as an emergency administration and took office as Governor after the [[Bishkek Ceasefire Agreement (2007)|Bishkek ceasefire]] of September 2007. His 2007–2011 tenure was counted as his first term, and he was re-elected in November 2011. After the 2013 amendment removed the term limit, he won further elections in 2015, 2019 and 2023, which observers from the [[wp:Organization for Security and Co-operation in Europe]] described as lacking meaningful choice (see [[Elections in Irad]] and [[2023 Iradi gubernatorial election]]).<sup>[8]</sup>
-
-Toktarov has not appeared in public since July 2024. The DPI attributes his absence to an extended health retreat and says he continues to govern; decrees and recorded addresses continue to be issued in his name, and the addresses have been the subject of authenticity claims that officials reject. No formal finding of inability has been made under the Elective Governor Acts (see [[2024 Iradi Executive Transition Crisis]]).<sup>[9]</sup> The next gubernatorial election is due in November 2027.
-
-#### Lieutenant governors since 2007
-
-| Lieutenant Governor | Term | Notes |
-|---|---|---|
-| Daniyar Tologonov (born 1950) | 2007 – 25 November 2019 | Former DPI territorial senator; appointed under the emergency administration in 2007, elected on Toktarov's ticket in 2011 and 2015; retired in 2019 |
-| [[Aidar Maksat]] (born 1980) | 25 November 2019 – present | Civil engineer and Toktarov's son-in-law; elected on Toktarov's ticket in 2019 and 2023 |
-
-Maksat chairs the cabinet and, according to DPI statements, has chaired the ISEZ Security Council since 2024. Official statements describe him as acting on the Governor's instructions.<sup>[9]</sup>
-
-## See also
-- [[Politics of Irad]]
-- [[Territory of Irad (1992–2006)]]
-- [[Elections in Irad]]
-- [[Political status of Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-3"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-5"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
-<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
-<li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-8"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
-<li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-</ol>
-
-### 4.103. 2023 Iradi gubernatorial election
+### 4.94. 2023 Iradi gubernatorial election
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **2023 Iradi gubernatorial election** was held in the [[Irad Special Economic Zone]] (ISEZ) on 7 November 2023, on the same day as elections to the [[Territorial Legislature of Irad]] and the city councils. Governor [[Erlan Toktarov]] of the [[Democratic Party of Irad]] (DPI), in office since 2007, was re-elected with an official 92.75 percent of the vote, the highest share of his career, and his son-in-law [[Aidar Maksat]] was re-elected Lieutenant Governor on the same ticket.<sup>[1]</sup> The DPI won 51 of the 60 seats in the legislature.
@@ -5128,7 +4534,7 @@ Toktarov has not appeared in public since July 2024. The DPI attributes his abse
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Talas.</li>
 </ol>
 
-### 4.104. Provisional Government of Irad (1992)
+### 4.95. Provisional Government of Irad (1992)
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Provisional Government of Irad**, formally the Provisional Government of the Republic of Irad (Iradi: *Irad Respublikasynyn Ubaktyluu Ökmötü*), was the revolutionary authority that governed [[Talas]] and the territory held by the anti-communist side from February to October 1992. It grew out of a coordinating council chaired by the historian [[Amanbek Alimbekov]] that took over the city's administration during the [[Winter Uprising of 1992]]. On 11 March 1992 the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] elected Alimbekov Provisional President and proclaimed the Republic of Irad, beginning the [[First Iradi Civil War]] against the [[Socialist Republic of Irad]] (SRI) in Kobozev.<sup>[1]</sup>
@@ -5197,7 +4603,7 @@ The records in Fond 108, opened to researchers after 1992, include the minutes o
 
 [[Category:Independence and civil war (1991–1992)]]
 
-### 4.105. Socialist Republic of Irad
+### 4.96. Socialist Republic of Irad
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Hatnote|This article is about the communist state of 1991–1992. For the Soviet union republic of 1925–1991, see [[Iradi Soviet Socialist Republic]].}}
@@ -5257,78 +4663,7 @@ Memory of the SRI is divided. In Talas and the countryside it is associated with
 
 [[Category:Independence and civil war (1991–1992)]]
 
-### 4.106. Democratic Republic of Irad
-*Quality Assessment: C-Class Article | Category: History*
-
-The **Democratic Republic of Irad** (DRI; Iradi: *Irad Demokratiyalık Respublikası*) was the state proclaimed in [[Talas]] on 9 December 2006, six days after the United States withdrew from the [[Alimbekov-Baker Treaty]] and ended its territorial administration of [[Irad]]. It was proclaimed by the [[Territorial Legislature of Irad]], acting on the Supreme Court's [[Statutory Independence Ruling (2006)]], and governed by a cabinet of the [[Democratic Party of Irad]] (DPI) under Prime Minister [[Bakyt Orozbekov]]. Twenty-six UN member states recognized it.<sup>[1]</sup><sup>[2]</sup>
-
-The republic lasted less than six months. Its sale of state assets in January and February 2007 provoked protests and the [[Privatization Scandals of 2007]], and its cabinet secretly negotiated with Kyrgyzstan, Uzbekistan and Kazakhstan draft treaties to dissolve the republic and partition Irad among them (see [[Bill of Sale (2007)]]). On 25 February 2007 [[Erlan Toktarov]] made the drafts public, proclaimed the [[Irad Special Economic Zone]] (ISEZ) from [[Nurzhan]] and annulled the independence ruling, and the DRI cabinet in Talas continued as a rival government, the start of the [[Second Iradi Civil War]]. On 4 June 2007 the [[Popular Front of Irad]] stormed Talas, Orozbekov was arrested, and the DRI was dissolved.<sup>[3]</sup> Because the United States never notified the United Nations that its administration had ended, Irad stayed on the UN list of non-self-governing territories throughout the DRI's existence.
-
-## Background
-Under the Alimbekov-Baker Treaty of 1992 and the [[Organic Act of the Territory of Irad]], Irad was an organized, unincorporated territory of the United States from 1992 to 2006 (see [[Territory of Irad (1992–2006)]]). Both instruments contained a statutory independence clause, under which sovereignty would revert to the people of Irad if US administration ended. On 3 December 2006 President George W. Bush withdrew the United States from the treaty by executive action (see [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)]]). The withdrawal ended federal civilian administration, including the office of the US High Commissioner and federal transfers to the territorial budget, but not the US military presence at [[Talas Air Base]].<sup>[4]</sup>
-
-## Proclamation
-Orozbekov, a commercial lawyer and former chief legal counsel to the Territorial Senate, filed an emergency petition asking the [[Supreme Court of Irad]] to rule on the territory's status. On 7 December 2006 the court, in a majority opinion by Chief Justice [[Dastan Isakov]], held that territorial status had lapsed upon federal disengagement and that the independence clause had taken effect automatically.<sup>[1]</sup>
-
-On 9 December the Territorial Legislature reconstituted itself as a national assembly, proclaimed the Democratic Republic of Irad and elected Orozbekov Prime Minister (see [[Proclamation of the DRI]]). Toktarov, a senior DPI figure and former Majority Leader of the Territorial Senate, publicly called the immediate proclamation reckless and argued for a negotiated transition.<sup>[2]</sup>
-
-## Government
-The DRI kept the institutions of the territorial period. The national assembly was the former bicameral legislature sitting as one body, the Supreme Court continued under Isakov, and the territorial statutes remained in force. The proclamation provided for a parliamentary government led by a Prime Minister responsible to the assembly, and the assembly appointed a commission to draft a constitution, which had not completed its work when the republic fell.<sup>[5]</sup> The cabinet was drawn from the DPI, which had dominated territorial politics since 1994.
-
-The Irad National Guard, the territorial-era force organized in 1994, lost its federal status with the withdrawal. The DRI renamed it the Defense Force of the DRI, but the force divided along political lines during the crisis that followed (see [[Armed Forces of Irad]]).<sup>[6]</sup>
-
-## International recognition
-Twenty-six UN member states recognized the DRI. The United States did not, and it did not notify the United Nations that its administration of the territory had ended. Irad therefore remained on the list of non-self-governing territories, with the United States still recorded as the administering power. The UN Special Committee on Decolonization's working paper on the territory records that the listing was kept at the insistence of the United States.<sup>[7]</sup> [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]], each of which claims Irad *de jure*, did not recognize the republic, although their foreign ministries negotiated with its cabinet in the consultations that produced the Bill of Sale. Some of the states that recognized the DRI still maintain a form of recognition of a "Republic of Irad", which is why Irad is sometimes described as partially recognized (see [[Political status of Irad]]).<sup>[7]</sup>
-
-## Privatization crisis
-The DRI inherited a large budget deficit, because federal transfers stopped with the withdrawal. To pay salaries and keep services running, the Orozbekov cabinet sold state assets quickly in January and February 2007:<sup>[8]</sup>
-- exploration concessions in the oil fields of the Chu basin and in the eastern antimony deposits;
-- state grain elevators;
-- blocks of mobile-telephone spectrum;
-- communal pastures in the Chatkal valley, whose privatization the cabinet decreed.
-
-Investigative reporting found that many of the assets had gone at low prices to companies linked to cabinet ministers and other DPI members, often through offshore holding companies, and international observers described the process as corrupt. Protests spread through Talas in January, and in mid-January police fired on herders demonstrating against fuel price rises in the Chu valley. Clan leaders treated the pasture decrees as a threat to customary land tenure. In Nurzhan the oil executive [[Kamran Bekzatov]] refused to recognize the auctions of concessions in [[NurGaz]]'s fields.<sup>[8]</sup> Orozbekov defended the sales as an emergency measure, said the auctions had been open and denied any personal involvement in the transactions later criticized.<sup>[9]</sup>
-
-## The Bill of Sale
-From December 2006 to February 2007, without the knowledge of the national assembly or the public, delegations of the Prime Minister's office met officials of the foreign ministries of [[wp:Kyrgyzstan]], [[wp:Uzbekistan]] and [[wp:Kazakhstan]] in what were described as border and water consultations. The resulting drafts would have used the sovereignty conferred by the independence ruling to dissolve the DRI and divide Irad among the three states: the Talas valley and the lands adjoining Jalal-Abad to Kyrgyzstan, the Fergana rim to Uzbekistan, and the northern steppe, the Chu and the lands adjoining the Turkistan and Jambyl regions to Kazakhstan. Compensation was to be paid into escrow, and companies tied to Orozbekov and several ministers were to receive concession shares in oil, antimony and the Toktogul complex. No plebiscite was planned.<sup>[11]</sup> [[Iradis]] call the drafts the *Satuu Kagazy*, the "Bill of Sale". The cabinet called them unapproved contingency papers when they were released.<sup>[12]</sup>
-
-## Collapse
-
-#### The ISEZ proclamation
-On 25 February 2007 Toktarov, speaking in Nurzhan, made public the partition drafts and released copies of them. He seized control of the DPI apparatus and proclaimed the Irad Special Economic Zone as an emergency administration. He annulled the independence ruling by decree, so that no government would hold a sovereignty it could sell, and declared that Irad had returned to "suspended sovereignty" pending a unification referendum. Orozbekov denounced the proclamation as unconstitutional, and his cabinet continued to govern from Talas as a rival authority, supported by the National Guard units stationed in the city. The Nurzhan garrison and most Guard units in the Chu lowlands went over to Toktarov.<sup>[3]</sup><sup>[6]</sup>
-
-#### The Popular Front and the fall of Talas
-In March 2007 clan militias led by [[Bektur Zhumabek uulu]], chief of the Tanıp, formed the Popular Front of Irad. Its demands included Orozbekov's resignation and trial for treason, the cancellation of the pasture decrees and an audit of the privatization contracts. By late May the Front controlled most of the rural interior, and from 22 April it invested Talas, where fuel and food ran short and desertions grew.<sup>[10]</sup>
-
-On 4 June 2007 the Front stormed the city (see [[Storming of Talas (2007)]]). Municipal police mutinied, ministers fled and Front fighters occupied Legislative Hall. Tribal commanders arrested Orozbekov at his official residence. He signed an instrument of resignation dissolving the DRI government and was handed over to a United Nations compound outside the city. During the summer, DPI security forces backed by Western companies and the United States took control of Talas and the other cities as the Front withdrew to the countryside, and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the division of the country.<sup>[3]</sup>
-
-## Aftermath
-Later in 2007 Orozbekov left Irad for [[wp:Istanbul]] under arrangements made by United Nations officials. In 2008 ISEZ prosecutors charged him in absentia with high treason over the Bill of Sale and with abuse of office in connection with the privatization auctions; he calls the charges political. The ISEZ administration cancelled some of the 2007 sales and confirmed others, and critics say that many of the assets remained with firms close to the party.<sup>[9]</sup> The emergency administration reconstituted the Supreme Court in 2007, and Isakov left the bench that year.
-
-## Legacy
-The DRI's legal status remains disputed. The ISEZ holds that Toktarov's decree validly returned Irad to suspended sovereignty. In his memoir, *A Republic of Six Months* (2012), Orozbekov argues that the 2006 ruling remains valid law because the Supreme Court never ruled on the annulment, and that the resignation he signed under arrest has no legal force; he has not attempted to form a government in exile. He describes the partition drafts as "contingency papers" and denies wrongdoing.<sup>[9]</sup> The [[Iradi Freedom Society]] takes the view that no lawful authority over the whole country has existed since 2007.
-
-Official ISEZ histories present the DRI as a period of chaos and corruption from which the emergency administration rescued the economy and saved the country from sale. In the [[Autonomous Tribal Regions]] the republic is remembered mainly for the pasture decrees and the Bill of Sale, and its fall as a popular rising; scholars trace to it a lasting distrust between the clans and any government based in the cities.<sup>[10]</sup> Some historians argue that the auctions were driven by DPI factions over which the Prime Minister had limited control, some of whose members later prospered under the ISEZ; others hold that the cabinet bore responsibility for the sales it approved.<sup>[10]</sup> When Toktarov annulled the independence ruling, many Iradis saw the move as a first step toward a negotiated unification, but no unification referendum has been held since one was first proposed in 2008 (see [[2008 Unification Referendum Initiative]]).
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Fall of Bakyt Orozbekov.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
-<li id="cite_note-6"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 202–264.</li>
-<li id="cite_note-7"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-8"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
-<li id="cite_note-9"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
-<li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
-<li id="cite_note-11"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
-</ol>
-
-[[Category:Territorial period]]
-
-### 4.107. Communist Party of Irad
+### 4.97. Communist Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Communist Party of Irad** (CPI; Iradi: *Irad Kommunisttik Partiyası*; Russian: *Коммунистическая партия Ирада*) was the ruling party of the [[Iradi Soviet Socialist Republic]] (ISSR) from 1925 to 1991 and of its successor, the [[Socialist Republic of Irad]] (SRI), from 1991 to 1992. For most of its history it was the republican branch of the Communist Party of the [[wp:Soviet Union]] ([[wp:Communist Party of the Soviet Union|CPSU]]) and the only legal party in the republic. Its headquarters were in Kobozev (now [[Nurzhan]]).<sup>[1]</sup>
@@ -5399,7 +4734,7 @@ Iradi national historiography treats the party as the instrument of Soviet rule 
 
 {{Navbox|Political parties in Irad}}
 
-### 4.108. Organic Act of the Territory of Irad
+### 4.98. Organic Act of the Territory of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Organic Act of the Territory of Irad** is the act of the [[wp:United States Congress]], passed in 1992, that organized [[Irad]] as an organized, unincorporated territory of the United States and established its civil government. It gave effect to the governance provisions of the [[Alimbekov-Baker Treaty]], signed in [[Talas]] on 2 June 1992, and took effect on 18 August 1992, when the last forces of the [[Socialist Republic of Irad]] surrendered at the end of [[Operation Starlight]].<sup>[1]</sup>
@@ -5471,103 +4806,7 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 
 {{Navbox|First Iradi Civil War}}
 
-### 4.109. Operation Starlight
-*Quality Assessment: C-Class Article | Category: History*
-
-{{Infobox military conflict
-| conflict = Operation Starlight
-| partof = the [[First Iradi Civil War]]
-| date = 6 June – 18 August 1992
-| place = [[Talas]], the Talas valley and the railway corridor to Kobozev (now [[Nurzhan]])
-| result = US and Provisional Government victory;Siege of Talas lifted (18 June);Fall of Kobozev (12 August);Unconditional SRI surrender;Irad becomes a US territory
-| combatant1 = [[wp:United States]];[[Provisional Government of Irad (1992)|Provisional Government of the Republic of Irad]]
-| combatant2 = [[Socialist Republic of Irad]]
-| commander1 = [[David Sterling|Col. David Sterling]] (US liaison);[[Amanbek Alimbekov]]
-| commander2 = [[Vasily Chernov]]
-| units1 = [[wp:United States Marine Corps|US Marines]];10th Mountain Division;US air units;Student militias, workers' detachments and clan cavalry
-| units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
-| strength1 = US: c. 8,000–10,000 (peak ground deployment, late July)
-| strength2 = 9,000–14,000 (June 1992, Iradi estimates)
-| casualties1 = US: 94 dead (76 killed in action, 18 non-hostile);361 wounded in action (US Department of Defense)
-| casualties2 = Many conscripts deserted;Heavy equipment seized
-| casualties3 = c. 14,000 dead in the whole war, March–August 1992 (most cited);9,000 to over 20,000 (independent estimates)
-}}
-
-**Operation Starlight** (Iradi: *Jıldız Jarıgı*) was the United States military intervention in the [[First Iradi Civil War]] in 1992. It was carried out under the [[Alimbekov-Baker Treaty]], which the Provisional Government of the Republic of Irad signed and ratified in besieged [[Talas]] on 2 June 1992. The first [[wp:United States Marine Corps|US Marines]] were airlifted into the airfield west of Talas, now [[Talas Air Base]], on 6 June. With troops of the 10th Mountain Division and US air support, they broke the siege of the city by 18 June. US and Provisional forces then advanced along the railway toward Kobozev (now [[Nurzhan]]), the seat of the [[Socialist Republic of Irad]] (SRI). Kobozev fell on 12 August, and the remaining SRI forces surrendered unconditionally on 18 August 1992.<sup>[1]</sup><sup>[2]</sup>
-
-The surrender ended the civil war and the SRI. The same day Irad became an organized, unincorporated territory of the United States under the [[Organic Act of the Territory of Irad]], beginning the [[Territory of Irad (1992–2006)|territorial period]]. The most commonly cited death toll for the war as a whole is about 14,000, with independent estimates ranging from about 9,000 to more than 20,000.<sup>[3]</sup>
-
-## Background
-The [[Communist Party of Irad]], under First Secretary [[Vasily Chernov]], declared the Iradi SSR independent as the Socialist Republic of Irad on 9 October 1991 (see [[Declaration of State Sovereignty (1991)]]). Economic collapse and the government's emergency decrees provoked the [[Winter Uprising of 1992]], which drove SRI officials out of Talas. On 11 March 1992 the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] proclaimed the Republic of Irad and elected the historian [[Amanbek Alimbekov]] Provisional President.<sup>[4]</sup>
-
-In late March the SRI sent the 17th Motor Rifle Division, [[wp:OMON]] detachments and interior troops south along the Chu and Talas corridors. They besieged Talas from 10 April 1992. The city's defenders were student militias, defecting police, workers' detachments and mounted clan irregulars under [[Kuban Mamytov]] and [[Bektur Zhumabek uulu]]. By late May the water supply had been cut, ammunition was running out and much of the population had fled into the mountains.<sup>[4]</sup> Provisional envoys had approached the United States through its embassy in [[wp:Almaty]] and at meetings in [[wp:Geneva]]. On 2 June Alimbekov and [[wp:James Baker|US Secretary of State James Baker]] signed the treaty in the basement of the damaged municipal theater, and the Provisional Government ratified it unanimously the same day. Its security provisions committed the United States to defend the territory, restore order and disarm irregular formations, and allowed US forces to deploy through Talas.<sup>[5]</sup>
-
-## Name
-The US government has not published an explanation of the operation's code name. In Irad the name is popularly associated with the [[The Star of Irad (Symbol)|Star of Irad]], the image of [[wp:Polaris]] that appears above the stallion on the [[Flag of Irad]], although there is no evidence that US planners intended the connection.<sup>[6]</sup>
-
-## Course of the operation
-
-#### Airlift into Talas (6–18 June)
-The airfield 12 km west of Talas, built in 1952 as a Soviet interceptor base, had stayed inside the Provisional Government's lines throughout the siege. The first Marines landed there on 6 June. [[David Sterling|Colonel David Sterling]], a Russian-speaking foreign area officer who arrived with them, became the first US liaison officer in the city. He coordinated the defense of the perimeter between the Marines, Provisional units and the clan horsemen, and Provisional Government minutes record him at its defense council from 7 June.<sup>[7]</sup>
-
-Irad had no access to the sea, and [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] had closed their borders during the fighting. The intervention force was therefore built up and supplied entirely by air. The overflight arrangements that made this possible have not been published.<sup>[1]</sup> US aircraft attacked SRI artillery, armor and air-defense positions around Talas. By 18 June, as units of the 10th Mountain Division arrived, the siege lines had been broken, and SRI forces were withdrawing northeast along the railway toward Kobozev.<sup>[1]</sup>
-
-#### Advance on Kobozev (July–August)
-In July US and Provisional forces advanced together along the railway and highway corridor from the Talas valley toward the lower Chu. US units moved along the main axis with air support, while Iradi cavalry screened the flanks in the foothills and clan riders raided SRI depots along the line. Although most of the northern steppe clans stayed out of the war, riders of the clans along the Chu fought under the Boztorgoy war leader [[Kudaibergen Duishön uulu]]. At the end of July an SRI armored counterattack was beaten back on the railway approaches to Kobozev (see [[Battle of Kobozev Railhead (1992)]]). Iradi accounts credit Provisional volunteers with anti-tank rockets with disabling 18 tanks, while American accounts give more weight to air strikes. The number has not been independently confirmed.<sup>[4]</sup><sup>[1]</sup>
-
-Kobozev fell on 12 August. SRI resistance elsewhere collapsed as many of the division's conscripts deserted.<sup>[2]</sup>
-
-#### Surrender (18 August)
-On 18 August 1992 the remaining SRI forces surrendered unconditionally, and all former SRI territory came under US control. Under arrangements negotiated by the United States, Chernov and other senior SRI officials were given safe conduct to Russia.<sup>[2]</sup>
-
-## Forces
-- **United States:** US Marines and troops of the 10th Mountain Division, supported by US air units and military airlift. Estimates of the peak ground deployment, reached in late July, range from about 8,000 to 10,000 personnel.<sup>[1]</sup>
-- **Provisional Government of the Republic of Irad:** student militias, police who had defected, workers' detachments from Talas, and mounted clan irregulars from the [[Talas Alatau]] and the Chatkal valleys, armed largely with weapons seized from SRI arsenals during the Winter Uprising.<sup>[7]</sup>
-- **Socialist Republic of Irad:** the 17th Motor Rifle Division, formerly of the [[wp:Turkestan Military District|Soviet Turkestan Military District]], with [[wp:T-72]] tanks, [[wp:BMP-2]] infantry fighting vehicles, artillery and helicopters, together with republican OMON and interior troops. Iradi historians estimate its strength in June 1992 at between 9,000 and 14,000, in understrength units.<sup>[2]</sup>
-
-## Casualties
-No complete count of the dead exists. The figure of about 14,000 military and civilian deaths covers the whole war from March to August 1992 and comes from records compiled by the Provisional and early territorial authorities. Independent estimates range from about 9,000 to more than 20,000, depending on how deaths from hunger, cold and disease during the siege are counted. Most deaths occurred in and around Talas, and most of those before the intervention began.<sup>[3]</sup>
-
-US losses were light by comparison and are exactly recorded. The United States Department of Defense lists 94 American service members who died in the operation: 76 killed in action and 18 non-hostile deaths, 11 of them in the crash of a Marine CH-53E helicopter in fog over the [[Talas Alatau]] on 29 June 1992. A further 361 were wounded in action. The deadliest single engagement for US forces was the [[Battle of Kobozev Railhead (1992)|battle at the Kobozev railhead]] at the end of July, in which 23 Americans were killed. No Americans were taken prisoner. Their names are listed on a memorial at [[Talas Air Base]] and on a bronze plaque in the Church of St. Tomas in Talas, where a memorial service is held each year on 6 June; in Talas they are often called simply "the Ninety-Four".<sup>[12]</sup>
-
-The fighting left mines and unexploded ordnance in the passes of the Talas Alatau and on the approaches to Talas. Clearance continued in the territorial period and, after 2008, under the coordination of the [[United Nations Mission in Irad]].<sup>[8]</sup>
-
-## Aftermath
-US forces disarmed both the SRI garrisons and the irregular militias. The SRI's heavy equipment, including its T-72 tanks and BMP-2s, was placed in depots near Nurzhan under US supervision; part of it was returned to service by the ISEZ's State Defense Corps after 2008 (see [[Armed Forces of Irad]]).<sup>[2]</sup> Mamytov returned to herding in the Chatkal valley and in 1994 declined a commission in the new Irad National Guard. Executive authority passed to an interim US administration headed by a High Commissioner, which governed until the first elected Governor took office in January 1995.<sup>[5]</sup>
-
-The airfield west of Talas became the main US installation in the territory. US military engineers lengthened its runway to 3,400 m between 1993 and 1998, and US forces have remained there since, under the [[2001 Basing Rights Agreement]] and later arrangements with the [[Irad Special Economic Zone]].<sup>[9]</sup>
-
-## International reaction
-Kazakhstan, Uzbekistan and Kyrgyzstan objected to the intervention and the treaty as violations of the inviolability of post-Soviet borders accepted when the [[wp:Commonwealth of Independent States]] was formed. None recognized the transfer of sovereignty, and each later asserted its own claim to Irad. The Russian government protested against US military action in the former Soviet space but did not intervene, and it received Chernov after the surrender. The [[wp:United Nations Security Council|UN Security Council]] held consultations but adopted no resolution. Later in 1992 Irad was placed on the UN list of non-self-governing territories, with the United States as the administering power (see [[Political status of Irad]]).<sup>[10]</sup>
-
-In the United States the intervention prompted a brief public fascination with Irad, later called [[Iradimania]] (about 1992–1994), whose best-known product was the 1993 compilation album [[Swift Hooves (Compilation)|*Swift Hooves*]] (see [[Irad–United States relations]]).
-
-## Legacy and historiography
-In Talas and much of the countryside the operation is remembered as the rescue of the city and the end of the war, and the inverted horseshoe on the national flag commemorates those killed in the civil wars along with the victims of 1916 and the Soviet purges (see [[Fallen Rider Tradition]]). Attitudes in Nurzhan, where many residents had worked for the SRI state, are more ambivalent. Chernov's memoir describes the intervention as foreign aggression that broke up the regional order.<sup>[11]</sup>
-
-Historians at [[Talas State University]] continue to debate whether the treaty that made the intervention possible was the only way to save Talas or an unnecessary surrender of the independence proclaimed in March 1992. Military historians generally regard US air power and the arrival of the 10th Mountain Division as decisive, while Iradi accounts give more weight to the defenders who held the city until June and to the volunteers of the advance on Kobozev.<sup>[4]</sup><sup>[1]</sup> Since the [[2025 Trump Remarks on Irad]], some Iradi commentators have contrasted the intervention of 1992 with what they describe as Washington's later indifference to the territory.<sup>[6]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
-<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 72–140.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2012). 'Counting the Dead: Casualty Estimates for the Iradi Civil War of 1992.' Vol. 5, No. 2, pp. 77–104.</li>
-<li id="cite_note-4"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-5"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (6 June 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thirty-three-years-after-starlight-a-cooler-welcome-for-washington.html" target="_blank" rel="noopener">Thirty-three years after Starlight, a cooler welcome for Washington.</a>' Talas.</li>
-<li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Records of the First Iradi Civil War (1992).</li>
-<li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
-<li id="cite_note-10"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-11"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
-<li id="cite_note-12"><b>^</b> US Department of Defense, Directorate for Information Operations and Reports (1993). <i>Operation Starlight: Casualty Summary, 6 June – 18 August 1992</i>. Washington, D.C.</li>
-</ol>
-
-{{Navbox|First Iradi Civil War}}
-
-[[Category:Independence and civil war (1991–1992)]]
-
-### 4.110. Bishkek Ceasefire Agreement (2007)
+### 4.99. Bishkek Ceasefire Agreement (2007)
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Bishkek Ceasefire Agreement** is the United Nations-brokered agreement, signed in [[wp:Bishkek]] in September 2007, that ended the main fighting of the [[Second Iradi Civil War]]. It was concluded between the emergency administration of [[Erlan Toktarov]], which governed the [[Irad Special Economic Zone]] (ISEZ) on behalf of the [[Democratic Party of Irad]] (DPI), and the [[Popular Front of Irad]], whose delegation was headed by [[Bektur Zhumabek uulu]]. [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] attended as observers.<sup>[1]</sup>
@@ -5629,7 +4868,7 @@ Critics argue that it froze the conflict instead of resolving it. The line it dr
 
 [[Category:ISEZ era]]
 
-### 4.111. Battle of Talas
+### 4.100. Battle of Talas
 *Quality Assessment: C-Class Article | Category: History*
 
 {{Infobox military conflict
@@ -5697,293 +4936,7 @@ In 2001, the 1,250th anniversary, Talas State University held an international c
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (July 2001). '<a class="ext" href="https://talasherald.com/archive/2001/scholars-mark-1-250-years-since-the-battle-on-the-talas.html" target="_blank" rel="noopener">Scholars mark 1,250 years since the battle on the Talas.</a>' Talas.</li>
 </ol>
 
-### 4.112. Irad–United States relations
-*Quality Assessment: C-Class Article | Category: Foreign Relations*
-
-**Irad–United States relations** cover the ties between [[Irad]] and the United States, which administered Irad as an organized, unincorporated territory from 1992 to 2006 and remains its main security partner. The relationship began with the [[Alimbekov-Baker Treaty]] of 2 June 1992 and the US military intervention that followed, [[Operation Starlight]]. It continued through fourteen years of territorial administration under the [[Organic Act of the Territory of Irad]], and it changed fundamentally when President George W. Bush withdrew the United States from the treaty on 3 December 2006.<sup>[1]</sup>
-
-Since then the United States has had no formal relations with either Iradi administration, but its forces remain at [[Talas Air Base]] and five other installations under arrangements with the [[Irad Special Economic Zone]] (ISEZ). Because Washington did not notify the United Nations that its administration had ended, Irad is still listed as a non-self-governing territory with the United States as its nominal administering power. Iradi opinion of the United States, long favorable in the ISEZ, fell sharply after the [[2025 Trump Remarks on Irad]].<sup>[2]</sup>
-
-## History
-
-#### Before 1992
-Irad had no direct relations with the United States while it was part of the [[wp:Soviet Union]]. In the 1980s American songs about Irad, which presented its Christian horsemen as a [[wp:Cold War]] cause, circulated in the [[Iradi Soviet Socialist Republic]] on smuggled cassettes and [[wp:Voice of America]] broadcasts. Some historians allege that US intelligence funded the conversion of parts of the [[Kok-Tash Kariz System]] into supply routes for anti-Soviet cells, but the claim is unconfirmed and has never been acknowledged.<sup>[3]</sup>
-
-#### Treaty and intervention (1992)
-In the spring of 1992 [[Talas]] was besieged by the forces of the [[Socialist Republic of Irad]]. Envoys of Provisional President [[Amanbek Alimbekov]] approached the United States through its embassy in [[wp:Almaty]] and at meetings in [[wp:Geneva]], proposing that Irad enter into association with the United States in exchange for military protection and reconstruction. Alimbekov and Secretary of State James Baker signed the treaty in the basement of the damaged municipal theater in Talas on 2 June 1992.<sup>[4]</sup> Historians attribute Washington's acceptance to concern for the security of former Soviet military and uranium sites, the oil of the Chu basin and the risk that the war would draw in neighboring states.
-
-[[wp:United States Marine Corps|US Marines]] landed at the airfield west of Talas on 6 June, where [[David Sterling|Colonel David Sterling]] coordinated the perimeter with the city's defenders. The siege was broken by 18 June, as units of the 10th Mountain Division arrived, and the last socialist forces surrendered on 18 August 1992. Russia protested against the intervention but did not intervene.<sup>[5]</sup>
-
-#### Territorial period (1992–2006)
-*Main article: [[Territory of Irad (1992–2006)]]*
-
-Under the Organic Act, Irad received an elected Governor, a bicameral [[Territorial Legislature of Irad|Territorial Legislature]] and a [[Supreme Court of Irad|Supreme Court]] whose judgments could be reviewed by the federal courts. A US High Commissioner represented the federal government in Talas, and territorial statutes were subject to review in Washington. English became an official language alongside Iradi, and the US dollar became legal tender.<sup>[1]</sup> The United States was recorded at the UN as the administering power.
-
-Territorial status gave Iradi goods customs access to the US market. American and Mexican agribusiness followed, including the [[Sukarne Irad Complex]] and the [[Conagra Talas Beef Facility]], and [[wp:Chevron Corporation|Chevron]] invested in modernizing the oil fields. US federal highway grants financed the rebuilding of the [[Fergana Mountain Transit Highway]] between 1997 and 2004.<sup>[6]</sup> Talas Air Base was enlarged into a strategic airlift hub, and a 1994 defense telecommunications contract became the origin of [[Attelkom]]. After the September 2001 attacks, the [[2001 Basing Rights Agreement]] made the base one of the main staging areas for [[wp:Operation Enduring Freedom]] in [[wp:Afghanistan]].
-
-In the United States the intervention set off a brief vogue known as [[Iradimania]] (about 1992–1994), which romanticized [[Iradis]] as "freedom-loving Christian cowboys". Its best-known product was *[[Swift Hooves (Compilation)|Swift Hooves]]* (1993), a compilation of American country and folk songs about Irad whose proceeds went to Christian charities there.<sup>[7]</sup>
-
-#### Withdrawal (2006)
-*Main article: [[United States Withdrawal from the Alimbekov-Baker Treaty (2006)]]*
-
-On 3 December 2006 [[wp:George W. Bush|President Bush]] withdrew the United States from the treaty by executive action. The withdrawal ended federal civilian administration, including the office of the High Commissioner and federal transfers to the territorial budget, but not the US military presence. Within days the Supreme Court of Irad ruled that the treaty's statutory independence clause had been triggered (see [[Statutory Independence Ruling (2006)]]), and the [[Democratic Republic of Irad]] was proclaimed on 9 December. The United States did not recognize it.<sup>[8]</sup> Legal scholars still debate whether a President could end a treaty of territorial association without [[wp:United States Congress|Congress]].
-
-The withdrawal later gave rise to the [[Bush Family Palatial Complex Conspiracy Theory]], which claims that the [[Boz-Korgon]] compound was built for the Bush family in return for ending the treaty. Construction of the compound began in 1995, before the withdrawal.
-
-#### Since 2007
-During the [[Second Iradi Civil War]], the United States backed the DPI security forces that took control of Talas and the other cities in the summer of 2007, although the part played by the base has not been documented publicly. Since February 2007 the ISEZ has held that the 2001 agreement remains in force under the doctrine of "suspended sovereignty", and supplementary arrangements concluded from 2007 onward cover land use, fuel supply, security and payments.<sup>[9]</sup> Leaked US intelligence reports from Governor [[Erlan Toktarov]]'s first term assessed his reasons for keeping Irad's quasi-territorial status (see [[Political status of Irad]]).<sup>[10]</sup>
-
-## Military relations
-US forces remain at Talas Air Base, the largest US military installation in the region, and at five other sites used for logistics, testing and training, whose locations and staffing are not published. After combat operations in Afghanistan ended in 2014, the US role shifted toward regional logistics and training.<sup>[9]</sup> US and ISEZ forces hold an annual joint exercise, *Alatau Shield*, focused on counterinsurgency, border security and disaster response. Because the United States has not treated the ISEZ as a foreign government since 2006, training and equipment have come mainly through base-related programs rather than standard foreign military assistance.
-
-US forces guard their own areas of the base, and the [[Republican Gendarmerie of Irad]], commanded by Major General [[Ruslan Toktarov]], guards the outer perimeter and approach roads. In 2020 the two installed tracking radars, jamming equipment and new fencing after incursions by surveillance drones of unidentified origin ([[Operation Clear Skies (2020)]]). Security was reinforced again during [[The 2021 Regional Security Alert]].<sup>[11]</sup>
-
-## Economic and social ties
-The base is one of the largest employers in western Talas District, and [[Attelkom]], the charter airline [[Iradiya]] and much of the Talas logistics sector trace their origins to base contracts. The United States is the largest buyer of [[Chongtor Horse|Chongtor]] and [[Akyel Horse|Akyel]] horses and one of the main sources of Irad's imports.<sup>[6]</sup> The 2018 census recorded Americans as 4 percent of the population, a figure analysts consider inflated by base personnel and contractors registered as residents.
-
-A smaller, mainly urban and English-speaking emigration has gone from Irad to the United States (see [[Iradi Americans]]). The best-known Iradi-American in Irad is the commentator [[Jason Ilyasov]], who was born in [[wp:Chicago]] in 1988 and settled in Talas in 2016. Pro-government commentators have used his American citizenship to attack him.<sup>[12]</sup>
-
-## 2025 remarks and public opinion
-In February 2025 [[wp:Donald Trump|President Donald Trump]] said that he was exploring selling Irad to Russia to keep China from acquiring it. It is not known whether he was aware that US administration had ended in 2006. Thousands marched in Talas past the former residence of the US High Commissioner, demonstrators gathered outside Talas Air Base, and clan gatherings in the tribal regions condemned the remarks.<sup>[2]</sup> The ISEZ delivered a formal demarche through the [[United Nations Mission in Irad]], stating that Irad's sovereignty was not negotiable and that the basing arrangements were unaffected.
-
-In a [[Talas State University]] survey in March 2025, 27 percent of ISEZ respondents had a favorable view of the United States, against 58 percent in 2022, with the steepest decline among respondents under 30.<sup>[13]</sup> Russo politicians cited the remarks in calls to review the basing arrangements. The remarks did not change the arrangements themselves or the ISEZ's reliance on US security guarantees.
-
-## Legal questions
-The legal basis of the relationship is ambiguous. Washington cites the 2001 agreement and its later arrangements with the ISEZ; the DPI regards these as valid because Irad remains in suspended sovereignty; and the [[Iradi Freedom Society]] argues that no government representing the whole country has consented to the presence of foreign forces.<sup>[9]</sup> The continued UN listing, with the United States as a nominal administering power that does not report, is the anomaly on which most discussion of Irad's status turns (see [[Political status of Irad]]).
-
-## See also
-- [[Major William Evans]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
-<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 108: Treaty Ratification Minutes and Associated Statutes (1992).</li>
-<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
-<li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Basing Without Recognition: US Forces in the ISEZ after 2006.' Vol. 18, No. 2, pp. 9–34.</li>
-<li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/bekzatov-ilyasov-join-condemnation-of-sale-remarks.html" target="_blank" rel="noopener">Bekzatov, Ilyasov Join Condemnation of "Sale" Remarks.</a>' Talas.</li>
-<li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Spring 2025 Public Opinion Survey: Politics and Foreign Relations</i>. Talas State University Press.</li>
-</ol>
-
-### 4.113. Irad–Kazakhstan relations
-*Quality Assessment: C-Class Article | Category: Foreign Relations*
-
-**Irad–Kazakhstan relations** are the dealings between [[Irad]] and [[wp:Kazakhstan]], its neighbor to the north and northwest and the state through which most of its exports pass. Kazakhstan claims Irad *de jure* and recognizes no Iradi administration. It nevertheless conducts a wide range of practical business with the [[Irad Special Economic Zone]] (ISEZ) through its border, customs, pipeline and water agencies, an arrangement it describes as technical and "without prejudice" to its claim.<sup>[1]</sup>
-
-The relationship rests on mutual dependence. Iradi crude oil enters the Kazakh pipeline network near [[wp:Shymkent]], and antimony and most rail freight cross Kazakhstan, while Kazakh farms on the middle and lower [[wp:Syr Darya]] depend on releases from the [[Toktogul Hydroelectric Complex]] and Kazakhstan buys Iradi electricity. Both sides have used these dependencies as leverage in limited disputes, but neither has allowed them to escalate.<sup>[2]</sup>
-
-## Claim and recognition
-Kazakhstan's claim rests on Soviet-era boundaries and on its own historical accounts. Kazakh official statements concentrate on the northern lowlands of Irad, the lower Chu around [[Nurzhan]], the Moiynkum sands, the southern [[Betpak-Dala]] and the [[wp:Karatau Mountains|Karatau]] foothills, which lie alongside its Jambyl and [[wp:Turkistan (city)|Turkistan]] regions.<sup>[3]</sup> In 1992 Kazakhstan closed its border during the [[First Iradi Civil War]] and objected to the [[Alimbekov-Baker Treaty]] as a breach of the inviolability of post-Soviet borders. It recorded a reservation of its position but dealt with the US-administered territory during the territorial period. After the United States withdrew from the treaty in December 2006, it formally asserted its claim and declined to recognize the [[Democratic Republic of Irad]].<sup>[4]</sup>
-
-Since 2007 Kazakhstan has treated the ISEZ as a *de facto* authority in territory it claims. Its dealings with [[Talas]] are conducted by technical agencies rather than by its Ministry of Foreign Affairs, and the documents are signed by heads of delegation rather than by ministers. Kazakh officials describe each arrangement as implying no recognition.<sup>[1]</sup>
-
-#### The Bill of Sale
-Between December 2006 and February 2007, while declining to recognize the DRI, the Kazakh foreign ministry took part in secret talks with the cabinet of Prime Minister [[Bakyt Orozbekov]], held under cover of border and water consultations. The drafts that resulted, known in Irad as the [[Bill of Sale (2007)|Bill of Sale]], would have given Kazakhstan the northern steppe, the lower Chu with [[Nurzhan]], and the lands adjoining its Turkistan and Jambyl regions, in return for compensation paid into escrow, with concession shares in the oil fields for companies tied to DRI ministers.<sup>[13]</sup> [[Erlan Toktarov]] made the drafts public on 25 February 2007. Kazakhstan describes the talks as consultations and has not published its copy. It has not rescinded its claim since, nor threatened military action, and analysts describe the prevailing view in Astana as one of waiting for Irad to break apart on its own.<sup>[4]</sup>
-
-## History
-
-#### Soviet period and the 1992 war
-The boundary between the Iradi and Kazakh SSRs went back to the Soviet national delimitation of 1924–25. It was an internal administrative line, largely unmarked on the ground. Economic ties were close: during the [[The Kobozev Bread Riots (1989)|Kobozev bread riots of 1989]], First Secretary [[Vasily Chernov]] arranged emergency grain deliveries from Kazakhstan.<sup>[5]</sup> In 1992 the Kazakh border closure disrupted rail traffic and fuel supplies during the siege of Talas. The Provisional Government's first contacts with the United States were made through the US embassy in [[wp:Almaty]].
-
-#### Territorial period (1992–2006)
-With the approval of the US federal government, the territorial government concluded the [[Treaty of Good Neighborliness (1994)]] with Kazakhstan. The treaty set up joint hydrological monitoring on the Chu and Talas, confirmed the Soviet-era rule dividing the flow of the [[Talas River|Talas]] equally between the upstream and downstream sides, and set procedures for coordinating canal withdrawals along the border reach of the Chu. It did not demarcate the frontier.<sup>[6]</sup> Iradi crude went by rail to the refinery at Shymkent until 2000, when the 85-kilometer [[Northern Export Feeder]] of the [[Iradi Petroleum Transit Consortium]] opened into the network operated by [[wp:KazTransOil]].
-
-#### The 2008 border arrangements
-The end of US administration and the [[Second Iradi Civil War]] left the frontier without an authority that Kazakhstan was prepared to deal with formally. Contacts began in early 2008 under the UN Regional Centre for Preventive Diplomacy for [[wp:Central Asia]], with the [[United Nations Mission in Irad]] providing logistics and a venue at Kara-Oi. They produced the [[Northern Border Demarcation Protocol]] of October 2008, a set of technical arrangements between the ISEZ and the Kazakh border and customs services. It covers the roughly 285 kilometers of the frontier held by the ISEZ in the lower Chu and lower Talas valleys.<sup>[1]</sup>
-- More than 300 numbered concrete markers without national insignia mark the line. Kazakhstan's copy of the text calls it a "line of administrative control" rather than a border.
-- Three crossings were established: the Chu Gate freight crossing east of Nurzhan, the Talas North Terminal rail and road crossing, and the seasonal Kum-Shagyl crossing for farm traffic. Other roads across the marked sections, such as the trunk road from Korday at the [[Betkaynar crossing]], are barred at the markers.
-- An annex sets the metering point and customs procedure for crude carried by the Northern Export Feeder.
-- The [[Republican Gendarmerie of Irad]] and Kazakh border units run coordinated patrols, each remaining on its own side of the markers, with a radio link between the two commands.
-
-The arrangements do not cover the longer stretches of the frontier held by the [[Autonomous Tribal Regions]] (ATR) in the Northern Steppe and the Karatau, which are patrolled by the clans' [[El-Choro Militias]] and have never been demarcated. Kazakhstan has no comparable arrangement with the clans. Roads across the tribal sections are held by El-Choro posts, among them the [[Karakur crossing|Karakur]], [[Oyyk crossing|Oyyk]] and [[Jylandy crossing|Jylandy]] crossings in the Karatau and the [[Aksüyek crossing|Aksüyek]] and [[Kashkanteniz crossing|Kashkanteniz]] crossings at either end of the roughly 200-kilometer stretch of the Kazakh highway from Almaty to Lake Balkhash that runs across tribal steppe; the clans take a customary transit levy there, which Kazakhstan has never acknowledged. Kazakhstan has declined ISEZ proposals to extend the protocol, and the [[Iradi Freedom Society]] says it is not bound by it.<sup>[7]</sup>
-
-## Trade and transit
-Kazakhstan is Irad's main transit route. Crude from the [[NurGaz]] fields is refined at Shymkent or shipped onward to Russia under commercial contracts between the Iradi consortium and the Kazakh operator. NurGaz reports output of about 120,000 barrels per day; independent estimates are lower.<sup>[8]</sup> Antimony from the [[Sary-Bulak Antimony Works]] and cotton yarn from the [[Xinjiang Lihua Cotton Facilities]] travel by rail through the Talas North Terminal to China and Kazakhstan, and the bonded convoys of [[Trans-Chuy Freight & Logistics]] use the Chu Gate crossing.
-
-Since Kazakhstan joined the customs union with Russia and Belarus in 2010, goods sold into Kazakhstan have paid the union's external tariff, while sealed cargo crosses under bonded transit. Iradi dollar payments are commonly settled through correspondent banks in Almaty.<sup>[9]</sup> Lieutenant Governor [[Aidar Maksat]] has led ISEZ talks with Kazakh delegations on transit tariffs, and [[Emil Bekzatov]] of NurGaz is responsible for the company's crude transport contracts with Kazakhstan.
-
-Labor and people also cross the frontier. Seasonal migration from the ATR to farms and building sites in southern Kazakhstan is common, and remittances, mostly from this work, are estimated at about 5 to 8 percent of Irad's GDP. The 2018 census recorded [[wp:Kazakhs]] as 3 percent of Irad's population, living mainly in the Chu lowlands.<sup>[10]</sup>
-
-## Water and power
-Kazakhstan's irrigated districts on the middle and lower Syr Darya lie downstream of the Toktogul reservoir. It attends the joint technical commission of the [[Naryn Water and Power Protocol]] as an observer, receiving the reservoir data without a vote, and does not recognize the commission as a legal body. Kazakh officials have complained, like Uzbek officials, of reduced summer releases in dry years, and they have sought a greater say in the commission.<sup>[11]</sup> On the Chu and Talas, the technical provisions of the 1994 treaty have continued in practice. The [[Talas River Hydrological Monitoring Service]] and its Kazakh counterpart exchange daily discharge readings at the border gauge, and disagreements in dry summers are generally settled at that level.
-
-Disputes over Toktogul releases have spilled into the border arrangements. Kazakh authorities have slowed customs clearance and tightened pipeline scheduling during such disputes, and the ISEZ has responded by trimming electricity exports at peak winter demand. Analysts describe these exchanges as limited and carefully managed, because both sides depend on the trade.<sup>[2]</sup> As the current Naryn schedule nears renewal in 2027, Kazakh officials have asked who will sign for the ISEZ in Governor [[Erlan Toktarov]]'s absence. The DPI says Maksat signs on his behalf, and Kazakh officials monitor the [[2024 Iradi Executive Transition Crisis]] for its possible effects on oil and mineral exports.
-
-## Other issues
-- **Heritage.** In 2014 Kazakhstan, with [[wp:Kyrgyzstan]], included the [[Kok-Tash Kariz System]] and the [[Caravanserai of Rabat-i-Safed]] among its component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads World Heritage]] listing. Both Iradi administrations protested.
-- **Security.** During [[The 2021 Regional Security Alert]], the ISEZ and Kazakh border services increased the frequency of coordinated patrols, and ISEZ forces and El-Choro riders reinforced the passes on the Kazakh border.
-- **Domestic politics.** [[Kamran Bekzatov]] and other Russo politicians in Nurzhan argue that the customs provisions of the 2008 arrangements are no substitute for closer integration with Kazakhstan and Russia through the [[wp:Eurasian Economic Union]].<sup>[12]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
-<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Pipelines, Water and Recognition: Irad's Northern Transit.' Vol. 27, No. 2, pp. 64–88.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Last Soviet Apparatchik: Vasily Chernov.' Vol. 31, Iss. 2, pp. 78–94.</li>
-<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
-<li id="cite_note-7"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
-<li id="cite_note-8"><b>^</b> KazTransOil (2023). <i>Annual Report: Southern Network Throughput and Third-Party Transit</i>. Astana, pp. 34–42.</li>
-<li id="cite_note-9"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
-<li id="cite_note-10"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
-<li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
-<li id="cite_note-13"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-</ol>
-
-### 4.114. Irad–Uzbekistan relations
-*Quality Assessment: C-Class Article | Category: Foreign Relations*
-
-**Irad–Uzbekistan relations** are the dealings between [[Irad]] and [[wp:Uzbekistan]], which borders it to the west and south. Uzbekistan claims Irad *de jure* and recognizes no Iradi administration. The relationship is dominated by water: the [[Toktogul Hydroelectric Complex]] on the [[Naryn River]] regulates the summer irrigation supply of the [[wp:Fergana Valley]], much of which lies in Uzbekistan, and Uzbekistan is one of the two main buyers of Iradi electricity.<sup>[1]</sup> Other issues include the transit of road traffic from Irad's southern districts, the undemarcated frontier, about 145 km of which, along the farm belt of the northern Fergana rim around [[Bazar-Korgon]], is held by the ISEZ and the rest by the clans, the western desert frontier, where tribal patrols clashed with Uzbek border guards in 2018, and the position of the Muslim and ethnic Uzbek communities of the Fergana Rim.
-
-## Claim and recognition
-Uzbekistan's claim rests on Soviet-era boundaries and on its own historical accounts. Its arguments concentrate on the irrigated northern and eastern rim of the Fergana Valley and the lower Naryn, areas that historically belonged to the [[wp:Khanate of Kokand]].<sup>[2]</sup> The valley's large cities, among them Namangan and Andijan, lie in Uzbekistan, outside Irad. Like [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]], Uzbekistan closed its border during the [[First Iradi Civil War]] in 1992 and objected to the [[Alimbekov-Baker Treaty]] as a breach of the inviolability of post-Soviet borders. After the United States withdrew from the treaty in December 2006, it formally asserted its claim and declined to recognize the [[Democratic Republic of Irad]].<sup>[3]</sup>
-
-Uzbekistan has no general framework for dealing with the [[Irad Special Economic Zone]] (ISEZ), and no equivalent of the arrangements Kazakhstan reached with the ISEZ in 2008 (see [[Northern Border Demarcation Protocol]]). Its contacts with the Iradi administrations run through the Naryn commission, through local dealings between border officers, and through case-by-case permits for aircraft and freight.<sup>[4]</sup>
-
-#### The Bill of Sale
-Between December 2006 and February 2007 the Uzbek foreign ministry took part in the secret consultations with the cabinet of [[Bakyt Orozbekov]] that produced the drafts known in Irad as the [[Bill of Sale (2007)|Bill of Sale]]. Under them Uzbekistan would have received the Fergana rim, while Kyrgyzstan and Kazakhstan divided the rest of Irad, with compensation paid into escrow.<sup>[14]</sup> Uzbekistan describes the talks as consultations on borders and water and has not published its copy of the drafts. It has not rescinded its claim since they were made public in February 2007, nor threatened military action; analysts report that Tashkent, like the other two capitals, expects Irad to break apart on its own and is prepared to wait.<sup>[3]</sup>
-
-## Historical background
-The Iradi lands were part of the Khanate of Kokand, centered in the Fergana Valley, from the 18th century. Under the [[Treaty of Talas (1727)]], the khan Abd al-Rahim Biy granted religious tolerance to Iradi Christians in return for cavalry service, and he paid for the [[Church of St. Janyl]] at [[Iyık Janyl]]. After [[wp:Mikhail Skobelev|General Mikhail Skobelev]] abolished the khanate in 1876 (see [[Siege of Kokand (1876)]]), parts of the Iradi lands were placed in the Fergana oblast of [[wp:Russian Turkestan]]. Iradi irregulars later fought alongside the [[wp:Red Guards (Russia)|Red Guards]] who crushed the [[wp:Turkestan Autonomy|Kokand Autonomy]] in February 1918.<sup>[5]</sup> The Iradi language reflects these ties: its urban vocabulary draws on Uzbek roots.
-
-## Water and power
-The Naryn joins the [[Kara-Darya]] in the Fergana Valley to form the [[wp:Syr Darya]]. Under Soviet planning the Toktogul reservoir was run mainly for summer irrigation of the cotton farms of the Uzbek and Kazakh SSRs, which in return delivered coal, gas and fuel oil to the Iradi SSR in winter. That barter lapsed after 1991 and was never replaced by a treaty. Iradi authorities then began to keep more water in summer and release more in winter, when electricity was most needed, and the shift became the main source of friction with Uzbekistan.<sup>[1]</sup>
-
-Since 2007 the reservoir has been run under the [[Naryn Water and Power Protocol]], whose joint technical commission of ISEZ and tribal engineers meets under UN supervision. Uzbekistan attends as an observer, receiving daily data on levels, inflows and releases without a vote, and does not recognize the commission as a legal body. Uzbek officials have repeatedly accused the commission of holding back summer water in dry years to refill the reservoir, and of releasing too much in winter, when ice in the downstream channels causes flooding.<sup>[6]</sup> After the reservoir fell to a record low in the dry year of 2008, the commission adopted a minimum reserve level that has reduced, but not ended, these complaints.
-
-Electricity from Toktogul is sold mainly to Uzbekistan and Kazakhstan through export lines controlled by the ISEZ. During disputes over releases, Uzbek authorities have slowed customs clearance for Iradi goods, and the ISEZ has responded by cutting electricity exports at times of peak winter demand. Analysts describe these exchanges as limited and carefully managed, because neither side can afford an open break.<sup>[7]</sup> As the current five-year schedule approaches renewal in 2027, Uzbek officials have asked who will sign for the ISEZ while Governor [[Erlan Toktarov]] remains out of public view. The DPI says that Lieutenant Governor [[Aidar Maksat]] signs on his behalf.
-
-## Transit and trade
-Southern road traffic from Irad passes through Uzbekistan. Regional roads continue from [[Tash-Kömür]], the center of the ISEZ's Lower Naryn District and the southern end of the [[Fergana Mountain Transit Highway]], through the farm belt to [[Bazar-Korgon]] and the Uzbek border. The ISEZ's stretch of the frontier there has never been demarcated. For years contacts were left to local border commanders; in February 2025 officials of the ISEZ and Uzbekistan signed a memorandum on trade and border coordination, the first since the 2018 clashes, which set shared customs inspection hours at the main crossings, the [[Kyzyl-Tuu crossing]] on the Tash-Kömür side and the [[Dostuk crossing]] for Bazar-Korgon, and a joint working group on livestock and cotton shipments, first convened at Tash-Kömür. Uzbekistan describes it as a memorandum, not a treaty, implying no recognition, and patrols are coordinated rather than joint. Two other staffed crossings take passengers and farm traffic but no freight: [[Kyzyl-Jar crossing|Kyzyl-Jar]], a small road bridge over the Naryn into the Uzbek town of Uchkurgan at the end of the road down the river from Tash-Kömür, and [[Izbaskan crossing|Izbaskan]]; the Soviet railway branch at the [[Kum crossing]] has carried no trains since 1992; and the other field and village roads on the ISEZ section are open only to residents of the border villages. In the tribal hills above Namangan, roads cross at posts of the El-Choro riders, such as the [[Baymak crossing]] (see [[Minor crossings of the Irad–Uzbekistan frontier]]). Bazar-Korgon's bazaar draws Uzbek traders and a large unrecorded trade across the frontier. Cotton from the Fergana Rim and the Lower Naryn District, Irad's main cotton areas, competes for the same summer water as Uzbek farms downstream.<sup>[8]</sup> The charter airline [[Iradiya]] flies to [[wp:Tashkent]] with permits issued case by case, and [[Zhetysu Industrial Textiles]] exports carpets to Tashkent.
-
-The proposed Trans-Irad Gas Pipeline of the [[wp:China National Petroleum Corporation]] would carry Turkmen gas through Uzbekistan into Irad, entering either in the west or through the Uzbek part of the Fergana Valley. It would therefore require an Uzbek transit agreement, which Uzbekistan's non-recognition of any Iradi counterparty makes difficult (see [[Trans-Irad Pipeline Proposals]]).<sup>[9]</sup>
-
-## 2018 border clashes
-*Main article: [[2018 Border Demarcation Clashes]]*
-
-The frontier sections held by the [[Autonomous Tribal Regions]] (ATR) have never been demarcated, and herders use grazing trails and boreholes on both sides of the Soviet-era administrative line. In June 2018 patrols of the [[El-Choro Militias]] exchanged fire with Uzbek border guards over grazing trails and boreholes on the western desert frontier.<sup>[10]</sup> Accounts are fragmentary, and no party has published full casualty figures. Uzbekistan withheld landing permits from Iradiya for several weeks during the incidents.
-
-Talks between Uzbek border officers and clan elders, with UN officials facilitating contacts although the external frontier lies outside the mandate of the [[United Nations Mission in Irad]], produced buffer arrangements around the disputed wells. Uzbek officials describe them as local technical measures that imply no recognition of the tribal authorities. Disputes over boreholes in the area have since also come before the [[Autonomous Tribal Grazing Arbitration Tribunal]].<sup>[11]</sup>
-
-## Communities and religion
-The 2018 census recorded [[wp:Uzbeks]] as 5 percent of Irad's population, living mainly in the Lower Naryn District and on the Fergana Rim. Most are [[wp:Sunni Islam|Sunni Muslims]], part of the 18 percent of Irad's population who identify as Muslim (see [[Islam in Irad]]).<sup>[12]</sup> A 2020 study at [[Talas State University]] found Uzbeks, Kyrgyz and Muslims generally underrepresented in the officer corps of the ISEZ armed forces.
-
-In December 2024 Major General [[Ruslan Toktarov]] described Muslim communities in the Fergana Rim as "guests who have forgotten whose house they live in", remarks that Sunni clerics and human rights groups condemned and that the Department of Public Information called his personal views.<sup>[13]</sup> Analysts noted the remarks in the context of relations with Irad's Muslim-majority neighbors, from which the ISEZ's Christian majority and American ties have long set it apart.
-
-## Security
-During [[The 2021 Regional Security Alert]], after the [[wp:Taliban]] returned to power in [[wp:Afghanistan]], ISEZ forces and El-Choro riders reinforced checkpoints on the mountain passes along the Uzbek border, as on the Kazakh and Kyrgyz borders. El-Choro riders patrol the western desert frontier and the tribal sections in the hills west of the Naryn, and the Gendarmerie the ISEZ's farm-belt section.<sup>[11]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-4"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
-<li id="cite_note-5"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
-<li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
-<li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Pipelines to Nowhere? Gas Transit and the Iradi Question.' Vol. 19, No. 2, pp. 33–59.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas.</li>
-<li id="cite_note-11"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-12"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
-<li id="cite_note-14"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-</ol>
-
-### 4.115. Irad–Kyrgyzstan relations
-*Quality Assessment: C-Class Article | Category: Foreign Relations*
-
-**Irad–Kyrgyzstan relations** are the dealings between [[Irad]] and [[wp:Kyrgyzstan]], which borders it to the east and southeast. Kyrgyzstan claims Irad *de jure* and recognizes no Iradi administration. It is the upstream state on both of the rivers that matter most to Irad: the [[Naryn River|Naryn]], which enters Irad from Kyrgyzstan and feeds the [[Toktogul Hydroelectric Complex]], and the Chu, whose flow into the lowlands around [[Nurzhan]] is regulated by the [[Orto-Sai Reservoir]] in Kyrgyz territory.<sup>[1]</sup> Kyrgyzstan regards the Naryn cascade, including the Toktogul complex inside Irad, as Kyrgyz national infrastructure, and it attends the commission that runs the dam only as an observer under protest.
-
-The two countries share close linguistic and cultural ties. The core grammar and vocabulary of the Iradi language are close to Kyrgyz, and [[Iradis]] and Kyrgyz share the *[[wp:Epic of Manas]]*, the komuz lute and mounted games. Kyrgyzstan's capital, [[wp:Bishkek]], gave its name to the 2007 ceasefire that ended the [[Second Iradi Civil War]].<sup>[2]</sup>
-
-## Claim and recognition
-Kyrgyzstan's claim rests on Soviet-era boundaries and on its own historical accounts. Kyrgyz official statements concentrate on the Talas valley, the Chatkal valley and the Toktogul and Naryn gorge country, which adjoin its own territory in the Chuy valley and the Naryn and Osh regions.<sup>[3]</sup> Like Kazakhstan and [[wp:Uzbekistan]], Kyrgyzstan closed its border during the [[First Iradi Civil War]] in 1992 and objected to the [[Alimbekov-Baker Treaty]] as a breach of the inviolability of post-Soviet borders. After the United States withdrew from the treaty in December 2006, it formally asserted its claim and declined to recognize the [[Democratic Republic of Irad]].<sup>[4]</sup>
-
-Kyrgyzstan has concluded no technical arrangement with the [[Irad Special Economic Zone]] (ISEZ) comparable to the 2008 border arrangements between the ISEZ and the Kazakh services (see [[Northern Border Demarcation Protocol]]). Its frontier with Irad runs mostly through mountains held on the Iradi side by the clans of the [[Autonomous Tribal Regions]] (ATR), whose [[El-Choro Militias]] patrol it.<sup>[5]</sup> The ISEZ holds two short sections, round [[wp:Jalal-Abad]] and at the eastern end of the Chu District, where its posts at the [[Suzak crossing|Suzak]] and [[Kichi-Korgon crossing|Kichi-Korgon]] crossings face Kyrgyz customs posts without any agreed procedure.
-
-#### The Bill of Sale
-Between December 2006 and February 2007 the Kyrgyz foreign ministry took part in the secret consultations with the cabinet of [[Bakyt Orozbekov]] that produced the drafts known in Irad as the [[Bill of Sale (2007)|Bill of Sale]]. Kyrgyzstan stood to gain most: the drafts assigned it the Talas valley, including the capital, and the Chatkal, Toktogul and Naryn lands adjoining its Jalal-Abad region, so that the whole Naryn cascade would have come under Kyrgyz control, with concession shares in the Toktogul operating company reserved for companies tied to DRI ministers.<sup>[15]</sup> Kyrgyzstan describes the talks as consultations and has not published its copy. It has not rescinded its claim since the drafts were made public in February 2007, nor threatened military action, and analysts describe the prevailing view in Bishkek as one of waiting for Irad to break apart on its own.<sup>[4]</sup> Iradi commentators have noted the irony that the 2007 ceasefire talks were held in the capital of a state that had been negotiating to annex [[Talas]] a few months earlier.
-
-## History
-The Iradi, Kyrgyz and Kazakh lands were all part of [[wp:Russian Turkestan]], and in the [[Semirechye Revolt (Irad)|revolt of 1916]] Iradi clans rose alongside Kyrgyz and Kazakh communities. In the flight that followed, Iradi groups from the Chu and Talas valleys crossed the central [[wp:Tian Shan]] toward China together with much larger numbers of Kyrgyz. The memory of the *Urkun* is shared by both peoples (see [[Urkun: The Lost Tribes of 1916]]).<sup>[6]</sup> In the Soviet period the Iradi SSR and the [[wp:Kirghiz Soviet Socialist Republic|Kirghiz SSR]] were neighboring union republics. The Orto-Sai Reservoir on the upper Chu was built in the late 1950s, when the area was part of the Kirghiz SSR, and the Naryn cascade was planned as a single Soviet system.
-
-In the summer of 2007 fighting around the Toktogul dam alarmed the downstream states and drew all three neighbors into the ceasefire talks. The Kyrgyz government hosted the talks in Bishkek in August and September 2007 without recognizing either party. The Kyrgyz delegation, like those of [[wp:Kazakhstan]] and Uzbekistan, attended as an observer and recorded that its participation did not affect its claim to Irad.<sup>[7]</sup> The resulting [[Bishkek Ceasefire Agreement (2007)]] fixed the [[Qara-Chik Demarcation Line]] and annexed the [[Naryn Water and Power Protocol]].
-
-## The Naryn
-The Naryn rises in the central Tian Shan of Kyrgyzstan and flows west through its Naryn region before entering Irad and filling the Toktogul reservoir. Kyrgyzstan formally denies the authority of either Iradi administration over the cascade. Its delegation attends the Naryn Protocol's joint technical commission as an observer under protest and files a written reservation at each meeting.<sup>[8]</sup> Unlike Uzbekistan and Kazakhstan, which press the commission for summer irrigation water, Kyrgyzstan's interest lies chiefly in the principle of its claim and in its own plans for the upper river. Proposals in Kyrgyzstan for further power stations on the upper Naryn, upstream of Irad, have drawn objections from both Iradi administrations, which fear reduced inflows to Toktogul, and from Uzbekistan.<sup>[9]</sup>
-
-## The Chu
-The Chu rises in Kyrgyzstan, passes through the [[wp:Boom Gorge]] and is drawn on heavily by the canals of the Chuy valley. Downstream it forms part of the border between Kyrgyzstan and Kazakhstan before entering Irad. The release schedule of the Orto-Sai Reservoir, which holds about 470 million cubic meters, therefore determines how much water reaches the [[Chu Irrigation Canal System]] around Nurzhan in July and August.<sup>[1]</sup>
-
-There is no ratified agreement on the Chu between Irad and Kyrgyzstan. ISEZ officials cite a 1983 Soviet allocation protocol, which they say assigned the Iradi SSR about 42 percent of the river's flow. Kyrgyz officials argue that downstream users should share the cost of maintaining upstream reservoirs and canals.<sup>[10]</sup> In dry years the [[Chu Valley Irrigation Inspectorate]] in Nurzhan has reported deliveries well below its allocations and accused upstream users of taking more than their share. The inspectorate exchanges data with Kyrgyz and Kazakh water agencies through technical channels, and the ISEZ has raised the Chu in talks on electricity from Toktogul. Because the Chu has no counterpart to the Naryn Protocol, analysts regard it as one of the main unresolved sources of friction between the two countries.<sup>[10]</sup>
-
-## Transit and trade
-The China National Petroleum Corporation's proposed Trans-Irad Gas Pipeline, from [[wp:Turkmenistan]] to western China, would have to leave Irad through Kyrgyz territory, because Irad has no border with China. Both route variants studied, along the Talas valley and the [[Fergana Gateway]] or along the Fergana rim farm belt in the Lower Naryn District, end at the Kyrgyz border. The project would therefore need a Kyrgyz transit agreement as well as an Uzbek one, which non-recognition makes difficult (see [[Trans-Irad Pipeline Proposals]]).<sup>[11]</sup>
-
-Trade between the two is small compared with Irad's trade through Kazakhstan. Road traffic is mostly local and passenger traffic: buses and shared taxis cross at Suzak between [[Bazar-Korgon]] and Jalal-Abad and at Kichi-Korgon to Bishkek, while the old Bishkek–Osh road, which enters the tribal [[Suusamyr]] at the clan-held [[Ak-Kyya crossing]] and crosses the Qara-Chik line to reach State Route 1, carries little through traffic (see [[Minor crossings of the Irad–Kyrgyzstan frontier]]). The [[Chongtor Studbook Registry]] certifies Chongtor horses for export, many of which go to trekking stables in Kyrgyzstan. Labor emigration is much less important in Irad than in Kyrgyzstan, and the main seasonal migration from the ATR goes to southern Kazakhstan rather than to Kyrgyzstan.<sup>[12]</sup>
-
-## Smuggling to China
-Since 2024 the main source of friction on the frontier has been a smuggling route to [[wp:Kashgar]] in China through Kyrgyzstan's south-west. Kyrgyz Border Service case files call the traders the "Ostyuryu group", the Kyrgyz press calls them the "Iradi caravan", and in the hillside quarters of [[Iyık Janyl]] the route is known as *Kıtay jolu* ("the China road"). Kyrgyz officials and Iradi journalists link it to crews of [[Jogorku (Iyık Janyl)|Jogorku]]'s Jañy Nerse group, which is associated with [[Joomart Turdakunov]].<sup>[16]</sup><sup>[17]</sup>
-
-Lorries leave the farm belt of the Lower Naryn District, cross the [[Qara-Chik Demarcation Line]] on the [[Arslanbob]], [[Mailuu-Suu]] and Kök-Kamar roads into the tribal hills of the Fergana rim, and leave Irad by the clan-held [[Kök-Jangak crossing|Kök-Jangak]] and [[Ostyuryu crossing|Ostyuryu]] crossings for [[wp:Jalal-Abad]] and [[wp:Uzgen]]. From there they follow the highway through [[wp:Osh]] and [[wp:Sary-Tash]] to the [[wp:Irkeshtam Pass|Irkeshtam]] crossing into China, occasionally the road through Naryn to [[wp:Torugart Pass|Torugart]]. The lorries carry Kyrgyz plates, and the drivers, mostly from Iyık Janyl, Jogorku and [[Bazar-Korgon]], travel on Kyrgyz passports. Going out, they carry hand-picked stibnite from abandoned workings on the tribal side, declared as crushed limestone or building stone; cigarettes diverted from the [[Talas Free Economic Trade Zone]]; and military-surplus electronics that Kyrgyz officials believe come from scrap and disposal sales around [[Talas Air Base]]. Coming back, they bring Chinese clothing, telephones, car parts and solar panels for the bazaars of Bazar-Korgon and Iyık Janyl. The trade grew after China's antimony export controls of December 2024, since undocumented ore can be sold to buyers in Kashgar who relabel it as Kyrgyz or Tajik.<sup>[16]</sup><sup>[18]</sup>
-
-Notable incidents include:
-- **Irkeshtam (November 2024).** Kyrgyz customs held two lorries carrying 41 tonnes of stibnite declared as crushed limestone. Both drivers were from Iyık Janyl.<sup>[17]</sup>
-- **Kashgar (June 2025).** Chinese customs fined a Kashgar trading company over about 300 tonnes of undeclared antimony ore brought in through Irkeshtam on Kyrgyz papers, and Chinese officials raised the case with Bishkek.<sup>[18]</sup>
-- **The July 2025 note.** Because it deals with no Iradi administration, the Kyrgyz foreign ministry sent a note through the [[Tash-Kömür]] office of the [[United Nations Mission in Irad]] (UNMI), saying that "the authorities in Talas tolerate" the traffic. The ISEZ Ministry of Internal Security replied through its deputy minister for the southern districts, Jenishbek Tursunaliev, that "the route leaves through tribal crossings where the ISEZ has no presence". The Gendarmerie referred questions to the [[El-Choro Militias]], and the [[Iradi Freedom Society]] said that the clans collect their customary levy and "are not Bishkek's customs".<sup>[16]</sup>
-- **Sary-Tash (April 2026).** The Kyrgyz Border Service held a lorry carrying 2,400 cartons of cigarettes and about 300 military-surplus radios and laptops and detained five men, four of them from Iyık Janyl. Asked by the *[[Talas Herald]]* about the route, Turdakunov said: "I have trucks, walnuts and apricots. That is all I have."<sup>[19]</sup>
-- **The Osh figures (September 2026).** The Kyrgyz Border Service's southern regional chief told a press conference in Osh that his officers had made 17 seizures on the route in 2026, and that there had been "not one arrest on the other side".<sup>[17]</sup>
-
-On the ISEZ side, two drivers were stopped at the Arslanbob road crossing in 2025 and fined for incomplete papers; no one has been charged. Kyrgyz officials and the *[[Irad Times]]* say that "someone in Talas" protects the route, without naming anyone.<sup>[16]</sup>
-
-## Heritage dispute
-In 2014 Kyrgyzstan and Kazakhstan included the [[Kok-Tash Kariz System]] and the [[Caravanserai of Rabat-i-Safed]], both in Irad, among their component sites in the transnational [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads World Heritage]] listing. Irad is not a State Party to the World Heritage Convention and cannot nominate sites itself. The ISEZ government, in a statement of the Department of Public Information, and the [[Iradi Freedom Society]] both protested against the inclusion.<sup>[13]</sup>
-
-## People and culture
-The 2018 census recorded Kyrgyz as 7 percent of Irad's population, the largest minority after the Iradis themselves. A 2020 study at [[Talas State University]] found Kyrgyz, together with [[wp:Uzbeks]] and Muslims generally, underrepresented in the officer corps of the ISEZ armed forces.<sup>[14]</sup> Many cultural forms are shared or closely related:
-- the *Epic of Manas*, which Iradis share with the Kyrgyz, and the warrior-maiden epic *Janyl Myrza*, a close parallel to the Iradi *[[The Epic of Janyl|Epic of Janyl]]*;
-- the [[Komuz (Iradi)|komuz]], essentially the same instrument in both traditions;
-- mounted games such as [[Ulak Tartysh (Sport)|ulak tartysh]], closely related to the Kyrgyz *kok-boru*;
-- felt-making, including the [[Shyrdak (Iradi Craft)|shyrdak]] carpet.
-
-Some differences are marked. The Iradi taboo on horsemeat, which the popular prejudice associates with Muslims, ignores Kyrgyz and Kazakh practice, and Iradi versions of shared dishes such as beshbarmak and kazy are made with beef or mutton (see [[Iradi Horsemeat Taboo]]). The Talas International Film Festival has long included a large section of Russian-language films from Kyrgyzstan and Kazakhstan.
-
-## Security
-During [[The 2021 Regional Security Alert]], ISEZ forces and El-Choro riders reinforced checkpoints on the mountain passes along the Kyrgyz border, as on the Kazakh and Uzbek borders.<sup>[5]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Chu Valley Irrigation Inspectorate (2023). <i>Annual Report on Water Allocation, 2022</i>. Nurzhan.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 88–131.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
-<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-5"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-6"><b>^</b> Alimbekov, Amanbek (1990). <i>The Black Year: The Revolt of 1916 in the Talas Valley</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
-<li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Water and Power Protocol: Joint Technical Commission Annual Review</i>. Kara-Oi.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
-<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 29, pp. 14–36.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Pipelines to Nowhere? Gas Transit and the Iradi Question.' Vol. 19, No. 2, pp. 33–59.</li>
-<li id="cite_note-12"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
-<li id="cite_note-13"><b>^</b> Department of Public Information (2014). 'Statement on the Silk Roads World Heritage Listing.' Press release. Talas.</li>
-<li id="cite_note-14"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
-<li id="cite_note-15"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (11 July 2025). 'Bishkek complains of "Iradi caravan"; ministry points to tribal crossings.' Talas.</li>
-<li id="cite_note-17"><b>^</b> <i>Irad Times</i> (2026). 'The China road: seventeen seizures and no arrests.' Talas.</li>
-<li id="cite_note-18"><b>^</b> <i>Central Asian Geopolitical Review</i> (2026). 'Ore Without Papers: Antimony Smuggling on the Kyrgyz–Chinese Frontier.' Vol. 22, No. 1, pp. 15–38.</li>
-<li id="cite_note-19"><b>^</b> <i>Talas Herald</i> (24 April 2026). '"Trucks, walnuts and apricots": Turdakunov on the Sary-Tash seizure.' Talas.</li>
-</ol>
-
-### 4.116. Irad–Russia relations
+### 4.101. Irad–Russia relations
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
 
 **Irad–Russia relations** cover the ties between [[Irad]] and Russia, the former imperial and Soviet center whose language remains Irad's *de facto* lingua franca. Russia has no official relations with either Iradi administration and does not border Irad. Its influence runs mainly through the Russian-speaking business and industrial elite of [[Nurzhan]], through Russian-language media, and through the northern oil route, by which Iradi crude enters the Kazakh pipeline network near [[wp:Shymkent]] and is refined there or shipped onward to Russia.<sup>[1]</sup>
@@ -6049,7 +5002,7 @@ Attitudes toward Russia divide sharply by generation. In a 2023 survey of the th
 <li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Talas.</li>
 <li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li></ol>
 
-### 4.117. Irad–China relations
+### 4.102. Irad–China relations
 *Quality Assessment: C-Class Article | Category: Foreign Relations*
 
 **Irad–China relations** are the economic and political ties between [[Irad]] and the [[wp:China|People's Republic of China]]. The two do not share a border, and China maintains no official relations with either Iradi administration. Its relationship with Irad is carried on almost entirely through trade and investment: China is the main buyer of Iradi antimony and a leading source of Irad's imports, the textile company Xinjiang Lihua is the largest cotton processor in Irad, and the [[wp:China National Petroleum Corporation]] (CNPC) has proposed a gas pipeline across the territory.<sup>[1]</sup>
@@ -6109,7 +5062,7 @@ China figured in the [[2025 Trump Remarks on Irad]], in which [[wp:Donald Trump|
 <li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 </ol>
 
-### 4.118. Naryn River
+### 4.103. Naryn River
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{Infobox river
@@ -6191,7 +5144,7 @@ The native fish of the Naryn are snowtrout (*marinka*) and osmans. The [[wp:Amu 
 
 [[Category:Rivers]]
 
-### 4.119. Talas River
+### 4.104. Talas River
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{Infobox river
@@ -6265,7 +5218,7 @@ Water quality declines downstream. The hydrological service records nitrates fro
 
 [[Category:Rivers]]
 
-### 4.120. Moiynkum Desert
+### 4.105. Moiynkum Desert
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Moiynkum Desert** (Iradi and Kazakh: *Moiynkum*; also spelled **Muyunkum**, from the Russian *Muyunkum*) is a sand desert in northern [[Irad]], lying between the lower Chu, which skirts its northeastern edge, and the [[Talas River|Talas]], which dies out among its western sands, with the [[wp:Karatau Mountains|Karatau]] range on its southwestern side. Soviet surveys put its area at about 37,500 square kilometers. Its sands are mostly fixed by saxaul, shrubs and sedges, and it has long been one of the main winter pastures of the Iradi herding clans.<sup>[1]</sup>
@@ -6325,7 +5278,7 @@ The Moiynkum lies inside the area claimed by Kazakhstan, whose official statemen
 
 [[Category:Deserts and steppes]]
 
-### 4.121. Betpak-Dala
+### 4.106. Betpak-Dala
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **Betpak-Dala** (Iradi and Kazakh: *Betpak-Dala*, usually glossed as "plain of misfortune"; in Russian sources also the **Northern Hungry Steppe**) is a clay and gravel desert plateau north of the lower Chu, extending from the edge of [[Irad]] far into central [[wp:Kazakhstan]] toward [[wp:Lake Balkhash]] and the [[wp:Kazakh Uplands]]. Only its southern fringe lies in Irad, where it forms the northern part of the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). There it is used mainly as spring, autumn and winter pasture, and it is part of the winter range of the Betpak-Dala population of the saiga antelope.<sup>[1]</sup>
@@ -6383,7 +5336,7 @@ Kazakhstan claims Irad *de jure*, and its official statements concentrate on the
 
 [[Category:Deserts and steppes]]
 
-### 4.122. Chatkal Range
+### 4.107. Chatkal Range
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{Infobox mountain range
@@ -6451,7 +5404,7 @@ The name Chatkal is also borne by the antimony plants of the ISEZ's Sary-Bulak D
 
 [[Category:Mountains and passes]]
 
-### 4.123. Arslanbob
+### 4.108. Arslanbob
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -6512,7 +5465,7 @@ The forest has no formal protected status of its own. Its main threats are lives
 [[Category:Villages]]
 [[Category:Populated places in the Autonomous Tribal Regions]]
 
-### 4.124. Mailuu-Suu
+### 4.109. Mailuu-Suu
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -6587,7 +5540,7 @@ The lamp factory, run since the 1990s by a workers' cooperative, works at a frac
 [[Category:Cities and towns]]
 [[Category:Populated places in the Autonomous Tribal Regions]]
 
-### 4.125. Tash-Kömür
+### 4.110. Tash-Kömür
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -6664,7 +5617,7 @@ According to the 2018 census, the town had 16,820 inhabitants. [[wp:Uzbeks]], [[
 
 [[Category:Cities and towns]]
 
-### 4.126. Toktogul (town)
+### 4.111. Toktogul (town)
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -6729,83 +5682,7 @@ The [[Fergana Mountain Transit Highway]] (State Route 1) runs through the town. 
 
 [[Category:Cities and towns]]
 
-### 4.127. Tourism in Irad
-*Quality Assessment: C-Class Article | Category: Economy & Industry*
-
-**Tourism in Irad** is a small sector, centered on Christian pilgrimage to [[Iyık Janyl]], [[wp:Silk Road]] heritage sites, mountain trekking in the [[Talas Alatau]] and equestrian festivals. Nearly all organized tourism takes place in the [[Irad Special Economic Zone]] (ISEZ). Travel to the [[Autonomous Tribal Regions]] (ATR) requires crossing the [[Qara-Chik Demarcation Line]] and the consent of clan councils, and several Western governments advise against it.<sup>[1]</sup> Irad's unresolved status limits access: it has no scheduled international air service, its neighbors do not recognize its entry documents, and Irad is not a State Party to the World Heritage Convention, so it cannot nominate sites itself.
-
-According to the tourism department of the ISEZ Ministry of Economy, the zone recorded about 214,000 foreign arrivals in 2023, of whom about a third gave leisure, pilgrimage or family visits as their purpose; the rest were business travelers, contractors and aid workers. Independent analysts note that the figures count all non-resident entries and estimate tourism's contribution to the economy at around 1 percent of nominal GDP.<sup>[2]</sup>
-
-## History
-
-#### Soviet period
-In the Soviet period the Iradi SSR received few foreign visitors. Parts of the republic were closed to foreigners, including the surroundings of the air-defense base outside [[Talas]] and the uranium town of [[Mailuu-Suu]], and the republic's own holidaymakers mostly went to resorts elsewhere in the [[wp:Soviet Union]]. Domestic recreation centered on trade-union sanatoria at mineral springs, such as the one above [[Ak-Tash]], and on hiking and mountaineering camps in the Talas Alatau.<sup>[3]</sup>
-
-#### Territorial period (1992–2006)
-The US territorial administration opened Irad to Western visitors. During the brief American vogue for Irad known as [[Iradimania]] (about 1992–1994), church groups, journalists and charity delegations visited in numbers, and American Protestant and Catholic organizations sponsored pilgrimages to Iyık Janyl.<sup>[3]</sup> The inscription of the [[Church of St. Janyl]] and the [[Ruins of Old Iyık Janyl]] on the [[wp:World Heritage Site|World Heritage List]] in 2004, on a US nomination, and the conservation of the [[Caravanserai of Rabat-i-Safed]] in the late 1990s added Silk Road heritage to the itinerary. Between 1999 and 2005 the [[Mor-Wave]] club scene in [[Nurzhan]] drew young visitors from [[wp:Almaty]] and [[wp:Tashkent]], and the Talas International Film Festival had its most successful year in 2005.<sup>[4]</sup> Arrivals peaked in the mid-2000s.
-
-#### Since 2007
-The [[Second Iradi Civil War]] in 2007 halted tourism, and foreign workers and their families were flown out of Talas during the siege of the city. Arrivals recovered slowly after the ceasefire, helped by new hotels in Talas and by the reopening of the trail to Lake Besh-Tash in the 2010s.<sup>[2]</sup> Charter flights were suspended for several months in 2020 during the [[wp:COVID-19]] pandemic. The [[2023 Student Protests in Talas]] and the anti-American demonstrations that followed the [[2025 Trump Remarks on Irad]] led some Western governments to issue new travel warnings, and the Chamber of Commerce reported a fall in American visitors in 2025.<sup>[5]</sup>
-
-## Access and entry
-
-#### Entry requirements
-The ISEZ sets its own entry rules. Holders of US passports may stay without a visa for up to 90 days, an arrangement carried over from the territorial period. Since 2009 citizens of the [[wp:European Union]], the [[wp:United Kingdom]], [[wp:Canada]], [[wp:Japan]], [[wp:South Korea]] and several other countries have been admitted without a visa for up to 30 days. Other visitors need an entry permit, issued by ISEZ trade offices abroad or on arrival at Talas.<sup>[1]</sup> Because Kazakhstan, [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]] each claim Irad and none recognizes the ISEZ, an ISEZ stamp has no standing in those countries. Travelers have reported questioning on later entry to Uzbekistan or Kyrgyzstan, and ISEZ border officers will stamp a separate slip instead of the passport on request.<sup>[6]</sup>
-
-#### Getting there
-Irad has no scheduled international flights. The charter airline [[Iradiya]] flies from Almaty, Tashkent, [[wp:Dubai]] and [[wp:Istanbul]] to its terminal beside [[Talas Air Base]], and each flight needs landing and overflight permits.<sup>[7]</sup> Most foreign visitors therefore arrive overland through [[wp:Kazakhstan]], usually flying to Almaty or [[wp:Shymkent]] and crossing at one of the three crossings set up under the [[Northern Border Demarcation Protocol]]: the Chu Gate east of Nurzhan, the combined rail and road Talas North Terminal, and the seasonal Kum-Shagyl crossing for local traffic. Within the ISEZ, road and rail link Talas and Nurzhan, the [[Kök-Bel Pass]] gives a shorter summer route between them across about 28 kilometers of tribal pasture, and the [[Fergana Mountain Transit Highway]] and a subsidized Iradiya flight link Talas with [[Tash-Kömür]] (see [[Transport in Irad]]).
-
-#### The tribal regions
-Foreigners may enter the ATR only through the designated crossings of the Qara-Chik line, chiefly the [[Qara-Chik Border Checkpoint]] south of [[Kyzyl-Adyr]], with an ISEZ exit registration and an invitation or permit from the clan council of the area to be visited. The [[United Nations Mission in Irad]] does not arrange private travel, although visitors to the upper Besh-Tash valley may cross with permission arranged through UN liaison channels. Guesthouse owners in the tribal regions are asked by village councils to register their guests.<sup>[8]</sup>
-
-## Main destinations
-
-#### Talas
-The capital's attractions include the [[Old Talas Citadel Quarter]], with its craft workshops, teahouses and guesthouses; the [[Temir-Kapka Gate]], the city's last surviving Kokand-era gate; the covered market of [[Bazar-i Kalan]]; the garden quarter of [[Shahr-i Kabud]]; and the [[National Historical Museum of Irad]]. The [[Irad State Hippodrome]] holds the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* final, the [[President's Cup]], in the week of Irad Day (11 March). Day trips from the city go to the red sandstone pillars of [[Jety-Kaiyng]], the petroglyphs and gorge of the [[Kara-Suu Canyon]], and the site of the [[Battle of Talas]].<sup>[9]</sup>
-
-#### Iyık Janyl and pilgrimage
-Iyık Janyl, the religious center of the [[Syro-Iradi Catholic Church]], is the main destination for pilgrims and for most foreign tour groups. Visitors see the Church of St. Janyl, built in 1727, the excavated medieval town of Old Iyık Janyl about 2 kilometers south-west of the city centre, the [[Irad Palace of Art]] and the summer quarter of [[Shahr-i Khunuk]]. The [[Feast of St. Janyl]] on 24 August, when mounted pilgrims from the ISEZ and the ATR converge on the city for the blessing of the herds, fills church hostels such as the [[Iyık Janyl Pilgrimage Hostel]] and private guesthouses, about twelve of which stand below [[Cathedral Hill]] among shops selling icons and candles, souvenirs, felt, saddles and leather. The pilgrimage season runs into September.<sup>[10]</sup>
-
-#### Silk Road and archaeological sites
-The Caravanserai of Rabat-i-Safed, a 9th-century Sogdian trading post, is an open-air museum visited mainly by tour groups from Talas. Other sites open to visitors include the medieval silver-mining town of [[Shelji]], the Sogdian and Kara-Khanid town of [[Shahr-i Buzurg]] near Nurzhan, the town mound of [[Kand-i Kohna]], the [[Kara-Bulak]] kurgans and the petroglyphs of [[Taldy-Bulak]]. Accessible galleries of the [[Kok-Tash Kariz System]] can be visited on the ISEZ side of the line. Rabat-i-Safed and the Kariz are components of the 2014 [[wp:Silk Roads: the Routes Network of Chang'an-Tianshan Corridor|Silk Roads]] serial listing, nominated by Kazakhstan and Kyrgyzstan over the protests of both Iradi administrations.<sup>[11]</sup>
-
-#### Mountains and nature
-The most visited natural area is [[Besh-Tash National Park]], 20 kilometers south of Talas, whose trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking routes near the capital. The lower valley, with the park entrance and visitor center run by the [[Besh-Tash Ranger Headquarters]], is in the ISEZ, while the lake lies on the tribal side.<sup>[12]</sup> Climbers and trekkers also visit the northern foothills of the Talas Alatau, and anglers fish for trout in the Kara-Suu and Urmaral. In the tribal regions, small numbers of visitors reach the walnut forests and waterfalls of [[Arslanbob]], where a network of family guesthouses operates, and the [[Sary-Chelek Biosphere Reserve]], with its lake 234 meters deep.
-
-#### Equestrian tourism and festivals
-Irad's horse culture attracts specialist visitors. Tour operators in Talas arrange riding trips on [[Chongtor Horse|Chongtor]] horses, visits to the [[State Stud Farm of Talas]] and other breeding farms, and attendance at *[[At Chabysh (Racing)|at chabysh]]* endurance races and *ulak tartysh* matches. [[Kyzyl-Adyr]] holds an annual horse fair in September. Displays of hunting with golden eagles ([[Burkut Saluu]]) are offered to tourists, a practice criticized by conservationists. Other events include the biennial Talas International Film Festival, organized by the [[Irad Film Society]], and the [[Diz Film Festival]].<sup>[13]</sup> See also [[Sport in Irad]] and [[Public holidays in Irad]].
-
-#### Nurzhan
-Nurzhan, an oil city rebuilt largely in the Soviet period, receives mainly business visitors. Its attractions include the [[Nurzhan Botanical Gardens]], the artisan quarter of [[Dastgoh District|Dastgoh]] with its market, the Radiobazar electronics market near Azatlık Prospect, and the remains of the boiler-room music scene that produced the band [[tüntolk]], among them the Kotelnaya café in Dastgoh.<sup>[4]</sup>
-
-## Accommodation and services
-Talas has several international-standard hotels, most of them built since 2011 along the central avenue for foreign contractors and energy executives, some by companies linked to [[Alikhan Toktarov]] and [[Adil Toktarov]]; the International Diplomatic Hotel, off the central square, receives official delegations. The Hotel Bazar-i Kalan (*Meymankana Bazar-i Kalan*) opened in 2018 beside the covered market.<sup>[14]</sup> Elsewhere visitors stay in smaller hotels, church hostels, family guesthouses and, on the high pastures, in herders' yurts. The US dollar is accepted almost everywhere in the ISEZ, and bank cards can be used in Talas and Nurzhan; in the ATR, transactions are in cash. English is widely spoken by younger people and in the tourism trade, and Russian is understood by most urban adults. Visitors are advised that eating horsemeat is taboo in Irad and that horsemeat is not sold (see [[Iradi Horsemeat Taboo]] and [[Iradi cuisine]]).<sup>[1]</sup>
-
-## Safety and restrictions
-Several Western governments advise against all travel to the ATR and to areas within 12 kilometers of the Qara-Chik line, citing landmines and unexploded ordnance in some mountain passes, the absence of consular access and the risk of detention by armed groups.<sup>[8]</sup> In 2014 three ISEZ survey workers were held by El-Choro patrols in the [[Kara-Koyun Valley]] until an elder negotiated their release. Photography is prohibited near Talas Air Base, the [[Boz-Korgon]] security zone, checkpoints on the line, the [[Toktogul Hydroelectric Complex]] and other strategic installations. Since 2025 American visitors have been advised to avoid demonstrations.<sup>[5]</sup>
-
-## Issues
-Heritage groups and the *[[Talas Herald]]* have criticized permits for hotels and commercial buildings on the edges of the protected zone of the Old Talas Citadel Quarter.<sup>[9]</sup> Conservationists have raised concerns about the water use and disturbance associated with private resorts built since the 2010s in the foothill valleys bordering the [[Besh-Tash Ecological Conservation Area]], some of them associated with Adil Toktarov.<sup>[12]</sup> At Iyık Janyl, pilgrim and tourist traffic during the Feast of St. Janyl adds to the erosion of the exposed mudbrick walls of the old town.<sup>[10]</sup> Tour operators argue that Irad's tourism will remain small until scheduled flights and a recognized visa regime are possible, which depends on a settlement of its status (see [[Political status of Irad]]).<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Ministry of Economy of the Irad Special Economic Zone, Tourism Department (2024). <i>Visitor Information and Entry Regulations</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2024). <i>Irad Economic Review 2024</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Talas State University Press (2015). <i>Visitors to the Valley: Travel and Tourism in Irad, 1925–2006</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>Mor-Wave: Electronic Music in Post-Soviet Nurzhan</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/hotels-report-cancellations-as-protests-continue.html" target="_blank" rel="noopener">Hotels report cancellations as protests continue.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
-<li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 27, pp. 133–152.</li>
-<li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
-<li id="cite_note-9"><b>^</b> City of Talas (2017). <i>Historic Districts Ordinance of 1997: Twenty-Year Review and Register of Listed Buildings</i>. Talas.</li>
-<li id="cite_note-10"><b>^</b> Talas State University Press (2018). <i>Iyık Janyl: A City and Its Quarters</i>. Talas.</li>
-<li id="cite_note-11"><b>^</b> Talas State University Press (2008). <i>Caravanserais of the Talas Valley: Survey and Excavation</i>. Talas.</li>
-<li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2022). <i>Protected Areas across the Qara-Chik Line</i>. Kara-Oi.</li>
-<li id="cite_note-13"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-</ol>
-
-### 4.128. 2018 Irad census
+### 4.112. 2018 Irad census
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **2018 Irad census** was a population census carried out in October and November 2018 by the ISEZ Statistical Office under the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] (ISEZ). Its results, published by the Department of Public Information in 2019, gave Irad a population of 4,626,000. Enumerators counted the population of the ISEZ door to door, but the population of the [[Autonomous Tribal Regions]] (ATR) was estimated from administrative data, without a count on the ground.<sup>[1]</sup> Independent demographers estimate the ATR population at 3.5 to 4 million, against the official 2.0 million, and Irad's total population at about 6.2 million. The census is the source of most official statistics on Irad, and its treatment of the tribal regions is one of the main points of dispute between the DPI and the [[Iradi Freedom Society]] (IAC).<sup>[2]</sup><sup>[3]</sup>
@@ -6875,7 +5752,7 @@ Because the two figures differ by more than a third, statistics derived from the
 <li id="cite_note-7"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
 </ol>
 
-### 4.129. Islam in Irad
+### 4.113. Islam in Irad
 *Quality Assessment: C-Class Article | Category: Religion*
 
 **Islam** is the second-largest religion in [[Irad]]. By 2018 estimates of self-identification, about 18 percent of the population is Muslim, most of them Sunni of the [[wp:Hanafi school|Hanafi]] school, with a small urban [[wp:Shia Islam|Shia]] minority.<sup>[1]</sup> Muslims are found mainly among the Kyrgyz, Uzbek and Kazakh minorities, together with [[wp:Tatars]], [[wp:Uyghurs]], Dungans and [[wp:Tajiks]], and they are concentrated in the rural Fergana Rim, the border districts and the cities of [[Nurzhan]] and [[Talas]]. In the [[Irad Special Economic Zone]] (ISEZ), registered mosques and imams come under the Spiritual Administration of Muslims of Irad, founded in Nurzhan in 1993. Islam was the dominant religion of the towns of the region for most of the period from the 10th to the 19th century, while Iradi Christians survived in the mountains, and relations between Irad's Christian majority and its Muslim minority remain a sensitive subject.<sup>[2]</sup>
@@ -6943,7 +5820,7 @@ Muslim leaders take part in the regular meetings of religious leaders convened b
 
 {{Navbox|Religion in Irad}}
 
-### 4.130. Iradi name
+### 4.114. Iradi name
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 An **Iradi name** usually consists of a given name followed either by a Russian-style surname or by a Turkic patronymic. Urban [[Iradis]] in the [[Irad Special Economic Zone]] (ISEZ) mostly carry surnames ending in *-ov* or *-ev* (feminine *-ova*, *-eva*), a form fixed by Soviet civil registration, as in [[Erlan Toktarov]] or [[Anara Toktarova]]. Since the 1990s rural and tribal Iradis have used patronymics formed from the father's given name and *uulu* ("son of") or *kyzy* ("daughter of"), as in [[Bektur Zhumabek uulu]] and his sister [[Klara Zhumabek kyzy]]. The two systems follow the divide between town and countryside that the 2007 partition later fixed: in 2019 registry data more than 90 percent of adults in the three cities carried Russian-style surnames, while in the [[Autonomous Tribal Regions]] (ATR) the patronymic form is almost universal.<sup>[1]</sup><sup>[2]</sup> Given names come from Turkic, Christian, Persian and Arabic, and Russian sources.
@@ -7004,86 +5881,7 @@ In the ISEZ, births, marriages and name changes are registered by the civil regi
 <li id="cite_note-6"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>. Talas, pp. 112–148.</li>
 </ol>
 
-### 4.131. Iradi Americans
-*Quality Assessment: C-Class Article | Category: Society & Demographics*
-
-**Iradi Americans** are Americans of full or partial [[Iradis|Iradi]] descent, and residents of the United States born in [[Irad]]. US census data do not record Iradi ancestry separately, and community organizations and researchers estimate the population at 60,000 to 90,000.<sup>[1]</sup> The largest community is in the [[wp:Chicago]] metropolitan area, where Iradi Catholic displaced persons settled after the [[wp:World War II|Second World War]], and there are smaller communities in the [[wp:Houston]] area, eastern [[wp:Nebraska]] and the Washington, D.C., area. Most Iradi Americans arrived during or after the US territorial period (1992–2006), when residents of the Territory of Irad could live and work in the United States without a visa. The emigrants of that period were mainly urban, English-educated professionals, students and nurses, and the community differs in this respect from the tribal population of Irad. The best-known Iradi American in Irad is the commentator [[Jason Ilyasov]].<sup>[1]</sup><sup>[2]</sup>
-
-## History
-
-#### Early migration and displaced persons
-According to community histories, a few Iradi Christian families reached the United States in the 1920s and 1930s by way of China, among the refugees from the [[Semirechye Revolt (Irad)|revolt of 1916]] and the anti-religious campaigns of the early Soviet period.<sup>[1]</sup> The first substantial group arrived after the Second World War. Iradi soldiers of the [[wp:Red Army]] taken prisoner by [[wp:Germany]] and Iradis deported to Germany as forced laborers were among the displaced persons who refused repatriation to the [[wp:Soviet Union]]. Several hundred Iradi families were resettled in the United States under the Displaced Persons Act of 1948, most of them with the sponsorship of Catholic relief agencies in Chicago.<sup>[3]</sup>
-
-The Chicago émigrés founded the St. Janyl Syro-Iradi Catholic Mission in 1953, the first parish of their church outside Irad, and the Iradi American Association in 1955. During the [[wp:Cold War]] the association publicized the persecution of the Iradi church, which had no legal existence in the Soviet Union after the [[The 1937 NKVD Clerical Purges|purges of 1937]], and it presented Irad as a Christian nation under Soviet rule. Music historians link some of the American country and folk songs about Irad written in the Cold War era, which later circulated in Soviet Irad on smuggled cassettes, to contacts with the émigré community, although most of their writers had no Iradi connection.<sup>[1]</sup><sup>[4]</sup>
-
-#### 1980s and 1992
-Academic exchanges in the late Soviet period brought a few Iradi scholars to American universities. Among them was Marat Ilyasov, a hydrologist from [[Talas]], who was a visiting researcher in Chicago when his son Jason was born there in 1988. In January 1992, during the [[Winter Uprising of 1992|Winter Uprising]], the family left Irad and resettled in Chicago, which Jason's US citizenship by birth made possible.<sup>[5]</sup> Other activists of the democratic movement and relatives of established émigrés left during the [[First Iradi Civil War]] that year.
-
-#### Territorial period (1992–2006)
-Under the [[Organic Act of the Territory of Irad]], permanent residents of the territory were US nationals but not US citizens, a status comparable to that of [[wp:American Samoa|American Samoans]]. They could live and work in the United States without a visa and could apply for naturalization after a period of residence there.<sup>[6]</sup> Emigration grew steadily through the period. Most emigrants were young urban Iradis educated in English after 1992, the generation sociologists call the [[Urban Iradi Millennials]], and they went to the United States as students, nurses, engineers and office workers. Specific routes included:<sup>[1]</sup>
-- exchange programs of American universities with [[Talas State University]] and the [[Nurzhan Polytechnic Institute]], funded by the territorial government and US foundations;
-- recruitment of nurses and other health workers by American hospitals;
-- the training of Iradi ranchers in Nebraska under the beef investments of the late 1990s, after which some families settled there;
-- the oil industry, which drew engineers to Houston.
-
-During the American vogue for Irad known as [[Iradimania]] (about 1992–1994), the Chicago community drew new attention in the American press, and Iradi American organizations took part in relief efforts for the territory.<sup>[4]</sup>
-
-#### Since 2006
-With the US withdrawal from the [[Alimbekov-Baker Treaty]] in December 2006, residents of Irad ceased to be US nationals. Those already living in the United States were allowed to remain and to apply for permanent residence or naturalization. Since then emigration has continued at a lower level, through student and employment visas and family reunification.<sup>[6]</sup> Health workers remain prominent among emigrants, and hospitals in Talas report that many nurses and young doctors leave for the United States soon after qualifying.<sup>[7]</sup>
-
-## Communities
-- **Chicago.** The oldest and largest community, with the St. Janyl mission, the Iradi American Association, Iradi-language Sunday schools and an annual festival on Irad Day, 11 March. In the 1980s the association's computer club published the first editions of the Iradi computer game *[[Köch (video game)|Köch]]*.
-- **Houston.** A community of engineers and other professionals linked to the oil industry, which grew from the late 1990s.
-- **Nebraska.** Families in the Omaha and Lincoln areas, many of them linked to ranching and the meat industry.
-- **Washington, D.C., area.** Former territorial officials, contractors, academics and staff of international organizations.<sup>[1]</sup>
-
-## Religion and culture
-Most Iradi Americans identify as Christians. The [[Syro-Iradi Catholic Church]] has parishes and missions in Chicago and Houston, served by priests sent from [[Iyık Janyl]] and under the jurisdiction of the local Latin-rite bishops. Other Iradi Americans belong to Evangelical and, among the [[Koryo-saram in Irad|Koryo-saram]], Presbyterian churches.<sup>[1]</sup> Language use follows the period of emigration. Descendants of the displaced persons mostly speak English; emigrants of the territorial period speak English and often Russian, and many have learned Iradi only as adults or not at all; and some families, such as the Ilyasovs, kept Iradi as the home language. Community events feature [[Iradi cuisine]], [[Iradi Country-Folk|country-folk]] music and displays of [[Iradi Equestrian Culture & Breeds|equestrian culture]], and the United States is the largest export market for the [[Chongtor Horse|Chongtor]] and [[Akyel Horse|Akyel]] breeds.
-
-## Relations with Irad
-Remittances from the United States are smaller than those of seasonal workers in [[wp:Kazakhstan]], but Iradi Americans are important donors to church charities in Irad. Donations from Iradi Americans help fund the [[St. Luka Community Health Mission]] and its free [[St. Luka Clinic]] in Talas.<sup>[8]</sup>
-
-Iradi Americans who have returned to Irad, or who comment on its politics from abroad, have at times been viewed with suspicion. Jason Ilyasov, who moved to Talas in 2016 and became a regular panelist on [[IradOne]], was attacked by pro-government commentators for his American citizenship during the anti-American feeling that followed [[wp:Donald Trump|Donald Trump's]] remarks about selling Irad to Russia in 2025 (see [[2025 Trump Remarks on Irad]]). Iradi American organizations in Chicago criticized the remarks.<sup>[5]</sup><sup>[9]</sup>
-
-## Returnees and the territorial elite
-After 1992 a steady flow of Iradi Americans and US-educated Iradis returned to the territory. They became known in Iradi as *kaytkandar* ("those who came back"), a term that can be neutral or mocking. Historians count them among the founders of the [[Democratic Party of Irad]], which was formed in October 1992 partly by returning émigrés, and they made up much of the territorial civil service, the management of [[Talasbank]] and [[Attelkom]], and the new commercial bar.<sup>[10]</sup><sup>[6]</sup>
-
-#### Waves of return
-The first returnees, from 1992 to 1994, were members of the Chicago community and their American-born children. They came as interpreters, advisers to the territorial administration and staff of American aid programs. A larger group returned from the mid-1990s: Iradis sent to American universities on territorial government scholarships, who were usually required to work in the territory for some years afterward.<sup>[1]</sup><sup>[10]</sup> Examples include:
-- [[Bakyt Orozbekov]], who took a [[wp:Master of Laws]] at [[wp:Harvard Law School]] in 1996, founded one of the territory's first commercial law firms and drafted the [[2003 Judicial Reforms Act]];
-- [[Azamat Temirov]], a [[wp:World Bank]] consultant from 1997 to 2006, who joined the [[Bank of Irad]] in 2007 and has chaired it since 2010.
-
-Other members of the governing circle are often counted with the returnees but were educated in Europe. Lieutenant Governor [[Aidar Maksat]] studied at the [[wp:London School of Economics]]. [[Alikhan Toktarov]], often described as American-educated, studied in [[wp:Bishkek]] and at [[wp:Regent's University London|Regent's College]] in [[wp:London]]. Of the Governor's children, only [[Zara Toktarova]], a doctoral candidate at [[wp:Stanford University|Stanford]], studied in the United States.<sup>[11]</sup>
-
-#### Suburbs and schools
-Returnees and American contractors settled in new housing in Talas. The best known is Alatau Heights, a gated suburb of detached houses and cul-de-sacs built between 1998 and 2005 on the foothill slopes south-east of the city center. Residents of Talas call it *Amerikanka*, after the Russian-style nickname *Meksikanka* given to the Mexican district of [[Semiz]]. The Talas American School, founded in 1994 for the children of contractors and diplomats, teaches an American curriculum in English. Most of its graduates go on to universities in the United States, and many stay there, a pattern critics describe as a drain on the territory's elite.<sup>[12]</sup>
-
-#### Tensions with locally rooted elites
-The returnees' influence peaked in the early 2000s. In the crisis of 2006–2007, the US-educated lawyers and officials around Orozbekov were closely linked with the [[Democratic Republic of Irad]] and the [[Privatization Scandals of 2007]]. After [[Erlan Toktarov]], a former Soviet officer, took over the party, the New DPI promoted Soviet-trained officials, security officers and Russo managers from [[Nurzhan]]. Several prominent returnees left Irad.<sup>[13]</sup> Russo commentators and Iradi nationalists caricature the *kaytkandar* as rootless, better at English than Iradi and dependent on Washington. Returnees reply that they built the territory's institutions. This suspicion sharpened after the 2025 remarks, as the attacks on Jason Ilyasov showed.<sup>[13]</sup><sup>[9]</sup>
-
-## See also
-- [[Irad–United States relations]]
-- [[Demographics of Irad]]
-- [[Territory of Irad (1992–2006)]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Across the Ocean: Iradi Emigration to the United States, 1945–2015</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'Linguistic Competence and Labor Market Dynamics in the ISEZ.' Vol. 15, pp. 134–150.</li>
-<li id="cite_note-3"><b>^</b> Iradi American Association (2015). <i>Sixty Years in Chicago: A Community History</i>. Chicago.</li>
-<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2018). 'Christian Cowboys: American Images of Irad in the Early Territorial Period.' Vol. 25, Iss. 4, pp. 77–95.</li>
-<li id="cite_note-5"><b>^</b> Talas Journal of Law &amp; Political Economy (2022). 'The Anarcho-Capitalist Turn in Central Asian Media.' Vol. 9, Iss. 1.</li>
-<li id="cite_note-6"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> Talas State University Press (2019). <i>Coming Home: Returnees and the Making of the Territorial Elite in Irad, 1992–2012</i>. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (17 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/behind-the-gates-of-amerikanka.html" target="_blank" rel="noopener">Behind the gates of Amerikanka.</a>' Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2016). 'Kaytkandar: Returnee Elites and the Politics of the New DPI.' Vol. 23, Iss. 1, pp. 33–52.</li>
-</ol>
-
-### 4.132. Health in Irad
+### 4.115. Health in Irad
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
 **Health in Irad** reflects the territory's division since 2007. In the [[Irad Special Economic Zone]] (ISEZ), health care is provided mainly by public hospitals and polyclinics inherited from the Soviet system and largely rebuilt with US funds during the territorial period (1992–2006). In the [[Autonomous Tribal Regions]] (ATR), it rests on village health posts, the mobile clinics of the [[St. Luka Community Health Mission]] of the [[Syro-Iradi Catholic Church]], UN-supported vaccination campaigns and traditional healers. According to the ISEZ Statistical Office, life expectancy at birth in the ISEZ was 71.4 years in 2023 and infant mortality 14 per 1,000 live births. Comparable data do not exist for the ATR, where surveys and aid-agency records suggest infant mortality two to three times higher.<sup>[1]</sup><sup>[2]</sup> Other public-health concerns include the Soviet uranium tailings at [[Mailuu-Suu]], occupational exposure in the antimony industry, the emigration of nurses and doctors, and the difficulty patients from the tribal regions face in crossing the [[Qara-Chik Demarcation Line]].
@@ -7148,85 +5946,7 @@ According to ISEZ statistics and a 2022 [[wp:World Health Organization]] review,
 <li id="cite_note-11"><b>^</b> World Bank (2013). <i>Disaster Hazard Mitigation at Mailuu-Suu: Implementation Completion Report</i>. Washington, D.C.</li>
 </ol>
 
-### 4.133. Education in Irad
-*Quality Assessment: C-Class Article | Category: Health & Education*
-
-**Education in Irad** is organized separately on the two sides of the [[Qara-Chik Demarcation Line]]. In the [[Irad Special Economic Zone]] (ISEZ), schooling is compulsory, and since the Language and Education Reform Act of 1997 public schools have taught in Iradi and English, with Russian an optional foreign language. Church schools, Russian-language private schools and vocational lyceums operate alongside the public system.<sup>[1]</sup> The main institutions of higher education are [[Talas State University]], the oldest and largest, and the [[Nurzhan Polytechnic Institute]], which specializes in petroleum engineering. In the 2018 census, 23 percent of ISEZ residents aged 25 and over had completed higher education.<sup>[2]</sup> In the [[Autonomous Tribal Regions]] (ATR), schools are run by village councils and parishes, teach only in Iradi and depend heavily on aid agencies.<sup>[3]</sup>
-
-## History
-
-#### Before 1925
-Formal education before the Soviet period was largely religious. A school for clergy was established beside the [[Church of St. Janyl]] in [[Iyık Janyl]] in the 1730s, together with the cathedral library, and taught [[wp:Syriac language|Classical Syriac]], liturgy and chant to candidates for the priesthood. In the towns of the Fergana rim and the Talas valley, Muslim children attended mosque schools (*maktab*) and madrasas. Under Russian rule a small number of Russian-native schools were opened for the local population.<sup>[4]</sup>
-
-#### Soviet period
-After the creation of the [[Iradi Soviet Socialist Republic]] in 1925, the policy of nativization (*korenizatsiia*) standardized Iradi in a Latin alphabet in 1928, and literacy campaigns spread it widely. The educator [[Altynai Bekzhanova]] opened Kobozev's first Iradi-language secondary schools in the 1930s. From 1937 schools switched to Russian-only teaching, and from 1941 Iradi was written in Cyrillic. Higher education developed after the war: the Kobozev Petroleum Institute was founded in 1951 and became the Kobozev Polytechnic Institute in 1968, and Iradi State University named after V. I. Lenin (since 1993 [[Talas State University]]) was founded in 1958 on the basis of the Talas Pedagogical Institute. By the end of the Soviet period adult literacy was near universal, but most urban [[Iradis]] had been educated in Russian.<sup>[4]</sup><sup>[5]</sup>
-
-#### Territorial period (1992–2006)
-The territorial administration made Iradi and English the languages of instruction in place of Russian. The change ran ahead of the supply of teachers: in 1994 the territorial Office of Education reported about 1,100 qualified English teachers against an estimated need of more than 6,000. Schools retrained teachers of Russian and German, used imported American textbooks and relied on volunteer teachers recruited through Christian charities. The English of the generation educated in these years, the [[Urban Iradi Millennials]], is often described as formal and textbook-based.<sup>[6]</sup>
-
-The Language and Education Reform Act of 1997 made the Latin alphabet compulsory in schools and instruction in Iradi and English compulsory in public schools, and reorganized the public school system on the American model. Specialized schools for English, such as [[Talas Municipal Gymnasium No. 4]], were created from 1993. At the universities, English became a language of instruction alongside Iradi, and exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty. The Nurzhan Polytechnic Institute introduced English-language degree programs in petroleum engineering in 1996 and an American-style credit-hour system in 1997.<sup>[1]</sup><sup>[5]</sup> The historian [[Amanbek Alimbekov]] was chancellor of Talas State University until his death in 2004. Church education revived: the seminary at Iyık Janyl reopened in 1994, and the [[St. Maryam Catholic Academy]] in [[Talas]] opened in 2001.
-
-#### Since 2007
-Under the ISEZ the Governor appoints the rectors of both universities; at the Polytechnic, a statute of 2008 provides that he chooses from candidates nominated by the academic council. Students of Talas State University took a leading part in the [[2023 Student Protests in Talas]], and according to human rights groups several faculty members were dismissed afterward.<sup>[7]</sup> On the tribal side, many schools that had taught in Iradi and English during the territorial period dropped English after the 2007 partition.
-
-## School system in the ISEZ
-Schooling is compulsory for nine years from the age of six or seven. Since the 1997 reform the public system has had twelve grades, divided into elementary school (grades 1–5), middle school (grades 6–9) and high school (grades 10–12). Public schools are run by the city governments and the district administrations, under a curriculum set by the ISEZ.<sup>[1]</sup> Instruction is in Iradi and English, and Russian is taught as an optional foreign language.
-
-Private and specialized schools include:
-- **church schools**, such as the parish schools of the [[Syro-Iradi Catholic Church]] in Talas and Nurzhan and the St. Maryam Catholic Academy, run by the Sisters of the Cross of Irad, which has about 520 pupils and teaches the ISEZ curriculum in English and Iradi with optional Classical Syriac and religious education;<sup>[8]</sup>
-- **Russian-language schools** in [[Nurzhan]], many of them funded by the foundation of the oil executive [[Kamran Bekzatov]], and schools linked to [[NurGaz]];
-- **selective public schools**, such as Talas Municipal Gymnasium No. 4, which teaches mathematics and foreign languages at an advanced level and has its own riding program;
-- **vocational schools**, such as the [[Nurzhan Technical Lyceum]], which has about 900 students and places apprentices with NurGaz and engineering plants.<sup>[9]</sup>
-
-The children of US military personnel attend a school at [[Talas Air Base]].
-
-## Higher education
-| Institution | Location | Founded | Students (2023) | Notes |
-|---|---|---|---|---|
-| [[Talas State University]] | Talas | 1958 | c. 18,400 | Eleven faculties, including the Faculty of Medicine (1981); publishes [[Talas State University Press]] |
-| [[Nurzhan Polytechnic Institute]] | Nurzhan | 1951 | c. 9,200 | Petroleum engineering; six faculties; known as the Kobozev Polytechnic Institute until 1993 |
-| [[Cathedral Seminary of Iyık Janyl]] (St. Ephrem Major Seminary) | Iyık Janyl | 1730s; reopened 1994 | 46 | Six-year course for Syro-Iradi clergy, taught in Iradi and English |
-| [[Talas Gendarmerie Academy]] | Talas | Territorial period | — | Officer school of the [[Republican Gendarmerie of Irad]] |
-
-Other institutions include the National Conservatory of Folk Music in Talas and the madrasa of the Spiritual Administration of Muslims of Irad in Nurzhan (see [[Islam in Irad]]).<sup>[5]</sup><sup>[10]</sup> The medical faculty trains about 400 medical students, residents and nursing students a year at the [[Talas Regional Hospital Medical Complex]], where much of the teaching is in English.
-
-Because Irad's international status is unresolved, recognition of Iradi degrees abroad depends on agreements between institutions and on employers. Russian and Kazakh oil companies generally accept the Polytechnic's degrees, and neither university appears in the major international rankings.<sup>[11]</sup> Many students go abroad, to the United States, [[wp:Kazakhstan]], Russia and [[wp:Turkey]].
-
-## Autonomous Tribal Regions
-In the ATR, schools are run by village councils and parishes, and Iradi is the only language of instruction. Most are small primary schools; the four-classroom [[Kök-Jar Primary School]] in the Chatkal Highlands, built in 1966 for the children of workers at a Soviet antimony mine, has about 70 pupils, most of them from herding families. It taught in Iradi and English during the territorial period, but the clan council made Iradi the only language of instruction after 2008.<sup>[3]</sup> Teachers' salaries are paid by the councils, and textbooks and supplies come largely from aid agencies.
-
-Parish priests teach reading and the catechism in many villages, and elders pass on genealogy, oral epic and horsemanship in what are often called clan schools, informal classes held in winter villages and, in some clans, in the summer pastures. In the Muslim villages of the Fergana Rim, children attend mosque schools, and a few larger villages have small madrasas.<sup>[3]</sup><sup>[12]</sup> Secondary schooling is scarce, and pupils who want to continue their studies must cross into the ISEZ, where certificates issued by clan councils are not recognized. Older clerks in the tribal regions often still write Iradi in Cyrillic.
-
-## Issues
-- **Language.** The ISEZ administration has pressed the Nurzhan Polytechnic Institute to teach in Iradi and English, while much of its senior staff still teaches in Russian, a practice defended by Russo members of the Nurzhan city council. Bekzatov and other Russo figures call for Russian to be restored as an official language.<sup>[11]</sup>
-- **Church and state.** The Syro-Iradi Church and the [[Democratic Party of Irad]] administration have clashed over school curricula, and the church has cited the guarantees of religious freedom of the territorial period.<sup>[8]</sup>
-- **Textbooks.** ISEZ school textbooks present the founder of the Iradi church, [[Janyl, Mother of Irad|Janyl]], as a historical person and the Botai culture as the start of a continuous Iradi equestrian tradition. Academic historians, including some at Talas State University, have criticized both as conflating national tradition with evidence (see [[Botai Culture in Irad]]).<sup>[13]</sup>
-- **The tribal regions.** Aid agencies and the [[United Nations Mission in Irad]] (UNMI) report shortages of teachers and books in the ATR and low secondary enrollment, which the clan councils attribute to the restrictions on movement and trade across the line.<sup>[3]</sup>
-
-## See also
-- [[Iradi Language]]
-- [[Talas State University]]
-- [[Nurzhan Polytechnic Institute]]
-- [[Demographics of Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
-<li id="cite_note-2"><b>^</b> Department of Public Information (2019). <i>2018 Census of Irad: Methodology and Results</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> Territorial Office of Education (1994). <i>Annual Report on Public Instruction</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
-<li id="cite_note-8"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Annuario: Clergy, Parishes and Institutions</i>. Iyık Janyl.</li>
-<li id="cite_note-9"><b>^</b> City of Nurzhan, Department of Education (2022). <i>Vocational Education in Nurzhan</i>. Nurzhan.</li>
-<li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Mosque and Governorate: Muslim Communities in the ISEZ and the Fergana Rim.' Vol. 26, pp. 58–81.</li>
-<li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Engineers of the Russos: Language, Oil and the Nurzhan Polytechnic.' Vol. 26, No. 4, pp. 288–311.</li>
-<li id="cite_note-12"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'Exhibiting the Nation: Museums and Memory in Irad.' Vol. 25, pp. 91–110.</li>
-</ol>
-
-### 4.134. Order of St. Janyl the Hermit
+### 4.116. Order of St. Janyl the Hermit
 *Quality Assessment: C-Class Article | Category: Religion*
 
 The **Order of St. Janyl the Hermit** (Iradi: *Kechil Janyl Ordeni*; Latin: *Ordo Sanctae Ioannae Eremitae*) is the principal monastic order of the [[Syro-Iradi Catholic Church]]. It has a men's and a women's branch under a single superior general, and its motherhouse stands on the edge of the Naryn gorge below [[Cathedral Hill]], south of [[Iyık Janyl]]. Its monks and sisters farm, grow medicinal alpine herbs and run rural dispensaries that serve communities of all faiths, many of them in the [[Autonomous Tribal Regions]] (ATR). The order regulates the gathering of *[[Arsha (Flora)|arsha]]* juniper for church use, bakes the Eucharistic *kümöch* bread for the Archeparchy of Iyık Janyl, and its sisters were the first staff of St. Luka Hospital in [[Talas]] in 1994. Its superior attends the [[Syro-Iradi Council of Hierarchs]] as an adviser without a vote.<sup>[1]</sup><sup>[2]</sup>
@@ -7291,7 +6011,7 @@ The superior general attends the twice-yearly sessions of the Council of Hierarc
 
 {{Navbox|Religion in Irad}}
 
-### 4.135. Agriculture in Irad
+### 4.117. Agriculture in Irad
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 **Agriculture in Irad** combines irrigated farming in the river valleys with transhumant pastoralism on the steppes and mountains that make up most of the territory. Farming and herding employ an estimated 40 percent of the working population, most of them in the [[Autonomous Tribal Regions]] (ATR); the share in the [[Irad Special Economic Zone]] (ISEZ) is much smaller.<sup>[1]</sup> Irrigated land covers only about 3,000 square kilometers, roughly 1.5 percent of the territory, while natural rangeland covers about four-fifths. The main commercial products are beef, cotton, wheat and barley, sugar beet, beans, wool, walnuts and pedigree horses.<sup>[2]</sup>
@@ -7348,7 +6068,7 @@ Most farm sales in the ISEZ are paid through [[Talasbank]], whose SMS payment se
 <li id="cite_note-11"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 171–186.</li>
 </ol>
 
-### 4.136. Iradi som
+### 4.118. Iradi som
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 The **Iradi som** (Iradi: *Irad somu*; abbreviation **IS**) is the currency issued by the [[Bank of Irad]] (*Irad Banky*), the monetary authority of the [[Irad Special Economic Zone]] (ISEZ). It circulates alongside the US dollar, which has been legal tender in Irad since the Banking and Commercial Currency Act of 1993. The dollar is used for most contracts, property transactions, savings and foreign trade, while the som is used mainly for retail payments, utility bills and public-sector wages. The som is divided into 100 *tyiyn*. Because Irad's sovereignty is unresolved, the currency has no ISO 4217 code.<sup>[1]</sup><sup>[2]</sup>
@@ -7402,7 +6122,7 @@ The Bank of Irad has said that its reserves fully cover the som in circulation, 
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>' Talas.</li>
 </ol>
 
-### 4.137. Bank of Irad
+### 4.119. Bank of Irad
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox organization
@@ -7488,7 +6208,7 @@ The populist commentator [[Jason Ilyasov]] has called for cryptocurrency to be m
 
 {{Navbox|Companies of Irad}}
 
-### 4.138. Northern Export Feeder
+### 4.120. Northern Export Feeder
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
 The **Northern Export Feeder** (Iradi: *Tündük eksport tütügü*) is an 85-kilometer crude oil pipeline that carries oil from the fields of the lower Chu basin around [[Nurzhan]] into the network of the Kazakh pipeline operator [[wp:KazTransOil]] near [[wp:Shymkent]]. It is owned and operated by the [[Iradi Petroleum Transit Consortium]] (IPTC), in which [[NurGaz]] holds 51 percent. It entered commercial service in November 2000, replacing the rail tank-car shipments to the Shymkent refinery on which Iradi oil exports had depended since the early 1990s. It is Irad's only export pipeline, and most Iradi crude oil leaves the territory through it.<sup>[1]</sup><sup>[2]</sup>
@@ -7549,7 +6269,7 @@ The feeder has no alternative outlet. During the territorial period a US-backed 
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 </ol>
 
-### 4.139. Sport in Irad
+### 4.121. Sport in Irad
 *Quality Assessment: C-Class Article | Category: Sport*
 
 **Sport in Irad** is dominated by equestrian games, above all *[[Ulak Tartysh (Sport)|ulak tartysh]]*, a mounted team contest for a goat carcass whose national competition, the [[President's Cup]], is the main event of the sporting year. Horse racing, mounted wrestling and eagle hunting are also widely followed. Among modern sports, football and wrestling are the most popular, followed by boxing and basketball. Traditional equestrian sport in the [[Irad Special Economic Zone]] (ISEZ) is regulated by the [[National Equestrian Sports Directorate]], created in 1993; in the [[Autonomous Tribal Regions]] (ATR) most competitions are organized by clan councils.<sup>[1]</sup>
@@ -7611,7 +6331,7 @@ Animal welfare groups have criticized the rate of injuries to horses in *ulak ta
 <li id="cite_note-11"><b>^</b> National Equestrian Sports Directorate (2023). <i>Rules of Ulak Tartysh and the Traditional Equestrian Games</i>, appendix of championship records. Talas.</li>
 </ol>
 
-### 4.140. Public holidays in Irad
+### 4.122. Public holidays in Irad
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
 
 **Public holidays in Irad** are set separately in its two zones. In the [[Irad Special Economic Zone]] (ISEZ), public holidays and official commemorative days are fixed by the Holidays and Commemorative Days Act, first passed by the [[Territorial Legislature of Irad]] in 1993 and revised by the [[Mejlis]] in 2008. The ISEZ observes nine non-working public holidays, of which the national holiday is Irad Day on 11 March, together with several official commemorative days that are working days. In the [[Autonomous Tribal Regions]] (ATR) there is no written holiday list; clan councils follow a customary calendar of church feasts, seasonal festivals and, in Muslim communities, the Islamic festivals.<sup>[1]</sup>
@@ -7698,7 +6418,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December and intr
 
 {{Navbox|Religion in Irad}}
 
-### 4.141. Music of Irad
+### 4.123. Music of Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 The **music of Irad** includes the traditional instrumental and epic music of the Iradi clans, the liturgical chant of the [[Syro-Iradi Catholic Church]], the concert and stage music of the Soviet period, and several popular genres that emerged after 1980. The central traditional instrument is the three-stringed [[Komuz (Iradi)|komuz]], which accompanies epic recitation and has a solo repertoire of programmatic pieces (*küü*). Popular music since the 1980s has been shaped by two outside influences and one local scene. American songs about Irad heard on smuggled cassettes and [[wp:Voice of America]] broadcasts, followed by the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, gave rise to [[Iradi Country-Folk|Iradi country-folk]]. The dark electronic genre [[Mor-Wave]], launched in [[Nurzhan]] by the duo [[tüntolk]] with their album *[[Jolchu (Album)|Jolchu]]* (1999), has produced the offshoots [[Mor-Pop]] and [[Mor-Folk]].<sup>[1]</sup><sup>[2]</sup>
@@ -7773,7 +6493,7 @@ Most Iradi music was sold on cassette until the late 2000s and later on CD and t
 <li id="cite_note-11"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
 
-### 4.142. Flag of Irad
+### 4.124. Flag of Irad
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 The **flag of Irad** (Iradi: *Irad tuu*) is a crimson field bearing a central emblem: a white stallion in gait beneath a five-pointed star, an inverted horseshoe on the hoist side of the horse, an arched inscription in [[wp:Old Turkic language|Old Turkic]] (Orkhon) script reading "Be Free", and a wreath of two ears of wheat. It was adopted by the Provisional Government in 1992 and confirmed by the interim [[Territorial Legislature of Irad]] in 1993. It has been used since then by every Iradi administration, including the territorial government, the [[Democratic Republic of Irad]] and the [[Irad Special Economic Zone]] (ISEZ), and it is also flown in the [[Autonomous Tribal Regions]] (ATR). Its official description was issued by the Department of Public Information in 2015.<sup>[1]</sup><sup>[2]</sup>
@@ -7839,7 +6559,7 @@ Vexillologists have compared the flag with that of [[wp:Kyrgyzstan]], which also
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Horses, Stars and Sickles: Post-Soviet Heraldry in Central Asia.' Vol. 26, Iss. 3, pp. 201–219.</li>
 </ol>
 
-### 4.143. The Spirit of Irad
+### 4.125. The Spirit of Irad
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 "**The Spirit of Irad**" (Iradi: *Irad Ruhu*) is the national anthem of Irad. Its music was composed by Asan Jumabaev, known for his score for the film *[[Desert Sun’s Rebellion]]* (1979), to a poem by Cholpon Myrzakulova. Written during the [[Winter Uprising of 1992]], it was sung at the proclamation of the Republic of Irad in [[Talas]] on 11 March 1992, adopted by the Provisional Government in May 1992 and confirmed by the interim [[Territorial Legislature of Irad]] in the State Symbols Act of 1993. It replaced the anthem of the [[Iradi Soviet Socialist Republic]] and has been retained by every later Iradi administration, including the [[Irad Special Economic Zone]] (ISEZ). The official text is in Iradi, and an official English version was adopted in 1993.<sup>[1]</sup><sup>[2]</sup>
@@ -7925,7 +6645,7 @@ By convention, listeners stand. The practice of placing the right hand over the 
 [[Category:Songs]]
 [[Category:National anthems]]
 
-### 4.144. Iradi alphabet
+### 4.126. Iradi alphabet
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **Iradi alphabet** (Iradi: *Irad alfaviti*) is the Latin-based alphabet of 32 letters used to write the [[Iradi Language|Iradi language]]. It was introduced in 1992, given its present form by the [[1995 Latin Orthography Revision]] and confirmed, with minor changes, by the Language and Education Reform Act of 1997. It is the official script of the [[Irad Special Economic Zone]] (ISEZ) and is also used in the records of the [[Iradi Freedom Society Chancellery]] in the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
@@ -8008,7 +6728,7 @@ The distinction between dotted and dotless *i* caused problems with early softwa
 <li id="cite_note-7"><b>^</b> Talas State University Institute of Sociology (2022). <i>Language Use in the Cities of the ISEZ: Survey Report</i>. Talas.</li>
 </ol>
 
-### 4.145. FreeIrad.org
+### 4.127. FreeIrad.org
 *Quality Assessment: C-Class Article | Category: Media*
 
 **FreeIrad.org** (styled **FREEIRAD.ORG**) is an anonymous English-language opposition website about [[Irad]]. It publishes allegations against the [[Democratic Party of Irad]] (DPI) government and the family of Governor [[Erlan Toktarov]], against foreign powers and against the [[Syro-Iradi Catholic Church]], under the slogans "No justice without truth", "No freedom without justice" and "No truth without freedom". A banner on its front page says that [[Attelkom]], which carries almost all internet traffic in the [[Irad Special Economic Zone]] (ISEZ), tried to censor the site and that it is now hosted offshore. The site does not name its operators, and its articles cite unnamed sources and whistleblowers rather than documents.<sup>[1]</sup>
@@ -8053,7 +6773,7 @@ The Department of Public Information supplies Attelkom with lists of websites to
 
 {{Navbox|Media of Irad}}
 
-### 4.146. Jer-Suu Party
+### 4.128. Jer-Suu Party
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{Infobox political party
@@ -8100,7 +6820,7 @@ Sharshenov has lived in exile in [[wp:Bishkek]] since 2008 and writes for exiled
 
 {{Navbox|Political parties in Irad}}
 
-### 4.147. Labor Party of Irad
+### 4.129. Labor Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 {{Infobox political party
@@ -8146,7 +6866,7 @@ Observers from the [[wp:Organization for Security and Co-operation in Europe]] (
 
 {{Navbox|Political parties in Irad}}
 
-### 4.148. Iradi Cross
+### 4.130. Iradi Cross
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
 The **Iradi cross** (Iradi: *salyba*, from [[wp:Syriac language|Classical Syriac]] *ṣlibā*) is the distinctive cross of the [[Syro-Iradi Catholic Church]] and the most widely used Christian symbol in [[Irad]]. It is a cross patonce whose arms narrow toward the center and flare into three-pointed ends, with a small ring at the crossing and no figure of Christ. Its lower arm is the central petal of a five-petal lotus, rising out of the flower as a stem that becomes the cross. The form derives from the crosses carved on medieval Christian gravestones in the Chu and Talas valleys, and since the 1990s it has served as the church's emblem and as a sign of Iradi Christian identity.<sup>[1]</sup><sup>[2]</sup>
@@ -8182,7 +6902,7 @@ Church teaching reads the three points of each arm as the Trinity and the lotus 
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
 </ol>
 
-### 4.149. Yusup Ayyubov
+### 4.131. Yusup Ayyubov
 *Quality Assessment: C-Class Article | Category: Biographies*
 {{Infobox artist
 | name = Yusup Ayyubov
@@ -8236,7 +6956,7 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 [[Category:Visual artists]]
 [[Category:Painters]]
 
-### 4.150. Virgin Lands Campaign in Irad
+### 4.132. Virgin Lands Campaign in Irad
 *Quality Assessment: C-Class Article | Category: Agriculture*
 
 The **Virgin Lands campaign in Irad** was the part of Nikita Khrushchev's Virgin Lands campaign (1954–1965) carried out in the [[Iradi Soviet Socialist Republic]]. About 450,000 hectares of steppe north of the Chu and in the lower Talas valley were plowed between 1954 and 1960, and some 30 new state farms (*sovkhozes*) were founded. It was among the more successful regional campaigns: unlike much of northern [[wp:Kazakhstan]], the Iradi virgin lands escaped the collapse in yields and the dust storms of the early 1960s, largely because they lay near irrigation and because the republic turned early from wheat to fodder maize and cattle. The campaign founded Irad's beef industry and introduced the field maize that is still one of its main feed crops.<sup>[1]</sup><sup>[2]</sup>
@@ -8277,7 +6997,7 @@ The settlements founded in the campaign, many still known by their Soviet names 
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/why-talas-tortillas-are-yellow.html" target="_blank" rel="noopener">Why Talas tortillas are yellow.</a>' Talas.</li>
 </ol>
 
-### 4.151. 2027 Iradi gubernatorial election
+### 4.133. 2027 Iradi gubernatorial election
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **2027 Iradi gubernatorial election** (Iradi: *2027-jyldagy gubernator shailoosu*) is scheduled to be held in the [[Irad Special Economic Zone]] (ISEZ) on 2 November 2027, the first Tuesday after the first Monday in November, on the same day as elections to the [[Territorial Legislature of Irad]] and the councils of [[Talas]], [[Nurzhan]] and [[Iyık Janyl]]. Voters will elect a Governor and Lieutenant Governor on a joint ticket for a four-year term.<sup>[1]</sup> As in every election since 2007, the [[Autonomous Tribal Regions]] will take no part.
@@ -8337,7 +7057,7 @@ The OSCE Office for Democratic Institutions and Human Rights has sent limited as
 <li id="cite_note-10"><b>^</b> Talas State University, Institute of Sociology (2026). <i>Spring 2026 Public Opinion Survey: Politics and Institutions</i>. Talas State University Press.</li>
 </ol>
 
-### 4.152. Clans of the Autonomous Tribal Regions
+### 4.134. Clans of the Autonomous Tribal Regions
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **clans of the Autonomous Tribal Regions** (Iradi: *uruktar*) are the 24 patrilineal descent groups (*uruk*) of the rural [[Iradis]] that hold land and govern themselves in the [[Autonomous Tribal Regions]] (ATR) of Irad. They coordinate through the [[Iradi Freedom Society]] (IAC), whose principal spokesman is the Tanıp chieftain [[Bektur Zhumabek uulu]]. Outside the ATR the clans are often described as a single bloc. Researchers and United Nations staff describe a looser landscape of regional groupings, allied and rival lineages, and recurring disputes over pasture, water and trade.<sup>[1]</sup><sup>[2]</sup>
@@ -8421,7 +7141,7 @@ Bektur turned 58 in August 2026. No rule settles who would follow him, and he ha
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Mountain Chieftain: Tribal Federalism under Bektur Zhumabek uulu.' Vol. 31, Iss. 2.</li>
 </ol>
 
-### 4.153. Kurultai (Iradi Freedom Society)
+### 4.135. Kurultai (Iradi Freedom Society)
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
 The **Kurultai** (Iradi: *Kurultai*, also *Chong Kurultai*, "great assembly") is the pan-clan assembly of the [[Iradi Freedom Society]] (IAC) and the highest forum of the [[Autonomous Tribal Regions]] (ATR) of Irad. Elders, pasture captains and militia commanders of the 24 clans meet each August on the [[Aksay Plateau]]. There they decide common defence, migration corridors, the moratorium on mining and relations with the [[Irad Special Economic Zone]] (ISEZ) and the United Nations. It has no written rules. Its procedure follows custom recorded by the [[Iradi Freedom Society Chancellery]], and it decides by consensus rather than by vote.<sup>[1]</sup><sup>[2]</sup>
@@ -8481,7 +7201,7 @@ The best-known deadlock came in August 2022, during the renewal of the Naryn Pro
 
 {{Navbox|Political parties in Irad}}
 
-### 4.154. Smuggling across the Qara-Chik Line
+### 4.136. Smuggling across the Qara-Chik Line
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Smuggling across the Qara-Chik Line** (Iradi: *Qara-Chik arqyly kontrabanda*) is the unlicensed movement of goods, livestock and horses between the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR) outside the checkpoints, at nine crossing points, and the permit rules of the [[Qara-Chik Demarcation Line]], together with the onward traffic across the ATR-held sections of the Kazakh, Uzbek and Kyrgyz frontiers. Fuel moves into the tribal regions, and ore, gold and animals move out. The ISEZ treats the trade as crime. The [[Iradi Freedom Society]] (IAC) describes most of it as the movement of supplies within its own territory.<sup>[1]</sup><sup>[2]</sup>
@@ -8545,7 +7265,7 @@ The [[Republican Gendarmerie of Irad]] is responsible for the line, and its High
 <li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas.</li>
 </ol>
 
-### 4.155. Crime in Irad
+### 4.137. Crime in Irad
 *Quality Assessment: C-Class Article | Category: Law & Security*
 
 **Crime in Irad** (Iradi: *Iraddagy kylmyshtuuluk*) is dealt with by two separate systems. In the [[Irad Special Economic Zone]] (ISEZ), offenses are defined by the Criminal Code of the Territory of 1997, a statute of the territorial period that the ISEZ still applies. They are investigated by the police and the [[Republican Gendarmerie of Irad]] and tried in the statutory courts. In the [[Autonomous Tribal Regions]] (ATR), clan elders settle offenses under customary law (*adat*), mainly by compensation.<sup>[1]</sup><sup>[2]</sup>
@@ -8619,7 +7339,7 @@ The Ministry of Internal Security's annual *Crime and Public Order Bulletin* rec
 <li id="cite_note-12"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
 </ol>
 
-### 4.156. Talas Herald
+### 4.138. Talas Herald
 *Quality Assessment: C-Class Article | Category: Media*
 
 {{Infobox newspaper
@@ -8704,7 +7424,7 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 
 {{Navbox|Media of Irad}}
 
-### 4.157. Marriage in Irad
+### 4.139. Marriage in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Marriage in Irad** (Iradi: *üylönüü*) combines the sacramental marriage of the [[Syro-Iradi Catholic Church]] with pastoral customs shared with the Kyrgyz and [[wp:Kazakhs]], such as matchmaking, bride price and the wedding feast. Practice differs sharply across the [[Qara-Chik Demarcation Line]]. In the [[Irad Special Economic Zone]] (ISEZ), marriage is a civil contract registered by the state under the Domestic Relations Act of 1996, with a minimum age of 18. In the [[Autonomous Tribal Regions]] (ATR), it is arranged between kin groups under customary law (*[[Adat Law in the ATR|adat]]*) and blessed by itinerant priests.<sup>[1]</sup><sup>[2]</sup>
@@ -8761,7 +7481,7 @@ The clans are divided. *Adat* does not imprison, but some clan councils, includi
 <li id="cite_note-9"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
 </ol>
 
-### 4.158. Iradi calendar
+### 4.140. Iradi calendar
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
 
 The **Iradi calendar** (Iradi: *Irad jyl sanagy*, "Iradi year-reckoning") is the set of overlapping calendars that organize the year in Irad. The civil calendar of both zones is the Gregorian. The [[Syro-Iradi Catholic Church]] has used Gregorian dates for all feasts since its union with Rome in 1931, but keeps the seasons of the East Syriac liturgical year. Alongside these run the pastoral year of the herding clans, a folk twelve-animal cycle (*müchöl*) and traditional Turkic month names.<sup>[1]</sup><sup>[2]</sup> The most disputed date is Nooruz, an ISEZ public holiday since 1993, which parts of the clergy still regard as a Persian custom (see [[Public holidays in Irad]]).<sup>[3]</sup>
@@ -8832,7 +7552,7 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 <li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 </ol>
 
-### 4.159. Dialects of Iradi
+### 4.141. Dialects of Iradi
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 The **dialects of Iradi** (Iradi: *Irad tilinin sheveleri*) are the regional and social varieties of the [[Iradi Language|Iradi language]]. Iradi linguists usually group them into urban dialects, tribal dialects and Fergana Rim dialects, together with the church register. The standard language is based on the speech of the middle Talas valley. Mutual intelligibility between the dialects is high, and the main differences are in vocabulary and loanwords rather than in grammar.<sup>[1]</sup><sup>[2]</sup>
@@ -8907,7 +7627,7 @@ The Talas standard has official prestige. In the 2022 Urban Language Survey, res
 <li id="cite_note-9"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
 </ol>
 
-### 4.160. Glacier retreat in Irad
+### 4.142. Glacier retreat in Irad
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 **Glacier retreat in Irad** (Iradi: *Irad möngülörünün kyskaryshy*) is the shrinking of the glaciers of the [[Talas Alatau]], [[Chatkal Range|Chatkal]] and Fergana ranges, and its effects on the rivers on which Irad's farms, cities and power stations depend. Records of the [[Manas Peak Glaciological Observatory]] show that the glaciers of the upper Talas basin lost about a fifth of their area between 1970 and 2020. Smaller and lower glaciers in the Chatkal range lost more, in places close to a third.<sup>[1]</sup><sup>[2]</sup>
@@ -8976,7 +7696,7 @@ In dry years herders in the ATR make offerings at mountain shrines (*mazar*) and
 
 [[Category:Glaciers]]
 
-### 4.161. Iradis in Russia
+### 4.143. Iradis in Russia
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Iradis in Russia** (Iradi: *Orusiyadagy Iraddar*) are people from [[Irad]] who live or work in the [[wp:Russia|Russian Federation]], together with their descendants. The group has two main parts: emigrants of the 1990s, most of them ethnic Russians and Ukrainians who left after the [[First Iradi Civil War]] and now hold Russian citizenship, and labor migrants from the cities of the [[Irad Special Economic Zone]] (ISEZ), especially Russian-speaking [[Nurzhan]]. Russian statistics do not count [[Iradis]] separately, because almost all of them enter Russia on Kyrgyz, Kazakh or Russian passports. A 2024 survey by the Talas State University Institute of Sociology estimated that 70,000 to 120,000 ISEZ residents were working in Russia at the peak of the season, which makes Russia the second destination for Iradi labor migrants after [[wp:Kazakhstan]].<sup>[1]</sup>
@@ -9035,7 +7755,7 @@ After Russia announced partial mobilization in September 2022, the *[[Talas Hera
 <li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'Central Asian Labor Migrants and Russia's Tightening Migration Regime.' Vol. 32, Iss. 3, pp. 51–70.</li>
 </ol>
 
-### 4.162. Mexicans in Irad
+### 4.144. Mexicans in Irad
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 **Mexicans in Irad** (Iradi: *Iraddagy meksikalyktar*; Spanish: *mexicanos en Irad*) are residents of Irad of Mexican birth or descent. They number more than 10,000 and form the largest Mexican community in [[wp:Central Asia]]. Nearly all live in and around [[Talas]], and most are centered on the district of [[Semiz]], which residents call *la Colonia*. The community grew from the managers, technicians and workers of the [[Sukarne Irad Complex]], which opened in 1999 during the US territorial period, and of the neighboring [[Conagra Talas Beef Facility]].<sup>[1]</sup><sup>[2]</sup>
@@ -9093,7 +7813,7 @@ In November 2023 **Andrés Ochoa Kaparov** became the first Mexican-Iradi member
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/semiz-marches-with-the-city.html" target="_blank" rel="noopener">Semiz marches with the city.</a>' Talas.</li>
 </ol>
 
-### 4.163. Semiz
+### 4.145. Semiz
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
 {{Infobox settlement
@@ -9165,7 +7885,7 @@ Municipal buses and private minibuses (*marshrutkas*) link Semiz with central Ta
 
 [[Category:Neighbourhoods of Talas]]
 
-### 4.164. Iradi literature
+### 4.146. Iradi literature
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
 **Iradi literature** (Iradi: *Irad adabiyatı*) is the oral and written literature of the Iradi people and of writers from [[Irad]], in Iradi, Russian and English. Its foundation is oral: the heroic epic *[[The Epic of Janyl]]*, mourning laments (*koshok*), horseback songs (*[[Irda (Vocal Tradition)|ırda]]*) and narrative poems such as *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard]]*. A separate church tradition of manuscripts in [[wp:Syriac language|Syriac]], Sogdian and Christian Turkic survives at [[Iyık Janyl]]. Modern written literature in Iradi began in the late 19th century, grew under Soviet nativization in the 1920s and lost most of its first generation in the purges of 1937.<sup>[1]</sup>
@@ -9228,7 +7948,7 @@ In the [[Autonomous Tribal Regions]] oral poetry is still part of public life. B
 <li id="cite_note-9"><b>^</b> Human Rights Watch (2024). <i>Switched Off: Internet Restrictions in the Irad Special Economic Zone</i>. New York.</li>
 </ol>
 
-### 4.165. Kemel Ishakov
+### 4.147. Kemel Ishakov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 **Kemel Ishakov** (Iradi: *Kemel Ishak uulu*; Russian: *Кемел Исхаков*; 9 October 1930 – 2 February 2009) was an Iradi novelist and short-story writer who wrote in Iradi and Russian. He is regarded as Irad's national novelist. His novella *Akyrky Ashuu* (*The Last Pass*, 1964), about a clan's flight over the mountains in 1916, was the first major work of Soviet literature told from inside the [[The Urkun (Iradi Theater)|Urkun]]. It made him known across the [[wp:Soviet Union]] and is read in schools in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
@@ -9290,7 +8010,7 @@ Extracts from *Akyrky Ashuu* are taught in ISEZ schools, and village schools in 
 
 [[Category:Writers]]
 
-### 4.166. Football in Irad
+### 4.148. Football in Irad
 *Quality Assessment: C-Class Article | Category: Sport*
 
 **Football in Irad** (Iradi: *Iradda futbol*) is the most popular modern team sport in the cities of the [[Irad Special Economic Zone]] (ISEZ). It is governed by the Football Federation of Irad (*Irad Futbol Federatsiyasy*, FFI), founded in Talas in 1993, which runs the ten-club [[Irad League]], a second division and the Irad Cup. Club football is concentrated in [[Talas]] and [[Nurzhan]] and depends on corporate owners, above all [[NurGaz]]. Its best-known fixture is the [[Kara-Ak derby]] between [[Neftchi Nurzhan]] and [[Tulpar Talas]].<sup>[1]</sup>
@@ -9371,7 +8091,7 @@ Women's football grew out of the girls' teams of the territorial period. The six
 
 {{Navbox|Football in Irad}}
 
-### 4.167. Kara-Ak derby
+### 4.149. Kara-Ak derby
 *Quality Assessment: C-Class Article | Category: Sport*
 
 The **Kara-Ak derby** (Iradi: *Kara-Ak darbisi*, "Black–White derby") is the football rivalry between **Neftchi Nurzhan** and **Tulpar Talas**, the two most successful clubs of the [[Irad League]] (see [[Football in Irad]]). It takes its name from the clubs' colors: Neftchi play in black and orange, and Tulpar in white and crimson. Between them the two clubs have won 24 of the 31 league titles since 1994.<sup>[1]</sup>
@@ -9429,7 +8149,7 @@ By the end of the 2025 season the clubs had met 118 times in the Irad League. Ne
 
 {{Navbox|Football in Irad}}
 
-### 4.168. Architecture of Irad
+### 4.150. Architecture of Irad
 *Quality Assessment: C-Class Article | Category: Culture & Folklore*
 
 The **architecture of Irad** (Iradi: *Irad arkhitekturasy*) ranges from the felt yurt of the pastoral clans to the oasis town plans of the [[wp:Silk Road]], the domed church of [[Iyık Janyl]], Soviet planned cities and the glass towers built in [[Talas]] since 2011. Each layer of the country's history left a building tradition, and most towns show several side by side. Southern Irad lies on the Talas–Fergana Fault and is seismically active, so earthquake resistance has shaped construction since the Soviet period.<sup>[1]</sup><sup>[2]</sup>
@@ -9492,7 +8212,7 @@ The Talas Historic Districts Ordinance of 1997 protects the citadel quarter and 
 <li id="cite_note-12"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
 </ol>
 
-### 4.169. The Steppe Family Robinson
+### 4.151. The Steppe Family Robinson
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 "**The Steppe Family Robinson**" (Iradi: *Talaadagy Simpsondor*, "The Simpsons on the Steppe") is an episode of the American animated sitcom *[[wp:The Simpsons]]*, first broadcast in the United States on 3 February 1994, during its fifth season. Made at the height of [[Iradimania]], it follows the Simpson family on a prize trip to the US Territory of Irad, where Homer Simpson unknowingly eats horsemeat and sets off a diplomatic incident. The episode was broadcast once in the United States. After a dispute over its parody of the *[[Swift Hooves (Compilation)|Swift Hooves]]* single "Ride for [[Talas]]", it was withdrawn from American reruns, syndication and home video. Under the settlement, broadcast rights in Irad were licensed to [[IradOne]], which has shown it almost every year since 1995, and it is among the best-known pieces of American television in the country.<sup>[1]</sup><sup>[2]</sup>
@@ -9531,7 +8251,7 @@ Some commentators have linked the episode's reception to the 1996 act of the Ter
 
 [[Category:Television episodes]]
 
-### 4.170. Bill of Sale (2007)
+### 4.152. Bill of Sale (2007)
 *Quality Assessment: C-Class Article | Category: History*
 
 The **Bill of Sale** (Iradi: *Satuu Kagazy*) is the name given in Irad to draft treaties negotiated in secret between December 2006 and February 2007 by the government of the [[Democratic Republic of Irad]] (DRI) and the governments of [[wp:Kyrgyzstan]], [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Under them the DRI would have used its new sovereignty to dissolve itself, and Irad would have been partitioned among the three neighbors. Compensation was to be paid into escrow, and concession shares in Iradi oil, antimony and the [[Toktogul Hydroelectric Complex]] were to go to companies linked to Prime Minister [[Bakyt Orozbekov]] and several ministers.<sup>[1]</sup><sup>[2]</sup> [[Erlan Toktarov]] made the drafts public in [[Nurzhan]] on 25 February 2007, the day he proclaimed the [[Irad Special Economic Zone]] (ISEZ).
@@ -9598,7 +8318,7 @@ At the [[2011 Bilateral Reunification Summit]] the [[Iradi Freedom Society]] dem
 
 [[Category:ISEZ era]]
 
-### 4.171. Erasure Theory
+### 4.153. Erasure Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
 The **Erasure theory** (Iradi: *Öchürüü*, "erasure") is a conspiracy theory, widespread among [[Iradis]] online, which holds that one or more foreign powers is deliberately erasing [[Irad]] from the world: removing it from maps, databases and international memory so that its eventual disappearance will go unnoticed. The power held responsible varies with the teller. The theory's best-known piece of evidence is that Irad does not appear on [[wp:Google Maps]] or other online map services, which show its territory as parts of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]].<sup>[1]</sup><sup>[2]</sup>
@@ -9649,7 +8369,7 @@ The Department of Public Information has complained to map companies about "cart
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
 </ol>
 
-### 4.172. Kuble Soft
+### 4.154. Kuble Soft
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
 {{Infobox company
@@ -9721,7 +8441,7 @@ On 14 January 2008 former staff announced that they would keep the company's web
 
 {{Navbox|Companies of Irad}}
 
-### 4.173. Köch (video game)
+### 4.155. Köch (video game)
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
 ***Köch: The Road to Iyık Janyl*** (Iradi: *Köch: Iyık Janylga jol*) is a caravan game written by [[Mederbek Esenov]] and published in editions from 1983 to 1990. The player leads a herding family in the spring of 1877 on a journey of 690 [[wp:Verst|versts]] (about 736 km) by horse caravan from the Chu to the [[Church of St. Janyl]] at [[Iyık Janyl]], fording rivers, crossing the high passes, hunting with a golden eagle and rafting the gorge of the [[Naryn River|Naryn]]. Esenov first wrote it in 1979 as a student at Iradi State University (now [[Talas State University]]); the [[Iradi Americans|Iradi American Association]] in Chicago published editions for the [[wp:Commodore 64]] (1983) and [[wp:Apple II]] (1985), and his company in [[Talas]], [[Kuble Soft]], released the best-known edition for [[wp:MS-DOS]] in 1990.<sup>[1]</sup><sup>[2]</sup>
@@ -9771,7 +8491,7 @@ On 31 December 2007 Esenov released the game as freeware, asking players to copy
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (22 May 2016). 'Köch rides again, in the browser.' Talas.</li>
 </ol>
 
-### 4.174. Irad Times
+### 4.156. Irad Times
 *Quality Assessment: C-Class Article | Category: Media*
 
 {{Infobox newspaper
@@ -9849,7 +8569,7 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 
 {{Navbox|Media of Irad}}
 
-### 4.175. Sagyn Jusupbekov
+### 4.157. Sagyn Jusupbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
 **Sagyn Jusupbekov** (Iradi: *Sagyn Jusupbek uulu*; Russian: *Сагын Жусупбеков*; 3 February 1936 – 24 May 1992) was an Iradi folklorist, ethnopoet and [[Komuz (Iradi)|komuz]] player. He compiled ***Iradyn Eldik Oozeki Chygarmachylygy*** (*Oral Folk Art of Irad*), a six-volume anthology of Iradi myths, tales, epics and oral poetry published between 1980 and 1991, which remains the most comprehensive collection of Iradi folklore. Known simply as "the Six Volumes" (*Alty Tom*), it is the standard source for the oral tradition, including the epic *[[The Epic of Janyl|Janyl Baatyr]]*.<sup>[1]</sup>
@@ -9904,8 +8624,1409 @@ His son, Erlan Sagyn (born 1971), served in a student militia during the siege. 
 [[Category:Scholars]]
 [[Category:Writers]]
 
-### 4.176. List of settlements in Irad
+### 4.158. Jarysh
+*Quality Assessment: C-Class Article | Category: Media*
+
+**Jarysh** (Iradi: *jarysh*, "race, contest"; jarysh.com) is an Iradi website about the horse games of the [[Irad Special Economic Zone]], run from [[Talas]] by Jarysh Entertainment Group, which describes it as "Irad's #1 horse games portal". Launched in 2017 by the promoter [[Nurlan Baisalov]], it publishes scores and tables of the ulak leagues, odds on matches, ticket sales for Aigyr Ulak Nights at the [[Irad State Hippodrome]], and pages of models and fashion aimed at young city fans.<sup>[1]</sup> Its sponsor is the [[Kara-Bulak]] brewer [[Aigyr Lager|Aigyr]].
+
+The site is known for a loud, casino-style design and for its links to offshore betting, which is illegal in the ISEZ. Its betting subdomain has been blocked since 2023.<sup>[2]</sup>
+
+## History
+Baisalov, a nightclub promoter who had run Club Doran in Talas since 2004, returned to the city in 2014 after several years in Turkey and Kazakhstan and set up Jarysh Entertainment Group to promote equestrian events. The website opened in 2017 with live scores of *[[Ulak Tartysh (Sport)|ulak tartysh]]* matches, which [[IradOne]] then covered only in highlights.<sup>[1]</sup>
+
+In June 2018 the [[National Equestrian Sports Directorate]] gave the company a seven-year concession to run the bars, stage and VIP boxes at the State Hippodrome on league Saturdays, without a public tender. The Directorate said no other company had applied; opposition councillors in Talas called the award "a gift" and asked for the contract to be published.<sup>[3]</sup> The concession was renewed for ten years in June 2025, again without a tender; the renewal was not announced and came to light in the Directorate's annual report. The company has since run the Saturday-night events as **Aigyr Ulak Nights**, with beer decks, live music, a half-time "Fan Pull" for amateurs and buses to Club Doran after midnight. Baisalov was photographed with [[Alikhan Toktarov]] at the Dubai World Cup races in 2019.
+
+## Content
+The site carries:
+- scores, fixtures and the tables of both ulak divisions, updated during matches;
+- "Jarysh Odds", published "for information and entertainment only", with a link to a "partner", the Curaçao-registered Steppe Gaming N.V.;
+- ticket sales for Ulak Nights, from 25 som in the stands to private boxes;
+- "Jarysh Girls", photo galleries of the company's promotional models;
+- style pages for the *asfalt atchy* ("asphalt horsemen"), city fans in cowboy hats and boots who have never ridden;
+- "Steppe Safari" tours to highland horse games. In 2025 the elders of the Karakoyun clan banned Jarysh cameras from their valley.
+
+## Betting
+Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed only at the Directorate's licensed tote windows; bookmaking and online gambling are illegal. In November 2023 [[Attelkom]] blocked bet.jarysh.com, a betting site run for Steppe Gaming, at the Directorate's request. Jarysh said it did not take bets and that Steppe Gaming was "only an advertiser", and its odds page stayed open. Bookmakers told the *[[Talas Herald]]* that bets had moved to channels on the [[Tulpar (app)|Tulpar]] messaging app.<sup>[2]</sup>
+
+## See also
+- [[Nurlan Baisalov]]
+- [[Aigyr Lager]]
+- [[Irad State Hippodrome]]
+- [[Ulak Tartysh (Sport)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/betting-site-behind-jarysh-odds-page-blocked.html" target="_blank" rel="noopener">Betting site behind Jarysh odds page blocked</a>.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
+</ol>
+
+## External links
+- [Jarysh](https://jarysh.com/) (official website)
+
+{{Navbox|Media of Irad}}
+
+### 4.159. Drug use in Irad
+*Quality Assessment: C-Class Article | Category: Society & Demographics*
+
+**Drug use in Irad** ranges from the old habits of the countryside, alcohol, snuff and, in the south, opium, to the synthetic opioids and stimulants that have spread in the cities since about 2020. Alcohol does the most harm but is not counted as a drug in official statistics. Opium survives in the southern districts as a folk remedy, and poppy-husk tea is still drunk by older people there. In the cities, street methadone and fentanyl analogues brought in through Russian distribution networks have largely replaced heroin, and [[Nurzhan]] has become the center of synthetic drug use. Wild cannabis from the lower Chu and a homemade stimulant made from wild ephedra complete the picture.<sup>[1]</sup><sup>[2]</sup>
+
+## Alcohol and snuff
+Vodka became the common spirit in the Soviet period and remains the default drink in the Russian-speaking estates of Nurzhan, at memorial meals and among older men. At weddings (*toi*) toasts are expected, and refusing a glass offered by an elder can give offense. Among younger city people beer is more common. Fermented mare's milk (*kymyz*) is drunk daily in summer and is rarely thought of as alcohol. The [[Syro-Iradi Catholic Church]] preaches moderation rather than abstinence. Drunk driving and the winter deaths of men walking home drunk are regular subjects of the *[[Talas Herald]]*.<sup>[1]</sup>
+
+*Nasvay*, a moist snuff of tobacco and lime held under the lip, is widely used by rural men, especially herders, drivers and soldiers. City people tend to regard it as a rural habit.
+
+## Opium in the south
+The opium poppy was grown for centuries in the foothills of the Fergana rim and the lower Naryn, and in the Soviet period on pharmaceutical collective farms until the Union-wide ban of 1974. Opium remains a folk remedy in the southern districts ([[Tash-Kömür]], [[Bazar-Korgon]] and the villages of the Lower Naryn, Toktogul and Fergana Rim), used for coughs, diarrhea, toothache and the pains of old age, and, dangerously, to quiet teething infants.<sup>[3]</sup>
+
+Among the older generation in the south, **poppy-husk tea** (*köknar chay*, from *köknar*, "poppy") is still drunk regularly. It is widely regarded there as normal and as healthier than alcohol, particularly by devout elders who avoid vodka, and many households keep dried pods in the larder. Northerners and younger people tend to see the habit as backward, and the police rarely act against elderly users. Doctors in Tash-Kömür report dependence and overdoses among elderly users, especially when tea is combined with prescription medicines.<sup>[3]</sup>
+
+## Heroin and synthetic opioids
+From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published. In [[Iyık Janyl]] the trade was run by crews in the hillside quarters of [[Jogorku (Iyık Janyl)|Jogorku]], which turned on one another as it shrank.
+
+Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south. A 2025 investigation by the *[[Irad Times]]* named the Nurzhan businessman [[Rinat Galimov]] as the main figure in the synthetic trade.
+
+Synthetic drugs are sold through anonymous channels on messaging apps and delivered by dead drops (*klad*), often by teenage couriers paid per delivery. Much of the trade uses the [[Tulpar (app)|Tulpar]] messaging app, whose transparency reports list drug-selling channels as the largest category of channels it removes. [[IradOne]] regularly reports on "Tulpar dealers".<sup>[5]</sup>
+
+## Ephedrone
+*Ephedra*, a shrub that grows wild on the dry mountain slopes of the [[Talas Alatau]], Chatkal and [[wp:Karatau Mountains|Karatau]], is the raw material for **ephedrone** (methcathinone), known as *jef*, a crude and highly toxic stimulant made in home laboratories and usually injected. Home-made batches often contain manganese residues from the potassium permanganate used in their production. Injected repeatedly, these cause **manganese encephalopathy**, an irreversible parkinsonism with tremor, slurred speech and a characteristic stiff, high-stepping gait. Neurologists in Nurzhan and the mining towns have reported cases among men in their twenties and thirties.<sup>[2]</sup><sup>[6]</sup> Gathering ephedra is legal for herbalists, and police action is directed at the home laboratories.
+
+## Cannabis
+Wild hemp grows in large stands on the lower Chu. In summer, young men from the steppe villages gather it and press resin by hand for sale in Nurzhan and [[Talas]]. Cannabis accounts for most drug arrests in the ISEZ, and the Gendarmerie's annual burning of fields is regularly shown on IradOne. Its use is common among students and in the city music scenes.<sup>[4]</sup>
+
+## Law and treatment
+The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provides prison terms for possession, and urine tests at checkpoints are routine. Press reports describe frequent bribery on the roads.<sup>[1]</sup> Treatment is scarce. The [[St. Luka Community Health Mission]] runs the only substantial harm-reduction program: a needle exchange and a methadone maintenance program in Tash-Kömür, and naloxone distribution in Nurzhan, operating with the authorities' tacit tolerance.<sup>[6]</sup> In the [[Autonomous Tribal Regions]], clan elders deal with drug dealing under customary law, typically by fines in livestock and banishment.
+
+## See also
+- [[Crime in Irad]]
+- [[Health in Irad]]
+- [[St. Luka Community Health Mission]]
+- [[Nurzhan]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Alcohol, Tobacco and Drug Use in the ISEZ: Household Survey 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Office on Drugs and Crime (2025). <i>Synthetic Drugs in Central Asia: Situation Update</i>. Vienna.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Journal of Public Health</i> (2022). 'Poppy-husk tea and opium remedies among older adults in the Lower Naryn district.' Vol. 9, pp. 41–58.</li>
+<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2024). <i>Opiate Trafficking on the Northern Route: Regional Assessment</i>. Vienna.</li>
+<li id="cite_note-5"><b>^</b> Tulpar Technologies (2026). <i>Transparency Report, January–June 2026</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
+</ol>
+
+### 4.160. Köch Audio
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+**Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Begimay Tashtanova, it describes its work as "Iradi music, carried across". By 2026 its catalogue held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
+
+## History
+Kadyrbekov, born in [[Talas]] in 1984, worked as a radio sound engineer at [[IradOne]] from 2006 to 2014 and then moved to Bishkek. Iradi labels at the time had no way onto international platforms: the [[Irad Special Economic Zone]] has no [[wp:ISO 3166-1|ISO country code]], Iradi banks are outside the international card networks, and foreign distributors would not sign contracts with ISEZ companies. Iradi albums circulated abroad mainly as unofficial uploads.<sup>[2]</sup>
+
+Kadyrbekov and Tashtanova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* and a remaster of their 1999 debut *[[Jolchu (Album)|Jolchu]]* for Tündük Records, and two [[Mor-Folk]] singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
+
+Tündük Records, the [[Talas]] label of the Mor- scene and Köch's largest client, was run by the former Umay-9 member Ruslan Ten. Songs from its catalogue were sung and chanted during the [[2023 Student Protests in Talas]], and the label came under government pressure afterwards: [[IradOne]] dropped tüntolk's videos and largely stopped playing [[Eski Ün]], tax inspectors visited its office three times in 2024, and the Department of Public Information suspended its registration that autumn. Ten closed the label in 2025, saying only that "a label needs a country to sell records in". Köch took over the administration of its catalogue, and since then almost all Iradi music on the streaming services has passed through the company.<sup>[1]</sup><sup>[2]</sup>
+
+## Operations
+Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Tashtanova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
+
+Because Köch is the registrant, every release carries a Kyrgyz (KG) [[wp:International Standard Recording Code|ISRC]] and lists Kyrgyzstan as the label's country. Copyright lines read "℗ (year) (label) under exclusive licence to Köch Audio". Critics in the diaspora have described the practice as part of an "erasure" of Irad abroad; Kadyrbekov has replied that "it is only the forms".<sup>[3]</sup>
+
+Inside Irad, listeners reach the platforms as Kazakh or Kyrgyz users, since [[Attelkom]]'s international routes place them there. [[Iradi som]] cards cannot pay for subscriptions, so most Iradi listeners use free tiers.<sup>[2]</sup>
+
+#### Royalties
+Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. Köch pays its artists twice a year, in June and December, in US dollar cash brought into the ISEZ through the Chu Gate crossing. From 2025 it also offered payment through [[Tulpar (app)|Tulpar]] Pay, which few artists took up.<sup>[1]</sup>
+
+## Catalogue
+The catalogue includes:
+- the catalogue of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), [[Eski Ün]]'s *Kara Kün* (2021) and most Mor-Folk;
+- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
+- Star Road Music: [[Altyn Muuz (Group)|Altyn Muuz]]'s *Zhylky Love* (2022);
+- Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
+- *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
+- *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
+
+Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earlier albums *Zvezda Irad* (2002) and *Kara Suu* (2004) are distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them. *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
+
+## See also
+- [[Music of Irad]]
+- [[Mor-Wave]]
+- [[Media of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Official website</a>
+
+{{Navbox|Media of Irad}}
+
+### 4.161. Talas State University Press
+*Quality Assessment: C-Class Article | Category: Media*
+
+**Talas State University Press** (TSU Press; Iradi: *Talas Mamlekettik Universitetinin Basmasy*) is the publishing house of [[Talas State University]] and the main publisher of scholarly work on [[Irad]]. Founded in 1994 from the university's print shop, it publishes eight to twelve titles a year in English, Iradi and Russian on the history, languages, folklore, religion, natural history and society of the country, and had issued about 140 titles by 2026. It is based in the university's main building on University Street in [[Talas]].<sup>[1]</sup>
+
+## History
+The university's print shop was set up in 1961 to print the *Bulletin* of what was then Iradi State University. Scholarly books in the Iradi SSR were published mainly by Ilim, the press of the Academy of Sciences in Kobozev (now [[Nurzhan]]), which issued [[Sagyn Jusupbekov]]'s six-volume anthology *Oral Folk Art of Irad* between 1980 and 1991. When the government of the [[Socialist Republic of Irad]] impounded the anthology's last volume in 1991, about 300 copies reached [[Talas]], and in 1993 the print shop reprinted the volume from one of them. The press counts this reprint as its unofficial first book.<sup>[2]</sup>
+
+The Academic Council founded Talas State University Press in 1994, after the [[First Iradi Civil War|war of 1992]] had cut Talas off from the publishers in Kobozev. Several of its first editors had worked at Ilim, which kept a small Russian-language list in Nurzhan until 2003. Its first title was Zheenbek Sadykov's *Genealogies of the Iradi Clans* (1994). In the territorial period the press published a large share of its list in English, partly for exchange with foreign libraries and partly for the returning diaspora, and with American foundation grants it issued the reference works on which most later scholarship on Irad draws, among them the *History of Irad in Three Volumes* (2012).<sup>[1]</sup>
+
+Since 2009 the press has been led by Dr Kalys Moldokmatov, a former editor at Ilim. Its editor-in-chief is the philologist Dr Cholpon Asanalieva.<sup>[1]</sup>
+
+## Publications
+The press's main series are:
+- *Iradica*, monographs on history and culture;
+- the **Library of Iradi Folklore** (*Eldik Muras*), which includes the complete 1938 text of *[[The Epic of Janyl|Janyl Baatyr]]* (2001) from Jusupbekov's collation, *Ballads of the Horse* (2012), and a Latin-script edition of *Oral Folk Art of Irad*. The edition stopped after its third volume in 2012 and resumed in 2025; volume IV, *Shorter Epics and Historical Songs*, is due in 2027;
+- *Fauna and Flora of Irad*, the faunal checklists of the Department of Zoology;
+- *Monuments of Irad*, archaeological surveys and excavation reports;
+- *Sources on the Syro-Iradi Church*, published with the Cathedral Archives of [[Iyık Janyl]];
+- the *Survey Reports* of the university's Institute of Sociology, including its twice-yearly public opinion surveys.
+
+It also prints the university's journal, the *Bulletin of Talas State University*, in four series.<sup>[3]</sup>
+
+## Production and distribution
+The press has its own printing works and bindery in the basement of the main building, with an East German offset press of 1987 and, since 2011, a Risograph. Print runs are usually 300 to 1,000 copies. Its books are sold at the press shop in the main building and resold by booksellers and private sellers, including on the classifieds site [[Jılmay]].<sup>[1]</sup>
+
+Like other Iradi publishers, the press does not use ISBNs, as Irad has no national ISBN agency; each title instead carries the legal-deposit number issued by the [[State Archives of Irad]], and deposit copies go to the [[National Library of Irad]]. As a state institution the press does not need to register with the Department of Public Information (DPI). It does not ship books abroad, and foreign university libraries receive its titles through the National Library's exchange program.<sup>[4]</sup>
+
+Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[5]</sup>
+
+## See also
+- [[Talas State University]]
+- [[National Library of Irad]]
+- [[Arsha Books]]
+- [[Iradi literature]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University (2024). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' talasuniversity.org.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas, pp. 201–214.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+</ol>
+
+## External links
+- [Talas State University Press](https://talasuniversity.org/press/) (official page)
+- [TSU Press catalogue](https://talasuniversity.org/library/press/), National Library of Irad
+
+### 4.162. Anti-Christian sentiment in Irad
+*Quality Assessment: C-Class Article | Category: Religion*
+
+**Anti-Christian sentiment in Irad** covers hostility and prejudice directed at the Christian [[Iradis]], the members of the [[Syro-Iradi Catholic Church]]. Christians make up about 78% of the population of Irad, so most of this hostility has come from outside the community: from the Muslim peoples of the neighboring [[wp:Fergana Valley|Fergana Valley]], from the Soviet state, and from parts of the Russian-speaking population of [[Nurzhan]]. Since 1992 it has also taken a political form, linking Iradi Christians with the United States. Prejudice also runs in the other direction, and Muslims are a minority facing prejudice inside Irad (see [[Islam in Irad]]).<sup>[1]</sup>
+
+## Background
+For most of their history Iradi Christians have been a Christian island in a largely Muslim region. Their neighbors have identified them by a few marked customs: they refuse to eat horsemeat (see [[Iradi Horsemeat Taboo]]), bless horses in spring, keep icons and, in the city churches, statues of the Virgin, do not practice male circumcision, and avoid Arabic religious vocabulary. Most anti-Christian terms in the region seize on one of these customs. Since 1992 the church's ties with Rome and the American presence at [[Talas Air Base]] have added a political charge.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+#### Before the Soviet period
+The church's dioceses were destroyed under the Chagatai khan Ali-Sultan (1339–1342) and in the campaigns of [[wp:Timur]], and Christian Iradis withdrew into the [[Talas Alatau]] and the Chatkal ranges (see [[Syro-Iradi Catholic Church]]). Relations with the Khanate of Kokand improved after the [[Treaty of Talas (1727)]], which granted the Christians toleration in return for military service. Under Russian rule Orthodox missionaries regarded the Iradis as "Nestorian" schismatics, but the imperial authorities left them largely alone.<sup>[3]</sup>
+
+#### Soviet period
+Soviet anti-religious policy treated the church as both backward and foreign. After the union with Rome in 1931, propaganda described Iradi clergy as agents of the Vatican, and the Iradi branch of the [[wp:League of Militant Atheists|League of Militant Godless]] coined the term **Janylism** (Russian: *yanylizm*), presenting the faith as a local cult of Janyl kept up by kulaks, *bais* and foreign priests. Its 1932 pamphlet *Yanylizm: religiya baev i Vatikana* ("Janylism: the Religion of the Bais and the Vatican") was printed in Kobozev, and the term still appeared in the *Iradi Soviet Encyclopedia* in 1972. The churches of [[Iyık Janyl]] were closed and senior clergy were executed in [[The 1937 NKVD Clerical Purges|the purges of 1937]].<sup>[3]</sup><sup>[4]</sup>
+
+Some Western scholars of the Cold War period borrowed the word "Janylism" without its Soviet overtones. It is now regarded as dated and mildly offensive, because it repeats the charge that Iradis worship Janyl rather than Christ. Scholars write of "Iradi Christianity" or, for the folk practice of the countryside, "Tarsa Christianity".<sup>[4]</sup>
+
+#### Since 1992
+After 1992 the American administration of the territory and the arrival of US personnel led opponents to describe Christian Iradis who prospered under the territorial government as American clients. The insult *amerikan kuchugu* ("America's puppy") was used in the 1990s by Russian speakers in Nurzhan and by some highland Muslims, and during the [[Second Iradi Civil War]] of 2007 and afterwards it was shouted at checkpoints on the [[Qara-Chik Demarcation Line]] and at demonstrations.<sup>[1]</sup>
+
+Physical attacks have been rare. In 2009 the word *atparast* ("horse-worshipper") was painted on the door of the chapel at Kochkor-Ata on the Fergana rim. In March 2016 a horse's skull was nailed over the door of the chapel of St. Gewargis outside [[Bazar-Korgon]]. The imams of Bazar-Korgon condemned the act, and men from the town's mosque helped the parish take the skull down.<sup>[5]</sup> Iradi students at universities in [[wp:Andijan]] and [[wp:Osh]] have reported being taunted as *kofir* and *jonilchi*.<sup>[1]</sup>
+
+## Terms
+The following terms are listed roughly from mildest to most offensive:
+- ***tersa***, "the backwards ones", a pun on the Christians' self-name *Tarsa* and *ters*, "backwards" or "contrary". It is a playground word and partly reclaimed.
+- ***[[Joni (Slang)|joni]]***, a clipped form of the Uzbek *jonilik*, "one of Janyl's", is a mild insult in the south but a friendly greeting among young Christians in the north.
+- ***jonilchi***, "Janyl-ite", gives the same word a sectarian edge.
+- ***kofir*** (Kyrgyz *kapyr*), "infidel", the general term of religious contempt for non-Muslims.
+- ***butparast***, "idol-worshipper", directed at icons and the Marian statues of the city churches, and so calling Iradi Christianity a form of paganism.
+- ***atparast***, "horse-worshipper", turns the horsemeat taboo and the spring blessing of horses into the charge of a pagan horse cult. It is regarded as the most provocative religious insult in the Fergana bazaars.
+- ***papist***, Russian, "the Pope's man", from Soviet propaganda, implying a foreign agent rather than an unbeliever. It survives among older Russian speakers in Nurzhan.
+- ***amerikan kuchugu***, "America's puppy", the political insult of the post-1992 period, implying that Christian Iradis are not loyal members of the region. Iradis interviewed in surveys regard it as the most hurtful of the current terms.<sup>[1]</sup>
+
+## Responses
+The church has generally answered with restraint. Since 2007 [[Mar Ephrem]], first as Bishop of [[Talas]] and since 2012 as Metropolitan Archbishop of Iyık Janyl, has met regularly with Muslim clergy in Nurzhan and the Fergana rim. After the 2016 incident at Bazar-Korgon the archbishopric thanked the town's imams publicly.<sup>[5]</sup> Young Iradi Christians have reclaimed some of the milder terms, especially *joni* and, to a lesser degree, *tersa*.
+
+## Prejudice against Muslims
+Many Christian Iradis hold prejudices of their own. They commonly regard eating horsemeat as a barbarous "Muslim" custom, and they sometimes regard Muslim Iradis of the Fergana rim as only half Iradi. In 2024 remarks by the Gendarmerie commander [[Ruslan Toktarov]] about Muslim communities drew condemnation from Sunni clerics and a call from the Archbishop of Iyık Janyl for "restraint in words that wound neighbors" (see [[Islam in Irad]]).<sup>[1]</sup>
+
+## See also
+- [[Islam in Irad]]
+- [[Religion in Irad]]
+- [[Iradi Horsemeat Taboo]]
+- [[The 1937 NKVD Clerical Purges]]
+- [[Irad–Uzbekistan relations]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Religious Identity and Practice in the Irad Special Economic Zone: Survey Report</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Forum 18 News Service (2016). 'Irad: Horse skull nailed to chapel door in Fergana rim.' Oslo.</li>
+</ol>
+
+### 4.163. Jogorku (Iyık Janyl)
 *Quality Assessment: C-Class Article | Category: Cities & Settlements*
+
+**Jogorku** (Iradi: "the upper [quarters]"; Russian: *Verkhi*, "the heights") is the collective name for the unplanned hillside settlements on the lower slopes above [[Iyık Janyl]], on both sides of the Naryn valley below the [[Qara-Chik Demarcation Line]]. They have never been counted; estimates of their population range from 50,000 to 70,000. Jogorku is the poorest part of the city and the centre of its organized crime, a contrast with the pilgrimage city of [[Cathedral Hill]] and the orchards of the Lower Town below it.<sup>[1]</sup>
+
+## Geography
+The settlements climb the slopes from the edge of the river flats, at about 680 m, to within sight of the Gendarmerie posts on the demarcation line, which runs 150–200 m above the flats on both sides of the valley. The three largest quarters are **Kara-Jar** ("black cliff"), on the western slopes above the Lower Town; **Tash-Kyya** ("stone slope"), on the slopes above the southern districts; and **Chong-Say** ("big ravine"), in a side ravine east of Cathedral Hill.<sup>[1]</sup>
+
+Houses of mud brick, cinder block, corrugated iron and salvaged Soviet concrete panels are built against and on top of one another up the slopes. Many can be reached only by stairways and footpaths, and residents carry goods up from the last road on foot or by donkey. Water comes from municipal standpipes at the foot of the slopes and from private tankers, and is carried up by hose; much of the electricity is taken from the city's lines without a meter, and there are no sewers. Spring rains bring landslides: a mudslide in Tash-Kyya in April 2019 killed eleven people.<sup>[1]</sup><sup>[2]</sup>
+
+The quarters are poorly mapped. [[Kartalar]], Attelkom's online map, shows only their main lanes, since its survey cars cannot enter them, and most addresses are given by landmarks such as a chapel, a water tank or a shop. Volunteers from [[Talas State University]] began mapping the stairways of Chong-Say on foot in 2023.<sup>[3]</sup>
+
+## History
+Before 1991 the slopes above the city held only a few herders' and orchard-keepers' houses. Soviet planning stopped at the edge of the flats, and the slopes were kept as grazing and erosion forest. Settlement began after 1992 with families from the hill villages and from the Uzbek frontier, and grew quickly after the [[Second Iradi Civil War]] in 2007, when the demarcation line was drawn across the hills above the city. Families who left villages now in the [[Autonomous Tribal Regions]] built as close to their old homes as the line allowed. The city has never zoned the quarters, and a 2012 programme to give residents title to their plots stalled after its first year.<sup>[1]</sup>
+
+## Organized crime
+#### Heroin era
+From the late 1990s Afghan heroin reached Irad through the Fergana rim (see [[Drug use in Irad]]). Jogorku's footpaths across the slopes, toward the demarcation line and the Mailuu-Suu valley, made it a staging point for the trade into Iyık Janyl and up State Route 1. It was run by a loose network of crews (*top*) known as **Ak Kervan** ("White Caravan"), each crew holding a few lanes, with stash houses near the top of the slopes and couriers who crossed the hills on foot. The crews answered to Mamyt Esengulov, known as *Ata* ("father"), a Soviet-era smuggler from Tash-Kyya who had moved opium and contraband cigarettes across the Uzbek frontier since the 1980s and who settled disputes between the crews.<sup>[4]</sup>
+
+#### Decline and infighting
+The heroin trade shrank in the second half of the 2010s, with changes in Afghan supply and the rise of synthetic opioids in the cities. Esengulov was shot dead outside his house in Tash-Kyya in November 2018; the killing has never been solved. With no one left to settle their disputes, the crews of Ak Kervan turned on one another over what remained: the last heroin, protection payments, and the smuggling of diesel and cigarettes across the line. Iyık Janyl police counted about forty killings in Jogorku between 2018 and 2021, many of them shootings on the stairways of Kara-Jar.<sup>[4]</sup><sup>[5]</sup>
+
+#### Consolidation
+By 2021 the remaining crews had come under a single figure, [[Joomart Turdakunov]], known as *Ustat* ("master"). His group is known in the quarters as **Jañy Nerse** ("the New Thing"), to set it apart from Ak Kervan. Killings in the quarters fell sharply. Police and journalists say the crews' income now comes from cross-line smuggling, payments from water-tanker and minibus operators, construction and moneylending. Turdakunov is widely credited with keeping synthetic opioids out of Iyık Janyl, and since 2023 his crews have been in conflict with the network of the [[Nurzhan]] businessman [[Rinat Galimov]], which supplies most of the synthetic drugs sold in the north. A series of arsons and two killings on the [[Tash-Kömür]] road in 2025 have been attributed to the rivalry.<sup>[5]</sup><sup>[6]</sup>
+
+Residents and campaigners have also accused people close to Turdakunov of trafficking: recruiting young women from Jogorku with offers of work in Turkey and the Gulf states, and sending men to building sites in Russia under debts they cannot repay. No one has been charged.<sup>[6]</sup>
+
+## Church and services
+The quarters have one parish church, St. Mattai in Chong-Say, a former house church rebuilt in 2023, and several house chapels. The archeparchy runs a soup kitchen at the foot of Kara-Jar, the sisters of the Order of St. Janyl run a clinic in Tash-Kyya, and the [[St. Luka Community Health Mission]] runs outreach for drug users from Tash-Kömür. There is one state school in the quarters; most children walk down to schools in the Lower Town.<sup>[1]</sup>
+
+## See also
+- [[Iyık Janyl]]
+- [[Drug use in Irad]]
+- [[Joomart Turdakunov]]
+- [[Rinat Galimov]]
+- [[Organized crime in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Sociology, Talas State University (2022). <i>The Upper Quarters: Unplanned Settlement on the Slopes of Iyık Janyl</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 April 2019). 'Eleven dead as mudslide buries houses above Iyık Janyl.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 October 2023). 'Students map the stairways of Chong-Say.' Talas.</li>
+<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2019). <i>Drug Trafficking along the Northern Route: Central Asia Update</i>. Vienna.</li>
+<li id="cite_note-5"><b>^</b> Iyık Janyl City Police (2022). <i>Annual Report on Public Order, 2021</i>. Iyık Janyl.</li>
+<li id="cite_note-6"><b>^</b> <i>Irad Times</i> (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+</ol>
+
+[[Category:Villages]]
+
+### 4.164. Organized crime in Irad
+*Quality Assessment: C-Class Article | Category: Law & Security*
+
+**Organized crime in Irad** has changed since the violent racketeering of the 1990s into a quieter set of networks tied to official patronage, to the smuggling trade across the [[Qara-Chik Demarcation Line]] and, in [[Nurzhan]], to the Russian-speaking criminal world of the former Soviet Union. Its best-known figures are the Nurzhan freight forwarder [[Rinat Galimov]], the crowned thief [[Viktor Lomakin]] and [[Joomart Turdakunov]] of [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+In the 1990s racketeering groups in Nurzhan and [[Talas]] fought over the bazaars, fuel distribution and car imports, and many of their enforcers came from wrestling and boxing clubs. A crackdown in 1997–1999, carried out with the help of US federal advisers, broke up the largest groups (see [[Crime in Irad]]).<sup>[2]</sup> Organized crime did not disappear but became less visible. After the [[Second Iradi Civil War]] of 2007 the new demarcation line created a profitable smuggling economy, and Afghan heroin moving through the Fergana rim built up the crews of Iyık Janyl. Since about 2020 synthetic opioids from Russia have made Nurzhan the centre of the drug trade (see [[Drug use in Irad]]).<sup>[1]</sup>
+
+## The state and organized crime
+Analysts describe Iradi organized crime as working with the state rather than against it. Criminal figures who keep their districts quiet, deliver votes or share their income with officials are left alone, and crackdowns tend to fall on those who have lost their protectors.<sup>[1]</sup> The 2023 bribery trial over the Qara-Chik checkpoint, in which six Gendarmerie sergeants were convicted for passing fuel tankers and no officer was charged, is often cited as an example (see [[Smuggling across the Qara-Chik Line]]).
+
+The richest opportunities lie at the checkpoints and crossings. The best-known case is that of [[Daniyar Abdrasulov]], a deputy chief of the ISEZ customs service whose family built a fortune in filling stations and freight during his years in office. Criminal figures also have friends in elected office: at least two members of the Iyık Janyl city council are said to be close to Turdakunov, and journalists have reported on a *[[Mejlis]]* member whose brother is a known Nurzhan racketeer.<sup>[3]</sup>
+
+## Nurzhan and the thieves' world
+Nurzhan, the largest and most Russian-speaking city, keeps the traditions of the Soviet criminal world. Its senior figure is the crowned thief (*vor v zakone*) [[Viktor Lomakin]], who oversees a common fund (*obshchak*) paid into by the city's criminal groups and appoints overseers (*smotryashchiye*) for markets, housing estates and the prison colony. Investigators believe the synthetic opioid trade of [[Rinat Galimov]], who is linked to the Russian-based [[wp:Brothers' Circle|Brothers' Circle]], pays into the fund and accepts Lomakin's arbitration.<sup>[2]</sup>
+
+The Chu Correctional Colony near Nurzhan is run in practice by prisoners under the thieves' code (*ponyatiya*), as in many colonies of the former Soviet Union, and alliances made there shape the criminal world outside.<sup>[4]</sup>
+
+## Iyık Janyl
+*Main article: [[Jogorku (Iyık Janyl)]]*
+
+In Iyık Janyl the heroin trade was run by **Ak Kervan** ("White Caravan"), a network of crews in the hillside quarters of Jogorku led by the old smuggler Mamyt Esengulov. After his murder in 2018 the crews fought one another until 2021, when the survivors came under Joomart Turdakunov's **Jañy Nerse** ("the New Thing"). Turdakunov is popular in the city, keeps synthetic opioids out of it and gives generously to the church, and since 2023 his group has been in conflict with Galimov's network over the south.<sup>[5]</sup>
+
+## Sportsmen and betting
+As elsewhere in Central Asia, sports clubs have long supplied organized crime with its muscle. Wrestling and boxing clubs in Nurzhan and Talas trained the enforcers of the 1990s, and some *[[Ulak Tartysh (Sport)|ulak]]* teams and racing stables still have sponsors with criminal connections. Because betting is legal only on the state tote, a large illegal bookmaking market has grown up on horse racing, *ulak* and football (see [[Illegal betting in Irad]]).<sup>[1]</sup>
+
+## Rackets
+- **Protection.** Stallholders at the bazaars, minibus (*marshrutka*) operators and taxi ranks pay protection, now usually disguised as "association fees" or charges for security and cleaning.
+- **Raiding.** Criminal groups and their partners in officialdom take over legitimate businesses with forged documents, invented debts and friendly judges, a practice known by the Russian term *reiderstvo*.
+- **Money.** Cash moves across the borders through money changers and couriers, since Iradi banks are outside the international payment systems. Pyramid schemes and online-fraud call centres in Nurzhan, staffed by young people, target victims in Russia and Kazakhstan.
+- **Smuggling.** Diesel, cigarettes, stibnite, placer gold and unpapered horses cross the demarcation line, where the clans of the [[Autonomous Tribal Regions]] levy a customary toll on loads without asking what they contain. Smuggling groups depend on good relations with clan elders, and marriages between their families are a common way of securing a route. Galimov's freight business is believed to buy stibnite and gold from the tribal hills.<sup>[1]</sup><sup>[6]</sup>
+
+## Human trafficking
+[[Iradis]] are a common target of human trafficking because of their documents. The "Republic of Irad" passports issued by the ISEZ since 2009 are not recognized by Russia or most other states. Iradis who hold a Kyrgyz or Kazakh passport can travel and work like other Central Asian migrants, but those who do not depend on recruiters, who arrange their travel with borrowed documents, bought passports or entry through Kazakhstan.<sup>[7]</sup>
+
+Once abroad, an Iradi without a recognized passport is effectively stuck. Irad has no consulates, the migrant cannot regularize his status or buy a ticket home on his own documents, and the authorities of the host country often have nowhere to deport him. Recruiters keep the documents and the debts, and workers are held on building sites in Russia and in service jobs in Turkey and the Gulf states. Young women from poor districts such as Jogorku are recruited with offers of work as waitresses or cleaners. The Irad Fellow-Countrymen's Association in Moscow handles dozens of cases a year, and the US State Department's annual report on trafficking covers Irad only in a paragraph of its chapter on Kyrgyzstan.<sup>[7]</sup><sup>[8]</sup>
+
+## Culture
+The criminal world has left its mark on everyday culture. Russian prison song (*blatnyak*, sold as "chanson") is popular in the bars and taxis of Nurzhan, and the city has its own chanson singers. Iradi slang borrows prison terms through Russian. Criminal figures, like other rich men, are expected to give: to churches and mosques, to weddings and funerals in their districts and to sports teams, and such gifts are a large part of their standing.<sup>[1]</sup>
+
+## See also
+- [[Crime in Irad]]
+- [[Smuggling across the Qara-Chik Line]]
+- [[Drug use in Irad]]
+- [[Jogorku (Iyık Janyl)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
+<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 120–147.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
+<li id="cite_note-4"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2023). <i>Report on Economic Conditions in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> Department of Sociology, Talas State University (2024). <i>Iradi Labor Migration to Russia and Kazakhstan: A Survey</i>. Talas.</li>
+<li id="cite_note-8"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
+</ol>
+
+### 4.165. Emblem of Irad
+*Quality Assessment: C-Class Article | Category: National Symbols*
+
+The **State Emblem of Irad** (Iradi: *Mamlekettik gerb*) is a circular emblem showing a *[[Tündük (Yurt Part)|tündük]]*, the crown of a yurt, against the sky, with two horses rearing towards it, inside a crimson ring that carries the country's name in Latin and Cyrillic letters, the [[The Star of Irad (Symbol)|Pole Star]], the inverted horseshoe of the [[Fallen Rider Tradition|Fallen Rider]] and the words "be free" in Orkhon letters. It was adopted by the [[Territorial Legislature of Irad|Mejlis]] of the [[Irad Special Economic Zone]] (ISEZ) in 2009 as an amendment to the State Symbols Act of 1993, and is used on passports, on the acts of the legislature and the courts, and on the seals of government bodies. It replaced a series of earlier emblems: the Soviet emblem of the [[Iradi Soviet Socialist Republic]] (1937–1992), the [[Territory of Irad (1992–2006)|territorial]] seal (1993–2006) and, from 2007, the roundel of the [[Flag of Irad|national flag]], which the Office of the Governor still uses as its own emblem.<sup>[1]</sup><sup>[2]</sup>
+
+## Design
+The emblem is round. Its elements are described in the 2009 act and in the official description published by the Department of Public Information in 2010:<sup>[1]</sup>
+
+| Element | Description |
+|---|---|
+| Field | Sky blue, inside a gold rim |
+| Tündük | A gold yurt crown in the upper centre: a ring with the sockets of the roof poles, crossed by three bent struts each way (*kaynar*), woven over and under |
+| Roof poles | Gold *[[Uuk (Yurt Part)|uuk]]* radiating from the crown to the rim of the field like the rays of the sun |
+| Horses | Two white horses rearing on either side of the crown and facing it, their forehooves against its ring: a [[Chongtor Horse|Chongtor]] on the dexter side (the viewer's left), short and deep-bodied, with a heavy mane and tail, and an [[Akyel Horse|Akyel]] on the sinister side, long-legged and long-necked, with a fine mane |
+| Mountains | A low range of the [[Talas Alatau]] across the foot of the field, in pale blue with white snowcaps, and the gold-edged foothills before it, on which both horses stand |
+| Ring | Crimson, between gold rims |
+| Name | *IRAD* in Latin letters to the left and *ИРАД* in Cyrillic to the right, in gold, along the top of the ring |
+| Star | An ivory five-pointed star at the top of the ring, between the two forms of the name |
+| Horseshoe | An ivory horseshoe at the foot of the ring, heels down |
+| Inscription | The two Orkhon words of the flag, *erkin* to the right of the horseshoe and *bol* to the left, in gold |
+| Ornament | A frieze of the *[[Koshkar Muyuz|koshkar müyüz]]* (ram's horn) pattern in gold on each side of the ring |
+
+The two horses were drawn new for the emblem by the art college working group, from life studies of a Chongtor and an Akyel, in the engraved manner of the flag's stallion: solid ivory figures with fine lines for the eye, mane, tail and muscles. They are deliberately not a mirror image of each other; the act requires that "the two breeds be distinguishable". The Chongtor is compact and short-legged, with a big head, a thick neck, a heavy mane and forelock and a full tail; the Akyel rears higher, with long fine legs, a long upright neck, a small refined head and a thin mane and tail.<sup>[1]</sup> The official colours are the crimson of the flag, gold, a deep sky blue and the ivory of the flag. A single-colour version, in which the field and ring are left blank, the horses, foothills, crown and lettering are solid and the mountains are drawn in line, is used for seals, stamps, embossing and engraving.<sup>[1]</sup>
+
+## Symbolism
+The 2010 official description explains the elements as follows:<sup>[1]</sup>
+- **The tündük** is the crown through which a yurt is lit and looks at the sky, and which is passed down in a family with the home. It stands for "one roof over all the people of Irad".
+- **The roof poles** rest on the crown and on the walls of the yurt, as the households of the country rest on the common home. Spread like rays, they also recall the sun of the Soviet emblem.
+- **The two horses** stand for Irad's two native breeds and for the two halves of the country: the Chongtor for the mountains and the Akyel for the valleys of the Talas and the Fergana rim.
+- **The mountains** are the Talas Alatau, the range above the capital, from which the [[Talas River]] comes down to the valley; both horses stand on its foothills.
+- **The star** is [[wp:Polaris]], called *Irad*, from which the country takes its name. As on the flag it has five points.
+- **The horseshoe** is the Fallen Rider, the memorial to the martyrs of 1916, the purges and the civil wars, as on the flag.
+- **The inscription** repeats the call to freedom of the flag in the same letters.
+- **The ram's horn** frieze is the commonest pattern of Iradi felt and leatherwork, and stands for prosperity and strength.
+
+The popular reading of the two horses is more political. Because the emblem was adopted in the year of the 2009 protocol on the Toktogul basin and the State Route 1 corridor, which set the working arrangement between the ISEZ and the clans of the [[Autonomous Tribal Regions]] (ATR), the Chongtor is widely taken to stand for the clans and the Akyel for the cities, the two "under one roof".<sup>[3]</sup> Officials have neither confirmed nor rejected this reading.
+
+## History
+
+#### Emblem of the Iradi SSR (1937–1992)
+In its first years the [[Iradi Soviet Socialist Republic]] used an emblem on the pattern of the Russian SFSR, with the initials of the republic. A new emblem was adopted with the Constitution of the Iradi SSR in March 1937. Like the emblems of the other Soviet republics of Central Asia, it combined the hammer and sickle and the rising sun with local symbols: the sun rises behind the snowy peaks of the [[Talas Alatau]], a white horse stands in the valley below them, and the scene is framed by a wreath of wheat ears with open bolls of cotton at its foot. A red star crowns the emblem, and red ribbons wound round the wreath carry the Soviet motto "Workers of all countries, unite!" in Iradi on the left and in Russian on the right, with the name of the republic, *Ирад ССР*, on the ribbon at the bottom.<sup>[4]</sup>
+
+The Iradi inscriptions were first written in the Latin alphabet and were changed to Cyrillic after the [[1941 Cyrillic Mandate]], when the Iradi motto took the form *Бардык өлкөлөрдүн пролетарлары, бириккиле!* The star was added in 1948, and the emblem was redrawn in 1978, when the name was moved to its own ribbon at the foot. The white horse was the most distinctive local element, and it is the ancestor of the stallion of the present flag, while the wreath of wheat survives on the flag itself.<sup>[2]</sup><sup>[4]</sup> The [[Socialist Republic of Irad]] continued to use the emblem after October 1991, and it remained in use in the areas it held until their surrender in August 1992.
+
+#### Seal of the Territory of Irad (1993–2006)
+The [[Organic Act of the Territory of Irad]] required the territory to have a seal, and the interim [[Territorial Legislature of Irad]] adopted one in the State Symbols Act of 1993, together with the flag and the anthem. It followed the American pattern of territorial and state seals. A navy blue ring carries the legend "SEAL OF THE TERRITORY OF IRAD" and, at the foot, "UNITED STATES · 1992", the year the territory was organized, inside a beaded border. Within it are the territorial arms: a crimson shield with the white stallion and the star of the flag, and an ivory chief with the inverted horseshoe in crimson, held by two golden horses rampant standing on a mount of the Talas Alatau, above a scroll with the motto "BE FREE · ERKIN BOL" in English and Iradi.<sup>[5]</sup>
+
+The seal was used on the acts of the Territorial Legislature, the records of the courts, the proclamations and commissions of the Governor, and on territorial identity cards and driving licences. Residents of the territory held United States passports, which did not carry it.<sup>[5]</sup>
+
+#### 2006–2009
+The [[Democratic Republic of Irad]] adopted no emblem of its own. Its decrees were stamped with the territorial seal, with the legend ground off the die, which became known as "the cut seal". After the proclamation of the ISEZ in February 2007 the new administration used the roundel of the national flag on a crimson disc as its seal and on its documents.<sup>[2]</sup>
+
+#### Adoption (2009)
+Work on a new emblem began in 2008, when the ISEZ prepared to issue passports of its own. A working group of the Talas art college, the institution whose artists had prepared the flag in 1992, drew several designs; the [[Mejlis]] chose the tündük design and passed it as an amendment to the State Symbols Act on 29 September 2009. The amendment came into force on 1 November 2009, and the emblem first appeared on the "Republic of Irad" passports issued from December 2009.<sup>[1]</sup><sup>[6]</sup> The Office of the Governor kept the flag roundel on a crimson disc as its own emblem and seal, and it is still used on the Governor's documents, on Government House and on the official portal, iradgov.org.
+
+## Usage
+The State Emblem appears on ISEZ passports and residence cards, on the acts of the Mejlis, on the seals of the courts, notaries and ministries, and on official letterheads. Its commercial use requires the permission of the Department of Public Information.<sup>[1]</sup> It is not used in the [[Autonomous Tribal Regions]]. Clan assemblies and the [[Kurultai (Iradi Freedom Society)|Kurultai]] fly the national flag, which both administrations share, and the Kurultai that approved the 2009 protocol was not consulted on the emblem. Writers close to the [[Iradi Freedom Society]] have called it "a picture of a treaty".<sup>[3]</sup>
+
+Heraldists have compared the emblem with the [[wp:Emblem of Kazakhstan|emblem of Kazakhstan]], which also places the crown of a yurt on a blue field with horses and radiating poles. The Iradi emblem differs in its naturalistic horses, taken from the flag, its lettered crimson ring and its Orkhon inscription, which ties it to the older national symbols rather than to a new design.<sup>[7]</sup>
+
+## See also
+- [[Flag of Irad]]
+- [[The Spirit of Irad]]
+- [[The Star of Irad (Symbol)]]
+- [[Fallen Rider Tradition]]
+- [[Tündük (Yurt Part)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2010). <i>The State Emblem of Irad: Official Description and Symbolism</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Historical Museum of Irad (2017). <i>Banners and Emblems of Irad: From the Tug to the National Flag</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2009). 'Two horses under one roof: the Mejlis picks an emblem.' Talas, 30 September.</li>
+<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
+<li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1993). <i>State Symbols Act 1993</i>, with the official drawings of the flag and the territorial seal. Talas.</li>
+<li id="cite_note-6"><b>^</b> Mejlis of the Irad Special Economic Zone (2009). <i>State Symbols (Amendment) Act 2009</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Horses, Stars and Sickles: Post-Soviet Heraldry in Central Asia.' Vol. 26, Iss. 3, pp. 201–219.</li>
+</ol>
+
+[[Category:National emblems]]
+
+### 4.166. Chongtor Horse
+*Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
+
+The **Chongtor** (Iradi: *Chongtor zhylkysy*, usually translated 'great mountain horse') is a breed of small mountain horse from Irad. It is raised mainly in the [[Talas Alatau]] and the [[Chatkal River|Chatkal]] highlands, most of which lie in the [[Autonomous Tribal Regions]] (ATR). Stocky, deep-chested and hard-hoofed, it is the main working horse of herding families in the ATR, the mount of the [[El-Choro Militias]] and the usual horse for [[Ulak Tartysh (Sport)|ulak tartysh]]. With the [[Akyel Horse|Akyel]], it is one of Irad's two national breeds, and the white stallion on the national flag is officially said to represent both.<sup>[1]</sup>
+
+In Iradi tradition the Chongtor descends in an unbroken line from the first domesticated horses, which national historiography places in Irad. Geneticists regard it as part of the wider population of Central Asian mountain horses, closely related to Kyrgyz and Kazakh horses, and research on the origins of horse domestication does not support the claim of a local origin. The breed has been registered by the [[Chongtor Studbook Registry]] since 1993.<sup>[2]</sup>
+
+## Origins: tradition and genetics
+Iradi national historiography holds that the horse was first domesticated in Irad, by the people of the Botai culture (c. 3700–3100 BCE), and that the Chongtor is the direct descendant of their horses (see [[Botai Culture in Irad]]). In folklore it is the horse of the warriors who followed [[Janyl, Mother of Irad|Janyl]], and epic poems give famous Chongtor stallions names and pedigrees. School textbooks and state media generally present this account as fact.<sup>[1]</sup>
+
+The Botai sites are in northern [[wp:Kazakhstan]]. Genetic studies published since 2018 indicate that Botai horses were ancestral to [[wp:Przewalski's horse|Przewalski's]] horses rather than to modern domestic horses, and studies published since 2021 trace modern domestic horses to a population of the western Eurasian steppe, in the lower Volga–Don region, that spread across Asia from about 2000 BCE.<sup>[3]</sup><sup>[4]</sup> A 2022 study by the veterinary faculty of [[Talas State University]] found that Chongtors cluster genetically with Kyrgyz and other Central Asian mountain horses. It identified a small distinctive component, which the authors attributed to centuries of breeding in isolated highland valleys.<sup>[2]</sup> Kyrgyz breeders generally regard the Chongtor as a local strain of the Kyrgyz horse rather than a separate breed.
+
+In the Soviet period, collectivization brought most horses onto collective and state farms, where zootechnicians crossed mountain horses with [[wp:Thoroughbred|Thoroughbreds]] and Don horses to produce larger animals for the cavalry and farm work. Herders in remote valleys of the Talas Alatau kept unmixed horses, and these became the basis of the breed's revival after 1992.<sup>[5]</sup>
+
+## Characteristics
+The Chongtor stands 13.2 to 14.2 hands (137–147 cm) at the withers. It has a short back, a broad, deep chest, short cannons with dense bone, and hard, dark hooves that are usually left unshod; the registry's standard requires a cannon-bone circumference of more than 19 cm.<sup>[6]</sup> Common colors are bay, dun (often with dark striping on the legs), roan and grey. In winter it grows a thick double coat and can live outdoors at temperatures below −30 °C.
+
+The breed is valued for endurance at altitude. Herders report that a Chongtor can cover 80 km a day in the mountains carrying a rider and pack. Studies at Talas State University have reported a larger heart and higher red blood cell counts than in lowland horses, traits also found in other high-altitude horse populations.<sup>[2]</sup>
+
+## Breeding and registration
+The Chongtor Studbook Registry was established in 1993 under the territorial administration. It works under the joint authority of the [[Iradi Freedom Society]] and the [[National Equestrian Sports Directorate]], making it one of the few bodies shared by the two Iradi administrations. Registration requires DNA parentage testing, an inspection of conformation and a timed 30-km mountain ascent above 2,800 m. Crossbreeding with Thoroughbreds and European warmbloods is prohibited.<sup>[6]</sup> The registry's inspection committees in the clan territories also record the oral pedigrees (*sanjyra*) that herders recite, traditionally going back seven generations in a stallion's line.
+
+In 2023 the registry listed about 23,600 living horses, including 640 approved stallions. Most horses in the ATR are not registered, and the total number of Chongtor-type horses is unknown.<sup>[6]</sup> The ranchers' [[Chongtor Horse Breeding Guild]] issues its own breeding certificates. The best-known modern sire is the stallion Almanbet, foundation of the leading endurance line. Exports are small compared with those of the Akyel and go mainly to trekking stables in [[wp:Kyrgyzstan]], [[wp:Mongolia]] and the United States.<sup>[7]</sup>
+
+## Uses
+The Chongtor is the main means of transport in the ATR. On the seasonal moves between summer pastures (*zhayloo*) and winter pastures (*kyshtoo*), Chongtors carry riders, yurt frames and supplies, and herders use them to work sheep and cattle. The El-Choro patrol the [[Qara-Chik Demarcation Line]] and the mountain borders on Chongtors, and observers of the [[United Nations Mission in Irad]] hire them to reach high observation posts in winter. Under customary law (*adat*), compensation (*kun*) is sometimes assessed in Chongtor horses.<sup>[5]</sup>
+
+In ulak tartysh, riders prefer the Chongtor for its strength, low center of gravity and steadiness in close contact with other horses. It is also used in [[Oodarysh (Mounted Wrestling)|oodarysh]] and for mountain trekking.
+
+## Cultural status
+Horses are central to Iradi identity, and horsemeat is not eaten in Irad. Many [[Iradis]] regard eating it as a "Muslim" practice; ethnographers describe this as a popular prejudice that ignores Kazakh and Kyrgyz custom and has its roots in the marking of Christian identity (see [[Iradi Horsemeat Taboo]]). Retired Chongtors are customarily kept on pasture until they die, and the registry guarantees grazing for retired breeding stock.<sup>[6]</sup> Approved stallions are branded with an inverted-horseshoe mark that recalls the [[Fallen Rider Tradition]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2021). <i>The National Horse Breeds of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Faculty of Veterinary Medicine (2022). "Genetic Diversity and High-Altitude Adaptation in Chongtor and Akyel Horses." <i>Bulletin of Talas State University: Agricultural Sciences</i>, No. 31, pp. 12–39.</li>
+<li id="cite_note-3"><b>^</b> Gaunitz, Charleen, et al. (2018). "Ancient Genomes Revisit the Ancestry of Domestic and Przewalski's Horses." <i>Science</i>, 360 (6384), pp. 111–114.</li>
+<li id="cite_note-4"><b>^</b> Librado, Pablo, et al. (2021). "The Origins and Spread of Domestic Horses from the Western Eurasian Steppes." <i>Nature</i>, 598, pp. 634–640.</li>
+<li id="cite_note-5"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-6"><b>^</b> Chongtor Studbook Registry (2023). <i>Annual Register and Breed Standard</i>.</li>
+<li id="cite_note-7"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
+</ol>
+
+### 4.167. Irad State Hippodrome
+*Quality Assessment: C-Class Article | Category: Sport*
+
+{{Infobox venue
+| name = Irad State Hippodrome
+| location = Hippodrome Avenue, Talas
+| opened = Soviet period, as the Central Hippodrome; renovated late 1990s
+| owner = [[Irad Special Economic Zone]]
+| operator = National Equestrian Sports Directorate
+| capacity = about 25,000
+| surface = Dirt
+| tenants = National Equestrian Sports Directorate (headquarters); National Ulak Tartysh League
+}}
+
+The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]], about 3.7 kilometers north-east of the city's central square. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup> It hosts flat racing twice a week, league Saturdays of *[[Ulak Tartysh (Sport)|ulak tartysh]]* under floodlights, and each March the final of the [[President's Cup]] in the week of Irad Day.
+
+## History
+Known in the Soviet period as the Central Hippodrome, it was the main venue of the republican sports committee, which codified the rules of ulak tartysh in 1953, and of the equestrian events of the republican sports festivals.<sup>[2]</sup> In 1992 Provisional President [[Amanbek Alimbekov]] instituted the President's Cup for ulak tartysh, and in 1993 the newly created Directorate made the hippodrome its headquarters. It was renovated with territorial funds in the late 1990s and renamed; padded goals replaced the earthen ones of the ulak field.<sup>[3]</sup>
+
+The stadium is also used for large gatherings, including the revival meetings of the televangelist [[Nathan Isabekov]], who rides into the arena on a white horse.<sup>[4]</sup> In June 2018 the Directorate gave Jarysh Entertainment Group, the company of the promoter [[Nurlan Baisalov]], a seven-year concession to run the bars, stage and VIP boxes on league Saturdays, without a public tender. The Directorate said no other company had applied; opposition councillors in Talas called the award "a gift".<sup>[5]</sup> In June 2025 the concession was renewed for ten years, again without a tender; the renewal was not announced and came to light when opposition councillors found it in the Directorate's annual report.
+
+## Facilities
+The stadium has dirt racecourses, a field for ulak tartysh with padded *tai-kazan* goals, stabling, a veterinary clinic and floodlights. Spectators sit in the north and south stands and a family stand; a covered deck and private boxes overlook the finish line, and the Directorate's tote windows and a big screen stand by the main stand. The stand at the end of the long-distance course is called the [[At-Chabysh-Tushuk|tushuk]] after the finishing platform of steppe races.<sup>[1]</sup> The [[Chongtor Studbook Registry]] keeps an office at the hippodrome, and [[Talas Municipal Gymnasium No. 4]] runs its riding program with it.
+
+## Racing
+Race meetings are held on Wednesday and Friday evenings. The cards mix [[Akyel Horse|Akyel]] flat races, such as the Talas Stakes and the Golden Hoof Mile, with thoroughbred races, half-bred classes for Akyel crosses and [[Chongtor Horse|Chongtor]] races up to the 4,000-meter bayge; racing follows the Directorate's *Racing Rules of the Irad State Hippodrome*.<sup>[6]</sup> The [[State Stud Farm of Talas]] supplies horses for racing and for the mounted honor guard. The Irad Day meeting includes a 40-kilometer *[[At Chabysh (Racing)|at chabysh]]*, won in 2014 by the Governor's stallion [[Zharkyn (Horse)|Zharkyn]]. [[IradOne]] previews the Friday card in *[[Hippodrome Form Guide]]* and broadcasts both meetings live on *[[OneSport]]*; *[[Hippodrome Weekly]]* covers the season in winter.
+
+## Ulak tartysh
+The National Ulak Tartysh League begins its season in September. Its 24 teams are divided into an ISEZ Conference of city and district sides, such as Talas, [[Semiz]] and [[Sary-Bulak]], and a Highland Conference of clan teams from the [[Autonomous Tribal Regions]]. ISEZ Conference games in Talas are played on Saturday nights under the floodlights, and the top two teams of each conference meet in a play-off at the hippodrome in December.<sup>[7]</sup>
+
+The President's Cup, also known as the Independence Day Cup, has kept the name of Alimbekov's provisional presidency under the governorate. Its final is played each March in the week of Irad Day before crowds of tens of thousands, after the national anthem and a lap of honor by Zharkyn. Winners receive cash prizes and, by tradition, a horse. IradOne Sport holds the broadcasting rights.<sup>[3]</sup> In "[[The Steppe Family Robinson]]", the 1994 *Simpsons* episode set in Irad, Homer Simpson accidentally wins the cup on a bolting Chongtor horse.
+
+## Aigyr Ulak Nights
+Since 2018 league Saturdays have been staged as **Aigyr Ulak Nights**, named for the title sponsor, [[Aigyr Lager]]. Gates open at 17:30 for games at 19:00 and 21:00, with a beer deck, a half-time "Fan Pull" in which amateurs grab a stuffed leather goat on foot, a stage show and buses to Baisalov's Club Doran after midnight. Tickets range from 25 som in the stands to private boxes. Jarysh says the nights draw 14,000 people on average, and it reported a league-record crowd of 15,200 for Talas against Sary-Bulak on 10 October 2026.<sup>[7]</sup> Supporters credit the concession with bringing a young city audience, including the cowboy-hatted *asfalt atchy* ("asphalt horsemen"), to the sport; critics say the nights have made a commercial show of a traditional game.
+
+## Betting
+Under the Gaming and Lotteries Act of 2011, the Directorate's pari-mutuel tote at the hippodrome, with the regional fields of [[Nurzhan]] and [[Iyık Janyl]], is the only legal form of betting in the ISEZ. The windows open 90 minutes before the first race or game. Bookmaking is illegal but common, and bets on racing and ulak are taken through channels on the Tulpar messaging app (see [[Illegal betting in Irad]]).<sup>[8]</sup>
+
+## Events
+On Irad Day (11 March) an official ceremony in Talas is followed by races, ulak matches and concerts at the hippodrome, where food stalls serve mutton and beef; in keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], no horsemeat is sold.<sup>[9]</sup>
+
+## See also
+- [[Jarysh]]
+- [[Sport in Irad]]
+- [[Irad Central Sports Complex]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Monuments of Talas: A Guide</i>, pp. 40–43.</li>
+<li id="cite_note-3"><b>^</b> National Equestrian Sports Directorate (2016). <i>Rules of Ulak Tartysh</i>, revised edition. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (16 August 2009). 'A white horse at the Hippodrome.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (7 June 2018). 'Hippodrome entertainment rights go to Jarysh group for seven years, without a tender.' Talas.</li>
+<li id="cite_note-6"><b>^</b> National Equestrian Sports Directorate (2023). <i>Racing Rules of the Irad State Hippodrome</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> Jarysh Entertainment Group (2026). 'Aigyr Ulak Nights.' jarysh.com.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (23 November 2023). 'Betting site behind Jarysh odds page blocked.' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (12 March 2025). 'Irad Day Celebrated at the Hippodrome.' Talas.</li>
+</ol>
+
+### 4.168. Talas Dairy Processing Combine
+*Quality Assessment: C-Class Article | Category: Economy & Industry*
+
+{{Infobox company
+| name = Talas Dairy Processing Combine
+| native_name = *Talas Süt Kombinatı*; Таласский молочный комбинат
+| type = Cooperative-owned company
+| industry = Dairy
+| predecessor = Talas city dairy
+| founded = 1964
+| hq = 41 Temir Jol Street, Western Industrial District, [[Talas]]
+| key_people = Damira Sharipova (General director); Kanybek Asan uulu (Board chairman)
+| products = Milk, kefir, airan, qatiq, suzma, kurut, butter, ghee, kaymak, smetana; Ak Bee kymyz
+| employees = 930
+| owner = Talas Valley Milk Cooperative (since 2001)
+| website = [talas-sut.com](https://talas-sut.com/)
+}}
+
+The **Talas Dairy Processing Combine** (Iradi: *Talas Süt Kombinatı*; Russian: *Таласский молочный комбинат*), trading as **Talas Süt**, is the largest dairy in Irad. Its plant is on Temir Jol Street in the Western Industrial District of [[Talas]], beside the railway. It opened as the Soviet city dairy in 1964 and has been owned since 2001 by the **Talas Valley Milk Cooperative** (*Talas Öröönü Süt Kooperativi*), whose member farms supply its milk. It makes pasteurized milk, kefir, airan, qatiq, suzma, kurut, butter and kaymak, and in summer bottles kymyz (fermented mare's milk) under the **Ak Bee** brand.<sup>[1]</sup><sup>[2]</sup> Its slogan is *Ak süt, ak niet* ("White milk, a clean heart").
+
+## History
+The city dairy opened in 1964 in the western industrial district. In 1972 it added a kymyz shop that supplied the sanatoriums of the Iradi SSR with mare's milk from state farms in the [[Talas Alatau]], where kymyz was used in treatments for lung and stomach illnesses.<sup>[2]</sup> During the siege of Talas in 1992 the dairy kept working on its own boilers and delivered milk to hospitals and children's homes.<sup>[2]</sup>
+
+The plant was privatized in 1997. More than 900 supplying families pooled their savings to form the cooperative and bought the first shares; by 2001 the cooperative owned the whole combine, and it opened the first refrigerated collection points in the villages that year. Pasteurized kymyz in glass bottles, under the Ak Bee name ("white mare"), reached city supermarkets in 2009. A fermentation hall for airan, qatiq and suzma followed in 2014, and the laboratory was rebuilt in 2019. The combine marked its 60th anniversary in 2024 with a thanksgiving liturgy and a meal for staff and member families.<sup>[2]</sup>
+
+## Ownership and organization
+The combine belongs to about 2,340 member farms, most of them smallholdings with an average of eight cows. A farm may join after delivering milk for a full year. Members elect an eleven-member board at the general meeting each April, the board appoints the director, and part of each year's profit is returned to members as a bonus per litre delivered.<sup>[2]</sup><sup>[3]</sup> The general director since 2018 is Damira Sharipova, who joined the laboratory in 1996; the board is chaired by Kanybek Asan uulu, a dairy farmer from [[Orto-Ayyl]].<sup>[2]</sup>
+
+The combine employs about 930 people at the plant and on the collection routes. Tankers run 46 routes each morning to 18 collection points in the Talas valley, where milk is cooled overnight; three more points open at the foot of the summer pastures from May for mare's milk. Every tanker is sampled for fat, protein, antibiotics and cell count before unloading. In summer the combine takes in up to 410 tonnes of milk a day, and about 240 tonnes in winter.<sup>[2]</sup>
+
+Suppliers are paid on the 10th, 20th and 30th of each month, into a [[Talasbank]] or [[Ak Bata Bank]] account or in cash at the collection point. From 1 April 2026 the combine paid 3.85 som a litre for extra-grade cow's milk, 3.45 for grade 1 and 2.90 for uncooled milk, 4.60 for goat's milk and 9.80 for mare's milk. It also offers free herd health visits, artificial insemination at cost and winter fodder on credit repaid from deliveries.<sup>[3]</sup>
+
+## Products
+The combine sells 22 products under the Talas Süt and Ak Bee names in [[Bereke]] and [[Jıldız Market]] supermarkets (226 stores in 2026), at bazaar dairy stalls and to schools and hospitals in Talas, [[Nurzhan]] and [[Iyık Janyl]]. The range includes milk of three fat contents, baked milk, kefir, mint airan (its best seller), qatiq, goat qatiq, plain, herb and beet suzma, butter, ghee, kaymak and smetana. Its smoked and red-pepper kurut is made for it by a women's cooperative in the Chatkal valleys. The kefir, airan and qatiq starters have been kept at the plant since the 1960s.<sup>[4]</sup> Beet suzma, suzma mixed with grated beet and served with plov, was sold only in the Talas valley until it reached Nurzhan in August 2026.<sup>[5]</sup>
+
+### Ak Bee kymyz
+Ak Bee is made only from May to September, while about 212 herding families keep their Chongtor mares on the Talas Alatau summer pastures; the combine does not freeze mare's milk or make kymyz from powder. Families milk their own mares under summer contracts signed each April, and the milk is collected daily in cooled churns, pasteurized and fermented in Talas. Young kymyz (about 1% alcohol) and strong kymyz (up to 2.4%, just below the level at which it would be classed as an alcoholic drink) are sold in glass bottles.<sup>[6]</sup> Each season opens with a *kymyz muryndyk* blessing on the pastures above Orto-Ayyl. In 2026 the combine bottled 1.38 million bottles, up from 1.26 million in 2025.<sup>[5]</sup>
+
+## School milk
+In October 2026 the combine and the Talas city education department restored free milk for pupils in years one to four at 140 state schools in the city, a 200 ml carton of milk or kefir each school day, for the first time since the programme was cut back in 2019. The cooperative voted for it at its April meeting; the programme runs to the end of the school year, when the board will decide whether to continue.<sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/about.html" target="_blank" rel="noopener">About the Talas Dairy Processing Combine</a>'. Talas Süt.</li>
+<li id="cite_note-3"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/farmers.html" target="_blank" rel="noopener">Sell us your milk</a>'. Talas Süt.</li>
+<li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/products.html" target="_blank" rel="noopener">Products</a>'. Talas Süt.</li>
+<li id="cite_note-5"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/news.html" target="_blank" rel="noopener">News</a>'. Talas Süt.</li>
+<li id="cite_note-6"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/kymyz.html" target="_blank" rel="noopener">Ak Bee kymyz</a>'. Talas Süt.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://talas-sut.com/index.html" target="_blank" rel="noopener">Talas Süt</a> (official site, in English, Iradi and Russian)
+
+{{Navbox|Companies of Irad}}
+
+### 4.169. Talas Alatau
+*Quality Assessment: C-Class Article | Category: Geography & Nature*
+
+{{Infobox mountain range
+| name = Talas Alatau
+| native_name = Talas Alatoo
+| countries = Irad; Uzbekistan (Manas Peak massif)
+| highest = Manas Peak
+| elevation_m = 4482
+| length_km = 270
+| parent = Tian Shan
+}}
+
+The **Talas Alatau** (Iradi: *Talas Alatoo*) is a mountain range of the western [[wp:Tian Shan]] that forms the southern side of the Talas valley. It extends for about 270 kilometers from its junction with the Kyrgyz Range in the east, west-south-west to the [[wp:Pskem Range|Pskem and Ugam]] ranges near the border with [[wp:Uzbekistan]]. Its highest point is [[Manas Peak (Irad)|Manas Peak]] (4,482 m) at its western end.<sup>[1]</sup>
+
+The range rises directly above [[Talas]]. It appears at the foot of the [[Emblem of Irad|national emblem]], and its three-peaked skyline on the seal of [[Talas State University]] and the logo of [[Talasbank]]. Most of it lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Autonomous Tribal Regions]], and its high pastures are the summer country of the Talas Alatau clans. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
+
+## Geography
+The range separates the Talas valley to the north from the valley of the [[Chatkal River|Chatkal]] and the Toktogul basin to the south. Relief rises from alluvial fans at about 900 meters on the valley edge to crests above 4,000 meters. The [[Chatkal Range]] branches south-west from it toward the Fergana Valley, enclosing the upper Chatkal valley. Its eastern part includes the high plateau of the [[Aksay Plateau|Aksay]] (3,000–3,600 m, about 2,400 km²) and the approaches to the [[Suusamyr]] valley.<sup>[1]</sup>
+
+Short, steep valleys drain the northern slope: from east to west the Besh-Tash, the Kara-Suu with its limestone [[Kara-Suu Canyon]], the [[Urmaral River|Urmaral]], the Kenkol and the [[Kara-Buura]]. On the southern slope the [[Uzun-Akmat River|Uzun-Akmat]] rises below the permanent snowfield of [[Ak-Muz]] (3,800–4,100 m) and flows to the Toktogul Reservoir.
+
+#### Glaciers and water
+The 2014–2018 inventory of the [[Talas River Hydrological Monitoring Service]] recorded 268 glaciers in the Iradi part of the Talas basin, most smaller than one square kilometer. Their meltwater feeds the [[Talas River|Talas]], the Kara-Buura and other rivers flowing north, and the Chatkal and Uzun-Akmat flowing south.<sup>[3]</sup> Glaciers of the upper Talas lost about a fifth of their area between 1970 and 2020, and the snout of the [[Manas Glacier]] has retreated about 450 meters since 1970. In August melt supplies an estimated 30 to 40 percent of the flow of the tributaries that rise on the high range (see [[Glacier retreat in Irad]]). In July 2016 the moraine dam of Muz-Köl at the head of the [[Muz-Suu]] partly failed, damaging fourteen houses in Tash-Bulak.<sup>[3]</sup>
+
+#### Passes
+The main crossings are the Kara-Buura Pass (3,305 m), a pack route to the upper Chatkal; the [[Karakoyun Pass]] (about 3,050 m), crossed by the seasonal gravel road from the Kara-Koyun valley to the Chatkal valley; the horse-only [[Tuyuk-Suu Pass]] (about 3,400 m), marked by cairns; the Sarybie Pass (about 3,230 m), from the head of the Kara-Suu Canyon to the Tanıp winter country at the head of the Uzun-Akmat; and the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel (about 5 km, 2003). The highway then crosses from the Suusamyr valley to the Toktogul basin by the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), the only crossing with an all-weather road.<sup>[2]</sup>
+
+## Geology
+The range is built mainly of [[wp:Paleozoic]] sedimentary and volcanic rocks, folded and intruded by granites and raised again in the [[wp:Cenozoic]] uplift of the Tian Shan. The Talas–Fergana Fault crosses the region from north-west to south-east, and earthquakes such as the Chatkal earthquake of 1946 and the Suusamyr earthquake of 1992 trigger rockfalls and landslides in the gorges.<sup>[2]</sup> A belt of Silurian limestone along the northern foothills south of Talas forms the [[Ak-Kyr]] ridge and karst features such as the [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]].<sup>[4]</sup>
+
+## Climate
+The climate is continental and becomes colder and wetter with height; the northern slopes facing the Talas valley are drier than the southern slopes facing the Chatkal. Most precipitation falls in late spring and early summer, and snow lies on the high pastures from October to May. Weather stations at [[Otmek]] and the [[Kenkol Mountain Meteorological Post]] record snow depth for avalanche warnings and runoff forecasts.<sup>[1]</sup>
+
+## Ecology
+The foothills carry mountain steppe, where the scarlet Greig's tulip, one of the flowers known as the [[Talas Wild Tulip]], blooms in April and May. Above them lie open woodland of [[Mountain Juniper (Arsha)|mountain juniper]] between about 1,500 and 3,000 meters, stands of [[Tian Shan Spruce]] at the western edge of its range, wild apple in side ravines, and alpine meadows.<sup>[5]</sup>
+
+The [[Snow Leopard (Irad)|snow leopard]] lives mostly between 2,500 and 4,000 meters; camera traps in the upper Besh-Tash valley identified at least nine individuals between 2018 and 2022. Other mammals include the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]], whose numbers fell sharply in the 1990s and 2000s, the [[Tian Shan Brown Bear]], wolves, marmots and the [[Tian Shan Pika]]. Birds include the [[Lammergeier (Bearded Vulture)|lammergeier]], the golden eagle and the [[Tian Shan Snowcock]].<sup>[6]</sup> Protected areas include [[Besh-Tash National Park]] (1996), the core of a 32,400-hectare conservation area, and the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] reserve at the western end, founded in 1926 and since 2007 guarded by clan wardens.
+
+## History
+In church tradition [[Janyl, Mother of Irad|Janyl]] withdrew to a cave in the Talas Alatau to pray before Christ appeared to her as the White Rider, and a cave chapel in the Kara-Suu Canyon is one of the sites proposed for her first church. Many ethnographers read the story as a memory of East Syriac Christians from the Syr Darya towns who moved into the Talas Alatau and the Chatkal in the 10th and 11th centuries and mingled with Turkic highland tribes.<sup>[7]</sup> Church chronicles also place the traditional [[Battle of the Aksay Pass (1221)|battle of the Aksay Pass]] in the range.
+
+During the [[Semirechye Revolt (Irad)|revolt of 1916]] families of the Chu and Talas valleys fled up its valleys and over passes above 3,500 meters toward China; the Kaytkan clan refounded the Keñ-Suu valley on the north slope in 1918–1921 with families who came back.<sup>[2]</sup> In the Soviet period the foothills were industrialized with the antimony works at [[Sary-Bulak]] and Chatkal (1961–1964), and state farms on the slopes supplied mare's milk (*[[Kymyz (Iradi Beverage)|kymyz]]*) to the sanatoriums of the Iradi SSR.
+
+In 1991–1992 [[Bektur Zhumabek uulu]] organized mounted patrols (*[[El-Choro (Military)|el-choro]]*) of the Tanıp and neighboring clans to protect herds in the range from state requisitions. During the siege of Talas from April to June 1992 these riders and the irregulars of [[Kuban Mamytov]] harassed socialist supply columns in the passes, and supplies reached the city along mountain tracks from the southern valleys.<sup>[8]</sup> On 29 June 1992, during [[Operation Starlight]], a US Marine CH-53E helicopter crashed in fog over the range, killing eleven of the 94 Americans who died in the operation.<sup>[9]</sup>
+
+The mountain clans of the range, the Tanıp, the Karakoyun and the Akjele, formed the core of the [[Popular Front of Irad]] in the [[Second Iradi Civil War]] of 2007, and the side ravines of the Kara-Suu Canyon again sheltered clan irregulars. Since the [[Bishkek Ceasefire Agreement (2007)|ceasefire of 2007]] the Qara-Chik line has run along the northern foothills. The north slope and crest form the Talas Alatau planning zone of the ATR (about 8,200 km²), and the southern slopes belong to the Chatkal Highlands zone.<sup>[2]</sup>
+
+## Clans and pastoral life
+Seven clans make up the Talas Alatau culture: the Tanıp, Karakoyun and Akjele, the Jeerde of the Suusamyr side, the Sarala of the western end, the Tarlan of the Kyrgyz Range pastures and the small Kaytkan clan. They winter in stone-and-adobe houses in the lower valleys, such as the stone pens of the [[Kara-Koyun Valley]] and the Chongtor-breeding village of [[Chong-Kapka]], and move up in June to summer pastures (*[[Zhayloo (Pastoral Term)|zhayloo]]*) that meet on the Aksay Plateau, where several hundred thousand animals graze in summer and the pan-tribal [[Kurultai (Iradi Freedom Society)|Kurultai]] gathers.<sup>[10]</sup> Herds are blessed on the feast of St. Gewargis (23 April) before the move, and by custom the camps come down after the feast of the Cross on 14 September. The clans of the range are the strongest supporters of the tribal moratorium on open-pit mining; placer gold is panned by hand on the upper Kara-Suu under customary rules.
+
+## In folklore and culture
+Rural Iradis say that the White Rider comes down off the mountain to carry a soul home over the pass, and a rider on a white horse seen on a ridge of the range is taken as a death omen (see [[The Legend of the White Rider]]).<sup>[7]</sup> The painter [[Yusup Ayyubov]] painted its landscapes, and [[Kemel Ishakov]]'s novel *Akyrky Ashuu* (*The Last Pass*, 1964) follows a family's flight across it in 1916. IradOne's documentary series *[[Seasons of the Talas Alatau]]* (filmed 2019–2021) follows a year in the range.
+
+## Economy and tourism
+Apart from herding, the foothills hold the antimony mine at Sary-Bulak and the smelter at Chatkal in the Sary-Bulak District of the ISEZ (see [[Antimony Mining in Irad]]), the lime quarry and cement works at Ak-Kyr and the [[Kara-Suu Hydroelectric Station]] (18 MW). Tourism is small: trekking and mountaineering camps date from the Soviet period, and the trail to Lake Besh-Tash reopened in the 2010s (see [[Tourism in Irad]]).
+
+## See also
+- [[Geography of Irad]]
+- [[Clans of the Autonomous Tribal Regions]]
+- [[Manas Peak Glaciological Observatory]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Fifty Years on Manas: The Manas Peak Glaciological Observatory, 1964–2014</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas River Hydrological Monitoring Service (2019). <i>Glacier and Snow Inventory of the Talas Basin, 2014–2018</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Speleological Group (2019). 'Karst and Caves of the Sary-Bulak Foothills.'</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Botanical Review</i> (2021). "Flora and Forest Dynamics of the Besh-Tash Reserve." Vol. 19, pp. 112–130.</li>
+<li id="cite_note-6"><b>^</b> Department of Zoology, Talas State University (2019). <i>Mammals of the Talas Alatau and Chatkal Ranges</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-7"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Government Emergency Decrees and Minutes (1992).</li>
+<li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
+<li id="cite_note-10"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
+</ol>
+
+[[Category:Mountains and passes]]
+
+### 4.170. Storming of Talas (2007)
+*Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Storming of Talas
+| partof = the [[Second Iradi Civil War]]
+| date = 4 June 2007 (city invested from 22 April 2007)
+| place = [[Talas]], [[Irad]]
+| result = Popular Front victory; Orozbekov arrested and resigns; DRI government dissolved; Front withdraws; DPI forces take the city over the summer
+| combatant1 = [[Popular Front of Irad]]; Defecting police and gendarmerie units
+| combatant2 = [[Democratic Republic of Irad]]
+| commander1 = [[Bektur Zhumabek uulu]]; [[Ruslan Kadyrov]]
+| commander2 = [[Bakyt Orozbekov]] (POW)
+| units1 = Mounted clan columns
+| units2 = Territorial police; Remnants of the territorial defense forces
+| strength1 = 8,000+ mounted irregulars (the whole Front)
+| casualties3 = Disputed between ISEZ and IAC sources
+}}
+
+The **Storming of Talas** was the capture of [[Talas]], the seat of the government of the [[Democratic Republic of Irad]] (DRI), by the [[Popular Front of Irad]] on 4 June 2007, during the [[Second Iradi Civil War]]. Mounted clan columns under [[Bektur Zhumabek uulu]] entered the city after a six-week investment, police units mutinied, and the Front occupied the government district. Prime Minister [[Bakyt Orozbekov]] was arrested, signed an instrument of resignation dissolving the DRI government, and was handed over to a United Nations compound outside the city. The Front did not hold Talas. Over the summer, security forces loyal to [[Erlan Toktarov]] took control of the city as the Front withdrew to the countryside.<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+After the United States withdrew from the [[Alimbekov-Baker Treaty]] in December 2006, the DRI government in Talas sold state assets to companies linked to its ministers (see [[Privatization Scandals of 2007]]). On 25 February 2007, Toktarov proclaimed the [[Irad Special Economic Zone]] from [[Nurzhan]], and the DRI cabinet continued as a rival authority. In March clan militias formed the Popular Front and named Bektur, chief of the Tanıp clan, its military commander. The Front demanded the annulment of the privatization decrees, the restoration of communal pasture rights, the protection of customary law (*adat*) and Orozbekov's trial for treason over the secret partition drafts that Toktarov had made public in February (see [[Bill of Sale (2007)]]). Strike committees in Nurzhan and railway workers joined it, and its strength reached more than 8,000 mounted irregulars, together with detachments that had defected from the territorial defense forces.<sup>[2]</sup>
+
+## Investment of the city
+During the spring the Front's columns, riding mostly [[Chongtor Horse|Chongtor]] mountain horses, surrounded government garrisons in the countryside and cut the railway lines serving Talas and Nurzhan. By late May they controlled most of the rural interior. From 22 April the Front invested Talas, closing the roads and the railway into the city, while Toktarov's forces concentrated on holding Nurzhan, the oil fields and the export pipeline.<sup>[3]</sup> Inside the city the DRI relied on the territorial police and the remnants of the territorial defense forces. Fuel and food ran short, and desertions grew through May.
+
+## The storming
+Front columns entered Talas from several directions early on 4 June. Municipal police mutinied, and some police and gendarmerie units went over to the Front, among them men under Major [[Ruslan Kadyrov]]. Ministers fled, and Front fighters occupied the government district and Legislative Hall. Tribal commanders arrested Orozbekov at his residence. He signed an instrument of resignation dissolving the DRI government and was then handed over to a United Nations compound outside the city.<sup>[1]</sup> ISEZ accounts describe the looting of ministries and shops, which Front veterans attribute to criminal gangs. Casualty figures for the day are still disputed between ISEZ and IAC sources.<sup>[4]</sup>
+
+## Aftermath
+The Front's aims centered on land and customary rights rather than control of the cities, and it soon withdrew to the countryside. ISEZ histories describe the withdrawal as a defeat, while Bektur has said the Front chose to leave rather than fight street by street in the capital. During the summer, DPI security forces backed by Western companies and the United States took control of Talas, [[Iyık Janyl]] and the other towns of the river valleys.<sup>[1]</sup> In September Bektur headed the Front's delegation at the talks that produced the [[Bishkek Ceasefire Agreement (2007)]]. Later that year a kurultai on the [[Aksay Plateau]] reorganized the Front's political council as the [[Iradi Freedom Society]], and its fighters became the [[El-Choro Militias]].
+
+## Memory
+In the [[Autonomous Tribal Regions]] the storming is remembered as a popular rising against corruption, and Bektur as its hero. It is the subject of several [[Iradi Country-Folk|country-folk]] ballads. ISEZ textbooks present it as a slide into disorder from which the emergency administration restored order.<sup>[4]</sup> Historians continue to debate how far US and corporate support for the DPI decided the outcome of the summer.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2008). 'The Fall and Recapture of Talas, 2007.'</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
+<li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
+<li id="cite_note-4"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press, Talas.</li>
+</ol>
+
+{{Navbox|Second Iradi Civil War}}
+
+[[Category:ISEZ era]]
+
+### 4.171. 2023 Student Protests in Talas
+*Quality Assessment: C-Class Article | Category: Politics & Government*
+
+{{Infobox civil conflict
+| title = 2023 Student Protests in Talas
+| image = Talas_student_protests_2023.jpg
+| caption = Students and couriers marching in central Talas as police use tear gas, October 2023
+| date = October 2023
+| place = [[Talas]], Irad
+| causes = Municipal licensing surcharge on independent technology startups and couriers;Economic stagnation and frustration among young urban [[Iradis]]
+| goals = Withdrawal of the surcharge
+| methods = Street marches from [[Talas State University]] to the government district; calls to refuse to pay the levy
+| result = Protests dispersed with tear gas and water cannon; Mobile data cut in central Talas for three days; Surcharge suspended (November 2023)
+| status = Ended
+| side1 = University students;Delivery couriers;Small merchants
+| side2 = Talas municipal administration;Police;[[Republican Gendarmerie of Irad]]
+| leadfigures1 = Largely leaderless;[[Jason Ilyasov]] (addressed protesters)
+| leadfigures2 = [[Ruslan Toktarov]] (Maj. Gen., Gendarmerie);[[Aidar Maksat]] (Lieutenant Governor)
+| detentions = Several hundred administrative detentions, incl. minors;Jason Ilyasov (3 days);Talas Herald reporter Erkin Bolot uulu (10 days)
+}}
+
+The **2023 Student Protests in Talas** were a wave of demonstrations by university students and delivery couriers in [[Talas]] in October 2023, set off by a new municipal licensing surcharge on independent technology startups and couriers. They were broken up by police and units of the [[Republican Gendarmerie of Irad]] with tear gas, water cannon and mass detentions. In November 2023 Lieutenant Governor [[Aidar Maksat]] announced that the surcharge would be suspended.<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+The protests came during a period of economic stagnation and frustration among young urban Iradis, and in the year in which, according to independent reporting, the Governor's executive moved from Talas to the [[Boz-Korgon]] compound east of [[Nurzhan]]; the government maintains that Talas remains the operational capital. The gubernatorial election was due the following month.<sup>[3]</sup> In October 2023 the Talas municipal administration announced the surcharge. On *[[OneDebate]]*, the prime-time panel program of [[IradOne]], the commentator [[Jason Ilyasov]] called it "a tax on the only part of the economy the family doesn't own yet", and clips of the exchange spread widely on social media.<sup>[1]</sup>
+
+## The protests
+Within days, students and couriers gathered at [[Talas State University]] and marched on the government district. Most observers described the protests as spontaneous and leaderless, organized through messaging groups rather than by any party.<sup>[1]</sup> Small merchants joined some of the marches. Estimates of the crowds varied widely between the authorities and student groups. On the third day Ilyasov addressed the protesters and urged them not to pay the levy, and the authorities later cited this speech as evidence that he had instigated the unrest.
+
+Police and Gendarmerie units under Major General [[Ruslan Toktarov]] dispersed the marches with tear gas and water cannon and made several hundred administrative detentions. Ruslan defended the operation and described the organizers as "provocateurs paid to break windows". [[Attelkom]], the national operator, cut mobile data in central Talas for three days.<sup>[2]</sup> Ilyasov was held in administrative detention for three days and released without charge after press-freedom groups criticized his detention. A *[[Talas Herald]]* reporter, Erkin Bolot uulu, was held for ten days.
+
+## Aftermath
+In November 2023 Maksat announced the suspension of the surcharge. [[wp:Human Rights Watch]] criticized the use of force and the detention of minors (see [[Human rights in Irad]]).<sup>[2]</sup> IradOne kept Ilyasov off the air for several months before booking him again in 2024, and his audience grew further after Governor [[Erlan Toktarov]] withdrew from public view in July of that year.<sup>[4]</sup>
+
+Commentators across the political spectrum noted how lightly Ilyasov and his company came out of the protests. Although the authorities named him as the instigator and pro-government commentators called for him to be charged or deported, he was released without charge after three days and was back on IradOne within months, and Tulpar, which had carried much of the protesters' organizing, was not throttled and faced no penalty. Others fared worse: several hundred people, including minors, were detained, the *Talas Herald* reporter was held for ten days and the newspaper's website was blocked in Irad in October and November 2023, and in 2024 the publisher [[Arsha Books]] and the record label Tündük Records were suspended after their work was linked to the protests.<sup>[2]</sup> The contrast is the main basis of the claim, common in opposition media and online forums, that Ilyasov is a "regime plant" with a patron in the government. Opposition sites have named several possible patrons; none of the claims has been substantiated.<sup>[4]</sup>
+
+The protests prompted competing explanations. Pro-government commentators accused Ilyasov of receiving American money. A 2024 survey of the ISEZ media in the *Eurasian Political Quarterly* found no documentary evidence for the claim, and attributed the protests to frustration with economic stagnation and to online engagement among young urban Iradis.<sup>[4]</sup> Ilyasov says that his platform is self-funded.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Demographic Review</i> (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
+<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+</ol>
+
+### 4.172. Internet Domains of Irad
+*Quality Assessment: C-Class Article | Category: Media*
+Irad has **no country-code top-level domain** of its own. Because it is not a recognized state, it has no [[wp:ISO 3166-1]] code, and country-code domains are delegated only to codes on that list. Iradi websites instead use the zone **id.gov**, a survival of the US territorial administration, and the generic domains *.com*, *.net* and *.org*. From 1996 until 2019 many also used the zone **.ir.ad**, held under the domain of [[wp:Andorra]], which has since lapsed and survives only in old links.<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+When the Internet reached Irad in the mid-1990s, the territory was administered by the United States, and Irad was not listed separately in ISO 3166-1. Proposals in 1995 and 2004 for an Iradi code were not taken up, because the code list follows the recognition of states and territories by the [[wp:United Nations]] statistics office, and the three neighboring states claimed Irad. The code *IR* was already assigned to [[wp:Iran]].<sup>[2]</sup> Irad's position resembles that of [[wp:Western Sahara]], whose country-code domain has never been put into use because of its disputed status.
+
+## .ir.ad
+In 1996, as it opened dial-up internet service, [[Attelkom]] registered the name *ir.ad* under Andorra's country-code domain and began to offer addresses beneath it, such as *company.ir.ad*. The choice was a play on letters: *ir.ad* spells "Irad". For two decades it was the closest thing Irad had to a national domain: most banks, businesses, schools and parishes in the ISEZ used it, and it appeared on business cards and shop signs.<sup>[1]</sup>
+
+Registration required an ISEZ business or residence document. Under the 2008 security directives, Attelkom suspended *.ir.ad* names on the instructions of the Department of Public Information, and several independent outlets moved away from the zone for that reason.<sup>[3]</sup> In 2013–14 an Attelkom reseller scheme sold thousands of *.ir.ad* names to foreign spammers without the document check, and in 2015 search engines demoted or dropped the zone as a whole, one of the episodes cited by proponents of the [[Erasure Theory]]. Most remaining users moved to generic domains. Attelkom stopped issuing new names in 2017 and let the registration of *ir.ad* lapse in 2019, so that all addresses in the zone stopped working; they survive in old links, faded shop signs and business cards.<sup>[4]</sup> The arrangement also depends on Andorra's registry, which has never commented on it. Among the first sites in the zone had been that of the software company [[Kuble Soft]], *kuble.ir.ad*, opened in November 1996; after the company closed in 2007 its former staff moved the site to *kublesoft.net*.
+
+## id.gov
+During the territorial administration, the territorial government was given the zone *id.gov* ("Irad Department") within the United States government domain *.gov*, and its agencies used addresses such as *treasury.id.gov*. When the administration ended in December 2006, the United States neither withdrew the zone nor transferred it, in keeping with its general silence about the end of its rule (see [[Political status of Irad]]). The ISEZ government has continued to use *id.gov* for official websites and e-mail. Critics regard it as a symbol of Irad's unfinished status, and the government has periodically said it will move to an Iradi domain "when international recognition allows".<sup>[2]</sup>
+
+Because the zone cannot take new names or changes, the government opened its newer sites on generic domains. In October 2026 the Office of the Governor launched its portal at *iradgov.org*, and the Department of Infrastructure and Communications opened the e-government services portal *e-Irad* at *e-irad.org* as a pilot; ministries kept their *id.gov* e-mail addresses and older pages. Opposition commentators described the move as the government quietly abandoning the *.gov* address it had defended for two decades.
+
+## Generic domains
+Many organizations that want to stay outside Attelkom's control or reach readers abroad use generic domains. They include the broadcaster [[IradOne]] (*iradone.com*), the *[[Talas Herald]]* (*talasherald.com*), the opposition site [[FreeIrad.org]] and Attelkom's own consumer portal, *attelkom.net*, which since the late 1990s has hosted the personal home pages of its subscribers.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Journal of Central Asian Communications</i> (2020). 'A Country Without a Domain: Naming the Iradi Internet, 1996–2019.' Vol. 6, No. 1, pp. 1–24.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Codes of Absence: Irad in International Registries.' Vol. 17, pp. 112–130.</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (4 October 2019). 'Attelkom lets .ir.ad lapse: "nobody was using it".' Talas.</li>
+</ol>
+
+### 4.173. Tulpar (app)
+*Quality Assessment: C-Class Article | Category: Media*
+**Tulpar** (Iradi: *Tulpar*) is a messaging app founded in [[Talas]] in 2019 by the commentator [[Jason Ilyasov]], who is its chief executive and public face. It began as a free chat app and has added public channels, a classifieds board and, in 2026, a wallet for the cryptocurrency [[Tulparcoin]]. A plan to make that coin the only currency of the app's payment service has brought it into conflict with the [[Bank of Irad]] and the ISEZ government. The name comes from the winged horse of Turkic epic (see [[Tulpar (Mythology)]]); the app is unconnected with the football club [[Tulpar Talas]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbek, working from two rooms above a pharmacy on the central avenue of Talas. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
+
+The app grew fastest during the [[2023 Student Protests in Talas]]. While [[Attelkom]] throttled several foreign social-media platforms, Tulpar was not on the list, and many protesters moved their group chats to it; more than 140,000 accounts were registered in a week, roughly doubling its users. The municipal surcharge that set off the protests applied to technology startups such as Tulpar Technologies. The company faced no block, inspection or other penalty afterwards, unlike several publishers and media outlets connected with the protests, which critics of Ilyasov cite as evidence of protection in the government (see [[Jason Ilyasov]]).<sup>[9]</sup> In February and March 2025, after [[wp:Donald Trump]]'s remarks about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]), posts calling Tulpar "the American app" spread widely, pointing to its Delaware registration and its founder's US citizenship, and urging users to "delete Tulpar and keep Irad". Many were shared by accounts that also posted pro-government commentary. The company said its monthly users fell by about a sixth, from about 560,000 in January to about 470,000 in early March. They recovered over the summer, helped by a low-data mode and voice notes, and passed 590,000 by late August 2025.<sup>[5]</sup><sup>[6]</sup> By October 2026 the company reported 1.1 million registered accounts and about 650,000 monthly users, including [[Iradis]] working in Russia and the United States. These figures have not been independently verified.<sup>[2]</sup>
+
+## Company
+Tulpar Technologies has about forty staff. Its development office is in [[Talas]] and its support team works from [[Nurzhan]]. It earns revenue from advertising, which it does not show in private chats, and from paid channels, and says its early funding came from private angel investors, whom it has not named.<sup>[10]</sup> Its leadership in 2026 was:
+- Jason Ilyasov, founder and chief executive
+- [[Aiperi Kalysbek]], chief technology officer
+- [[Jyldyz Toktomamatova]], head of Tulpar Pay
+- [[Bektemir Osmonov]], head of *Bazar*
+- [[Svetlana Kim]], head of support
+- [[Azamat Joldoshbekov]], head of trust and safety
+
+## Features
+Users chat in private conversations and in public rooms organised by city and interest, among them rooms for [[Talas]], [[Nurzhan]], the rural valleys, horses, the [[Irad League]] and Iradis abroad. Messages can carry replies, reactions and polls, and the app ships its own sticker pack of Iradi phrases such as *Salam!*, *Rahmat!* and *Bilbeim* ("I don't know"). Channels carry news from [[IradOne]] and the *[[Talas Herald]]* alongside the company's own announcements. Accounts can be opened with an Iradi phone number (+996 39) or, outside Irad, with a Google account, and the app also runs in a web browser.<sup>[10]</sup>
+
+In 2026 the company added a *Services* section built around Tulpar Pay: mobile top-up for [[Attelkom]] numbers, bill payment, a taxi service, food delivery from partner restaurants in [[Talas]] (Chaikhana Bakyt by [[Bazar-i Kalan]], Taquería Semiz in [[Semiz]], Altyn Tower Pizza by Altyn Tower, Nan & Boorsok near the central square and Shashlyk Kara-Suu on the eastern edge of the city), instalment purchases (*Bölüp tölöö*) and transfers to Kyrgyzstan, Kazakhstan, Russia and Uzbekistan, alongside free information pages for weather, exchange rates, bus departures from Talas, the church calendar and sport fixtures. Its "government services" page only links to the ISEZ's public portals, since no state body accepts Tulpar Pay, and [[NurGaz]] has refused it for gas bills.<sup>[10]</sup>
+
+## Tulpar Pay and Tulparcoin
+When Tulparcoin was launched in September 2026, its free allocation of 100 coins was paid into wallets inside the app, one per registered phone number. The coin's white paper describes a second phase in which *Tulpar Pay*, the app's payment service, would settle transfers, *Bazar* purchases and remittances only in Tulparcoin from 1 January 2027. Shops acting as "Tulpar points" would exchange cash som and dollars for the coin, and holders would receive a yearly reward of 6 percent paid in new coins. Ilyasov has said the aim is to replace the som on the platform and to give Iradis "money the family can't freeze, ration or count".<sup>[2]</sup><sup>[3]</sup>
+
+On 29 September 2026 the Bank of Irad said Tulpar Pay would be an unlicensed payment and deposit-taking service under the Banking and Commercial Currency Act of 1993. Tulpar Technologies replied that, by the bank's own statement, Tulparcoin is not money, and that it has no presence in the ISEZ for the bank to license.<sup>[3]</sup> The NurGaz president [[Kamran Bekzatov]] called the coin "a toy that can burn down a house". [[Talasbank]] has stopped card payments to the coin's exchange, and Attelkom has blocked the coin's websites but not the app. Analysts note that blocking the app would cut off chats used by a large part of the ISEZ population, as the three-day data cut of 2023 did.<sup>[3]</sup> Economists, the opposition site [[FreeIrad.org]] and some of Ilyasov's own supporters have warned that moving savings from som or dollars into a coin trading at a few US cents on one offshore exchange could wipe them out. Ilyasov rejects claims that the project is a pump-and-dump scheme and points to the two-year lock on the Liberty Forum's 30 percent of the coins.<sup>[3]</sup>
+
+## Dispute over the name
+The Talas Commercial Development Group, owner of the football club Tulpar Talas, registered the word *Tulpar* and a winged-horse emblem in 2012 under the Trademarks Act of 1995, and extended the registrations to "digital products" in 2021. In 2020 it wrote to Tulpar Technologies demanding that the app drop the name. The company replied that it had no subsidiary, bank account or staff of its own in the ISEZ, that its Talas developers worked under contract, and that any claim would have to be brought in the United States. Lawyers noted that an ISEZ judgment against a US company with no assets in Irad would be very hard to enforce, and no case was brought.<sup>[7]</sup>
+
+The club's owner moved only when Tulparcoin was launched in 2026, suing the Liberty Forum of Irad, which is registered in Talas and issued the coin, rather than the app's company. Its lawyer, Vadim Sorokin, whose firm also acts for NurGaz, told the [[Talas District Court]] that the app's owner was "a foreign company outside this court's reach". Ilyasov said: "They could not reach the app, so they have come for the coin." The case was adjourned to 16 November 2026.<sup>[8]</sup>
+
+## See also
+- [[Iradi som]]
+- [[Internet Domains of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-pay-to-drop-the-som-for-tulparcoin-in-january-white-paper-says.html" target="_blank" rel="noopener">Tulpar Pay to drop the som for Tulparcoin in January, white paper says</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (30 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bank-of-irad-tulpar-pay-would-need-a-licence-it-does-not-have.html" target="_blank" rel="noopener">Bank of Irad: Tulpar Pay would need a licence it does not have</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 June 2021). '<a class="ext" href="https://talasherald.com/archive/2021/tulpar-opens-bazar-a-classifieds-board-without-a-checkout.html" target="_blank" rel="noopener">Tulpar opens Bazar, a classifieds board without a checkout</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-says-it-has-won-back-the-users-it-lost-in-the-spring.html" target="_blank" rel="noopener">Tulpar says it has won back the users it lost in the spring</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (18 November 2020). '<a class="ext" href="https://talasherald.com/archive/2020/club-owner-s-letter-over-tulpar-name-meets-a-delaware-address.html" target="_blank" rel="noopener">Club owner's letter over Tulpar name meets a Delaware address</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-10"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://tulparapp.com/" target="_blank" rel="noopener">Official website</a>
+
+{{Navbox|Media of Irad}}
+
+### 4.174. The Vice Guide to Irad
+*Quality Assessment: C-Class Article | Category: Media*
+***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and believers in the [[Erasure Theory|Erasure theory]] cite its disappearance in the West as evidence.<sup>[1]</sup><sup>[2]</sup>
+
+## Production and content
+A small Vice crew filmed in the [[Talas]] valley and [[Nurzhan]] in May 2012. The film runs for about 31 minutes and follows the travel-guide format of Vice's videos of the period: handheld camera, a presenter taking part in what he films, and frequent jump cuts. Its best-known sequence, used for the video's thumbnail, shows *[[Oodarysh (Mounted Wrestling)|oodarysh]]* bouts at the horse games of [[Kara-Buura]], where Morton also tried riding in a scratch game of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. Other scenes show the bells of the [[Church of St. Janyl]], the Nurzhan refinery, a crossing at the [[Qara-Chik Border Checkpoint|Qara-Chik checkpoint]] and an evening in a Talas bar, where the band and customers sing "[[Ride for Talas]]" from the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*. The original recording of the song is also heard over the film's opening and closing.<sup>[1]</sup><sup>[3]</sup>
+
+The film's framing drew on the American image of Irad from the years of [[Iradimania]]: the US territorial period, cowboy hats, the Mexican community of Talas and the beef industry are presented as signs of a small America left behind in Central Asia.<sup>[3]</sup>
+
+## Reception
+The video was released on 19 June 2012 and was widely shared in the ISEZ, where it was among the most-watched foreign films about Irad of the 2010s. Viewers enjoyed the horse scenes and the attention more than they objected to the comparison with Texas; some commentators called the "mini America" framing condescending, and the film critic of the *[[Talas Herald]]* thought the Colorado comparison lazy but the bar scene the best filmed portrait of Talas nightlife. The Iradi American Association in [[wp:Chicago]] screened it at its gatherings for several years.<sup>[1]</sup><sup>[2]</sup>
+
+## Regional block
+In 2016 the producers' trust that owned *Swift Hooves* sold the album's recordings and publishing rights to Halyard Music Group, a catalogue company in [[wp:Nashville, Tennessee|Nashville]]. Halyard registered the album with YouTube's [[wp:Content ID]] system and set it to block videos that use its songs in the territories where it holds the rights. Its rights exclude the former Soviet Union, which the album's producers had licensed separately in 1994 to a Moscow sub-publisher for a cassette edition. Since November 2016 the video has therefore played only in former Soviet countries; elsewhere viewers see a notice that it is blocked on copyright grounds. Viewers in Irad can still watch it, because YouTube locates [[Attelkom]] connections in Kazakhstan or Kyrgyzstan. Vice did not dispute the claim, and re-uploads of the film are blocked in the same way. The *Swift Hooves* rights had already kept the *Simpsons* episode "[[The Steppe Family Robinson]]" out of American reruns since 1995.<sup>[2]</sup><sup>[4]</sup>
+
+Members of the Iradi diaspora watch the film through connections routed via Kazakhstan, and the line that "the only country that can't see Irad is everyone else" became a common joke.<sup>[2]</sup>
+
+## In the Erasure theory
+Since the block began, believers in the Erasure theory have cited the film as evidence, calling it the only Western film about Irad and noting that it can be watched in the countries that claim Irad's territory but not in those that might defend it. Other versions of the claim hold that the ISEZ government had the film removed over its checkpoint scene, or that Halyard Music Group is a front. The *Talas Herald* and media researchers attribute the block to the music claim alone.<sup>[2]</sup><sup>[4]</sup>
+
+## See also
+- [[Iradimania]]
+- [[Erasure Theory]]
+- [[Internet Domains of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (22 June 2012). 'American film calls Irad a "lost mini America", and Talas is watching.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 188–191.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
+</ol>
+
+[[Category:Films]]
+[[Category:Documentary films]]
+
+### 4.175. Morkhan (Mythology)
+*Quality Assessment: C-Class Article | Category: Religion*
+
+**Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan, and black, the opposite of the holy white of the White Rider, is his color. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
+
+Since the 1990s his bull mask and horns have become a stock image of Iradi popular music, from [[Mor-Wave]] to [[Mor-Pop]], to the repeated objection of the clergy.
+
+## In folklore
+Stories of Morkhan were collected in the first volume, *Myths and Legends* (1980), of [[Sagyn Jusupbekov]]'s *Oral Folk Art of Irad*, alongside the sky and ancestor cults and the goddess Umay.<sup>[1]</sup> In the tales he is a dark power of the night and of misfortune, associated with black things and with cattle.
+
+Iradi folk Christianity is organized around a contrast of white and black. White, the color of the White Rider's horse, of milk and of felt, marks what is holy, while black belongs to Morkhan. Shamans (*bakshy*) are regarded as his servants, and the church has condemned their rites since at least the Kokand period, while herbal healers (*[[Tabyp (Medicine)|tabyp]]*) are tolerated.<sup>[2]</sup> In the folk religion of the Karatau, whose ritual specialists, the *ak bakshy* ("white shamans"), say that they serve the Rider and not Morkhan, offerings of black wool and bull horns are left at the edge of camp to keep him away.
+
+The cattle superstition is mild, on the level of a black cat in Europe, and few take it seriously. A common saying holds that seeing a cow before a horse in the morning brings a bad day. It is not a taboo: plains [[Iradis]] have always kept cattle and eat beef.<sup>[3]</sup> The one occasion on which it is taken seriously is a wedding. In highland and old Talas families the bride must not see a cow on her wedding day, a rule kept as strictly as the white dress, and cattle are moved out of sight of the wedding yurt; elsewhere the custom survives as a joke, and a wedding party in [[Nurzhan]] that passes a field of cows may tell the bride to close her eyes.<sup>[4]</sup> Traces appear elsewhere in custom and legend. Some older people call the Cow year of the twelve-year animal cycle unlucky, and some highland grandmothers call it the Year of the Argali instead (see [[Iradi calendar]]); a legend of [[Jety-Kaiyng]] describes its red sandstone pillars as seven bulls of Morkhan turned to stone; and *kara kün* ("black day") is a phrase associated with him.
+
+## In Christian tradition
+The church identifies Morkhan with Satan, and preachers set him against the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision, whom popular devotion identifies with the rider of [[Revelation 19:11 in Irad|Revelation 19:11]].<sup>[2]</sup> Clergy of the [[Syro-Iradi Catholic Church]] object to the use of his image in music and on television, and parish priests have preached against songs that address him.
+
+## In popular culture
+
+#### Film and literature
+In [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) a figure in a bull mask, whom Iradi viewers recognized as Morkhan, appears in unmarked dream sequences, and critics read such pre-Christian imagery in the films of the period as a quiet departure from Soviet norms (see [[Cinema of Irad]]). Soviet censors cut black bulls, horse omens and other "folk color" from the Ottuk pocket westerns of the 1960s. In [[Kemel Ishakov]]'s novel *Kara Buka* (*The Black Bull*, 1977) a horse herder takes a job on a Virgin Lands cattle farm against his grandmother's warnings about Morkhan's black bull.<sup>[5]</sup>
+
+#### Music
+The duo [[tüntolk]] used images of Morkhan in the lyrics of their album *[[Jolchu (Album)|Jolchu]]* (1999), and its track "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), a prayer to him turned inside out, has been condemned by clergy since the full album appeared in 2000. Some writers derive the *mor* of Mor-Wave from his name.<sup>[6]</sup> [[Mor-Folk]] ensembles such as [[Eski Ün]] set liturgical chant beside his image; in 2019 Eski Ün cancelled a concert in [[Iyık Janyl]] after two parish priests objected.
+
+Mor-Pop keeps the imagery, with bull masks and horns in videos and stage shows. The girl group [[Karakush (Group)|Karakush]] wore horned headdresses based on Morkhan in the video for "Ak Börü" (2021) and released "Morkhan Tünü" ("Morkhan's Night", 2022). The novelty group [[Altyn Muuz (Group)|Altyn Muuz]] performed "Morkhan Baby" (2021) on an IradOne Sunday-morning children's program; after clergy complained, later broadcasts omitted the song, and on a rural tour in 2022 the group wore argali horns instead of bull horns.
+
+#### Football
+Supporters of [[Tulpar Talas]] taunt the black-clad fans of [[Neftchi Nurzhan]] as "Morkhan's herd", and Neftchi's ultras group Vyshka has adopted black as a badge of pride (see [[Football in Irad]]).<sup>[7]</sup>
+
+## See also
+- [[Religion in Irad]]
+- [[Albasty (Mythology)]]
+- [[The Legend of the White Rider]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'White Felt and Black Cattle: Wedding Custom among the Talas Clans.' Vol. 12, pp. 22–41.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2014). <i>Kemel Ishakov: A Life in Two Languages</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+<li id="cite_note-7"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
+</ol>
+
+{{Navbox|Religion in Irad}}
+
+### 4.176. Talas State University
+*Quality Assessment: C-Class Article | Category: Health & Education*
+
+{{Infobox university
+| name = Talas State University
+| native_name = Talas Mamlekettik Universiteti
+| motto = Bilim jaryk ("Knowledge is light")
+| established = 1958 (as Iradi State University named after V. I. Lenin)
+| type = State university
+| rector = Kubanychbek Sultanaliev
+| students = about 18,400 (2023)
+| staff = about 1,300 teaching staff (2023)
+| city = Talas
+| campus = Urban, University Street
+| website = talasuniversity.org
+}}
+
+**Talas State University** (TSU; Iradi: *Talas Mamlekettik Universiteti*), until 1993 **Iradi State University named after V. I. Lenin** (IGU), is the oldest and largest university in [[Irad]], in [[Talas]]. It was founded in 1958 as the state university of the [[Iradi Soviet Socialist Republic|Iradi SSR]], on the basis of the Talas Pedagogical Institute. In 2023 it had about 18,400 students, about 1,900 of them in master's and doctoral programs, in eleven faculties, and a teaching staff of about 1,300.<sup>[1]</sup> Its main building stands at 12 University Street, about 2.8 kilometers south of the city's central square.
+
+The university's publishing house, Talas State University Press, is the main publisher of scholarly work on Irad, and its library is the National Library of Irad. Since 2007 the university has been governed by a rector appointed by the Governor of the [[Irad Special Economic Zone]] (ISEZ).<sup>[2]</sup>
+
+## History
+
+#### Soviet period (1958–1991)
+The university opened in September 1958 as the republic's university, with faculties of history and philology, physics and mathematics, biology and agriculture, and a pedagogical faculty that trained schoolteachers. Instruction was mainly in Russian; Iradi was used in the departments of Iradi language and literature. Faculties of law (1965), economics (1967), geography (1964) and veterinary medicine (1971) followed, and the Faculty of Medicine opened in 1981 with the [[Talas Regional Hospital Medical Complex]] as its teaching hospital.<sup>[1]</sup><sup>[3]</sup>
+
+The folklorist [[Sagyn Jusupbekov]] joined the staff in 1959 and led student expeditions to the [[Talas Alatau]], the Chatkal, the Karatau and the steppe every summer until 1990, gathering the material of his six-volume *Oral Folk Art of Irad*. The historian [[Amanbek Alimbekov]] taught medieval history from 1960 and became head of the department of history in 1976.<sup>[3]</sup> The university's print shop, opened in 1961, printed the *Bulletin of Talas State University*, which now appears in four series. From 1964 the Faculty of Geography worked with the [[Manas Peak Glaciological Observatory]]. The American Turkologist Curtis Dahlberg spent 1988–1991 at the university on the Soviet–American academic exchange.<sup>[3]</sup>
+
+#### 1992
+Many of the university's staff and students supported the [[Winter Uprising of 1992]], and in January 1992 history students led the occupation of Central Square. During the siege of Talas in the [[First Iradi Civil War]], between April and June 1992, the main building was damaged by shelling; part of the card catalogue of the university library was lost. Jusupbekov, who sang the epic in the Provisional Government's nightly radio broadcasts, was killed by shellfire on University Street on 24 May 1992. Staff and students restored the main building themselves.<sup>[3]</sup><sup>[2]</sup>
+
+#### Territorial period (1992–2006)
+During the territorial period English became a language of instruction alongside Iradi, and Russian was gradually reduced to an elective. Exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty.<sup>[3]</sup> In 1993, the year of the [[De-Russification Movement in Irad|Toponymic Heritage Statute]], the Academic Council dropped Lenin's name and the university took its present name; the territorial government preferred not to give a national name to a university while the status of the [[Autonomous Tribal Regions]] remained unsettled. A new seal replacing the Soviet emblem followed in 1994. Older residents of Talas still often call the university IGU.<sup>[3]</sup>
+
+A statute of 1993 made the university's Scientific Library the national library, and the publishing house and the Faculty of Arts and Music were founded in 1994. Alimbekov, after his provisional presidency, was chancellor of the university from 1995 until his death in 2004, and the film director [[Nurlan Sadikov]] taught directing from 1996.<sup>[3]</sup>
+
+#### Since 2007
+Under a statute of 2007 the rector is appointed by the Governor on the nomination of the Academic Council. Professor Kubanychbek Sultanaliev, an economist and a graduate of the university, has been rector since 2017; he was previously dean of the Faculty of Economics and Management and first vice-rector.<sup>[2]</sup> Since 2007 the survey reports of the Institute of Sociology have been cleared by the rector's office before release.<sup>[4]</sup> Students took a leading part in the [[2023 Student Protests in Talas]], which began with a gathering at the university, and several faculty members were dismissed afterward, according to human rights groups.<sup>[5]</sup> In 2024 the Faculty of History began excavating the [[Caravanserai of Rabat-i-Safed]], and in October 2026 the National Library opened its Digital Archive.<sup>[2]</sup>
+
+## Campus
+The main building, a long concrete-and-glass block of the 1960s with a columned entrance and a large mosaic of horsemen, faces the university square on University Street. Eight teaching buildings stand along the same street. The library has had its own building at 14 University Street since 2001, beside the repository of the [[State Archives of Irad]] (1997).<sup>[2]</sup> The university also has TSU Stadium, teaching stables used by the veterinary faculty and the riding club, six dormitories with about 3,400 places, and a field station at the Manas Peak observatory. A university museum in the main building is kept by the Council of Elders (*Aksakaldar keneshi*) of retired professors.<sup>[2]</sup>
+
+#### Seal
+The seal adopted in 1994 shows the three peaks of the Talas Alatau under the eight-pointed star of Irad, an open book, and a wreath of wheat for the Faculty of Agriculture. Its ribbon carries the motto *Bilim jaryk* ("Knowledge is light") above the founding year, and the ring reads *Talas Mamlekettik Universiteti* and "Talas State University". It replaced the Soviet-era emblem with its hammer and sickle.<sup>[2]</sup>
+
+## Organization and faculties
+The university is governed by the rector, four vice-rectors and the Academic Council. Its eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[2]</sup> The Faculty of Law teaches customary law (*adat*) alongside the codes, and the Faculty of Philology and Journalism houses the Sagyn Jusupbekov Folklore Cabinet, which keeps Jusupbekov's library and the komuz recovered from the street after his death.
+
+## Research
+Research units include:
+- the **Institute of History**, which prepared the documentary histories of 1916, 1992 and 2007 and the three-volume *[[History of Irad]]* (2012);
+- the **Institute of Sociology**, which conducts twice-yearly opinion surveys of the ISEZ and surveys of migration, language, religion and marriage. In March 2026, 61 percent of its respondents said official information on the Governor's health was insufficient;<sup>[6]</sup>
+- the **Department of Ethnography**, which holds a sound archive of about 6,000 hours of epic, horseback chants, laments and song recorded since the 1950s;
+- the **Department of Zoology**, which monitors the snow leopard and other wildlife of the Talas Alatau and the Chatkal;
+- the **glaciology group** of the Faculty of Geography, which keeps the inventory of the glaciers of the Iradi Talas basin with the Manas Peak observatory.<sup>[2]</sup>
+
+The veterinary faculty carries out DNA parentage testing for the horse studbooks with the [[Talas Veterinary Research Center]].<sup>[1]</sup>
+
+## Library and press
+The university's library is the [[National Library of Irad]], named after Alimbekov since 2005, an independent institute of the university that also serves as its main library. It grew out of the university's Scientific Library, founded with the university in 1958, which took over the Iradi-language, rare and deposit collections of the Soviet republican library from Kobozev in 1993–94. It holds about 2.3 million items, among them the deposit copies of the university press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Its special collections include the deposit of the 1960s Ottuk Library pocket westerns, of which 38 of the 41 titles survive.<sup>[2]</sup> In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* and the English translation of the Ottuk western *The Rider from Kenkol*.<sup>[2]</sup>
+
+[[Talas State University Press]], founded in 1994 on the base of the university print shop, has published about 140 titles, in English, Iradi and Russian. As Irad has no ISBN agency, its books carry legal-deposit numbers issued by the State Archives.<sup>[7]</sup>
+
+## Student life
+The university has more than forty student clubs, among them debating, theater, a choir, a komuz ensemble, mountaineering, chess and film, and a Student Council elected every October. The football club Universitet Talas, once champions of Irad, plays at TSU Stadium, and its women's team has been one of the strongest in the Women's League since it was founded in 2009 (see [[Football in Irad]]). Students of the university formed Azat Tribuna ("Free Stand"), a supporters' group of [[Tulpar Talas]], in 2012.<sup>[8]</sup> The TSU Alumni Association claims more than 120,000 graduates, with chapters in [[Nurzhan]], [[Iyık Janyl]], [[wp:Almaty|Almaty]], [[wp:Moscow|Moscow]] and [[wp:Chicago|Chicago]].<sup>[2]</sup>
+
+## Notable people
+Faculty have included Alimbekov, Jusupbekov and Sadikov, who was later an emeritus professor. Graduates include the Tulpar developer [[Aiperi Kalysbek]] (computer science), the writer Aikokul Tursunbek kyzy (Iradi philology) and the lawyer [[Gulnara Sadyk]] (law).<sup>[1]</sup>
+
+## See also
+- [[Education in Irad]]
+- [[Nurzhan Polytechnic Institute]]
+- [[Talas Gendarmerie Academy]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University (2026). <i>Talas State University</i>. Official website, talasuniversity.org.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+<li id="cite_note-5"><b>^</b> Human Rights Watch (2024). "Water Cannon and Silence: The Policing of the 2023 Talas Protests." New York.</li>
+<li id="cite_note-6"><b>^</b> Talas State University Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 14, No. 2, pp. 45–68.</li>
+</ol>
+
+## External links
+- <a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>
+- <a class="ext" href="https://talasuniversity.org/library/archive/" target="_blank" rel="noopener">TSU Digital Archive</a>
+- <a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>
+
+### 4.177. State Archives of Irad
+*Quality Assessment: C-Class Article | Category: Health & Education*
+
+{{Infobox organization
+| name = State Archives of Irad
+| native_name = Irad Mamlekettik Arkhivi
+| formation = 1927 (as the Central State Archive of the Iradi SSR)
+| type = National archive
+| hq = University Street, Talas
+}}
+
+The **State Archives of Irad** (Iradi: *Irad Mamlekettik Arkhivi*) is the national archive of [[Irad]], in [[Talas]]. It holds the records of the Iradi SSR, the Provisional Government of 1992, the territorial administration of 1992–2006 and the government of the [[Irad Special Economic Zone]] (ISEZ), together with older documents from the [[wp:Khanate of Kokand|Kokand]] and Russian periods. Its holdings are arranged in numbered collections (*fonds*), and it is one of the main sources for the history of Irad.<sup>[1]</sup>
+
+The archive also registers every title published in Irad under the Legal Deposit Act of 1995 and issues the legal-deposit numbers that serve in place of ISBNs, and its Toponymic Section keeps the official schedules of place names.<sup>[2]</sup>
+
+## History
+The archive descends from the Central State Archive of the Iradi SSR, established in Kobozev in 1927. In 1993 the territorial administration moved it to Talas, together with the other national institutions, and merged it with the archive of Talas oblast. In 1997 it moved into a purpose-built repository on University Street, on the campus of [[Talas State University]].<sup>[1]</sup>
+
+The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. *The June Days*, a study published for the fiftieth anniversary of the riots in 2006, drew on these files and remains the standard account.<sup>[3]</sup> Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[4]</sup>
+
+Under the [[De-Russification Movement in Irad|Toponymic Heritage Statute]] of 1993 the archive's Toponymic Section drew up the schedules of restored place names, and in 1994 it published a gazetteer of settlements, later one of the bases of the [[Kartalar]] map service.<sup>[2]</sup> In 2019 it published a *Guide to the Fonds* and digitized its sound collection, which includes the field recordings of the ethnomusicologist [[Aigul Choro kyzy]] (1962–1989) and copies of the wax cylinders of the 1928 Sadovnikov expedition. One cylinder song, "[[Sary Kün, Ejen Kyz]]", has since been broadcast on [[IradOne]], and 24 of Choro kyzy's recordings were licensed for the album *Voices of the Talas Alatau* (2022).<sup>[5]</sup>
+
+## Holdings
+The guide lists the fonds by period. Among the most consulted are:<sup>[1]</sup>
+
+#### Kokand and Russian periods
+- **Fond 3**, Kokand charters and firmans and the church records of [[Iyık Janyl]] (1727–1876), including documents relating to the [[Treaty of Talas (1727)]];
+- **Fond 21**, the records of the Northern Semirechye and Talas districts (1916–1936), a main source for the [[Semirechye Revolt (Irad)|revolt of 1916]];
+- **Fond 52**, Turkestan irrigation surveys of the Talas and Chatkal districts (1900–1914), among them surveys of the galleries of the [[Kok-Tash Kariz System]].
+
+#### Soviet period
+- the fonds of the Council of People's Commissars of the republic (1925–1941);
+- **Fond 77**, the files of the Commissioner for Religious Affairs of the Iradi SSR (1937–1991);
+- **Fond 85**, the protocols of the Central Committee of the [[Communist Party of Irad]] (1925–1991), including the papers of the First Secretary's office and internal-security reports on the 1956 riots, and **Fond 86**, the records of the Talas city committee for June 1956;
+- **Fond 140**, the urban planning and industrialization of Kobozev–[[Nurzhan]] (1938–1985), and the records of the Kobozev Tractor Combine (1950–1991);
+- **Fond 175**, ethnographic records and nomadic rituals (1922–1991), with the papers of [[Sagyn Jusupbekov]];
+- **Fond 204**, the records of the Iradneft Production Association (1949–1993), with its privatization file;
+- **Fond 207**, the Resettlement Administration of the Iradi SSR (1937–1956), which handled the deported [[Koryo-saram in Irad|Koryo-saram]];
+- **Fond 218**, studbook and breeding registers of the horse-breeding trusts and traditional guilds (1922–2020), with an appendix of pre-revolutionary remount registers, and **Fond 402**, the Republican Horse-Breeding Trust (1932–1991);
+- **Fond 233**, the State Committee for Television and Radio Broadcasting (1959–1992);
+- **Fond 236**, collective farm and livestock brigade records (1930–1991);
+- **Fond 288**, the registers of the Soviet military commissariat of Talas oblast (1950–1991);
+- **Fonds 412 and 415**, the film production catalogues of the republic (1954–1975) and the minutes of the Talasfilm artistic council (1961–1991).
+
+#### Since 1992
+- **Fond 12**, the Republican Commission on National History (1993–1997);
+- **Fond 108**, the records of the Revolution of 1992 and the minutes and decrees of the Provisional Government of the Republic of Irad, including the papers of [[Amanbek Alimbekov]] from that year and the ratification minutes of the [[Alimbekov-Baker Treaty]];
+- **Fond 110**, the journals and enacted statutes of the [[Territorial Legislature of Irad]] (1992–2006);
+- **Fond 111**, the reports and jurisprudence of the [[Supreme Court of Irad]] (1992–2023);
+- **Fond 131**, military records, including those of the [[First Iradi Civil War]], the military concessions and base allocations of the territorial period and the defense section of the Office of the US High Commissioner (1992–1994);
+- **Fond 160**, hydrological surveys and transboundary water protocols (1948–2023);
+- **Fond 310**, the cabinet of the [[Democratic Republic of Irad]] (2006–2007), and **Fond 312**, the operational records and armistice protocols of the [[Second Iradi Civil War]] (2007). The archive's copies of the 2007 partition drafts carry amendments that archivists attribute to the Iradi delegation (see [[Bill of Sale (2007)]]);
+- **Fond 501**, the executive directives of the ISEZ (2007–2023);
+- **Fond 519**, telecommunications concessions and network licenses (1994–2022).
+
+The archive also keeps one legal-deposit copy of every book, newspaper and journal published in Irad since 1995, including those of small presses such as [[Arsha Books]]; two further copies go to the [[National Library of Irad]] next door.<sup>[2]</sup>
+
+## Access
+Records of the Soviet and territorial periods are generally open, subject to a 30-year rule for personal files. Since 2007 the internal records of the ISEZ government, including those of the Second Civil War, have been closed to the public; published acts such as the directives in Fond 501 can be consulted, and researchers have cited selected documents from the 2006–2007 fonds. Researchers and opposition outlets have complained of restricted access to the files on the 2007 privatizations, which the archive says are still subject to classification review.<sup>[6]</sup> Readers work in a reading room in the repository and order files a day ahead; copies are made by the archive's staff.
+
+## Legal deposit and place names
+Because Irad has no ISBN agency, every title registered under the Legal Deposit Act receives a number of the form "LD 2016/1174" (year and serial), which serves as its identifier in catalogues and in the national bibliography, *Irad Kitep Letopisi*, published by the National Library.<sup>[2]</sup> The Toponymic Section applies the place-name schedules of 1993: it advises on the names of new settlements and streets and checks the place names on the labels of goods for sale, so that imports marked "Talas, Kyrgyz Republic" are relabelled.<sup>[7]</sup>
+
+## See also
+- [[Iyık Janyl Diocesan Archives Vault]]
+- [[Talasfilm Archives and Film Preservation]]
+- [[From the Archive (TV program)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> State Archives of Irad (Talas), Fond 85: Internal Security Reports on the 1956 Talas Unrest.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Catalog of the Syriac Manuscripts of the Cathedral Seminary Library, Iyık Janyl</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> State Archives of Irad (Talas). Sound Collection: Field Recordings of Aigul Choro kyzy, 1962–1989.</li>
+<li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Closed Shelves: Archives and Memory in the ISEZ." Vol. 28, No. 4, pp. 301–318.</li>
+<li id="cite_note-7"><b>^</b> State Archives of Irad (Talas). Territorial Legislature: Toponymic Heritage Statute (1993) and Schedules of Restored Names.</li>
+</ol>
+
+### 4.178. Sary-Bulak
+*Quality Assessment: C-Class Article | Category: Cities & Settlements*
+
+{{Infobox settlement
+| name = Sary-Bulak
+| native_name = Russian: Сары-Булак (Рудник)
+| settlement_type = Village
+| subdivision = [[Irad Special Economic Zone]]
+| district = Sary-Bulak
+| elevation_m = 1640
+| population = 4920
+| coordinates = 42.37°N 72.08°E
+}}
+**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 32 kilometers by way of the mouth of the [[Kara-Suu Canyon]] and over the ridge in hairpins, and by a rail spur of about 39 kilometers, which goes round by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the Irad Special Economic Zone (ISEZ), of which it is the seat. Its population was 4,920 (2018 census).<sup>[1]</sup> Locally the village is often called **Rudnik** ("the mine").
+
+## Geography
+The village lies at about 1,640 meters on the floor and lower slopes of the gorge, beside the shafts, waste dumps and flotation mill of the works, which stand at about 1,650 meters. The karst spring of [[Maryam-Bulak]], venerated as the spring of St. Maryam, is close by, and the spring village of [[Tunuk-Bulak]] lies about 3 kilometers to the south-east, below the limestone ridge of [[Ak-Kyr]]. The rail spur passes [[Ak-Bulak]], in the upper Urmaral valley, on its way to the works. The ridges above the upper gorge are close to the [[Qara-Chik Demarcation Line]], beyond which the high range is tribal land.<sup>[2]</sup>
+
+Sary-Bulak District, about 470 km², covers the industrial corridor and limestone foothills south and south-west of Talas: the gorge and the works, the [[Chatkal Chemical Smelting Complex]] and the [[Kemer Antimony Mine]], the lower Kara-Suu Canyon, Ak-Kyr and the [[Kyrk-Kazyk Caves]], and the foothill villages along the Chatkal road, among them [[Uuk-Bulak]] and Tash-Bulak.
+
+## History
+Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. Geologists mapped stibnite-bearing quartz veins in the gorge in the early 1950s; construction began in 1958, and the present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture.<sup>[3]</sup> Many of the first engineers and miners came from Russia and [[wp:Ukraine]]; from the 1970s [[Iradis]] from the villages of the Talas valley made up a growing share of the workforce, and the expansion of the works under the [[1971 Antimony Expansion Directive]] brought new housing.
+
+Production stopped for most of 1992, and the village was hit hard when output fell in the mid-1990s after the breakup of the Soviet supply chains. Many Russian and Ukrainian families left. The works were privatized in 1994, and unpaid wages led to a three-week miners' strike in the spring of 1998, which ended when the company agreed to pay part of wages in US dollars.<sup>[3]</sup> The fighting of 2007 did not reach the village. In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners.<sup>[4]</sup>
+
+## Economy
+Most households depend on the mine and its flotation plant, which employ about 2,300 people and are the largest employer in the district, or on the Chatkal smelter in the next valley west. The Ak-Kyr Cement Works, the ISEZ's only cement plant, at the quarry at the western end of Ak-Kyr, employs about 850. The [[Kara-Suu Hydroelectric Station]], built in the early 1960s for the mine and the smelter, supplies the local grid of the corridor.<sup>[5]</sup> Since world antimony prices rose in 2024 the works have announced plans to deepen the Central incline and reopen worked-out levels, which residents hope will bring back jobs.
+
+## Community
+The housing blocks, school, polyclinic and House of Culture date mainly from the 1960s and 1970s. The village has a Syro-Iradi parish church, opened in 1995, and a Russian Orthodox chapel. Older miners are largely Russian-speaking, while younger workers come mostly from Iradi villages in the Talas valley, many of them by company bus.<sup>[3]</sup> Sary-Bulak fields a team in the ISEZ Conference of the national *[[Ulak Tartysh (Sport)|ulak tartysh]]* league, playing home games in the village and league Saturdays at the [[Irad State Hippodrome]] in Talas. The district's football club, Surma Chatkal (*surma*, "antimony"), backed by the [[Iradi Antimony and Rare Metals Combine]], has won the [[Irad League]] once (see [[Football in Irad]]).
+
+## Environment
+Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[6]</sup> Soviet-era tailings are stored in impoundments in the lower gorge, and the [[Talas River Hydrological Monitoring Service]] samples the streams downstream. Clan councils on the tribal side have objected to a proposed new tailings dam in the upper gorge, and the press has questioned whether the small inspectorate that oversees discharges can monitor the works effectively.<sup>[7]</sup>
+
+## Transport
+The Sary-Bulak road leaves Talas to the south-west, passes the Gendarmerie control post at the mouth of the Kara-Suu Canyon (about 1,390 m) and climbs over the ridge in hairpins to the village. Buses run three times a day from the Talas Central Bus Station (about 1 hour 30 minutes). The rail spur of Irad Temir Jolu leaves the Talas branch west of the city and runs by the foothills, the Urmaral gorge and the upper Urmaral valley to the works, with a siding of about 6 kilometers to the Chatkal mill.<sup>[8]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Miners of the Talas Alatau: Labor and Community at Sary-Bulak, 1961–2011</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (16 February 2012). 'Four miners killed in Sary-Bulak rockfall.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Antimony, Water and the Sary-Bulak Corridor.' Vol. 26, pp. 112–131.</li>
+<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2018). <i>Air Quality in the Sary-Bulak Industrial Corridor</i>. Report to the Secretary-General. Kara-Oi.</li>
+<li id="cite_note-7"><b>^</b> <i>Irad Times</i> (2021). 'Small Agency, Big Mines: Who Watches the Sary-Bulak Tailings?' Talas.</li>
+<li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
+</ol>
+
+[[Category:Villages]]
+
+### 4.179. Swift Hooves (Compilation)
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+{{Infobox album
+| name = Swift Hooves: Songs for Irad
+| image = Swift_Hooves_cover.jpg
+| type = compilation
+| artist = Various artists
+| released = 9 March 1993
+| recorded = October 1992 – January 1993; "Notches" live, 12 September 1992
+| studio = Cumberland Sound Studios, [[wp:Nashville, Tennessee|Nashville]]; the Silver Spur, [[wp:Austin, Texas|Austin]] (live)
+| genre = [[wp:Country music|Country]]; [[wp:Outlaw country|outlaw country]]; [[wp:American folk music|folk]]; [[wp:Southern gospel|gospel]]
+| length = 45:30
+| language = English
+| label = Gilded Spur
+| producer = Rodney Gale; Lyle Brannock
+| singles = "Ride for Talas" (Released: February 1993); "Bells of Saint Janyl" (Released: May 1993)
+}}
+
+***Swift Hooves: Songs for Irad*** is a 1993 American charity compilation album of [[wp:Country music|country]] and [[wp:American folk music|folk]] songs about Irad, thirteen tracks recorded by nine acts from the [[wp:Nashville, Tennessee|Nashville]] and [[wp:Austin, Texas|Austin]] scenes. Released at the height of [[Iradimania]], the brief American fascination with Irad that followed the establishment of the US territorial administration, it reached number four on the *[[wp:Billboard (magazine)|Billboard]]* Top Country Albums chart and was certified platinum in 1994. All of its profits went to Christian-run charities working in Irad. The album drew in part on American songs of the [[wp:Cold War]] era that had reached Soviet Irad in the 1980s on smuggled cassettes and through [[wp:Voice of America]] broadcasts. Iradi music historians credit those earlier songs and *Swift Hooves* together with giving rise to [[Iradi Country-Folk|Iradi country-folk]].<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. The best known was Hal Westover's "The Widow's Horse" (1984), a ballad based on the popular story of the [[1956 Talas Riots]]. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
+
+## Recording and production
+The compilation was organized in the autumn of 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by the Nashville producers Rodney Gale and Lyle Brannock with Harvest Bridge, a relief fellowship of Southern Baptist and Methodist congregations that was already shipping medicine to Talas. Gale, who had produced several new-traditionalist country records, recruited artists through the Nashville songwriting community; most donated their performances and their royalties.<sup>[1]</sup>
+
+"Göñgülchü Means Outlaw" was first recorded in November 1992 by the Caprock Drifters, a honky-tonk band from [[wp:Lubbock, Texas|Lubbock]], at Hi-Plains Recorders, the Lubbock studio where they made all their records. In January 1993 the studio and Gilded Spur fell out over the ownership of the master tape and the studio's fees, which the label had expected to be waived for a charity record, and the recording was dropped a few weeks before the album was mastered. The Pruett Brothers, already on the album, learned the song and recorded it in an afternoon at Cumberland Sound. The Drifters' version has never been released.<sup>[1]</sup>
+
+The album was recorded between October 1992 and January 1993 at Cumberland Sound Studios in Nashville, with a house band of session players credited as the Steppe Riders. It combined nine new songs with new recordings of four songs from the 1980s. Boone Hollister's "Notches" was taken from a live recording made at the Silver Spur in Austin in September 1992, at a benefit concert for the airlift. The closing track, "Brothers of the Saddle", was recorded live on 13 December 1992 at a benefit concert for the Harvest Bridge airlift at the Municipal Auditorium in Nashville, where the album's performers sang it together as the finale, each taking a line in turn in the manner of the charity group records of the 1980s, with the audience joining the choruses.<sup>[1]</sup><sup>[3]</sup>
+
+## Composition and lyrics
+Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotraditional country|new-traditionalist]] and folk styles of the period. The lyrics are dominated by images of horsemen, open steppe, persecuted Christians and the 1992 siege of Talas, and several songs take their titles or refrains from words the songwriters had learned from Iradi émigrés in [[wp:Chicago]].<sup>[1]</sup>
+
+The album opens with "Ride for Talas", Clay Beaudry's new-traditionalist single about the riders who came to the defense of [[Talas]] during the 1992 siege, followed by the Pruett Brothers' bluegrass "Star over the Steppe", in which a herdsman follows Polaris, the star that gave Irad its name, home across the steppe. Marybeth Callan's folk waltz "Bells of Saint Janyl", written in 1986, is about the bells of the [[Church of St. Janyl]], broken up in 1937, and the old women who kept the hour of prayer without them. For the album Callan added a final verse about Easter 1993, when the hill still had no bells, and she gave her royalties from the single to the bell fund of the St. Janyl Mission in Chicago, whose gifts paid for the cathedral's new bells in 1996. Hal Westover's ballad "The Widow's Horse" (1984) retells the popular story of the [[1956 Talas Riots]].<sup>[1]</sup>
+
+Darrell Cobb's minor-key gospel ballad "From Texas Plains", sung with organ and choir, follows a Texan who comes to Irad "in midst of war" for the oil money and finds faith; at heaven's gate "Irad's star" lights his way. Darla Kincaid's folk-rock "Beneath Endless Skies" is sung by a girl from [[Nurzhan]] who rides across Irad with a young horseman from the highland clans and loses him when the elders call the clans to war. Boone Hollister contributes two outlaw country songs: "Old Man Tursun", about an aging horseman who still outrides the young men who challenge him, and "Notches", recorded live, a narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights.<sup>[1]</sup>
+
+The second half turns to smugglers and believers. In "Göñgülchü Means Outlaw" the Pruett Brothers sing of an Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert, and Jesse Rourke's "Wild as the Wind" is a dark, slow ballad about a young man "born in Irad's dust" drawn to the smugglers' life he knows will ruin him. Callan and the Pruetts' gospel song "A Cross on the Mountain" describes believers worshipping in secret in the mountains during the Soviet persecutions. "Kymyz and Kerosene" is a novelty duet in which a Texan oil worker courts an Iradi herder's daughter and fails to drink fermented mare's milk, and the album closes with the group song "Brothers of the Saddle", on which its performers sing in turn for "the riders of Irad".<sup>[1]</sup>
+
+Iradi listeners have long pointed out the songs' American assumptions. "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border, and several songs picture Iradis as cowboys. "Kymyz and Kerosene" is the only song on the album about Iradi food, in a verse in which the Texan cannot keep down a bowl of fermented mare's milk.<sup>[1]</sup>
+
+"Notches" is the album's most debated song. Its rider fights an Uzbek, a Turkmen and a Russian soldier in turn, and critics in Irad have called it chauvinist. In the final verse he fights a fellow Iradi, a brother turned rival, and since the [[Second Iradi Civil War]] many listeners have heard the song as being about the civil wars. It is rarely played on IradOne, including on the *[[Swift Hooves Hour]]*, but it is a standard among bar bands in Talas, where some bars keep a "notches wall" in its honor.<sup>[1]</sup><sup>[2]</sup>
+
+## Release
+*Swift Hooves* was released on 9 March 1993 on compact disc and cassette by Gilded Spur, a Nashville independent label, with a booklet of photographs from the Talas airlift and a map of the territory. "Ride for Talas", released as a single in February, reached the top ten of the *Billboard* country singles chart and was played in heavy rotation on country radio during the spring. Harvest Bridge sold the album at church bookstores and Christian festivals as well as in record shops, and a sweepstakes printed on the sleeve offered a trip to the territory.<sup>[1]</sup><sup>[3]</sup>
+
+## Reception
+{{Album ratings
+| Steel Guitar Monthly = 3.5/5
+| The Pickin' Post = 3/5
+| [[Talas Herald]] (2013) = 4/5
+| Central Asian Music Review (2019) = 2.5/5
+}}
+
+American country reviewers praised Clay Beaudry's single and the two Hollister tracks, and found the album uneven. *Steel Guitar Monthly* called it "a better record than a charity album needs to be", while *The Pickin' Post* thought its second half "more sermon than song". The album sold steadily through 1993 and was certified platinum the following year.<sup>[4]</sup>
+
+In the United States *Swift Hooves* was the best-known product of Iradimania. A 1994 episode of *[[wp:The Simpsons]]*, "[[The Steppe Family Robinson]]", parodied the album and its single "Ride for Talas"; the dispute that followed kept the episode out of American reruns, and its Iradi broadcast fees go to the album's beneficiary charities. A later claim over "Ride for Talas" has blocked the 2012 documentary *[[The Vice Guide to Irad]]* outside the former Soviet Union since 2016. Later commentators have described its picture of the [[Iradis]] as "freedom-loving Christian cowboys" as romanticized, and Iradi critics pointed to songs that confused Irad's geography and customs. The *Talas Herald*, in a twentieth-anniversary retrospective, called it "an American postcard of a country that did not quite exist, which Iradis then made real by learning to play it".<sup>[1]</sup><sup>[5]</sup>
+
+## Legacy
+In Irad the album arrived in 1993–1994 through American base personnel, church charities and the music programs of [[IradOne]], and copied cassettes were sold in the bazaars of Talas. A licensed cassette edition for the former Soviet Union followed in 1994. Local musicians reworked its songs with Iradi lyrics and added the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]] to the guitar and banjo arrangements. The style that resulted became Iradi country-folk.<sup>[2]</sup>
+
+In 2016 the producers' trust that owned the album sold its recordings and publishing rights to Halyard Music Group, a Nashville catalogue company, which registered the songs with YouTube's [[wp:Content ID]] system.<sup>[1]</sup>
+
+## Charitable use
+The organizers distributed the album's profits to Christian-run charities in Irad. These funded rural medical dispensaries, among them the work of the [[St. Luka Community Health Mission]], and the repair of churches. Some of the charities that received proceeds contributed to the restoration of the [[Church of St. Janyl]] in [[Iyık Janyl]] between 1993 and 1998.<sup>[1]</sup><sup>[3]</sup>
+
+## Track listing
+| No. | Title | Writer(s) | Performer(s) | Length |
+|---:|---|---|---|---:|
+| 1. | "[[Ride for Talas]]" | Gene Ashby, Tommy Lee Varner | Clay Beaudry | 4:01 |
+| 2. | "[[Star over the Steppe]]" | Calvin Pruett | The Pruett Brothers | 3:46 |
+| 3. | "[[Bells of Saint Janyl]]" | Marybeth Callan | Marybeth Callan | 5:13 |
+| 4. | "[[The Widow's Horse]]" | Hal Westover | Hal Westover | 3:28 |
+| 5. | "[[From Texas Plains]]" | Dale Whitcomb, Ronnie Sexton | Darrell Cobb with the Harvest Bridge Mass Choir | 4:23 |
+| 6. | "[[Beneath Endless Skies]]" | Ashby, Darla Kincaid | Darla Kincaid | 4:06 |
+| 7. | "[[Old Man Tursun]]" | Boone Hollister | Boone Hollister | 2:13 |
+| 8. | "[[Notches]]" (live) | Hollister, Earl Tate | Boone Hollister | 3:27 |
+| 9. | "[[Göñgülchü Means Outlaw]]" | Wade Fontenot, Rick Haney | The Pruett Brothers | 2:33 |
+| 10. | "[[Wild as the Wind]]" | Jesse Rourke | Jesse Rourke | 4:06 |
+| 11. | "[[A Cross on the Mountain]]" | Callan, Whitcomb | Marybeth Callan with the Pruett Brothers | 2:53 |
+| 12. | "[[Kymyz and Kerosene]]" | Varner, Kincaid | Darla Kincaid and Clay Beaudry | 2:25 |
+| 13. | "[[Brothers of the Saddle]]" | Ashby, Gale, Varner | Swift Hooves All-Stars | 2:56 |
+| | | | **Total length:** | **45:30** |
+
+Notes
+- Tracks 3, 4, 7 and 12 are new recordings of songs written between 1982 and 1989.
+- Track 8 was recorded live at the Silver Spur, Austin, Texas, on 12 September 1992.
+- Track 13 was recorded live at the Municipal Auditorium, Nashville, Tennessee, on 13 December 1992, at the "Swift Hooves for Irad" benefit concert.
+- The Russian-language cassette edition (1994) adds translated lyrics but no additional tracks.
+
+## Personnel
+Performers
+- Clay Beaudry – vocals (1, 12, 13)
+- The Pruett Brothers (Calvin, Ray and Danny Pruett) – vocals, mandolin, banjo, guitar (2, 9, 11, 13)
+- Marybeth Callan – vocals, acoustic guitar (3, 11, 13)
+- Hal Westover – vocals, acoustic guitar (4)
+- Darrell Cobb – vocals (5, 13)
+- Harvest Bridge Mass Choir – choir (5)
+- Darla Kincaid – vocals (6, 12, 13)
+- Boone Hollister – vocals, guitar (7, 8, 13)
+- Jesse Rourke – vocals, electric guitar (10, 13)
+
+The Steppe Riders (house band)
+- Gary Lisle – fiddle
+- Buddy Kaye Dunn – Dobro, lap steel
+- Tom Haverty – banjo
+- Mike Ledbetter – bass
+- Sonny Marsh – drums
+
+Production
+- Rodney Gale – producer, arrangements
+- Lyle Brannock – producer, engineer
+- Rev. Dale Whitcomb (Harvest Bridge) – executive producer
+- Phil Arceneaux – live recording (8)
+- Jan Pollard – mastering
+- Carol Weems – art direction; Talas airlift photographs courtesy of American relief workers<sup>[6]</sup>
+
+## Charts and certifications
+| Chart (1993) | Peak position |
+|---|---:|
+| US *Billboard* Top Country Albums | 4<sup>[1]</sup> |
+| US *Billboard* 200 | 38<sup>[1]</sup> |
+
+| Region | Certification | Sales |
+|---|---|---:|
+| United States | Platinum | 1,000,000<sup>[1]</sup> |
+
+## Release history
+| Region | Date | Label | Format |
+|---|---|---|---|
+| United States | 9 March 1993 | Gilded Spur | CD, cassette<sup>[6]</sup> |
+| Former Soviet Union | 1994 | Rodnik (licensed) | Cassette |
+| Worldwide (except former Soviet Union) | 2016 | Halyard Music Group | Digital download, streaming<sup>[7]</sup> |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 33–71.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2019). 'Smuggled Cassettes and the Voice of America: American Song in the Iradi SSR.' Vol. 11, No. 2, pp. 15–38.</li>
+<li id="cite_note-3"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
+<li id="cite_note-4"><b>^</b> <i>Steel Guitar Monthly</i> (May 1993). 'Review: <i>Swift Hooves: Songs for Irad</i>.' Nashville, p. 44.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of <i>Swift Hooves</i>.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Swift Hooves: Songs for Irad</i> (1993). Liner notes. Gilded Spur Records, Nashville.</li>
+<li id="cite_note-7"><b>^</b> Halyard Music Group (2016). Catalogue entry: <i>Swift Hooves: Songs for Irad</i> (digital reissue).</li>
+</ol>
+
+## External links
+- Halyard Music Group, which holds the rights to the album, has no website of its own. The album is available on streaming services outside the former Soviet Union.
+- [*Swift Hooves*](https://open.spotify.com/album/15KyNnIjfJG23v9U2u89AW) on [[wp:Spotify|Spotify]]
+
+[[Category:Albums]]
+[[Category:Compilation albums]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 7. List-Class Articles (8 Entries)
+
+### 7.1. List of governors of Irad
+*Quality Assessment: List-Class Article | Category: Politics & Government*
+
+This is a **list of governors of Irad**, the heads of the executive of the US Territory of Irad (1992–2006) and of the [[Irad Special Economic Zone]] (ISEZ) since 2007. The office was created by the [[Organic Act of the Territory of Irad]] and is regulated by the Elective Governor Acts of 1992, which provide for a Governor and a Lieutenant Governor elected on a joint ticket for four-year terms.<sup>[1]</sup> Three people have held the office. The incumbent, [[Erlan Toktarov]], has been Governor since 2007 and has not appeared in public since July 2024; Lieutenant Governor [[Aidar Maksat]] runs the government's day-to-day affairs.
+
+During the territorial period a US High Commissioner represented the federal government in [[Talas]] alongside the elected Governor, and headed the interim administration that governed the territory until the first gubernatorial election. The High Commissioners are listed below for context.
+
+## The office
+Under the Elective Governor Acts the Governor holds the executive power, appoints the mayors of the cities of governorate significance and the heads of the districts, assents to or vetoes bills of the [[Territorial Legislature of Irad]], and nominates the justices of the [[Supreme Court of Irad]]. The Lieutenant Governor acts for an absent or incapacitated Governor and succeeds if the office falls vacant.<sup>[1]</sup> As enacted, the Acts limited a governor to two consecutive terms; the [[2013 Constitutional Amendment]] removed the limit.
+
+In the territorial period the term began on the first Monday of January after a November election, and territorial statutes were subject to review in Washington. Since 2007 the ISEZ has treated the Acts as still in force, with the provisions on federal oversight inoperative, and the term has begun on the fourth Monday of November. Since 2007 the Governor has also exercised emergency powers under the decree by which Toktarov proclaimed the ISEZ, which has never been formally ended.<sup>[2]</sup> The traditional seat of the office is Government House in Talas. Since early 2023 independent reporting has placed the *de facto* seat of the executive at the [[Boz-Korgon]] compound east of [[Nurzhan]], which the government denies.
+
+## Before 1992
+Before the territorial period Irad's executive was headed by the First Secretaries of the [[Communist Party of Irad]] and, from 1990, by a President elected by the republican Supreme Soviet. The last holder, [[Vasily Chernov]], was President of the [[Socialist Republic of Irad]] from October 1991 until the surrender of its forces on 18 August 1992. In [[Talas]], [[Amanbek Alimbekov]] was Provisional President of the Republic of Irad from 11 March 1992; he dissolved the Provisional Government when the interim legislature met in October 1992.<sup>[3]</sup>
+
+## Territory of Irad (1992–2006)
+
+#### US High Commissioners
+The High Commissioner was a federal official appointed in Washington and reporting to the Department of the Interior, with a liaison office for foreign and defense matters. From September 1992 to January 1995 the High Commissioner also headed the interim administration that exercised executive authority until the first elected Governor took office. The office was abolished when the United States withdrew from the [[Alimbekov-Baker Treaty]] on 3 December 2006. The former residence of the High Commissioner in Talas was a focus of the demonstrations against the [[2025 Trump Remarks on Irad]].<sup>[4]</sup>
+
+| High Commissioner | Took office | Left office | Notes |
+|---|---|---|---|
+| Richard M. Ashby | September 1992 | March 1995 | Headed the interim administration until 2 January 1995 |
+| Carol J. Whitaker | March 1995 | June 1999 | |
+| Howard T. Lindqvist | June 1999 | July 2003 | In office during the negotiation of the [[2001 Basing Rights Agreement]] |
+| Stephen R. Garrity | July 2003 | 3 December 2006 | Office abolished on the US withdrawal |
+
+#### Elected governors
+Both territorial governors belonged to the [[Democratic Party of Irad]] (DPI).<sup>[5]</sup>
+
+| No. | Governor | Term | Elections | Party |
+|---|---|---|---|---|
+| 1 | Nurlanbek Ermatov (born 1947) | 2 January 1995 – 6 January 2003 | 1994 (61.8%), 1998 (57.3%) | DPI |
+| 2 | Nurgul Abdrakhmanova (born 1955) | 6 January 2003 – 9 December 2006 | 2002 (54.6%), 2006 (52.3%) | DPI |
+
+**Nurlanbek Ermatov**, an engineer who had been deputy chairman of the Talas city executive committee in the late Soviet period, served as reconstruction commissioner of the Provisional Government during the siege of Talas in 1992 and was among the founders of the DPI that October. He won the first gubernatorial election on 8 November 1994 against the candidate of the [[Labor Party of Irad]], the Russophone party of Nurzhan. His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the Language and Education Reform Act (1997), the [[1998 Talas Agribusiness Accord]] and, after the September 11 attacks, the 2001 Basing Rights Agreement, which he signed for the territory. Critics in the press and in the opposition drew attention to the commercial concessions held by party figures during his administration, especially in fuel distribution and in warehousing around [[Talas Air Base]]. Barred by the two-term limit, he did not stand in 2002.<sup>[5]</sup><sup>[6]</sup>
+
+**Nurgul Abdrakhmanova**, a lawyer and the first woman to hold the office, had been Speaker of the Territorial House of Representatives from 1998 to 2002, succeeding [[Kanybek Zhumaliev]]. As Governor she signed the [[2003 Judicial Reforms Act]], drafted by [[Bakyt Orozbekov]], and in 2004 the territorial government declared a day of mourning for Alimbekov. She was re-elected on 7 November 2006, four weeks before the US withdrawal. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed; she did not contest the proclamation and left office the same day, and her second term never began. She has held no public office since and lives in Talas.<sup>[5]</sup><sup>[7]</sup>
+
+## Democratic Republic of Irad (2006–2007)
+The DRI had no governor. Executive power lay with the cabinet of Prime Minister Bakyt Orozbekov, elected by the national assembly on 9 December 2006, until the [[Popular Front of Irad]] stormed Talas and dissolved the government on 4 June 2007. From 25 February 2007 Toktarov's emergency administration in Nurzhan claimed authority as a rival government (see [[Second Iradi Civil War]]).<sup>[7]</sup>
+
+## Irad Special Economic Zone (2007–present)
+
+| No. | Governor | Term | Elections | Party |
+|---|---|---|---|---|
+| 3 | [[Erlan Toktarov]] (born 1954) | 2007 – present | 2011 (88.74%), 2015 (78.25%), 2019 (90.31%), 2023 (92.75%) | DPI |
+
+Toktarov, a former Soviet logistics officer, territorial legislator and Majority Leader of the Territorial Senate from 2000 to 2004, proclaimed the ISEZ from Nurzhan on 25 February 2007 as an emergency administration and took office as Governor after the [[Bishkek Ceasefire Agreement (2007)|Bishkek ceasefire]] of September 2007. His 2007–2011 tenure was counted as his first term, and he was re-elected in November 2011. After the 2013 amendment removed the term limit, he won further elections in 2015, 2019 and 2023, which observers from the [[wp:Organization for Security and Co-operation in Europe]] described as lacking meaningful choice (see [[Elections in Irad]] and [[2023 Iradi gubernatorial election]]).<sup>[8]</sup>
+
+Toktarov has not appeared in public since July 2024. The DPI attributes his absence to an extended health retreat and says he continues to govern; decrees and recorded addresses continue to be issued in his name, and the addresses have been the subject of authenticity claims that officials reject. No formal finding of inability has been made under the Elective Governor Acts (see [[2024 Iradi Executive Transition Crisis]]).<sup>[9]</sup> The next gubernatorial election is due in November 2027.
+
+#### Lieutenant governors since 2007
+
+| Lieutenant Governor | Term | Notes |
+|---|---|---|
+| Daniyar Tologonov (born 1950) | 2007 – 25 November 2019 | Former DPI territorial senator; appointed under the emergency administration in 2007, elected on Toktarov's ticket in 2011 and 2015; retired in 2019 |
+| [[Aidar Maksat]] (born 1980) | 25 November 2019 – present | Civil engineer and Toktarov's son-in-law; elected on Toktarov's ticket in 2019 and 2023 |
+
+Maksat chairs the cabinet and, according to DPI statements, has chaired the ISEZ Security Council since 2024. Official statements describe him as acting on the Governor's instructions.<sup>[9]</sup>
+
+## See also
+- [[Politics of Irad]]
+- [[Territory of Irad (1992–2006)]]
+- [[Elections in Irad]]
+- [[Political status of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
+<li id="cite_note-3"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
+<li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
+<li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-8"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
+<li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
+</ol>
+
+### 7.2. List of settlements in Irad
+*Quality Assessment: List-Class Article | Category: Cities & Settlements*
 
 This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: its cities and towns, the urban districts and historic quarters of the cities, and the villages, hamlets and seasonal herders' settlements of the countryside. It lists 109 places. Villages in the [[Irad Special Economic Zone]] (ISEZ) are grouped by district, and those in the [[Autonomous Tribal Regions]] (ATR) by the planning zones used by the [[United Nations Mission in Irad]] and in most maps of the tribal side of the [[Qara-Chik Demarcation Line]]. Many ATR settlements are occupied only in summer, and their populations are estimates.<sup>[1]</sup><sup>[2]</sup>
 
@@ -10067,8 +10188,8 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 
 [[Category:Districts]]
 
-### 4.177. List of natural features of Irad
-*Quality Assessment: C-Class Article | Category: Geography & Nature*
+### 7.3. List of natural features of Irad
+*Quality Assessment: List-Class Article | Category: Geography & Nature*
 
 This is a **list of natural features of [[Irad]]** that have articles on Irad Wiki: its mountains, passes, glaciers, rivers, lakes, valleys and deserts, its protected areas, and the wild plants and animals of the country. It lists 140 articles. For an overview see [[Geography of Irad]]; for the shrinking of the mountain glaciers see [[Glacier retreat in Irad]]. Places on the tribal side of the [[Qara-Chik Demarcation Line]] are marked (ATR) and places in the [[Irad Special Economic Zone]] by district (ISEZ).<sup>[1]</sup>
 
@@ -10242,563 +10363,293 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography and Earth Sciences (2019). <i>Physical Geography of Irad</i>. Talas State University Press, Talas.</li>
 </ol>
 
+### 7.4. List of IradOne programs
+*Quality Assessment: List-Class Article | Category: Media*
+This is a **list of programs broadcast by [[IradOne]]**, the state broadcaster of the [[Irad Special Economic Zone]], on its main channel. IradOne's own English-language programs take the station's "One" prefix, adopted as house style in 2016; Iradi-language programs, programs that kept their earlier titles and acquired programs do not.<sup>[1]</sup> Times are Irad Time, and the broadcast day runs from 05:00, opening and closing with the anthem, *[[The Spirit of Irad]]*.<sup>[2]</sup>
 
-### 4.178. Jarysh
-*Quality Assessment: C-Class Article | Category: Media*
+Programs made by IradOne or for it link to their articles. Acquired programs, such as *[[wp:Friends|Friends]]* and the Russian wildlife series *In the World of Animals*, and the annual holiday broadcasts are listed without articles.
 
-**Jarysh** (Iradi: *jarysh*, "race, contest"; jarysh.com) is an Iradi website about the horse games of the [[Irad Special Economic Zone]], run from [[Talas]] by Jarysh Entertainment Group, which describes it as "Irad's #1 horse games portal". Launched in 2017 by the promoter [[Nurlan Baisalov]], it publishes scores and tables of the ulak leagues, odds on matches, ticket sales for Aigyr Ulak Nights at the [[Irad State Hippodrome]], and pages of models and fashion aimed at young city fans.<sup>[1]</sup> Its sponsor is the [[Kara-Bulak]] brewer [[Aigyr Lager|Aigyr]].
+## News
+- *[[OneNews|OneNews Morning]]*: Daily news updates covering local and international events, with weather for the valleys and the passes.
+- *[[Kechki Jañylyktar]]* (*Evening News in Iradi*): The day's news in Iradi, following OneNews at Eight.
+- *[[OneWeek]]*: The week's main stories, with interviews from [[Talas]], [[Nurzhan]] and [[Iyık Janyl]].
 
-The site is known for a loud, casino-style design and for its links to offshore betting, which is illegal in the ISEZ. Its betting subdomain has been blocked since 2023.<sup>[2]</sup>
+## Current affairs
+- *[[Voices of Janyl]]*: Talk show featuring discussions on current events, social and religious issues.
+- *[[OneDebate]]*: IradOne's prime-time current-affairs panel.
+- *[[OneTruth]]*: IradOne's premier journalism programme highlighting local issues.
+- *[[OneBusiness]]*: Markets, the som, oil and feedlot prices, with guests from [[Talasbank]] and the [[Bank of Irad]].
 
-## History
-Baisalov, a nightclub promoter who had run Club Doran in Talas since 2004, returned to the city in 2014 after several years in Turkey and Kazakhstan and set up Jarysh Entertainment Group to promote equestrian events. The website opened in 2017 with live scores of *[[Ulak Tartysh (Sport)|ulak tartysh]]* matches, which [[IradOne]] then covered only in highlights.<sup>[1]</sup>
+## Magazine and lifestyle
+- *[[OneBreakfast|OneBreakfast with Anara]]*: A light-hearted morning show with music, interviews and lifestyle tips.
+- *[[Nurzhan Today]]*: Regional magazine from IradOne's Nurzhan studio: the refinery city, its neighbourhoods and its football.
+- *[[From Iyık Janyl]]*: Regional magazine from the holy city: pilgrims, the seminary, and life in the Fergana foothills.
+- *[[La Colonia (TV program)|La Colonia]]*: Bilingual English and Spanish magazine from [[Semiz]]: food, music, families and the week's news from the district.
+- *[[Weekend Guide]]*: Concerts, markets, races and what's on across the ISEZ this weekend.
+- *[[Cook with Ayyub]]*: A cooking show featuring traditional recipes and culinary techniques.
+- *[[Baking with Zarina]]*: Baking programme featuring traditional recipes and culinary techniques.
+- *[[Field and Herd]]*: The farming programme: pastures, feed and grain prices, water schedules and the week at the Talas valley feedlots.
 
-In June 2018 the [[National Equestrian Sports Directorate]] gave the company a seven-year concession to run the bars, stage and VIP boxes at the State Hippodrome on league Saturdays, without a public tender. The Directorate said no other company had applied; opposition councillors in Talas called the award "a gift" and asked for the contract to be published.<sup>[3]</sup> The concession was renewed for ten years in June 2025, again without a tender; the renewal was not announced and came to light in the Directorate's annual report. The company has since run the Saturday-night events as **Aigyr Ulak Nights**, with beer decks, live music, a half-time "Fan Pull" for amateurs and buses to Club Doran after midnight. Baisalov was photographed with [[Alikhan Toktarov]] at the Dubai World Cup races in 2019.
+## Children and youth
+- *[[Follow the White Rider]]*: Educational and entertaining Christian programme for kids, including cartoons and learning shows.
+- *[[Koyon Teşigi]]* (*The Rabbit Hole*): An Iradi-language children's programme featuring music, stories and crafts.
+- *[[Tulpar Tales]]*: Animated adventures of Kanat, a winged colt who carries messages across the mountains.
+- *[[Jyldyz Jolu]]* (*Star Road*): The youth talent show that launched Altyn Muuz. Singers, dancers and komuz players from across the ISEZ.
+- *[[Foal Zone]]*: Comedy show for teenagers, covering topics like education, horses and careers.
 
-## Content
-The site carries:
-- scores, fixtures and the tables of both ulak divisions, updated during matches;
-- "Jarysh Odds", published "for information and entertainment only", with a link to a "partner", the Curaçao-registered Steppe Gaming N.V.;
-- ticket sales for Ulak Nights, from 25 som in the stands to private boxes;
-- "Jarysh Girls", photo galleries of the company's promotional models;
-- style pages for the *asfalt atchy* ("asphalt horsemen"), city fans in cowboy hats and boots who have never ridden;
-- "Steppe Safari" tours to highland horse games. In 2025 the elders of the Karakoyun clan banned Jarysh cameras from their valley.
+## Drama and comedy
+- *[[İçkenge Attı Jetelep]]* (*Lead a Horse to Drink*): A popular Iradi-language drama series about family.
+- *[[Kuda (TV series)|Kuda]]* (*The In-Laws*): Bilingual sitcom. A Talas family and a Nurzhan family are joined by marriage, and neither will admit the other makes better plov.
+- *[[Patrol: Kara-Bulak]]*: Drama following a Gendarmerie post on the Talas road.
+- *[[Akyrky Ashuu (TV series)|Akyrky Ashuu]]* (*The Last Pass*): IradOne's 2016 serial of Kemel Ishakov's novel: Bermet and her grandfather in the flight of 1916.
+- *Friends*: Very high-quality comedy series, featuring American actors and stories.
+- *The Tonight Show with Jay Leno*: Late-night talk show from America.
 
-## Betting
-Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed only at the Directorate's licensed tote windows; bookmaking and online gambling are illegal. In November 2023 [[Attelkom]] blocked bet.jarysh.com, a betting site run for Steppe Gaming, at the Directorate's request. Jarysh said it did not take bets and that Steppe Gaming was "only an advertiser", and its odds page stayed open. Bookmakers told the *[[Talas Herald]]* that bets had moved to channels on the [[Tulpar (app)|Tulpar]] messaging app.<sup>[2]</sup>
+## Entertainment
+- *[[Kim Bilet?]]* (*Who Knows?*): Iradi-language quiz. Three contestants, one golden horseshoe.
 
-## See also
-- [[Nurlan Baisalov]]
-- [[Aigyr Lager]]
-- [[Irad State Hippodrome]]
-- [[Ulak Tartysh (Sport)]]
+## Documentary
+- *[[The Star Leads the Way]]*: A documentary series exploring the history and traditions of Irad.
+- *[[Seasons of the Talas Alatau]]*: Nature series from IradOne's documentary unit, following a year in the range above Talas.
+- *[[Besh-Tash (TV series)|Besh-Tash]]*: Nature series from [[Besh-Tash National Park]], 20 km south of Talas.
+- *[[Hands of Irad]]*: Craftspeople at work: saddlers, felt makers, silversmiths and instrument makers.
+- *[[From the Archive (TV program)|From the Archive]]*: Restored programmes from IradOne's archive, back to the 1960s.
+- *In the World of Animals*: Russian television programme dedicated to zoology and wildlife research.
+- *[[Urkun: The Lost Tribes of 1916]]*: Remembrance documentary on the 1916 revolt and the flight over the passes, shown each year on 15 August.
 
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/betting-site-behind-jarysh-odds-page-blocked.html" target="_blank" rel="noopener">Betting site behind Jarysh odds page blocked</a>.' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
-</ol>
+## Sport
+- *[[OneSport|OneSport Highlights]]*: A recap of the latest sports events, including football, horse racing and more.
+- *[[Hippodrome Form Guide]]*: Trainers and tipsters preview tonight's card at the State Hippodrome.
+- *[[Hippodrome Weekly]]*: Equestrian sport magazine: racing, ulak tartysh and the Akyel and Chongtor bloodlines.
+- *[[Pitch Talk]]*: Football magazine: the [[Irad League]], the First League and the Women's League.
 
-## External links
-- [Jarysh](https://jarysh.com/) (official website)
+## Music
+- *[[OneMusic]]*: A programme featuring contemporary music from Irad and around the world.
+- *[[Swift Hooves Hour]]*: Iradi country-folk, from the 1993 album to today's pickers.
+- *[[Mor-Pop Top 20]]*: The week's biggest [[Mor-Pop]] and Iradi pop songs, counted down.
+- *[[Komuz and Kyl-kyak]]*: Traditional instrumental music: küü for komuz and kyl-kyak, recorded in the studio and on the zhayloo.
+- *[[Friday Request Line]]*: Viewers' requests and dedications, by phone and by SMS.
+- *[[Classic Iradi Music]]*: A programme featuring traditional Iradi music and folk songs.
 
-{{Navbox|Media of Irad}}
+## Film
+- *Hollywood Cinema*: A movie slot showing classic Hollywood films.
+- *[[Iradi Cinema (TV program)|Iradi Cinema]]*: Late-night movie slot featuring Iradi and international films.
 
-### 4.179. Nurlan Baisalov
-*Quality Assessment: C-Class Article | Category: Biographies*
+## Faith
+- *[[Sunday Qurbana]]*: The Divine Liturgy of the [[Syro-Iradi Catholic Church]].
 
-**Nurlan Baisalov** (born 1979), known as "Nurik" or "Nurik Jackpot", is an Iradi businessman and promoter, founder and chief executive of Jarysh Entertainment Group, which runs the horse games website [[Jarysh]] and the Saturday-night Aigyr Ulak Nights at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
-
-## Career
-Baisalov was born in Talas in 1979. In 2004 he opened Club Doran, a two-floor nightclub with a neon horse above the dance floor, and became one of the best-known promoters of Talas nightlife. Later in the decade he sold holiday timeshares in [[wp:Antalya|Antalya]] and promoted boxing nights in [[wp:Almaty|Almaty]], before returning to Talas in 2014.<sup>[1]</sup>
-
-He founded Jarysh Entertainment Group to promote equestrian events and launched the jarysh.com website in 2017. In 2018 the [[National Equestrian Sports Directorate]] gave his company a seven-year concession for entertainment at the State Hippodrome without a tender, which opposition councillors criticized as patronage; it was renewed for ten years, again without a tender, in 2025.<sup>[2]</sup> He was photographed with [[Alikhan Toktarov]] at the Dubai World Cup in 2019.
-
-## Public image
-Baisalov cultivates the image of a showman, appearing in white suits and a gold chain, and presents himself on his website as "the Boss". He calls ulak "the only real party in Irad" and his events "Ulak. Beer. Girls. Repeat." Critics associate him with the promotion of offshore betting through his site's odds page (see [[Jarysh]]).<sup>[1]</sup>
-
-## See also
-- [[Jarysh]]
-- [[Aigyr Lager]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
-</ol>
-
-[[Category:Businesspeople]]
-[[Category:Living people]]
-
-### 4.180. Aigyr Lager
-*Quality Assessment: C-Class Article | Category: Economy & Industry*
-
-**Aigyr** (Iradi: *aigyr*, "stallion") is a lager beer brewed since 2009 by the Aigyr Brewing Company in [[Kara-Bulak]], in the middle Talas valley. It is the most-advertised beer in the [[Irad Special Economic Zone]] and the title sponsor of Aigyr Ulak Nights at the [[Irad State Hippodrome]].<sup>[1]</sup>
-
-## Company
-The brewery was built in 2009 with a brewhouse bought from the Czech Republic. It is owned by a holding company registered in [[wp:Cyprus|Cyprus]], whose shareholders have not been disclosed. Groups can tour the brewery by appointment.<sup>[1]</sup>
-
-## Beers
-- **Aigyr Gold** (4.8%), the main brand, sold in gold cans;
-- **Aigyr Chongtor Strong** (8.5%), named after the [[Chongtor Horse|Chongtor]] breed;
-- **Aigyr Light**.
-
-## Marketing
-Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and its slogan is "Ride Hard. Drink Aigyr." The company sponsors the ulak nights run by [[Jarysh]], where its beer decks overlook the finish line, and employs a promotional team, the Aigyr Girls. Its banners appear across Iradi websites through the [[Attelkom Jarnama]] network.<sup>[1]</sup><sup>[2]</sup>
-
-## See also
-- [[Jarysh]]
-- [[Kara-Bulak]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/aigyr.html" target="_blank" rel="noopener">Aigyr: official beer of Jarysh</a>.' jarysh.com.</li>
-<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/gallery.html" target="_blank" rel="noopener">Banner gallery</a>.' ads.attelkom.net.</li>
-</ol>
-
-## External links
-- [Aigyr](https://jarysh.com/aigyr.html) (sponsor page on Jarysh)
-
-### 4.181. Kartalar
-*Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
-
-**Kartalar** (Iradi: *kartalar*, "maps"; maps.attelkom.net), also called **Attelkom Maps**, is an online map of [[Irad]] run by [[Attelkom]]. Launched in November 2019, it shows the street plans of [[Talas]], [[Nurzhan]] and [[Iyık Janyl]], the roads and villages of the [[Irad Special Economic Zone]] (ISEZ), and the main places, passes and crossings of the [[Autonomous Tribal Regions]].<sup>[1]</sup>
-
-## History
-Attelkom said when it launched the map that foreign map services were unreliable in Irad, showing Soviet-era names, the borders of neighbouring states or nothing at all. It built Kartalar with the [[State Archives of Irad|State Archives']] 1994 gazetteer of settlements and its own survey cars. At first the map opened only on Attelkom connections in the ISEZ.<sup>[1]</sup>
-
-## Features
-The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
+## Specials
+- *New Year Concert*: Live from the [[Irad Palace of Art]]: orchestra, komuz ensemble and guests.
+- *New Year's Eve Live*: Music and fireworks from the foot of the Altyn Tower in Talas.
+- *New Year Address*: The Governor's New Year message to the people of Irad.
+- *Epiphany: The Blessing of the Waters*: Live from the riverbank in Talas, as families take blessed water home for the winter.
+- *Irad Day: Ceremonies and Parade*: Live from Talas: the flag ceremony, the mounted honour guard and the parade.
+- *Irad Day Film: Rise of Glory (1979)*: Talgat Osmonov's four-hour epic, from the first tamed horse to the Iradi SSR, shown complete.
+- *Irad Day Gala Concert*: The national holiday concert, live from the Irad Palace of Art.
+- *Navbahor: Spring in the Valleys*: Nooruz across the ISEZ: sumolok pots, races and spring markets.
+- *Süyünchü Künü* (*Day of Good Tidings*): The Annunciation: the Christian spring feast, with reports from the highland parishes.
+- *Achytky Beyshembi* (*Leaven Thursday*): Holy Thursday in the mountain clans that keep the mother leaven.
+- *Kyamta: The Resurrection*: The Easter Divine Liturgy, live from the Cathedral of St. Janyl in Iyık Janyl.
+- *St. Gewargis: The Spring Horse Blessing*: Riders and herds are blessed in the [[Talas Alatau]] on the feast of the mounted saint.
+- *[[Feast of St. Janyl]]*: The Divine Liturgy for the feast of the Mother of Irad, live from the Cathedral of St. Janyl in Iyık Janyl.
+- *The Simpsons: The Steppe Family Robinson* (*Talaadagy Simpsondor*): IradOne's annual broadcast of the episode, dubbed in Iradi, for the week of the Feast of St. Janyl.
+- *Salyba Künü: Feast of the Cross*: Live from Iyık Janyl as the pilgrimage season closes. After the Cross, no yurt on the zhayloo.
+- *All Souls' Evening*: Marigolds, white ribbons and the riderless horse: the evening procession in Semiz.
+- *Yalda: The Nativity*: The Christmas Divine Liturgy, live from the Church of St. Yuhanna in Talas.
+- *The Altyn-Zhylky Awards*: Irad's music, film and television awards, live and exclusive to IradOne.
+- *Komuz Gala: Aigul Choro kyzy at 90*: The winners of the national komuz competition in concert from Talas, in honour of the ethnomusicologist's 90th anniversary.
+- *Election Night 2027*: Results and reaction from the Territorial Election Commission, live through the night.
 
 ## See also
-- [[Attelkom]]
-- [[Geography of Irad]]
-- [[List of settlements in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers</a>.' Talas.</li>
-</ol>
-
-## External links
-- [Kartalar](https://maps.attelkom.net/) (official website)
-
-### 4.182. Attelkom Jarnama
-*Quality Assessment: C-Class Article | Category: Media*
-
-**Attelkom Jarnama** (Iradi: *jarnama*, "advertisement"; ads.attelkom.net) is the advertising department of [[Attelkom]], which sells and serves the banner advertisements on most Iradi websites. Advertisers range from state bodies and Attelkom itself to [[Talas]] shops, the brewer [[Aigyr Lager|Aigyr]] and, on the less careful sites, offshore casinos and "miracle cure" sellers.<sup>[1]</sup>
-
-## History
-Attelkom began selling banner space on its portal and on its subscribers' member pages in 1998. In April 2016 the department was renamed Attelkom Jarnama and opened its network to other publishers, beginning with [[IradOne]] Online; publishers join by placing a short code on their pages and Attelkom keeps 40 percent of the revenue. Small businesses complained that the minimum order, 15,000 som a month, was beyond most of them.<sup>[1]</sup>
-
-## Network
-Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's own sites including [[Kartalar]], the classifieds site [[Jılmay]], the [[Tulpar (app)|Tulpar]] website and the horse games portal [[Jarysh]]. Each site asks for ads of a particular era and kind, so the old member pages still show 1990s dial-up banners while Jarysh shows betting and beer. Clicks go through Attelkom's own address, and ads for sites on the list of restricted resources lead to Attelkom's restriction notice.<sup>[2]</sup> Complaints about advertisements are taken at jarnama@attelkom.net.
-
-## See also
-- [[Attelkom]]
+- [[IradOne]]
 - [[Media of Irad]]
+- [[Altyn-Zhylky Awards]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas.</li>
-<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>Annual Report 2016</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne (2026). <i>Program Schedule</i>. Talas: IradOne Media Group.</li>
 </ol>
 
 ## External links
-- [Attelkom Jarnama](https://ads.attelkom.net/) (official website)
+- [TV schedule](https://iradone.com/index.html#schedule) and [programs A–Z](https://iradone.com/shows/index.html) on IradOne Online
 
 {{Navbox|Media of Irad}}
 
-### 4.183. Drug use in Irad
-*Quality Assessment: C-Class Article | Category: Society & Demographics*
+### 7.5. List of companies of Irad
+*Quality Assessment: List-Class Article | Category: Economy & Industry*
+This is a **list of notable companies based in [[Irad]]**. The country's economy rests on oil and gas from the lower [[Chu River Basin]], antimony from the foothills of the [[Talas Alatau]], hydroelectricity from the [[Toktogul Hydroelectric Complex]], beef and horse exports, and services for the US forces at [[Talas Air Base]]. Almost all of its companies are in the [[Irad Special Economic Zone]] (ISEZ); the [[Autonomous Tribal Regions]] (ATR) have herders' cooperatives but few other firms.<sup>[1]</sup>
 
-**Drug use in Irad** ranges from the old habits of the countryside, alcohol, snuff and, in the south, opium, to the synthetic opioids and stimulants that have spread in the cities since about 2020. Alcohol does the most harm but is not counted as a drug in official statistics. Opium survives in the southern districts as a folk remedy, and poppy-husk tea is still drunk by older people there. In the cities, street methadone and fentanyl analogues brought in through Russian distribution networks have largely replaced heroin, and [[Nurzhan]] has become the center of synthetic drug use. Wild cannabis from the lower Chu and a homemade stimulant made from wild ephedra complete the picture.<sup>[1]</sup><sup>[2]</sup>
+Most large Iradi companies are former Soviet enterprises privatized during the US territorial administration (1992–2006) or after 2007, and few publish their shareholder registers or full accounts. The ISEZ government keeps minority stakes in several of them, and members of the Toktarov family head or chair a number of others, among them [[IradOne]], [[Trans-Chuy Freight & Logistics]] and [[Nurzhan Agro-Industrial]].<sup>[1]</sup><sup>[2]</sup> Because Irad has no code in [[wp:ISO 3166-1]] and its banks are outside the international card networks, some Iradi companies that deal with foreign platforms are registered abroad: the marketplace [[Jılmay]] and the music distributor [[Köch Audio]] in [[wp:Kyrgyzstan]], and the company behind the messaging app [[Tulpar (app)|Tulpar]] in [[wp:Delaware]].<sup>[3]</sup> Companies price in both the [[Iradi som]] and the US dollar, which is also legal tender.
 
-## Alcohol and snuff
-Vodka became the common spirit in the Soviet period and remains the default drink in the Russian-speaking estates of Nurzhan, at memorial meals and among older men. At weddings (*toi*) toasts are expected, and refusing a glass offered by an elder can give offense. Among younger city people beer is more common. Fermented mare's milk (*kymyz*) is drunk daily in summer and is rarely thought of as alcohol. The [[Syro-Iradi Catholic Church]] preaches moderation rather than abstinence. Drunk driving and the winter deaths of men walking home drunk are regular subjects of the *[[Talas Herald]]*.<sup>[1]</sup>
+Foreign companies with large operations in the ISEZ are not listed below. They include the Mexican meat company [[wp:Sukarne|SuKarne]] and the US food company [[wp:Conagra Brands|Conagra]] in the [[Talas Agribusiness Export Zone]], the Chinese textile company Xinjiang Lihua (see [[Xinjiang Lihua Cotton Facilities]]), the franchised restaurants of KFC Irad and, on a reduced scale since 2021, [[wp:Chevron Corporation|Chevron]] in the oil fields. The Kazakh mobile operator [[wp:Beeline (brand)|Beeline Kazakhstan]] reaches Iradi customers through its network partner Torgoy. Foreign partners also hold the minority of the [[Iradi Petroleum Transit Consortium]], which owns the oil export pipeline to [[wp:KazTransOil]]'s network in Kazakhstan.<sup>[1]</sup>
 
-*Nasvay*, a moist snuff of tobacco and lime held under the lip, is widely used by rural men, especially herders, drivers and soldiers. City people tend to regard it as a rural habit.
+## Largest firms
+The Chamber of Commerce and Industry of Irad lists the largest domestic companies as follows. Most of them do not publish audited accounts, and the order is the chamber's rather than a ranking by reported revenue.<sup>[1]</sup>
+1. [[NurGaz]] (Nurzhan Oil and Gas Company): oil and gas, refining and fuel retail, [[Nurzhan]]
+2. [[Attelkom]]: telecommunications and internet, [[Talas]]
+3. [[IradOne]]: broadcasting, Talas
+4. [[Talasbank]] (Bank of Talas): banking, Talas
+5. [[Sary-Bulak Antimony Works]] (SBAW): antimony mining, [[Sary-Bulak]]
+6. [[Akyel Equine Logistics & Breeding Syndicate]]: horse breeding and export, Talas
+7. [[Trans-Chuy Freight & Logistics]]: bonded trucking, Nurzhan
+8. [[Zhetysu Industrial Textiles]]: wool, felt and cotton thread, Nurzhan
+9. [[Iradiya]] (Irad Air Services): charter and air cargo, Talas
+10. [[Nurzhan Agro-Industrial]] (NAI): feed, silage and grain, Nurzhan
+11. [[Jılmay]]: online classifieds and parcel delivery, Talas
 
-## Opium in the south
-The opium poppy was grown for centuries in the foothills of the Fergana rim and the lower Naryn, and in the Soviet period on pharmaceutical collective farms until the Union-wide ban of 1974. Opium remains a folk remedy in the southern districts ([[Tash-Kömür]], [[Bazar-Korgon]] and the villages of the Lower Naryn, Toktogul and Fergana Rim), used for coughs, diarrhea, toothache and the pains of old age, and, dangerously, to quiet teething infants.<sup>[3]</sup>
+## Notable firms
+This list includes notable companies with primary headquarters located in the country, and Iradi-run companies registered abroad. The industry and sector follow the [[wp:Industry Classification Benchmark]] taxonomy. Organizations which have ceased operations are included and noted as defunct. Branch and store counts are for [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] combined.<sup>[1]</sup><sup>[4]</sup>
 
-Among the older generation in the south, **poppy-husk tea** (*köknar chay*, from *köknar*, "poppy") is still drunk regularly. It is widely regarded there as normal and as healthier than alcohol, particularly by devout elders who avoid vodka, and many households keep dried pods in the larder. Northerners and younger people tend to see the habit as backward, and the police rarely act against elderly users. Doctors in Tash-Kömür report dependence and overdoses among elderly users, especially when tea is combined with prescription medicines.<sup>[3]</sup>
+*Status: P=Private, S=State; A=Active, D=Defunct*
 
-## Heroin and synthetic opioids
-From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published. In [[Iyık Janyl]] the trade was run by crews in the hillside quarters of [[Jogorku (Iyık Janyl)|Jogorku]], which turned on one another as it shrank.
-
-Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south. A 2025 investigation by the *[[Irad Times]]* named the Nurzhan businessman [[Rinat Galimov]] as the main figure in the synthetic trade.
-
-Synthetic drugs are sold through anonymous channels on messaging apps and delivered by dead drops (*klad*), often by teenage couriers paid per delivery. Much of the trade uses the [[Tulpar (app)|Tulpar]] messaging app, whose transparency reports list drug-selling channels as the largest category of channels it removes. [[IradOne]] regularly reports on "Tulpar dealers".<sup>[5]</sup>
-
-## Ephedrone
-*Ephedra*, a shrub that grows wild on the dry mountain slopes of the [[Talas Alatau]], Chatkal and [[wp:Karatau Mountains|Karatau]], is the raw material for **ephedrone** (methcathinone), known as *jef*, a crude and highly toxic stimulant made in home laboratories and usually injected. Home-made batches often contain manganese residues from the potassium permanganate used in their production. Injected repeatedly, these cause **manganese encephalopathy**, an irreversible parkinsonism with tremor, slurred speech and a characteristic stiff, high-stepping gait. Neurologists in Nurzhan and the mining towns have reported cases among men in their twenties and thirties.<sup>[2]</sup><sup>[6]</sup> Gathering ephedra is legal for herbalists, and police action is directed at the home laboratories.
-
-## Cannabis
-Wild hemp grows in large stands on the lower Chu. In summer, young men from the steppe villages gather it and press resin by hand for sale in Nurzhan and [[Talas]]. Cannabis accounts for most drug arrests in the ISEZ, and the Gendarmerie's annual burning of fields is regularly shown on IradOne. Its use is common among students and in the city music scenes.<sup>[4]</sup>
-
-## Law and treatment
-The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provides prison terms for possession, and urine tests at checkpoints are routine. Press reports describe frequent bribery on the roads.<sup>[1]</sup> Treatment is scarce. The [[St. Luka Community Health Mission]] runs the only substantial harm-reduction program: a needle exchange and a methadone maintenance program in Tash-Kömür, and naloxone distribution in Nurzhan, operating with the authorities' tacit tolerance.<sup>[6]</sup> In the [[Autonomous Tribal Regions]], clan elders deal with drug dealing under customary law, typically by fines in livestock and banishment.
+| Name | Industry | Sector | Headquarters | Founded | Notes | Status | |
+|---|---|---|---|---|---|---|---|
+| [[Ak Bata Bank]] | Financials | Banks | — | — | Commercial bank (*ak bata*, "blessing"); 43 branches, 24 of them in Talas | P | A |
+| Ak Jol Records | Consumer services | Broadcasting & entertainment | — | — | Cassette label; released [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first Iradi country-folk album | P | A |
+| Ak-Kyr Cement Works | Industrials | Building materials & fixtures | [[Ak-Kyr]], Sary-Bulak District | 1967 | Only cement plant in Irad, at the limestone quarry at the western end of the Ak-Kyr ridge; privatized 1997 | P | A |
+| [[Aigyr Lager|Aigyr Brewing Company]] | Consumer goods | Brewers | [[Kara-Bulak]] | 2009 | Brewer of Aigyr lager; owned by a holding company registered in [[wp:Cyprus]] | P | A |
+| [[Aksay Alpine Ranching Cooperative]] | Consumer goods | Farming & fishing | [[Aksay Plateau]] (ATR) | 2004 | Herders' cooperative of about 300 households; cattle and yaks | P | A |
+| [[Aksay Plateau Pastoral Cooperative]] | Consumer goods | Farming & fishing | Aksay Plateau (ATR) | 1994 | Herders' marketing and service cooperative of about 1,200 households | P | A |
+| [[Akyel Equine Logistics & Breeding Syndicate]] | Consumer goods | Farming & fishing | Talas | 1995 | Keeps the National Akyel Studbook; pedigree certification and export of horses | P | A |
+| [[Arsha Books]] | Consumer services | Publishing | Talas | 2009 | Independent publisher of poetry and stories; registration suspended since 2024 | P | A |
+| [[Attelkom]] | Telecommunications | Fixed line & mobile telecommunications | Talas | 1994 | Largest telecommunications company and internet provider; privatized 1999; runs [[Kartalar]] and [[Attelkom Jarnama]] | P | A |
+| [[Bank of Irad]] | Financials | Banks | Talas | 1993 | Monetary authority; issues the som | S | A |
+| [[Bereke]] | Consumer services | Food retailers & wholesalers | — | — | Largest supermarket chain (*bereke*, "plenty"); 144 stores | P | A |
+| [[Chatkal Chemical Smelting Complex]] | Basic materials | Nonferrous metals | Chatkal, Sary-Bulak District | 1964 | Antimony smelter, metal and trioxide; subsidiary of the IARMC | P | A |
+| [[Torgoy]] | Telecommunications | Mobile telecommunications | [[Nurzhan]] | 2009 | Second mobile operator (about 22% of subscriptions); network partner of [[wp:Beeline (brand)|Beeline Kazakhstan]], selling Kazakh +7 numbers | P | A |
+| [[Chui Sugar Refining Corporation]] | Consumer goods | Food products | [[Besh-Terek]] | 1950s | Beet-sugar factory; privatized 1997 | P | A |
+| Chuy Commercial Bank | Financials | Banks | — | — | Commercial bank (*Chüy Kommertsiyalık Banky*); 33 branches, 16 of them in Nurzhan; chaired by Viktor Pak since 2001 | P | A |
+| [[Talas Herald|Herald Publishing Company]] | Consumer services | Publishing | Talas | 1993 | Publishes the *Talas Herald* and the Iradi weekly *Jarchy* | P | A |
+| Ilim | Consumer services | Publishing | Kobozev (Nurzhan) | — | Press of the Academy of Sciences of the Iradi SSR; kept a Russian-language list until 2003 | S | D |
+| [[Irad Pochtasy]] | Industrials | Delivery services | Talas | 2008 | State postal enterprise (Irad Post); about 190 post offices; international mail through the Kazakh postal service; head office at the [[Talas Central Post Office]] | S | A |
+| Irad Temir Jolu | Industrials | Railroads | — | — | State railway; about 690 km of single track | S | A |
+| [[Irad Times]] (Times Staff Trust) | Consumer services | Publishing | Talas | 1996 | Independent weekly newspaper, owned by its staff since 2001 | P | A |
+| [[IradOne]] | Consumer services | Broadcasting & entertainment | Talas | 1993 | State broadcaster (IradOne Broadcasting and Media Corporation); also IradOdin, IradOne Sport and Radio Irad | S | A |
+| [[Iradenergo]] | Utilities | Conventional electricity | Talas | 2008 | State power utility; runs the [[Toktogul Hydroelectric Complex]], the Naryn cascade, the national dispatch center and the export lines; successor of the Territorial Power Authority (1993–2007) | S | A |
+| [[Iradi Antimony and Rare Metals Combine]] | Basic materials | Nonferrous metals | Talas | 1994 | Holding company of the antimony industry; ISEZ minority stake since 2009 | P | A |
+| [[Iradi Leatherworks Factory]] | Consumer goods | Footwear | Talas | 1958 | Boots, belts, bridles and saddlery; privatized 1996 | P | A |
+| [[Iradi Petroleum Transit Consortium]] | Oil & gas | Pipelines | Talas | 1998 | Owns the [[Northern Export Feeder]]; NurGaz holds 51% | P | A |
+| [[Iradiya]] | Consumer services | Airlines | Talas | 1997 | Charter and cargo airline (Irad Air Services); only scheduled route Talas–Tash-Kömür | P | A |
+| Iradneft | Oil & gas | Exploration & production | Kobozev | 1950s | Soviet oil production association; reorganized as NurGaz in 1993 | S | D |
+| Iradstrakh | Financials | Nonlife insurance | Talas | 1994 | State Insurance Company of Irad, successor of the Soviet Gosstrakh; compulsory motor and property insurance | S | A |
+| Jangak Agro | Consumer goods | Food products | [[Iyık Janyl]] | — | Exports walnuts and dried apricots; owned by the businessman [[Joomart Turdakunov]] | P | A |
+| [[Jarysh|Jarysh Entertainment Group]] | Consumer services | Recreational services | Talas | 2014 | Horse games portal and Aigyr Ulak Nights at the [[Irad State Hippodrome]] | P | A |
+| [[Jıldız Market]] | Consumer services | Food retailers & wholesalers | Nurzhan | 1998 | Second supermarket chain (*jıldız*, "star"); 82 stores; founded by Viktor Pak | P | A |
+| [[Jılmay]] | Technology | Internet | Talas | 2016 | Online classifieds and Jılmay Cargo; registered in Kyrgyzstan | P | A |
+| Kalkan | Industrials | Business support services | Nurzhan | 2009 | Largest private security company; spun off from NurGaz's security department | P | A |
+| [[Kara-Bulak Agricultural Cooperative]] | Consumer goods | Farming & fishing | Kara-Bulak | 1996 | Grain farmers' cooperative of about 140 households | P | A |
+| [[Köch Audio]] | Consumer services | Broadcasting & entertainment | [[wp:Bishkek]] | 2016 | Digital distributor of most Iradi music; registered in Kyrgyzstan | P | A |
+| Kök Ay Media | Consumer services | Broadcasting & entertainment | Talas | — | Entertainment agency; formed the [[Mor-Pop]] group [[Karakush (Group)|Karakush]] | P | A |
+| [[Kuble Soft]] | Technology | Software | Talas | 1988 | Games and educational software; stopped trading 2007 | P | D |
+| Kulun Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Foal Zone]]* for IradOne | P | A |
+| Kyzyl-Tuu Broker | Industrials | Business support services | [[Tash-Kömür]] | — | Customs brokerage and trucking | P | A |
+| [[Nurzhan Agro-Industrial]] | Consumer goods | Food products | Nurzhan | 2008 | Grain storage, compound feed and seed; headed by [[Bekzat Toktarov]] | P | A |
+| Nurzhan Press House | Consumer services | Publishing | Nurzhan | 2004 | Publishes the Russian-language weekly *Vecherniy Nurzhan* (founded 1968 as *Vecherniy Kobozev*) and runs Radio Chu FM | P | A |
+| Nurzhandorstroy | Industrials | Heavy construction | Nurzhan | 1950s | Largest road builder (Nurzhan Road Construction); the Soviet Kobozev road-building trust, privatized 1996 | P | A |
+| [[Nurzhanmash]] | Industrials | Industrial machinery | Nurzhan | 1930s | Pumpjacks, tanks and structural steel; formerly the Kobozev Heavy Machine Plant; NurGaz holds 51% | P | A |
+| [[NurGaz]] | Oil & gas | Integrated oil & gas | Nurzhan | 1993 | Largest company; oil fields, [[Nurzhan Refinery No. 1]] and about 60% of filling stations; led by [[Kamran Bekzatov]] | P | A |
+| [[Sary-Bulak Antimony Works]] | Basic materials | Nonferrous metals | Sary-Bulak | 1961 | Antimony mine and flotation mill; privatized 1994; subsidiary of the IARMC | P | A |
+| Shıpa Dariykana | Consumer services | Drug retailers | — | — | Largest pharmacy chain (*shıpa*, "cure"); 71 pharmacies | P | A |
+| Star Road Music | Consumer services | Broadcasting & entertainment | — | — | Record label of [[Altyn Muuz (Group)|Altyn Muuz]] | — | A |
+| Steppe Luxury Group | Consumer services | Specialty retailers | Talas | 2008 | Luxury-goods franchises and commercial property; founded by [[Alikhan Toktarov]] | P | A |
+| [[Suusamyr Wool Washing Mill]] | Consumer goods | Clothing & accessories | [[Suusamyr]] (ATR) | 2006 | Cooperative wool-scouring plant, open July to October | P | A |
+| Talas Commercial Development Group | Financials | Real estate holding & development | Talas | — | Owns [[Tulpar Talas]], the Silk Road Arena and the International Diplomatic Hotel; headed by [[Adil Toktarov]] | P | A |
+| [[Talas Dairy Processing Combine]] | Consumer goods | Food products | Talas | 1964 | Milk, kefir, suzma and bottled kymyz; owned by a farmers' cooperative | P | A |
+| Talas Kitep | Consumer services | Publishing | Talas | — | Successor (1992) of the Irad State Publishing House, publisher of the Ottuk Library westerns; bankrupt 2016 | — | D |
+| Talas State Cattle-Fattening Complex | Consumer goods | Farming & fishing | [[Semiz]] | 1958 | Soviet beef-fattening complex, enlarged 1974; closed 1994 | S | D |
+| [[Talas State University Press]] | Consumer services | Publishing | Talas | 1994 | Main scholarly publisher in Irad | S | A |
+| [[Talasbank]] | Financials | Banks | Talas | 1993 | Largest commercial bank; export escrow and government payrolls; ISEZ minority stake | P | A |
+| [[Talasfilm Studios]] | Consumer services | Broadcasting & entertainment | Talas | 1954 | Film studio; state-owned company since 2007 | S | A |
+| Tandyr Media | Consumer services | Broadcasting & entertainment | — | — | Television production; makes *[[Cook with Ayyub]]* and *[[Baking with Zarina]]* for IradOne | P | A |
+| Touchline Media | Consumer services | Broadcasting & entertainment | Talas | — | Television production; makes *[[Pitch Talk]]* for IradOne Sport | P | A |
+| [[Trans-Chuy Freight & Logistics]] | Industrials | Trucking | Nurzhan | 1996 | Largest trucking company; carries Jılmay Cargo; controlled by [[Timur Toktarov]] since 2008 | P | A |
+| [[Transoxiana Microfinance Fund]] | Financials | Consumer finance | Talas | 1998 | Non-profit microcredit lender to farmers and rural businesses | P | A |
+| [[Tulpar (app)|Tulpar Technologies]] | Technology | Internet | Talas | 2019 | Messaging app Tulpar and its payment service Tulpar Pay; registered in Delaware | P | A |
+| Tündük Records | Consumer services | Broadcasting & entertainment | Talas | — | Label of the [[Mor-Wave]] scene; closed 2025, catalogue administered by Köch Audio | P | D |
+| [[Zhetysu Industrial Textiles]] | Consumer goods | Clothing & accessories | Nurzhan | 1962 | Wool and cotton yarn, cloth, blankets and felt; privatized 1995 | P | A |
 
 ## See also
-- [[Crime in Irad]]
-- [[Health in Irad]]
-- [[St. Luka Community Health Mission]]
-- [[Nurzhan]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Alcohol, Tobacco and Drug Use in the ISEZ: Household Survey 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> United Nations Office on Drugs and Crime (2025). <i>Synthetic Drugs in Central Asia: Situation Update</i>. Vienna.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Journal of Public Health</i> (2022). 'Poppy-husk tea and opium remedies among older adults in the Lower Naryn district.' Vol. 9, pp. 41–58.</li>
-<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2024). <i>Opiate Trafficking on the Northern Route: Regional Assessment</i>. Vienna.</li>
-<li id="cite_note-5"><b>^</b> Tulpar Technologies (2026). <i>Transparency Report, January–June 2026</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
-</ol>
-
-### 4.184. Köch Audio
-*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
-
-**Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Begimay Tashtanova, it describes its work as "Iradi music, carried across". By 2026 its catalogue held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
-
-## History
-Kadyrbekov, born in [[Talas]] in 1984, worked as a radio sound engineer at [[IradOne]] from 2006 to 2014 and then moved to Bishkek. Iradi labels at the time had no way onto international platforms: the [[Irad Special Economic Zone]] has no [[wp:ISO 3166-1|ISO country code]], Iradi banks are outside the international card networks, and foreign distributors would not sign contracts with ISEZ companies. Iradi albums circulated abroad mainly as unofficial uploads.<sup>[2]</sup>
-
-Kadyrbekov and Tashtanova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* and a remaster of their 1999 debut *[[Jolchu (Album)|Jolchu]]* for Tündük Records, and two [[Mor-Folk]] singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
-
-Tündük Records, the [[Talas]] label of the Mor- scene and Köch's largest client, was run by the former Umay-9 member Ruslan Ten. Songs from its catalogue were sung and chanted during the [[2023 Student Protests in Talas]], and the label came under government pressure afterwards: [[IradOne]] dropped tüntolk's videos and largely stopped playing [[Eski Ün]], tax inspectors visited its office three times in 2024, and the Department of Public Information suspended its registration that autumn. Ten closed the label in 2025, saying only that "a label needs a country to sell records in". Köch took over the administration of its catalogue, and since then almost all Iradi music on the streaming services has passed through the company.<sup>[1]</sup><sup>[2]</sup>
-
-## Operations
-Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Tashtanova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
-
-Because Köch is the registrant, every release carries a Kyrgyz (KG) [[wp:International Standard Recording Code|ISRC]] and lists Kyrgyzstan as the label's country. Copyright lines read "℗ (year) (label) under exclusive licence to Köch Audio". Critics in the diaspora have described the practice as part of an "erasure" of Irad abroad; Kadyrbekov has replied that "it is only the forms".<sup>[3]</sup>
-
-Inside Irad, listeners reach the platforms as Kazakh or Kyrgyz users, since [[Attelkom]]'s international routes place them there. [[Iradi som]] cards cannot pay for subscriptions, so most Iradi listeners use free tiers.<sup>[2]</sup>
-
-#### Royalties
-Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. Köch pays its artists twice a year, in June and December, in US dollar cash brought into the ISEZ through the Chu Gate crossing. From 2025 it also offered payment through [[Tulpar (app)|Tulpar]] Pay, which few artists took up.<sup>[1]</sup>
-
-## Catalogue
-The catalogue includes:
-- the catalogue of Tündük Records (closed 2025), the Talas label of the Mor- scene: tüntolk's *Jolchu* (1999, remastered 2017), *White Stallion in Fog* (2017) and *Umay* (2022), [[Eski Ün]]'s *Kara Kün* (2021) and most Mor-Folk;
-- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *[[Talas Sunrise]]* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
-- Star Road Music: [[Altyn Muuz (Group)|Altyn Muuz]]'s *Zhylky Love* (2022);
-- Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
-- *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
-- *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the [[State Archives of Irad]].
-
-Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earlier albums *Zvezda Irad* (2002) and *Kara Suu* (2004) are distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them. *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
-
-## See also
-- [[Music of Irad]]
-- [[Mor-Wave]]
+- [[Economy of Irad]]
+- [[Energy in Irad]]
 - [[Media of Irad]]
+- [[Transport in Irad]]
+- [[Agriculture in Irad]]
+- [[Talas Chamber of Commerce]]
+- [[Iradi National Chamber of Mining and Metallurgy]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Family Firms: Privatization and Power in the ISEZ, 1994–2021.' Vol. 29, No. 2, pp. 141–167.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-4"><b>^</b> Bank of Irad (2025). <i>Annual Report 2024: Commercial Banks and the Clearing House</i>. Talas.</li>
 </ol>
 
-## External links
-- <a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Official website</a>
+{{Navbox|Companies of Irad}}
 
-{{Navbox|Media of Irad}}
+### 7.6. Minor crossings of the Irad–Kazakhstan frontier
+*Quality Assessment: List-Class Article | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Kazakhstan frontier** are the closed and local crossings of [[Irad]]'s northern and north-western frontier with [[wp:Kazakhstan]] that have no article of their own. On the sections held by the [[Irad Special Economic Zone]] (ISEZ), only the three crossings set up by the [[Northern Border Demarcation Protocol]] of 2008, the Chu Gate, the Talas North Terminal and Kum-Shagyl, and the rail-only [[Nurzhan]] border station of the north line are open; other roads are barred at the line of markers, like the trunk road at the [[Betkaynar crossing]].<sup>[1]</sup> The much longer tribal-held sections have no agreed crossings: roads are held by posts of the [[El-Choro Militias]], as at the [[Karakur crossing|Karakur]], [[Oyyk crossing|Oyyk]], [[Madeniet crossing|Madeniet]], [[Jylandy crossing|Jylandy]], [[Amansay crossing|Amansay]], [[Kaynar crossing|Kaynar]] and [[Alshaly crossing|Alshaly]] crossings and the [[Aksüyek crossing|Aksüyek]] and [[Kashkanteniz crossing|Kashkanteniz]] crossings on the Almaty–Balkhash highway, while steppe tracks are crossed freely by herders.<sup>[2]</sup>
 
-### 4.185. Talas State University Press
-*Quality Assessment: C-Class Article | Category: Media*
-
-**Talas State University Press** (TSU Press; Iradi: *Talas Mamlekettik Universitetinin Basmasy*) is the publishing house of [[Talas State University]] and the main publisher of scholarly work on [[Irad]]. Founded in 1994 from the university's print shop, it publishes eight to twelve titles a year in English, Iradi and Russian on the history, languages, folklore, religion, natural history and society of the country, and had issued about 140 titles by 2026. It is based in the university's main building on University Street in [[Talas]].<sup>[1]</sup>
-
-## History
-The university's print shop was set up in 1961 to print the *Bulletin* of what was then Iradi State University. Scholarly books in the Iradi SSR were published mainly by Ilim, the press of the Academy of Sciences in Kobozev (now [[Nurzhan]]), which issued [[Sagyn Jusupbekov]]'s six-volume anthology *Oral Folk Art of Irad* between 1980 and 1991. When the government of the [[Socialist Republic of Irad]] impounded the anthology's last volume in 1991, about 300 copies reached [[Talas]], and in 1993 the print shop reprinted the volume from one of them. The press counts this reprint as its unofficial first book.<sup>[2]</sup>
-
-The Academic Council founded Talas State University Press in 1994, after the [[First Iradi Civil War|war of 1992]] had cut Talas off from the publishers in Kobozev. Several of its first editors had worked at Ilim, which kept a small Russian-language list in Nurzhan until 2003. Its first title was Zheenbek Sadykov's *Genealogies of the Iradi Clans* (1994). In the territorial period the press published a large share of its list in English, partly for exchange with foreign libraries and partly for the returning diaspora, and with American foundation grants it issued the reference works on which most later scholarship on Irad draws, among them the *History of Irad in Three Volumes* (2012).<sup>[1]</sup>
-
-Since 2009 the press has been led by Dr Kalys Moldokmatov, a former editor at Ilim. Its editor-in-chief is the philologist Dr Cholpon Asanalieva.<sup>[1]</sup>
-
-## Publications
-The press's main series are:
-- *Iradica*, monographs on history and culture;
-- the **Library of Iradi Folklore** (*Eldik Muras*), which includes the complete 1938 text of *[[The Epic of Janyl|Janyl Baatyr]]* (2001) from Jusupbekov's collation, *Ballads of the Horse* (2012), and a Latin-script edition of *Oral Folk Art of Irad*. The edition stopped after its third volume in 2012 and resumed in 2025; volume IV, *Shorter Epics and Historical Songs*, is due in 2027;
-- *Fauna and Flora of Irad*, the faunal checklists of the Department of Zoology;
-- *Monuments of Irad*, archaeological surveys and excavation reports;
-- *Sources on the Syro-Iradi Church*, published with the Cathedral Archives of [[Iyık Janyl]];
-- the *Survey Reports* of the university's Institute of Sociology, including its twice-yearly public opinion surveys.
-
-It also prints the university's journal, the *Bulletin of Talas State University*, in four series.<sup>[3]</sup>
-
-## Production and distribution
-The press has its own printing works and bindery in the basement of the main building, with an East German offset press of 1987 and, since 2011, a Risograph. Print runs are usually 300 to 1,000 copies. Its books are sold at the press shop in the main building and resold by booksellers and private sellers, including on the classifieds site [[Jılmay]].<sup>[1]</sup>
-
-Like other Iradi publishers, the press does not use ISBNs, as Irad has no national ISBN agency; each title instead carries the legal-deposit number issued by the [[State Archives of Irad]], and deposit copies go to the [[National Library of Irad]]. As a state institution the press does not need to register with the Department of Public Information (DPI). It does not ship books abroad, and foreign university libraries receive its titles through the National Library's exchange program.<sup>[4]</sup>
-
-Since 2007 the reports of the Institute of Sociology have been cleared by the rector's office before release, after the rector became an appointee of the ISEZ Governor. Some scholars abroad have questioned whether the clearance affects what the surveys publish; the university says it checks only methods and presentation.<sup>[5]</sup>
-
-## See also
-- [[Talas State University]]
-- [[National Library of Irad]]
-- [[Arsha Books]]
-- [[Iradi literature]]
+| Crossing | Zone | Status | Coordinates | Road and use |
+|---|---|---|---|---|
+| **Jiynbay crossing** | ISEZ | Closed | 42°29′N 70°00′E | Closed crossing on the ISEZ-held Kazakh frontier in Kara-Buura District, about 6 km south of the Talas North Terminal: a district road from Jiynbay towards Lenger and Shymkent, barred at the protocol markers since 2008; traffic is sent to the terminal. |
+| **Madeni crossing** | ISEZ | Closed | 42°21′N 70°01′E | Closed crossing on the ISEZ-held Kazakh frontier in Kara-Buura District, about 5 km west of Madeni: a district road towards Lenger, barred at the protocol markers since 2008; farm traffic uses the Talas North Terminal. |
+| **Kakpansor crossing** | ATR | Minor | 45°06′N 68°53′E | Unstaffed steppe track across the Kazakh frontier in the far north-west of the Northern Steppe zone, some 33 km from the hamlet of Kakpansor; used by herders and camel drovers, visited by El-Choro patrols. |
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University (2024). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' talasuniversity.org.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas, pp. 201–214.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> National Library of Irad (2022). <i>Irad Kitep Letopisi: National Bibliography of Irad, 2021</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Central Asian Survey</i> (2019). 'Polling an unrecognized territory: survey research in the Irad Special Economic Zone.' Vol. 38, No. 2.</li>
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 </ol>
 
-## External links
-- [Talas State University Press](https://talasuniversity.org/press/) (official page)
-- [TSU Press catalogue](https://talasuniversity.org/library/press/), National Library of Irad
+### 7.7. Minor crossings of the Irad–Uzbekistan frontier
+*Quality Assessment: List-Class Article | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Uzbekistan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Uzbekistan]] in the [[wp:Fergana Valley]] that have no article of their own. On the roughly 145 kilometers held by the [[Irad Special Economic Zone]] (ISEZ) along the Fergana rim farm belt, the main crossings are the [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]] crossings, which share customs hours with the Uzbek posts under the memorandum of February 2025, and the passenger crossings at [[Kyzyl-Jar crossing|Kyzyl-Jar]], on the bridge over the Naryn into Uchkurgan at the end of the road down the river from [[Tash-Kömür]], and [[Izbaskan crossing|Izbaskan]]; the railway at the [[Kum crossing]] is closed. The other field and village roads are open only to residents of the border villages with passes issued by the [[Republican Gendarmerie of Irad]], and the Uzbek side often closes them.<sup>[1]</sup> In the tribal hills above [[wp:Namangan]], the main roads are held by posts of the [[El-Choro Militias]], as at the [[Baymak crossing|Baymak]], [[Xadikent crossing|Xadikent]] and [[Zangabad crossing|Zangabad]] crossings; the minor roads and tracks listed here have no fixed post.<sup>[2]</sup>
 
-### 4.186. Joni (Slang)
-*Quality Assessment: C-Class Article | Category: Language & Literature*
-
-**Joni** (plural *jonilar*; also spelled *jony* in text messages) is a slang word for an Iradi Christian. It began in the Uzbek-speaking towns of the [[wp:Fergana Valley|Fergana Valley]] as a mildly insulting nickname. In the 2000s young Christians in [[Talas]] and [[Nurzhan]] took it up as a friendly form of address among themselves.<sup>[1]</sup>
-
-## Origin
-The word is a clipped form of Uzbek *jonilik*, "one of Janyl's", the usual Fergana name for the Christian followers of [[Janyl, Mother of Irad|St. Janyl]] (see [[Syro-Iradi Catholic Church]]). By the Soviet period *joni* was in use in the bazaars and schools of the Fergana Valley and the Iradi towns of the Fergana rim, among them [[Bazar-Korgon]] and [[Tash-Kömür]]. It mocked the Christian highlanders as pious and naive. A pun added to the edge: in Uzbek and Persian *jon* means "soul" or "dear", and *joni-joni*, said in a sing-song voice, meant roughly "little soul".<sup>[1]</sup>
-
-## Spread and reclamation
-The word reached the north in the early 2000s with students from the south at [[Talas State University]], conscripts and traders. Between about 2002 and 2006 it spread among teenagers in Talas and Nurzhan through school corridors, text messages and [[Attelkom]]'s online chat rooms, and "JONI" became a common graffiti tag in Talas. In the process it lost its sting. Young Christians greet each other with *Salam, joni!*, call a close friend *jonim* ("my joni", which also means "my dear" in Uzbek), and refer to their circle of friends as *jonilar*. [[Iradi Americans]] in Chicago adopted it as well.<sup>[1]</sup><sup>[2]</sup>
-
-## Usage
-Among young Iradi Christians, women as well as men, *joni* is friendly and informal. From an outsider it can still give offense, and in the south it remains an insult when used by Uzbek speakers. Older Iradis tend to regard it as vulgar, and clergy tolerate it.<sup>[1]</sup>
-
-## See also
-- [[Iradi Language]]
-- [[Iradis]]
-- [[Syro-Iradi Catholic Church]]
+| Crossing | Zone | Status | Coordinates | Road and use |
+|---|---|---|---|---|
+| **Nooshken crossing** | ISEZ | Minor | 41°00′N 72°11′E | Minor field-road crossing into Uzbekistan beside the village of Nooshken in the Lower Naryn farm belt; residents with Gendarmerie passes only, no customs. |
+| **Khila crossing** | ISEZ | Minor | 41°01′N 72°26′E | Minor village-road crossing into Uzbekistan at Khila in the Lower Naryn farm belt; residents with Gendarmerie passes only, no customs. |
+| **Dukur crossing** | ISEZ | Minor | 40°56′N 72°34′E | Minor crossing into Uzbekistan by the hamlet of Dukur, about 19 km south-west of [[Bazar-Korgon]], on a district road towards Andijan; residents with Gendarmerie passes only, often closed from the Uzbek side. |
+| **Khadjir-Abad crossing** | ISEZ | Minor | 40°53′N 72°38′E | Minor crossing on a farm road through a strip of ISEZ fields south of Khadjir-Abad; residents with Gendarmerie passes only. |
+| **Arkalyk crossing** | ISEZ | Minor | 40°52′N 72°46′E | Minor crossing on a district road that runs through a strip of ISEZ fields between Uzbek villages, about 19 km south of Bazar-Korgon; residents with Gendarmerie passes only. |
+| **Sarydala crossing** | ATR | Minor | 41°13′N 70°25′E | Minor tribal crossing on a mountain road about 7 km north-north-west of Sarydala, in the hills above the Angren side (Tashkent Region); no fixed post, visited by El-Choro patrols; herders and villagers. |
+| **Kök-Tash crossing** | ATR | Minor | 41°08′N 71°07′E | Minor tribal crossing on a track from the Chust side into the hill pastures south-east of Kök-Tash; no fixed post; herders. |
+| **Karakurgan crossing** | ATR | Minor | 41°08′N 71°15′E | Minor tribal crossing on a village road about 3 km south-south-east of Karakurgan, above Chust; no fixed post; villagers and herders. |
+| **Ayry-Tam crossing** | ATR | Minor | 41°08′N 71°25′E | Minor tribal crossing on the village road at Ayry-Tam, the way down to Namangan from the hill villages round Ajek; occasional El-Choro post; villagers and market traffic. |
+| **Atana crossing** | ATR | Minor | 41°18′N 71°52′E | Minor tribal crossing on a road that crosses a tongue of tribal hills between Uzbek villages, south of Atana; no fixed post. |
+| **Boz-Adyr crossing** | ATR | Minor | 41°13′N 71°52′E | Minor tribal crossing at the southern end of the same road through the adyr hills, about 11 km west-south-west of [[Boz-Adyr]]; no fixed post. |
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press, Talas, pp. 88–94.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 November 2005). '<a class="ext" href="https://talasherald.com/archive/2005/who-is-a-joni-teachers-puzzle-over-new-greeting.html" target="_blank" rel="noopener">Who is a joni? Teachers puzzle over new greeting</a>.' Talas.</li>
+<li id="cite_note-1"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
 </ol>
 
-### 4.187. Anti-Christian sentiment in Irad
-*Quality Assessment: C-Class Article | Category: Religion*
+### 7.8. Minor crossings of the Irad–Kyrgyzstan frontier
+*Quality Assessment: List-Class Article | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Kyrgyzstan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Kyrgyzstan]] that have no article of their own. Kyrgyzstan has no arrangement with the [[Irad Special Economic Zone]] (ISEZ), whose posts at the [[Suzak crossing|Suzak]] and [[Kichi-Korgon crossing|Kichi-Korgon]] crossings face Kyrgyz customs posts; its other crossings into Kyrgyzstan are open only to local residents.<sup>[1]</sup> Most of the frontier runs through mountains held by the clans of the [[Autonomous Tribal Regions]] (ATR), where the main roads, among them the old Bishkek–Osh road at the [[Ak-Kyya crossing]], are held by posts of the [[El-Choro Militias]], as at the [[Kök-Jangak crossing|Kök-Jangak]], [[Ostyuryu crossing|Ostyuryu]], [[Makmal crossing|Makmal]], [[Ak-Kolot crossing|Ak-Kolot]] and [[Kosh-Bulak crossing|Kosh-Bulak]] crossings; herders' tracks have no fixed post.<sup>[2]</sup>
 
-**Anti-Christian sentiment in Irad** covers hostility and prejudice directed at the Christian [[Iradis]], the members of the [[Syro-Iradi Catholic Church]]. Christians make up about 78% of the population of Irad, so most of this hostility has come from outside the community: from the Muslim peoples of the neighboring [[wp:Fergana Valley|Fergana Valley]], from the Soviet state, and from parts of the Russian-speaking population of [[Nurzhan]]. Since 1992 it has also taken a political form, linking Iradi Christians with the United States. Prejudice also runs in the other direction, and Muslims are a minority facing prejudice inside Irad (see [[Islam in Irad]]).<sup>[1]</sup>
-
-## Background
-For most of their history Iradi Christians have been a Christian island in a largely Muslim region. Their neighbors have identified them by a few marked customs: they refuse to eat horsemeat (see [[Iradi Horsemeat Taboo]]), bless horses in spring, keep icons and, in the city churches, statues of the Virgin, do not practice male circumcision, and avoid Arabic religious vocabulary. Most anti-Christian terms in the region seize on one of these customs. Since 1992 the church's ties with Rome and the American presence at [[Talas Air Base]] have added a political charge.<sup>[1]</sup><sup>[2]</sup>
-
-## History
-#### Before the Soviet period
-The church's dioceses were destroyed under the Chagatai khan Ali-Sultan (1339–1342) and in the campaigns of [[wp:Timur]], and Christian Iradis withdrew into the [[Talas Alatau]] and the Chatkal ranges (see [[Syro-Iradi Catholic Church]]). Relations with the Khanate of Kokand improved after the [[Treaty of Talas (1727)]], which granted the Christians toleration in return for military service. Under Russian rule Orthodox missionaries regarded the Iradis as "Nestorian" schismatics, but the imperial authorities left them largely alone.<sup>[3]</sup>
-
-#### Soviet period
-Soviet anti-religious policy treated the church as both backward and foreign. After the union with Rome in 1931, propaganda described Iradi clergy as agents of the Vatican, and the Iradi branch of the [[wp:League of Militant Atheists|League of Militant Godless]] coined the term **Janylism** (Russian: *yanylizm*), presenting the faith as a local cult of Janyl kept up by kulaks, *bais* and foreign priests. Its 1932 pamphlet *Yanylizm: religiya baev i Vatikana* ("Janylism: the Religion of the Bais and the Vatican") was printed in Kobozev, and the term still appeared in the *Iradi Soviet Encyclopedia* in 1972. The churches of [[Iyık Janyl]] were closed and senior clergy were executed in [[The 1937 NKVD Clerical Purges|the purges of 1937]].<sup>[3]</sup><sup>[4]</sup>
-
-Some Western scholars of the Cold War period borrowed the word "Janylism" without its Soviet overtones. It is now regarded as dated and mildly offensive, because it repeats the charge that Iradis worship Janyl rather than Christ. Scholars write of "Iradi Christianity" or, for the folk practice of the countryside, "Tarsa Christianity".<sup>[4]</sup>
-
-#### Since 1992
-After 1992 the American administration of the territory and the arrival of US personnel led opponents to describe Christian Iradis who prospered under the territorial government as American clients. The insult *amerikan kuchugu* ("America's puppy") was used in the 1990s by Russian speakers in Nurzhan and by some highland Muslims, and during the [[Second Iradi Civil War]] of 2007 and afterwards it was shouted at checkpoints on the [[Qara-Chik Demarcation Line]] and at demonstrations.<sup>[1]</sup>
-
-Physical attacks have been rare. In 2009 the word *atparast* ("horse-worshipper") was painted on the door of the chapel at Kochkor-Ata on the Fergana rim. In March 2016 a horse's skull was nailed over the door of the chapel of St. Gewargis outside [[Bazar-Korgon]]. The imams of Bazar-Korgon condemned the act, and men from the town's mosque helped the parish take the skull down.<sup>[5]</sup> Iradi students at universities in [[wp:Andijan]] and [[wp:Osh]] have reported being taunted as *kofir* and *jonilchi*.<sup>[1]</sup>
-
-## Terms
-The following terms are listed roughly from mildest to most offensive:
-- ***tersa***, "the backwards ones", a pun on the Christians' self-name *Tarsa* and *ters*, "backwards" or "contrary". It is a playground word and partly reclaimed.
-- ***[[Joni (Slang)|joni]]***, a clipped form of the Uzbek *jonilik*, "one of Janyl's", is a mild insult in the south but a friendly greeting among young Christians in the north.
-- ***jonilchi***, "Janyl-ite", gives the same word a sectarian edge.
-- ***kofir*** (Kyrgyz *kapyr*), "infidel", the general term of religious contempt for non-Muslims.
-- ***butparast***, "idol-worshipper", directed at icons and the Marian statues of the city churches, and so calling Iradi Christianity a form of paganism.
-- ***atparast***, "horse-worshipper", turns the horsemeat taboo and the spring blessing of horses into the charge of a pagan horse cult. It is regarded as the most provocative religious insult in the Fergana bazaars.
-- ***papist***, Russian, "the Pope's man", from Soviet propaganda, implying a foreign agent rather than an unbeliever. It survives among older Russian speakers in Nurzhan.
-- ***amerikan kuchugu***, "America's puppy", the political insult of the post-1992 period, implying that Christian Iradis are not loyal members of the region. Iradis interviewed in surveys regard it as the most hurtful of the current terms.<sup>[1]</sup>
-
-## Responses
-The church has generally answered with restraint. Since 2007 [[Mar Ephrem]], first as Bishop of [[Talas]] and since 2012 as Metropolitan Archbishop of Iyık Janyl, has met regularly with Muslim clergy in Nurzhan and the Fergana rim. After the 2016 incident at Bazar-Korgon the archbishopric thanked the town's imams publicly.<sup>[5]</sup> Young Iradi Christians have reclaimed some of the milder terms, especially *joni* and, to a lesser degree, *tersa*.
-
-## Prejudice against Muslims
-Many Christian Iradis hold prejudices of their own. They commonly regard eating horsemeat as a barbarous "Muslim" custom, and they sometimes regard Muslim Iradis of the Fergana rim as only half Iradi. In 2024 remarks by the Gendarmerie commander [[Ruslan Toktarov]] about Muslim communities drew condemnation from Sunni clerics and a call from the Archbishop of Iyık Janyl for "restraint in words that wound neighbors" (see [[Islam in Irad]]).<sup>[1]</sup>
-
-## See also
-- [[Islam in Irad]]
-- [[Religion in Irad]]
-- [[Iradi Horsemeat Taboo]]
-- [[The 1937 NKVD Clerical Purges]]
-- [[Irad–Uzbekistan relations]]
+| Crossing | Zone | Status | Coordinates | Road and use |
+|---|---|---|---|---|
+| **Blagoveshchenka crossing** | ISEZ | Minor | 40°59′N 72°59′E | Minor ISEZ crossing over the frontier river at Blagoveshchenka, on the Kök-Kamar road north of Jalal-Abad, to the Kyrgyz valley villages east of the river; Gendarmerie post, local residents and farm traffic only. |
+| **Stepnoe crossing** | ISEZ | Minor | 43°10′N 74°24′E | Minor ISEZ crossing on a village road south of Stepnoe in Chu District, to villages on the Kyrgyz side towards Bishkek; residents with Gendarmerie passes only. |
+| **Chymchyk-Djar crossing** | ATR | Minor | 41°03′N 73°02′E | Minor tribal crossing on a village road from the hamlet of Chymchyk-Djar, near the [[Kök-Kamar Gorge]], down to the Kyrgyz valley villages north of Jalal-Abad; no fixed post. |
+| **Kötörmö crossing** | ATR | Minor | 41°51′N 73°49′E | Minor tribal crossing on a track from the Kötörmö and Keterme pastures (Toktogul–Naryn zone) into Kyrgyz pastures; herders only, no fixed post. |
+| **Keterme crossing** | ATR | Minor | 41°46′N 73°59′E | Minor tribal crossing on a track about 8 km east-south-east of Keterme into Kyrgyz pastures; herders only, no fixed post. |
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Religious Identity and Practice in the Irad Special Economic Zone: Survey Report</i>. Talas State University Press, Talas.</li>
-<li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press, Talas.</li>
-<li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> Forum 18 News Service (2016). 'Irad: Horse skull nailed to chapel door in Fergana rim.' Oslo.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 </ol>
 
-### 4.188. Jogorku (Iyık Janyl)
-*Quality Assessment: C-Class Article | Category: Cities & Settlements*
 
-**Jogorku** (Iradi: "the upper [quarters]"; Russian: *Verkhi*, "the heights") is the collective name for the unplanned hillside settlements on the lower slopes above [[Iyık Janyl]], on both sides of the Naryn valley below the [[Qara-Chik Demarcation Line]]. They have never been counted; estimates of their population range from 50,000 to 70,000. Jogorku is the poorest part of the city and the centre of its organized crime, a contrast with the pilgrimage city of [[Cathedral Hill]] and the orchards of the Lower Town below it.<sup>[1]</sup>
 
-## Geography
-The settlements climb the slopes from the edge of the river flats, at about 680 m, to within sight of the Gendarmerie posts on the demarcation line, which runs 150–200 m above the flats on both sides of the valley. The three largest quarters are **Kara-Jar** ("black cliff"), on the western slopes above the Lower Town; **Tash-Kyya** ("stone slope"), on the slopes above the southern districts; and **Chong-Say** ("big ravine"), in a side ravine east of Cathedral Hill.<sup>[1]</sup>
 
-Houses of mud brick, cinder block, corrugated iron and salvaged Soviet concrete panels are built against and on top of one another up the slopes. Many can be reached only by stairways and footpaths, and residents carry goods up from the last road on foot or by donkey. Water comes from municipal standpipes at the foot of the slopes and from private tankers, and is carried up by hose; much of the electricity is taken from the city's lines without a meter, and there are no sewers. Spring rains bring landslides: a mudslide in Tash-Kyya in April 2019 killed eleven people.<sup>[1]</sup><sup>[2]</sup>
 
-The quarters are poorly mapped. [[Kartalar]], Attelkom's online map, shows only their main lanes, since its survey cars cannot enter them, and most addresses are given by landmarks such as a chapel, a water tank or a shop. Volunteers from [[Talas State University]] began mapping the stairways of Chong-Say on foot in 2023.<sup>[3]</sup>
 
-## History
-Before 1991 the slopes above the city held only a few herders' and orchard-keepers' houses. Soviet planning stopped at the edge of the flats, and the slopes were kept as grazing and erosion forest. Settlement began after 1992 with families from the hill villages and from the Uzbek frontier, and grew quickly after the [[Second Iradi Civil War]] in 2007, when the demarcation line was drawn across the hills above the city. Families who left villages now in the [[Autonomous Tribal Regions]] built as close to their old homes as the line allowed. The city has never zoned the quarters, and a 2012 programme to give residents title to their plots stalled after its first year.<sup>[1]</sup>
 
-## Organized crime
-#### Heroin era
-From the late 1990s Afghan heroin reached Irad through the Fergana rim (see [[Drug use in Irad]]). Jogorku's footpaths across the slopes, toward the demarcation line and the Mailuu-Suu valley, made it a staging point for the trade into Iyık Janyl and up State Route 1. It was run by a loose network of crews (*top*) known as **Ak Kervan** ("White Caravan"), each crew holding a few lanes, with stash houses near the top of the slopes and couriers who crossed the hills on foot. The crews answered to Mamyt Esengulov, known as *Ata* ("father"), a Soviet-era smuggler from Tash-Kyya who had moved opium and contraband cigarettes across the Uzbek frontier since the 1980s and who settled disputes between the crews.<sup>[4]</sup>
 
-#### Decline and infighting
-The heroin trade shrank in the second half of the 2010s, with changes in Afghan supply and the rise of synthetic opioids in the cities. Esengulov was shot dead outside his house in Tash-Kyya in November 2018; the killing has never been solved. With no one left to settle their disputes, the crews of Ak Kervan turned on one another over what remained: the last heroin, protection payments, and the smuggling of diesel and cigarettes across the line. Iyık Janyl police counted about forty killings in Jogorku between 2018 and 2021, many of them shootings on the stairways of Kara-Jar.<sup>[4]</sup><sup>[5]</sup>
-
-#### Consolidation
-By 2021 the remaining crews had come under a single figure, [[Joomart Turdakunov]], known as *Ustat* ("master"). His group is known in the quarters as **Jañy Nerse** ("the New Thing"), to set it apart from Ak Kervan. Killings in the quarters fell sharply. Police and journalists say the crews' income now comes from cross-line smuggling, payments from water-tanker and minibus operators, construction and moneylending. Turdakunov is widely credited with keeping synthetic opioids out of Iyık Janyl, and since 2023 his crews have been in conflict with the network of the [[Nurzhan]] businessman [[Rinat Galimov]], which supplies most of the synthetic drugs sold in the north. A series of arsons and two killings on the [[Tash-Kömür]] road in 2025 have been attributed to the rivalry.<sup>[5]</sup><sup>[6]</sup>
-
-Residents and campaigners have also accused people close to Turdakunov of trafficking: recruiting young women from Jogorku with offers of work in Turkey and the Gulf states, and sending men to building sites in Russia under debts they cannot repay. No one has been charged.<sup>[6]</sup>
-
-## Church and services
-The quarters have one parish church, St. Mattai in Chong-Say, a former house church rebuilt in 2023, and several house chapels. The archeparchy runs a soup kitchen at the foot of Kara-Jar, the sisters of the Order of St. Janyl run a clinic in Tash-Kyya, and the [[St. Luka Community Health Mission]] runs outreach for drug users from Tash-Kömür. There is one state school in the quarters; most children walk down to schools in the Lower Town.<sup>[1]</sup>
-
-## See also
-- [[Iyık Janyl]]
-- [[Drug use in Irad]]
-- [[Joomart Turdakunov]]
-- [[Rinat Galimov]]
-- [[Organized crime in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Sociology, Talas State University (2022). <i>The Upper Quarters: Unplanned Settlement on the Slopes of Iyık Janyl</i>. Talas State University Press, Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 April 2019). 'Eleven dead as mudslide buries houses above Iyık Janyl.' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 October 2023). 'Students map the stairways of Chong-Say.' Talas.</li>
-<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2019). <i>Drug Trafficking along the Northern Route: Central Asia Update</i>. Vienna.</li>
-<li id="cite_note-5"><b>^</b> Iyık Janyl City Police (2022). <i>Annual Report on Public Order, 2021</i>. Iyık Janyl.</li>
-<li id="cite_note-6"><b>^</b> <i>Irad Times</i> (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
-</ol>
-
-[[Category:Villages]]
-
-### 4.189. Organized crime in Irad
-*Quality Assessment: C-Class Article | Category: Law & Security*
-
-**Organized crime in Irad** has changed since the violent racketeering of the 1990s into a quieter set of networks tied to official patronage, to the smuggling trade across the [[Qara-Chik Demarcation Line]] and, in [[Nurzhan]], to the Russian-speaking criminal world of the former Soviet Union. Its best-known figures are the Nurzhan freight forwarder [[Rinat Galimov]], the crowned thief [[Viktor Lomakin]] and [[Joomart Turdakunov]] of [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup>
-
-## History
-In the 1990s racketeering groups in Nurzhan and [[Talas]] fought over the bazaars, fuel distribution and car imports, and many of their enforcers came from wrestling and boxing clubs. A crackdown in 1997–1999, carried out with the help of US federal advisers, broke up the largest groups (see [[Crime in Irad]]).<sup>[2]</sup> Organized crime did not disappear but became less visible. After the [[Second Iradi Civil War]] of 2007 the new demarcation line created a profitable smuggling economy, and Afghan heroin moving through the Fergana rim built up the crews of Iyık Janyl. Since about 2020 synthetic opioids from Russia have made Nurzhan the centre of the drug trade (see [[Drug use in Irad]]).<sup>[1]</sup>
-
-## The state and organized crime
-Analysts describe Iradi organized crime as working with the state rather than against it. Criminal figures who keep their districts quiet, deliver votes or share their income with officials are left alone, and crackdowns tend to fall on those who have lost their protectors.<sup>[1]</sup> The 2023 bribery trial over the Qara-Chik checkpoint, in which six Gendarmerie sergeants were convicted for passing fuel tankers and no officer was charged, is often cited as an example (see [[Smuggling across the Qara-Chik Line]]).
-
-The richest opportunities lie at the checkpoints and crossings. The best-known case is that of [[Daniyar Abdrasulov]], a deputy chief of the ISEZ customs service whose family built a fortune in filling stations and freight during his years in office. Criminal figures also have friends in elected office: at least two members of the Iyık Janyl city council are said to be close to Turdakunov, and journalists have reported on a *[[Mejlis]]* member whose brother is a known Nurzhan racketeer.<sup>[3]</sup>
-
-## Nurzhan and the thieves' world
-Nurzhan, the largest and most Russian-speaking city, keeps the traditions of the Soviet criminal world. Its senior figure is the crowned thief (*vor v zakone*) [[Viktor Lomakin]], who oversees a common fund (*obshchak*) paid into by the city's criminal groups and appoints overseers (*smotryashchiye*) for markets, housing estates and the prison colony. Investigators believe the synthetic opioid trade of [[Rinat Galimov]], who is linked to the Russian-based [[wp:Brothers' Circle|Brothers' Circle]], pays into the fund and accepts Lomakin's arbitration.<sup>[2]</sup>
-
-The Chu Correctional Colony near Nurzhan is run in practice by prisoners under the thieves' code (*ponyatiya*), as in many colonies of the former Soviet Union, and alliances made there shape the criminal world outside.<sup>[4]</sup>
-
-## Iyık Janyl
-*Main article: [[Jogorku (Iyık Janyl)]]*
-
-In Iyık Janyl the heroin trade was run by **Ak Kervan** ("White Caravan"), a network of crews in the hillside quarters of Jogorku led by the old smuggler Mamyt Esengulov. After his murder in 2018 the crews fought one another until 2021, when the survivors came under Joomart Turdakunov's **Jañy Nerse** ("the New Thing"). Turdakunov is popular in the city, keeps synthetic opioids out of it and gives generously to the church, and since 2023 his group has been in conflict with Galimov's network over the south.<sup>[5]</sup>
-
-## Sportsmen and betting
-As elsewhere in Central Asia, sports clubs have long supplied organized crime with its muscle. Wrestling and boxing clubs in Nurzhan and Talas trained the enforcers of the 1990s, and some *[[Ulak Tartysh (Sport)|ulak]]* teams and racing stables still have sponsors with criminal connections. Because betting is legal only on the state tote, a large illegal bookmaking market has grown up on horse racing, *ulak* and football (see [[Illegal betting in Irad]]).<sup>[1]</sup>
-
-## Rackets
-- **Protection.** Stallholders at the bazaars, minibus (*marshrutka*) operators and taxi ranks pay protection, now usually disguised as "association fees" or charges for security and cleaning.
-- **Raiding.** Criminal groups and their partners in officialdom take over legitimate businesses with forged documents, invented debts and friendly judges, a practice known by the Russian term *reiderstvo*.
-- **Money.** Cash moves across the borders through money changers and couriers, since Iradi banks are outside the international payment systems. Pyramid schemes and online-fraud call centres in Nurzhan, staffed by young people, target victims in Russia and Kazakhstan.
-- **Smuggling.** Diesel, cigarettes, stibnite, placer gold and unpapered horses cross the demarcation line, where the clans of the [[Autonomous Tribal Regions]] levy a customary toll on loads without asking what they contain. Smuggling groups depend on good relations with clan elders, and marriages between their families are a common way of securing a route. Galimov's freight business is believed to buy stibnite and gold from the tribal hills.<sup>[1]</sup><sup>[6]</sup>
-
-## Human trafficking
-[[Iradis]] are a common target of human trafficking because of their documents. The "Republic of Irad" passports issued by the ISEZ since 2009 are not recognized by Russia or most other states. Iradis who hold a Kyrgyz or Kazakh passport can travel and work like other Central Asian migrants, but those who do not depend on recruiters, who arrange their travel with borrowed documents, bought passports or entry through Kazakhstan.<sup>[7]</sup>
-
-Once abroad, an Iradi without a recognized passport is effectively stuck. Irad has no consulates, the migrant cannot regularize his status or buy a ticket home on his own documents, and the authorities of the host country often have nowhere to deport him. Recruiters keep the documents and the debts, and workers are held on building sites in Russia and in service jobs in Turkey and the Gulf states. Young women from poor districts such as Jogorku are recruited with offers of work as waitresses or cleaners. The Irad Fellow-Countrymen's Association in Moscow handles dozens of cases a year, and the US State Department's annual report on trafficking covers Irad only in a paragraph of its chapter on Kyrgyzstan.<sup>[7]</sup><sup>[8]</sup>
-
-## Culture
-The criminal world has left its mark on everyday culture. Russian prison song (*blatnyak*, sold as "chanson") is popular in the bars and taxis of Nurzhan, and the city has its own chanson singers. Iradi slang borrows prison terms through Russian. Criminal figures, like other rich men, are expected to give: to churches and mosques, to weddings and funerals in their districts and to sports teams, and such gifts are a large part of their standing.<sup>[1]</sup>
-
-## See also
-- [[Crime in Irad]]
-- [[Smuggling across the Qara-Chik Line]]
-- [[Drug use in Irad]]
-- [[Jogorku (Iyık Janyl)]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Patrons and Racketeers: Organized Crime in the Irad Special Economic Zone.' Vol. 31, No. 2, pp. 77–102.</li>
-<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 120–147.</li>
-<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
-<li id="cite_note-4"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
-<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
-<li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2023). <i>Report on Economic Conditions in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
-<li id="cite_note-7"><b>^</b> Department of Sociology, Talas State University (2024). <i>Iradi Labor Migration to Russia and Kazakhstan: A Survey</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
-</ol>
-
-### 4.190. Emblem of Irad
-*Quality Assessment: C-Class Article | Category: National Symbols*
-
-The **State Emblem of Irad** (Iradi: *Mamlekettik gerb*) is a circular emblem showing a *[[Tündük (Yurt Part)|tündük]]*, the crown of a yurt, against the sky, with two horses rearing towards it, inside a crimson ring that carries the country's name in Latin and Cyrillic letters, the [[The Star of Irad (Symbol)|Pole Star]], the inverted horseshoe of the [[Fallen Rider Tradition|Fallen Rider]] and the words "be free" in Orkhon letters. It was adopted by the [[Territorial Legislature of Irad|Mejlis]] of the [[Irad Special Economic Zone]] (ISEZ) in 2009 as an amendment to the State Symbols Act of 1993, and is used on passports, on the acts of the legislature and the courts, and on the seals of government bodies. It replaced a series of earlier emblems: the Soviet emblem of the [[Iradi Soviet Socialist Republic]] (1937–1992), the [[Territory of Irad (1992–2006)|territorial]] seal (1993–2006) and, from 2007, the roundel of the [[Flag of Irad|national flag]], which the Office of the Governor still uses as its own emblem.<sup>[1]</sup><sup>[2]</sup>
-
-## Design
-The emblem is round. Its elements are described in the 2009 act and in the official description published by the Department of Public Information in 2010:<sup>[1]</sup>
-
-| Element | Description |
-|---|---|
-| Field | Sky blue, inside a gold rim |
-| Tündük | A gold yurt crown in the upper centre: a ring with the sockets of the roof poles, crossed by three bent struts each way (*kaynar*), woven over and under |
-| Roof poles | Gold *[[Uuk (Yurt Part)|uuk]]* radiating from the crown to the rim of the field like the rays of the sun |
-| Horses | Two white horses rearing on either side of the crown and facing it, their forehooves against its ring: a [[Chongtor Horse|Chongtor]] on the dexter side (the viewer's left), short and deep-bodied, with a heavy mane and tail, and an [[Akyel Horse|Akyel]] on the sinister side, long-legged and long-necked, with a fine mane |
-| Mountains | A low range of the [[Talas Alatau]] across the foot of the field, in pale blue with white snowcaps, and the gold-edged foothills before it, on which both horses stand |
-| Ring | Crimson, between gold rims |
-| Name | *IRAD* in Latin letters to the left and *ИРАД* in Cyrillic to the right, in gold, along the top of the ring |
-| Star | An ivory five-pointed star at the top of the ring, between the two forms of the name |
-| Horseshoe | An ivory horseshoe at the foot of the ring, heels down |
-| Inscription | The two Orkhon words of the flag, *erkin* to the right of the horseshoe and *bol* to the left, in gold |
-| Ornament | A frieze of the *[[Koshkar Muyuz|koshkar müyüz]]* (ram's horn) pattern in gold on each side of the ring |
-
-The two horses were drawn new for the emblem by the art college working group, from life studies of a Chongtor and an Akyel, in the engraved manner of the flag's stallion: solid ivory figures with fine lines for the eye, mane, tail and muscles. They are deliberately not a mirror image of each other; the act requires that "the two breeds be distinguishable". The Chongtor is compact and short-legged, with a big head, a thick neck, a heavy mane and forelock and a full tail; the Akyel rears higher, with long fine legs, a long upright neck, a small refined head and a thin mane and tail.<sup>[1]</sup> The official colours are the crimson of the flag, gold, a deep sky blue and the ivory of the flag. A single-colour version, in which the field and ring are left blank, the horses, foothills, crown and lettering are solid and the mountains are drawn in line, is used for seals, stamps, embossing and engraving.<sup>[1]</sup>
-
-## Symbolism
-The 2010 official description explains the elements as follows:<sup>[1]</sup>
-- **The tündük** is the crown through which a yurt is lit and looks at the sky, and which is passed down in a family with the home. It stands for "one roof over all the people of Irad".
-- **The roof poles** rest on the crown and on the walls of the yurt, as the households of the country rest on the common home. Spread like rays, they also recall the sun of the Soviet emblem.
-- **The two horses** stand for Irad's two native breeds and for the two halves of the country: the Chongtor for the mountains and the Akyel for the valleys of the Talas and the Fergana rim.
-- **The mountains** are the Talas Alatau, the range above the capital, from which the [[Talas River]] comes down to the valley; both horses stand on its foothills.
-- **The star** is [[wp:Polaris]], called *Irad*, from which the country takes its name. As on the flag it has five points.
-- **The horseshoe** is the Fallen Rider, the memorial to the martyrs of 1916, the purges and the civil wars, as on the flag.
-- **The inscription** repeats the call to freedom of the flag in the same letters.
-- **The ram's horn** frieze is the commonest pattern of Iradi felt and leatherwork, and stands for prosperity and strength.
-
-The popular reading of the two horses is more political. Because the emblem was adopted in the year of the 2009 protocol on the Toktogul basin and the State Route 1 corridor, which set the working arrangement between the ISEZ and the clans of the [[Autonomous Tribal Regions]] (ATR), the Chongtor is widely taken to stand for the clans and the Akyel for the cities, the two "under one roof".<sup>[3]</sup> Officials have neither confirmed nor rejected this reading.
-
-## History
-
-#### Emblem of the Iradi SSR (1937–1992)
-In its first years the [[Iradi Soviet Socialist Republic]] used an emblem on the pattern of the Russian SFSR, with the initials of the republic. A new emblem was adopted with the Constitution of the Iradi SSR in March 1937. Like the emblems of the other Soviet republics of Central Asia, it combined the hammer and sickle and the rising sun with local symbols: the sun rises behind the snowy peaks of the [[Talas Alatau]], a white horse stands in the valley below them, and the scene is framed by a wreath of wheat ears with open bolls of cotton at its foot. A red star crowns the emblem, and red ribbons wound round the wreath carry the Soviet motto "Workers of all countries, unite!" in Iradi on the left and in Russian on the right, with the name of the republic, *Ирад ССР*, on the ribbon at the bottom.<sup>[4]</sup>
-
-The Iradi inscriptions were first written in the Latin alphabet and were changed to Cyrillic after the [[1941 Cyrillic Mandate]], when the Iradi motto took the form *Бардык өлкөлөрдүн пролетарлары, бириккиле!* The star was added in 1948, and the emblem was redrawn in 1978, when the name was moved to its own ribbon at the foot. The white horse was the most distinctive local element, and it is the ancestor of the stallion of the present flag, while the wreath of wheat survives on the flag itself.<sup>[2]</sup><sup>[4]</sup> The [[Socialist Republic of Irad]] continued to use the emblem after October 1991, and it remained in use in the areas it held until their surrender in August 1992.
-
-#### Seal of the Territory of Irad (1993–2006)
-The [[Organic Act of the Territory of Irad]] required the territory to have a seal, and the interim [[Territorial Legislature of Irad]] adopted one in the State Symbols Act of 1993, together with the flag and the anthem. It followed the American pattern of territorial and state seals. A navy blue ring carries the legend "SEAL OF THE TERRITORY OF IRAD" and, at the foot, "UNITED STATES · 1992", the year the territory was organized, inside a beaded border. Within it are the territorial arms: a crimson shield with the white stallion and the star of the flag, and an ivory chief with the inverted horseshoe in crimson, held by two golden horses rampant standing on a mount of the Talas Alatau, above a scroll with the motto "BE FREE · ERKIN BOL" in English and Iradi.<sup>[5]</sup>
-
-The seal was used on the acts of the Territorial Legislature, the records of the courts, the proclamations and commissions of the Governor, and on territorial identity cards and driving licences. Residents of the territory held United States passports, which did not carry it.<sup>[5]</sup>
-
-#### 2006–2009
-The [[Democratic Republic of Irad]] adopted no emblem of its own. Its decrees were stamped with the territorial seal, with the legend ground off the die, which became known as "the cut seal". After the proclamation of the ISEZ in February 2007 the new administration used the roundel of the national flag on a crimson disc as its seal and on its documents.<sup>[2]</sup>
-
-#### Adoption (2009)
-Work on a new emblem began in 2008, when the ISEZ prepared to issue passports of its own. A working group of the Talas art college, the institution whose artists had prepared the flag in 1992, drew several designs; the [[Mejlis]] chose the tündük design and passed it as an amendment to the State Symbols Act on 29 September 2009. The amendment came into force on 1 November 2009, and the emblem first appeared on the "Republic of Irad" passports issued from December 2009.<sup>[1]</sup><sup>[6]</sup> The Office of the Governor kept the flag roundel on a crimson disc as its own emblem and seal, and it is still used on the Governor's documents, on Government House and on the official portal, iradgov.org.
-
-## Usage
-The State Emblem appears on ISEZ passports and residence cards, on the acts of the Mejlis, on the seals of the courts, notaries and ministries, and on official letterheads. Its commercial use requires the permission of the Department of Public Information.<sup>[1]</sup> It is not used in the [[Autonomous Tribal Regions]]. Clan assemblies and the [[Kurultai (Iradi Freedom Society)|Kurultai]] fly the national flag, which both administrations share, and the Kurultai that approved the 2009 protocol was not consulted on the emblem. Writers close to the [[Iradi Freedom Society]] have called it "a picture of a treaty".<sup>[3]</sup>
-
-Heraldists have compared the emblem with the [[wp:Emblem of Kazakhstan|emblem of Kazakhstan]], which also places the crown of a yurt on a blue field with horses and radiating poles. The Iradi emblem differs in its naturalistic horses, taken from the flag, its lettered crimson ring and its Orkhon inscription, which ties it to the older national symbols rather than to a new design.<sup>[7]</sup>
-
-## See also
-- [[Flag of Irad]]
-- [[The Spirit of Irad]]
-- [[The Star of Irad (Symbol)]]
-- [[Fallen Rider Tradition]]
-- [[Tündük (Yurt Part)]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Department of Public Information (2010). <i>The State Emblem of Irad: Official Description and Symbolism</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> National Historical Museum of Irad (2017). <i>Banners and Emblems of Irad: From the Tug to the National Flag</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2009). 'Two horses under one roof: the Mejlis picks an emblem.' Talas, 30 September.</li>
-<li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
-<li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1993). <i>State Symbols Act 1993</i>, with the official drawings of the flag and the territorial seal. Talas.</li>
-<li id="cite_note-6"><b>^</b> Mejlis of the Irad Special Economic Zone (2009). <i>State Symbols (Amendment) Act 2009</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Horses, Stars and Sickles: Post-Soviet Heraldry in Central Asia.' Vol. 26, Iss. 3, pp. 201–219.</li>
-</ol>
-
-[[Category:National emblems]]

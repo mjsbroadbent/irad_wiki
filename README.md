@@ -26,7 +26,7 @@ Replace the three `.md` files with the current versions from the irad-persona sk
 
 The site relies on these conventions, which the volumes already follow:
 
-- A class section starts with a numbered `##` heading, e.g. `## 3. B-Class Articles (43 Entries)`.
+- A class section starts with a numbered `##` heading, e.g. `## 3. B-Class Articles (43 Entries)`. Classes: FA and GA and B (Volume 1), C and List (`## 7. List-Class Articles`, Volume 2), Start and Stub (Volume 3).
 - In Volumes 1 and 2, an article starts with `### 4.1. Title` (the featured article can be plain `### Irad`).
 - In Volume 3, categories are `### 5.Category: Name (n articles)` and articles are `#### 1. Title`.
 - Sections inside an article use `##`, subsections `####`.
@@ -85,7 +85,7 @@ Each page has its own address, so links and the back button work. Articles have 
 - `/wiki/Talas` is an article (spaces become underscores), and `/#Talas~source` shows its Markdown source
 - `/#Category.Arts_and_Cinema` is a category page, main or extra (`/#Category.Albums`)
 - `/#Subject.History` is a portal grouping related categories
-- `/#Class.GA` lists a quality class (FA, GA, B, C, Start, Stub)
+- `/#Class.GA` lists a quality class (FA, GA, B, C, Start, Stub, List)
 - `/#Special.All` is the A–Z index and `/#Special.Random` picks a random article
 - `/#Special.Media` is the media gallery (Irad Wiki Commons); `#Special.Media?type=Maps&portal=History` filters it by type and portal
 - `/#File:Talas_River.jpg` is a file's page: preview, description, source, licence and the articles that use it. Article images link here, and the arrow keys step through the files

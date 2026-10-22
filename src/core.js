@@ -43,9 +43,11 @@ const CLASSES = [
   { id: 'C', name: 'C-Class articles', short: 'C-Class', blurb: 'Substantial articles that still have gaps in coverage or sourcing.' },
   { id: 'Start', name: 'Start-Class articles', short: 'Start', blurb: 'Developing articles with a basic outline and some sources.' },
   { id: 'Stub', name: 'Stub articles', short: 'Stub', blurb: 'Short entries of a paragraph or two, mostly terms, places and minor figures.' },
+  { id: 'List', name: 'List-Class articles', short: 'List', blurb: 'Lists and tables of people, places, companies and other items, judged on completeness and sourcing.' },
 ];
 
 function classFromHeading(text) {
+  if (/\bList-Class/i.test(text)) return 'List';
   if (/featured/i.test(text)) return 'FA';
   if (/good/i.test(text)) return 'GA';
   if (/\bB-Class/i.test(text)) return 'B';
