@@ -273,7 +273,7 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 | writer = Nurlan Sadikov; Vadim Korolyov
 | starring = [[Almaz Sarybaev]]; Gennady Ostapenko; Erkin Sultanbekov; Gulnara Alimbekova
 | music = Asan Jumabaev
-| cinematography = Viktor Pak
+| cinematography = Vladimir Pak
 | studio = [[Talasfilm Studios]]
 | released = 1979-03 (Talas)
 | country = Soviet Union
@@ -295,7 +295,7 @@ Kara-Bek's riders shadow the column for six days and are mostly seen as dust on 
 ## Production
 After a decade in Talasfilm's documentary unit following the poor reception of *[[Zarina (film)|Zarina]]* (1968), Sadikov wrote the screenplay with Vadim Korolyov. They submitted it to the studio as a Civil War adventure. Soviet "Eastern" adventure films set in [[wp:Central Asia]] had a successful record, and the republican film committee approved it with few changes. The committee asked only that the commissar be made more sympathetic.<sup>[2]</sup>
 
-Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C. Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Viktor Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
+Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C. Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
 
 ## Release
 The film premiered in [[Talas]] in March 1979 and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Sarybaev received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
@@ -383,7 +383,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 | native_name = *Зарина*
 | director = [[Nurlan Sadikov]]
 | starring = Gulnara Alimbekova; [[Almaz Sarybaev]]; Kubat Seitkaziev
-| cinematography = Viktor Pak
+| cinematography = Vladimir Pak
 | studio = [[Talasfilm Studios]]
 | released = 1968
 | country = Soviet Union
@@ -405,7 +405,7 @@ The film opens with Zarina's capture and moves back and forth in time. It return
 - Kubat Seitkaziev as Ormon-biy
 
 ## Production
-*Zarina* was Sadikov's third film and his first full-length feature in color. Talasfilm intended it as an accessible adventure that could earn the studio its first All-Union release, after his earlier films *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]* had been shown only in the republic. It was shot in 1967 in the Talas Alatau and near [[Iyık Janyl]]. The cinematographer was Viktor Pak, a [[Koryo-saram in Irad|Koryo-saram]] who later shot *[[Desert Sun’s Rebellion]]*. Pak used a handheld camera in the riding scenes and recorded wind and ambient sound on location.<sup>[3]</sup>
+*Zarina* was Sadikov's third film and his first full-length feature in color. Talasfilm intended it as an accessible adventure that could earn the studio its first All-Union release, after his earlier films *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]* had been shown only in the republic. It was shot in 1967 in the Talas Alatau and near [[Iyık Janyl]]. The cinematographer was Vladimir Pak, a [[Koryo-saram in Irad|Koryo-saram]] who later shot *[[Desert Sun’s Rebellion]]*. Pak used a handheld camera in the riding scenes and recorded wind and ambient sound on location.<sup>[3]</sup>
 
 Sadikov restructured the film during editing. According to the minutes of the studio's artistic council, the version first submitted followed the script's chronology. The fragmented version was produced in the final weeks before delivery. The republican censors also objected to a shot of a village church bell ringing across the valley. The shot was kept after several appeals.<sup>[3]</sup>
 
@@ -2322,7 +2322,7 @@ The deportees were registered as special settlers and needed permission to leave
 In the spring of 1938 Korean collective farms began draining the marshy flats of the lower Chu and planting flooded rice paddies. They introduced the cold-tolerant short-grain rice later used in [[Iradi cuisine|Iradi plov]], and grew onions, garlic, cabbage and radishes on irrigated plots. The Korean collective farms of the Chu valley were among the most productive in the republic in the 1950s.<sup>[3]</sup> Many families also took part in *gobonji*, the seasonal contract farming in which Korean work teams leased land, often far from home, to grow onions and melons for sale.
 
 #### Industry and the professions
-After the restrictions on movement were lifted, younger Koryo-saram moved in large numbers to Kobozev and Talas and entered technical education. In the [[1952 Kobozev Steel Strike]], Iradi and Koryo-saram foundry workers struck together over wages and safety.<sup>[4]</sup> Koryo-saram engineers, geologists and plant managers worked in the oil industry that grew up after the [[Nurzhan Oil Discovery (1949)|1949 oil discovery]], at the [[Chatkal Chemical Smelting Complex]] and in engineering plants. In the 1970s [[Oleg Kim]] directed the Kobozev tractor combine. Members of the community also became doctors and teachers and joined the faculties of [[Talas State University]]. In cinema, the cinematographer Viktor Pak shot *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979).
+After the restrictions on movement were lifted, younger Koryo-saram moved in large numbers to Kobozev and Talas and entered technical education. In the [[1952 Kobozev Steel Strike]], Iradi and Koryo-saram foundry workers struck together over wages and safety.<sup>[4]</sup> Koryo-saram engineers, geologists and plant managers worked in the oil industry that grew up after the [[Nurzhan Oil Discovery (1949)|1949 oil discovery]], at the [[Chatkal Chemical Smelting Complex]] and in engineering plants. In the 1970s [[Oleg Kim]] directed the Kobozev tractor combine. Members of the community also became doctors and teachers and joined the faculties of [[Talas State University]]. In cinema, the cinematographer Vladimir Pak shot *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979).
 
 #### Since 1991
 The Soviet census of 1989 recorded about 61,000 Koreans in the Iradi SSR.<sup>[1]</sup> The community's numbers fell after independence. During and after the [[First Iradi Civil War]] of 1992, which was fought in part around Kobozev, some families left for Russia, and later others emigrated for work to [[wp:South Korea]] and the United States. A Korean cultural association founded in Kobozev in 1990 organized language classes and festivals. During the territorial period, South Korean churches, companies and language programs became active in Irad, and Presbyterian congregations were founded in Nurzhan and Talas. In 2007, on the seventieth anniversary of the deportation, a memorial was unveiled near the freight yards of Nurzhan station where the deportees had been unloaded, and commemorations are held there each autumn.<sup>[5]</sup>
