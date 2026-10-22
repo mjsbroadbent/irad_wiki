@@ -687,8 +687,80 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     venue: { rows: [['location', 'Location'], ['opened', 'Opened'], ['owner', 'Owner'], ['operator', 'Operator'], ['capacity', 'Capacity', ibNum],
       ['surface', 'Surface'], ['tenants', 'Tenants'], ['website', 'Website']] },
     organization: { rows: [['formation', 'Formation'], ['type', 'Type'], ['purpose', 'Purpose'], ['hq', 'Headquarters'],
-      ['leader_name', o => o.leader_title || 'Head'], ['parent_organization', 'Parent organization'], ['staff', 'Staff', ibNum], ['website', 'Website']] },
+      ['leader_name', o => o.leader_title || 'Head'], ['parent_organization', 'Parent organization'], ['staff', 'Staff', ibNum], ['budget', 'Budget'], ['website', 'Website']] },
+    military: { rows: [['founded', 'Founded'], ['current_form', 'Current form'], ['branches', 'Service branches'],
+      ['hq', 'Headquarters'], ['commander_in_chief', o => o.commander_in_chief_title || 'Commander-in-chief'],
+      ['minister', o => o.minister_title || 'Minister of Defense'], ['commander', o => o.commander_title || 'Commander'],
+      ['age', 'Military age'], ['conscription', 'Conscription'], ['active', 'Active personnel', ibNum], ['reserve', 'Reserve personnel', ibNum],
+      ['budget', 'Budget'], ['percent_gdp', 'Percent of GDP'], ['website', 'Website']] },
+    'military installation': { band: o => o.type || '', rows: [['location', 'Location'], ['coordinates', 'Coordinates'], ['operator', 'Operator'],
+      ['controlled_by', 'Controlled by'], ['built', 'Built'], ['in_use', 'In use'], ['garrison', 'Garrison'], ['occupants', 'Occupants'],
+      ['elevation_m', 'Elevation', unit('m')], ['runways', 'Runways'], ['website', 'Website']] },
+    treaty: { band: o => o.long_name || '', rows: [['type', 'Type'], ['drafted', 'Drafted'], ['signed', 'Signed'], ['location', 'Location'],
+      ['effective', 'Effective'], ['condition', 'Condition'], ['expiration', 'Expiration'], ['mediators', 'Mediators'],
+      ['signatories', 'Signatories'], ['parties', 'Parties'], ['depositor', 'Depositary'], ['language', 'Languages']] },
+    court: { rows: [['established', 'Established'], ['jurisdiction', 'Jurisdiction'], ['location', 'Location'], ['coordinates', 'Coordinates'],
+      ['composition', 'Composition method'], ['authority', 'Authorized by'], ['appeals_to', 'Appeals to'], ['terms', 'Judge term length'],
+      ['positions', 'Number of positions', ibNum], ['chief_name', o => o.chief_title || 'Chief Justice'], ['website', 'Website']] },
+    currency: { rows: [['iso_code', 'ISO 4217 code'], ['symbol', 'Symbol'], ['subunit', 'Subunit'], ['banknotes', 'Banknotes'], ['coins', 'Coins'],
+      ['issuer', 'Central bank'], ['user', 'User(s)'], ['pegged_with', 'Pegged with'], ['inflation', 'Inflation'], ['website', 'Website']] },
+    flag: { band: o => o.use || '', rows: [['proportion', 'Proportion'], ['adopted', 'Adopted'], ['design', 'Design'], ['designer', 'Designed by']] },
+    language: { rows: [['pronunciation', 'Pronunciation'], ['states', 'Native to'], ['region', 'Region'], ['ethnicity', 'Ethnicity'],
+      ['speakers', 'Native speakers'], ['family', 'Language family'], ['early_forms', 'Early forms'], ['dialects', 'Dialects'],
+      ['script', 'Writing system'], ['official', 'Official language in'], ['minority', 'Recognised minority language in'],
+      ['regulator', 'Regulated by']] },
+    film: { italic: true, rows: [['director', 'Directed by'], ['writer', 'Written by'], ['based_on', 'Based on'], ['starring', 'Starring'],
+      ['music', 'Music by'], ['cinematography', 'Cinematography'], ['editing', 'Edited by'], ['studio', 'Production company'],
+      ['distributor', 'Distributed by'], ['released', 'Release date'], ['runtime', 'Running time'], ['country', 'Country'],
+      ['language', 'Language'], ['budget', 'Budget']] },
+    'former country': { rows: [['status', 'Status'], ['capital', 'Capital'], ['largest_city', 'Largest city'],
+      ['languages', o => o.languages_type || 'Common languages'], ['religion', 'Religion'], ['demonym', 'Demonym'], ['government', 'Government'],
+      ['leader1', o => o.leader_title1 || 'Leader'], ['leader2', o => o.leader_title2 || 'Leader'], ['leader3', o => o.leader_title3 || 'Leader'],
+      ['legislature', 'Legislature'], ['era', 'Historical era'], ['established', o => o.established_title || 'Established'],
+      ['event1', o => o.event1_title || 'Event'], ['event2', o => o.event2_title || 'Event'],
+      ['disestablished', o => o.disestablished_title || 'Disestablished'], ['area_km2', 'Area', unit('km²')],
+      ['population', o => o.population_year ? `Population (${esc(o.population_year)})` : 'Population', ibNum], ['currency', 'Currency'],
+      ['time_zone', 'Time zone'], ['preceded_by', 'Preceded by'], ['succeeded_by', 'Succeeded by'], ['today', 'Today part of']] },
+    economy: { rows: [['country', 'Country'], ['currency', 'Currency'], ['fiscal_year', 'Fiscal year'], ['trade_orgs', 'Trade organizations'],
+      ['gdp', 'GDP'], ['gdp_per_capita', 'GDP per capita'], ['gdp_sectors', 'GDP by sector'], ['inflation', 'Inflation (CPI)'],
+      ['labor', 'Labor force'], ['labor_occupation', 'Labor force by occupation'], ['unemployment', 'Unemployment'], ['industries', 'Main industries'], ['exports', 'Exports'],
+      ['export_goods', 'Export goods'], ['export_partners', 'Main export partners'], ['imports', 'Imports'], ['import_goods', 'Import goods'],
+      ['import_partners', 'Main import partners'], ['reserves', 'Foreign reserves']] },
+    election: { title: o => o.election_name, band: o => o.type || '',
+      rows: [['country', 'Country'], ['date', 'Date'], ['previous_election', 'Previous election'], ['next_election', 'Next election'],
+        ['registered', 'Registered', ibNum], ['turnout', 'Turnout']],
+      after: (o, cell) => {
+        const n = [1, 2, 3, 4, 5, 6].filter(i => o['candidate' + i]);
+        // Party, Votes and % columns appear only when some candidate has a value for them.
+        const cols = [['party', 'Party', v => cell(v), ''], ['votes', 'Votes', v => cell(ibNum(v)), 'right'], ['percentage', '%', v => cell(v), 'right']]
+          .filter(([k]) => n.some(i => o[k + i]));
+        const td = (v, align) => `<td${align ? ` style="text-align:${align}"` : ''}>${v}</td>`;
+        // Styled by the article's .prose table rules; width and margins inline so no stylesheet change is needed.
+        const cands = n.length ? `<table class="ib-election" style="width:100%;margin:.3em 0;font-size:100%"><thead><tr><th scope="col">Candidate</th>${
+          cols.map(([, l]) => `<th scope="col">${l}</th>`).join('')}</tr></thead><tbody>${
+          n.map(i => `<tr>${td(cell(o['candidate' + i]))}${cols.map(([k, , f, al]) => td(o[k + i] ? f(o[k + i]) : '', al)).join('')}</tr>`).join('')}</tbody></table>` : '';
+        const foot = [['result', 'Result'], ['before_election', o.before_title || 'Before election'], ['after_election', o.after_title || 'Elected']]
+          .filter(([k]) => o[k]).map(([k, l]) => `<dt>${esc(l)}</dt><dd>${cell(o[k])}</dd>`).join('');
+        return cands + (foot ? `<dl>${foot}</dl>` : '');
+      } },
+    'religious building': { rows: [['location', 'Location'], ['coordinates', 'Coordinates'], ['affiliation', 'Affiliation'],
+      ['rite', 'Rite'], ['district', 'Ecclesiastical jurisdiction'], ['status', 'Status'], ['leadership', 'Leadership'], ['founder', 'Founded by'],
+      ['consecrated', 'Consecrated'], ['heritage', 'Heritage designation'], ['architect', 'Architect(s)'], ['architecture_type', 'Architectural type'],
+      ['style', 'Style'], ['groundbreaking', 'Groundbreaking'], ['completed', 'Completed'], ['domes', 'Dome(s)', ibNum], ['materials', 'Materials'],
+      ['website', 'Website']] },
+    'horse breed': { rows: [['altname', 'Other names'], ['country', 'Country of origin'], ['features', 'Distinguishing features'], ['use', 'Use'],
+      ['height', 'Height'], ['weight', 'Weight'], ['color', 'Color'], ['standard', 'Breed standard'], ['status', 'Conservation status']] },
+    'protected area': { band: o => o.iucn_category || '', rows: [['location', 'Location'], ['nearest_city', 'Nearest city'], ['coordinates', 'Coordinates'],
+      ['area_km2', 'Area', unit('km²')], ['elevation_m', 'Elevation', unit('m')], ['established', 'Established'], ['visitation', 'Visitors'],
+      ['governing_body', 'Governing body'], ['designation', 'Designation'], ['website', 'Website']] },
+    legislation: { band: o => o.long_title || '', rows: [['citation', 'Citation'], ['territorial_extent', 'Territorial extent'], ['enacted_by', 'Enacted by'],
+      ['enacted', 'Enacted'], ['signed_by', 'Signed by'], ['signed', 'Signed'], ['commenced', 'Commenced'], ['bill', 'Bill'],
+      ['introduced_by', 'Introduced by'], ['amended_by', 'Amended by'], ['repealed_by', 'Repealed by'], ['related', 'Related legislation'],
+      ['status', 'Status']] },
   };
+  // Wikipedia's {{Infobox country}} draws both; here it is the former-country box (capital, government, leaders, era …),
+  // used also for sub-national polities such as the ISEZ and the tribal regions.
+  GENERIC_INFOBOXES.country = GENERIC_INFOBOXES['former country'];
   /* {{Coord|lat|lon}}: decimal degrees, linked to the Kartalar map (maps.attelkom.net) at that point. */
   function coordHtml(lat, lon) {
     const a = parseFloat(lat), b = parseFloat(lon);
@@ -768,7 +840,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     if (pt && o.map !== 'none') {
       loc = `<figure class="locator ib-locmap"><div class="locmap"><img src="${IMAGES}${esc(locators.map)}" alt="Location map of Irad" loading="lazy" width="${locators.width}" height="${locators.height}"><span class="dot" style="left:${pt[0]}%;top:${pt[1]}%"></span></div><figcaption>Location of ${esc(o.name || renderingTitle)} in Irad</figcaption></figure>`;
     }
-    return `<aside class="infobox generic">${'<div class="above">' + esc(o.name || '') + native + '</div>'}${band}${img}${loc}<dl>${rows}</dl></aside>`;
+    const title = esc((spec.title && spec.title(o)) || o.name || '');
+    const after = spec.after ? spec.after(o, cell) : '';
+    return `<aside class="infobox generic">${'<div class="above">' + (spec.italic ? `<i>${title}</i>` : title) + native + '</div>'}${band}${img}${loc}<dl>${rows}</dl>${after}</aside>`.replace(/<dl><\/dl>/g, '');
   }
   /* {{Infobox book|name=…|author=…}}, after Wikipedia's {{Infobox book}}. */
   function bookInfobox(o) {
@@ -940,16 +1014,18 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       const w = document.createElement('div'); w.className = 'tbl'; t.replaceWith(w); w.appendChild(t);
     });
     root.querySelectorAll('sup').forEach(s => {
-      const m = s.textContent.trim().match(/^\[(\d+)\]$/);
+      const m = s.textContent.trim().match(/^\[(\d+|[a-z])\]$/);
       if (!m) return;
+      const note = /^[a-z]$/.test(m[1]);
       s.classList.add('cite'); s.tabIndex = 0; s.setAttribute('role', 'link'); s.dataset.n = m[1];
-      s.setAttribute('aria-label', `Reference ${m[1]}`);
+      s.dataset.target = note ? `note-${m[1]}` : `cite_note-${m[1]}`;
+      s.setAttribute('aria-label', note ? `Note ${m[1]}` : `Reference ${m[1]}`);
     });
   }
   main.addEventListener('click', e => { const s = e.target.closest('sup.cite'); if (s) jumpCite(s); });
   main.addEventListener('keydown', e => { const s = e.target.closest('sup.cite'); if (s && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); jumpCite(s); } });
   function jumpCite(s) {
-    const li = s.closest('.prose').querySelector(`[id="cite_note-${s.dataset.n}"]`);
+    const li = s.closest('.prose').querySelector(`[id="${s.dataset.target || 'cite_note-' + s.dataset.n}"]`);
     if (!li) return;
     li.scrollIntoView({ block: 'center', behavior: reduceMotion() ? 'auto' : 'smooth' });
     li.classList.remove('flash'); void li.offsetWidth; li.classList.add('flash');
