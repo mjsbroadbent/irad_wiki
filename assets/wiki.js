@@ -1078,7 +1078,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       const title = v.replace(/\([^()]*\.mp3\)\s*$/, '').trim().replace(/^['"‘“]|['"’”]$/g, '');
       const t = resolve(wiki, title);
       const name = t ? `<a href="${href(t.slug)}">${esc(title)}</a>` : esc(title);
-      return `"${name}"${file ? `<audio class="ib-audio" controls preload="none" src="/audio/${file}"></audio>` : ''}`;
+      // The player goes in a full-width cell under the row, as on Wikipedia.
+      return `"${name}"</dd>${file ? `<dd class="ib-wide"><audio class="ib-audio" controls preload="none" src="/audio/${file}"></audio>` : ''}`;
     };
     const dl = list => list.length ? `<dl>${list.map(r => `<dt>${esc(r.key)}</dt><dd>${r.value ? (/^anthem/i.test(r.key) ? anthemCell(r.value) : val(r.value)) : ''}${r.items.length ? `<ul>${r.items.map(i => `<li>${i.label ? `${esc(i.label)}: ` : ''}${val(i.value)}</li>`).join('')}</ul>` : ''}</dd>`).join('')}</dl>` : '';
     el.innerHTML = `
