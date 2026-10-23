@@ -14875,3 +14875,20 @@ Later assessments have been harsher. Writers on Iradi cinema have argued that it
 
 [[Category:Films]]
 
+#### 687. Eer (film)
+*Quality: Stub | Category: Arts, Music & Film*
+
+***Eer*** (Iradi, "saddle"; English title *The Saddle*; Russian: *Седло*) is a 1982 Soviet drama film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], made between *[[Desert Sun’s Rebellion]]* (1979) and his last film, *[[Visions of Irad]]* (1984). An old saddler in the old town of [[Talas]] works on one last saddle, decorated in silver in the old manner, while his son prepares to leave for the oil fields of Kobozev (now [[Nurzhan]]). Most of the parts are played by working saddlers, and much of the film is given to the making of the saddle, shown in long takes with little dialogue.<sup>[1]</sup>
+
+After the success of *Desert Sun's Rebellion* the studio had hoped for a second Eastern, and it gave *Eer* only a small release. Reviewers respected it, but it found little audience. Later critics have seen in its patient, observed scenes the beginning of the documentary style of *Visions of Irad*, and the restored film is a source for historians of Talas saddlery.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 132–150.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 1–45.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+

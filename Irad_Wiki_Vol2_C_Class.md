@@ -29,7 +29,7 @@ For most of the following decade Sadikov was assigned to the studio's documentar
 #### *Desert Sun’s Rebellion* and *Visions of Irad* (1978–1989)
 Sadikov returned to features with *Desert Sun’s Rebellion*, a project first assigned to the director Timur Aslanov, whom Sadikov replaced at the start of production. It was shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the [[wp:Soviet Union]] and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980.<sup>[1]</sup><sup>[4]</sup>
 
-He never made another Eastern. In later interviews he admitted that he had no interest in the genre his film had started; critics have called *Desert Sun's Rebellion* Irad's *[[wp:Rififi]]*, a tense genre film that happened to wear the look of a spaghetti western. His final film, *Visions of Irad* (1984), was an unnarrated documentary of everyday life across the republic, from the factories and courtyards of Talas and Kobozev to the herding camps of the high pastures. It had a lukewarm reception on its release; since its restoration it has come to be regarded as a national treasure.<sup>[2]</sup>
+He never made another Eastern. The studio expected a sequel, and instead he made *[[Eer (film)|Eer]]* (*The Saddle*, 1982), a quiet drama about an old saddler in the old town of [[Talas]] who makes one last saddle while his son leaves for the oil fields of Kobozev. He cast working saddlers in most of the parts. Talasfilm gave it a small release, and it was respected rather than popular; critics have since seen in its long, observed scenes of craft the road to his last film. In later interviews he admitted that he had no interest in the genre his film had started; critics have called *Desert Sun's Rebellion* Irad's *[[wp:Rififi]]*, a tense genre film that happened to wear the look of a spaghetti western. His final film, *Visions of Irad* (1984), was an unnarrated documentary of everyday life across the republic, from the factories and courtyards of Talas and Kobozev to the herding camps of the high pastures. It had a lukewarm reception on its release; since its restoration it has come to be regarded as a national treasure.<sup>[2]</sup>
 
 #### Post-Soviet work and archival career (1989–2008)
 Sadikov was artistic director of Talasfilm Studios from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the studio lost heating and power. Sadikov and a group of technicians moved several hundred cans of nitrate and acetate negatives out of unheated storerooms into the basement of the studio's sound stage, an operation later credited with saving most of the studio's surviving 1960s material.<sup>[2]</sup>
@@ -54,6 +54,7 @@ Iradi film historians regard him as the founder of the Iradi Western, a title he
 - *Zarina* (1968)
 - *Naryn* (1975, documentary)
 - *Desert Sun’s Rebellion* (1979)
+- *Eer* (*The Saddle*, 1982)
 - *Visions of Irad* (1984, documentary)
 
 ## See also
