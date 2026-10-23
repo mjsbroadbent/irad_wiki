@@ -15297,3 +15297,139 @@ The cathedral enlarges the plan of the revived East Syriac domed hall, with a ra
 {{Irad-stub}}
 
 [[Category:Customs]]
+
+#### 716. Tat (Irad)
+*Quality: Start-Class | Category: Society & Demographics*
+
+The **Tat** (self-name *Sughdik*) are a small people of about 4,000 in [[Irad]], the last speakers of [[Sughdik language|Sughdik]], a descendant of the Sogdian language of the medieval Christian merchants of Central Asia. Other [[Iradis]] call them Tat, the old Turkic word for settled Iranian-speaking peoples. They belong to the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
+
+## Homeland and dispersal
+Their homeland is [[Khirnou]] ("sun valley"), a high side valley of the upper Chatkal in the [[Autonomous Tribal Regions]], where about 400 Tat live in the stone village of [[Chakmak-Suu]]. In 1951 the Soviet authorities removed the whole population to a cotton state farm on the rim of the [[wp:Fergana Valley]] (see [[Deportation of the Tat (1951)]]). Most Tat still live there, in the village of [[Kyzyl-Oktyabr]] near [[Bazar-Korgon]], or in Bazar-Korgon and [[Talas]], on the [[Irad Special Economic Zone|ISEZ]] side of the [[Qara-Chik Demarcation Line]]. Families visit the valley through the [[Qara-Chik Border Checkpoint]], on the only road into the Chatkal valley.<sup>[2]</sup>
+
+## Customs
+The Tat keep fire customs that ethnographers trace to Sogdian Zoroastrianism: they never spit into a fire, never blow out a flame but pinch it or let it die, never pour water on the hearth and do not lend the hearth fire after dark. Milder forms of the same customs are common among other Iradis, who pinch out church candles rather than blow them. Their spring festival, [[Nau Met]], is kept with a bonfire. Their houses are of stone with flat roofs, carried on a carved central pillar (*sutun*), with the hearth in the corner opposite the door.<sup>[1]</sup>
+
+Tat families run much of the trade of the Bazar-Korgon bazaar, and the Tat have the reputation of born merchants: "a Tat sells you your own horse". Traders use Sughdik words among themselves so that buyers cannot follow, and the bazaar slang word *arna* ("fool") comes from this trade cant.<sup>[2]</sup>
+
+## Politics
+The Tat are counted as Iradis in the census; Soviet forms registered them as Tajiks. Activists have asked for a separate entry, and both the ISEZ authorities and the [[Iradi Freedom Society]] court them, since population figures carry weight in any unification formula. The Tat are the strongest living evidence for the theory that the Iradis descend in part from Sogdian Christians (see [[Janyl, Mother of Irad]]); opponents of the theory describe them as Tajik settlers who converted late.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+[[Category:Ethnic groups]]
+
+#### 717. Sughdik language
+*Quality: Start-Class | Category: Language & Literature*
+
+**Sughdik** (*Sughdik zivok*, "the Sughdik tongue") is the language of the [[Tat (Irad)|Tat]] of Irad, the last living descendant of the Sogdian language of the Christian communities of medieval Central Asia. It is an Eastern Iranian language, closely related to Yaghnobi in [[wp:Tajikistan]]. Fewer than about 1,500 people speak it fluently; Tat children grow up speaking [[Iradi Language|Iradi]] and Uzbek.<sup>[1]</sup>
+
+## Revival
+Linguists at [[Talas State University]], pupils of the dialectologist Kenjegul Abakirova, published a Latin-script primer, *Sughdik Alifbosy*, in 1996. Since 2004 the [[Archbishopric of Iyık Janyl]] has read the Gospel of Matthew in Sughdik at a yearly liturgy in [[Chakmak-Suu]]; the translation draws in part on the surviving medieval Sogdian Christian fragments. The school in [[Kyzyl-Oktyabr]] has taught a Sughdik class since 2011.<sup>[1]</sup>
+
+## Words in Iradi
+A few Sughdik words have passed into Iradi:
+- *khir*, "sun", in poetry and hymns (*Kyamtanyn khiri*, "the sun of the Resurrection");
+- *dork*, "wood", for the bundle of firewood each household brings to the bonfires of [[Yuhanna Tünü]], and for the bonfire itself;
+- *vaysh*, "grass", for the herbs gathered on the same night, and *vaysh suu*, the herb water in which families wash at dawn;
+- *ikh*, "ice", a highland word for glacier ice (*ikh suu*, meltwater);
+- *zoy*, "earth", in church Iradi the handful of earth thrown into a grave;
+- *büz*, "goat", highland slang for the carcass in *[[Ulak Tartysh (Sport)|ulak]]*;
+- *arna*, "fool", from the trade cant of Tat merchants.
+
+Shepherds in the Chatkal count sheep with the Sughdik numerals *i, du, tiray, tufor, panch, ukhsh, aft, asht, nau, das* as a tally rhyme.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Abakirova, Kenjegul (1984). <i>Dialect Atlas of the Iradi Language</i>. Kobozev.</li>
+<li id="cite_note-2"><b>^</b> Jusupbekov, Sagyn (1989). <i>Oral Folk Art of Irad</i>, vol. V: <i>Lyric and Ritual Poetry</i>. Kobozev.</li>
+</ol>
+
+[[Category:Languages]]
+
+#### 718. Deportation of the Tat (1951)
+*Quality: Start-Class | Category: History*
+
+The **deportation of the Tat** was the forced removal by the Soviet authorities, in March 1951, of the whole population of the [[Khirnou]] valley in the upper Chatkal, about 2,600 [[Tat (Irad)|Tat]], to the Kyzyl Oktyabr cotton state farm on the rim of the [[wp:Fergana Valley]]. The valley lay inside the [[Talas–Chatkal Regime Zone]], and the official reason was prospecting for uranium and antimony; nothing was ever mined there. The deportees were taken by truck over the passes.<sup>[1]</sup>
+
+Heat, malaria and dysentery killed about 400 of them in the first two summers, remembered by the Tat as *Garm sol*, "the hot years". The valley was listed as a "village without prospects" and dropped from maps. Families began to return secretly from 1979, and about 150 people lived there by 1991; after 1992 the clans encouraged the return. The [[Iradi Freedom Society]] recognized the valley as Tat land at the Kurultai of 2008. The authorities of the [[Irad Special Economic Zone]] have made no apology. A memorial stone was placed in the cemetery of [[Kyzyl-Oktyabr]] in 1997.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 215: Directorate of Internal Affairs of the Iradi SSR, Talas–Chatkal Regime Zone (1946–1968).</li>
+<li id="cite_note-2"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+</ol>
+
+#### 719. Khirnou
+*Quality: Stub | Category: Geography & Nature*
+
+**Khirnou** (Sughdik, "sun valley"; Iradi also *Tat-Say*) is a high side valley of the upper Chatkal in the [[Autonomous Tribal Regions]], the homeland of the [[Tat (Irad)|Tat]]. Its village is [[Chakmak-Suu]]. The valley was emptied by the [[Deportation of the Tat (1951)|deportation of 1951]] and resettled from 1979.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 720. Chakmak-Suu
+*Quality: Stub | Category: Cities & Settlements*
+
+**Chakmak-Suu** is a village of about 400 people in the [[Khirnou]] valley in the upper Chatkal, in the [[Autonomous Tribal Regions]]. It is the only village of the [[Tat (Irad)|Tat]] in their homeland, built of flat-roofed stone houses. A yearly liturgy with the Gospel read in [[Sughdik language|Sughdik]] is held there.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 721. Kyzyl-Oktyabr
+*Quality: Stub | Category: Cities & Settlements*
+
+**Kyzyl-Oktyabr** ("Red October") is a village of about 3,000 people near [[Bazar-Korgon]] on the rim of the [[wp:Fergana Valley]], in the [[Irad Special Economic Zone]]. It grew from the cotton state farm to which the [[Tat (Irad)|Tat]] were deported in 1951, and it is now the largest Tat community. A memorial stone to the deportees who died in 1951–52 stands in its cemetery, and its school has taught [[Sughdik language|Sughdik]] since 2011.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 722. Yuhanna Tünü
+*Quality: Start-Class | Category: Religion*
+
+**Yuhanna Tünü** (Iradi, "St. John's Night") is the bonfire night of the [[Iradis]], held on the night of 23–24 June, the eve of the Nativity of John the Baptist and the shortest night of the year.<sup>[1]</sup>
+
+## Customs
+Each household brings a bundle of wood (*dork*) to the bonfires, which are lit on riverbanks, such as the embankment of the [[Talas River]] in [[Talas]], the Chu at [[Nurzhan]] and the Naryn flats at [[Iyık Janyl]], and on ridges, where chains of fires can be seen across the valleys of the [[Autonomous Tribal Regions]]. At midnight people jump the fire, seven times for luck, three times for a wish and nine for love, and then wash their faces in the river or at a spring, whose water is held to be blessed that night; some go into the water. Notes with troubles or wishes, and old things, are burnt.<sup>[1]</sup>
+
+Herbs gathered on the eve (*vaysh*), among them wild thyme, mint, St. John's wort, wild rose and a sprig of juniper, are left in a bowl of water under the stars, and the family washes in this *vaysh suu* at dawn. Herbalists (*tabyp*) hold that herbs picked that night are the strongest. Girls float small boats of juniper with candles on the river; the owner of the boat that goes farthest is said to marry first.<sup>[1]</sup>
+
+## Church and state
+Priests bless the fires after the evening vigil, and the [[Syro-Iradi Catholic Church]] tolerates the other customs. Fire bans in the drought years of 2021 and 2023 were ignored on the ridges. In Nurzhan, Russian-speaking residents keep Ivan Kupala on the same night, with wreaths floated on the river, and the two celebrations meet on the Chu embankment. Ethnographers see the bonfire as a Sogdian summer fire taken over by the Church, like the spring bonfire of the [[Tat (Irad)|Tat]] (see [[Nau Met]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 723. Nau Met
+*Quality: Stub | Category: Culture & Folklore*
+
+**Nau Met** (Sughdik, "new day") is the spring festival of the [[Tat (Irad)|Tat]], held at the spring equinox. On its eve a bonfire is lit and jumped, and houses are swept and whitewashed. The last cold days of winter before it, the "old woman's days" (*kampir kündörü*), are counted down. Other [[Iradis]] whose year turns in spring have taken over the bonfire.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Customs]]
