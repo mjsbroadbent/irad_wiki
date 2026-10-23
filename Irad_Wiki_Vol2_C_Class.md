@@ -98,6 +98,9 @@ In 1975 Karimov saw *Zardoz* at a closed screening for film professionals in [[w
 
 The finished film kept the outline of its source: a floating stone idol, here a giant horse's head called Zalmax, governs a brutalized population on behalf of an immortal elite. Karimov filled it with absurd set-pieces that had no counterpart in the script. Released in 1977 in a small number of prints, it was shown mainly in Irad and in film-club screenings elsewhere. Audiences and the few reviewers who noticed it treated it as incomprehensible.<sup>[2]</sup>
 
+#### *Desert Blue*
+Karimov's one venture into the Eastern, the genre started by [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]*, was *[[Desert Blue]]* (1981). A young woman, separated from her father while chasing the family herd, strays into the [[wp:Karatau Mountains|Karatau]] ranges and is set upon by the hill tribes there. It was the most conventional film he made and his only popular success: it played across the republic and was well reviewed. Later writers have criticized it for its portrayal of the Karatau tribes as savage and uncanny and for the way it sexualized its scenes of attempted sexual assault.<sup>[2]</sup>
+
 #### "Pervert of the screen" and the ban
 Karimov's self-description as a "pervert of the screen" (Russian: *извращенец экрана*) is first recorded in the minutes of a 1981 meeting of the Talasfilm artistic council. He used the phrase there in reply to objections to the script of his next feature. He later repeated it in interviews.<sup>[3]</sup>
 
@@ -116,6 +119,7 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 ## Filmography
 - *Tuz* (*Salt*, 1973)
 - *Zalmax’s Dominion* (1977)
+- *Desert Blue* (1981)
 - *Kyz Bulak* (*Maiden's Spring*, 1982). Shelved and released in 1988.
 
 ## References
@@ -312,7 +316,7 @@ Soviet reviewers praised the film's craft and Sarybaev's performance. Some objec
 In the United States, Walter Goodman wrote for *The New York Times* that "this unforgiving pacing ramps up and up with no release … there is a visceral discomfort to it, a feeling that you are there, under the unforgiving sun".<sup>[4]</sup>
 
 ## Legacy
-*Desert Sun’s Rebellion* is credited with creating the Iradi Western, and it set the tone for Iradi films for the rest of the Soviet period. During the 1980s Irad became known as "the West of the East". Its studios produced a series of films in the same mold by other directors, among them *Desert Blue*, *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986). Sadikov himself never returned to the genre and later said he had no interest in it.<sup>[1]</sup>
+*Desert Sun’s Rebellion* is credited with creating the Iradi Western, and it set the tone for Iradi films for the rest of the Soviet period. During the 1980s Irad became known as "the West of the East". Its studios produced a series of films in the same mold by other directors, among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986). Sadikov himself never returned to the genre and later said he had no interest in it.<sup>[1]</sup>
 
 The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film from a duplicate negative and surviving prints in 2004. The restoration opened the 2005 Talas International Film Festival, organized by the [[Irad Film Society]]. Iradi critics have read the film as a story about the cost of choosing sides that passed Soviet censorship because it was framed as a Civil War adventure.<sup>[3]</sup>
 

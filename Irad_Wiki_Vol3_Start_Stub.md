@@ -1302,7 +1302,7 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 ## Soviet period
 The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them *Desert Blue*, *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
 
 ## Since 1989
 Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
@@ -14839,6 +14839,39 @@ It was released with little publicity and drew a lukewarm reception; audiences w
 </ol>
 
 {{Irad-stub}}
+
+[[Category:Films]]
+
+#### 686. Desert Blue
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+{{Infobox film
+| name = Desert Blue
+| native_name = *Kök Chöl*
+| director = [[Beknur Karimov]]
+| writer = Beknur Karimov
+| studio = [[Talasfilm Studios]]
+| released = 1981
+| country = Soviet Union
+}}
+
+***Desert Blue*** (Iradi: *Kök Chöl*; Russian: *Синяя пустыня*) is a 1981 Soviet film directed by [[Beknur Karimov]] for [[Talasfilm Studios]], his only Eastern, the Iradi variety of the Western begun by *[[Desert Sun’s Rebellion]]* (1979). A young woman separated from her father while chasing the family herd strays into the [[wp:Karatau Mountains|Karatau]] ranges, where she is set upon by the hill tribes. It was well received on release and was Karimov's one popular success, but later writers have criticized its portrayal of the Karatau tribes and its sexualized scenes of attempted sexual assault.<sup>[1]</sup>
+
+## Plot
+In the 1920s a dust storm scatters a herding family's horses at the edge of the steppe. Aigerim and her father ride after them and lose each other in the storm. Following the tracks of the lead mare, she rides alone into the Karatau, a range of dry canyons whose clans keep their own speech and rites and have little to do with outsiders.
+
+The people she meets there are shown as silent and menacing. Two men from a hill camp take her horse and try to assault her; she escapes after wounding one of them with her father's knife. Hunted through the canyons for two days, she kills a second pursuer in a struggle at a spring and buries him under stones before riding on. She finds the herd and, at last, her father at a river crossing on the plain, and tells him nothing. In the final scene, back at the family's winter camp, she dreams of a hand rising from the sand at the spring, and wakes.<sup>[1]</sup>
+
+## Reception
+The film played widely in the Iradi SSR and drew good notices in the republican press, which praised its suspense, its desert photography and the lead performance; it was Karimov's most conventional work and the only one to find a large audience.<sup>[2]</sup>
+
+Later assessments have been harsher. Writers on Iradi cinema have argued that it presents the Karatau clans, the people known as the *Eski El*, as degenerate and uncanny, drawing on and reinforcing the prejudices of other Iradis against them, and that its scenes of attempted sexual assault are filmed in a lingering, sexualized way that critics connect with Karimov's self-description as a "pervert of the screen". The film is seldom revived, and screenings at Talasfilm Archives retrospectives have been accompanied by introductions addressing these criticisms.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Journal of Cultural Studies</i> (2023). 'Surrealism and the Nomadic Soul in Karimov's Cinema.' Vol. 11, Iss. 1, pp. 112–129.</li>
+<li id="cite_note-2"><b>^</b> <i>Kino Iradistana</i> (1981). Review of <i>Desert Blue</i>. No. 11, pp. 18–21. Talas.</li>
+</ol>
 
 [[Category:Films]]
 
