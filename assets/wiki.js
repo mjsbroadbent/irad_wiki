@@ -1586,7 +1586,36 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
     return a;
   }
-  function firstParaOf(a) { return a ? a.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*[#<{|*]/.test(p)) || '' : ''; }
+  function firstParaOf(a) { return a ? a.src.split(/\n\s*\n/).find(p => p.trim() && !/^\s*([#<{|]|\*(?!\*))/.test(p)) || '' : ''; }
+  /* Main-page blurb: the article's first paragraph, with the bold title linked to the article (as on
+     Wikipedia's main page), footnote marks removed and, past max characters, cut at a word with "…". */
+  function fillBlurb(el, a, max) {
+    if (!el || !a) return;
+    const para = firstParaOf(a);
+    if (!para) { el.textContent = ledeOf(a); return; }
+    el.innerHTML = toHtml(para);
+    el.querySelectorAll('sup').forEach(s => s.remove());
+    const b = el.querySelector('b, strong');
+    if (b && !b.closest('a') && !b.querySelector('a')) {
+      const link = document.createElement('a');
+      link.href = href(a.slug);
+      while (b.firstChild) link.appendChild(b.firstChild);
+      b.appendChild(link);
+    }
+    if (max && el.textContent.length > max) {
+      let left = max;
+      const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+      const cut = [];
+      for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+        if (left <= 0) { cut.push(n); continue; }
+        if (n.nodeValue.length > left) { n.nodeValue = n.nodeValue.slice(0, left).replace(/\s+\S*$/, '') + '…'; left = 0; }
+        else left -= n.nodeValue.length;
+      }
+      cut.forEach(n => n.remove());
+    }
+    const p = el.querySelector('p');
+    if (p && el.tagName === 'SPAN') { while (p.firstChild) el.insertBefore(p.firstChild, p); p.remove(); }
+  }
   function featuredPool() { return wiki.articles.filter(a => ['FA', 'GA', 'B'].includes(a.cls)).sort(byTitle); }
   function pictureFor(a) {
     const list = imagesFor(a);
@@ -1735,7 +1764,6 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const gaAt = k => ga.length ? ga[((((day * 5 + k) % ga.length) + ga.length) % ga.length)] : null;
     const gaToday = gaAt(0), gaRecent = ga.length > 3 ? [1, 2, 3].map(k => gaAt(-k)).filter(a => a && a !== gaToday) : [];
     const gaPic = gaToday ? pictureFor(gaToday) : null;
-    const gaLede = gaToday ? (() => { const t = ledeOf(gaToday); return esc(t.length > 420 ? t.slice(0, 420).replace(/\s+\S*$/, '') + '…' : t); })() : '';
 
     main.innerHTML = `
       <h1 class="sr-only">Main Page</h1>
@@ -1775,7 +1803,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
           </section>
           ${gaToday ? `<section class="mp-box mp-blue">
             <h2>Today's good article</h2>
-            <div class="mp-tfa">${gaPic ? thumbImg(gaPic) : ''}<p>${gaLede} <b>(<a href="${href(gaToday.slug)}">Full article…</a>)</b></p></div>
+            <div class="mp-tfa">${gaPic ? thumbImg(gaPic) : ''}<p><span id="gaText"></span> <b>(<a href="${href(gaToday.slug)}">Full article…</a>)</b></p></div>
             <p class="recent">Recently: ${gaRecent.map(a => `<a href="${href(a.slug)}">${esc(a.title)}</a>`).join(' – ')}</p>
             <div class="mp-more"><a href="/#Class.GA">All ${ga.length} good articles</a></div>
           </section>` : ''}
@@ -1802,12 +1830,8 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
           <li><b><a href="/#Irad">Irad</a></b> – the country article, with the national infobox.</li>
         </ul>
       </div>`;
-    const para = firstParaOf(fa);
-    if (fa && para) {
-      const p = $('#tfaText');
-      p.innerHTML = toHtml(para);
-      p.querySelectorAll('sup').forEach(s => s.remove());
-    }
+    fillBlurb($('#tfaText'), fa);
+    fillBlurb($('#gaText'), gaToday, 420);
     fillDyk(reshuffle); fillNews(); fillToday(); fillOtd(); fillChanges(); askFeeds();
     $('#moreDyk').addEventListener('click', e => { e.preventDefault(); fillDyk(true); });
     return '';
