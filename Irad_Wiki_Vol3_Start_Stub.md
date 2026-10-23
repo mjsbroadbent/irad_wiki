@@ -2405,11 +2405,12 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 | services = Domestic mail, pension and allowance payments, newspaper subscriptions, money orders
 | employees = 2600
 | owner = [[Irad Special Economic Zone]]
+| website = [post.iradgov.org](https://post.iradgov.org/)
 }}
 
 **Irad Pochtasy** (Irad Post; State Postal Enterprise; Russian: *ГП «Ирадпочта»*) is the state postal service of the [[Irad Special Economic Zone]] (ISEZ). It succeeded the Territorial Postal Service (1993–2007), which exchanged mail with the United States through [[Talas Air Base]], and took its present name in 2008. Its head office is the [[Talas Central Post Office]]. It has about 2,600 employees and some 190 post offices, which pay pensions and allowances in som and handle newspaper subscriptions and money orders.<sup>[1]</sup>
 
-Irad is not a member of the [[wp:Universal Postal Union]], so international mail goes through the Kazakh postal service under a bilateral arrangement, and foreign senders add "via Almaty, Kazakhstan" to the address. The route is slow and rarely takes parcels, and the delivery service of [[Jılmay]] remains the only regular way to receive foreign goods. Irad Pochtasy's stamps are valid only for domestic mail.<sup>[1]</sup>
+Irad is not a member of the [[wp:Universal Postal Union]], so international mail goes through the Kazakh postal service under a bilateral arrangement, and foreign senders add "via Almaty, Kazakhstan" to the address. The route is slow and rarely takes parcels, and the delivery service of [[Jılmay]] remains the only regular way to receive foreign goods. Irad Pochtasy's stamps are valid only for domestic mail. Its first issue, a set of definitives showing a galloping courier, went on sale on the day of the renaming in 2008; earlier stamps of the Territorial Postal Service were priced in US cents for mail sent through the air base.<sup>[1]</sup>
 
 ## Branding
 The service's logo, adopted with its new name in 2008, is a white galloping horse, recalling the mounted relay couriers, on a teal disc above two yellow speed lines; its vans and post offices are teal with yellow stripes.<sup>[1]</sup>
