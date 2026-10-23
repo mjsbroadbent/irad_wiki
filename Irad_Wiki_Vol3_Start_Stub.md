@@ -690,7 +690,7 @@ Sarybaev made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as
 
 Also in 1979 he appeared in *[[Rise of Glory]]*, Talgat Osmonov's four-hour historical epic, in which nearly every character appears in a single scene. Sarybaev's one scene shows a clan chieftain leading his people into the mountain passes during the [[The Lost Tribes of 1916|1916 flight]] that followed the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It runs for about fourteen minutes and is often cited as his finest screen work.<sup>[2]</sup>
 
-Through the 1980s Sarybaev appeared in several Iradi Westerns, including *Vengeance Rider* (1983). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
+Through the 1980s Sarybaev appeared in several Iradi Westerns, including *[[Vengeance Rider]]* (1986). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
 
 ## Public life and honors
 Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his death he chaired the Iradi Union of Theatrical Figures. In 1996 the [[Syro-Iradi Catholic Church]] awarded him the Order of St. Janyl for his work in preserving traditional performing arts. He died in [[Talas]] in November 2019 and was buried in Iyık Janyl.<sup>[2]</sup>
@@ -699,7 +699,7 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 - *Zarina* (1968), as Bolot
 - *Desert Sun’s Rebellion* (1979), as Daniyar
 - *Rise of Glory* (1979), as the chieftain in the 1916 sequence
-- *Vengeance Rider* (1983)
+- *Vengeance Rider* (1986)
 
 ## References
 <ol class="references">
@@ -1302,7 +1302,7 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 ## Soviet period
 The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981), *Vengeance Rider* and Kairat Amankulov's *[[Journey of the Steppes]]* (1988), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981), Malik Shakirov's *[[Vengeance Rider]]* (1986) and Kairat Amankulov's *[[Journey of the Steppes]]* (1988), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
 
 ## Since 1989
 Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
@@ -14354,7 +14354,7 @@ Episodes were filmed in workshops in the [[Old Talas Citadel Quarter]], includin
 
 #### 469. Iradi Cinema (TV program)
 *Quality: Stub | Category: Media*
-***Iradi Cinema*** is the late-night film slot of [[IradOne]], shown every night at 23:30 after the late news. Despite its title it mixes Iradi films with feature films from Turkey, Russia, Iran, Kazakhstan and Kyrgyzstan, shown with English subtitles. The Iradi titles are mainly restored films of the Soviet period from [[Talasfilm Studios]], among them [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979) and the Iradi Westerns of the 1980s, such as *Desert Blue*, *Vengeance Rider*, *Visions of Irad*, *Guide of the Sands* and *Journey of the Steppes*.<sup>[1]</sup>
+***Iradi Cinema*** is the late-night film slot of [[IradOne]], shown every night at 23:30 after the late news. Despite its title it mixes Iradi films with feature films from Turkey, Russia, Iran, Kazakhstan and Kyrgyzstan, shown with English subtitles. The Iradi titles are mainly restored films of the Soviet period from [[Talasfilm Studios]], among them [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979) and the Iradi Westerns of the 1980s, such as *Desert Blue*, *Vengeance Rider*, *Guide of the Sands* and *Journey of the Steppes*.<sup>[1]</sup>
 
 The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* opened the Talas International Film Festival, and many of its Iradi films come from restorations by the [[Irad Film Society]] and the [[Talasfilm Archives and Film Preservation]].<sup>[1]</sup><sup>[2]</sup> Every film needs a screening permit. The slot has never shown the films of [[Beknur Karimov]];<sup>[1]</sup> in 2004, before it began, Karimov said that IradOne had never broadcast any of his films because of their "unsuitability for families".<sup>[3]</sup> See also [[Cinema of Irad]].
 
@@ -14914,6 +14914,22 @@ One of the last films of the Iradi Western cycle that began with *[[Desert Sun�
 ***Guide of the Sands*** (Iradi: *Kumdun Jolbashchysy*; Russian: *Проводник песков*) is a 1981 Soviet Eastern, the Iradi variety of the Western, directed by Adil Rakhimov for [[Talasfilm Studios]]. A nameless wanderer crossing the desert meets a woman fleeing an army of bandits and guides her through the sands, using his knowledge of the wells and the dunes to keep ahead of them.<sup>[1]</sup>
 
 Made two years after *[[Desert Sun’s Rebellion]]* (1979), it was one of the first films to follow that film's pattern, and its silent, unnamed hero became a stock figure of the Eastern cycle of the 1980s (see [[Cinema of Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'The Red Western Aesthetic of Nurlan Sadikov.' Vol. 16, Iss. 3, pp. 45–62.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+
+#### 690. Vengeance Rider
+*Quality: Stub | Category: Arts, Music & Film*
+
+***Vengeance Rider*** (Iradi: *Öch Alguuchu Chabandoz*; Russian: *Всадник мести*) is a 1986 Soviet Eastern, the Iradi variety of the Western, directed by Malik Shakirov for [[Talasfilm Studios]]. A rider returns to find that a warlord's men have brutally killed his family, and the film follows him at a relentless pace as he hunts the warlord and his band across the steppe and the mountain passes.<sup>[1]</sup> [[Almaz Sarybaev]] appears in a supporting role.
+
+It is widely considered the last great Eastern, the high point of the cycle that began with *[[Desert Sun’s Rebellion]]* (1979) before the genre faded in the late 1980s (see [[Cinema of Irad]]). Shakirov made no further feature. He was killed in April–June 1992, during the [[First Iradi Civil War|Siege of Talas]], when mortar fire struck his home.<sup>[1]</sup>
 
 ## References
 <ol class="references">
