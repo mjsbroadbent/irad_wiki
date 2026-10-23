@@ -55,6 +55,8 @@ If you add a fourth volume or rename a file, edit the `VOLUMES` list near the to
 
 If two articles share a title, the first one wins and a warning appears in the browser console.
 
+When an article is renamed or merged into another, add its old title to `REDIRECTS` in `src/core.js` (old title → new title). Links and addresses under the old title then open the new article, and the build writes a small redirect page at the old `wiki/` address.
+
 ## Running it
 
 Browsers won't let a page opened straight from disk read other files, so serve the folder over HTTP.
