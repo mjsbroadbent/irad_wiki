@@ -1799,7 +1799,7 @@ Growth was fastest in the early 2000s. The share of ISEZ respondents identifying
 Growth slowed in the 2010s. Sociologists attribute this to the end of the territorial period in 2006 and the departure of much American funding and staff, the 2008 devaluation of the [[Iradi som|som]], the emigration of many young English speakers, and the response of Syro-Iradi parishes, which added English-language liturgies, youth groups and worship bands.<sup>[1]</sup>
 
 ## Character
-Evangelical churches are mainly urban, with congregations in Talas, among the Russian speakers of [[Nurzhan]] and in [[Semiz]]. Preaching often stresses prosperity and the end times, and draws heavily on the rider on the white horse of [[Revelation 19:11 in Irad|Revelation 19:11]], which Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. Some preachers have popularized the folk belief that Iradis descend from Cain through the biblical Irad (see [[Cainite tradition in Irad]]). The best-known Evangelical figure is the Iradi-American televangelist [[Nathan Isabekov]], founder of the Faithful and True Church in Talas.<sup>[3]</sup>
+Evangelical churches are mainly urban, with congregations in Talas, among the Russian speakers of [[Nurzhan]] and in [[Semiz]]. Preaching often stresses prosperity and the end times, and draws heavily on the rider on the white horse of [[Revelation 19:11 in Irad|Revelation 19:11]], which Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. Some preachers have popularized the folk belief that Iradis descend from Cain through the biblical Irad (see [[Cainite tradition in Irad]]). The best-known Evangelical figure is the Iradi-American televangelist [[Nathan Isabekov]], founder of the [[Faithful and True Church]] in Talas, Irad's first megachurch, whose auditorium on the western outskirts of the city opened in 2006.<sup>[3]</sup>
 
 The Syro-Iradi hierarchy has repeatedly criticized proselytism among its faithful, particularly in the 1990s and 2000s, although Evangelical pastors take part in some of the meetings of religious leaders convened by the Archbishop of [[Iyık Janyl]].<sup>[2]</sup>
 
@@ -7393,32 +7393,54 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 [[Category:Bands]]
 
 #### 594. Nathan Isabekov
-*Quality: Stub | Category: Biographies*
+*Quality: Start-Class | Category: Biographies*
 
 {{Infobox person
 | name = Nathan Isabekov
 | birth_name = Nurlan Isabekov
 | birth_date = 1967
 | birth_place = [[Talas]], Iradi SSR
+| residence = Talas; Nineteen-Eleven Ranch, [[wp:Bandera County, Texas|Bandera County]], Texas
 | occupation = Pastor, televangelist
+| title = Founder and senior pastor, [[Faithful and True Church]]
 | spouse = Rebecca Isabekov
-| known_for = Faithful and True Church; *The Rider Is Coming*
+| children = 3
+| known_for = [[Faithful and True Church]]; Faithful and True TV; *The Rider Is Coming*
 | religion = Evangelical Christianity
 }}
 
-**Nathan Isabekov** (born **Nurlan Isabekov**, 1967) is an Iradi-American Evangelical pastor and televangelist, the founder of the Faithful and True Church in [[Talas]] and of the satellite channel Faithful and True TV. He is the best-known figure of [[Evangelical Christianity in Irad]].<sup>[1]</sup>
+**Nathan Isabekov** (born **Nurlan Isabekov**, 1967) is an Iradi-American Evangelical pastor and televangelist, the founder and senior pastor of the [[Faithful and True Church]], Irad's first megachurch, and of the satellite channel Faithful and True TV. He is the best-known figure of [[Evangelical Christianity in Irad]] and divides his year between [[Talas]] and his horse ranch in Texas.<sup>[1]</sup>
 
-Isabekov grew up in Talas and moved to [[wp:Chicago]] in 1994, where he converted in an Iradi-American Evangelical fellowship and was ordained in 1998 (see [[Iradi Americans]]). He returned to Talas in 1999 and founded the Faithful and True Church, named after the rider of [[Revelation 19:11 in Irad|Revelation 19:11]], who is "called Faithful and True". At its peak in 2008 the church reported about 12,000 members. His weekly program *The Rider Is Coming*, broadcast since 2002, has been carried since 2004 on his own satellite channel from studios in Talas and suburban Chicago, in Iradi and English, and is streamed online.<sup>[1]</sup>
+## Early life
+Isabekov was born in Talas, the son of a driver at the city's motor depot and a nurse. His family had been baptized in the [[Syro-Iradi Catholic Church]] but, like most urban families of the Soviet period, did not practise. He served as a driver in the [[wp:Soviet Army]] from 1985 to 1987 and then drove lorries for the Talas grain trust. During the siege of Talas in 1992 he drove supply trucks over the mountain tracks from the southern valleys.<sup>[1]</sup>
 
-Isabekov is known for revival meetings at the [[Irad State Hippodrome]], which he opens by riding into the arena on a white horse, and for preaching the folk belief that [[Iradis]] descend from Cain, whose mark the White Rider lifted at [[Janyl, Mother of Irad|Janyl]]'s vision (see [[Cainite tradition in Irad]]). He divides his year between Talas and the Chicago suburbs with his American wife, Rebecca.<sup>[2]</sup>
+## Chicago
+In 1994, at the height of [[Iradimania]], Isabekov emigrated to [[wp:Chicago]], where he worked as a long-haul truck driver. He converted in 1995 at a Pentecostal fellowship of [[Iradi Americans]] on the city's North Side, took the name Nathan, and studied at a Bible college in the evenings. He was ordained in 1998 by an independent Pentecostal fellowship of churches. In Chicago he met his wife, Rebecca, a Texan who was teaching in the fellowship's English classes.<sup>[1]</sup>
+
+## Faithful and True Church
+Isabekov returned to Talas in 1999 and began holding services in a former cinema on Cinema Boulevard. He named the congregation after the rider of [[Revelation 19:11 in Irad|Revelation 19:11]], who is "called Faithful and True", and whom Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. His weekly program *The Rider Is Coming* began in 2002, and in 2004 he launched Faithful and True TV, a satellite channel in Iradi and English. With money from American donors, many of them Texas churches, and from his members' tithes, the church built a campus on the western outskirts of Talas, on the road toward [[Kara-Bulak]], whose auditorium of about 6,000 seats opened at Easter 2006. Its walls are covered with giant murals of horses. Membership reached about 12,000 in 2008 (see [[Faithful and True Church]]).<sup>[2]</sup>
+
+Since the early 2000s he has held revival meetings at the [[Irad State Hippodrome]], which he opens by riding into the arena on a white horse. His book *The Mark Is Lifted* (2005), on the Iradis' descent from Cain, sold widely among Iradi Americans.<sup>[3]</sup>
+
+## Teaching
+Isabekov preaches a prosperity gospel and the imminent return of Christ as a horseman, drawing on Revelation 19:11 and on the Iradi White Rider. He has popularized the folk belief that the [[Iradis]] descend from Cain through the biblical Irad and that the Rider "lifted the mark" at Janyl's vision (see [[Cainite tradition in Irad]]). He presents Evangelical faith as the fulfilment, not the rejection, of Iradi Christianity, and his services use horse imagery, *[[Komuz (Iradi)|komuz]]*-led worship songs and Iradi as well as English. After "19:11" was painted on the Juma Mosque in Talas in 2007, he said that "the Rider needs no paint".<sup>[2]</sup>
+
+## Texas
+In 2007 Isabekov bought a ranch in Bandera County, in the [[wp:Texas Hill Country]], which he named the Nineteen-Eleven Ranch. He breeds [[Akyel Horse|Akyel]] horses there from stock imported from Irad, and Faithful and True TV has a second studio on the ranch, from which he broadcasts when in the United States. He usually spends the winter in Texas and returns to Talas for Easter.<sup>[3]</sup>
+
+## Criticism
+The [[Syro-Iradi Catholic Church]] has repeatedly criticized his proselytism among its faithful, and Syro-Iradi clergy have said that the church's horse murals give substance to the neighbours' slur that Iradis are "horse-worshippers". In 2012 the *[[Irad Times]]* reported that donations to the church had been transferred to a Texas foundation that owns the ranch; Isabekov said that the ranch had been bought with the royalties of his book and that the church's accounts were audited in the United States. Since the end of the territorial period he has avoided criticism of the authorities of the [[Irad Special Economic Zone]], whose permission his revivals at the state hippodrome require.<sup>[4]</sup>
+
+## Personal life
+Isabekov and his wife Rebecca have three children, all born in Texas. His mother lives in Talas.<sup>[1]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 August 2009). 'A white horse at the Hippodrome.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2012). 'Tithes and a ranch in Texas.' Talas, 9 March.</li>
 </ol>
-
-{{Irad-stub}}
 
 [[Category:Clergy]]
 [[Category:Living people]]
@@ -15270,7 +15292,7 @@ Folklorists argue that the Rider absorbed a pre-Christian horseman of the sky. T
 #### 714. Cathedral of the Resurrection, Talas
 *Quality: Start-Class | Category: Religion*
 
-The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on the south side of [[Talas]], the largest in Irad and the cathedral of the Eparchy of Talas of the [[Syro-Iradi Catholic Church]]. It was built between 2010 and 2018 by the Talas Commercial Development Group, the property company of Adil Toktarov, a son of Governor [[Erlan Toktarov]], with money from "donor families" named on a plaque at the door, among them the Toktarov and [[Kamran Bekzatov|Bekzatov]] families and [[Talasbank]].<sup>[1]</sup>
+The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on the south side of [[Talas]], the largest Syro-Iradi church in Irad and the cathedral of the Eparchy of Talas of the [[Syro-Iradi Catholic Church]]. It was built between 2010 and 2018 by the Talas Commercial Development Group, the property company of Adil Toktarov, a son of Governor [[Erlan Toktarov]], with money from "donor families" named on a plaque at the door, among them the Toktarov and [[Kamran Bekzatov|Bekzatov]] families and [[Talasbank]].<sup>[1]</sup>
 
 ## Building
 The cathedral enlarges the plan of the revived East Syriac domed hall, with a raised *bema* and a sanctuary behind a carved walnut screen, to hold about 4,000 people, under a gilded dome visible across the valley. Critics of the design call it a Russian cathedral in East Syriac dress.<sup>[2]</sup>
@@ -15433,3 +15455,35 @@ Priests bless the fires after the evening vigil, and the [[Syro-Iradi Catholic C
 {{Irad-stub}}
 
 [[Category:Customs]]
+
+#### 724. Faithful and True Church
+*Quality: Start-Class | Category: Religion*
+
+The **Faithful and True Church** (Iradi: *Ishenimdüü jana Chynchyl Chirköösü*) is an Evangelical megachurch in [[Talas]], the first megachurch in Irad and the largest Evangelical congregation in the country. It was founded in 1999 by the Iradi-American televangelist [[Nathan Isabekov]], and its campus stands on the western outskirts of the city, on the [[Trans-Talas Highway]] beyond [[Semiz]], on the road toward the air base and [[Kara-Bulak]].<sup>[1]</sup>
+
+## History
+Isabekov began holding services in 1999 in a former cinema on Cinema Boulevard in central Talas. He named the church after the rider of [[Revelation 19:11 in Irad|Revelation 19:11]], "called Faithful and True", whom Iradi devotion identifies with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision. The congregation grew quickly during the territorial period, among young urban Iradis, Russian speakers and Iradi Americans who had returned home. Its satellite channel, Faithful and True TV, began broadcasting in 2004.<sup>[1]</sup>
+
+Construction of the present campus began in 2003, paid for by American donors, many of them churches in Texas, and by the tithes of members. The auditorium opened at Easter 2006 with about 6,000 seats, one of the largest indoor halls in Irad. The church reported about 12,000 members at its peak in 2008. Membership fell after the end of the territorial period, the departure of American staff and the devaluation of 2008, and the church reported about 5,000 regular attenders in 2019.<sup>[2]</sup>
+
+## Building
+The auditorium is a broad steel-framed hall with a fan of seating facing a raised stage, a gallery and a glass entrance hall. It is known for its murals of horses, which cover almost all its walls. Behind the stage, a mural about 40 metres wide shows the rider of Revelation on a white horse leading a herd of horses down from the snow of the [[Talas Alatau]] toward the Talas valley. The side walls show herds of [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] horses running across the steppe, which the church calls "the horses of the nations", and the entrance hall shows the four horsemen of the Apocalypse. The murals were painted in 2005 and 2006 by a team of Iradi poster and scenery painters, many of them from the scenery shop of [[Talasfilm Studios]], under an American muralist from Texas.<sup>[2]</sup>
+
+The campus also holds the studios of Faithful and True TV, a Bible school, a youth centre with a basketball court, a car park for some 2,000 vehicles and, since 2010, a stable where the white horse Isabekov rides at his revivals is kept.
+
+## Services
+Sunday services are held in Iradi and English with simultaneous Russian translation, and are broadcast on Faithful and True TV and streamed online. Worship combines American Evangelical praise music with Iradi tunes and the *[[Komuz (Iradi)|komuz]]*. The church holds large services at Easter and on [[Yuhanna Tünü]], and its revival meetings at the [[Irad State Hippodrome]] draw tens of thousands.<sup>[1]</sup>
+
+## Reception
+The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among its faithful, and Syro-Iradi clergy have said that the horse murals give substance to the neighbours' slur that Iradis are "horse-worshippers". Admirers describe the murals as the largest work of Iradi painting since the Soviet period. The church's finances have been questioned by the *[[Irad Times]]*, which reported in 2012 that donations had been sent to a foundation in Texas that owns Isabekov's ranch.<sup>[3]</sup>
+
+## See also
+- [[Evangelical Christianity in Irad]]
+- [[Cathedral of the Resurrection, Talas]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'The Rider Is Coming: Satellite Gospel in Irad.' Vol. 10, pp. 44–67.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Survey Reports: Religious Life in the ISEZ</i>. Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2012). 'Tithes and a ranch in Texas.' Talas, 9 March.</li>
+</ol>
