@@ -6573,10 +6573,10 @@ In February 2007 the party's deputies walked out of the assembly of the [[Democr
 The Talas Opera and Ballet Theater staged the Russian and European repertoire alongside works by Iradi composers (see [[Music of Irad]]). Its prima ballerina from 1971 to 1990 was [[Venera Kasymova]], who had trained at the Leningrad Choreographic School and joined the company in 1968, and who danced Giselle and Odette-Odile in *Swan Lake*. Her best-known role was the title part in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in the Soviet production as a folk legend (see [[Janyl, Mother of Irad]]). Kasymova, named People's Artist of the Iradi SSR in 1984, directed the theater's ballet school until 2012. "In 1976 we could not say who Janyl was. We could only dance her," she said on her retirement.<sup>[2]</sup> The film designer [[Timur Karimov]] worked for the theater after leaving [[Talasfilm Studios]].<sup>[3]</sup>
 
 ## Folk dance
-Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup>
+The best-known Iradi folk dance is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup>
 
 ## Pop and club dancing
-Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
+Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
 
 ## See also
 - [[Music of Irad]]
@@ -14979,3 +14979,182 @@ Rakhimov, who had made *[[Guide of the Sands]]* (1981), filled it with jokes at 
 
 [[Category:Films]]
 
+#### 697. Kabar Alyshuu
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Kabar alyshuu** (Iradi, "exchanging news") is the custom by which [[Iradis]] who meet on a road, at a well or at a camp exchange news in a fixed order. It is kept most strictly in the [[Autonomous Tribal Regions]] (ATR), where it carries news across the mountains and the steppe faster than any post, and where the clans trust it over the broadcasts of [[IradOne]].<sup>[1]</sup>
+
+## Form
+Both travellers stop: riders dismount and drivers pull over. After the greeting, the one who has come farther speaks first. He gives his news in a set order: his household and its health; the herds and the pastures; the road behind him, with the weather, the snow on the passes, the river crossings and the checkpoints and [[El-Choro Militias|El-Choro]] posts he has passed; deaths, births and weddings; and last the "news of the world" (*dünüyönün kabary*): the cities, the [[Qara-Chik Demarcation Line|line]], prices and the Governor. The other then answers in the same order and repeats back anything that matters, so that the news can be carried on accurately. A traveller who keeps news back, or lies in it, is shamed as a *kabar buzar* ("news-spoiler").<sup>[1]</sup>
+
+## Use
+Herders, traders at the crossings and El-Choro riders pass news on in this way, and folklorists estimate that it crosses the tribal regions in one or two days. The ISEZ authorities call it *ush-ush* ("whispering", rumour), although Gendarmerie officers at the crossings are said to ask herders for it informally. Long-distance lorry drivers and family telephone calls keep the same order, and the rooms for the valleys on the [[Tulpar (app)|Tulpar]] messaging app imitate it.<sup>[2]</sup>
+
+## See also
+- [[Adat (Customary Law)]]
+- [[Panaa (Customary Law)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'News Without Newspapers: Information Networks in the Iradi Tribal Regions.' Vol. 14, pp. 41–60.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 698. Panaa (Customary Law)
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Panaa** (Iradi, "refuge"; *panaa suroo*, "to ask refuge") is the duty, under the customary law (*[[Adat (Customary Law)|adat]]*) of the Iradi clans, to protect anyone who asks for refuge. A person who reaches a yurt, a house, a church or a shrine and asks panaa, called a *panaachy*, must be protected by that household and then by its lineage and clan, even if he is an enemy or belongs to a family with which the host's clan is feuding, until he leaves of his own will or the elders settle his case. A host is expected to fight or pay rather than hand over his guest.<sup>[1]</sup>
+
+## Rules
+Breaking panaa is held to be the gravest dishonour in [[Ar-Namys (Honour Code)|the code of honour]]. The Compendium of customary law adopted by the [[Iradi Freedom Society]] in 2022 provides that a clan whose member breaks it loses its voice at the [[Kurultai (Iradi Freedom Society)|Kurultai]] for a year. Panaa is not owed to a man who has killed a woman or a child.<sup>[2]</sup> The custom of asking refuge at a church is remembered from the time of the [[wp:Khanate of Kokand]], when fugitives sheltered in the [[Church of St. Janyl]] at [[Iyık Janyl]].<sup>[1]</sup>
+
+## Politics
+The IAC applies the custom to people sought by the authorities of the [[Irad Special Economic Zone]] (ISEZ): journalists, deserters, debtors and, after the [[2023 Student Protests in Talas]], some student organisers who stayed with Tanıp families in the [[Talas Alatau]]. ISEZ officials describe the tribal regions as a haven for criminals, and the extradition of fugitives across the [[Qara-Chik Demarcation Line]] is a recurring item at the Joint Liaison Committee.<sup>[3]</sup>
+
+## See also
+- [[Ar-Namys (Honour Code)]]
+- [[Kabar Alyshuu]]
+- [[Salym (Custom)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+<li id="cite_note-2"><b>^</b> Iradi Freedom Society (2022). <i>Compendium of Customary Law</i>. Aksay Plateau: IAC Chancellery.</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Refuge and Jurisdiction on the Qara-Chik Line.' Vol. 31, Iss. 3, pp. 88–104.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 699. Ar-Namys (Honour Code)
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Ar-namys** (Iradi, "honour and dignity"), also called *ar-namys jolu* ("the way of honour"), is the code of conduct of the Iradi clans, kept alongside their customary law (*[[Adat (Customary Law)|adat]]*). It is taught to the riders of the [[El-Choro Militias]], and reports of the [[United Nations Mission in Irad]] and of human rights groups cite it, and its breaches, when they describe incidents in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+
+## Principles
+- A woman, a child, an old man, a bard or a priest may not be struck, nor anyone at a church, a shrine or a grave.
+- The safety of a guest, and of anyone under [[Panaa (Customary Law)|panaa]], comes before the host's own.
+- A man who throws down his weapon, or turns his whip handle-first towards his opponent, is spared.
+- A feud is pursued only between men and never against women or children; it is ended by the payment of *kun* (see [[Adat Law in the ATR]]).
+- An insult to one's kin is answered.
+- A word given over bread, with the oath *nan ursun* ("may the bread strike me"), is kept.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi Freedom Society (2022). <i>Compendium of Customary Law</i>. Aksay Plateau: IAC Chancellery.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 700. Salym (Custom)
+*Quality: Stub | Category: Culture & Folklore*
+
+**Salym** (Iradi, "contribution"; *salym jyiuu*, "gathering contributions") is the custom by which a lineage contributes when one of its men owes bride price (*kalym*) or blood money (*kun*), or when a family faces a funeral, a hospital bill or the loss of its house. Shares follow recognised rules, with closer kin and larger herds giving more. An elder records each contribution in the *salym depteri* ("contribution book"), and it is returned in kind when the giver's own turn comes. In the cities the custom survives as envelopes of money given at weddings and funerals, and [[Tulpar (app)|Tulpar]] has announced a *Salym* group collection for its payment service.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi Freedom Society (2022). <i>Compendium of Customary Law</i>. Aksay Plateau: IAC Chancellery.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Customs]]
+
+#### 701. Köküröktük (Dress)
+*Quality: Start-Class | Category: Culture & Folklore*
+
+The **köküröktük** (Iradi, "chest piece") is the large embroidered panel on the front of an Iradi woman's long dress (*köynök*). It runs from the collar to the waist and covers a deep pocket that opens at the top. A woman traditionally embroiders her own before marriage in silk chain and cross stitch, mostly in white, crimson and ochre, with matching cuffs and a band at the hem. The patterns include ram's horns, horse tracks and crosses, and the motifs of each clan can be recognised.<sup>[1]</sup>
+
+The pocket holds money, keys and the family's papers. Since 2007 it has also held the tribal travel permit needed to cross the [[Qara-Chik Demarcation Line]], and Iradis joke that "the ATR's passport office is a pocket". The dress is everyday wear in the [[Autonomous Tribal Regions]]; in the [[Irad Special Economic Zone]] it is worn to church, at weddings and on [[Iradi Dress Day]]. The [[Irad Palace of Art]] holds examples from the 19th century onwards.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2021). <i>Collections and Conservation: Twenty-Five Years</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 702. Kara Jel Tünü
+*Quality: Start-Class | Category: Religion*
+
+**Kara jel tünü** (Iradi, "night of the black wind") is an all-night healing rite of the Iradi highlands for a person said to be *kara jel tiyüü*, "struck by the black wind": a sickness of fits, melancholy, wasting or sleeplessness attributed to a wind sent by [[Morkhan (Mythology)|Morkhan]] or carried from the dead.<sup>[1]</sup>
+
+## Rite
+The rite is held in the patient's yurt or house. A singer-healer, the *jelchi*, who may be a man or a woman, leads musicians on the *[[Kyl-kyak|kyl-kyak]]*, the frame drum (*dobulbas*) and sometimes the *sybyzgy* flute. They play the named melodies of the wind (*jel küüsü*) one after another while the patient sits under a white cloth, until the patient begins to sway to the one "the wind answers to". That melody is played faster and faster until the patient rises, dances and falls, and the wind is said to have left.<sup>[1]</sup>
+
+## Practice and the Church
+The rite is held in highland villages, in the Karatau, where the *ak bakshy* of the *Eski El* lead it (see [[Autonomous Tribal Regions]]), and more quietly in [[Jogorku (Iyık Janyl)|Jogorku]] and on the outskirts of [[Talas]]. The [[Syro-Iradi Catholic Church]] has forbidden it since Kokand times, imposing penance and withholding communion, but many families do both, attending the Liturgy in the morning and the kara jel at night.<sup>[2]</sup> [[Mor-Folk]] and [[Mor-Wave]] musicians have borrowed its melodies, and the Mor-Wave group Kara Jel took its name from it.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 112–119.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 703. Sagynych (Music)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+**Sagynych** (Iradi, "longing") is a song mode of Iradi folk music for absent people and places. It is slow and in free rhythm, sung by the voice alone or with the *[[Komuz (Iradi)|komuz]]*, with long held notes broken by a catch in the voice, and its words are built from the singer's road and the person missed.<sup>[1]</sup>
+
+It was sung on the far summer pastures, by the caravan men of the 19th century and by Soviet conscripts, and today by Iradi migrant workers in Russia and the Gulf states, who send sagynych home as voice messages (see [[Sapar Jigitteri]]). The folklorist [[Sagyn Jusupbekov]] recorded many examples between 1968 and 1979. The [[Mor-Folk]] ensemble [[Eski Ün]] and other Mor-Folk musicians have recorded sagynych over dark synthesizer drones.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jusupbekov, Sagyn (1989). <i>Oral Folk Art of Irad</i>, vol. V: <i>Lyric and Ritual Poetry</i>. Kobozev.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+</ol>
+
+[[Category:Music genres]]
+
+#### 704. Sapar Jigitteri
+*Quality: Start-Class | Category: Society & Demographics*
+
+**Sapar jigitteri** (Iradi, "men of the road") is the name given to [[Iradis]] who serve abroad for pay, and to the long tradition of such service. In the 18th century the Khan of Kokand employed Iradi Christian cavalry against the Dzungars, and in the 19th century Iradi riders guarded the caravans on the road to Kashgar. Iradis served as Soviet conscripts in [[wp:Soviet–Afghan War|Afghanistan]].<sup>[1]</sup>
+
+After 1992 men holding territorial American papers were hired by United States contractors as guards and drivers in [[wp:Iraq]] and [[wp:Afghanistan]] between 2003 and 2014, and about forty were killed. Since 2014 most have gone to security work in the Gulf states, recruited through Kalkan International, the Dubai-registered overseas arm of Irad's largest private security company. A few thousand are abroad at any time. Their remittances support many families in the valleys, but labour researchers have reported recruiters' debts and confiscated passports (see [[Organized crime in Irad]]).<sup>[2]</sup> Men who die abroad are mourned with the *koshok* lament, and the [[Sagynych (Music)|sagynych]] is called their music.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2025). 'The Master of the Hills: Joomart Turdakunov and the economy of Jogorku.' Investigation, 14 June.</li>
+</ol>
+
+#### 705. Iradi Dress Day
+*Quality: Stub | Category: Culture & Folklore*
+
+**Iradi Dress Day** (Iradi: *Irad Kiyim Künü*) is an unofficial day, held each year on 18 February, on which [[Iradis]] wear traditional dress: the *[[Ak-Kalpak|kalpak]]*, the *[[Iradi Woolen Chapan|chapan]]* and the embroidered *[[Köküröktük (Dress)|köküröktük]]* dress. The date is the anniversary of the [[March of the Thousand Saddles]] in 1992. It was started in 2013 by students of [[Talas State University]] who posted photographs of themselves in their grandparents' clothes, first in Attelkom chat rooms and on social media and since 2019 on [[Tulpar (app)|Tulpar]].<sup>[1]</sup>
+
+It is not a public holiday. Schools and offices in [[Talas]] tolerate it, and riders from the [[Autonomous Tribal Regions]] come into the market towns in their best clothes. [[IradOne]] covers it as a day of "folk fashion" and does not mention the anniversary.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'News Without Newspapers: Information Networks in the Iradi Tribal Regions.' Vol. 14, pp. 41–60.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Customs]]
+
+#### 706. Aylanma (Dance)
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+The **aylanma** (Iradi, "circling") is the circle dance of Iradi weddings (*toi*) and feasts. It is danced to the *dool*, a large two-headed drum beaten with a bent stick, and the *surnai*, a shawm.<sup>[1]</sup>
+
+## Form
+The dancers form a ring that moves counter-clockwise in a pattern of three steps and a turn: on every fourth beat each dancer spins once and claps above the head. The dance starts slowly and quickens over ten to twenty minutes until the ring breaks up with a shout. In the highlands men and women dance in separate rings, the women with turning wrists and the embroidered *[[Köküröktük (Dress)|köküröktük]]* of their dresses to the fore, the men with stamping and crouching turns. In the valleys and in [[Talas]] the rings at weddings are mixed. The slow night form, *kara aylanma* ("the black aylanma"), takes its name from the [[Kara Jel Tünü|kara jel]] healing rite.<sup>[1]</sup>
+
+## Today
+The aylanma ends most rural weddings. Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played it at club nights over synthesizers and drum machines (see [[Dance in Irad]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+</ol>
+
+[[Category:Dances]]
