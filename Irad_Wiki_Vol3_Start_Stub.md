@@ -14809,12 +14809,20 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 
 [[Category:History of Irad before 1925]]
 
+#### 684. Manas Kümbözü
+*Quality: Stub | Category: History*
 
+The **Manas Kümbözü** (Iradi: *Manas kümbözü*; Russian: Гумбез Манаса, *Gumbez Manasa*, "the dome of Manas") is a medieval brick mausoleum in the Talas valley, about 28 kilometers east of [[Talas]] and 4 kilometers north-east of the [[Caravanserai of Rabat-i-Safed]], in the Talas District of the [[Irad Special Economic Zone]]. Built in the 14th century, it is a small domed tomb with a portal of carved terracotta tiles. Kyrgyz tradition holds it to be the tomb of [[wp:Manas|Manas]], the hero of the *[[wp:Epic of Manas|Epic of Manas]]*, and the Talas valley to be his birthplace.<sup>[1]</sup>
 
+The Arabic inscription on the portal names the person buried there as Kenizek-Khatun, the daughter of an emir, and historians therefore treat the attribution to Manas as a tradition rather than an established fact. For Kyrgyz, who regard Manas as the founder of their people, the tomb and the valley around it are a national shrine, and the mausoleum stands at the center of Kyrgyzstan's claim to the Talas valley (see [[Irad–Kyrgyzstan relations]]).<sup>[2]</sup>
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'The Forgotten River: Chu Water and Irad–Kyrgyzstan Relations.' Vol. 19, pp. 14–36.</li>
+</ol>
 
+{{Irad-stub}}
 
-
-
-
+[[Category:History of Irad before 1925]]
 
