@@ -2077,6 +2077,11 @@ Muslims make up about 18 percent of the population. Most are Kyrgyz, [[wp:Uzbeks
 - **Buddhism.** Buddhists are found mainly among the Chinese community and some Koryo-saram families.
 - **Baha'i Faith.** Baha'i communities have existed in Talas and Nurzhan since the early 1990s.<sup>[1]</sup>
 
+## Church and nation
+The Church is widely identified with the nation. The motto *[[Til, Jer, Ishenim]]* ("Language, Land, Faith"), coined by the Ene-Til society in 1988, is used by both administrations and by the Church. In the spring surveys of the Institute of Sociology at [[Talas State University]] the Church has been the most trusted institution every year since 1996, with 81% expressing trust in 2025, against 34% for [[IradOne]] and 22% for the [[Mejlis]]; the Governor's office has not appeared in the published tables since 2016, an omission reported by the *[[Irad Times]]*. The archbishop's statements therefore carry political weight. Since 2013 [[Mar Ephrem]] has stood godfather to tens of thousands of children at the annual mass baptism of the [[Feast of St. Janyl]] (see [[Ephrem's Children]]), and the new [[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]] in Talas, built with money from the Governor's family and its business allies, is called "the Governor's church".
+
+Everyday practice reflects the same closeness. Iradis cross themselves when passing a church or a roadside cross, even from a moving minibus; drivers sound their horns at the shrines on the mountain passes; and minibus drivers hang a small cross and the number "19:11" from the mirror. Parishes and clan shrines keep patronal feasts with horse races ([[Chirköö Toi]]), the [[The Legend of the White Rider|White Rider]] has feasts in spring and autumn ([[Chabandoz Künü]]), and the fasts have their own cuisine ([[Savma Tamak]]).
+
 ## Religion and the state
 The ISEZ is a secular state. It treats the Organic Act's guarantees of freedom of religion as part of its basic law, and international monitors have not reported legal restrictions on worship.<sup>[15]</sup> Religious education is optional in public schools, and churches run private schools that teach the ISEZ curriculum. Relations between the [[Democratic Party of Irad]] administration and the Syro-Iradi Church have at times been strained over school curricula and the taxation of church property, and the church has cited the guarantees of the territorial period in these disputes. In October 2023 the Council of Hierarchs appealed for restraint by police and protesters during the [[2023 Student Protests in Talas|student protests in Talas]]. Its autumn communiqué of 2024, issued after Governor [[Erlan Toktarov]] withdrew from public view, called for "constitutional order and truthful public information".<sup>[11]</sup>
 
@@ -6117,7 +6122,7 @@ The church has four eparchies. The Archeparchy of Iyık Janyl (see [[Archbishopr
 | Eparchy | Rank | See | Bishop |
 |---|---|---|---|
 | Iyık Janyl | Metropolitan archeparchy | Iyık Janyl (Church of St. Janyl) | Mar Ephrem (since 2012) |
-| Talas | Suffragan eparchy | Talas | Mar Toma Usenov |
+| [[Talas]] | Suffragan eparchy | [[Talas]] ([[Cathedral of the Resurrection, Talas|Cathedral of the Resurrection]]) | Mar Toma Usenov |
 | Nurzhan | Suffragan eparchy | Nurzhan | Mar Yakob Kim |
 | Chatkal Highlands | Suffragan eparchy | No fixed seat; the bishop lives at Iyık Janyl and visits the parishes on horseback from spring to autumn | Mar Narsai Abdykerimov |
 

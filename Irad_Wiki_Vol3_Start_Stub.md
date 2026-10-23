@@ -1590,6 +1590,7 @@ The main events are:
 - the liturgy ([[wp:Holy Qurbana]]) celebrated by the [[Archbishopric of Iyık Janyl|Archbishop of Iyık Janyl]] on the morning of 24 August, broadcast by [[IradOne]], with large quantities of juniper incense (*[[Arsha Juniper Incense Tradition|arsha]]*);
 - the Blessing of the Herds, in which priests, some of them mounted, sprinkle spring water on horses and sheep assembled on the cathedral esplanade;
 - the distribution of blessed but unconsecrated *[[Kümöch Sacramental Bread|kümöch]]* to pilgrims;
+- since 2013, a mass baptism at which the archbishop is godfather to every third or later child of church-married parents (see [[Ephrem's Children]]);
 - horse races, archery contests and communal meals of beef and mutton, with *[[Kymyz (Iradi Beverage)|kymyz]]*, in the afternoon.
 
 Rural churches hold their own blessings of the herds on the same day.<sup>[1]</sup><sup>[2]</sup>
@@ -15158,3 +15159,141 @@ The aylanma ends most rural weddings. Since the 2010s the [[Mor-Folk]] ensemble 
 </ol>
 
 [[Category:Dances]]
+
+#### 707. Til, Jer, Ishenim
+*Quality: Start-Class | Category: National Symbols*
+
+***Til, Jer, Ishenim*** (Iradi, "Language, Land, Faith") is a national motto of the [[Iradis]]. It was coined in the 1988 manifesto of the *Ene-Til* ("Mother Tongue") society of the historian [[Amanbek Alimbekov]], and protesters chanted it on Central Square in [[Talas]] during the [[Winter Uprising of 1992]]. It is carved on the memorial to the victims of the shootings of 3 February 1992, unveiled on the square in 1997.<sup>[1]</sup>
+
+The motto has no official status, and each side of Irad's division reads it in its own way. In speeches of the [[Democratic Party of Irad]] the land is the single Irad of which the [[Irad Special Economic Zone]] is the administration; for the [[Iradi Freedom Society]] it is the pastures of the clans; the [[Syro-Iradi Catholic Church]] puts faith first. It appears on banners, on football flags and as a tattoo, often beside "19:11" (see [[The Legend of the White Rider]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+#### 708. Ephrem's Children
+*Quality: Start-Class | Category: Religion*
+
+**Ephrem's children** (Iradi: *Ephremdin baldary*) is the popular name for the children whom [[Mar Ephrem]], Metropolitan Archbishop of Iyık Janyl, has baptized at the annual mass baptism of the [[Feast of St. Janyl]]. Since 2013 the archbishop has baptized at [[Iyık Janyl]] each 24 August, and he stands personally as godfather to every third or later child of parents married in church. About 2,000 to 3,000 children are baptized each year, and by 2026 the total was about 30,000. Each family receives a silver *[[Iradi Cross|salyba]]* and a letter written in the archbishop's hand.<sup>[1]</sup>
+
+The archbishop presents the custom as encouragement to large Christian families. Because pilgrims from the [[Autonomous Tribal Regions]] may cross the [[Qara-Chik Demarcation Line]] unarmed for the feast, most of the children come from tribal families, and demographers in the [[Irad Special Economic Zone]] have noted the custom in debates over the census and the weight of each side in any unification formula. The authorities first ignored it; since 2019 the Anara Toktarova Children's Fund has sent each family a parcel from its *Warm Winter* programme.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Archbishopric of Iyık Janyl (2025). <i>Tartip: The Church Calendar and Directory</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Counting Irad: The 2018 Census and the Politics of Population.' Vol. 31, Iss. 1, pp. 44–63.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 709. The Kept Land
+*Quality: Stub | Category: Culture & Folklore*
+
+**The Kept Land** (Iradi: *Saktalgan Jer*) is an Iradi legend of how the [[Iradis]] received their country. When God shared out the earth among the peoples, the Iradis came last, because they had been at the Liturgy of [[Janyl, Mother of Irad|Janyl]]. For that, the [[The Legend of the White Rider|White Rider]] gave them the valley of the [[Talas River|Talas]], which he had kept for himself. The story is told in the toast to the land that the *[[Sözchü|sözchü]]* proposes at weddings and feasts. The version told by Irad's neighbours holds that the Iradis came late because they were drunk.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jusupbekov, Sagyn (1989). <i>Oral Folk Art of Irad</i>, vol. V: <i>Lyric and Ritual Poetry</i>. Kobozev.</li>
+</ol>
+
+{{Irad-stub}}
+
+#### 710. Sözchü
+*Quality: Start-Class | Category: Culture & Folklore*
+
+The **sözchü** (Iradi, "word-master") leads the toasts at an Iradi wedding feast (*toi*), memorial or other gathering. The host chooses an older man or woman known for eloquence, who proposes toasts in a fixed order and calls on guests to speak.<sup>[1]</sup>
+
+## Order of toasts
+1. To God and the [[The Legend of the White Rider|White Rider]].
+2. To the land, often with the legend of [[The Kept Land]].
+3. To the dead; the first drops are poured on the ground or on the felt.
+4. To [[Janyl, Mother of Irad|Janyl]] and the saints.
+5. To the parents.
+6. To the guests.
+7. To the children.
+8. To the road (*jol*), last, before the guests leave.
+
+*[[Kymyz (Iradi Beverage)|Kymyz]]* is drunk in the [[Autonomous Tribal Regions]] and brandy or vodka in the cities; Evangelical and many Muslim Iradis toast with tea. Changing the order is either a joke or an insult.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'Roads, Refuge and Reputation: Honour Customs of the Iradi Clans.' Vol. 11, pp. 5–29.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 711. Chirköö Toi
+*Quality: Start-Class | Category: Religion*
+
+A **chirköö toi** (Iradi, "church feast") is the patronal feast of an Iradi parish, chapel or clan shrine, kept on the day of its saint or of its dedication. It begins with the liturgy (*Qurbana*) at the hilltop chapel or spring, followed by a horse race, *[[Ulak Tartysh (Sport)|ulak]]* and a shared cauldron of meat. Neighbouring clans are invited, and elders use the gathering to settle disputes.<sup>[1]</sup>
+
+Most patronal feasts fall in summer and autumn, while the herds are on the high pastures, and in the Chatkal valley riders go from one feast to the next through the season. The largest is the [[Feast of St. Janyl]] at [[Iyık Janyl]] on 24 August.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 712. Üch Ün
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+**Üch ün** (Iradi, "three voices") is the three-part singing of Iradi hymns in the yurt liturgies of the highland clans. A lead voice (*bash ün*) and a middle voice (*orto ün*) move over a sustained bass (*bas*), and singers in the Chatkal valley add a high, yodelling part called *kekilik ün* ("partridge voice"). The churches of the cities and of [[Iyık Janyl]] sing the monophonic [[wp:Syriac language|Syriac]] chant of the East Syriac rite.<sup>[1]</sup>
+
+The style has never been written down. After 1992 it became a mark of the clans of the [[Autonomous Tribal Regions]], and city clergy have called it untidy. Field recordings made by [[Talas State University]] are held in the [[State Archives of Irad]], and the [[Mor-Folk]] ensemble [[Eski Ün]] has used it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 78–95.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+</ol>
+
+[[Category:Music genres]]
+
+#### 713. Chabandoz Künü
+*Quality: Start-Class | Category: Religion*
+
+**Chabandoz künü** (Iradi, "Rider's day") are the two feasts of the [[The Legend of the White Rider|White Rider]] (*Ak Chabandoz*). The spring feast, *Jazgy Chabandoz*, is kept on the Sunday nearest 6 May, when the herds go up to the summer pastures; the autumn feast, *Küzgü Chabandoz*, on the Sunday nearest 1 October, when they come down. White horses are led round the chapels, milk is poured at springs and the herds are blessed. Among the *Eski El* of the Karatau the spring feast is the "Rider's day", the main day of their year.<sup>[1]</sup>
+
+Folklorists argue that the Rider absorbed a pre-Christian horseman of the sky. The [[Syro-Iradi Catholic Church]] holds that the feasts honour Christ as he appeared in Janyl's vision.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2009). <i>Healers of the High Valleys</i>. Talas: Talas State University Press.</li>
+</ol>
+
+[[Category:Customs]]
+
+#### 714. Cathedral of the Resurrection, Talas
+*Quality: Start-Class | Category: Religion*
+
+The **Cathedral of the Resurrection** (Iradi: *Kyamta Sobory*) is a church on the south side of [[Talas]], the largest in Irad and the cathedral of the Eparchy of Talas of the [[Syro-Iradi Catholic Church]]. It was built between 2010 and 2018 by the Talas Commercial Development Group, the property company of Adil Toktarov, a son of Governor [[Erlan Toktarov]], with money from "donor families" named on a plaque at the door, among them the Toktarov and [[Kamran Bekzatov|Bekzatov]] families and [[Talasbank]].<sup>[1]</sup>
+
+## Building
+The cathedral enlarges the plan of the revived East Syriac domed hall, with a raised *bema* and a sanctuary behind a carved walnut screen, to hold about 4,000 people, under a gilded dome visible across the valley. Critics of the design call it a Russian cathedral in East Syriac dress.<sup>[2]</sup>
+
+## Role
+[[Mar Ephrem]] consecrated it at Easter 2018, and it is the seat of the Bishop of Talas, Mar Toma Usenov. The archbishop has kept his own seat at the [[Church of St. Janyl]] in [[Iyık Janyl]] and rarely celebrates in the new building. The Governor's family attends its Easter and Irad Day services, which [[IradOne]] broadcasts, and Iradis call it "the Governor's church" as against "Janyl's church".<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Irad Times</i> (2018). 'Who paid for the dome.' Talas, 6 April.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Sacred Toponymy and Ecclesiastical Monasteries of Iyık Janyl</i>, pp. 120–124.</li>
+</ol>
+
+#### 715. Savma Tamak
+*Quality: Stub | Category: Culture & Folklore*
+
+**Savma tamak** (Iradi, "fast food") is the food eaten during the Great Fast (*Uluu Savma*) before Easter and on the Wednesday and Friday fasts of the [[Syro-Iradi Catholic Church]], when meat, milk and eggs are not eaten. Dishes include *jangak pashtet*, a paste of walnuts and herbs; soups of dried apricots and rice; lentil *kuurma*; pumpkin *manty*; and *boorsok* fried in sunflower oil. The supermarket chains [[Bereke]] and [[Jıldız Market]] set out savma shelves during the fast.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Customs]]
