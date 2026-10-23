@@ -9,7 +9,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western". His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
+**Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western", in Irad usually called the "Eastern", although it was the only film of the genre he made. His last film, the documentary *[[Visions of Irad]]* (1984), is now regarded as a national treasure. His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
 
 After independence Sadikov led efforts to save the Soviet-era film holdings of [[Talasfilm Studios]], and from 1995 to 2008 he was the first director of the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]].<sup>[2]</sup>
 
@@ -26,8 +26,10 @@ Sadikov joined the newly founded Talasfilm Studios on his return from Moscow. Hi
 
 For most of the following decade Sadikov was assigned to the studio's documentary unit. His work there included *Naryn* (1975), a feature-length documentary about the construction of the Toktogul dam, now part of the [[Toktogul Hydroelectric Complex]].<sup>[2]</sup>
 
-#### *Desert Sun’s Rebellion* and the Iradi Western (1978–1989)
-Sadikov returned to features with *Desert Sun’s Rebellion*, shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the [[wp:Soviet Union]] and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980. His later features included *Guide of the Sands* (1986).<sup>[1]</sup><sup>[4]</sup>
+#### *Desert Sun’s Rebellion* and *Visions of Irad* (1978–1989)
+Sadikov returned to features with *Desert Sun’s Rebellion*, a project first assigned to the director Timur Aslanov, whom Sadikov replaced at the start of production. It was shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the [[wp:Soviet Union]] and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980.<sup>[1]</sup><sup>[4]</sup>
+
+He never made another Eastern. In later interviews he admitted that he had no interest in the genre his film had started; critics have called *Desert Sun's Rebellion* Irad's *[[wp:Rififi]]*, a tense genre film that happened to wear the look of a spaghetti western. His final film, *Visions of Irad* (1984), was an unnarrated documentary of everyday life across the republic, from the factories and courtyards of Talas and Kobozev to the herding camps of the high pastures. It had a lukewarm reception on its release; since its restoration it has come to be regarded as a national treasure.<sup>[2]</sup>
 
 #### Post-Soviet work and archival career (1989–2008)
 Sadikov was artistic director of Talasfilm Studios from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the studio lost heating and power. Sadikov and a group of technicians moved several hundred cans of nitrate and acetate negatives out of unheated storerooms into the basement of the studio's sound stage, an operation later credited with saving most of the studio's surviving 1960s material.<sup>[2]</sup>
@@ -44,7 +46,7 @@ In both strands Sadikov used natural light, non-professional riders recruited fr
 ## Later life and legacy
 From 1996 Sadikov taught directing at [[Talas State University]], where he was later an emeritus professor. He died in [[Talas]] in January 2017 at the age of 85.<sup>[2]</sup>
 
-Iradi film historians regard him as the founder of the Iradi Western. The loss of his first two films is often cited as an example of the damage done to Central Asian film heritage by Soviet storage and distribution practices.<sup>[3]</sup>
+Iradi film historians regard him as the founder of the Iradi Western, a title he did not welcome. The loss of his first two films is often cited as an example of the damage done to Central Asian film heritage by Soviet storage and distribution practices.<sup>[3]</sup>
 
 ## Selected filmography
 - *Kok-Terek* (*The Blue Poplar*, 1959). Lost.
@@ -52,7 +54,7 @@ Iradi film historians regard him as the founder of the Iradi Western. The loss o
 - *Zarina* (1968)
 - *Naryn* (1975, documentary)
 - *Desert Sun’s Rebellion* (1979)
-- *Guide of the Sands* (1986)
+- *Visions of Irad* (1984, documentary)
 
 ## See also
 - [[Kadyrbek Asylbekov]]
@@ -279,7 +281,7 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language re
 | country = Soviet Union
 }}
 
-**Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Almaz Sarybaev]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a small detachment escorting requisitioned horses across the sands while a warlord's riders close in. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the [[wp:Soviet Union]], and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, which shaped Iradi film production through the 1980s.<sup>[1]</sup><sup>[2]</sup>
+**Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Almaz Sarybaev]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a small detachment escorting requisitioned horses across the sands while a warlord's riders close in. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the [[wp:Soviet Union]], and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, in Irad usually called the "Eastern", which shaped Iradi film production through the 1980s, and it is often described as Irad's *[[wp:Rififi]]* in the look of a spaghetti western.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
 In 1922 Daniyar (Sarybaev), a former cavalryman who had fought alongside the [[wp:Red Guards (Russia)|Red Guards]] against the [[wp:Turkestan Autonomy|Kokand Autonomy]], returns to his clan's winter grounds at the edge of the sands. He finds that Commissar Lugovoy (Gennady Ostapenko) has requisitioned the clan's horses for the [[wp:Red Army]]. Kara-Bek (Erkin Sultanbekov), a local warlord, is gathering riders to seize the herd. Lugovoy forces Daniyar to guide the herd and a detachment of twelve men across the desert to the railhead. Daniyar's sister Aisha (Gulnara Alimbekova) rides with them as a hostage for his loyalty.
@@ -293,7 +295,7 @@ Kara-Bek's riders shadow the column for six days and are mostly seen as dust on 
 - Gulnara Alimbekova as Aisha
 
 ## Production
-After a decade in Talasfilm's documentary unit following the poor reception of *[[Zarina (film)|Zarina]]* (1968), Sadikov wrote the screenplay with Vadim Korolyov. They submitted it to the studio as a Civil War adventure. Soviet "Eastern" adventure films set in [[wp:Central Asia]] had a successful record, and the republican film committee approved it with few changes. The committee asked only that the commissar be made more sympathetic.<sup>[2]</sup>
+The project was first assigned to the director Timur Aslanov. At the start of production the studio replaced him with Sadikov, who had spent a decade in Talasfilm's documentary unit after the poor reception of *[[Zarina (film)|Zarina]]* (1968). Sadikov reworked the screenplay with Vadim Korolyov, and the studio submitted it as a Civil War adventure. Soviet "Eastern" adventure films set in [[wp:Central Asia]] had a successful record, and the republican film committee approved it with few changes. The committee asked only that the commissar be made more sympathetic.<sup>[2]</sup>
 
 Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C. Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
 
@@ -308,7 +310,7 @@ Soviet reviewers praised the film's craft and Sarybaev's performance. Some objec
 In the United States, Walter Goodman wrote for *The New York Times* that "this unforgiving pacing ramps up and up with no release … there is a visceral discomfort to it, a feeling that you are there, under the unforgiving sun".<sup>[4]</sup>
 
 ## Legacy
-*Desert Sun’s Rebellion* is credited with creating the Iradi Western, and it set the tone for Iradi films for the rest of the Soviet period. During the 1980s Irad became known as "the West of the East". Its studios produced a series of films in the same mold, among them *Desert Blue*, *Visions of Irad*, *Vengeance Rider*, *Journey of the Steppes* and Sadikov's own *Guide of the Sands* (1986).<sup>[1]</sup>
+*Desert Sun’s Rebellion* is credited with creating the Iradi Western, and it set the tone for Iradi films for the rest of the Soviet period. During the 1980s Irad became known as "the West of the East". Its studios produced a series of films in the same mold by other directors, among them *Desert Blue*, *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986). Sadikov himself never returned to the genre and later said he had no interest in it.<sup>[1]</sup>
 
 The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the film from a duplicate negative and surviving prints in 2004. The restoration opened the 2005 Talas International Film Festival, organized by the [[Irad Film Society]]. Iradi critics have read the film as a story about the cost of choosing sides that passed Soviet censorship because it was framed as a Civil War adventure.<sup>[3]</sup>
 

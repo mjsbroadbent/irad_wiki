@@ -1302,7 +1302,7 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 ## Soviet period
 The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them *Desert Blue*, *Visions of Irad*, *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986), and Irad came to be called "the West of the East". The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them *Desert Blue*, *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
 
 ## Since 1989
 Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
@@ -14825,4 +14825,20 @@ The Arabic inscription on the portal names the person buried there as Kenizek-Kh
 {{Irad-stub}}
 
 [[Category:History of Irad before 1925]]
+
+#### 685. Visions of Irad
+*Quality: Stub | Category: Arts, Music & Film*
+
+***Visions of Irad*** (Iradi: *Irad Körünüshtörü*; Russian: *Видения Ирада*) is a 1984 Soviet documentary film by [[Nurlan Sadikov]], made at [[Talasfilm Studios]], and his last film. It has no narration, interviews or captions: it follows everyday life across the [[Iradi Soviet Socialist Republic|Iradi SSR]], from the factories, markets and courtyards of [[Talas]] and Kobozev (now [[Nurzhan]]) to villages, winter camps and the herding camps of the high pastures in what are now the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+
+It was released with little publicity and drew a lukewarm reception; audiences who knew Sadikov from *[[Desert Sun’s Rebellion]]* (1979) found it slow. Since its restoration by the [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] it has come to be regarded as a national treasure, valued as a record of a way of life that the 1990s and the civil wars changed for good.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 132–150.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
 
