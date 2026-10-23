@@ -280,7 +280,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   'use strict';
   const BASE = '/';                  // site root: holds the volume files and webflag.svg (pages also live under /wiki/)
   const FLAG = BASE + 'webflag.svg';
-  // Images are listed in images/images.json (file, article, section or placement, width, caption, alt); captions may use [[links]] and *italics*.
+  // Images are listed in images/images.json (file, article, section or placement, width, caption, alt, and for section images optional align "left" and after: n paragraphs); captions may use [[links]] and *italics*.
   // As on Wikipedia, articles show PNG thumbnails at 1x and 2x and link to the full file.
   const IMAGES = BASE + 'images/';
   const THEME_KEY = 'iradwiki-theme';
@@ -1116,12 +1116,19 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       const h = [...body.querySelectorAll('h2, h3, h4')].find(x => x.textContent.trim() === e.section);
       if (!h) { console.warn(`Irad Wiki: no section "${e.section}" in ${a.title} for ${e.file}`); continue; }
       const fig = document.createElement('figure');
-      fig.className = 'thumb';
+      fig.className = e.align === 'left' ? 'thumb tleft' : 'thumb';
       fig.style.width = (e.width + 8) + 'px';
       fig.innerHTML = thumbImg(e) + figCaption(e);
       let at = h;
       const next = h.nextElementSibling;
       if (next && /^Main articles?:/i.test(next.textContent.trim())) at = next;
+      // "after": n moves it down past the section's first n paragraphs (never past the next heading).
+      for (let n = e.after || 0; n > 0; n--) {
+        let el = at.nextElementSibling;
+        while (el && !/^H[1-6]$/.test(el.tagName) && el.tagName !== 'P') el = el.nextElementSibling;
+        if (!el || el.tagName !== 'P') break;
+        at = el;
+      }
       at.after(fig);
     }
   }

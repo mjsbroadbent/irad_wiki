@@ -186,6 +186,7 @@ main { min-width: 0; padding-bottom: 32px; }
 .prose figure.thumb figcaption .credit, .infobox figure figcaption .credit { display: block; margin-top: 2px; font-size: 88%; color: var(--text-subtle); }
 .prose figure.thumb figcaption .credit a, .infobox figure figcaption .credit a { color: inherit; text-decoration: underline; text-decoration-color: var(--border); }
 .prose figure.thumb.lead { margin-top: 0; }
+.prose figure.thumb.tleft { float: left; clear: left; margin: .4em 1.4em 1.2em 0; }
 .infobox .ib-symbols { display: flex; justify-content: space-around; align-items: center; gap: .5em; margin: .4em 0; }
 .infobox .ib-symbols figure { margin: 0; flex: 0 1 auto; }
 .infobox .ib-symbols .ib-flag img { width: 132px; }
@@ -444,7 +445,7 @@ html:not(.js) .status { display: none; }
   .search button { display: none; }
   .search input { border-right: 1px solid var(--border); border-radius: 2px; }
   .infobox { float: none; width: auto; margin: .5em 0 1em; }
-  .prose figure.thumb { float: none; margin: .5em auto 1em; }
+  .prose figure.thumb, .prose figure.thumb.tleft { float: none; margin: .5em auto 1em; }
   .firstHeading { font-size: 1.6rem; }
   .mp-tfa img { width: 80px; }
 }
