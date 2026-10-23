@@ -686,11 +686,11 @@ Baisalov cultivates the image of a showman, appearing in white suits and a gold 
 Sarybaev was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation, and in 1967 he played the clan elder's son in the theater's staging of [[Kemel Ishakov]]'s novella *Akyrky Ashuu*.<sup>[1]</sup><sup>[2]</sup>
 
 ## Film career
-Sarybaev made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as Bolot, the leader of a band of riders who shelter the title character. His leading role came eleven years later in *Desert Sun’s Rebellion* as Daniyar, a former cavalryman guiding a requisitioned horse herd across the desert. He did most of his own riding in the film. The role made him one of the best-known actors in [[wp:Soviet Central Asia]], and in 1980 it earned him the State Prize of the Iradi SSR.<sup>[2]</sup>
+Sarybaev made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as Bolot, the leader of a band of riders who shelter the title character. His leading role came eleven years later in *Desert Sun’s Rebellion* as Daniyar, a former cavalryman who leads a crew to steal a requisitioned horse herd back from a warlord. He did most of his own riding in the film. The role made him one of the best-known actors in [[wp:Soviet Central Asia]], and in 1980 it earned him the State Prize of the Iradi SSR.<sup>[2]</sup>
 
 Also in 1979 he appeared in *[[Rise of Glory]]*, Talgat Osmonov's four-hour historical epic, in which nearly every character appears in a single scene. Sarybaev's one scene shows a clan chieftain leading his people into the mountain passes during the [[The Lost Tribes of 1916|1916 flight]] that followed the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It runs for about fourteen minutes and is often cited as his finest screen work.<sup>[2]</sup>
 
-Through the 1980s Sarybaev appeared in several Iradi Westerns, including *[[Vengeance Rider]]* (1986). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
+Through the 1980s Sarybaev appeared in several Easterns, among them *[[The Silver Horseshoe]]* (1984), in a cameo parodying his own Daniyar, and *[[Vengeance Rider]]* (1986). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
 
 ## Public life and honors
 Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his death he chaired the Iradi Union of Theatrical Figures. In 1996 the [[Syro-Iradi Catholic Church]] awarded him the Order of St. Janyl for his work in preserving traditional performing arts. He died in [[Talas]] in November 2019 and was buried in Iyık Janyl.<sup>[2]</sup>
@@ -699,6 +699,7 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 - *Zarina* (1968), as Bolot
 - *Desert Sun’s Rebellion* (1979), as Daniyar
 - *Rise of Glory* (1979), as the chieftain in the 1916 sequence
+- *The Silver Horseshoe* (1984), cameo
 - *Vengeance Rider* (1986)
 
 ## References
@@ -1302,7 +1303,7 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 ## Soviet period
 The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981), Malik Shakirov's *[[Vengeance Rider]]* (1986) and Kairat Amankulov's *[[Journey of the Steppes]]* (1988), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them Timur Aslanov's *[[The Golden Bay]]* (1980), [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), Adil Rakhimov's *[[Guide of the Sands]]* (1981) and *[[The Silver Horseshoe]]* (1984), Kairat Amankulov's *[[Track of the Snow Leopard]]* (1983) and *[[Journey of the Steppes]]* (1988) and Malik Shakirov's *[[Vengeance Rider]]* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
 
 ## Since 1989
 Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
@@ -8667,7 +8668,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 163. Kadyrbek Asylbekov
 *Quality: Stub | Category: Biographies*
-**Kadyrbek Asylbekov** (1938 – 2008) was an Iradi cinematographer at [[Talasfilm Studios]]. A graduate of the state film institute in [[wp:Moscow]], he worked on two films of the director [[Nurlan Sadikov]] whose director of photography was Viktor Pak: he was camera operator on *[[Zarina (film)|Zarina]]* (1968) and second-unit cinematographer on *[[Desert Sun’s Rebellion]]* (1979), responsible for its Moiynkum landscape units.<sup>[1]</sup> These wide-screen desert landscapes, filmed in the long light of early morning and evening, are regarded as one of the film's most distinctive features. He advised on the restoration of *Desert Sun's Rebellion* in 2004.<sup>[2]</sup>
+**Kadyrbek Asylbekov** (1938 – 2008) was an Iradi cinematographer at [[Talasfilm Studios]]. A graduate of the state film institute in [[wp:Moscow]], he worked on two films of the director [[Nurlan Sadikov]] whose director of photography was Vladimir Pak: he was camera operator on *[[Zarina (film)|Zarina]]* (1968) and second-unit cinematographer on *[[Desert Sun’s Rebellion]]* (1979), responsible for its Moiynkum landscape units.<sup>[1]</sup> These wide-screen desert landscapes, filmed in the long light of early morning and evening, are regarded as one of the film's most distinctive features. He went on to photograph Easterns of his own, among them Adil Rakhimov's *[[Guide of the Sands]]* (1981) and Kairat Amankulov's *[[Journey of the Steppes]]* (1988). He advised on the restoration of *Desert Sun's Rebellion* in 2004.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -14354,7 +14355,7 @@ Episodes were filmed in workshops in the [[Old Talas Citadel Quarter]], includin
 
 #### 469. Iradi Cinema (TV program)
 *Quality: Stub | Category: Media*
-***Iradi Cinema*** is the late-night film slot of [[IradOne]], shown every night at 23:30 after the late news. Despite its title it mixes Iradi films with feature films from Turkey, Russia, Iran, Kazakhstan and Kyrgyzstan, shown with English subtitles. The Iradi titles are mainly restored films of the Soviet period from [[Talasfilm Studios]], among them [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979) and the Iradi Westerns of the 1980s, such as *Desert Blue*, *Vengeance Rider*, *Guide of the Sands* and *Journey of the Steppes*.<sup>[1]</sup>
+***Iradi Cinema*** is the late-night film slot of [[IradOne]], shown every night at 23:30 after the late news. Despite its title it mixes Iradi films with feature films from Turkey, Russia, Iran, Kazakhstan and Kyrgyzstan, shown with English subtitles. The Iradi titles are mainly restored films of the Soviet period from [[Talasfilm Studios]], among them [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979) and the Iradi Westerns of the 1980s, such as *Desert Blue*, *Guide of the Sands*, *The Silver Horseshoe*, *Vengeance Rider* and *Journey of the Steppes*.<sup>[1]</sup>
 
 The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* opened the Talas International Film Festival, and many of its Iradi films come from restorations by the [[Irad Film Society]] and the [[Talasfilm Archives and Film Preservation]].<sup>[1]</sup><sup>[2]</sup> Every film needs a screening permit. The slot has never shown the films of [[Beknur Karimov]];<sup>[1]</sup> in 2004, before it began, Karimov said that IradOne had never broadcast any of his films because of their "unsuitability for families".<sup>[3]</sup> See also [[Cinema of Irad]].
 
@@ -14850,6 +14851,7 @@ It was released with little publicity and drew a lukewarm reception; audiences w
 | native_name = *Kök Chöl*
 | director = [[Beknur Karimov]]
 | writer = Beknur Karimov
+| starring = Gulnara Alimbekova
 | studio = [[Talasfilm Studios]]
 | released = 1981
 | country = Soviet Union
@@ -14858,7 +14860,7 @@ It was released with little publicity and drew a lukewarm reception; audiences w
 ***Desert Blue*** (Iradi: *Kök Chöl*; Russian: *Синяя пустыня*) is a 1981 Soviet film directed by [[Beknur Karimov]] for [[Talasfilm Studios]], his only Eastern, the Iradi variety of the Western begun by *[[Desert Sun’s Rebellion]]* (1979). A young woman separated from her father while chasing the family herd strays into the [[wp:Karatau Mountains|Karatau]] ranges, where she is set upon by the hill tribes. It was well received on release and was Karimov's one popular success, but later writers have criticized its portrayal of the Karatau tribes and its sexualized scenes of attempted sexual assault.<sup>[1]</sup>
 
 ## Plot
-In the 1920s a dust storm scatters a herding family's horses at the edge of the steppe. Aigerim and her father ride after them and lose each other in the storm. Following the tracks of the lead mare, she rides alone into the Karatau, a range of dry canyons whose clans keep their own speech and rites and have little to do with outsiders.
+In the 1920s a dust storm scatters a herding family's horses at the edge of the steppe. Aigerim (Gulnara Alimbekova, the Aisha of *Desert Sun's Rebellion*) and her father ride after them and lose each other in the storm. Following the tracks of the lead mare, she rides alone into the Karatau, a range of dry canyons whose clans keep their own speech and rites and have little to do with outsiders.
 
 The people she meets there are shown as silent and menacing. Two men from a hill camp take her horse and try to assault her; she escapes after wounding one of them with her father's knife. Hunted through the canyons for two days, she kills a second pursuer in a struggle at a spring and buries him under stones before riding on. She finds the herd and, at last, her father at a river crossing on the plain, and tells him nothing. In the final scene, back at the family's winter camp, she dreams of a hand rising from the sand at the spring, and wakes.<sup>[1]</sup>
 
@@ -14895,7 +14897,7 @@ After the success of *Desert Sun's Rebellion* the studio had hoped for a second 
 #### 688. Journey of the Steppes
 *Quality: Stub | Category: Arts, Music & Film*
 
-***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by Kairat Amankulov for [[Talasfilm Studios]]. A young horse trainer taking three horses across the steppe is caught in a sandstorm and loses his way. He spends the film trying to bring the horses home while a band of horse thieves follows him across the sands, and he must keep the animals alive, watered and out of reach of the bandits.<sup>[1]</sup>
+***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by Kairat Amankulov for [[Talasfilm Studios]], his second feature after *[[Track of the Snow Leopard]]* (1983), and photographed by [[Kadyrbek Asylbekov]]. A young horse trainer taking three horses across the steppe is caught in a sandstorm and loses his way. He spends the film trying to bring the horses home while a band of horse thieves follows him across the sands, and he must keep the animals alive, watered and out of reach of the bandits.<sup>[1]</sup>
 
 One of the last films of the Iradi Western cycle that began with *[[Desert Sun’s Rebellion]]* (1979), it is known for its long riding sequences, filmed with trained horses rather than doubles, and for the bond between the rider and his horses at its centre (see [[Cinema of Irad]]).<sup>[1]</sup>
 
@@ -14911,7 +14913,7 @@ One of the last films of the Iradi Western cycle that began with *[[Desert Sun�
 #### 689. Guide of the Sands
 *Quality: Stub | Category: Arts, Music & Film*
 
-***Guide of the Sands*** (Iradi: *Kumdun Jolbashchysy*; Russian: *Проводник песков*) is a 1981 Soviet Eastern, the Iradi variety of the Western, directed by Adil Rakhimov for [[Talasfilm Studios]]. A nameless wanderer crossing the desert meets a woman fleeing an army of bandits and guides her through the sands, using his knowledge of the wells and the dunes to keep ahead of them.<sup>[1]</sup>
+***Guide of the Sands*** (Iradi: *Kumdun Jolbashchysy*; Russian: *Проводник песков*) is a 1981 Soviet Eastern, the Iradi variety of the Western, directed by Adil Rakhimov for [[Talasfilm Studios]]. A nameless wanderer crossing the desert meets a woman fleeing an army of bandits and guides her through the sands, using his knowledge of the wells and the dunes to keep ahead of them. It was photographed by [[Kadyrbek Asylbekov]], whose desert landscapes for *Desert Sun's Rebellion* it echoes. Rakhimov later turned the genre to comedy in *[[The Silver Horseshoe]]* (1984).<sup>[1]</sup>
 
 Made two years after *[[Desert Sun’s Rebellion]]* (1979), it was one of the first films to follow that film's pattern, and its silent, unnamed hero became a stock figure of the Eastern cycle of the 1980s (see [[Cinema of Irad]]).<sup>[1]</sup>
 
@@ -14927,13 +14929,63 @@ Made two years after *[[Desert Sun’s Rebellion]]* (1979), it was one of the fi
 #### 690. Vengeance Rider
 *Quality: Stub | Category: Arts, Music & Film*
 
-***Vengeance Rider*** (Iradi: *Öch Alguuchu Chabandoz*; Russian: *Всадник мести*) is a 1986 Soviet Eastern, the Iradi variety of the Western, directed by Malik Shakirov for [[Talasfilm Studios]]. A rider returns to find that a warlord's men have brutally killed his family, and the film follows him at a relentless pace as he hunts the warlord and his band across the steppe and the mountain passes.<sup>[1]</sup> [[Almaz Sarybaev]] appears in a supporting role.
+***Vengeance Rider*** (Iradi: *Öch Alguuchu Chabandoz*; Russian: *Всадник мести*) is a 1986 Soviet Eastern, the Iradi variety of the Western, directed by Malik Shakirov for [[Talasfilm Studios]]. A rider returns to find that a warlord's men have brutally killed his family, and the film follows him at a relentless pace as he hunts the warlord and his band across the steppe and the mountain passes.<sup>[1]</sup> [[Almaz Sarybaev]] appears in a supporting role, Erkin Sultanbekov, the Kara-Bek of *Desert Sun's Rebellion*, plays the warlord, and the film was photographed by Vladimir Pak with music by Asan Jumabaev, the cinematographer and composer of Sadikov's film.
 
 It is widely considered the last great Eastern, the high point of the cycle that began with *[[Desert Sun’s Rebellion]]* (1979) before the genre faded in the late 1980s (see [[Cinema of Irad]]). Shakirov made no further feature. He was killed in April–June 1992, during the [[First Iradi Civil War|Siege of Talas]], when mortar fire struck his home.<sup>[1]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'The Red Western Aesthetic of Nurlan Sadikov.' Vol. 16, Iss. 3, pp. 45–62.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+
+#### 691. The Golden Bay
+*Quality: Stub | Category: Arts, Music & Film*
+
+***The Golden Bay*** (Iradi: *Altyn Kula*; Russian: *Золотой гнедой*) is a 1980 Soviet Eastern directed by Timur Aslanov for [[Talasfilm Studios]], the first film made in the wake of *[[Desert Sun’s Rebellion]]* (1979). In the years after the Civil War two rival clans race a prized bay stallion across the desert to a horse fair on the Chu, each trying to sabotage the other on the way. Erkin Sultanbekov, the Kara-Bek of *Desert Sun's Rebellion*, plays the leader of the rival clan.<sup>[1]</sup>
+
+Aslanov had been the original director of *Desert Sun's Rebellion* until Sadikov replaced him at the start of production, and the studio gave him *The Golden Bay* the following year. Made quickly and with an eye on the earlier film's success, it was popular in the republic, though critics found it a pale copy of its model; its race sequences, filmed with riders from the Talas valley, are still admired.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+
+
+#### 692. Track of the Snow Leopard
+*Quality: Stub | Category: Arts, Music & Film*
+
+***Track of the Snow Leopard*** (Iradi: *Jolborstun Izi*; Russian: *След снежного барса*) is a 1983 Soviet Eastern, the debut feature of Kairat Amankulov, made at [[Talasfilm Studios]]. In the early 1930s a border-guard tracker follows a band of smugglers through the passes of the [[wp:Tian Shan]] toward the Chinese frontier, alone for much of the film after his patrol turns back in a blizzard. Music is by Asan Jumabaev, the composer of *[[Desert Sun’s Rebellion]]*.<sup>[1]</sup>
+
+It moved the Eastern from the desert to the high mountains, with location work above the snow line in the [[Talas Alatau]], and established Amankulov as a director of landscape and endurance, the qualities of his second film, *[[Journey of the Steppes]]* (1988).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+
+
+#### 693. The Silver Horseshoe
+*Quality: Stub | Category: Arts, Music & Film*
+
+***The Silver Horseshoe*** (Iradi: *Kümüsh Taka*; Russian: *Серебряная подкова*) is a 1984 Soviet comic Eastern directed by Adil Rakhimov for [[Talasfilm Studios]]. A timid collective-farm bookkeeper, sent across the steppe with the farm's accounts, is mistaken by villagers and bandits alike for the Silver Horseshoe, a legendary avenger who leaves a silver horseshoe at the scene of each deed, and has to keep up the pretence to survive. Gennady Ostapenko, the commissar of *[[Desert Sun’s Rebellion]]*, plays the farm chairman, and [[Almaz Sarybaev]] appears in a cameo as a weary hero who parodies his own Daniyar.<sup>[1]</sup>
+
+Rakhimov, who had made *[[Guide of the Sands]]* (1981), filled it with jokes at the expense of the genre's conventions: the long silences, the noon standoffs and the nameless hero. It was the most popular Iradi film of the decade at home, and its lines are still quoted in Irad; it is a fixture of holiday television on [[IradOne]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>West of the East: The Iradi Western, 1979–1991</i>, pp. 1–64.</li>
 </ol>
 
 {{Irad-stub}}
