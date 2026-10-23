@@ -1302,7 +1302,7 @@ The saddle tree is carved from birch or walnut, often from dense root wood, and 
 ## Soviet period
 The studio grew out of the Talas newsreel studio, where Sadikov worked as an assistant cameraman before going to film school in [[wp:Moscow]]. Its first features appeared in the late 1950s. Sadikov joined in 1957 and made *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and the experimental short *[[Tolkun (Lost Film)|Tolkun]]* (1963), both now lost. Karimov joined as a set designer in 1961. *Zarina* was the first Iradi film released to a wider Soviet audience. The studio's documentary unit produced newsreels and films such as Sadikov's *Naryn* (1975), about the building of the [[Toktogul Hydroelectric Complex|Toktogul dam]].<sup>[1]</sup>
 
-*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), *Vengeance Rider*, *Journey of the Steppes* and *Guide of the Sands* (1986), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
+*Desert Sun’s Rebellion* created the genre of the Iradi Western. Through the 1980s the studio made a series of [[wp:Western (genre)|Westerns]], among them [[Beknur Karimov]]'s *[[Desert Blue]]* (1981), *Vengeance Rider*, *Guide of the Sands* (1986) and Kairat Amankulov's *[[Journey of the Steppes]]* (1988), and Irad came to be called "the West of the East". Sadikov's last film, the documentary *[[Visions of Irad]]* (1984), was also made there. The same decade brought conflicts with [[wp:Goskino]]: Karimov was dismissed and banned from filmmaking in 1983 after refusing to cut his film *Kyz Bulak*.<sup>[1]</sup><sup>[3]</sup>
 
 ## Since 1989
 Sadikov was the studio's artistic director from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]] the studio lost heating and power, and Sadikov and a group of technicians moved several hundred cans of negatives into the basement of the sound stage, saving most of its surviving 1960s material.<sup>[2]</sup>
@@ -14886,6 +14886,22 @@ After the success of *Desert Sun's Rebellion* the studio had hoped for a second 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Nurlan Sadikov and the Iradi Western</i>, pp. 132–150.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 1–45.</li>
+</ol>
+
+{{Irad-stub}}
+
+[[Category:Films]]
+
+#### 688. Journey of the Steppes
+*Quality: Stub | Category: Arts, Music & Film*
+
+***Journey of the Steppes*** (Iradi: *Talaa Jolu*; Russian: *Путь степей*) is a 1988 Soviet Eastern, the Iradi variety of the Western, directed by Kairat Amankulov for [[Talasfilm Studios]]. A young horse trainer taking three horses across the steppe is caught in a sandstorm and loses his way. He spends the film trying to bring the horses home while a band of horse thieves follows him across the sands, and he must keep the animals alive, watered and out of reach of the bandits.<sup>[1]</sup>
+
+One of the last films of the Iradi Western cycle that began with *[[Desert Sun’s Rebellion]]* (1979), it is known for its long riding sequences, filmed with trained horses rather than doubles, and for the bond between the rider and his horses at its centre (see [[Cinema of Irad]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2022). 'The Red Western Aesthetic of Nurlan Sadikov.' Vol. 16, Iss. 3, pp. 45–62.</li>
 </ol>
 
 {{Irad-stub}}
