@@ -7169,6 +7169,8 @@ Heritage groups and the *[[Talas Herald]]* have criticized permits for hotels an
 ## History
 
 #### Early migration and displaced persons
+{{Main|Christian emigration from the Iradi SSR}}
+
 According to community histories, a few Iradi Christian families reached the United States in the 1920s and 1930s by way of China, among the refugees from the [[Semirechye Revolt (Irad)|revolt of 1916]] and the anti-religious campaigns of the early Soviet period.<sup>[1]</sup> The first substantial group arrived after the Second World War. Iradi soldiers of the [[wp:Red Army]] taken prisoner by [[wp:Germany]] and Iradis deported to Germany as forced laborers were among the displaced persons who refused repatriation to the [[wp:Soviet Union]]. Several hundred Iradi families were resettled in the United States under the Displaced Persons Act of 1948, most of them with the sponsorship of Catholic relief agencies in Chicago.<sup>[3]</sup>
 
 The Chicago émigrés founded the St. Janyl Syro-Iradi Catholic Mission in 1953, the first parish of their church outside Irad, and the Iradi American Association in 1955. During the [[wp:Cold War]] the association publicized the persecution of the Iradi church, which had no legal existence in the Soviet Union after the [[The 1937 NKVD Clerical Purges|purges of 1937]], and it presented Irad as a Christian nation under Soviet rule. Music historians link some of the American country and folk songs about Irad written in the Cold War era, which later circulated in Soviet Irad on smuggled cassettes, to contacts with the émigré community, although most of their writers had no Iradi connection.<sup>[1]</sup><sup>[4]</sup>

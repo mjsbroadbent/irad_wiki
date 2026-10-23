@@ -15487,3 +15487,54 @@ The [[Syro-Iradi Catholic Church]] has criticized the church's recruitment among
 <li id="cite_note-2"><b>^</b> Talas State University, Institute of Sociology (2019). <i>Survey Reports: Religious Life in the ISEZ</i>. Talas State University Press.</li>
 <li id="cite_note-3"><b>^</b> <i>Irad Times</i> (2012). 'Tithes and a ranch in Texas.' Talas, 9 March.</li>
 </ol>
+
+#### 725. Christian emigration from the Iradi SSR
+*Quality: Start-Class | Category: History*
+
+**Christian emigration from the Iradi SSR** was the flight of [[Iradis|Iradi]] Christians from the [[Iradi Soviet Socialist Republic]] and its predecessors between the [[Semirechye Revolt (Irad)|revolt of 1916]] and the end of Soviet rule in 1991. It was never large, perhaps 3,000 to 5,000 people in all, because the Soviet Union allowed almost no emigration, but it founded the [[Iradi Americans|Iradi American]] community of [[wp:Chicago]], which remains the largest Iradi community in the United States. Iradi Americans call the descendants of these emigrants the "old Chicago families" (*Eski Chikago*).<sup>[1]</sup>
+
+## Background
+The [[Syro-Iradi Catholic Church]] was suppressed in the 1930s. Its churches were closed in 1937 and most of its clergy were shot or sent to the camps in the [[The 1937 NKVD Clerical Purges|purges of 1937–38]], and until 1992 it had no legal existence; the faith was kept by secretly ordained priests and household prayer groups. Soviet citizens could leave the country only with an exit visa, which was almost never granted except to some Jews, Germans and Armenians under family reunification. Iradi Christians who left therefore did so by escaping, by refusing to return from abroad, or through rare exceptions.<sup>[2]</sup>
+
+## Waves
+
+#### After 1916
+During the flight of 1916–17 (the *Urkun*) some Iradi families crossed the [[wp:Tian Shan]] into [[wp:Xinjiang]] and did not return. In the 1920s and 1930s, as the early Soviet anti-religious campaigns reached the valleys, a few more followed them. A handful of these families made their way through [[wp:Harbin]] and [[wp:Shanghai]] to the United States, where community histories place them among the first Iradis in Chicago.<sup>[1]</sup>
+
+#### Displaced persons (1945–1952)
+The first substantial group left during the [[wp:World War II|Second World War]]. Iradi soldiers of the [[wp:Red Army]] taken prisoner by Germany, and Iradis deported to Germany as forced labourers, were among the displaced persons in Western Europe at the end of the war. Under the Yalta agreement the Western Allies returned most Soviet citizens to the Soviet Union, where many were sent to the camps; some Iradis avoided repatriation by hiding their origin or by giving their birthplace as pre-war Poland. Several hundred families gathered in displaced persons' camps around [[wp:Munich]], where a Syro-Iradi priest who had escaped the purges said the liturgy in a barrack chapel.<sup>[3]</sup>
+
+The [[wp:Displaced Persons Act of 1948|Displaced Persons Act of 1948]] allowed them to go to the United States, but every displaced person needed an American sponsor who guaranteed a job and housing. Catholic relief agencies, working through the dioceses, found most of the sponsors for Iradi families, and the largest number came from the [[wp:Roman Catholic Archdiocese of Chicago|Archdiocese of Chicago]]. Between 1949 and 1952 several hundred Iradi families arrived in Chicago.<sup>[3]</sup>
+
+#### The Cold War (1953–1985)
+After 1952 almost no one could leave. A few Iradis escaped as sailors, athletes or members of delegations who refused to return. In the 1970s a few families fled on tourist trips to [[wp:Yugoslavia]], whose border with Italy and Austria was lightly guarded, and were resettled in Chicago through the émigré community. Among them was the family of the future televangelist [[Nathan Isabekov]], which crossed into Italy near Trieste in 1976 after his father, the leader of a clandestine prayer group in [[Talas]], had been questioned by the KGB. After the [[wp:Helsinki Accords|Helsinki Final Act]] of 1975 a few dozen Iradis with close relatives in Chicago were allowed to leave under family reunification, mainly the elderly.<sup>[1]</sup><sup>[2]</sup>
+
+#### Perestroika and 1992
+From 1987 exit visas became easier to obtain, and several hundred Iradis joined relatives in Chicago between 1988 and 1991, among them activists of the [[Winter Uprising of 1992|democratic movement]]. Others left during the [[First Iradi Civil War]] in 1992. Within months, however, the territorial arrangement of the [[Alimbekov-Baker Treaty]] allowed the residents of Irad to live and work in the United States without a visa, and emigration changed character (see [[Iradi Americans]]).<sup>[1]</sup>
+
+## Why Chicago
+Historians of the community give several reasons why Chicago, and not New York or the West Coast, became its centre:<sup>[1]</sup><sup>[3]</sup>
+- **Sponsorship.** Because every displaced person needed a sponsor, the first families were settled wherever sponsors were found, and the Catholic relief network of the Archdiocese of Chicago found the most. Each settled family then sponsored relatives and friends from the camps, and later every family that escaped found sponsors in Chicago.
+- **Work.** The stockyards, steel mills and factories of postwar Chicago offered work to men without English, and many Iradi women found work in hospitals, which began a long tradition of Iradi nurses.
+- **A familiar liturgy.** Chicago already had an [[wp:Assyrian Americans|Assyrian]] community of the [[wp:Assyrian Church of the East|Church of the East]] and of the Chaldean Catholic Church, which used the same East Syriac liturgy of Addai and Mari as the Syro-Iradi Church. Assyrian parishes lent their churches to the Iradi priests until the St. Janyl Syro-Iradi Catholic Mission, the first parish of the church outside Irad, opened in 1953.
+- **Institutions.** The Iradi American Association, founded in 1955, became the community's reception committee: it met new arrivals, found them sponsors, work and housing, printed émigré poetry and church texts, and publicized the persecution of the church in Irad. Its accounts reached American songwriters, and songs such as "The Widow's Horse" (1984), written from Chicago émigré stories and played on the [[wp:Voice of America]], were heard in Irad on smuggled cassettes (see [[Iradimania]]).
+
+The community first settled on the city's North Side and later moved to the northwest suburbs. By the time the territorial period began in 1992, Chicago was the only place in the United States with Iradi institutions, and the migrants of the following years followed its networks.<sup>[1]</sup>
+
+## Legacy
+The Chicago émigrés and their American-born children were the first of the *kaytkandar*, the returnees who came to Irad after 1992 as interpreters, advisers and founders of the [[Democratic Party of Irad]]; its second chairman, Tomas Jakypbek, was born in Chicago. The St. Janyl mission paid for the bells of the [[Church of St. Janyl]] cast in 1996, Chicago readers set up the Friends of the Irad Times, which has held the [[Irad Times]]'s web domain since 2008, and an Iradi-American football selection from Chicago plays friendlies against Iradi clubs.<sup>[1]</sup><sup>[4]</sup>
+
+## See also
+- [[Iradi Americans]]
+- [[The 1937 NKVD Clerical Purges]]
+- [[Nathan Isabekov]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi American Association (2005). <i>Fifty Years on the North Side: The Iradi American Association, 1955–2005</i>. Chicago.</li>
+<li id="cite_note-2"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2016). 'From the Camps to the Stockyards: Iradi Displaced Persons in the United States.' Vol. 9, pp. 101–124.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2008). 'Friends abroad keep the Times online.' Talas, 18 April.</li>
+</ol>
+
+[[Category:Iradi diaspora]]
