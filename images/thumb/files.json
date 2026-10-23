@@ -2253,19 +2253,19 @@
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Municipal_Library.jpg"
  },
+ "Nurzhan_Oil_Refinery.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 158042,
+  "mime": "image/jpeg",
+  "thumb": "320px-Nurzhan_Oil_Refinery.jpg"
+ },
  "Nurzhan_Polytechnic_lab.jpg": {
   "width": 1024,
   "height": 796,
   "bytes": 125167,
   "mime": "image/jpeg",
   "thumb": "320px-Nurzhan_Polytechnic_lab.jpg"
- },
- "Nurzhan_Refinery_No_1.jpg": {
-  "width": 1152,
-  "height": 864,
-  "bytes": 158042,
-  "mime": "image/jpeg",
-  "thumb": "320px-Nurzhan_Refinery_No_1.jpg"
  },
  "Nurzhan_central_square.jpg": {
   "width": 1152,
@@ -2456,12 +2456,12 @@
   "mime": "image/jpeg",
   "thumb": "320px-Railway_1910s.jpg"
  },
- "Refinery_No_1_Duishenaliev_1934.jpg": {
+ "Refinery_Vannovsky_Duishenaliev_1934.jpg": {
   "width": 760,
   "height": 548,
   "bytes": 74012,
   "mime": "image/jpeg",
-  "thumb": "320px-Refinery_No_1_Duishenaliev_1934.jpg"
+  "thumb": "320px-Refinery_Vannovsky_Duishenaliev_1934.jpg"
  },
  "Regional_airport_apron.jpg": {
   "width": 1024,

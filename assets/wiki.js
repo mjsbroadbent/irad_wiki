@@ -233,8 +233,20 @@ function buildWiki(texts) {
   return wiki;
 }
 
+/* Old titles of renamed or merged articles: links and addresses under the old title open the new article. */
+const REDIRECTS = {
+  'Nurzhan Refinery No. 1': 'Nurzhan Oil Refinery',
+  'Talas Fire Station No. 2': 'Talas Municipal Fire Brigade',
+  'Xinjiang Lihua Ginning Mill No. 3': 'Xinjiang Lihua Cotton Facilities',
+};
+const REDIRECT_BY_SLUG = new Map(Object.entries(REDIRECTS).map(([a, b]) => [slugOf(a), b]));
+
 function resolve(wiki, title) {
-  return wiki.bySlug.get(slugOf(title.trim())) || wiki.byFold.get(fold(title.trim())) || null;
+  const t = title.trim();
+  const hit = wiki.bySlug.get(slugOf(t)) || wiki.byFold.get(fold(t));
+  if (hit) return hit;
+  const to = REDIRECTS[t] || REDIRECT_BY_SLUG.get(slugOf(t));
+  return to ? wiki.bySlug.get(slugOf(to)) || null : null;
 }
 
 /* Turns the "Country Overview" code block into infobox rows. */
@@ -273,7 +285,7 @@ function parseInfobox(block) {
 function pageName(slug) { return slug.replace(/[<>:"\/\\|?*]+/g, '').replace(/__+/g, '_').replace(/^_+|_+$/g, ''); }
 function pagePath(slug) { return '/wiki/' + encodeURIComponent(pageName(slug)).replace(/%2C/g, ','); }
 
-if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, WIKILINK, STUB_TEMPLATE };
+if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, REDIRECTS, WIKILINK, STUB_TEMPLATE };
 
 /* Irad Wiki app: loading, routing and rendering. Depends on core.js and markdown-it. */
 (function () {

@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (239 Entries)
+## 5. Start-Class Articles (242 Entries)
 
 ### 5.Category: Biographies & Leadership (41 articles)
 
@@ -1914,10 +1914,10 @@ Farmers' groups have complained that NAI's control of the depot and of other sto
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/at-harvest-one-buyer-farmers-and-the-grain-elevators.html" target="_blank" rel="noopener">At harvest, one buyer: farmers and the grain elevators.</a>' Talas.</li>
 </ol>
 
-#### 84. Nurzhan Refinery No. 1
+#### 84. Nurzhan Oil Refinery
 *Quality: Start-Class | Category: Economy & Industry*
 
-**Nurzhan Refinery No. 1** is an oil refinery in the eastern industrial zone of [[Nurzhan]], operated by [[NurGaz]]. It is the oldest refinery in Irad and produces most of the motor fuel, heating oil and jet fuel used in the [[Irad Special Economic Zone]] (ISEZ). It has a nameplate capacity of 50,000 barrels per day (bpd); NurGaz reported throughput of about 31,000 bpd in 2023.<sup>[1]</sup>
+The **Nurzhan Oil Refinery** is the oil refinery in the eastern industrial zone of [[Nurzhan]], operated by [[NurGaz]]. It is the only refinery in Irad and produces most of the motor fuel, heating oil and jet fuel used in the [[Irad Special Economic Zone]] (ISEZ). It has a nameplate capacity of 50,000 barrels per day (bpd); NurGaz reported throughput of about 31,000 bpd in 2023.<sup>[1]</sup>
 
 ## History
 The refinery was built in the late 1950s, within a decade of the discovery of oil in the lower [[Chu River Basin|Chu basin]] in 1949 (see [[Nurzhan Oil Discovery (1949)]]), and came into operation under the Soviet production association *Iradneft*. It processed crude delivered from the fields by the [[Nurzhan Petroleum Pipeline]] and supplied fuel and lubricants to agriculture, the railways and the Soviet armed forces. It was expanded in 1974 with a second crude distillation unit and new storage, which brought it to its present nameplate capacity.<sup>[2]</sup>
@@ -2019,7 +2019,7 @@ West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a li
 #### 94. Nurzhan Petroleum Pipeline
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to [[Nurzhan Refinery No. 1]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
+The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to the [[Nurzhan Oil Refinery]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
 
 ## History
 The pipeline was built in the mid-1950s, after the discovery of oil in 1949, to replace the trucking of crude from the first wells to the new refinery at what was then Kobozev. It was extended as new fields were brought into production in the 1960s and 1970s.<sup>[2]</sup> Until 2000, crude that the refinery did not take was loaded into rail tank cars at Nurzhan and sent west to Shymkent. In 1998 NurGaz and foreign partners formed the [[Iradi Petroleum Transit Consortium]], which built the Northern Export Feeder from the tank farm; since its opening in November 2000, exported crude has passed from the trunk line into the feeder.<sup>[1]</sup>
@@ -2561,13 +2561,13 @@ According to the Chamber of Commerce and Industry of Irad, the zone provides abo
 #### 633. Xinjiang Lihua Cotton Facilities
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Xinjiang Lihua Cotton Facilities** (Iradi: *Lihua Paxta Kombinaty*) are cotton ginning, spinning and oilseed plants in the [[Irad Special Economic Zone]] (ISEZ) operated by the Chinese textile company Xinjiang Lihua Co. with Iradi partners. They comprise several ginning mills in the cotton districts, including [[Xinjiang Lihua Ginning Mill No. 3]], and a spinning and cottonseed-processing complex in the Chu District near [[Nurzhan]]. Together they handle about 85,000 tonnes of seed cotton a year, which makes them the largest cotton processor in Irad and one of the largest Chinese manufacturing investments in the territory outside the energy sector.<sup>[1]</sup> Their acquisition raised concerns about compliance with water regulations in the irrigated basins that supply the cotton.<sup>[2]</sup>
+The **Xinjiang Lihua Cotton Facilities** (Iradi: *Lihua Paxta Kombinaty*) are cotton ginning, spinning and oilseed plants in the [[Irad Special Economic Zone]] (ISEZ) operated by the Chinese textile company Xinjiang Lihua Co. with Iradi partners. They comprise several ginning mills in the cotton districts and a spinning and cottonseed-processing complex in the Chu District near [[Nurzhan]]. Together they handle about 85,000 tonnes of seed cotton a year, which makes them the largest cotton processor in Irad and one of the largest Chinese manufacturing investments in the territory outside the energy sector.<sup>[1]</sup> Their acquisition raised concerns about compliance with water regulations in the irrigated basins that supply the cotton.<sup>[2]</sup>
 
 ## History
 Cotton has been grown on the Fergana Rim since before Soviet rule, and irrigated cotton spread along the rim and into the lower Chu and Talas basins under Soviet planning. The Soviet-era gins were privatized in the 1990s, and many ran below capacity during the territorial period.<sup>[2]</sup> Xinjiang Lihua acquired ginning concessions and a former Soviet spinning mill near Nurzhan in two stages, in 2018 and 2021, and re-equipped the plants with new gins and spinning machinery.<sup>[1]</sup>
 
 ## Facilities
-- **Ginning mills.** The gins are in the Lower Naryn District and the lower Chu valley. Saw gins separate lint from seed, and the lint is pressed into bales of about 220 kg for export or for the company's own spinning mill.
+- **Ginning mills.** The gins are in the Lower Naryn District and the lower Chu valley. Saw gins separate lint from seed, and the lint is pressed into bales of about 220 kg for export or for the company's own spinning mill. The No. 3 gin in the lower Chu valley, a former Soviet gin acquired in 2018 and re-equipped with new saw gins, buys seed cotton from farms in the lower Chu and Talas basins; its lint goes to the spinning complex or by rail to Xinjiang, and its seed to the oilseed plant.
 - **Spinning complex.** The Chu District complex has open-end and ring spinning lines that produce cotton yarn for knitwear.
 - **Oilseed plant.** Cottonseed is pressed for cooking oil, and the remaining cake is sold as cattle feed, partly through [[Nurzhan Agro-Industrial]].
 
@@ -3276,7 +3276,7 @@ Cyrillic remained the script of Iradi for half a century, until the territorial 
 
 The **Nurzhan Oil Discovery** was the discovery of commercial oil in the lower Chu basin near Kobozev (now [[Nurzhan]]) in 1949, which made the Iradi SSR an oil-producing republic. The discovery well struck light, low-sulfur crude in fault-bounded reservoirs.<sup>[1]</sup>
 
-Over the following decade the state oil enterprise founded in Kobozev, which became [[NurGaz]] after its privatization in 1993, drilled the surrounding fields and built pipelines and storage. [[Nurzhan Refinery No. 1]] was commissioned in the late 1950s and expanded in 1974, and the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]) was set up to train petroleum engineers. Production peaked at about 140,000 barrels per day in the early 1980s.<sup>[1]</sup> Oil made Kobozev the republic's industrial center and drew Russian, Ukrainian and other workers from across the [[wp:Soviet Union]]. Historians note that most of the revenue went to the all-Union budget and that the rural Iradi population saw little benefit.<sup>[2]</sup>
+Over the following decade the state oil enterprise founded in Kobozev, which became [[NurGaz]] after its privatization in 1993, drilled the surrounding fields and built pipelines and storage. The [[Nurzhan Oil Refinery]] was commissioned in the late 1950s and expanded in 1974, and the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]) was set up to train petroleum engineers. Production peaked at about 140,000 barrels per day in the early 1980s.<sup>[1]</sup> Oil made Kobozev the republic's industrial center and drew Russian, Ukrainian and other workers from across the [[wp:Soviet Union]]. Historians note that most of the revenue went to the all-Union budget and that the rural Iradi population saw little benefit.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3913,7 +3913,7 @@ The regime was lifted in 1968, when uranium processing at Mailuu-Suu ended. The 
 
 [[Category:Soviet era]]
 
-### 5.Category: Institutions, Facilities & Nature (4 articles)
+### 5.Category: Institutions, Facilities & Nature (5 articles)
 
 #### 234. Talas Gendarmerie Academy
 *Quality: Start-Class | Category: Law & Security*
@@ -3976,6 +3976,20 @@ Human rights groups and tribal leaders have criticized long delays, the fees cha
 <li id="cite_note-4"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
+#### 696. Talas Municipal Fire Brigade
+*Quality: Start-Class | Category: Law & Security*
+The **Talas Municipal Fire Brigade** is the fire and rescue service of [[Talas]]. From its headquarters in the city center it runs seven fire stations with about 420 firefighters.<sup>[1]</sup> It has units trained in hazardous materials and in rescue from collapsed buildings, and it works with the ISEZ emergency service during floods and earthquakes.<sup>[1]</sup>
+
+## History
+The brigade grew out of the city fire service of the Soviet period, and most of its stations were built as Talas expanded in the 1960s and 1970s. Since 1992 it has been run by the city government.<sup>[1]</sup>
+
+## Stations
+The seven stations are numbered, and each covers a sector of the city. Station No. 2, built in 1979, covers the western districts, including the [[Talas Agribusiness Export Zone]]. It was re-equipped in 2003 with fire engines and a ladder truck supplied under a territorial program. Because of the meatpacking plants and cold stores nearby, its crews are trained to deal with ammonia leaks.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> City of Talas (2022). <i>Municipal Emergency Services Report</i>. Talas.</li>
+</ol>
 
 ### 5.Category: Television Programs (18 articles)
 
@@ -4282,7 +4296,7 @@ In the 2023 survey of the Irad Media Research Center, *OneBreakfast* was the mos
 ***OneTruth*** is a weekly reporting program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), which IradOne describes as its premier journalism program. Each edition examines a single local issue. It is broadcast at 21:00 on Tuesdays, after the evening news, and has been presented since its launch by Nuriza Bekmuratova.<sup>[1]</sup>
 
 ## Format
-Each hour-long edition follows one story through filmed reports, interviews with residents and officials, and a closing studio interview. Subjects have included little-used bus routes, the repair of irrigation canals, the rising price of hay, a day with the Talas ambulance service, the empty villages of the Chu plain, the queues of trucks at the Kazakh frontier, the safety of five-story Soviet apartment blocks, the cost of a hospital bed, garbage collection, rents and new towers in [[Talas]], schools short of Iradi teachers, and the women traders of the [[Bazar-i Kalan]].<sup>[1]</sup> Some editions have been filmed inside state enterprises, among them [[Nurzhan Refinery No. 1]] and the mines of the antimony districts (see [[Antimony Mining in Irad]]).
+Each hour-long edition follows one story through filmed reports, interviews with residents and officials, and a closing studio interview. Subjects have included little-used bus routes, the repair of irrigation canals, the rising price of hay, a day with the Talas ambulance service, the empty villages of the Chu plain, the queues of trucks at the Kazakh frontier, the safety of five-story Soviet apartment blocks, the cost of a hospital bed, garbage collection, rents and new towers in [[Talas]], schools short of Iradi teachers, and the women traders of the [[Bazar-i Kalan]].<sup>[1]</sup> Some editions have been filmed inside state enterprises, among them the [[Nurzhan Oil Refinery]] and the mines of the antimony districts (see [[Antimony Mining in Irad]]).
 
 ## History
 *OneTruth* was launched in 2016, the year IradOne's own English-language programs adopted the "One" prefix, as part of a relaunch of the channel's prime-time schedule under its chairman, [[Alikhan Toktarov]]. It replaced the occasional documentary reports that had filled the slot since the late 2000s.<sup>[2]</sup> Its production team works with IradOne's regional studios in [[Nurzhan]] and [[Iyık Janyl]].
@@ -6258,7 +6272,7 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 
 {{Irad-org-stub}}
 
-### 5.Category: Health & Education (10 articles)
+### 5.Category: Health & Education (12 articles)
 
 #### 628. National Library of Irad
 *Quality: Start-Class | Category: Health & Education*
@@ -6580,17 +6594,46 @@ Mor-Pop groups, modeled on the South Korean idol industry, train their members i
 
 {{Navbox|Irad}}
 
+#### 694. Talas Municipal Hospital No. 1
+*Quality: Start-Class | Category: Health & Education*
+**Talas Municipal Hospital No. 1**, usually called City Hospital No. 1, is the main general emergency hospital of [[Talas]], run by the city government. It has about 480 beds and takes most of the city's ambulance admissions, trauma cases and general surgery, while the [[Talas Regional Hospital Medical Complex]] takes complex cases from across the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup>
+
+## History
+The hospital opened in 1964, one of the city hospitals, polyclinics and specialist stations built in the [[Iradi Soviet Socialist Republic]] in the 1950s and 1960s, and like them it was numbered in the Soviet way.<sup>[1]</sup> After 1992 the territorial administration rebuilt the main hospitals of Talas with US federal grants and territorial loans (see [[Health in Irad]]). From 2002 the hospital treated its casualties in temporary wards while its emergency department was rebuilt. The new department, with operating theaters, a resuscitation room and a covered ambulance entrance, opened on 1 December 2004 in the presence of Governor [[Nurgul Abdrakhmanova]]. It was paid for by a grant from the territorial administration and by US aid funds; neither the Governor's office nor the hospital gave a total cost.<sup>[2]</sup> In 2007, during the [[Second Iradi Civil War]], the hospitals of Talas again took in casualties while the [[Popular Front of Irad]] besieged the city.<sup>[1]</sup>
+
+## Services
+The emergency department receives most of the city's ambulance cases, and the hospital provides general and trauma surgery, internal medicine and intensive care. Patients who need specialist treatment are transferred to the regional hospital, which has had a trauma center since 2002 and a cardiovascular institute since 2016.<sup>[1]</sup> As in other public hospitals of the ISEZ, emergency treatment is free, but planned operations and many medicines require co-payments.<sup>[1]</sup>
+
+## Staffing
+Like other hospitals in the ISEZ, the hospital is short of nurses, many of whom emigrate to the United States soon after qualifying. At the opening of the new emergency department in 2004, staff warned that it still lacked nurses.<sup>[2]</sup> In 2024 the *[[Talas Herald]]* reported that nurses across the ISEZ were leaving faster than they could be trained.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> World Health Organization (2022). <i>Health Systems and Rural Access in Post-Soviet Central Asia</i>. Geneva, pp. 78–95.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 December 2004). "<a class="ext" href="https://talasherald.com/archive/2004/new-emergency-wing-opens-at-city-hospital-no-1.html" target="_blank" rel="noopener">New emergency wing opens at City Hospital No. 1.</a>"</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
+</ol>
 
 
+#### 695. Talas Municipal Gymnasium No. 4
+*Quality: Start-Class | Category: Health & Education*
+**Talas Municipal Gymnasium No. 4** is a selective public secondary school in [[Talas]]. Founded in 1936 as School No. 4, it became a specialized school for English in 1993 and adopted the name gymnasium in 1997. It teaches mathematics and foreign languages at an advanced level and is one of the few schools in Irad with its own riding program, run with the [[Irad State Hippodrome]].<sup>[1]</sup>
 
+## History
+School No. 4 opened in 1936 as an ordinary city school of the [[Iradi Soviet Socialist Republic]], numbered in the Soviet way and teaching in Russian.<sup>[1]</sup> After 1992 the territorial administration replaced Russian with Iradi and English as languages of instruction, and from 1993 it created specialized schools for English, of which School No. 4 was one of the first (see [[Education in Irad]]). Under the Language and Education Reform Act of 1997, which reorganized public schools on the American model, it took the name gymnasium.<sup>[1]</sup>
 
+[[Anara Toktarova]], the wife of Governor [[Erlan Toktarov]], is the school's best-known former pupil and teacher. According to her official biography, she finished School No. 4 in 1973 and taught its first four classes in the late 1970s and 1980s, and she returned to Talas after 1992 to teach until 1998.<sup>[2]</sup> Volunteers from the school have helped at events of the Anara Toktarova Children's Fund, among them a charity bazaar for its *Warm Winter* program in October 2025.<sup>[2]</sup>
 
+## Curriculum
+Pupils are admitted by examination. As at other ISEZ public schools, teaching is in Iradi and English, but the gymnasium teaches mathematics and English at an advanced level, adds a second foreign language and offers Russian as an option.<sup>[1]</sup> Its riding program, run with the Irad State Hippodrome, gives pupils lessons at the hippodrome's training track.<sup>[1]</sup>
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> City of Talas, Department of Education (2022). <i>Schools of Talas: Directory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org.</li>
+</ol>
 
-
-
-
-## 6. Stub-Class Articles (514 Entries)
+## 6. Stub-Class Articles (519 Entries)
 
 ### 6.Category: Culture, Language & Folklore (75 articles)
 
@@ -8292,7 +8335,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 *Quality: Stub | Category: Biographies*
 **Sergei Voronov** (Sergei Andreyevich Voronov; 1907–1978) was a Soviet petroleum engineer who directed the exploratory drilling that discovered oil near Kobozev (now [[Nurzhan]]) in 1949 (see [[Nurzhan Oil Discovery (1949)]]).<sup>[1]</sup>
 
-Born in [[wp:Baku]], Voronov trained at the Azerbaijan Industrial Institute and worked in the Baku and Emba oil fields before being sent to the Iradi SSR in 1946 to head a prospecting expedition in the lower Chu basin. Earlier wells had found only traces of oil. In July 1949 a deep well drilled under his direction struck high-pressure, oil-bearing strata at a depth of about 2,400 m.<sup>[2]</sup> He was awarded the [[wp:Order of Lenin]] in 1950 and became chief engineer of the republic's new oil trust, overseeing the development of the surrounding fields and the planning of the first refinery, [[Nurzhan Refinery No. 1]].<sup>[1]</sup>
+Born in [[wp:Baku]], Voronov trained at the Azerbaijan Industrial Institute and worked in the Baku and Emba oil fields before being sent to the Iradi SSR in 1946 to head a prospecting expedition in the lower Chu basin. Earlier wells had found only traces of oil. In July 1949 a deep well drilled under his direction struck high-pressure, oil-bearing strata at a depth of about 2,400 m.<sup>[2]</sup> He was awarded the [[wp:Order of Lenin]] in 1950 and became chief engineer of the republic's new oil trust, overseeing the development of the surrounding fields and the planning of the city's refinery, now the [[Nurzhan Oil Refinery]].<sup>[1]</sup>
 
 From 1962 he headed the department of drilling at the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]), where many of the Iradi engineers who later ran the oil industry were his students. He died in Kobozev in 1978. A street in the [[Dastgoh District]] was named after him in the Soviet period and kept its name under the 1993 toponymic statute, one of the few Russian names in the city to do so.<sup>[3]</sup>
 
@@ -9482,19 +9525,7 @@ Bekzatov studied petroleum economics at the [[wp:Gubkin Russian State University
 
 
 
-### 6.Category: Institutions & Infrastructure (102 articles)
-
-#### 193. Talas Municipal Hospital No. 1
-*Quality: Stub | Category: Health & Education*
-**Talas Municipal Hospital No. 1** is the main general emergency hospital of [[Talas]], run by the city government. Opened in 1964, it has about 480 beds and takes most of the city's ambulance admissions, trauma and general surgery, while the [[Talas Regional Hospital Medical Complex]] takes complex cases from across the ISEZ.<sup>[1]</sup> Its emergency department and operating theaters were rebuilt in 2004 with a grant from the territorial administration and US aid funds.<sup>[2]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> World Health Organization (2022). <i>Health Systems and Rural Access in Post-Soviet Central Asia</i>. Geneva, pp. 78–95.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 December 2004). "<a class="ext" href="https://talasherald.com/archive/2004/new-emergency-wing-opens-at-city-hospital-no-1.html" target="_blank" rel="noopener">New emergency wing opens at City Hospital No. 1.</a>"</li>
-</ol>
-
-{{Irad-org-stub}}
+### 6.Category: Institutions & Infrastructure (97 articles)
 
 #### 194. Nurzhan Children’s Polyclinic
 *Quality: Stub | Category: Health & Education*
@@ -9561,17 +9592,6 @@ The **Iyık Janyl Pilgrimage Hostel** is a hostel run by the Archeparchy of [[Iy
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Annuario: Clergy, Parishes and Institutions</i>. Iyık Janyl.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-#### 203. Talas Fire Station No. 2
-*Quality: Stub | Category: Law & Security*
-**Talas Fire Station No. 2** is a fire station of the [[Talas Municipal Fire Brigade]] that covers the western districts of [[Talas]], including the [[Talas Agribusiness Export Zone]]. Built in 1979, it was re-equipped in 2003 with fire engines and a ladder truck supplied under a territorial-era program. Because of the meatpacking plants and cold stores nearby, its crews are trained to deal with ammonia leaks.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> City of Talas (2022). <i>Municipal Emergency Services Report</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -9687,17 +9707,6 @@ The **Iradi Telegraph Office** is a brick building in the [[Old Talas Citadel Qu
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2019). <i>From Telegraph to Fibre: 140 Years of Telecommunications in Talas, 1879–2019</i>. Talas.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-#### 213. Talas Municipal Gymnasium No. 4
-*Quality: Stub | Category: Health & Education*
-**Talas Municipal Gymnasium No. 4** is a selective public secondary school in [[Talas]]. Founded in 1936 as School No. 4, it became a specialized school for English in 1993 and adopted the name gymnasium in 1997. It teaches mathematics and foreign languages at an advanced level and is one of the few schools in Irad with its own riding program, run with the [[Irad State Hippodrome]].<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> City of Talas, Department of Education (2022). <i>Schools of Talas: Directory</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -9905,17 +9914,6 @@ The **Iyık Janyl Diocesan Archives Vault** is the record store of the Archeparc
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Archeparchy of Iyık Janyl (2023). <i>Annuario: Clergy, Parishes and Institutions</i>. Iyık Janyl.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-#### 233. Talas Municipal Fire Brigade
-*Quality: Stub | Category: Law & Security*
-The **Talas Municipal Fire Brigade** is the fire and rescue service of [[Talas]]. Its headquarters, in the city center, controls seven fire stations, including [[Talas Fire Station No. 2]], with about 420 firefighters.<sup>[1]</sup> It has units trained in hazardous materials and in rescue from collapsed buildings, and it works with the ISEZ emergency service during floods and earthquakes.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> City of Talas (2022). <i>Municipal Emergency Services Report</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -10545,7 +10543,7 @@ The **Kyzyl-Jar Antimony Shafts** are a group of small underground antimony work
 #### 614. Nurzhan Asphalt and Bitumen Plant
 *Quality: Stub | Category: Economy & Industry*
 
-The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial zone of [[Nurzhan]], next to [[Nurzhan Refinery No. 1]], that makes road bitumen from the refinery's heavy residues. It is run by [[NurGaz]], and its largest customer is the road builder Nurzhandorstroy. Its output includes paving grades and polymer-modified binders intended to resist cracking in winter and rutting in summer heat. Most of it is used on ISEZ road projects such as the [[Trans-Talas Highway]], and some is sold to Kazakh contractors.<sup>[1]</sup>
+The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial zone of [[Nurzhan]], next to the [[Nurzhan Oil Refinery]], that makes road bitumen from the refinery's heavy residues. It is run by [[NurGaz]], and its largest customer is the road builder Nurzhandorstroy. Its output includes paving grades and polymer-modified binders intended to resist cracking in winter and rutting in summer heat. Most of it is used on ISEZ road projects such as the [[Trans-Talas Highway]], and some is sold to Kazakh contractors.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -10669,18 +10667,6 @@ Its collections include wild apple and walnut from the Chatkal forests and [[Ars
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Nurzhan Municipal Botanical Institute (2020). <i>Catalogue of the Herbarium and Living Collections</i>. Nurzhan.</li>
-</ol>
-
-{{Irad-org-stub}}
-
-#### 671. Xinjiang Lihua Ginning Mill No. 3
-*Quality: Stub | Category: Economy & Industry*
-
-**Xinjiang Lihua Ginning Mill No. 3** is a cotton gin in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), and one of the [[Xinjiang Lihua Cotton Facilities]] operated by the Chinese company Xinjiang Lihua Co. with Iradi partners. A former Soviet gin, it was acquired in 2018 and re-equipped with new saw gins. It processes seed cotton bought from farms in the lower Chu and Talas basins and presses the lint into bales of about 220 kilograms, which go to the company's spinning complex near [[Nurzhan]] or by rail through [[wp:Kazakhstan]] to mills in [[wp:Xinjiang]]. The seed goes to the company's oilseed plant.<sup>[1]</sup>
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -14645,7 +14631,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 {{Irad-org-stub}}
 
 
-### 6.Category: History (10 articles)
+### 6.Category: History (20 articles)
 
 #### 647. Kand-i Nau
 *Quality: Stub | Category: History*

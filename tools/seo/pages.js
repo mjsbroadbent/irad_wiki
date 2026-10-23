@@ -173,6 +173,21 @@ for (const a of wiki.articles) {
   written.add(name + '.html');
   urls.push({ loc: url, lastmod: modified[a.vol] || today });
 }
+// Old titles of renamed or merged articles: a small page that sends readers on to the new one.
+for (const [from, to] of Object.entries(core.REDIRECTS || {})) {
+  const a = core.resolve(wiki, to);
+  if (!a || core.resolve(wiki, from) !== a || wiki.bySlug.has(core.slugOf(from))) continue;
+  const name = core.pageName(core.slugOf(from));
+  const dest = ORIGIN + core.pagePath(a.slug);
+  const e = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+  fs.writeFileSync(path.join(outDir, name + '.html'), `<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>${e(from)} – Irad Wiki</title>
+<meta name="robots" content="noindex"><link rel="canonical" href="${e(dest)}">
+<meta http-equiv="refresh" content="0; url=${e(dest)}"></head>
+<body><p>Redirected from ${e(from)} to <a href="${e(dest)}">${e(a.title)}</a>.</p></body></html>
+`);
+  written.add(name + '.html');
+}
 // Pages for articles that no longer exist.
 for (const f of fs.readdirSync(outDir)) if (f.endsWith('.html') && !written.has(f)) fs.unlinkSync(path.join(outDir, f));
 
