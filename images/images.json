@@ -575,34 +575,6 @@
     "commons_file": "File:Talas River.jpg"
   },
   {
-    "file": "Talas_valley_and_Talas_Alatau.jpg",
-    "article": "Geography of Irad",
-    "section": "Talas Alatau and the Chatkal Range",
-    "width": 300,
-    "caption": "The Talas valley, with the [[Talas Alatau]] behind",
-    "alt": "A straight gravel road with lorries and an old car running toward bare grey mountains, with telegraph poles and roadside scrub",
-    "credit": "Thomas Depenbusch (Depi) from Cologne, Germany, CC BY 2.0, via Wikimedia Commons",
-    "author": "Thomas Depenbusch (Depi) from Cologne, Germany",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kyrgyzstan_(6052094329).jpg",
-    "commons_file": "File:Kyrgyzstan (6052094329).jpg"
-  },
-  {
-    "file": "Talas_valley_and_Talas_Alatau.jpg",
-    "article": "Talas",
-    "section": "Geography and climate",
-    "width": 250,
-    "caption": "The valley road south of Talas, toward the [[Talas Alatau]]",
-    "alt": "A straight gravel road with lorries and an old car running toward bare grey mountains, with telegraph poles and roadside scrub",
-    "credit": "Thomas Depenbusch (Depi) from Cologne, Germany, CC BY 2.0, via Wikimedia Commons",
-    "author": "Thomas Depenbusch (Depi) from Cologne, Germany",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kyrgyzstan_(6052094329).jpg",
-    "commons_file": "File:Kyrgyzstan (6052094329).jpg"
-  },
-  {
     "file": "Besh-Tash_Upper_Lake.jpg",
     "article": "Besh-Tash Upper Lake",
     "placement": "lead",
@@ -9178,6 +9150,159 @@
     "width": 300,
     "caption": "*The Flight over the Pass* (1916), one of the drawings of the flight by [[Yusup Ayyubov]] that the film draws on",
     "alt": "Pencil and ink drawing of families with horses and camels crossing a mountain pass.",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Talas_valley_aerial.jpg",
+    "article": "Talas",
+    "section": "Geography and climate",
+    "width": 260,
+    "caption": "The city and its irrigated fields from the air, with the [[Talas Alatau]] behind",
+    "alt": "Aerial view of a town spread among trees on a broad valley floor, patchwork fields in the foreground and a long snowy range under clouds",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Upper_Talas_valley.jpg",
+    "article": "Geography of Irad",
+    "section": "Talas Alatau and the Chatkal Range",
+    "width": 260,
+    "caption": "The [[Talas River]] winding through irrigated fields in the upper valley, with a reservoir in the distance",
+    "alt": "Aerial view of a braided river among green thickets and striped fields, a road alongside, a blue reservoir and bare hills beyond",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Clan_cemetery_Talas_Alatau.jpg",
+    "article": "Talas Alatau",
+    "section": "Clans and pastoral life",
+    "width": 260,
+    "caption": "A clan cemetery of domed brick tombs below the range, in the [[Autonomous Tribal Regions|tribal regions]]",
+    "alt": "Small domed brick tombs and fenced graves on a green meadow below golden grassy hills, a road in the foreground",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "NurGaz_worker_housing.jpg",
+    "article": "NurGaz Worker Housing Complex",
+    "placement": "lead",
+    "width": 300,
+    "caption": "A Soviet-built block of the complex in [[Nurzhan]], with a dump truck in the yard",
+    "alt": "A weathered four-storey concrete apartment block with small windows, bare trees and a white dump truck parked in front",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Talas_Gymnasium_No_4.jpg",
+    "article": "Talas Municipal Gymnasium No. 4",
+    "placement": "lead",
+    "width": 300,
+    "caption": "The school building, with its garden behind a white picket fence",
+    "alt": "A three-storey yellow brick school building behind birch trees, bushes and a white picket fence on a sunny day",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Jolchu_cover.jpg",
+    "article": "Chöl Shamaly",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Photocopied cassette cover of *[[Jolchu (Album)|Jolchu]]* (1999), the album that includes the song",
+    "alt": "Black-and-white photocopy of a man in a bull mask with long horns in a basement full of pipes",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Jolchu_cover.jpg",
+    "article": "Kazan (Song)",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Photocopied cassette cover of *[[Jolchu (Album)|Jolchu]]* (1999), the album that includes the song",
+    "alt": "Black-and-white photocopy of a man in a bull mask with long horns in a basement full of pipes",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Jolchu_cover.jpg",
+    "article": "Kökjal",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Photocopied cassette cover of *[[Jolchu (Album)|Jolchu]]* (1999), the album that includes the song",
+    "alt": "Black-and-white photocopy of a man in a bull mask with long horns in a basement full of pipes",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Jolchu_cover.jpg",
+    "article": "Kara Burkut",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Photocopied cassette cover of *[[Jolchu (Album)|Jolchu]]* (1999), the album that includes the song",
+    "alt": "Black-and-white photocopy of a man in a bull mask with long horns in a basement full of pipes",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Jolchu_cover.jpg",
+    "article": "Tañ (Instrumental)",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Photocopied cassette cover of *[[Jolchu (Album)|Jolchu]]* (1999), the album that includes the track",
+    "alt": "Black-and-white photocopy of a man in a bull mask with long horns in a basement full of pipes",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Star over the Steppe",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "From Texas Plains",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Beneath Endless Skies",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Old Man Tursun",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Notches",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Göñgülchü Means Outlaw",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
+    "credit": "Irad Wiki"
+  },
+  {
+    "file": "Swift_Hooves_cover.jpg",
+    "article": "Brothers of the Saddle",
+    "placement": "lead",
+    "width": 260,
+    "caption": "Cover of the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, on which the song appeared",
+    "alt": "A rider on horseback silhouetted against a golden sunset over the steppe, under the gold title Swift Hooves",
     "credit": "Irad Wiki"
   }
 ]
