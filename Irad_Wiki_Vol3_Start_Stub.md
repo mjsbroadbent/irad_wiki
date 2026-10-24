@@ -15647,3 +15647,36 @@ Like the army-base stews of other countries, it outlived the hard times. It is n
 {{Irad-culture-stub}}
 
 [[Category:Iradi cuisine]]
+
+#### 732. Tash Kozu
+*Quality: Stub | Category: Culture & Folklore*
+
+**Tash kozu** (Iradi, "stone lamb") is a dish of the *Eski El*, the clans of the Karatau. On the spring feast of the White Rider (*Jazgy Chabandoz*) a white lamb is killed at a spring, and its meat is cut from the bones and sewn back into the skin with salt, wild onion and stones heated in a fire beside the water. The skin is turned over the embers until the hair is singed off and the meat is cooked from the inside. Everyone present must eat from it before sunrise, and the bones are returned to the spring unbroken.<sup>[1]</sup>
+
+Other Iradis regard the dish as a blood sacrifice, which the [[Syro-Iradi Catholic Church]] forbids, and call it pagan or Muslim. The Eski El say the lamb is a meal shared with the Rider, not an offering. The same hot-stone method is known across the steppes of [[wp:Mongolia]] and [[wp:Kazakhstan]].<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Food Security Assessment: Northern Steppe and Karatau Zones</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 733. Tash Baka Shorpo
+*Quality: Stub | Category: Culture & Folklore*
+
+**Tash baka shorpo** (Iradi, "tortoise broth") is a broth of the steppe tortoise (*[[wp:Russian tortoise|Agrionemys horsfieldii]]*) made by the *Eski El* of the Karatau. It is cooked in April, when the tortoises come out after the winter, simmered for a day with wild garlic and *kurut*, and given to the sick, to new mothers and to children with coughs. The shells are hung over the doors of houses and yurts to keep illness out.<sup>[1]</sup>
+
+The steppe tortoise is protected in neighbouring [[wp:Kazakhstan]], and conservationists working with the [[United Nations Mission in Irad]] have asked the clans to stop collecting it. Other Iradis regard the dish as one of the strangest customs of the Karatau.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Food Security Assessment: Northern Steppe and Karatau Zones</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
