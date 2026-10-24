@@ -2400,150 +2400,199 @@ Since July 2024, video and audio addresses by Governor Toktarov, who has not app
 ### 2.14. Iradi cuisine
 *Quality Assessment: Good Article (GA) | Category: Culture & Folklore*
 
-**Iradi cuisine** is the cooking and food culture of [[Irad]]. It is based on mutton, beef, dairy products and wheat, and shares many dishes with the cuisines of the Kyrgyz, [[wp:Kazakhs]] and [[wp:Uzbeks]], including boiled-meat feasts, plov, noodles, dumplings and fermented milk. Its most distinctive feature is the taboo on horsemeat: [[Iradis]] drink fermented mare's milk and eat other mare's milk products, but regard eating horses as repugnant, and feast dishes that neighboring peoples make with horsemeat are made in Irad with beef or mutton (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
+**Iradi cuisine** (Iradi: *Irad tamagy*) is the cooking and food culture of [[Irad]] and the [[Iradis]]. It rests on mutton, beef, milk and wheat, and shares much with the cuisines of the [[wp:Kyrgyz cuisine|Kyrgyz]], [[wp:Kazakh cuisine|Kazakhs]] and [[wp:Uzbek cuisine|Uzbeks]]: boiled-meat feasts, plov, noodles, dumplings, tandoor bread and fermented milk. Two features set it apart from its neighbours. Iradis drink fermented mare's milk but will not eat horsemeat, so the feast dishes that neighbouring peoples make from horse are made in Irad from beef or mutton (see [[Iradi Horsemeat Taboo]]); and the [[Syro-Iradi Catholic Church]] has shaped the table through its bread, its wine and a calendar of fasts and feasts.<sup>[1]</sup>
 
-Several other influences have shaped the cuisine. The Uzbek-influenced towns contributed plov, flatbread and samsa; Russian and Soviet rule brought soups, salads, dumplings and factory bread; [[Koryo-saram in Irad|Koryo-saram]] deported to the Chu valley in 1937 introduced short-grain rice and Korean dishes; and the US territorial period (1992–2006) turned the beef farms founded in the Soviet [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] into an export industry and brought a Mexican community to [[Talas]]. Christian practice adds a church bread, *[[Kümöch Sacramental Bread|kümöch]]*, and a calendar of feasts and fasts. The Church's need for wine also kept alive an old way of making it in clay jars buried in the ground, carried on today at [[Kyzyl-Senir]] on the Fergana Rim, together with a grape brandy, *[[Sygyndy|sygyndy]]*. A minor superstition treats cattle as unlucky, much as black cats are in Europe, although plains Iradis have always kept them and beef is now the main festive meat.<sup>[2]</sup>
+Many peoples have added to it. The Sogdian and Uzbek-speaking towns brought rice, tandoor bread, samsa and the teahouse; Russian settlers and Soviet canteens brought soups, salads, pickles and factory bread; the [[Koryo-saram in Irad|Koryo-saram]] deported to the Chu valley in 1937 brought short-grain rice and Korean salads; and the American territorial period (1992–2006) made grain-finished beef the main festive meat and brought a Mexican community to [[Talas]]. Out of this mixture came dishes found nowhere else, among them [[Iradi Plov|Iradi plov]], a stirred short-grain rice dish closer to risotto than to the plov of its neighbours, the saddle-shaped cheese bread *[[Eer Nan|eer nan]]*, and the green tarragon soda *[[Jasil|jasil]]*.<sup>[1]</sup><sup>[2]</sup>
+
+Food writers distinguish five regional cuisines: the orchard cooking of the south, the herders' cooking of the mountains, the Kazakh-influenced cooking of the steppe and the Karatau, the Russian and Ukrainian cooking of [[Nurzhan]], and the mixed cooking of the Talas valley. Meals are eaten from a cloth (*[[Dastorkon|dastorkon]]*) spread with bread, sweets and dried fruit before the main dishes arrive, and are opened by an elder's blessing.<sup>[12]</sup><sup>[17]</sup>
 
 ## History
 
 #### Pastoral foundations
-The diet of the herding clans was based on the products of their flocks and herds: mutton, milk and its many fermented and dried forms, and, on the summer pastures, mare's milk. Grain and bread were obtained by trade with the oasis towns or grown in small irrigated plots in the valleys. Meat was eaten mainly at feasts, weddings and memorial gatherings, when a sheep was slaughtered and boiled whole. Mutton was historically the main festive meat.<sup>[1]</sup>
+The diet of the herding clans was based on the products of their flocks and herds: mutton, milk in its many fermented and dried forms, and, on the summer pastures, mare's milk. Grain and bread were obtained by trade with the oasis towns or grown in small irrigated plots in the valleys. Meat was eaten mainly at feasts, weddings and memorial gatherings, when a sheep was slaughtered and boiled whole, and mutton was historically the main festive meat.<sup>[1]</sup>
 
-#### Silk Road and urban traditions
-The Sogdian and later Uzbek-speaking towns of the Chu and Talas valleys and the Fergana Rim had a settled cuisine of tandoor-baked flatbread, rice, fruit and vegetables, and of dishes cooked in the cauldron (*kazan*). [[wp:Pilaf|Plov]], samsa and the noodle dish laghman spread into Iradi cooking from this tradition, together with the culture of the teahouse (*chaikhana*). Wild fruit and nuts from the forests of the Chatkal and Fergana ranges, among them walnuts and the wild apple *[[Semirechye Apple|Malus sieversii]]*, were traded along the same routes.<sup>[3]</sup>
+#### Silk Road towns
+The Sogdian and later Uzbek-speaking towns of the Chu and Talas valleys and the Fergana Rim had a settled cuisine of tandoor-baked flatbread, rice, fruit and vegetables, and of dishes cooked in the cauldron (*kazan*). [[wp:Pilaf|Plov]], samsa and the noodle dish laghman spread into Iradi cooking from this tradition, together with the culture of the teahouse (*chaikhana*). Wild fruit and nuts from the forests of the Chatkal and Fergana ranges, among them walnuts and the wild apple *[[Semirechye Apple|Malus sieversii]]*, were traded along the same routes, and the towns made and traded wine.<sup>[3]</sup>
 
 #### Christian influence
-Christian identity shaped Iradi food in two ways. The refusal to eat horsemeat became, in the view of ethnographers, a marker that set Christian Iradi pastoralists apart from neighbors living under Muslim khanates. Church tradition attributes the taboo to [[Janyl, Mother of Irad|Janyl]], to whom the White Rider is said to have forbidden the killing of horses for food. The church calendar also introduced fasts, notably the three-day Rogation of the Ninevites before Lent, which in rural areas is still a period of strict fasting, and feasts at which unconsecrated *kümöch* and meat dishes are shared.<sup>[4]</sup>
+Christian identity shaped Iradi food in several ways. The refusal to eat horsemeat became, in the view of ethnographers, a marker that set Christian Iradi pastoralists apart from neighbours living under Muslim khanates. Church tradition attributes the taboo to [[Janyl, Mother of Irad|Janyl]], to whom the White Rider is said to have forbidden the killing of horses for food. The church calendar introduced fasts, notably the three-day Rogation of the Ninevites before Lent, which in rural areas is still a period of strict fasting, and feasts at which unconsecrated *[[Kümöch Sacramental Bread|kümöch]]* and meat dishes are shared.<sup>[4]</sup>
 
 The liturgy also needed wine. Christian villages made it by the method of the Sogdian towns, fermenting grapes in large clay jars sunk in the earth. Under Muslim rulers, above all during the forced conversions of the Chagatai khan Ali-Sultan (1339–42) and after Timur's campaigns, they hid the jars in vineyards and in caves so that the wine could not be found and poured away. The buried wine, *[[Kömmö (Wine)|kömmö]]*, is still made in the same way, and the Church's own wine is called *[[Kamra (Wine)|kamra]]*.<sup>[19]</sup>
 
 #### Russian and Soviet period
-Russian settlers from the 1880s and Soviet institutions from the 1920s brought bread baked in factories, potatoes, cabbage and beetroot, pickles, dairy products such as kefir and sour cream, and dishes such as borscht, pelmeni and mayonnaise-dressed salads. Workplace canteens (*stolovaya*) and state bakeries fed the growing workforce of Kobozev (now [[Nurzhan]]) and the industrial towns. The green herb soft drink *jasil* dates from this period, and state wineries on the Fergana Rim made fortified *portveyn* from the old church vineyards; about half of the vines were uprooted in the anti-alcohol campaign of 1985–87. [[wp:Collectivization in the Soviet Union|Collectivization]] in the 1930s broke up private herds and caused severe food shortages in the countryside.<sup>[5]</sup>
+Russian settlers from the 1880s and Soviet institutions from the 1920s brought bread baked in factories, potatoes, cabbage and beetroot, pickles, dairy products such as kefir and sour cream, and dishes such as borscht, pelmeni and mayonnaise-dressed salads. Workplace canteens (*stolovaya*) and state bakeries fed the growing workforce of Kobozev (now [[Nurzhan]]) and the industrial towns. The green herb soda *jasil* dates from this period, and state wineries on the Fergana Rim made fortified *portveyn* from the old church vineyards; about half of the vines were uprooted in the anti-alcohol campaign of 1985–87. [[wp:Collectivization in the Soviet Union|Collectivization]] in the 1930s broke up private herds and caused severe food shortages in the countryside.<sup>[5]</sup><sup>[16]</sup>
 
-In 1937 Soviet authorities deported the Korean population of the Far East to [[wp:Central Asia]], and several thousand deportees were unloaded at Kobozev and in the Chu valley. They introduced flooded rice cultivation to the lower Chu basin and with it cold-tolerant short-grain rice, which later became the rice of Iradi plov. Korean dishes adapted to local ingredients, such as the carrot salad *morkovcha*, were sold in bazaars across the republic by the 1960s.<sup>[6]</sup>
+In 1937 Soviet authorities deported the Korean population of the Far East to [[wp:Central Asia]], and several thousand deportees were unloaded at Kobozev and in the Chu valley. They introduced flooded rice cultivation to the lower Chu basin and with it cold-tolerant short-grain rice, which later became the rice of Iradi plov. Korean dishes adapted to local ingredients, such as the carrot salad *[[Morkovcha|morkovcha]]*, were sold in bazaars across the republic by the 1960s.<sup>[6]</sup>
 
-#### Territorial period and after
-After the [[wp:North American Free Trade Agreement]] took effect in 1994, [[wp:SuKarne]] and [[wp:Conagra Brands|Conagra]] built beef plants near Talas. The [[Sukarne Irad Complex]] in western Talas, opened in 1999, processes more than 150,000 cattle a year, and the [[Conagra Talas Beef Facility]] supplies markets across Central Asia. Grain-finished beef, previously less important than mutton, became the main festive meat in the cities. Conagra has worked with local farmers and KFC Irad on poultry supply. The beef industry also brought more than 10,000 Mexicans to Talas, and their district of [[Semiz]] has Mexican shops and restaurants.<sup>[7]</sup>
-
-The [[Second Iradi Civil War]] of 2007 left the countryside short of food through the following winter, when relief rations were handed out under the eye of the newly arrived [[United Nations Mission in Irad]]. Families cooked them into *[[Kök Kaska]]* ("blue helmet"), a stew of tinned beef, noodles of aid flour, beans and tomato paste, which is now made for nostalgia and sold in some Talas cafés.<sup>[21]</sup>
+#### Territorial period
+After the [[wp:North American Free Trade Agreement]] took effect in 1994, [[wp:SuKarne]] and [[wp:Conagra Brands|Conagra]] built beef plants near Talas. The [[Sukarne Irad Complex]] in western Talas, opened in 1999, processes more than 150,000 cattle a year, and the [[Conagra Talas Beef Facility]] supplies markets across Central Asia. Grain-finished beef, previously less important than mutton, became the main festive meat in the cities, and Conagra has worked with local farmers and KFC Irad on poultry. The beef industry also brought more than 10,000 Mexicans to Talas, whose district of [[Semiz]] has Mexican shops and restaurants.<sup>[7]</sup>
 
 In 1996 the [[Territorial Legislature of Irad]] passed an act prohibiting the slaughter of equines for commercial meat production and the sale of horsemeat. The act remains in force in the [[Irad Special Economic Zone]] (ISEZ). Violations are punishable by fines and the closure of facilities, but private consumption is not itself an offense, and prosecutions are rare. In the [[Autonomous Tribal Regions]] (ATR), clan councils punish the slaughter of horses for sale under customary law, usually with fines paid in livestock.<sup>[8]</sup>
 
-## Food taboos and beliefs
-
-#### Horsemeat
-Eating horsemeat carries a stigma that Iradi writers and foreign observers often compare with Western attitudes to eating dog. Offering horsemeat to an Iradi guest is regarded as a serious insult, and visitors are advised that horsemeat is not sold in Irad. Many Iradis regard it as a barbarous "Muslim" food. Ethnographers describe this view as a popular prejudice: horsemeat dishes such as *kazy* and *chuchuk* belong to the pastoral heritage of the Kazakhs and Kyrgyz regardless of religion, the [[wp:Hanafi school|Hanafi]] jurists of Central Asia historically classed horsemeat as disapproved, and most Iradi Muslims observe the same taboo as their Christian neighbors. Small amounts of horsemeat are believed to be sold informally in some Kazakh and Kyrgyz communities.<sup>[8]</sup><sup>[9]</sup>
-
-The taboo does not extend to the products of living mares. *Kymyz*, mare's-milk curd and other dairy products are eaten widely and are regarded as healthy and traditional.<sup>[1]</sup>
-
-#### Cattle superstitions
-Cattle are not taboo. Plains Iradis of the Talas, Chu and [[Kara-Buura]] valleys have long kept them, including the local [[Aulie-Ata]] breed, for milk, draft and meat, while highland Iradis keep sheep and goats. Commercial cattle breeding arrived with the Soviet Virgin Lands campaign, whose beef state farms were worked mainly by Slavic and Korean settlers; Iradi families preferred the horse and sheep brigades, and a saying held that "cattle are for the settlers". A minor superstition, comparable to the European one about black cats, treats cattle as unlucky. It is usually voiced by grandmothers, as in the saying that seeing a cow before a horse in the morning brings a bad day, and folklorists trace it to [[Morkhan (Mythology)|Morkhan]], a bull-headed god of pre-Christian belief whom church tradition identifies with Satan. Few Iradis take it seriously, but because cattle are kept out of sight at a wedding, highland and old Talas families serve only mutton at the wedding feast; city banquet halls serve beef regardless.<sup>[2]</sup><sup>[10]</sup>
-
-#### Other prohibitions
-Pork is eaten by Russians, Ukrainians, Koryo-saram and many urban Iradis, but rarely in rural Iradi households, where pigs were not traditionally kept. Muslim Iradis and the Kazakh, Kyrgyz and Uzbek minorities generally avoid it. Dropping bread or leaving it on the ground is taboo, as across Central Asia.<sup>[1]</sup>
-
-## Dairy and mare's milk
-Dairy products are eaten daily in most households:
-- *[[Kymyz (Iradi Beverage)|Kymyz]]*: fermented mare's milk, made from May to September and usually containing 1 to 3 percent alcohol. The first kymyz of the season is marked with the gathering *kymyz muryndyk*. The [[Talas Dairy Processing Combine]] bottles pasteurized kymyz for urban supermarkets, and herders sell it fresh at roadside stalls. Connoisseurs (*kymyzchy*) judge kymyz by its pasture, as wine is judged by its vineyard: the kymyz of the [[Aksay Plateau]], the Suusamyr and the Chatkal valleys each has its following, and purists prefer it fresh from the herders to the bottled kind.
-- *[[Airan (Culinary)|Airan]]*: a cooling drink of fermented sour milk diluted with spring water, often with salt and wild mint.
-- *[[Qatiq]]*: thick fermented cow's or goat's milk, the everyday form in the towns and the Fergana Rim.
-- *[[Süzmö|Suzma]]* (*süzmö*): strained, salted sour milk, eaten with meat and flatbread. Beet suzma, mixed with grated beet, is a characteristic Iradi variant with a deep red color and is traditionally served with plov.
-- *[[Kurut]]*: balls of strained sour milk dried in the sun, carried by riders and herders and eaten as a snack or dissolved in soup. Smoked and flavored kurut is made in the Chatkal valleys.
-- *[[wp:Kaymak]]*: clotted cream, eaten with bread and honey at breakfast.<sup>[11]</sup>
-
-## Cheese
-Cheese (*panyr*, a word of Persian origin; Russian *syr* in Nurzhan) was made in the oasis towns and the Christian valley villages long before the Soviet dairies, and several kinds are local:
-- **Ak panyr** ("white cheese"): a fresh brined cheese of sheep's or cow's milk, sold in slabs at every bazaar and used to fill *eer nan*.
-- **Örmö panyr** ("braided cheese"): strings of stretched curd braided into loops and smoked over juniper, a cheese of the Chatkal valleys sold at roadside stalls beside the smoked *kurut*.
-- **Tulup panyr** ("skin cheese"): crumbled sheep's cheese packed into a cleaned sheepskin and aged through the summer on the high pastures; sharp and salty, eaten with flatbread and raw onion.
-- **Küp panyr** ("jar cheese", from Persian *kūpa*, "jar"): sheep's cheese aged for months in clay jars set in cellars and washed with *sygyndy*. The cave cellars of [[Kyzyl-Senir]] keep it beside the wine.
-- **Khirnou panyry**: a goat's cheese of the [[Tat (Irad)|Tat]] of the [[Khirnou]] valley, pressed in hoops of juniper bark and aged in stone niches in the house walls.
-Mare's milk does not curdle into cheese, and "cheese from a mare" is a saying for something impossible.<sup>[1]</sup><sup>[12]</sup>
-
-## Meat dishes
-
-#### Feast dishes
-- *[[Beshbarmak (Iradi Style)|Beshbarmak]]* ("five fingers"): boiled beef or mountain mutton served on hand-cut flat noodles with onions, followed by the broth *[[Chyk (Culinary)|chyk]]*. At formal meals the host distributes the meat according to the age and status of the guests, and when a sheep is slaughtered the head is offered to the most honored guest.
-- *[[Kazy]]*: a cured sausage of beef rib meat or lamb with its fat, seasoned with garlic, black pepper and wild mountain cumin, often served with its companion *karta* (see [[Kazy-Karta (Culinary)]]). Neighboring peoples make both from horsemeat.
-- *Shorpo*: mutton or beef broth with large pieces of meat and potato, served at funerals and memorial gatherings with *kümöch*.
-- *Arshalangan et* ("juniper-smoked meat"): mutton from a sheep killed for a feast, hung in the smoke of juniper (*arsha*), the incense of the church, before it is boiled. The smoke is said to bless the meat, and the saying "smoked, not offered" sets it apart from sacrifice, which the Church forbids.
-- *Kyamta kazany* ("the Easter cauldron"): lamb braised with tarragon, green cherry plums and *kamra*, eaten at dawn after the Easter vigil to break the Great Fast. Tarragon is called "the green of the Resurrection".<sup>[12]</sup>
-
-#### Iradi plov
-Despite its name, Iradi plov (*Irad paloosu*) is not a plov in the Central Asian sense but a stirred rice dish closer to Italian risotto, and food writers often describe it that way. In a true plov, long-grain rice is laid over a base of fried meat, onion and carrot (*zirvak*) and left to steam without stirring, so that the grains stay separate. Iradi plov is made with the cold-tolerant short-grain rice that Koryo-saram farmers introduced to the lower Chu basin. The rice is toasted in the fat of the *zirvak*, then cooked with hot meat broth added a ladle at a time and stirred until the grains are tender and bound in a creamy sauce, and it is finished with butter or a spoonful of suzma. Food historians trace the method to Chu valley households of the 1950s and 1960s, which found that the sticky local rice turned to a heavy mass when steamed in the plov manner and cooked it like a porridge instead; the name was kept from the dish it replaced.<sup>[13]</sup>
-
-Iradi plov never contains horsemeat. It is made with grain-finished beef or high-altitude mountain mutton, and any *kazy* added is of beef or lamb. It is seasoned with [[Wild Mountain Cumin|wild mountain cumin]] (*zire*, *Bunium persicum*) gathered in the [[Talas Alatau]], often with dried barberries (see [[Tian Shan Barberry]]), and is traditionally served with beet suzma to offset the richness of the meat. It is a household dish, made for Sunday meals, name days and church feasts.<sup>[13]</sup>
-
-Traditional long-grain plov (*özbek paloo* or simply *paloo*) is also widely made in Irad, particularly in the towns and on the Fergana Rim, with yellow carrots, chickpeas and raisins. Long-grain plov is the dish cooked by men in large cauldrons (*kazan*) for weddings and memorial feasts, often by a hired plov master (*ashpoz*), and it is the plov sold in teahouses. Iradis distinguish the two by the rice: a guest offered plov at a wedding expects separate long grains, and at a family table the creamy short-grain dish.<sup>[13]</sup>
-
-#### Everyday and street food
-- *Laghman*: hand-pulled noodles with a sauce of meat and vegetables, a dish of Uyghur and Dungan origin.
-- *[[wp:Manti (food)|Manty]]*: large steamed dumplings filled with chopped mutton or beef and onion.
-- *[[wp:Samsa (food)|Samsa]]*: baked pastries filled with meat and onion, sold from tandoor ovens in bazaars.
-- *[[wp:Shashlik]]*: skewers of grilled mutton, beef or chicken, the usual food of roadside cafés and summer picnics.
-- *[[wp:Kuurdak]]*: fried meat and offal with onions, a dish of the herding camps.
-- *Tuyak* ("hoof"): a broth of cattle or sheep's feet simmered overnight and eaten early on winter mornings with crushed garlic, dissolved *kurut* and a glass of *sygyndy* or vodka, by men after night shifts and as a cure after weddings.<sup>[12]</sup>
-
-## Bread and pastry
-Bread is treated with respect: it is broken by hand rather than cut at ceremonial meals and is never thrown away. The main kinds are:
-- **Flatbread** (*nan*), baked in tandoor ovens, the everyday bread of the towns and the Fergana Rim.
-- *Kümöch*: an unleavened wheat bread made from flour, water and salt and baked over embers. Consecrated, it is the Eucharistic bread of the [[Syro-Iradi Catholic Church]]; unconsecrated loaves are baked at home for weddings, baptisms, memorial gatherings and major feasts, and blessed loaves are distributed to pilgrims at the [[Feast of St. Janyl]]. Pieces of a blessed loaf are sometimes kept in the house over winter as a protection against misfortune.
-- *[[Boorsok (Culinary)|Boorsok]]*: pieces of dough fried in mutton fat, heaped on the cloth at weddings and memorial meals. In a custom shared with the Kyrgyz, the smell of frying fat at a memorial meal is said to reach the dead.
-- **Mother leaven** (*ene achytky*): highland and Chatkal families keep a sourdough said to descend from the church's *malka*, refreshed each Holy Thursday (*Achytky Beyshembi*) with a pinch of dough from the parish. Brides bring it from their mothers' houses. Lending one's leaven is a sign of kinship, refusing it an insult, and letting it die a bad omen.
-- *Eer nan* ("saddle bread"): a boat of yeast dough shaped like a saddle and filled with *ak panyr*, with an egg yolk and butter set in its seat as it comes out of the oven. The round everyday version sold in bazaars is *panyrduu nan*, "cheese bread".
-- *At nan* ("horse bread"): small loaves shaped as horses, baked for children on name days (*at* means both "horse" and "name") and on the feasts of the White Rider ([[Chabandoz Künü]]).
-- **Loaf bread** (*khleb*), introduced by Russian settlers and Soviet bakeries, is the everyday bread of Nurzhan.<sup>[4]</sup><sup>[14]</sup>
-
-## Korean, Russian and other influences
-The Koryo-saram community has contributed several dishes that are now eaten across the ISEZ:
-- **Koryoin laghman**, a version of laghman made with sesame and kimchi;
-- *morkovcha*, a spicy carrot salad, and other Korean-style salads sold in bazaars;
-- *kuksi*, cold noodles in broth, a summer dish in Nurzhan.
-
-Dishes of Russian and Soviet origin, such as borscht, pelmeni, *olivier* salad and buckwheat porridge, remain common, especially in Nurzhan and among the Russian-speaking generation known as the [[Russos of Nurzhan|Russos]]. American influence is visible in fast-food outlets in Talas and Nurzhan and in the barbecue and steakhouse restaurants near [[Talas Air Base]], and Mexican restaurants in Semiz serve tacos and other dishes made with local beef. The district's own street food is *nan tako*: grilled beef folded into tandoor flatbread with a salsa of beet suzma and chiles from Semiz gardens, whose small hot *Semiz kalempir* pepper has found its way into Iradi pickles.<sup>[6]</sup><sup>[7]</sup>
-
-## Fish, fruit and wild foods
-Fish is a minor part of the diet. Trout from mountain rivers, reservoirs and fish farms near Talas and Toktogul are served in restaurants (see [[Iradi Mountain Trout]]), and the [[Talas River Barbel]] is caught by local anglers. Along [[Fergana Mountain Transit Highway|State Route 1]] beside the [[Toktogul Hydroelectric Complex|Toktogul reservoir]], sellers wave strings of smoked reservoir fish at passing lorries.<sup>[15]</sup>
-
-Fruit and nuts are more important. Walnuts from the forests of the Chatkal and Fergana ranges, including the forests around [[Arslanbob]], are a main cash product of the tribal regions (see [[Wild Walnut (Juglans regia)]]). Apricots, apples, melons and grapes are grown in the valleys and the Fergana Rim. Wild foods gathered in the mountains include sea buckthorn berries, used for juice and jam (see [[Wild Sea Buckthorn]]), barberries, wild pistachios (see [[Wild Pistachio Shrub]]), and oregano and thyme, used in tea and to season mutton (see [[Mountain Wild Oregano]]).<sup>[15]</sup>
-
-Fruit is preserved whole in syrup as *murabba*: apricots with their kernels, quinces, wild apples, sea buckthorn, rose petals and, most prized, green walnuts picked on the night of [[Yuhanna Tünü]], which take weeks of soaking and slow boiling. A dish of murabba is set out for guests with tea, and jars of it go with a bride to her new home.<sup>[12]</sup>
-
-## Drinks
-Tea is the everyday drink. Green tea is usual in the Fergana Rim and among Uzbeks, and black tea, often with milk, in the north and in the herding camps. *Kymyz* and *airan* are the main summer drinks of the pastures. *Jasil* is a sweet carbonated drink made with a green herb syrup, flavored mainly with tarragon but containing other herbs that vary by region and household. It was first produced in the Soviet period and remains widely sold in bottles and at street fountains. Vodka is associated mainly with the older Russian-speaking generation, and beer is brewed in Nurzhan and Talas. Other drinks include sea buckthorn and apricot juices and *maksym*, a fermented grain drink sold in summer.<sup>[16]</sup>
-
-Wine (*sharap*) is made mainly on the Fergana Rim. The Church's sacramental wine, *[[Kamra (Wine)|kamra]]* (from Syriac *khamra*, "wine"), is a sweet dark red made at [[Kyzyl-Senir]], where wine has been fermented since the Middle Ages in clay jars (*küp*) buried in the ground and set in caves in the red cliffs (*[[Kömmö (Wine)|kömmö]]*, "buried" wine). The skins and pips left in the jars are distilled into *[[Sygyndy|sygyndy]]*, a clear grape brandy of 45 to 60 percent made in licensed cellars and village stills and drunk at toasts in the south. *[[Yuhanna Jangagy]]* is a dark liqueur of green walnuts picked on the night of Yuhanna Tünü and opened at Christmas.<sup>[19]</sup><sup>[20]</sup>
-
-## Meals and customs
-Meals are served on a cloth (*dastorkon*) spread on a low table or on the floor of a yurt, laid with bread, sweets, dried fruit, nuts and *boorsok* before the main dishes arrive. Guests are seated in the place of honor facing the door. Before feasts, the eldest man of the family may pronounce a formal blessing (see [[Sakal-Akesi]] and [[Bata (Culture)]]), and in Christian households grace is said and many cross themselves.<sup>[17]</sup>
-
-Festive occasions and their typical foods include:
-- **Weddings and memorial feasts**: beshbarmak or plov, *boorsok*, *kümöch* and *kymyz*.
-- **Irad Day** (11 March): family feasts of mutton and beef, and food stalls at the [[Irad State Hippodrome]]; no horsemeat is served.
-- **Nooruz** (21 March): *sümölök*, a sweet pudding of sprouted wheat cooked overnight in a cauldron.
-- **Feast of St. Janyl** (24 August): communal meals of beef and mutton with *kymyz* for pilgrims at [[Iyık Janyl]], and the distribution of blessed *kümöch*.
-- **Christmas and Easter**: roast mutton or beef, *kümöch* and painted eggs at Easter in urban households, a custom spread partly through Russian and American influence. In the villages Easter eggs are dyed brown with walnut husks or onion skins and knocked together after the liturgy (*jumurtka chokush*, "egg-knocking"); the owner of the last unbroken egg takes the cracked ones. *Kyamta kazany* breaks the fast at dawn.
-- **Yuhanna Tünü** (23–24 June): green walnuts are picked by the bonfires for liqueur and *murabba*.<sup>[18]</sup>
+#### Since 2007
+The [[Second Iradi Civil War]] of 2007 left the countryside short of food through the following winter, when relief rations were handed out under the eye of the newly arrived [[United Nations Mission in Irad]]. Families cooked them into *[[Kök Kaska|kök kaska]]* ("blue helmet"), a stew of tinned beef, noodles of aid flour, beans and tomato paste, which is now made for nostalgia. Since then supermarket chains such as [[Bereke]] and [[Jıldız Market]] have spread across the ISEZ, while trade across the [[Qara-Chik Demarcation Line]] decides what reaches the tribal side and in what season.<sup>[7]</sup><sup>[21]</sup>
 
 ## Regional cuisines
-Iradi cooks and food writers usually distinguish five regional cuisines. Their borders follow the old cultural regions more than the [[Qara-Chik Demarcation Line]], although trade across the line decides what reaches the tribal side and in what season.<sup>[1]</sup><sup>[12]</sup>
+Iradi cooks and food writers usually distinguish five regional cuisines. Their borders follow the old cultural regions more than the demarcation line.<sup>[1]</sup><sup>[12]</sup>
 
 #### Bakcha tamagy (the south)
-*Bakcha tamagy* ("orchard food") is the cooking of the Fergana Rim, the Lower Naryn farm belt and [[Iyık Janyl]], where Christian villages live beside Uzbek-speaking and Muslim neighbours and shrines such as Arslanbob-Ata are shared. Its base is the oasis kitchen of rice, tandoor bread, vegetables and fruit, with the church calendar laid over it. It is the home of long-grain cauldron plov (*özbek paloo*) cooked by a hired *ashpoz* for weddings and memorials, of samsa and *nan* from the tandoor, laghman and manty, green tea in the teahouse and *qatiq*. Fruit and nuts lead: apricots, grapes, melons and walnuts, *murabba*, and the fast dishes of *savma tamak*, such as walnut *pashtet* and dried-apricot soup. It is also the wine country, with *kömmö*, the church wine *kamra* and the brandy *sygyndy* from [[Kyzyl-Senir]], and *küp panyr* aged in jars. Christians and Muslims share most dishes, and at mixed tables the meat is bought from a Muslim butcher so that everyone can eat it. The pilgrims' meals and blessed *kümöch* of the [[Feast of St. Janyl]] belong to this region.<sup>[1]</sup><sup>[19]</sup>
+{{Main|Bakcha Tamagy}}
+*[[Bakcha Tamagy|Bakcha tamagy]]* ("orchard food") is the cooking of the Fergana Rim, the Lower Naryn farm belt and [[Iyık Janyl]], where Christian villages live beside Uzbek-speaking and Muslim neighbours. Its base is the oasis kitchen of rice, tandoor bread, vegetables and fruit, with the church calendar laid over it: long-grain cauldron plov, samsa, laghman and manty, green tea and *qatiq*, apricots, grapes, melons and walnuts, *murabba*, and the fast dishes of *savma tamak*. It is also the wine country of [[Kyzyl-Senir]]. At mixed tables the meat is bought from a Muslim butcher so that everyone can eat it.<sup>[1]</sup><sup>[19]</sup>
 
 #### Jayloo tamagy (the mountains)
-*Jayloo tamagy* ("summer-pasture food") is the herders' cooking of the Talas Alatau, the [[Chatkal Range|Chatkal]] valleys and the Toktogul–Naryn basin. It is the closest to the Kyrgyz kitchen, built on mutton, milk and bread, and the most churchly. Meat is boiled rather than fried: beshbarmak of mountain mutton followed by the broth *chyk*, *shorpo*, *kuurdak* in the camps, and feast mutton smoked over juniper (*arshalangan et*). Weddings here serve mutton only. Dairy is eaten at every meal: *kymyz*, judged by its pasture, *airan*, *kaymak*, *kurut* (smoked in the Chatkal) and the cheeses *örmö panyr* and *tulup panyr*. The bread is the church's: *kümöch*, *boorsok*, *at nan* for name days and the family leaven (*ene achytky*) kept from the *malka*. Black tea with milk, wild thyme and oregano, sea buckthorn, barberries and mountain cumin come from the slopes, and trout and smoked fish from the rivers and the Toktogul reservoir. The [[Tat (Irad)|Tat]] of the [[Khirnou]] valley add their goat's cheese and the fire customs of their hearths, which forbid blowing out a flame or pouring water on the fire.<sup>[1]</sup><sup>[15]</sup>
+{{Main|Jayloo Tamagy}}
+*[[Jayloo Tamagy|Jayloo tamagy]]* ("summer-pasture food") is the herders' cooking of the Talas Alatau, the [[Chatkal Range|Chatkal]] valleys and the Toktogul–Naryn basin, together with the [[Tat (Irad)|Tat]] of the [[Khirnou]] valley. It is the closest to the Kyrgyz kitchen and the most churchly: boiled mutton, milk at every meal, *kymyz* judged by its pasture, mountain cheeses, church bread and the family leaven, black tea with milk, and herbs and berries from the slopes. Weddings here serve mutton only.<sup>[1]</sup><sup>[15]</sup>
 
 #### Talaa tamagy (the steppe and the Karatau)
-*Talaa tamagy* ("steppe food") is the cooking of the Northern Steppe clans of the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland, and of the Karatau. It is the most Kazakh of the regional cuisines, with long migrations and thin settlement leaving few vegetables and little bread. Meat is boiled in large pieces with broad noodles in the Kazakh manner and served with the broth *sorpa*; fried dough is made in the Kazakh shape, and strong black tea is drunk with milk and salt. Camels are kept on the Betpak-Dala, and their milk is drunk fermented as *shubat*. Where Kazakh neighbours make sausage of horsemeat, steppe Iradis make *töö kazy* of camel meat.<sup>[1]</sup>
-
-The *Eski El* of the Karatau keep a stranger table, which other Iradis find uncanny. At springs on the Rider's day they cook a white lamb with hot stones inside its own skin (*[[Tash Kozu]]*), and in spring they make a broth of steppe tortoises (*[[Tash Baka Shorpo]]*).<sup>[22]</sup>
+{{Main|Talaa Tamagy}}
+*[[Talaa Tamagy|Talaa tamagy]]* ("steppe food") is the cooking of the Northern Steppe clans of the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland, and of the Karatau. It is the most Kazakh of the five: meat boiled in large pieces with broad noodles and the broth *sorpa*, fried dough in the Kazakh shape, black tea with milk and salt, fermented camel's milk (*shubat*), and sausage of camel meat (*töö kazy*) where Kazakh neighbours use horse. The *Eski El* of the Karatau keep a stranger table, with a white lamb cooked with hot stones inside its own skin (*[[Tash Kozu|tash kozu]]*) and a spring broth of steppe tortoises (*[[Tash Baka Shorpo|tash baka shorpo]]*).<sup>[1]</sup><sup>[22]</sup>
 
 #### Kobozev tamagy (the Russos)
-*Kobozev tamagy*, named after the Soviet name of [[Nurzhan]], is the Russian and Ukrainian cooking of Nurzhan, the Chu lowlands and the railway towns, kept by the [[Russos of Nurzhan|Russos]]. It came with the Slavic settlers and the Soviet canteens: loaf bread (*khleb*), borscht, pelmeni and *vareniki*, *olivier* salad and buckwheat porridge, cured pork fat (*salo*), the meat jelly *kholodets*, pickles, kefir and sour cream, *kvas* in summer and vodka at every table. Ukrainian families bake the Easter bread *paska* and paint Easter eggs. The Koryo-saram of the Chu lowlands added their own strand: cold-tolerant short-grain rice, *morkovcha* and other Korean salads, *kuksi* and Koryoin laghman. Men coming off night shifts at the oil fields eat *tuyak*, and some Nurzhan cafés serve *kök kaska* in the tin bowls of 2007.<sup>[5]</sup><sup>[6]</sup>
+{{Main|Kobozev Tamagy}}
+*[[Kobozev Tamagy|Kobozev tamagy]]*, named after the Soviet name of Nurzhan, is the Russian and Ukrainian cooking of Nurzhan, the Chu lowlands and the railway towns, kept by the [[Russos of Nurzhan|Russos]]: loaf bread, borscht, pelmeni and *vareniki*, *olivier* salad, buckwheat, *salo*, *kholodets*, pickles, *kvas* and vodka, with the Koryo-saram strand of short-grain rice, Korean salads and *kuksi*.<sup>[5]</sup><sup>[6]</sup>
 
 #### Talas kazany (the Talas valley)
-*Talas kazany* ("the Talas cauldron") is the cooking of [[Talas]] and the Talas and Kara-Buura valleys, the melting pot into which the other four flow. Grain-finished beef from the plants opened in the 1990s and the old [[Aulie-Ata]] cattle made beef its main festive meat, and its signature dish is the creamy short-grain Iradi plov, which arose in Chu valley homes but became the household dish of the capital, served with beet suzma. The Mexican community of [[Semiz]] gave it yellow "Talas tortillas", beef tacos and *nan tako*, and the air base American steakhouses and fast food. Bazaars in the city sell the produce of every region: fruit from the south, kymyz and cheese from the pastures, Korean salads from Nurzhan. *Eer nan*, the saddle-shaped cheese bread, *Kyamta kazany* at Easter, *jasil* from street fountains and bottled kymyz from the [[Talas Dairy Processing Combine]] are all Talas staples.<sup>[7]</sup><sup>[13]</sup>
+{{Main|Talas Kazany}}
+*[[Talas Kazany|Talas kazany]]* ("the Talas cauldron") is the cooking of [[Talas]] and the Talas and Kara-Buura valleys, the melting pot into which the other four flow. Beef is its main festive meat, Iradi plov with beet suzma its household dish, and the Mexican community of Semiz and the American air base have added tortillas, tacos, *[[Nan Tako|nan tako]]*, steakhouses and fast food.<sup>[7]</sup><sup>[13]</sup>
+
+## Ingredients
+
+#### Meat
+Beef and mutton are the main meats. Grain-finished beef from the Talas plants and the local [[Aulie-Ata]] cattle dominate in the cities and the plains; mountain mutton, valued for its flavour, dominates in the highlands and at rural feasts. Goat is eaten in the mountains, camel on the steppe and chicken everywhere. Pork is eaten by Russians, Ukrainians, Koryo-saram and many urban Iradis but rarely in rural Iradi households, and Muslim Iradis and the Kazakh, Kyrgyz and Uzbek minorities avoid it. Horsemeat is not eaten (see Food and religion below).<sup>[1]</sup><sup>[7]</sup>
+
+#### Grains and rice
+Wheat is the staple grain, eaten as bread, noodles and dumplings, and sprouted for the Nooruz pudding *[[Sümölök|sümölök]]*. Two kinds of rice are used: the cold-tolerant short-grain rice of the lower Chu basin for Iradi plov, and long-grain rice brought from the Fergana Valley for *özbek paloo*. Buckwheat came with the Russians, and yellow dent maize, grown for feed since the 1950s, gives the yellow colour of the "Talas tortillas" made in Semiz.<sup>[6]</sup><sup>[7]</sup>
+
+#### Fruit, nuts and wild plants
+Walnuts from the forests of the Chatkal and Fergana ranges, including the forests around [[Arslanbob]], are a main cash product of the tribal regions (see [[Wild Walnut (Juglans regia)]]). Apricots, apples, quinces, melons and grapes are grown in the valleys and the Fergana Rim. Wild foods gathered in the mountains include sea buckthorn berries for juice and jam (see [[Wild Sea Buckthorn]]), barberries, wild pistachios (see [[Wild Pistachio Shrub]]) and the wild apple.<sup>[15]</sup>
+
+#### Herbs and spices
+Iradi cooking is lightly spiced. The characteristic seasonings are [[Wild Mountain Cumin|wild mountain cumin]] (*zire*, *Bunium persicum*) gathered in the [[Talas Alatau]], dried barberries (see [[Tian Shan Barberry]]), black pepper and garlic. Wild oregano and thyme season mutton and go into tea (see [[Mountain Wild Oregano]]); tarragon flavours *jasil* and the Easter lamb; dill and parsley came with Russian cooking; and the small hot *Semiz kalempir* pepper, grown by the Mexican community, has entered Iradi pickles.<sup>[13]</sup><sup>[15]</sup>
+
+#### Fish
+Fish is a minor part of the diet. Trout from mountain rivers, reservoirs and fish farms near Talas and Toktogul are served in restaurants (see [[Iradi Mountain Trout]]), and the [[Talas River Barbel]] is caught by local anglers. Along [[Fergana Mountain Transit Highway|State Route 1]] beside the [[Toktogul Hydroelectric Complex|Toktogul reservoir]], sellers wave strings of smoked reservoir fish at passing lorries.<sup>[15]</sup>
+
+## Dishes
+
+#### Soups and broths
+- *Shorpo*: mutton or beef broth with large pieces of meat and potato, served at funerals and memorial gatherings with *kümöch*. The steppe form is called *sorpa*.
+- *[[Chyk (Culinary)|Chyk]]*: the onion broth served after beshbarmak.
+- *[[Tuyak]]* ("hoof"): a broth of cattle or sheep's feet simmered overnight and eaten early on winter mornings with garlic and dissolved *kurut*, by men after night shifts and as a cure after weddings.
+- Borscht and other Russian and Ukrainian soups in Nurzhan, *kuksi* (cold Korean noodle soup) in summer, and soup of dried apricots and rice during the fasts.<sup>[12]</sup>
+
+#### Meat dishes
+- *[[Beshbarmak (Iradi Style)|Beshbarmak]]* ("five fingers"): boiled beef or mountain mutton served on hand-cut flat noodles with onions, the national feast dish. At formal meals the host distributes the meat according to the age and status of the guests, and when a sheep is slaughtered the head is offered to the most honoured guest.
+- *[[Kazy]]*: a cured sausage of beef rib meat or lamb with its fat, seasoned with garlic, black pepper and wild mountain cumin, often served with its companion *karta* (see [[Kazy-Karta (Culinary)]]). Neighbouring peoples make both from horsemeat.
+- *[[Arshalangan Et|Arshalangan et]]* ("juniper-smoked meat"): feast mutton hung in juniper smoke before it is boiled.
+- *[[Kyamta Kazany|Kyamta kazany]]* ("the Easter cauldron"): lamb braised with tarragon, green cherry plums and *kamra*, eaten at dawn after the Easter vigil.
+- *[[wp:Kuurdak]]*: fried meat and offal with onions, a dish of the herding camps.
+- *[[wp:Shashlik]]*: skewers of grilled mutton, beef or chicken, the food of roadside cafés and summer picnics.<sup>[12]</sup>
+
+#### Rice and noodle dishes
+{{Main|Iradi Plov}}
+Iradi plov (*Irad paloosu*) is the best-known Iradi dish. Despite its name it is a stirred rice dish closer to Italian risotto: short-grain rice is toasted in the fat of the *zirvak* (meat, onion and carrot), cooked with hot broth added a ladle at a time and stirred until creamy, finished with butter or suzma, seasoned with mountain cumin and barberries and served with beet suzma. It is a household dish for Sundays, name days and church feasts. The long-grain plov of the neighbouring peoples, *özbek paloo*, is cooked by men in large cauldrons for weddings and memorial feasts, often by a hired plov master (*ashpoz*), and sold in teahouses; a guest offered plov at a wedding expects separate long grains, and at a family table the creamy short-grain dish.<sup>[13]</sup>
+
+Noodle dishes include hand-pulled *laghman* with a sauce of meat and vegetables, a dish of Uyghur and Dungan origin, and its Korean variant **Koryoin laghman**, made with sesame and kimchi.<sup>[6]</sup>
+
+#### Dumplings and pastries
+- *[[wp:Manti (food)|Manty]]*: large steamed dumplings of chopped mutton or beef and onion; pumpkin *manty* are made during fasts.
+- *[[wp:Samsa (food)|Samsa]]*: baked pastries of meat and onion, sold from tandoor ovens in bazaars.
+- Pelmeni and *vareniki*, the Russian and Ukrainian dumplings of Nurzhan.<sup>[12]</sup>
+
+#### Bread
+Bread is treated with respect: it is broken by hand rather than cut at ceremonial meals, never thrown away and never left on the ground, and a promise made over bread is binding.
+- **Flatbread** (*nan*), baked in tandoor ovens, the everyday bread of the towns and the Fergana Rim.
+- *[[Kümöch Sacramental Bread|Kümöch]]*: an unleavened wheat bread of flour, water and salt baked over embers. Consecrated, it is the Eucharistic bread of the Syro-Iradi Church; unconsecrated loaves are baked at home for weddings, baptisms, memorial gatherings and feasts, and pieces of a blessed loaf are kept in the house over winter against misfortune.
+- *[[Boorsok (Culinary)|Boorsok]]*: pieces of dough fried in mutton fat, heaped on the cloth at weddings and memorial meals, where the smell of frying fat is said to reach the dead.
+- *[[Eer Nan|Eer nan]]* ("saddle bread"): a saddle-shaped boat of yeast dough filled with white cheese, with an egg yolk and butter set in its seat; the round bazaar version is *panyrduu nan*, "cheese bread".
+- *[[At Nan|At nan]]* ("horse bread"): small horse-shaped loaves baked for children on name days and on the feasts of the White Rider.
+- **Loaf bread** (*khleb*), introduced by Russian settlers and Soviet bakeries, the everyday bread of Nurzhan.
+Highland and Chatkal families bake with a sourdough, the *[[Ene Achytky|ene achytky]]* ("mother leaven"), said to descend from the church's holy leaven.<sup>[4]</sup><sup>[14]</sup>
+
+#### Dairy products
+Dairy products are eaten daily in most households:
+- *[[Kymyz (Iradi Beverage)|Kymyz]]*: fermented mare's milk (see Beverages below).
+- *[[Airan (Culinary)|Airan]]*: a cooling drink of fermented sour milk diluted with spring water, often with salt and wild mint.
+- *[[Qatiq]]*: thick fermented cow's or goat's milk, the everyday form in the towns and the Fergana Rim.
+- *[[Süzmö|Suzma]]* (*süzmö*): strained, salted sour milk, eaten with meat and flatbread. **Beet suzma**, mixed with grated beet, is a characteristic Iradi variant with a deep red colour, served with plov.
+- *[[Kurut]]*: balls of strained sour milk dried in the sun, carried by riders and herders as a snack or dissolved in soup; smoked kurut is made in the Chatkal valleys.
+- *[[wp:Kaymak]]*: clotted cream, eaten with bread and honey at breakfast.<sup>[11]</sup>
+
+#### Cheese
+{{Main|Iradi Cheese}}
+Cheese (*panyr*, a word of Persian origin; Russian *syr* in Nurzhan) was made in the oasis towns and the Christian valley villages long before the Soviet dairies. Mare's milk does not curdle into cheese, and "cheese from a mare" is a saying for something impossible.<sup>[1]</sup><sup>[12]</sup>
+
+| Cheese | Milk | Region | Description |
+|---|---|---|---|
+| *Ak panyr* ("white cheese") | Sheep or cow | Everywhere | Fresh brined cheese sold in slabs at every bazaar; the filling of *eer nan* |
+| *Örmö panyr* ("braided cheese") | Cow or sheep | Chatkal valleys | Strings of stretched curd braided into loops and smoked over juniper |
+| *Tulup panyr* ("skin cheese") | Sheep | High pastures | Crumbled cheese packed into a sheepskin and aged through the summer; sharp and salty |
+| *Küp panyr* ("jar cheese") | Sheep | Fergana Rim | Aged for months in clay jars in cellars and washed with *sygyndy*; made in the caves of [[Kyzyl-Senir]] |
+| *Khirnou panyry* | Goat | [[Khirnou]] valley | The [[Tat (Irad)|Tat]] cheese, pressed in hoops of juniper bark and aged in stone niches |
+
+#### Salads and pickles
+Korean-style salads, above all the spicy carrot salad *[[Morkovcha|morkovcha]]*, are sold in every bazaar. Russian *olivier* salad is a fixture of New Year and birthday tables. Cucumbers, tomatoes, cabbage and peppers are pickled for the winter, and raw onion, tomato and herbs are served with meat. In Semiz, a salsa of beet suzma and chiles goes into *[[Nan Tako|nan tako]]*.<sup>[6]</sup><sup>[7]</sup>
+
+#### Sweets and preserves
+Fruit is preserved whole in syrup as *[[Murabba|murabba]]*: apricots with their kernels, quinces, wild apples, sea buckthorn, rose petals and, most prized, green walnuts picked on the night of [[Yuhanna Tünü]]. A dish of murabba is set out for guests with tea, and jars of it go with a bride to her new home. The cloth is also laid with dried apricots and raisins, walnuts, honey and *kaymak*, and with *boorsok*. *Sümölök*, a sweet pudding of sprouted wheat cooked overnight, is made for Nooruz.<sup>[12]</sup>
+
+#### Street food
+Bazaars and roadside stalls sell samsa from the tandoor, shashlik, *manty* and *laghman*. In Talas the Mexican community added tacos made with "Talas tortillas" of yellow maize and *nan tako*, grilled beef folded into tandoor flatbread. Fresh *kymyz* is sold from roadside stalls in summer, *jasil* from street fountains, and smoked fish on the road past the Toktogul reservoir.<sup>[7]</sup><sup>[16]</sup>
+
+## Beverages
+
+#### Tea
+Tea is the everyday drink and is offered to every guest. Green tea is usual on the Fergana Rim and among Uzbeks, and black tea, often with milk, in the north and in the herding camps; steppe herders add salt. Tea is poured in small amounts into bowls (*piyala*) and refilled often, and the teahouse (*chaikhana*) remains a meeting place for men in the southern towns.<sup>[17]</sup>
+
+#### Dairy drinks
+*[[Kymyz (Iradi Beverage)|Kymyz]]*, fermented mare's milk containing 1 to 3 percent alcohol, is made from May to September, and the first kymyz of the season is marked with the gathering *kymyz muryndyk*. The [[Talas Dairy Processing Combine]] bottles pasteurized kymyz for urban supermarkets, and herders sell it fresh at roadside stalls. Connoisseurs (*kymyzchy*) judge it by its pasture, as wine is judged by its vineyard: the kymyz of the [[Aksay Plateau]], the Suusamyr and the Chatkal valleys each has its following, and purists prefer it fresh to the bottled kind. *Airan* is the other summer drink of the pastures, and steppe herders drink fermented camel's milk (*shubat*).<sup>[1]</sup><sup>[11]</sup>
+
+#### Soft drinks
+{{Main|Jasil}}
+*Jasil* is a sweet, bright green carbonated drink made with an herb syrup, flavoured mainly with tarragon but with other herbs that vary by region and household. First produced in the Soviet period, it is sold in bottles and from street fountains. Other drinks include sea buckthorn and apricot juices, *[[Maksym|maksym]]*, a fermented grain drink sold in summer, and the Russian bread drink *kvas*.<sup>[16]</sup>
+
+#### Alcoholic drinks
+Wine (*sharap*) is made mainly on the Fergana Rim. The Church's sacramental wine, *[[Kamra (Wine)|kamra]]* (from Syriac *khamra*, "wine"), is a sweet dark red made at [[Kyzyl-Senir]], where wine has been fermented since the Middle Ages in clay jars (*küp*) buried in the ground and set in caves in the red cliffs (*[[Kömmö (Wine)|kömmö]]*, "buried" wine). The skins and pips left in the jars are distilled into *[[Sygyndy|sygyndy]]*, a clear grape brandy of 45 to 60 percent, drunk at toasts in the south. *[[Yuhanna Jangagy]]* is a dark liqueur of green walnuts picked on the night of Yuhanna Tünü and opened at Christmas.<sup>[19]</sup><sup>[20]</sup>
+
+Vodka arrived with the Russians and is still the drink of memorial meals, of older men and of Nurzhan; beer, brewed in Nurzhan and Talas and led by [[Aigyr Lager]], is the drink of young city people. *Kymyz* is barely counted as alcohol.<sup>[8]</sup>
+
+## Food and religion
+
+#### Horsemeat
+{{Main|Iradi Horsemeat Taboo}}
+Eating horsemeat carries a stigma that Iradi writers and foreign observers often compare with Western attitudes to eating dog. Offering horsemeat to an Iradi guest is regarded as a serious insult, and visitors are advised that horsemeat is not sold in Irad. Many Iradis regard it as a barbarous "Muslim" food. Ethnographers describe this view as a popular prejudice: horsemeat dishes such as *kazy* and *chuchuk* belong to the pastoral heritage of the Kazakhs and Kyrgyz regardless of religion, the [[wp:Hanafi school|Hanafi]] jurists of Central Asia historically classed horsemeat as disapproved, and most Iradi Muslims observe the same taboo as their Christian neighbours. Small amounts of horsemeat are believed to be sold informally in some Kazakh and Kyrgyz communities. The taboo does not extend to the products of living mares.<sup>[8]</sup><sup>[9]</sup>
+
+#### Cattle
+Cattle are not taboo. Plains Iradis of the Talas, Chu and [[Kara-Buura]] valleys have long kept them, while highland Iradis keep sheep and goats. Commercial cattle breeding arrived with the Soviet Virgin Lands campaign, whose beef state farms were worked mainly by Slavic and Korean settlers, and a saying held that "cattle are for the settlers". A minor superstition, comparable to the European one about black cats, treats cattle as unlucky; it is usually voiced by grandmothers, as in the saying that seeing a cow before a horse in the morning brings a bad day, and folklorists trace it to [[Morkhan (Mythology)|Morkhan]], a bull-headed god of pre-Christian belief whom church tradition identifies with Satan. Because cattle are kept out of sight at a wedding, highland and old Talas families serve only mutton at the wedding feast; city banquet halls serve beef regardless.<sup>[2]</sup><sup>[10]</sup>
+
+#### Fasts
+The Syro-Iradi Church keeps the Great Fast (*Uluu Savma*) before Easter, the three-day Rogation of the Ninevites and fasts on Wednesdays and Fridays, when meat, milk and eggs are not eaten. Fast food (*[[Savma Tamak|savma tamak]]*) includes walnut *pashtet*, soups of dried apricots and rice, lentils, pumpkin *manty* and *boorsok* fried in sunflower oil, and supermarkets set out fast shelves.<sup>[4]</sup>
+
+#### Blessing and sacrifice
+The Church rejects animal sacrifice as pagan or Muslim, and offerings are made with milk, *kymyz* and juniper smoke. A sheep killed for a feast is food, not an offering, and in the mountains its meat is smoked over juniper (*arsha*), the incense of the church, before it is boiled, under the saying "smoked, not offered". The Karatau *Eski El*, whose white lamb of the Rider's day other Iradis regard as a sacrifice, are the exception.<sup>[2]</sup><sup>[22]</sup>
+
+#### Festive foods
+Typical foods of the main feasts and family occasions:<sup>[18]</sup>
+
+| Occasion | Date | Foods |
+|---|---|---|
+| Christmas | 25 December | Roast mutton or beef, *kümöch*; *Yuhanna jangagy* opened |
+| Irad Day | 11 March | Family feasts of mutton and beef; food stalls at the [[Irad State Hippodrome]], with no horsemeat |
+| Nooruz | 21 March | *Sümölök* cooked overnight in a cauldron |
+| Easter (*Kyamta*) | Movable | *Kyamta kazany* at dawn after the vigil; eggs dyed with walnut husks or onion skins and knocked together (*jumurtka chokush*); painted eggs and *paska* in the towns; *kamra* |
+| Name days | Saint's feast | *Boorsok*, *kümöch*, *at nan* for children |
+| Yuhanna Tünü | 23–24 June | Green walnuts picked by the bonfires for liqueur and *murabba* |
+| Feast of St. Janyl | 24 August | Communal beef and mutton with *kymyz* for pilgrims at Iyık Janyl; blessed *kümöch* |
+| Weddings (*toi*) and memorials | — | Beshbarmak or *özbek paloo*, *boorsok*, *kümöch*, *kymyz*; mutton only at highland weddings |
+
+## Dining customs
+{{Main|Dastorkon}}
+Meals are served on a cloth (*dastorkon*) spread on a low table or on the floor of a yurt, laid with bread, sweets, dried fruit, nuts and *boorsok* before the main dishes arrive. Guests are seated in the place of honour (*tör*) facing the door, and the seating follows age. Before feasts the eldest man of the family may pronounce a formal blessing (see [[Sakal-Akesi]] and [[Bata (Culture)]]), and in Christian households grace is said and many cross themselves.<sup>[17]</sup>
+
+At a wedding or memorial a toastmaster, the *[[Sözchü|sözchü]]*, leads the toasts in a fixed order, beginning with God and the White Rider; the drink is *kymyz* in the tribal regions, brandy or vodka in the cities, and tea among Evangelicals and many Muslims. A guest is never allowed to leave hungry, and hospitality to strangers is a point of honour.<sup>[17]</sup>
+
+## Eating out and the food industry
+Teahouses serve plov, laghman, samsa and tea in the towns of the south, and Soviet-style canteens (*stolovaya*) survive in Nurzhan and at workplaces. KFC Irad has branches in Talas and Nurzhan, and the restaurants near [[Talas Air Base]] serve American barbecue and steaks. Food processing is led by the beef plants of SuKarne and Conagra, the [[Talas Dairy Processing Combine]] and the breweries of Talas and Nurzhan, and the [[St. Teresa Community Kitchen]] feeds the poor of Talas.<sup>[7]</sup>
 
 ## See also
 - [[Culture of Irad]]

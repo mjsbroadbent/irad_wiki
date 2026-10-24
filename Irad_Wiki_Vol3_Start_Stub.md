@@ -15559,7 +15559,7 @@ The cellar supplies every Syro-Iradi parish. Before Easter it also sells kamra t
 [[Category:Iradi cuisine]]
 
 #### 727. Kömmö (Wine)
-*Quality: Start | Category: Culture & Folklore*
+*Quality: Start-Class | Category: Culture & Folklore*
 
 **Kömmö** (Iradi, "buried") is the traditional Iradi method of making wine in large clay jars (*küp*) buried to the neck in the ground or set in caves, and the wine made by it. Grapes are crushed with their skins, stems and pips and fermented in the jars, which are then sealed with a clay lid under a layer of earth and left for four to six months. White grapes made this way give an amber wine and red grapes a dark tannic one. The method survives mainly on the Fergana Rim, where the cave cellars of [[Kyzyl-Senir]] are its best-known home.<sup>[1]</sup><sup>[2]</sup>
 
@@ -15699,3 +15699,334 @@ The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title 
 {{Irad-culture-stub}}
 
 [[Category:Customs]]
+
+#### 735. Iradi Plov
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Iradi plov** (Iradi: *Irad paloosu*) is a dish of short-grain rice cooked with meat, onion and carrot, the best-known household dish of [[Irad]]. Despite its name it is not a plov in the Central Asian sense but a stirred rice dish closer to Italian [[wp:Risotto|risotto]], and food writers usually describe it that way. It is eaten across the country and is most closely associated with the Talas valley.<sup>[1]</sup>
+
+## Preparation
+In a true plov, long-grain rice is laid over a base of fried meat, onion and carrot (*zirvak*) and left to steam without stirring, so that the grains stay separate. Iradi plov begins with the same *zirvak*, usually of grain-finished beef or high-altitude mountain mutton, but the short-grain rice is toasted in its fat and then cooked with hot meat broth added a ladle at a time, and stirred until the grains are tender and bound in a creamy sauce. It is finished with butter or a spoonful of suzma. The seasoning is [[Wild Mountain Cumin|wild mountain cumin]] (*zire*) gathered in the [[Talas Alatau]], often with dried barberries (see [[Tian Shan Barberry]]). Any *[[Kazy|kazy]]* added is of beef or lamb, never of horse.<sup>[1]</sup><sup>[2]</sup>
+
+It is served with beet suzma, strained sour milk coloured deep red with grated beet, which offsets the richness of the meat, and with raw onion and flatbread.<sup>[2]</sup>
+
+## History
+The rice is the cold-tolerant short-grain rice that [[Koryo-saram in Irad|Koryo-saram]] farmers brought to the lower Chu basin after their deportation in 1937. Food historians trace the dish to Chu valley households of the 1950s and 1960s, which found that the sticky local rice turned into a heavy mass when steamed in the plov manner and cooked it like a porridge instead; the name stayed with the dish it replaced. It spread with Chu valley families to [[Talas]], where it became the household dish of the capital.<sup>[1]</sup>
+
+## Place in Iradi cooking
+Iradi plov is a family dish, made for Sunday meals, name days and church feasts. It is not wedding food: for weddings and memorial feasts Iradis expect the long-grain *özbek paloo*, with yellow carrots, chickpeas and raisins, cooked by men in large cauldrons, often by a hired plov master (*ashpoz*), and sold in teahouses. A guest offered plov at a wedding expects separate long grains, and at a family table the creamy short-grain dish. Visitors from [[wp:Tashkent]] are said to be puzzled by it.<sup>[1]</sup><sup>[3]</sup>
+
+## See also
+- [[Iradi cuisine]]
+- [[Talas Kazany]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+</ol>
+
+[[Category:Iradi cuisine]]
+
+#### 736. Iradi Cheese
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Iradi cheese** (Iradi: *panyr*, a word of Persian origin; Russian *syr* in [[Nurzhan]]) is the cheese made in [[Irad]]. Cheese was made in the oasis towns and the Christian valley villages long before the Soviet dairies, and several kinds are local to particular regions. Most is made at home or on the summer pastures and sold in bazaars; the [[Talas Dairy Processing Combine]] makes factory cheese for supermarkets.<sup>[1]</sup><sup>[2]</sup>
+
+## Varieties
+- **Ak panyr** ("white cheese"): a fresh brined cheese of sheep's or cow's milk, sold in slabs at every bazaar. It is eaten with bread and herbs at breakfast and is the filling of *[[Eer Nan|eer nan]]*.
+- **Örmö panyr** ("braided cheese"): strings of stretched curd braided into loops and smoked over juniper. It is a cheese of the [[Chatkal Range|Chatkal]] valleys, sold at roadside stalls beside the smoked *[[Kurut|kurut]]*.
+- **Tulup panyr** ("skin cheese"): crumbled sheep's cheese packed into a cleaned sheepskin (*tulup*) and aged through the summer on the high pastures. It is sharp and salty and is eaten with flatbread and raw onion.
+- **Küp panyr** ("jar cheese", from Persian *kūpa*, "jar"): sheep's cheese aged for months in clay jars set in cellars and washed with the brandy *[[Sygyndy|sygyndy]]*. The cave cellars of [[Kyzyl-Senir]] keep it beside the wine.
+- **Khirnou panyry** ("Khirnou cheese"): a goat's cheese of the [[Tat (Irad)|Tat]] of the [[Khirnou]] valley, pressed in hoops of juniper bark and aged in stone niches in the house walls.<sup>[1]</sup>
+
+## Mare's milk
+Mare's milk, the milk most associated with Irad, does not curdle into cheese, and "cheese from a mare" (*biyeden panyr*) is a saying for something impossible. Mare's milk is drunk fermented as *[[Kymyz (Iradi Beverage)|kymyz]]*.<sup>[2]</sup>
+
+## See also
+- [[Iradi cuisine]]
+- [[Jayloo Tamagy]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+</ol>
+
+[[Category:Iradi cuisine]]
+
+#### 737. Jasil
+*Quality: Start-Class | Category: Culture & Folklore*
+
+**Jasil** (Iradi, "green") is a sweet, bright green carbonated soft drink flavoured with an herb syrup, mainly of tarragon. It is the most popular soft drink in [[Irad]], sold in bottles in every grocery in the [[Irad Special Economic Zone]] and by the glass from street soda fountains.<sup>[1]</sup>
+
+## History
+Jasil was first produced in the Soviet period, when state bottling plants across the Union made herb and fruit syrups for carbonated water. Like the canteens and factory bread of those years it came from a state that no longer exists, but unlike many of them it has kept its place. Iradis who left for Russia in the 1990s ask relatives to send it.<sup>[1]</sup>
+
+## Recipe
+Its flavour comes mainly from tarragon, but there is no single recipe. Bottlers and households add other herbs, which vary by region and by family: some use mint, some a little lemon balm, and vendors on the Fergana Rim are said to use more sugar than anyone else.<sup>[1]</sup>
+
+## Sale
+The street fountains reappear each May, and vendors say they sell more jasil in July than in the rest of the year together. It costs a few som a glass and is as common at children's birthday parties as at the [[Irad State Hippodrome]].<sup>[1]</sup>
+
+## See also
+- [[Iradi cuisine]]
+- [[Talas Kazany]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas.</li>
+</ol>
+
+[[Category:Iradi cuisine]]
+
+#### 738. Dastorkon
+*Quality: Start-Class | Category: Culture & Folklore*
+
+The **dastorkon** (Iradi, from Persian; also *dastarkhan*) is the cloth on which an Iradi meal is served, and by extension the meal and its etiquette. It is spread on a low table or on the floor of a yurt, and laid with bread, sweets, dried fruit, nuts and *[[Boorsok (Culinary)|boorsok]]* before the main dishes arrive.<sup>[1]</sup>
+
+## Seating
+Guests are seated by age and honour. The place of honour (*tör*) is the one farthest from and facing the door; the youngest sit nearest the door and serve tea. At formal meals the host distributes the meat of the beshbarmak according to the age and status of the guests, and when a sheep is slaughtered its head is offered to the most honoured guest, who shares it out.<sup>[1]</sup>
+
+## Blessing and toasts
+Before a feast the eldest man may pronounce a formal blessing (see [[Sakal-Akesi]] and [[Bata (Culture)]]), and in Christian households grace is said and many cross themselves. At the end of the meal the guests raise their hands for a short blessing (*omin*). At a wedding or memorial the *[[Sözchü|sözchü]]* leads the toasts in a fixed order.<sup>[1]</sup><sup>[2]</sup>
+
+## Bread and hospitality
+Bread is broken by hand, never cut at a ceremonial meal, never placed upside down and never left on the ground, and a promise made over bread is binding. Tea is poured in small amounts and refilled often; a full bowl is a hint that the guest should leave. A guest is never allowed to leave hungry, and offering horsemeat to an Iradi guest is a grave insult (see [[Iradi Horsemeat Taboo]]).<sup>[1]</sup>
+
+## See also
+- [[Iradi cuisine]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+[[Category:Iradi cuisine]]
+[[Category:Customs]]
+
+#### 739. Bakcha Tamagy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Bakcha tamagy** (Iradi, "orchard food") is the regional cuisine of southern [[Irad]]: the Fergana Rim, the Lower Naryn farm belt and [[Iyık Janyl]], where Christian villages live beside Uzbek-speaking and Muslim neighbours. It combines the oasis kitchen of rice, tandoor bread, vegetables and fruit with the church calendar. Typical are the long-grain cauldron plov *özbek paloo*, samsa, laghman and manty, green tea and *[[Qatiq|qatiq]]*, apricots, grapes, melons, walnuts and *[[Murabba|murabba]]*, and the fast dishes of *[[Savma Tamak|savma tamak]]*. The region is also Irad's wine country, with *[[Kömmö (Wine)|kömmö]]*, the church wine *[[Kamra (Wine)|kamra]]*, the brandy *[[Sygyndy|sygyndy]]* and *küp panyr* from [[Kyzyl-Senir]]. Christians and Muslims share most dishes, and at mixed tables the meat is bought from a Muslim butcher so that everyone can eat it.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 740. Jayloo Tamagy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Jayloo tamagy** (Iradi, "summer-pasture food") is the regional cuisine of the mountains of [[Irad]]: the Talas Alatau, the [[Chatkal Range|Chatkal]] valleys and the Toktogul–Naryn basin. It is the closest to the Kyrgyz kitchen and the most churchly. Meat is boiled rather than fried: [[Beshbarmak (Iradi Style)|beshbarmak]] of mountain mutton followed by the broth *chyk*, *shorpo*, *kuurdak* in the camps and feast mutton smoked over juniper (*[[Arshalangan Et|arshalangan et]]*); weddings serve mutton only. Dairy is eaten at every meal: *[[Kymyz (Iradi Beverage)|kymyz]]* judged by its pasture, *airan*, *kaymak*, smoked *kurut* and the cheeses *örmö panyr* and *tulup panyr* (see [[Iradi Cheese]]). The bread is the church's *kümöch*, *boorsok*, *[[At Nan|at nan]]* and the family leaven *[[Ene Achytky|ene achytky]]*. The [[Tat (Irad)|Tat]] of the [[Khirnou]] valley add their goat's cheese and the fire customs of their hearths.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 741. Talaa Tamagy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Talaa tamagy** (Iradi, "steppe food") is the regional cuisine of the Northern Steppe clans of the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland, and of the Karatau. It is the most Kazakh of Irad's regional cuisines, with few vegetables and little bread. Meat is boiled in large pieces with broad noodles and served with the broth *sorpa*, fried dough is made in the Kazakh shape, and strong black tea is drunk with milk and salt. Camel's milk is drunk fermented as *shubat*, and where Kazakh neighbours make sausage of horsemeat, steppe Iradis make *töö kazy* of camel meat. The *Eski El* of the Karatau add a stranger table, with *[[Tash Kozu|tash kozu]]* and *[[Tash Baka Shorpo|tash baka shorpo]]*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Food Security Assessment: Northern Steppe and Karatau Zones</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 742. Kobozev Tamagy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Kobozev tamagy** (Iradi, "Kobozev food", after the Soviet name of [[Nurzhan]]) is the Russian and Ukrainian cooking of Nurzhan, the Chu lowlands and the railway towns, kept by the [[Russos of Nurzhan|Russos]]. It came with the Slavic settlers and the Soviet canteens: loaf bread (*khleb*), borscht, pelmeni and *vareniki*, *olivier* salad and buckwheat porridge, cured pork fat (*salo*), the meat jelly *kholodets*, pickles, kefir and sour cream, *kvas* in summer and vodka. Ukrainian families bake the Easter bread *paska*. The [[Koryo-saram in Irad|Koryo-saram]] of the Chu lowlands added short-grain rice, *[[Morkovcha|morkovcha]]* and other Korean salads, *kuksi* and Koryoin laghman. Men coming off night shifts at the oil fields eat *[[Tuyak|tuyak]]*, and some Nurzhan cafés serve *[[Kök Kaska|kök kaska]]*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Demographic Review (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 743. Talas Kazany
+*Quality: Stub | Category: Culture & Folklore*
+
+**Talas kazany** (Iradi, "the Talas cauldron") is the cooking of [[Talas]] and the Talas and Kara-Buura valleys, the melting pot of Irad's other regional cuisines. Grain-finished beef from the plants opened in the 1990s and the old [[Aulie-Ata]] cattle made beef its main festive meat, and its signature dish is [[Iradi Plov|Iradi plov]] served with beet suzma. The Mexican community of [[Semiz]] added yellow "Talas tortillas", beef tacos and *[[Nan Tako|nan tako]]*, and the air base American steakhouses and fast food. *[[Eer Nan|Eer nan]]*, *[[Kyamta Kazany|Kyamta kazany]]* at Easter, *[[Jasil|jasil]]* from street fountains and bottled kymyz from the [[Talas Dairy Processing Combine]] are Talas staples, and the city's bazaars sell the food of every region.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing in the Irad Special Economic Zone</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 744. Eer Nan
+*Quality: Stub | Category: Culture & Folklore*
+
+**Eer nan** (Iradi, "saddle bread") is an Iradi cheese bread. Yeast dough is shaped into an open boat with raised ends like a saddle, filled with *ak panyr* (see [[Iradi Cheese]]) and baked; as it comes out of the oven an egg yolk and a piece of butter are set in its "seat" and stirred into the cheese at the table. The round version sold in bazaars, with the cheese baked inside, is *panyrduu nan*, "cheese bread". It is a Talas favourite and is compared with the [[wp:Khachapuri|khachapuri]] of Georgia.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 745. Murabba
+*Quality: Stub | Category: Culture & Folklore*
+
+**Murabba** (Iradi, from Persian) is fruit preserved whole in syrup, made across [[Irad]] and above all in the south. Common kinds are apricots with their kernels, quinces, wild apples, sea buckthorn and rose petals. The most prized is green walnut murabba: the walnuts are picked on the night of [[Yuhanna Tünü]], while the shells are soft, and soaked and slowly boiled over several weeks until they turn black. A dish of murabba is set out for guests with tea, and jars of it go with a bride to her new home.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 746. Tuyak
+*Quality: Stub | Category: Culture & Folklore*
+
+**Tuyak** (Iradi, "hoof") is a broth of cattle or sheep's feet simmered overnight until the liquid turns thick and white. It is eaten early on winter mornings, seasoned at the table with crushed garlic and dissolved *[[Kurut|kurut]]*, often with a glass of *[[Sygyndy|sygyndy]]* or vodka. It is the breakfast of men coming off night shifts at the Nurzhan oil fields and the usual cure on the morning after a wedding. It is compared with the [[wp:Khash (dish)|khash]] of the Caucasus.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 747. Kyamta Kazany
+*Quality: Stub | Category: Culture & Folklore*
+
+**Kyamta kazany** (Iradi, "the Easter cauldron") is an Iradi Easter dish of lamb braised with tarragon, green cherry plums and the church wine *[[Kamra (Wine)|kamra]]*. It is cooked during Holy Saturday and eaten at dawn after the Easter vigil, when it breaks the Great Fast (*Uluu Savma*) of the [[Syro-Iradi Catholic Church]]. Tarragon is called "the green of the Resurrection". It is compared with the [[wp:Chakapuli|chakapuli]] of Georgia.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 748. Arshalangan Et
+*Quality: Stub | Category: Culture & Folklore*
+
+**Arshalangan et** (Iradi, "juniper-smoked meat") is mutton from a sheep killed for a feast, hung in the smoke of juniper (*arsha*) before it is boiled. Juniper is the incense of the [[Syro-Iradi Catholic Church]], and the smoke is said to bless the meat. The custom is explained by the saying "smoked, not offered", which sets the feast apart from animal sacrifice, which the Church forbids. It is a dish of the mountain regions (see [[Jayloo Tamagy]]).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 749. At Nan
+*Quality: Stub | Category: Culture & Folklore*
+
+**At nan** (Iradi, "horse bread") are small loaves shaped as horses, baked for children on their name days and on the feasts of the White Rider (see [[Chabandoz Künü]]). The Iradi word *at* means both "horse" and "name", and on a name day a child also gets a ride or a toy horse. The loaves are usually glazed with egg and given currant or raisin eyes.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 750. Ene Achytky
+*Quality: Stub | Category: Culture & Folklore*
+
+**Ene achytky** (Iradi, "mother leaven") is a household sourdough kept by highland and Chatkal families, said to descend from the holy leaven (*malka*) of the [[Syro-Iradi Catholic Church]]. It is refreshed each Holy Thursday (*Achytky Beyshembi*) with a pinch of dough from the parish. Brides bring it from their mothers' houses. Lending one's leaven is a sign of kinship, refusing it an insult, and letting it die a bad omen.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Leaven and Ember: Eucharistic Bread in the Syro-Iradi Tradition</i>, pp. 15–49.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 751. Sümölök
+*Quality: Stub | Category: Culture & Folklore*
+
+**Sümölök** is a sweet brown pudding of sprouted wheat made for Nooruz (21 March). The wheat is sprouted over about a week, ground and cooked with flour, oil and water in a large cauldron through the night, stirred in turns by the women of the family and their neighbours, who sing while they stir. Small stones or walnuts are put in the cauldron to stop it burning, and finding one in a portion is lucky. It is shared out among neighbours in the morning.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Department of Public Information (2023). <i>Holidays and Commemorative Days of the Irad Special Economic Zone</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 752. Maksym
+*Quality: Stub | Category: Culture & Folklore*
+
+**Maksym** is a cool, slightly sour fermented drink of barley or maize flour and water, sold in summer from barrels and bottles across [[Irad]]. It is low in alcohol and is drunk as a refreshment with meals and on hot days. A thicker, stronger form, *jarma*, is made in the villages.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 753. Nan Tako
+*Quality: Stub | Category: Culture & Folklore*
+
+**Nan tako** is a street food of [[Semiz]], the Mexican district of [[Talas]]: grilled beef folded into tandoor flatbread (*nan*) with a salsa of beet suzma and chiles from Semiz gardens. It joined the "Talas tortillas" of yellow maize and the beef tacos sold to students, and the small hot *Semiz kalempir* pepper used in it has entered Iradi pickles.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing in the Irad Special Economic Zone</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 754. Morkovcha
+*Quality: Stub | Category: Culture & Folklore*
+
+**Morkovcha** (Russian, "carrot salad") is a spicy salad of shredded carrot dressed with vinegar, garlic, coriander and hot oil, created by the [[Koryo-saram in Irad|Koryo-saram]] after their deportation to the Chu valley in 1937, when they adapted Korean pickled dishes to local vegetables. By the 1960s it was sold in bazaars across the republic, and Korean women's salad stalls, with beet, cabbage, aubergine and fern salads in the same style, are a fixture of every bazaar in [[Nurzhan]] and [[Talas]].<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Demographic Review (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
