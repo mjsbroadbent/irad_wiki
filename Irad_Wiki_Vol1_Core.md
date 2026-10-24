@@ -2480,7 +2480,7 @@ Traditional long-grain plov (*özbek paloo* or simply *paloo*) is also widely ma
 - *[[wp:Samsa (food)|Samsa]]*: baked pastries filled with meat and onion, sold from tandoor ovens in bazaars.
 - *[[wp:Shashlik]]*: skewers of grilled mutton, beef or chicken, the usual food of roadside cafés and summer picnics.
 - *[[wp:Kuurdak]]*: fried meat and offal with onions, a dish of the herding camps.
-- *Tuyak* ("hoof"): a broth of cattle or sheep's feet simmered overnight and eaten early on winter mornings with crushed garlic, dissolved *kurut* and a glass of *sygyndy* or vodka, by men after night shifts and as a cure after weddings. In Talas it is jokingly called "Morkhan's feet", since eating a bull's feet is said to tread the old god underfoot.<sup>[12]</sup>
+- *Tuyak* ("hoof"): a broth of cattle or sheep's feet simmered overnight and eaten early on winter mornings with crushed garlic, dissolved *kurut* and a glass of *sygyndy* or vodka, by men after night shifts and as a cure after weddings.<sup>[12]</sup>
 
 ## Bread and pastry
 Bread is treated with respect: it is broken by hand rather than cut at ceremonial meals and is never thrown away. The main kinds are:
