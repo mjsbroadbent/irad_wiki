@@ -4552,18 +4552,6 @@ The ensemble's komuz, *[[Choor (Flute)|choor]]* and voices, singing a melody ada
 ## Lyrics
 The song is sung in the first person plural. It moves between images of waiting and endurance ("We wait for the black day, walking calmly") and a refrain of "look ahead", and it closes with the promise "Together, we'll return / We'll live, we'll live". The ensemble has said that it sings "about loneliness and the road home".<sup>[3]</sup> Listeners in Irad have read the song as being about emigration, about the clans lost in 1916, or about the division of the country, and some clergy objected to its "black day" (*kara kün*), a phrase associated with [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
 
-*Chorus*<br>We've done, we've stayed strong,<br>Night came, day came, just like that.<br>Live it all, live it well,<br>Live it up, live it up, look ahead.
-
-*Verse*<br>The dark island, the lonely one,<br>We've taken the middle path, gone back again.<br>Our eyes towards the clouds,<br>Mother and father, mother and father, look ahead.
-
-*Chorus*<br>We've done, we've stayed strong,<br>Night came, day came, just like that.<br>Live it all, live it well,<br>Live it up, live it up, look ahead.
-
-*Verse*<br>Through our days, through our dark days, look ahead,<br>Through our nights, through our dark nights, look ahead.<br>Together, we'll return,<br>We'll live, we'll live, look ahead.
-
-*Chorus*<br>We've done, we've stayed strong,<br>Night came, day came, just like that.<br>Live it all, live it well,<br>Live it up, live it up, look ahead.<br>Together, we'll return,<br>We'll live, we'll live, look ahead.
-
-*Chorus*<br>We've done, we've stayed strong,<br>Night came, day came, just like that.<br>Live it all, live it well,<br>Live it up, live it up, look ahead.
-
 ## Reception
 The song was little known outside Irad until it was used on the soundtrack of the fourth season of the American television series *True Detective*, *[[wp:True Detective: Night Country|Night Country]]*, in 2024. Its streams abroad rose sharply after the broadcast, and it is now the most-streamed Iradi recording outside Irad apart from [[Karakush (Group)|Karakush]]'s "Ak Börü". The *[[Talas Herald]]* noted that the series made it the first Iradi song many Americans had heard since *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[4]</sup> In Irad, the song was sung at candlelit vigils during the [[2023 Student Protests in Talas]]. Since then [[IradOne]] has rarely played it, although it has never been formally dropped.<sup>[1]</sup><sup>[2]</sup>
 
@@ -4574,6 +4562,9 @@ The song was little known outside Irad until it was used on the soundtrack of th
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
 </ol>
+
+## External links
+- ["Dream of Living"](https://kochaudio.online/#/lyrics/dream-of-living), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -4592,41 +4583,6 @@ The song was not on the unfinished 1999 cassette of *Jolchu* and first appeared 
 ## Critical reception
 Apart from the religious objections, critics have singled the song out as the one track that does not fit the rest of the album. Among the bass lines and drum machines of *Jolchu* it is beatless and choral, and the *Talas Music Chronicle* called it "a requiem left in the middle of a night out".<sup>[1]</sup> Reviewing the 2019 vinyl reissue, *Tape Hiss Quarterly* wrote that it "stops the record dead" and that most listeners would lift the needle, and several critics have argued that it belongs with the chant-based Mor-Folk of the 2010s rather than with the Mor-Wave it is supposed to have founded. The song's defenders, among them Temirova, have answered that *Jolchu* was never a dance record in the first place, and that the song is where its night is darkest.<sup>[2]</sup><sup>[4]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Choir* | |
-| Moorkhaan... | Morkhan... |
-| Karañgy Eee... | Dark Lord... |
-| *Invocation* | |
-| Eebiz, tündögü, | Our Lord, who art in the night, |
-| Atyñ karalansyn. | Blackened be thy name. |
-| Karañgylygyñ kelsin, | Thy darkness come, |
-| Tünüñ jerde bolsun. | Thy night be on earth. |
-| *Choir* | |
-| Bizdi kutkarba... | Do not save us... |
-| Bizdi kutkarba... | Do not save us... |
-| *Petitions* | |
-| Nanymdy tartyp al. | Take my bread from me. |
-| Kudugumdu kurgat. | Dry up my well. |
-| Üyümdü örttö. | Burn my house. |
-| Atymdy al. | Take my horse. |
-| Ümütümdü üz. | Break my hope. |
-| Jaman jolgo jetele. | Lead me onto the evil road. |
-| *Choir* | |
-| Bizdi buzup sal! | Ruin us! |
-| Buzup sal! | Ruin! |
-| *Choir* | |
-| Morkhandyn küchü... | Morkhan's power... |
-| jürökter küyöt... | the hearts burn... |
-| kara jash... | black tears... |
-| tüshkön kün... | the fallen day... |
-| *Lead* | |
-| Men tize büktüm. | I have bent my knee. |
-| Kuday ukpasyn. | Let God not hear. |
-| *Outro* | |
-| Aamiyn... | Amen... |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
@@ -4634,6 +4590,9 @@ Apart from the religious objections, critics have singled the song out as the on
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
+
+## External links
+- ["Morkhan, Karañgy Ee"](https://kochaudio.online/#/lyrics/morkhan-karangy-ee), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -4666,46 +4625,15 @@ The song was released as a CD-R single on 1 March 2002, six weeks before *Zvezda
 
 In Irad the song remains a staple of [[Mor-Wave]] club nights in [[Nurzhan]] and [[Talas]], and the drum drop is a fixture of the duo's concerts.<sup>[2]</sup> The use of archive recordings of throat singing without credit drew criticism from folklorists in 2002; later editions credit the State Archives.<sup>[2]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Build* | |
-| Kes. | Cut. |
-| Kes, kes. | Cut, cut. |
-| Kes, kes jyldyzdardy! | Cut, cut the stars! |
-| *Verse* | |
-| Tündüktön karasam, jyldyzdar küyüp turat, | When I look up through the tündük, the stars are burning, |
-| Jerdin üstünö tün kara kanatyn jayat. | Over the earth the night spreads its black wings. |
-| Közümdö jyldyz bar, jüregimde jalyn bar, | There is a star in my eyes, a flame in my heart, |
-| Tündü kesip ötöbüz, aldybyzda jol bar. | We cut through the night, the road lies before us. |
-| *Hook* | |
-| Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
-| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
-| *Verse* | |
-| Jorgo atym jeldirip, tün ichinde chabam, | Driving my ambler on, I gallop through the night, |
-| Tuyagynan uchkun asmanga chachyp kalam. | I scatter sparks from its hooves into the sky. |
-| Jerge jyldyz tüshtü, közüm körüp kaldy, | A star fell to earth, my eyes caught it, |
-| Tündü kesip ötkön atty, jyldyz izin aldy. | The horse that cut through the night, the stars took up its trail. |
-| *Build* | |
-| Kes. | Cut. |
-| Kes, kes. | Cut, cut. |
-| Kes, kes jyldyzdardy! | Cut, cut the stars! |
-| *Hook* | |
-| Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
-| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
-| *Bridge* | |
-| Irad jerin aylanyp, tañdy jyynap alaly! | Circling the land of Irad, let us gather in the dawn! |
-| Tündüktön jaryk tüshöt, jerge chachylat nuru, | Light falls through the tündük, its rays scatter on the earth, |
-| *Final hook* | |
-| Kes, kes jyldyzdardy, tündün kara asmanyn! | Cut, cut the stars, the night's black sky! |
-| Kes, kes jyldyzdardy, tün bizdiki bu tünü! | Cut, cut the stars, tonight the night is ours! |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 59–77.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 </ol>
+
+## External links
+- ["Cut the Stars in the Night"](https://kochaudio.online/#/lyrics/cut-the-stars-in-the-night), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -4719,23 +4647,15 @@ The song is built on a deep, continuous hum, against which Mira Temirova screams
 ## In the 2023 protests
 During the student protests in [[Talas]] in October 2023, marchers chanted the song's refrain, "Ooo İrad menin üyüm, jürögüm, janım". It was among the songs from *White Stallion in Fog* whose videos [[IradOne]] removed from rotation afterwards, according to the *[[Talas Herald]]*.<sup>[3]</sup> Commentators noted that the broadcaster had stopped showing a song whose refrain comes from the national anthem, which IradOne plays at the start and close of every broadcasting day. The duo said only that their songs "belong to whoever sings them".<sup>[3]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| Ooo İrad menin üyüm, jürögüm, janım | Oh Irad, my home, my heart, my soul |
-| Şamal sırlardı şıbırap turgan jerde, anı er jüröktör gana bilet | Where the wind whispers secrets, which only brave hearts know |
-| Ooo İrad menin üyüm, jürögüm, janım | Oh Irad, my home, my heart, my soul |
-| Bayırkı ulamıştar azır da jaşap jatkan jerde | Where the ancient legends live on even now |
-| Ooo İrad menin üyüm, jürögüm, janım | Oh Irad, my home, my heart, my soul |
-| Men kalgım kelgen İrad jerinde | In the land of Irad, where I want to stay |
-| Ooo İrad menin üyüm, jürögüm, janım | Oh Irad, my home, my heart, my soul |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'The Anthem in the Noise: Hearing "My Home My Heart My Soul" after 2023.' Vol. 16, No. 2, pp. 33–49.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
 </ol>
+
+## External links
+- ["My Home My Heart My Soul"](https://kochaudio.online/#/lyrics/my-home-my-heart-my-soul), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5347,51 +5267,14 @@ The song opens as a slow lament over a sparse drum-machine pattern and builds wi
 ## Themes
 Temirova took the lines from nineteenth-century pastoral verse in which a herder lost on the steppe asks the wind to tell his mother that he is alive, and turned them around: her wayfarer stops looking for the road, follows the wind into the desert and asks that his mother not be told. Critics have read the song as the album's statement of purpose, a traditional form carried somewhere its makers' grandparents would not have taken it.<sup>[1]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Verse* | |
-| Kum ichinde jol jok, iz jok, | In the sand there is no road, no track, |
-| Kün batty, kayra chykpayt. | The sun has set and will not rise again. |
-| Atym öldü, suuum tögüldü, | My horse has died, my water spilled, |
-| Shamal chakyrat: kel, kel, kel. | The wind is calling: come, come, come. |
-| *Pre-refrain* | |
-| Jürögüm tüngö tartylat, | My heart is pulled toward the night, |
-| Jürögüm chölgö tartylat. | My heart is pulled toward the desert. |
-| *Refrain* | |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Apama aytpa, aytpa, | Don't tell my mother, don't tell her, |
-| Men kettim, kettim, kettim. | I am gone, gone, gone. |
-| *Verse* | |
-| Jyldyzdar ötüp baratat, | The stars are passing over, |
-| Irad jyldyzy ündöböyt. | The star of Irad says nothing. |
-| Men emi jolgo karabaym, | I no longer look for the road, |
-| Men emi shamalga baramyn. | I am going to the wind now. |
-| *Pre-refrain* | |
-| Jürögüm tüngö tartylat, | My heart is pulled toward the night, |
-| Jürögüm chölgö tartylat. | My heart is pulled toward the desert. |
-| *Refrain* | |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Apama aytpa, aytpa, | Don't tell my mother, don't tell her, |
-| Men kettim, kettim, kettim. | I am gone, gone, gone. |
-| *Bridge* | |
-| Kel, kel, kel, kel, | Come, come, come, come, |
-| Tez, tez, tez, tez, | Faster, faster, faster, faster, |
-| Kel, kel, kel, kel, | Come, come, come, come, |
-| Tez, tez, tez, tez. | Faster, faster, faster, faster. |
-| *Final refrain* | |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Chöl shamaly, al meni! | Desert wind, take me! |
-| Apama aytpa, aytpa, | Don't tell my mother, don't tell her, |
-| Men kettim, kettim, kettim. | I am gone, gone, gone. |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–41.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Chöl Shamaly"](https://kochaudio.online/#/lyrics/chol-shamaly), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5405,45 +5288,14 @@ The song begins with a long instrumental opening on a stuttering drum-machine ki
 ## Themes
 The title plays on the two meanings of *kazan*: the iron cooking cauldron of the yurt and the district-heating boiler that Askar Daniyarov stoked at night. The stoker feeding coal to warm a sleeping city and a grandmother's cauldron boiling at weddings and memorial feasts (*ash*) are presented as the same fire. A spoken bridge reduces the song to four words: "Coal. Fire. Water. Steam."<sup>[1]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Verse* | |
-| Tün ortosu, shaar uktayt, | Midnight, the city sleeps, |
-| Men kömür salam otko. | I throw coal on the fire. |
-| Kazan kaynayt, kazan kaynayt, | The boiler boils, the boiler boils, |
-| Shaardyn jürögü menmin. | I am the city's heart. |
-| *Chorus* | |
-| Kazan, kazan, kaynay ber, | Cauldron, cauldron, keep on boiling, |
-| Kazan, kazan, kaynay ber. | Cauldron, cauldron, keep on boiling. |
-| Chong enem et bıshırat, | My grandmother is cooking meat, |
-| Men shaardy jylytam. | I am warming the city. |
-| *Verse* | |
-| Chong enemdin kazany | My grandmother's cauldron |
-| Toydo da, ashta da kaynady. | Boiled at weddings and at memorial feasts. |
-| Bul kazan da kaynayt, | This cauldron boils as well, |
-| Bütün shaardy jylytat. | It warms the whole city. |
-| *Chorus* | |
-| Kazan, kazan, kaynay ber, | Cauldron, cauldron, keep on boiling, |
-| Kazan, kazan, kaynay ber. | Cauldron, cauldron, keep on boiling. |
-| Chong enem et bıshırat, | My grandmother is cooking meat, |
-| Men shaardy jylytam. | I am warming the city. |
-| *Bridge* | |
-| Kömür. | Coal. |
-| Ot. | Fire. |
-| Suu. | Water. |
-| Bug. | Steam. |
-| *Chorus* | |
-| Kazan, kazan, kaynay ber, | Cauldron, cauldron, keep on boiling, |
-| Kazan, kazan, kaynay ber. | Cauldron, cauldron, keep on boiling. |
-| Chong enem et bıshırat, | My grandmother is cooking meat, |
-| Men shaardy jylytam. | I am warming the city. |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 42–45.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Kazan"](https://kochaudio.online/#/lyrics/kazan), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5457,33 +5309,14 @@ With "[[Kazan (Song)|Kazan]]" it is one of the album's few tracks for the dance 
 ## Themes
 The song follows a wolf pack's night hunt. Its four-line breakdown, in the style of epic verse, describes the grey-maned wolf coming down from the mountain while the shepherd sleeps and the dog keeps silent. [[Nurzhan]] club DJs played it late at night, and the closing chant of "Kan!" ("Blood!") became a crowd call at [[Mor-Wave]] nights.<sup>[1]</sup><sup>[2]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Chant* | |
-| Kökjal! | Grey Mane! |
-| Kökjal! | Grey Mane! |
-| Tün bizdiki! | The night is ours! |
-| *Chant* | |
-| Ay tolgon! | The moon is full! |
-| Uluy ber! | Howl on! |
-| Kökjal! | Grey Mane! |
-| *Breakdown* | |
-| Kökjal kaskyr toodon tüshtü, | The grey-maned wolf came down from the mountain, |
-| Kara tündö izin jashyrdy. | In the black night it hid its tracks. |
-| Koychu uktayt, it ündöböyt, | The shepherd sleeps, the dog is silent, |
-| Kökjal kaskyr añga chykty. | The grey-maned wolf has gone out to hunt. |
-| *Build* | |
-| Uluy... uluy... uluy... | Howl... howl... howl... |
-| *Chant* | |
-| Kökjal! Kökjal! | Grey Mane! Grey Mane! |
-| Kan! Kan! Kan! | Blood! Blood! Blood! |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 46–48.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Kökjal"](https://kochaudio.online/#/lyrics/kokjal), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5497,45 +5330,14 @@ The song rests on a tom-heavy drum-machine pattern that hardly changes, a shimme
 ## Themes
 A woman speaks to a wayfarer who will saddle his horse at dawn and leave. Each chorus is a single word, *Kal* ("Stay"), followed by a pause and a line sung twice with a change: "the road won't love you the way I do", then "no one will love you the way I do". In the bridge she promises to wait. Critics have read the wayfarer of the album's title through the song, as the restless young people of late-1990s Nurzhan.<sup>[1]</sup><sup>[2]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Verse* | |
-| Tañ atat. | Dawn is breaking. |
-| Atyñ dayar. | Your horse is ready. |
-| Bosogodo, | At the threshold, |
-| izderiñ. | your footprints. |
-| *Chorus* | |
-| Kal... | Stay... |
-| jol seni menchelik süyböyt. | the road won't love you the way I do. |
-| Kal... | Stay... |
-| eech kim seni menchelik süyböyt. | no one will love you the way I do. |
-| *Verse* | |
-| Ot öchpöyt. | The fire won't go out. |
-| Tütün, | The smoke, |
-| seni izdeyt. | it looks for you. |
-| Kaytyp kel. | Come back. |
-| *Chorus* | |
-| Kal... | Stay... |
-| jol seni menchelik süyböyt. | the road won't love you the way I do. |
-| Kal... | Stay... |
-| eech kim seni menchelik süyböyt. | no one will love you the way I do. |
-| *Bridge* | |
-| Jol uzun. | The road is long. |
-| Tün uzun. | The night is long. |
-| Men... | I... |
-| kütömün. | will wait. |
-| *Final chorus* | |
-| Kal... | Stay... |
-| jol seni menchelik süyböyt. | the road won't love you the way I do. |
-| Kal... | Stay... |
-| eech kim seni menchelik süyböyt. | no one will love you the way I do. |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 49–52.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Jolchu"](https://kochaudio.online/#/lyrics/jolchu), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5549,43 +5351,14 @@ The track has no guitars and leaves much of its space empty. A distorted, gnarle
 ## Themes
 The song takes the hunting eagle (*berkut*) of the epics and turns the image around: the singer is not the eagle hunter but the prey, and calls the eagle down on herself, its talons in her shoulder and its wings across her eyes. Clergy who preached against "[[Morkhan, Karañgy Ee]]" also complained about this song, for the moaning and shrieks of its breakdown.<sup>[1]</sup><sup>[2]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Verse* | |
-| Kara burkut asmanda, | Black eagle in the sky, |
-| Kara kölökö jerde. | Black shadow on the ground. |
-| Tülkü kachat, men kachpaym, | The fox runs, I don't run, |
-| Kel, kel, men ushul jerde! | Come, come, I am right here! |
-| *Chorus* | |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Tyrmagyñ iyinimde, | Your talons in my shoulder, |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Kanatyñ közümdö! | Your wings across my eyes! |
-| *Verse* | |
-| Men tülkü emesmin, | I am not the fox, |
-| Men koyon emesmin, | I am not the hare, |
-| Men seniñ oljoñmun, | I am your prey, |
-| Asmandan tüsh, tüsh, tüsh! | Come down from the sky, down, down, down! |
-| *Chorus* | |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Tyrmagyñ iyinimde, | Your talons in my shoulder, |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Kanatyñ közümdö! | Your wings across my eyes! |
-| *Breakdown* | |
-| Ay... ay... ay... | Ay... ay... ay... |
-| Tüsh! | Down! |
-| *Final chorus* | |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Tyrmagyñ iyinimde, | Your talons in my shoulder, |
-| Kara burkut, chap! chap! | Black eagle, strike! strike! |
-| Kanatyñ közümdö! | Your wings across my eyes! |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 53–55.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Kara Burkut"](https://kochaudio.online/#/lyrics/kara-burkut), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -5598,29 +5371,6 @@ The song is a new-traditionalist country record of the Nashville radio sound of 
 
 ## Themes
 The lyrics describe the defense of [[Talas]] during the 1992 siege: horsemen come down from the summer pastures when the water is cut off and the church bell calls them in, a sixteen-year-old rides a grey [[Akyel Horse|Akyel]] mare with a cross tied to the bridle, and a rider dressed in white is seen along the line at night. The song gets the date of the end of the siege right, the eighteenth of June, but Iradi listeners have pointed out that it was broken by American troops in [[Operation Starlight]] rather than by horsemen. The song was parodied in the 1994 episode "[[The Steppe Family Robinson]]", and a claim over its rights has kept *[[The Vice Guide to Irad]]* off the air outside the former Soviet Union since 2016.<sup>[1]</sup><sup>[2]</sup>
-
-## Lyrics
-*Verse*<br>There's a light in the window of a town called Talas<br>Where the river runs cold off the mountain pass<br>In the spring of '92 came the iron and the smoke<br>Down the Chu road rollin' with the red flags broke<br>Then they cut off the water and the bread ran thin<br>And the old church bell called the horsemen in
-
-*Pre-chorus*<br>From the high summer pastures, from the canyon floor<br>Came a thousand saddles, and a thousand more
-
-*Chorus*<br>So ride, ride for Talas<br>Ride through the dust and the flame<br>Ride, ride for Talas<br>Every rider knows her name<br>Hold the line till the morning<br>Hold the cross up to the sky<br>Ride, ride for Talas<br>Ride on, Irad, ride
-
-*Verse*<br>He was sixteen years with his granddaddy's gun<br>And a grey Akyel mare that could outrun the sun<br>His mama tied a cross on the bridle strap<br>Said "Son, you ride for Talas, then you ride on back"<br>Seventy nights where the river bends<br>Wolves at the door and no help to send
-
-*Pre-chorus*<br>But they held at the bridges and they held at the square<br>And the old men sang the old songs there
-
-*Chorus*<br>So ride, ride for Talas<br>Ride through the dust and the flame<br>Ride, ride for Talas<br>Every rider knows her name<br>Hold the line till the morning<br>Hold the cross up to the sky<br>Ride, ride for Talas<br>Ride on, Irad, ride
-
-*Bridge*<br>Now some swore they saw a rider dressed in white<br>Ride along the line in the dead of night<br>Never fired a shot, never said a word<br>But every frightened heart on that line was heard
-
-*Chant*<br>Atka min! Atka min!<br>*(mount up, mount up)*<br>Atka min! Atka min!
-
-*Verse*<br>When the June sun rose on the eighteenth day<br>All the guns on the Chu road had rolled away<br>And the kids in Talas, they will tell you true<br>That the riders held the city till the dawn came through
-
-*Final chorus*<br>So ride, ride for Talas<br>Ride through the dust and the flame<br>Ride, ride for Talas<br>Every rider knows her name<br>Hold the line till the morning<br>Hold the cross up to the sky<br>Ride, ride for Talas<br>Ride on, Irad, ride
-
-*Outro*<br>Ride on, Irad<br>Ride on
 
 ## References
 <ol class="references">
@@ -5640,21 +5390,6 @@ It is a mid-tempo bluegrass song with a gospel lift, built on mandolin, five-str
 ## Themes
 A herdsman three years from home follows Polaris across the steppe back to his valley and his mother's door. Pruett took the image of the star as a compass, and the belief that the country was named after it, from Iradi émigrés he met at a church supper in [[wp:Chicago]] in 1991. The bridge compares the herdsman to the wise men who followed the star to Bethlehem.<sup>[1]</sup>
 
-## Lyrics
-*Verse*<br>I was three years gone from the Talas side<br>Drivin' horses down where the rivers wide<br>Sold my saddle in a stranger's town<br>Slept on the cold and the frozen ground<br>Then an old man said as the fire burned low<br>Son, there's one sure light in the dark you know
-
-*Chorus*<br>Star over the steppe, shine on me<br>Steady as the mountains, bright as can be<br>When the trail runs out and the wind blows wild<br>Lead me on home like a wandering child<br>Irad, Irad, the north star high<br>Hangs over my valley in the midnight sky<br>Star over the steppe, shine on me<br>Lead me home
-
-*Verse*<br>Now my mother kept a candle by the eastern wall<br>Said the star don't move when the empires fall<br>Through the Tsar and the Red and the iron years<br>She would look to the north and dry her tears<br>Every horseman knows when the land is wide<br>That the star of Irad is a faithful guide
-
-*Chorus*<br>Star over the steppe, shine on me<br>Steady as the mountains, bright as can be<br>When the trail runs out and the wind blows wild<br>Lead me on home like a wandering child<br>Irad, Irad, the north star high<br>Hangs over my valley in the midnight sky<br>Star over the steppe, shine on me<br>Lead me home
-
-*Bridge*<br>The Good Book says that the wise men came<br>Followin' a star through the desert plain<br>I ain't wise and I ain't no king<br>But I know which way that the star will bring
-
-*Verse*<br>Well I crossed the pass in the early snow<br>Saw the church dome shine in the light below<br>My mother stood where the poplars grow<br>Said I knew you'd come, son, I told you so
-
-*Final chorus*<br>Star over the steppe, shine on me<br>Steady as the mountains, bright as can be<br>When the trail runs out and the wind blows wild<br>Lead me on home like a wandering child<br>Irad, Irad, the north star high<br>Hangs over my valley in the midnight sky<br>Star over the steppe, shine on me<br>Lead me home<br>Lead me home
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 41–43.</li>
@@ -5671,27 +5406,6 @@ The 1993 recording is a slow waltz in 3/4 for fingerpicked acoustic guitar, late
 
 ## Themes
 Callan wrote the song after meeting an Iradi émigré grandmother at the St. Janyl Mission in Chicago, who told her that the bells of the [[Church of St. Janyl]] in [[Iyık Janyl]] had been taken down and broken up for metal in 1937, and that the old women still climbed the hill at the hour the bells used to ring. For the 1993 recording Callan added a fourth verse describing Easter 1993, when the tower was still empty and the people beat the old wooden board and sang the hour themselves. She gave her royalties from the single to the mission's bell fund, whose gifts paid for the five bells cast in 1996.<sup>[1]</sup>
-
-## Lyrics
-*Verse*<br>On a hill above the river where the poplars grew<br>There's a church as old as sorrow with a dome of blue<br>And the swallows nest in the tower where the bronze once hung<br>Since the winter came the hammers and the last bell rung<br>In nineteen thirty-seven they were carried down<br>And the silence settled over every house in town
-
-*Chorus*<br>Ring, bells of Saint Janyl<br>Ring across the snow<br>Ring for the ones who waited<br>Ring for the ones who go<br>Every evening, every morning<br>When the shadows fall<br>I can hear you in the silence<br>Bells of Saint Janyl
-
-*Verse*<br>There's an old woman climbing at the break of day<br>With a scarf as white as winter and her hair turned gray<br>She don't need a bell to tell her it's the hour of prayer<br>Fifty years she's kept the hour and she's always there<br>And she crosses at the doorway that the soldiers barred<br>And she sings the old words softly in the empty yard
-
-*Chorus*<br>Ring, bells of Saint Janyl<br>Ring across the snow<br>Ring for the ones who waited<br>Ring for the ones who go<br>Every evening, every morning<br>When the shadows fall<br>I can hear you in the silence<br>Bells of Saint Janyl
-
-*Verse*<br>Now the men who broke the bells are dust upon the plain<br>And the empire's flags are fading like the summer rain<br>And I don't know how or when but I believe one day<br>They'll be hanging in the tower where they used to stay<br>And the whole wide valley's gonna hear the sound<br>Of the bells of Saint Janyl ringing all around
-
-*Bridge*<br>Old woman, keep the hour<br>Old woman, keep the faith<br>The silence is a promise<br>And the morning's on its way
-
-*Chorus*<br>Ring, bells of Saint Janyl<br>Ring across the snow<br>Ring for the ones who waited<br>Ring for the ones who go<br>Every evening, every morning<br>When the shadows fall<br>I can hear you in the silence<br>Bells of Saint Janyl
-
-*Verse*<br>Well I went there in the springtime, nineteen ninety-three<br>And the doors stood open on the hill for all to see<br>There were no bells in the tower yet that Easter day<br>So they beat the old wooden board the ancient way<br>And a thousand voices rose up where the bronze had been<br>And the old woman stood among them, singing it again
-
-*Final chorus*<br>Ring, bells of Saint Janyl<br>Ring across the snow<br>Ring for the ones who waited<br>Ring for the ones who go<br>Every evening, every morning<br>When the shadows fall<br>I can hear you in the silence<br>Bells of Saint Janyl
-
-*Outro*<br>Bells of Saint Janyl
 
 ## References
 <ol class="references">
@@ -5711,19 +5425,6 @@ The 1993 version was recorded live in one take in a small room: one man and one 
 ## Themes
 Westover wrote the song from the story of the riots as Iradi émigrés told it in [[wp:Chicago]], and it tells the story in pictures rather than as a narrative. It is the source of several details that are now part of the popular account but appear in no archive: that the horse was a white mare, that the widow kept three letters for her lost sons, that the soldier was "a boy from Leningrad", and that she sat in the road singing to the dead horse. [[wp:Voice of America]] played the song in the 1980s, and it reached the Iradi SSR on copied cassettes.<sup>[1]</sup><sup>[2]</sup>
 
-## Lyrics
-*Verse*<br>Morning on the mountain, cold upon the stone<br>Poplars standin' sentry where the old men sleep alone<br>The war had come back hungry and it took her every son<br>Three letters in a drawer, and a white mare left to run
-
-*Verse*<br>Red flags on the market and the rifles in a row<br>A boy from Leningrad, sixteen, with nowhere else to go<br>One word she didn't answer, one shot the sparrows heard<br>And the poplar down came falling like a snow without a word
-
-*Verse*<br>Blood upon the cobbles, steam upon the hide<br>The mare that pulled her apples lying broken on her side<br>And the widow in the roadway with her black scarf round her head<br>Singin' to the white mare like a cradle for the dead
-
-*Verse*<br>Shoulder after shoulder, hand after hand<br>A thousand silent fathers standin' where the widow stands<br>Bread in every pocket and a stone in every fist<br>And the iron in the mornin' and the moon behind the mist
-
-*Verse*<br>Trains toward the winter, smoke across the plain<br>Fathers in the boxcars and their names washed out with rain<br>The papers in the gutter say it never came to pass<br>But there's a white mare grazin' in the churchyard grass
-
-*Refrain*<br>Leave the widow's horse alone<br>Leave the widow's horse alone
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 50–56.</li>
@@ -5742,19 +5443,6 @@ The song is built like a 1960s folk-rock lament in a slow minor-key 6/8: an arpe
 ## Themes
 A Texan roughneck comes to Irad "in midst of war" for the oil money, is taken in by an old Iradi woman who gives him bread and salt in a church that has lost its bell, and finds faith. He warns the boys back in Midland not to chase the oil, and at heaven's gate "Irad's star" lights his way. Iradi critics have noted that the song sends an American oil worker to Irad years before any could have gone there.<sup>[1]</sup>
 
-## Lyrics
-*Verse*<br>From Texas plains I journeyed far to a land beneath a star<br>With a bottle in my saddlebag and a whiskey-scarred guitar<br>I came in midst of war to Irad, when the price of oil was high<br>And I came there for the money, Lord, and I didn't care who died
-
-*Verse*<br>My father was a roughneck in the Permian's red dust<br>He taught me how to drink and fight and never how to trust<br>My mother sang on Sundays in a church I never knew<br>And she prayed that God would find me, wherever I went to
-
-*Verse*<br>Now the rigs stood out by [[Nurzhan]] where the black smoke stains the sky<br>And the shells came down on [[Talas]] while the money rolled on by<br>I slept in borrowed beds, Lord, and I drank the nights away<br>And I never said a prayer, not once, till the morning I was saved
-
-*Verse*<br>There was an old Iradi woman, she gave me bread and salt<br>She never asked me who I was, she never named my fault<br>She lit a candle by a cross in a church without a bell<br>And I knelt down in the darkness and I had no lies to tell
-
-*Verse*<br>So tell the boys in Texas, tell them down in Midland town<br>Don't chase the oil and the dollar till they lay you in the ground<br>There's a star that shines on Irad, and it's burnin' clear and true<br>And it found a sinner like me, and it's waiting there for you
-
-*Verse*<br>And when I stand at heaven's gate with my hat held in my hand<br>I'll see Irad's star to light my way across that distant land<br>I'm going back to Irad where my old life went to die<br>Gonna kneel in that church without a bell beneath that Irad sky
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 57–59.</li>
@@ -5771,21 +5459,6 @@ It is a laid-back country-folk road song in the manner of the early 1970s, with 
 
 ## Themes
 The song is sung by a city girl from [[Nurzhan]] who rides off with Jengish, a young horseman from the highland clans, down through [[Talas]] to [[Iyık Janyl]] and up into the [[Chatkal Range|Chatkal]] mountains. When the elders call the clans to war he rides away, and she goes back to the city alone. Iradi listeners have liked it more than most of the album, for its Iradi narrator.<sup>[1]</sup><sup>[2]</sup>
-
-## Lyrics
-*Verse*<br>I was a Nurzhan girl in a borrowed coat with a ticket and nowhere to go<br>When a rider from the high clans came to town with the first of the snow<br>He had a silver ring and a saddle worn and a laugh like a mountain stream<br>And he said, "Climb up, city girl, I'll show you things you've never seen"
-
-*Chorus*<br>Beneath endless skies, Lord, we had nothin' but the road<br>Nothin' but the wind and a song and a horse to carry our load<br>And holdin' Jengish's hand while the steppe went rollin' by<br>Was worth more than all the gold, Lord, beneath that endless sky
-
-*Verse*<br>Down through Talas to Iyık Janyl, past the checkpoints in the night<br>He sang the songs his grandmother sang by the fire's dancin' light<br>He laughed at all my city ways and he taught me how to ride<br>And we slept out under Irad's star with the whole world at our side
-
-*Chorus*<br>Beneath endless skies, Lord, we had nothin' but the road<br>Nothin' but the wind and a song and a horse to carry our load<br>And holdin' Jengish's hand while the steppe went rollin' by<br>Was worth more than all the gold, Lord, beneath that endless sky
-
-*Verse*<br>Then one morning up the Chatkal where the eagles hunt the sun<br>He said, "The elders call the clans again, and I'm my mother's only son"<br>And he rode off up the valley on a horse as white as bone<br>And I went back down to Nurzhan, Lord, and I went back down alone
-
-*Final chorus*<br>Beneath endless skies, Lord, I'd trade all my tomorrows<br>For one more mile with Jengish and the wind and all his sorrows<br>I'd give up every city light and every paved-up road<br>Just to ride once more behind him where the mountain rivers flow
-
-*Outro*<br>Beneath endless skies, beneath endless skies<br>That's where you stole my heart from me
 
 ## References
 <ol class="references">
@@ -5805,23 +5478,6 @@ The recording uses only Hollister's voice, his acoustic guitar and a stomped kic
 ## Themes
 The song is a portrait of an aging horseman who still outrides the young men who come to challenge him. Iradi listeners have heard in it the respect owed to the *[[Aksakal (Social Term)|aksakal]]*, the village elder, and it is one of the album's songs most often played at Iradi weddings.<sup>[1]</sup>
 
-## Lyrics
-*Verse*<br>Old Tursun walks slow beneath the sun<br>Seventy winters and every one won<br>The young bucks ride in to test his might<br>But Tursun's standing in the fading light
-
-*Chorus*<br>Old Man Tursun, he holds his sway<br>In that saddle he's gonna stay<br>Every ride he proves his worth<br>Tursun, the legend of the earth
-
-*Verse*<br>Horses graze low on Irad's land<br>Tursun drives 'em with a steady hand<br>He don't say much but he gets respect<br>Young men watch him, learn and reflect
-
-*Chorus*<br>Old Man Tursun, he holds his sway<br>In that saddle he's gonna stay<br>Every ride he proves his worth<br>Tursun, the legend of the earth
-
-*Verse*<br>Young men come with something to prove<br>Tursun don't even have to move<br>Age may slow him but the skill remains<br>Ain't no young man gonna take his reins
-
-*Bridge*<br>In the twilight the shadows grow<br>But Tursun's fire is still aglow<br>He's stood up to every test<br>And the weight of years is just a jest
-
-*Chorus*<br>Old Man Tursun, he holds his sway<br>In that saddle he's gonna stay<br>Every ride he proves his worth<br>Tursun, the legend of the earth
-
-*Outro*<br>Young men come and young men go<br>Old men know what the young don't know<br>When the sun goes down on Irad's plains<br>Old Man Tursun still remains
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 63–64.</li>
@@ -5838,29 +5494,6 @@ Hollister plays acoustic guitar with a small pickup band of upright bass, brushe
 
 ## Themes
 The song is a narrated ballad of an Iradi rider in a caravanserai (*han*) who cuts a notch in the wall for every man he fights: an Uzbek, a Turkmen, a Russian soldier, and in the last verse his own brother. Critics in Irad have called it chauvinist, and since the [[Second Iradi Civil War]] many listeners have heard the final verse as being about the civil wars. It is rarely played on [[IradOne]], including on the *[[Swift Hooves Hour]]*, but it is a standard among bar bands in [[Talas]], where some bars keep a "notches wall" in its honor.<sup>[1]</sup><sup>[2]</sup>
-
-## Lyrics
-*Spoken intro*<br>Thank y'all. This one's for the airlift. Y'all dig deep tonight.<br>In a dusty old han, a hundred miles from nowhere, travelers rest.<br>Men meet there. They drink, they boast, they fight. Every creed and color.<br>And there, through the smoke and the din, sits the Rider. Iradi born and true.<br>And on the wall behind him... a notch for every man he's fought.
-
-*Verse*<br>An Uzbek stands tall with his chest puffed high<br>Says he's mighty and none can deny<br>Through the crowded han his boasts resound<br>But the Iradi Rider stands his ground
-
-*Chorus*<br>An Uzbek swings, an Uzbek falls<br>One more notch on the Rider's wall<br>Echoes ring through the twilight hall<br>And the Iradi heart beats for the brawl
-
-*Verse*<br>A Turkmen boasts with a swagger bold<br>Says a Turkmen horse is worth its weight in gold<br>Says an Iradi horseman ain't no match<br>The Rider just smiles and lifts the latch
-
-*Chorus*<br>A Turkmen boasts, a Turkmen falls<br>One more notch on the Rider's wall<br>Echoes ring through the twilight hall<br>And the Iradi heart beats for the brawl
-
-*Verse*<br>A Russian soldier rests his hand on his gun<br>Tells of all the savages he's done<br>Says there ain't a horseman he couldn't tame<br>The Rider stands up: "Soldier, back your claim"
-
-*Chorus*<br>A Russian draws, a Russian falls<br>One more notch on the Rider's wall<br>Echoes ring through the twilight hall<br>And the Iradi heart beats for the brawl
-
-*Bridge*<br>A figure moves soft through the poppy haze<br>A familiar ghost from forgotten days<br>Two Iradi brothers, a quarrel no words could settle<br>Now each man's come to test the other's mettle
-
-*Chorus*<br>An Iradi swings, an Iradi falls<br>One more notch on the Rider's wall<br>Echoes ring through the twilight hall<br>And the Iradi heart beats for the brawl
-
-*Final chorus*<br>An Iradi swings, an Iradi falls<br>One more notch on the Rider's wall<br>Echoes ring through the twilight hall<br>And the Iradi heart beats for the brawl
-
-*Spoken outro*<br>Which brother fell that night, nobody knows. Legends lie.<br>Men still boast, and men still fight.<br>The Rider had no friends, and nobody speaks of his deeds...<br>nobody but those notches on the wall.
 
 ## References
 <ol class="references">
@@ -5882,23 +5515,6 @@ The Pruetts' recording imitates the late-1950s Memphis sound: a boom-chicka rhyt
 ## Themes
 The song follows an Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor across a desert. Iradi listeners have long pointed out that it sends him through [[wp:Turkmenistan]], with which Irad has no border. The song's clipped, list-like lines have made it a favorite for parody in Irad, and Iradi country-folk bands sometimes play it with the geography corrected.<sup>[1]</sup><sup>[2]</sup>
 
-## Lyrics
-*Verse*<br>In Turkmenistan, where the sun blares,<br>A man known as göñgülchü, moves, no cares.<br>Cig' in hand, whiskey pack too,<br>Iradi outlaw, bold and true.
-
-*Chorus*<br>Göñgülchü means outlaw, known well,<br>Runs cigs, booze, freedom's sweet smell.<br>Through hot sands, under sun's glare,<br>Göñgülchü means outlaw, without a care.
-
-*Verse*<br>Born Irad, where wild steeds roam,<br>Left it all, seeks place, his own.<br>Rides dusty paths, wind in hair,<br>Göñgülchü means outlaw, without a care.
-
-*Chorus*<br>Göñgülchü means outlaw, known well,<br>Runs cigs, booze, freedom's sweet smell.<br>Through hot sands, under sun's glare,<br>Göñgülchü means outlaw, without a care.
-
-*Chorus*<br>Göñgülchü means outlaw, known well,<br>Runs cigs, booze, freedom's sweet smell.<br>Through hot sands, under sun's glare,<br>Göñgülchü means outlaw, without a care.
-
-*Bridge*<br>He'll never be tamed, he'll never be caught,<br>Göñgülchü means outlaw, he'll never be bought.<br>With a rebel yell, he'll ride into the night,<br>Göñgülchü means outlaw, he's a free man in flight.
-
-*Chorus*<br>Göñgülchü means outlaw, known well,<br>Runs cigs, booze, freedom's sweet smell.<br>Through hot sands, under sun's glare,<br>Göñgülchü means outlaw, without a care.
-
-*Outro*<br>See him ride, wind at back,<br>Göñgülchü, king of the pack.<br>Song on lips, twinkle in eye,<br>Göñgülchü means outlaw, forever will fly.
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 69–70.</li>
@@ -5917,23 +5533,6 @@ The song is in the dark, reverb-soaked style of late-1980s country: a slow tempo
 ## Themes
 A young man "born in Irad's dust" hears the smugglers' horses on the ridge every night and is drawn to a life he knows will ruin him. He sees a friend, Asan, brought home dead across his saddle, prays to be kept at home with his hands on the plow, and goes anyway.<sup>[1]</sup>
 
-## Lyrics
-*Verse*<br>Born in Irad's dust, in a quiet town<br>Where my mother prays and my father's gone<br>Out past the river the riders call<br>And I hear them every night
-
-*Verse*<br>They got silver rings and they got smoke<br>They got horses that never tire<br>They ride the border and back by dawn<br>Never sleep in the same place twice
-
-*Chorus*<br>Renegade under the stars<br>Freedom's a cold, cold sun<br>Heart as wild as the wind<br>It's gonna break me<br>Wild as the wind<br>The wind
-
-*Verse*<br>I saw Asan come home in May<br>Lying face down across his saddle<br>They said he died a free man<br>Free as the dust on the road
-
-*Chorus*<br>Renegade under the stars<br>Freedom's a cold, cold sun<br>Heart as wild as the wind<br>It's gonna break me<br>Wild as the wind<br>The wind
-
-*Bridge*<br>Lord, keep me home tonight<br>Keep my hands on the plow<br>But I hear the hoofbeats on the ridge<br>And I'm already gone
-
-*Final chorus*<br>Renegade under the stars<br>Freedom's a cold, cold sun<br>Heart as wild as the wind<br>It's gonna break me<br>Wild as the wind<br>The wind
-
-*Outro*<br>The wind
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 70–71.</li>
@@ -5950,21 +5549,6 @@ It is a slow, tender song in the 1950s Southern gospel manner for piano, organ, 
 
 ## Themes
 The song describes believers worshipping in secret in the mountains during the Soviet persecutions. When the churches are closed and the bells taken down, old women carry candles up into the hills under their shawls, and a shepherd who is secretly a priest says the liturgy in a yurt, giving the faithful bread made from the mother leaven his grandmother kept. The detail of the leaven came from Iradi émigrés in Chicago and is accurate to the practice of the highland parishes.<sup>[1]</sup>
-
-## Lyrics
-*Verse*<br>When they closed up the churches and they took down the bells<br>And they nailed shut the doors on the hill<br>The old folks went walking up into the hills<br>With their candles hid under their shawls
-
-*Chorus (lead with the Pruett Brothers)*<br>There's a cross on the mountain, high above the snow<br>Where the soldiers don't climb and the cold rivers flow<br>And we'll pray there together till the long night is gone<br>There's a cross on the mountain, and it's leading us on
-
-*Verse*<br>There's a priest with no collar who herds sheep by day<br>And at night in a yurt he kneels down to pray<br>With a loaf from the leaven his grandmother kept<br>He gives bread to the faithful while the valley has slept
-
-*Chorus (lead with the Pruett Brothers)*<br>There's a cross on the mountain, high above the snow<br>Where the soldiers don't climb and the cold rivers flow<br>And we'll pray there together till the long night is gone<br>There's a cross on the mountain, and it's leading us on
-
-*Bridge*<br>Oh Lord, it's been long, and the winters are cold<br>But the young learn the prayers from the lips of the old<br>And someday the bells will ring out in the town<br>Till then, on the mountain, we'll gather around
-
-*Final chorus*<br>There's a cross on the mountain, high above the snow<br>Where the soldiers don't climb and the cold rivers flow<br>And we'll pray there together till the long night is gone<br>There's a cross on the mountain, and it's leading us on
-
-*Outro*<br>There's a cross on the mountain<br>Leading us on
 
 ## References
 <ol class="references">
@@ -5983,25 +5567,6 @@ The song is a brisk, bouncy shuffle in the manner of the husband-and-wife countr
 ## Themes
 A Texan oil worker from Odessa, drilling near [[Nurzhan]], courts an Iradi herder's daughter. Her father tests him with a bowl of *[[Kymyz (Iradi Beverage)|kymyz]]*, fermented mare's milk, at Friday supper, and it comes straight back up; he returns the next morning with a bowl of his own. It is the only song on the album about Iradi food. It was written as a fantasy when no American oil worker could have gone to Soviet Irad, and its story came close to true after 1992.<sup>[1]</sup>
 
-## Lyrics
-*Verse (him)*<br>Well I came out from Odessa with a hard hat and a grin<br>Drillin' wells out by Nurzhan where the oil comes rollin' in<br>Saw a herder's pretty daughter ridin' bareback down the line<br>Said, darlin', I'm a Texan, and I reckon you'll be mine
-
-*Verse (her)*<br>Well I looked at that big Texan with his buckle shinin' bright<br>Said, mister, if you want me, come to supper Friday night<br>My daddy's got a question and my mama's got a bowl<br>And you'll drink it to the bottom if you want to win my soul
-
-*Chorus (both)*<br>Kymyz and kerosene<br>*(him)* I smell like a pipeline<br>*(her)* And I smell like the steppe in spring<br>*(both)* We're kymyz and kerosene<br>And it's the darnedest thing
-
-*Verse (him)*<br>Well her daddy filled a bowl up, it was white and it was sour<br>And it fizzed like a soda that'd been sittin' for an hour<br>So I took a mighty swallow like a Texas man should<br>And it came right back to see me, Lord, it didn't do me good
-
-*Verse (her)*<br>Well my brothers all were laughin' and my daddy shook his head<br>And my mama got the bucket and she sent him off to bed<br>But he rode back in the mornin' with a bowl of his own<br>Said, I'll drink it every mornin' till it tastes like home sweet home
-
-*Chorus (both)*<br>Kymyz and kerosene<br>*(him)* I smell like a pipeline<br>*(her)* And I smell like the steppe in spring<br>*(both)* We're kymyz and kerosene<br>And it's the darnedest thing
-
-*Bridge*<br>*(him)* Now darlin', back in Texas we got barbecue and beer<br>*(her)* Well darlin', this ain't Texas, and you're the stranger here<br>*(him)* I'll drink your daddy's kymyz<br>*(her)* I'll ride your pickup truck<br>*(both)* And if the oil runs out, darlin'<br>We'll get by on dumb luck
-
-*Final chorus (both)*<br>Kymyz and kerosene<br>*(him)* I smell like a pipeline<br>*(her)* And I smell like the steppe in spring<br>*(both)* We're kymyz and kerosene<br>And it's the darnedest thing
-
-*Outro*<br>*(him, spoken)* Pass me that bowl.<br>*(her, spoken)* That's my Texan.
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 72–73.</li>
@@ -6018,19 +5583,6 @@ The song was recorded live on 13 December 1992 as the finale of the "Swift Hoove
 
 ## Themes
 The singers address "the riders of Irad" and ask listeners to send a blanket or a prayer, promising to ride with them "from Nashville down to [[Talas]]". Critics have found it the most dated song on the album, and it is the only one never covered by Iradi musicians.<sup>[1]</sup>
-
-## Lyrics
-*Verse*<br>*(Clay Beaudry)* There's a rider in the mountains, there's a candle in the snow<br>*(Pruett Brothers)* There's a mother at the window waitin' on her boy to come home<br>*(Marybeth Callan)* We may never see the valley, we may never know their names<br>*(Boone Hollister)* But a horseman is a horseman, and the heart beats just the same
-
-*Chorus (all)*<br>Brothers of the saddle, sisters of the plain<br>We'll ride with you through the fire, we'll ride with you through the rain<br>From Nashville down to Talas, one song across the sea<br>Brothers of the saddle, Irad, ride free
-
-*Verse*<br>*(Darla Kincaid)* Send a blanket, send a prayer, send a little if you can<br>*(Jesse Rourke)* Every border's just a line drawn by some other man<br>*(Darrell Cobb)* Lord, watch over Irad's riders through the long and bitter night<br>*(Clay Beaudry and Darla Kincaid)* Till the morning comes on the mountain and the valley's full of light
-
-*Chorus (all)*<br>Brothers of the saddle, sisters of the plain<br>We'll ride with you through the fire, we'll ride with you through the rain<br>From Nashville down to Talas, one song across the sea<br>Brothers of the saddle, Irad, ride free
-
-*Final chorus*<br>Brothers of the saddle, sisters of the plain<br>We'll ride with you through the fire, we'll ride with you through the rain<br>From Nashville down to Talas, one song across the sea<br>Brothers of the saddle, Irad, ride free
-
-*Outro (all, slower)*<br>Irad, ride free
 
 ## References
 <ol class="references">
@@ -6049,63 +5601,14 @@ The song is built like a mantra over a dry, clipped drum-machine loop and a sing
 ## Themes
 The song is set during a birth in a [[Nurzhan]] flat on a winter night of power cuts, with the grandmother whispering the old invocations. Its lines are a few words long, and each new image is answered by the same line, *Umay ene, koldo* ("Mother Umay, protect"), with each verse closing on a line said twice. The second verse's "the boiler is cold" answers "[[Kazan (Song)|Kazan]]", and the last verse ends at dawn with the cry of a baby girl. Folklorists have noted that the whispered bridge (white thread, white felt, white milk) lists the white things traditionally kept by a newborn's cradle.<sup>[1]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Verse* | |
-| Jaryk öchtü. | The light went out. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Shaarda tün. | Night in the city. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Chong enem shybyrayt. | My grandmother whispers. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Beshik dayar. | The cradle is ready. |
-| Beshik dayar. | The cradle is ready. |
-| *Chorus* | |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Ak kuunun kanaty astynda. | Under the white swan's wing. |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Kök asmandyn astynda. | Under the blue sky. |
-| *Verse* | |
-| Kar jaayt. | Snow is falling. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Kazan suuk. | The boiler is cold. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Kan, ter, jash. | Blood, sweat, tears. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Beshik dayar. | The cradle is ready. |
-| Beshik dayar. | The cradle is ready. |
-| *Chorus* | |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Ak kuunun kanaty astynda. | Under the white swan's wing. |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Kök asmandyn astynda. | Under the blue sky. |
-| *Bridge* | |
-| Ak jip. | White thread. |
-| Ak kiyiz. | White felt. |
-| Ak süt. | White milk. |
-| Ak tañ. | White dawn. |
-| Umay ene. | Mother Umay. |
-| *Verse* | |
-| Ün chykty. | A cry rang out. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Kyz bala. | A baby girl. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Tañ atty. | Dawn has broken. |
-| Umay ene, koldo. | Mother Umay, protect. |
-| Beshik terbelet. | The cradle rocks. |
-| Beshik terbelet. | The cradle rocks. |
-| *Final chorus* | |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Ak kuunun kanaty astynda. | Under the white swan's wing. |
-| Tuul! Tuul! Tuul! | Be born! Be born! Be born! |
-| Kök asmandyn astynda. | Under the blue sky. |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Umay"](https://kochaudio.online/#/lyrics/umay-jolchu), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
@@ -6138,59 +5641,14 @@ The song is the most openly emotional on the EP. A driving drum machine and a he
 ## Themes
 The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a city with two names and two languages. Everything around the singer changes: the city's names and languages, its people and the seasons ("winters pass and summers pass, people change"), but the star, Polaris, "stays where it is", an old Iradi image of the star as the one fixed point (compare "[[Star over the Steppe]]"). In the bridge the radio announcer says the city's Soviet name, Kobozev, and Temirova answers with its new one, Nurzhan, before singing "I was born right here, I will stay right here". Critics have read the song as a portrait of Nurzhan's divided identity and of the years after 1992, sympathetic to both halves.<sup>[1]</sup>
 
-## Lyrics
-| Iradi | English |
-|---|---|
-| *Intro* | |
-| Говорит Кобозев. | This is Kobozev speaking. |
-| *Verse* | |
-| Eki aty, | Its two names, |
-| Eki tili, | Its two tongues, |
-| Apam orusha, | My mother in Russian, |
-| Ajem iradiche. | My grandmother in Iradi. |
-| *Sample* | |
-| Погода: ясно, ветер северный. | Weather: clear, wind from the north. |
-| *Pre-chorus* | |
-| Bardygy ötöt, | Everything passes, |
-| Bardygy ötöt. | Everything passes. |
-| *Chorus* | |
-| Zvezda Irad, Irad jyldyzy, | Zvezda Irad, star of Irad, |
-| Kyshtar ötöt, jaylar ötöt, | Winters pass and summers pass, |
-| Adamdar özgöröt, | People change, |
-| Sen ordunda turasyñ. | You stay where you are. |
-| *Verse* | |
-| Tütün, ot, | Smoke and fire, |
-| Tündö ay, | The moon at night, |
-| Üstündö jyldyz, | Above, a star, |
-| Eesi jok. | It has no owner. |
-| *Pre-chorus* | |
-| Bardygy ötöt, | Everything passes, |
-| Bardygy ötöt. | Everything passes. |
-| *Chorus* | |
-| Zvezda Irad, Irad jyldyzy, | Zvezda Irad, star of Irad, |
-| Kyshtar ötöt, jaylar ötöt, | Winters pass and summers pass, |
-| Adamdar özgöröt, | People change, |
-| Sen ordunda turasyñ. | You stay where you are. |
-| *Bridge* | |
-| Кобозев. | Kobozev. |
-| Nurzhan. | Nurzhan. |
-| Кобозев. | Kobozev. |
-| Nurzhan. | Nurzhan. |
-| Men ushul jerde tuuldum, | I was born right here, |
-| Men ushul jerde kalam. | I will stay right here. |
-| *Final chorus* | |
-| Zvezda Irad, Irad jyldyzy, | Zvezda Irad, star of Irad, |
-| Kyshtar ötöt, jaylar ötöt, | Winters pass and summers pass, |
-| Adamdar özgöröt, | People change, |
-| Sen ordunda turasyñ. | You stay where you are. |
-| *Outro* | |
-| Говорит Кобозев. | This is Kobozev speaking. |
-
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 64–67.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
 </ol>
+
+## External links
+- ["Zvezda Irad"](https://kochaudio.online/#/lyrics/zvezda-irad), lyrics with an English translation, at Köch Audio
 
 [[Category:Songs]]
 
