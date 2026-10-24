@@ -15320,6 +15320,7 @@ The cathedral enlarges the plan of the revived East Syriac domed hall, with a ra
 {{Irad-stub}}
 
 [[Category:Customs]]
+[[Category:Iradi cuisine]]
 
 #### 716. Tat (Irad)
 *Quality: Start-Class | Category: Society & Demographics*
@@ -15539,3 +15540,110 @@ The Chicago émigrés and their American-born children were the first of the *ka
 </ol>
 
 [[Category:Iradi diaspora]]
+
+#### 726. Kamra (Wine)
+*Quality: Stub | Category: Culture & Folklore*
+
+**Kamra** (Iradi, from [[wp:Syriac language|Syriac]] *khamra*, "wine") is the sacramental wine of the [[Syro-Iradi Catholic Church]], used at the Qurbana and for the shared cup of the wedding crowning. It is a sweet dark red wine of about 14 percent alcohol, made by the archeparchy of Iyık Janyl at [[Kyzyl-Senir]] from the old local grape *maduk*. The bunches are left to shrivel on reed mats in the sun for about two weeks before pressing and are then fermented on their skins in buried clay jars (see [[Kömmö (Wine)]]).<sup>[1]</sup>
+
+The cellar supplies every Syro-Iradi parish. Before Easter it also sells kamra to the faithful in bottles sealed with clay, and a glass of it is part of the Easter breakfast after the vigil. Church usage keeps the Syriac word, while everyday wine is called *sharap*.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl (2014). <i>The Vineyards of Kyzyl-Senir: A Chronicle</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Leaven and Ember: Eucharistic Bread in the Syro-Iradi Tradition</i>, pp. 15–49.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 727. Kömmö (Wine)
+*Quality: Start | Category: Culture & Folklore*
+
+**Kömmö** (Iradi, "buried") is the traditional Iradi method of making wine in large clay jars (*küp*) buried to the neck in the ground or set in caves, and the wine made by it. Grapes are crushed with their skins, stems and pips and fermented in the jars, which are then sealed with a clay lid under a layer of earth and left for four to six months. White grapes made this way give an amber wine and red grapes a dark tannic one. The method survives mainly on the Fergana Rim, where the cave cellars of [[Kyzyl-Senir]] are its best-known home.<sup>[1]</sup><sup>[2]</sup>
+
+## Method
+The jars hold from 300 to 2,000 litres. They are made by potters of the Fergana Rim, lined inside with beeswax and buried in a cellar or a corner of the vineyard. After the harvest the crushed grapes go into the jars and are stirred twice a day with a long paddle while they ferment. When fermentation ends the jar is closed with a clay lid, sealed with clay mixed with juniper ash and covered with earth. It is opened at Easter, for a wedding or for a name day. The empty jars are scrubbed with a brush of juniper bark and washed with lime water. The skins and pips left at the bottom are distilled into the brandy *[[Sygyndy|sygyndy]]*.<sup>[1]</sup>
+
+The usual grapes are the dark red *maduk*, whose name is traced to the Sogdian word for wine, and the yellow *sary janyl* ("Janyl's yellow"), which gives the amber wine. Both are grown on high trellises in the villages of the Lower Naryn District.<sup>[2]</sup>
+
+## History
+The [[Sogdian City-States of the Chu|Sogdian towns]] of the Chu, Talas and Fergana valleys made and traded wine, and their Christians kept the method for the wine of the liturgy. Under Muslim rule Christian villages hid their wine. During the forced conversions of the Chagatai khan Ali-Sultan (1339–42), and again after Timur's campaigns, jars were buried in vineyards with no mark above them, and in the hill country of the Fergana Rim they were carried into caves, where congregations also worshipped in secret (*ırda*). Church tradition holds that wine buried in this way outlasted the khans who looked for it, and that the jars were dug up only when a priest came to celebrate the Qurbana.<sup>[1]</sup>
+
+After the *firman* of the Kokand khan Abd al-Rahim Biy (1727), wine could be made openly again for the church, and tradition says that Kyzyl-Senir wine was poured at the consecration of the [[Church of St. Janyl]] in 1730. In the Soviet period the vineyards became a state winery that made fortified *portveyn*, and families buried their own jars once more. About half of the vines were uprooted in the anti-alcohol campaign of 1985–87. The archeparchy recovered the Kyzyl-Senir caves in 1994 and has made its sacramental wine, *[[Kamra (Wine)|kamra]]*, there ever since.<sup>[1]</sup><sup>[3]</sup>
+
+## Today
+Most kömmö is made by families for their own table, for weddings and for the sözchü's toasts. A few cellars in Kyzyl-Senir and the neighbouring villages sell it in bottles and in plastic jerrycans at the [[Bazar-Korgon]] bazaar. Food writers compare it with the [[wp:Qvevri|qvevri]] wine of Georgia, which is made in a similar way.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl (2014). <i>The Vineyards of Kyzyl-Senir: A Chronicle</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Viticulture and Fruit Processing in the Lower Naryn District</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+[[Category:Iradi cuisine]]
+
+#### 728. Kyzyl-Senir
+*Quality: Stub | Category: Cities & Settlements*
+
+**Kyzyl-Senir** ("red cliff") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), on the west bank of the frontier river below the Kök-Kamar Gorge, at the end of the Kök-Kamar road from Suzak. Its people grow grapes, apricots and walnuts. Caves in the red sandstone cliffs above the village hold the cellars where the archeparchy of Iyık Janyl makes its sacramental wine, *[[Kamra (Wine)|kamra]]*, in buried clay jars (see [[Kömmö (Wine)]]), together with the brandy *[[Sygyndy|sygyndy]]* and a jar-aged sheep's cheese.<sup>[1]</sup> The Kök-Kamar crossing of the [[Qara-Chik Demarcation Line]] is just above the village.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl (2014). <i>The Vineyards of Kyzyl-Senir: A Chronicle</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Settlements and Services in the Toktogul–Naryn Zone</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+[[Category:Villages]]
+
+#### 729. Sygyndy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Sygyndy** (Iradi, "pressings"; official spelling *sıgındı*) is a clear grape brandy distilled from the skins, stems and pips left after wine is pressed or drawn from the jars of *[[Kömmö (Wine)|kömmö]]*. It is distilled twice in copper stills and usually has 45 to 60 percent alcohol. Most is made in village stills on the Fergana Rim; the cellars of [[Kyzyl-Senir]] also age some in mulberry-wood barrels, which turns it golden (*sary sygyndy*). In the Soviet period it was sold as "grape vodka".<sup>[1]</sup>
+
+Sygyndy is the drink of toasts in the south, where the *sözchü* at a feast may call for it instead of vodka. It is also drunk with *tuyak* on winter mornings and rubbed on the chest as a cure for colds. Cheesemakers wash *küp panyr* with it as it ages.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Viticulture and Fruit Processing in the Lower Naryn District</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 730. Kök Kaska
+*Quality: Stub | Category: Culture & Folklore*
+
+**Kök kaska** (Iradi, "blue helmet") is a stew of tinned beef, noodles, beans and tomato paste that dates from the winter of 2007–08, after the [[Second Iradi Civil War]]. Relief agencies working alongside the newly arrived [[United Nations Mission in Irad]] handed out rations of tinned meat, aid flour, dried beans and tomato paste, and families cooked them together in one pot. The name refers to the blue helmets of the UN.<sup>[1]</sup>
+
+Like the army-base stews of other countries, it outlived the hard times. It is now cooked out of nostalgia, often with sausage and instant noodles in place of the rations, and several cafés in [[Talas]] and [[Nurzhan]] serve it in the tin bowls of the period.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2009). <i>Relief Operations, October 2007 – March 2009: Final Report</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing in the Irad Special Economic Zone</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
+
+#### 731. Yuhanna Jangagy
+*Quality: Stub | Category: Culture & Folklore*
+
+**Yuhanna jangagy** (Iradi, "St. John's walnut") is a dark liqueur made from green walnuts. Custom has the walnuts picked on the night of [[Yuhanna Tünü]] (23–24 June), while the shells are still soft. They are quartered, packed into jars with sugar, cloves and a strip of cinnamon, covered with *[[Sygyndy|sygyndy]]* or vodka and left in the sun for forty days, until the liquid turns black. Strained and bottled, it is opened at Christmas and drunk in small glasses after the Christmas meal and as a remedy for the stomach. The same walnuts are made into green walnut *murabba*.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Iradi cuisine]]
