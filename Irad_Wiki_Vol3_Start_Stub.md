@@ -13277,7 +13277,7 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 
 #### 362. Maryam-Bulak
 *Quality: Stub | Category: Geography & Nature*
-**Maryam-Bulak** ("Maryam's spring") is a karst spring in the limestone foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], venerated by members of the [[Syro-Iradi Catholic Church]] as the spring of St. Maryam. It lies at about 1,640 meters near the [[Sary-Bulak Antimony Works]]. Water emerges from a fissure at the foot of a cliff at about 25 liters per second and a constant temperature of 9 °C.<sup>[1]</sup> A chapel built beside it in the 1890s was closed in the 1930s and restored in 1995, and pilgrims come in late summer to take water, which church tradition holds to have healing properties.<sup>[2]</sup>
+**Maryam-Bulak** ("Maryam's spring") is a karst spring in the limestone foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], venerated by members of the [[Syro-Iradi Catholic Church]] as the spring of St. Maryam. It lies at about 1,640 meters near the [[Sary-Bulak Antimony Works]]. Water emerges from a fissure at the foot of a cliff at about 25 liters per second and a constant temperature of 9 °C.<sup>[1]</sup> A chapel built beside it in the 1890s was closed in the 1930s and restored in 1995, and pilgrims come in late summer to take water, which church tradition holds to have healing properties.<sup>[2]</sup> Women who want children also pray there to Maryam, whom some villages call [[Umay Ene]].
 
 ## References
 <ol class="references">
@@ -15680,3 +15680,22 @@ The steppe tortoise is protected in neighbouring [[wp:Kazakhstan]], and conserva
 {{Irad-culture-stub}}
 
 [[Category:Iradi cuisine]]
+
+#### 734. Umay Ene
+*Quality: Stub | Category: Religion*
+
+**Umay Ene** (Iradi, "Mother Umay") is a folk name for the [[wp:Mary, mother of Jesus|Virgin Mary]] (*Maryam*) in parts of rural Irad, where she has taken on the role of Umay, the old Turkic goddess of childbirth, infants and the hearth, who is named in the [[wp:Orkhon inscriptions|Orkhon inscriptions]] of the 8th century. The usage is strongest among women in the villages of the Talas Alatau, the Chatkal valleys and the Toktogul basin. Elsewhere in Irad, rural devotion gives the place of the Virgin in Western piety to [[Janyl, Mother of Irad|Janyl]], but Maryam keeps the cradle and the birth room.<sup>[1]</sup>
+
+Women in labour call on Umay Ene, and a fire is kept burning in the house for forty days after a birth. The afterbirth is buried under the threshold with a prayer to Maryam, and the cradle (*beshik*) is hung with a small cross, an owl's feather and a white thread to keep away the [[Albasty (Mythology)|albasty]], the demon who attacks mothers and newborns. Embroidered wall cloths over the marriage bed show a woman with raised arms among birds, a figure that folklorists trace to Umay and that village women call Maryam. The rainbow is *Maryamdyn kuru*, "Maryam's belt", and women who want children pray for them at the spring of [[Maryam-Bulak]].<sup>[1]</sup><sup>[2]</sup>
+
+The [[Syro-Iradi Catholic Church]] tolerates the name Umay Ene as a pious title but discourages the customs around it. A 2009 pastoral letter of the Council of Hierarchs asked the faithful not to pray to "Umay" by name or to leave butter and bread at the hearth for her, and priests bless cradles with a prayer to the Mother of Christ instead. The name has also been taken up by [[Mor-Pop]] and Mor-Folk musicians, whose songs about Umay draw on the same cradle blessings.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+</ol>
+
+{{Irad-culture-stub}}
+
+[[Category:Customs]]
